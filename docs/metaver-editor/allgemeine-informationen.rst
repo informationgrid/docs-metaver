@@ -1,0 +1,8 @@
+Allgemeines zum METAVER-Editor
+==========================
+
+Aufbau der Benutzeroberfläche
+------------------------------
+
+Strukturbaum
+------------
