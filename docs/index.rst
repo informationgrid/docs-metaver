@@ -2,6 +2,7 @@
 .. image:: img/portal/logo-metaver.svg
    :width: 300
 
+
 Bedienungsanleiung InGrid Editor / METAVER
 ==========================================
 
