@@ -24,11 +24,5 @@ Allgemeine Hinweise zur Dokumentation... z.B. Erläuterung der 3 Teile.
    metaver-erfassung/bearbeitung-verfahren-adressen
    metaver-erfassung/bearbeitung-verfahren-adressen-strukturbaum
    metaver-erfassung/hilfe-erfassung
-   
-.. toctree::
-   :maxdepth: 2
-   :caption: InGrid - Versionen
-   
-   metaver-administration/ige-metaver_Versionen
 
 
