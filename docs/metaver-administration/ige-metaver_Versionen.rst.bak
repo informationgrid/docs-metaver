@@ -64,12 +64,12 @@ InGrid-Version von Entwicklern für die Installation breitgestellt
         - IGE: Namensnennung 3.0 Deutschland (CC BY 3.0 DE) in Codeliste "Nutzungsbedingungen" aufnehmen 
         - Portal: Umsetzung Verbesserung der Suche in den InGrid Komponenten
 					 
-            - Durch den Boost auf Suchfelder können Ergebnisse abhängig davon, wo der Suchbegriff vorkommt, gewichtet werden. 
-	        - Suche als Such-Phrase - Suche nach Titeln, die Zeichen mit einer Sonderfunktion (z.B. Bindestrich oder Doppelpunkt) innerhalb der Suche beinhalten.
-	        - bessere Durchmischung der Ergebnisse aus verschiedenen Quellen
-			- Ersetzen des Analyzers
-	             - Hierdurch werden auch Wortteile gefunden, die durch die bisherige Worttrennung nicht erfasst wurden.
-	             - Wortteile am Anfang des Wortes können stärker gewichtet werden als Wortteile, die im Wort enthalten sind.
+           - Durch den Boost auf Suchfelder können Ergebnisse abhängig davon, wo der Suchbegriff vorkommt, gewichtet werden. 
+	       - Suche als Such-Phrase - Suche nach Titeln, die Zeichen mit einer Sonderfunktion (z.B. Bindestrich oder Doppelpunkt) innerhalb der Suche beinhalten.
+	       - bessere Durchmischung der Ergebnisse aus verschiedenen Quellen
+		   - Ersetzen des Analyzers
+	            - Hierdurch werden auch Wortteile gefunden, die durch die bisherige Worttrennung nicht erfasst wurden.
+	            - Wortteile am Anfang des Wortes können stärker gewichtet werden als Wortteile, die im Wort enthalten sind.
 			
 
     Version: 5.9.2 (11.10.2021)

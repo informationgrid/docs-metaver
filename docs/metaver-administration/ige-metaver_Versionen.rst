@@ -61,10 +61,11 @@ InGrid-Version von Entwicklern für die Installation breitgestellt
    
         - IGE: Anpassung der Zeitbezüge in “Durch die Ressource abgedeckte Zeitspanne”
         - IGE: Extern-gekoppelte Datensätze werden regelmäßig analysiert
-        - IGE: Namensnennung 3.0 Deutschland (CC BY 3.0 DE) in Codeliste "Nutzungsbedingungen" aufnehmen 
+        - IGE: Namensnennung 3.0 Deutschland (CC BY 3.0 DE) in Codeliste "Nutzungsbedingungen" aufnehmen
+		
         - Portal: Umsetzung Verbesserung der Suche in den InGrid Komponenten
 					 
-           - Durch den Boost auf Suchfelder können Ergebnisse abhängig davon, wo der Suchbegriff vorkommt, gewichtet werden. 
+           - Durch den Boost auf Suchfelder können Ergebnisse abhängig davon, wo der Suchbegriff vorkommt, gewichtet werden.
 	       - Suche als Such-Phrase - Suche nach Titeln, die Zeichen mit einer Sonderfunktion (z.B. Bindestrich oder Doppelpunkt) innerhalb der Suche beinhalten.
 	       - bessere Durchmischung der Ergebnisse aus verschiedenen Quellen
 		   - Ersetzen des Analyzers
