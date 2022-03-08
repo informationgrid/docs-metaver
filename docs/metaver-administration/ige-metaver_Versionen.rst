@@ -64,6 +64,7 @@ InGrid-Version von Entwicklern für die Installation breitgestellt
         - Portal: Umsetzung Verbesserung der Suche in den InGrid Komponenten
 		
             - Ersetzen des Analyzers
+			
 	             - Hierdurch werden auch Wortteile gefunden, die durch die bisherige Worttrennung nicht erfasst wurden.
 	             - Wortteile am Anfang des Wortes können stärker gewichtet werden als Wortteile, die im Wort enthalten sind.
 				 
