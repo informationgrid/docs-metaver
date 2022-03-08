@@ -68,6 +68,7 @@ InGrid-Version von Entwicklern für die Installation breitgestellt
            - Durch den Boost auf Suchfelder können Ergebnisse abhängig davon, wo der Suchbegriff vorkommt, gewichtet werden.
 	       - Suche als Such-Phrase - Suche nach Titeln, die Zeichen mit einer Sonderfunktion (z.B. Bindestrich oder Doppelpunkt) innerhalb der Suche beinhalten.
 	       - bessere Durchmischung der Ergebnisse aus verschiedenen Quellen
+		   
 		   - Ersetzen des Analyzers
 	            - Hierdurch werden auch Wortteile gefunden, die durch die bisherige Worttrennung nicht erfasst wurden.
 	            - Wortteile am Anfang des Wortes können stärker gewichtet werden als Wortteile, die im Wort enthalten sind.
