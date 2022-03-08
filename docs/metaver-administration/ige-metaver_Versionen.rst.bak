@@ -35,6 +35,7 @@ InGrid-Version von Entwicklern für die Installation breitgestellt
      - IGE: Manuelle Erfassung der Regionalschlüssel in den Raumbezügen
      - IGE/Portal: Leaflet - Karte Raumbezüge - Austausch OSM Karte gegen TopPlusOpen Light grau
      - Mapclient: Standard Hintergrundkarte: TopPlusOpen Light grau, Auswahl: TopPlusOpen Light grau, TopPlusOpen Light farbig, TopPlusOpen grau, TopPlusOpen farbig, Webatlas grau, Webatlas farbig
+	 
 
     Version: 5.11.2 (18.02.2022)
    
@@ -53,6 +54,7 @@ InGrid-Version von Entwicklern für die Installation breitgestellt
 
 
     Version: 5.10.1.2 (13.12.2021)
+	
          - Mapclient: Import von geschützten Diensten
 
     Version: 5.10 (21.10.2021)
@@ -71,6 +73,7 @@ InGrid-Version von Entwicklern für die Installation breitgestellt
             - Durch den Boost auf Suchfelder können Ergebnisse abhängig davon, wo der Suchbegriff vorkommt, gewichtet werden. 
 	        - Suche als Such-Phrase - Suche nach Titeln, die Zeichen mit einer Sonderfunktion (z.B. Bindestrich oder Doppelpunkt) innerhalb der Suche beinhalten.
 	        - bessere Durchmischung der Ergebnisse aus verschiedenen Quellen
+			
 
     Version: 5.9.2 (11.10.2021)
    
@@ -87,6 +90,7 @@ InGrid-Version von Entwicklern für die Installation breitgestellt
      - IGE: Neue Opendata-Lizenzen für die Codeliste "Nutzungsbedingungen"
      - IGE: Vorschaugrafiken können im IGE abgelegt und verwaltet werden
      - IGE: Tabelle für Vorschaugrafiken eingefügt
+	 
 
     Version: 5.8.1  (26.05.2021)
    
@@ -95,11 +99,13 @@ InGrid-Version von Entwicklern für die Installation breitgestellt
      - IGE: Validierung GML+Version für INSPIRE-relevante Datensätze entfernen
      - IGE: Erfassung von Metadaten in English
      - Portal: Anpassung des Kontaktformulars für das Ticketsystem Zammad
+	 
  
     Version: 5.7 (09.02.2021)
    
      - IGE: Abgabe von gekoppelten Daten über den Dienste-Datensatz, wenn Kopplung über Kataloggrenzen hinweg erfolgt
      - IGE: Anpassung der Codeliste “Provider”
+	 
    
     Version: 5.6.4 (05.12.2020) 
    
@@ -111,6 +117,7 @@ InGrid-Version von Entwicklern für die Installation breitgestellt
      - IGE: Feld “Datengrundlage” in mehrzeiliges Feld ändern
      - Portal: Darstellung von InGrid Editor-Ordnern in der Datenkatalogansicht
      - Portal: Umbenennung des Änderungsdatums in der Portaldarstellung
+	 
    
     Version: 5.5.1 (29.09.2020)
    
