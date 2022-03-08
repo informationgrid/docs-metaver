@@ -50,19 +50,19 @@ InGrid-Version von Entwicklern für die Installation breitgestellt
      - Mapclient: Geschützte Dienste können über die bestehende Import-Funktion des Mapclients hinzugefügt werden (gilt für WMS, WMTS, KML und GPX). 
 
    - Version: 5.10.1.2 (13.12.2021)
-     - Mapclient: Import von geschützten Diensten
+        - Mapclient: Import von geschützten Diensten
 
    - Version: 5.10 (21.10.2021)
-     - IGE: Anpassung der Zeitbezüge in “Durch die Ressource abgedeckte Zeitspanne”
-     - IGE: Extern-gekoppelte Datensätze werden regelmäßig analysiert
-     - IGE: Namensnennung 3.0 Deutschland (CC BY 3.0 DE) in Codeliste "Nutzungsbedingungen" aufnehmen 
-     - Portal: Umsetzung Verbesserung der Suche in den InGrid Komponenten
-       - Ersetzen des Analyzers
-	     - Hierdurch werden auch Wortteile gefunden, die durch die bisherige Worttrennung nicht erfasst wurden.
-	     - Wortteile am Anfang des Wortes können stärker gewichtet werden als Wortteile, die im Wort enthalten sind.
-       - Durch den Boost auf Suchfelder können Ergebnisse abhängig davon, wo der Suchbegriff vorkommt, gewichtet werden. 
-	   - Suche als Such-Phrase - Suche nach Titeln, die Zeichen mit einer Sonderfunktion (z.B. Bindestrich oder Doppelpunkt) innerhalb der Suche beinhalten.
-	   - bessere Durchmischung der Ergebnisse aus verschiedenen Quellen
+       - IGE: Anpassung der Zeitbezüge in “Durch die Ressource abgedeckte Zeitspanne”
+       - IGE: Extern-gekoppelte Datensätze werden regelmäßig analysiert
+       - IGE: Namensnennung 3.0 Deutschland (CC BY 3.0 DE) in Codeliste "Nutzungsbedingungen" aufnehmen 
+       - Portal: Umsetzung Verbesserung der Suche in den InGrid Komponenten
+         - Ersetzen des Analyzers
+	         - Hierdurch werden auch Wortteile gefunden, die durch die bisherige Worttrennung nicht erfasst wurden.
+	         - Wortteile am Anfang des Wortes können stärker gewichtet werden als Wortteile, die im Wort enthalten sind.
+         - Durch den Boost auf Suchfelder können Ergebnisse abhängig davon, wo der Suchbegriff vorkommt, gewichtet werden. 
+	     - Suche als Such-Phrase - Suche nach Titeln, die Zeichen mit einer Sonderfunktion (z.B. Bindestrich oder Doppelpunkt) innerhalb der Suche beinhalten.
+	     - bessere Durchmischung der Ergebnisse aus verschiedenen Quellen
 
    - Version: 5.9.2 (11.10.2021)
      - Portal: ReDesign MetaVer
