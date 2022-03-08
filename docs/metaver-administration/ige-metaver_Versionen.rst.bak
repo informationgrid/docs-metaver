@@ -41,12 +41,12 @@ Version: 5.11.2 (18.02.2022)
    
     - IGE: Feld Kurzbezeichnung unter die Tabelle Vorschaugrafik verschoben
     - IGE: Umgang mit WKT-Geometrien (Well known text) verbessert - Konvertierung WKT - GML
-    - IGE: Feld “Fachliche Grundlage” - Label, Hilfetext und Verpflichtung überarbeiten
-    - IGE: Angabe in XML-Element “geographicIdentifier” (Raumbezug) - differenzierter befüllen
+    - IGE: Feld "Fachliche Grundlage" - Label, Hilfetext und Verpflichtung überarbeiten
+    - IGE: Angabe in XML-Element "geographicIdentifier" (Raumbezug) - differenzierter befüllen
     - IGE: Erweiterung der Liste der Referenzsysteme (EPSG 4327)
     - IGE: Anpassung der OpenData Kategorien an den GovData Standard
     - IGE: CodeListService um Getter für CodeListEntry ergänzt
-    - Portal: Anpassung der Zeitbezüge in “Durch die Ressource abgedeckte Zeitspanne”
+    - Portal: Anpassung der Zeitbezüge in "Durch die Ressource abgedeckte Zeitspanne"
     - Portal: Verweise auf externe Webseiten in einen neuen Tab öffnen
     - Portal: Button Karte - Karte in einen neuen Tab öffnen
     - Mapclient: Erweiterung der Druckfunktion mit der Auswahl DPI
@@ -59,7 +59,7 @@ Version: 5.10.1.2 (13.12.2021)
 
 Version: 5.10 (21.10.2021)
    
-    - IGE: Anpassung der Zeitbezüge in “Durch die Ressource abgedeckte Zeitspanne”
+    - IGE: Anpassung der Zeitbezüge in "Durch die Ressource abgedeckte Zeitspanne"
     - IGE: Extern-gekoppelte Datensätze werden regelmäßig analysiert
     - IGE: Namensnennung 3.0 Deutschland (CC BY 3.0 DE) in Codeliste "Nutzungsbedingungen" aufnehmen
 		
@@ -106,12 +106,12 @@ Version: 5.7 (09.02.2021)
    
 Version: 5.6.4 (05.12.2020) 
    
-    - IGE: Erweiterung der Codlist "Nutzungsbedingungen" (Lizenzen) um den Eintrag “Nutzung der Daten nur nach Rücksprache mit dem Dateneigentümer”
+    - IGE: Erweiterung der Codlist "Nutzungsbedingungen" (Lizenzen) um den Eintrag "Nutzung der Daten nur nach Rücksprache mit dem Dateneigentümer"
     - IGE: Qualitätsangaben erweitern - neue MD-Felder
     - IGE: Maßstabsangabe für Objektart Dienst im Katalog ausgeben
     - IGE: Capabilities Assistent soll WFS Capabilities nach Spezifikation 2.0.2 verarbeiten können
-    - IGE: Verhalten der Checkbox “OpenData” - nur wenn Checkbox "INSPIRE-relevant" aktiviert, dann das Feld Zugriffsbeschränkungen automatisch mit "Es gelten keine Zugriffsbeschränkungen" befüllen
-    - IGE: Feld “Datengrundlage” in mehrzeiliges Feld ändern
+    - IGE: Verhalten der Checkbox "OpenData" - nur wenn Checkbox "INSPIRE-relevant" aktiviert, dann das Feld Zugriffsbeschränkungen automatisch mit "Es gelten keine Zugriffsbeschränkungen" befüllen
+    - IGE: Feld "Datengrundlage" in mehrzeiliges Feld ändern
     - Portal: Darstellung von InGrid Editor-Ordnern in der Datenkatalogansicht
     - Portal: Umbenennung des Änderungsdatums in der Portaldarstellung
 	 
