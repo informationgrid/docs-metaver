@@ -55,6 +55,6 @@ Allgemeine Hinweise zur Dokumentation... z.B. Erläuterung der 3 Teile.
    :maxdepth: 2
    :caption: InGrid - Versionen
    
-   metaver-administration/ige-metaver_Versionen
+   metaver-allgemeines/ige-metaver_Versionen
 
 
