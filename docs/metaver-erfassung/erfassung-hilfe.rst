@@ -1,2 +1,3 @@
-Hilfe für die Erfassung
-========================
+
+Hilfe für die Erfassung von Metadaten
+=====================================
