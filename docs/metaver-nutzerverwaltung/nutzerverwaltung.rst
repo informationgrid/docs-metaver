@@ -6,20 +6,16 @@ InGrid Editor (IGE) - Nutzerverwaltung
 Konzept der Nutzerverwaltung des IGE
 -------------------------------------
 
+- Rollen in der Nutzerverwaltung
 
-
-Rollen in der Nutzerverwaltung
-------------------------------
-
-
-
-Gruppen in der Nutzerverwaltung
--------------------------------
-
+- Gruppen in der Nutzerverwaltung
 
 
 Neuanlegen eines IGE-Nutzers
 ----------------------------
+
+Löschen eines IGE Nutzers
+-------------------------
 
 
 
