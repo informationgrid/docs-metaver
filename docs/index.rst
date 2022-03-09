@@ -11,7 +11,6 @@ Version der Bedienungsanleitung
    - letzte Änderung: 09.03.2022
    - Status: in Bearbeitung
 
-Allgemeine Hinweise zur Dokumentation... z.B. Erläuterung der 3 Teile.
 
 .. toctree::
    :maxdepth: 2
