@@ -14,7 +14,7 @@ Version der Bedienungsanleitung
 
 .. toctree::
    :maxdepth: 2
-   :caption: METAVER Allgemeines
+   :caption: Allgemeines
 
    metaver-allgemeines/allgemeine-informationen
 
@@ -30,9 +30,9 @@ Version der Bedienungsanleitung
    :maxdepth: 2
    :caption: Erfassung von Metadaten
 
+   metaver-erfassung/bearbeitung-adressen-metadaten
    metaver-erfassung/erfassung-metadaten
-   metaver-erfassung/bearbeitung-verfahren-adressen
-   metaver-erfassung/bearbeitung-verfahren-adressen-strukturbaum
+   metaver-erfassung/bearbeitung-adressen-metadaten-strukturbaum
    metaver-erfassung/hilfe-erfassung
    
    

@@ -30,10 +30,10 @@ Version der Bedienungsanleitung
    :maxdepth: 2
    :caption: Erfassung von Metadaten
 
-   metaver-erfassung/erfassung-metadaten
-   metaver-erfassung/bearbeitung-verfahren-adressen
-   metaver-erfassung/bearbeitung-verfahren-adressen-strukturbaum
-   metaver-erfassung/hilfe-erfassung
+   metaver-erfassung/erfassung-adressen-metadaten
+   metaver-erfassung/bearbeitung-adressen-metadaten
+   metaver-erfassung/bearbeitung-adressen-metadaten-strukturbaum
+   metaver-erfassung/erfassung-hilfe
    
    
 .. toctree::
