@@ -3,8 +3,8 @@ InGrid Editor (IGE) - Nutzerverwaltung
 ================================
 
 
-Konzept der Nutzerverwaltung des IGE
--------------------------------------
+Konzept der IGE-Nutzerverwaltung
+--------------------------------
 
 - Rollen in der Nutzerverwaltung
 

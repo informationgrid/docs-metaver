@@ -11,10 +11,10 @@ Konzept der Nutzerverwaltung des IGE
 - Gruppen in der Nutzerverwaltung
 
 
-Neuanlegen eines IGE-Nutzers
+Neuanlegen von IGE-Nutzern
 ----------------------------
 
-Löschen eines IGE Nutzers
+Löschen von IGE-Nutzern
 -------------------------
 
 
