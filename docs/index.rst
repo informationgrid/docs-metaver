@@ -17,8 +17,15 @@ Allgemeine Hinweise zur Dokumentation... z.B. Erläuterung der 3 Teile.
    :maxdepth: 2
    :caption: METAVER Allgemeines
 
-   metaver-editor/allgemeine-informationen
+   metaver-allgemeines/allgemeine-informationen
 
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Der Metadateneditor
+
+   metaver-backend/metaver-editor
+   
 
 .. toctree::
    :maxdepth: 2
@@ -35,6 +42,13 @@ Allgemeine Hinweise zur Dokumentation... z.B. Erläuterung der 3 Teile.
    :caption: METAVER Nutzerverwaltung
 
    metaver-nutzerverwaltung/nutzerverwaltung
+   
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: Glossar
+   
+   metaver-allgemeines/glossar
 
    
 .. toctree::
