@@ -14,7 +14,7 @@ Version der Bedienungsanleitung
 
 .. toctree::
    :maxdepth: 2
-   :caption: METAVER Allgemeines
+   :caption: Allgemeines
 
    metaver-allgemeines/allgemeine-informationen
 
