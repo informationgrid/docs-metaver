@@ -34,7 +34,7 @@ Allgemeine Hinweise zur Dokumentation... z.B. Erläuterung der 3 Teile.
    :maxdepth: 2
    :caption: METAVER Nutzerverwaltung
 
-   metaver-nutzerverwaltung/index
+   metaver-nutzerverwaltung/nutzerverwaltung
 
    
 .. toctree::
