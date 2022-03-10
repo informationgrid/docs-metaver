@@ -27,7 +27,7 @@ Version der Bedienungsanleitung
    
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Erfassung von Metadaten
 
    metaver-erfassung/erfassung-adressen-metadaten
