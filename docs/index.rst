@@ -27,14 +27,23 @@ Version der Bedienungsanleitung
    
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Erfassung von Metadaten
 
    metaver-erfassung/erfassung-adressen-metadaten
    metaver-erfassung/bearbeitung-adressen-metadaten
    metaver-erfassung/bearbeitung-adressen-metadaten-strukturbaum
+
+   metaver-erfassung/metaver-ojektklassen/objektklasse-organisationseinheit
+   metaver-erfassung/metaver-ojektklassen/objektklasse-geodatensatz
+   metaver-erfassung/metaver-ojektklassen/objektklasse-geodatendienst
+   metaver-erfassung/metaver-ojektklassen/objektklasse-anwendung
+   metaver-erfassung/metaver-ojektklassen/objektklasse-dokument
+   metaver-erfassung/metaver-ojektklassen/objektklasse-datenbank
+   metaver-erfassung/metaver-ojektklassen/objektklasse-projekt
+
    metaver-erfassung/erfassung-hilfe
-   
+
    
 .. toctree::
    :maxdepth: 2
@@ -44,14 +53,14 @@ Version der Bedienungsanleitung
    
    
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Glossar
    
    metaver-allgemeines/glossar
 
    
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: InGrid - Versionen
    
    metaver-allgemeines/ige-metaver_Versionen
