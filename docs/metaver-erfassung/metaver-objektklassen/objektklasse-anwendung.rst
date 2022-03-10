@@ -2,4 +2,4 @@
 Objektklasse Anwendung
 ======================
 
-
+Beispielinhalt
