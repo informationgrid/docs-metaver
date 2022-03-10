@@ -1,5 +1,5 @@
 
-METAVER - Editor
+METAVER / InGrid Editor
 ================
 
 
