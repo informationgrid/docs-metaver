@@ -33,7 +33,6 @@ Version der Bedienungsanleitung
    metaver-erfassung/erfassung-adressen-metadaten
    metaver-erfassung/bearbeitung-adressen-metadaten
    metaver-erfassung/bearbeitung-adressen-metadaten-strukturbaum
-
    metaver-erfassung/metaver-ojektklassen/objektklasse-organisationseinheit
    metaver-erfassung/metaver-ojektklassen/objektklasse-geodatensatz
    metaver-erfassung/metaver-ojektklassen/objektklasse-geodatendienst
@@ -41,7 +40,6 @@ Version der Bedienungsanleitung
    metaver-erfassung/metaver-ojektklassen/objektklasse-dokument
    metaver-erfassung/metaver-ojektklassen/objektklasse-datenbank
    metaver-erfassung/metaver-ojektklassen/objektklasse-projekt
-
    metaver-erfassung/erfassung-hilfe
 
    

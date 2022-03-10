@@ -27,7 +27,7 @@ Version der Bedienungsanleitung
    
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :caption: Erfassung von Metadaten
 
    metaver-erfassung/erfassung-adressen-metadaten
@@ -53,14 +53,14 @@ Version der Bedienungsanleitung
    
    
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Glossar
    
    metaver-allgemeines/glossar
 
    
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: InGrid - Versionen
    
    metaver-allgemeines/ige-metaver_Versionen
