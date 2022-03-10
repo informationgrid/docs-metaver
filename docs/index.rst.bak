@@ -53,14 +53,14 @@ Version der Bedienungsanleitung
    
    
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Glossar
    
    metaver-allgemeines/glossar
 
    
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: InGrid - Versionen
    
    metaver-allgemeines/ige-metaver_Versionen
