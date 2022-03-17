@@ -32,9 +32,9 @@ Geodateninfrastruktur
 Geodatendienst
 --------------
 Internet-Dienstleistung für die Darstellung einer digitalen Karte
-• ist ein vernetzbarer, raumbezogener Web-Services
-• macht Geodaten in strukturierter Form zugänglich
-• kann mehrere Kartenlayer enthalten
+  - ist ein vernetzbarer, raumbezogener Web-Services
+  - macht Geodaten in strukturierter Form zugänglich
+  - kann mehrere Kartenlayer enthalten
 
 
 Geodatenressourcen
@@ -88,9 +88,9 @@ Hypertext Markup Language dient der Strukturierung von Texten und Bildern (vorwi
 Identifikator der Datenquelle
 -----------------------------
 Verweis auf eine Geodatenquelle (Ressource)
-• wird manuell bei der Datenerfassung in den Metadatenkatalog eingetragen
-• die Datenquelle (digitale Karte) erhält dadurch eine eindeutige Kennzeichnung
-• die Datenquelle kann in unterschiedlichen Anwendungen eindeutig identifiziert werden
+  - wird manuell bei der Datenerfassung in den Metadatenkatalog eingetragen
+  - die Datenquelle (digitale Karte) erhält dadurch eine eindeutige Kennzeichnung
+  - die Datenquelle kann in unterschiedlichen Anwendungen eindeutig identifiziert werden
 
 Kartenlayer
 -----------
@@ -98,15 +98,15 @@ Kartenschichten (zum Beispiel Straßen oder Gewässer)
 
 ISO-Norm 19115
 --------------
-• legt Standards für die Beschreibung von Geo-Informationen mit Metadaten fest
-• beschreibt den Mindestumfang und die Kategorien von Metadaten
-• unterscheidet zwischen verpflichtenden und optionalen Metadaten
-• beinhaltet Festlegungen für Geo-Datendienste
+  - legt Standards für die Beschreibung von Geo-Informationen mit Metadaten fest
+  - beschreibt den Mindestumfang und die Kategorien von Metadaten
+  - unterscheidet zwischen verpflichtenden und optionalen Metadaten
+  - beinhaltet Festlegungen für Geo-Datendienste
 
 ISO-Norm 19119
 --------------
-• ist ein Standard für Schnittstellen von Geodatendiensten
-• schafft die Voraussetzungen für den Austausch und die Darstellung von Geoinformationen über unterschiedliche Internet-Anwendungen
+  - ist ein Standard für Schnittstellen von Geodatendiensten
+  - schafft die Voraussetzungen für den Austausch und die Darstellung von Geoinformationen über unterschiedliche Internet-Anwendungen
 
 Keyword
 -------
@@ -114,11 +114,11 @@ Schlüsselwort, Schlagwort oder Suchbegriff dient dem gezielten Auffinden von In
 
 OGC - [en] Open Geospatial Consortium
 --------------------------------------
-• ist eine gemeinnützige Organisation
-• Mitglieder: Regierungsorganisationen, private Industrie und Universitäten
-• treibt die Entwicklung von raumbezogener Informationsverarbeitung (insbesondere Geodaten) voran
-• legt allgemeingültige Standards (ISO) zum Zweck der Interoperabilität von Daten fest
-• Ressource - Daten-Quelle (zu beschreibende Daten)
+  - ist eine gemeinnützige Organisation
+  - Mitglieder: Regierungsorganisationen, private Industrie und Universitäten
+  - treibt die Entwicklung von raumbezogener Informationsverarbeitung (insbesondere Geodaten) voran
+  - legt allgemeingültige Standards (ISO) zum Zweck der Interoperabilität von Daten fest
+  - Ressource - Daten-Quelle (zu beschreibende Daten)
 
 Suchoberfläche
 --------------
@@ -140,13 +140,13 @@ Zielgruppe unter den Suchenden.
 UUID - Objekt-ID - [en]
 -----------------------
 Universal Unique IDentifer - ist ein Eindeutiger Identifikator (ID) für den Metadatensatz
-• Die UUID wird automatisch beim Abspeichern durch das Erfassungssystem vergeben.
-• Der Metadatensatz kann in unterschiedlichen Anwendungen eindeutig identifiziert werden.
-• Ein mehrfaches Anzeigen des Metadatensatzes (Dubletten) in Anwendungen, kann vermieden werden.
+  - Die UUID wird automatisch beim Abspeichern durch das Erfassungssystem vergeben.
+  - Der Metadatensatz kann in unterschiedlichen Anwendungen eindeutig identifiziert werden.
+  - Ein mehrfaches Anzeigen des Metadatensatzes (Dubletten) in Anwendungen, kann vermieden werden.
 
 Webservices
 -----------
-Unterstützung zur Zusammenarbeit zwischen verschiedenen Anwendungen
+Unterstützung zur Zusammenarbeit zwischen verschiedenen Anwendungen.
 
 WFS - [en]
 ----------
