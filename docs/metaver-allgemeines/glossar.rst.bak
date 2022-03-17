@@ -1,130 +1,147 @@
 
-InGrid - Versionen
-====================
+Atom - [en]  Atom-Downloadservice - ist ein Dienst zum Herunterladen von Geodaten.
 
-Version der Bedienungsanleitung
-   - InGrid-Version: 5.11.0
-   - letzte Änderung: 07.03.2022
-   - Status: in Bearbeitung
+CSW - Catalogue Service Web (Katalogschnittstelle)
+Bei einer CSW-Schnittstelle handelt es sich um eine standardisiert abfragbare Schnittstelle,
+die Datenbeschreibungen (Metadaten) abgibt. Die Anfrage wird wie auch bei anderen OGC-
+Diensten „Request“, die Antwort „Response“ genannt. Eine Katalogschnittstelle kann auf
+Anfrage benennen, welche Fähigkeiten sie besitzt (GetCapabilities), über wie viele
+Datenbeschreibungen sie verfügt (DescribeRecords) und es können neben weiteren
+Möglichkeiten gezielt bestimmte Datenbeschreibungen unter Angabe des
+Metadatensatzidentifikators abgerufen werden (GetRecordById). Alles in allem ist die
+Kommunikation mit einer CSW-Schnittstelle um ein Vielfaches komplexer als beispielsweise
+die Kommunikation mit einem WMS (WebMapService), der Kartenbilder und
+Sachinformationen ausliefern kann. Aus diesem Grunde ist es sinnvoll, für die
+Kommunikation mit einem CSW eine auf die eigenen Bedürfnisse angepasste zum Beispiel
+webbasierte Suchoberfläche in einem Browser zu verwenden.
 
+Dublette - mehrfach aufgelisteter Datensatz
 
-Installierte InGrid-Version auf test.metaver.de
-   - InGrid-Version: 5.11.0
-   - Update wurde installiert am: 01.02.2022
-   - Datenbestand vom: 25.03.2020
- 
+GDI-LSA - Geodateninfrastruktur im Bundesland Sachsen-Anhalt
 
-Update Version 5.12 auf metaver.de: April/Mai 2022
- 
-Installierte InGrid-Version auf metaver.de
-   - InGrid-Version: 5.9.2.3
-   - Update wurde installiert am: 26.10.2021
- 
-
-InGrid-Version von Entwicklern für die Installation breitgestellt
-   - InGrid-Version: 5.11.0
-   - Release: 01.02.2022
-
- 
-
-**Änderungen in den Versionen**
+Geodatendienst - Internet-Dienstleistung für die Darstellung einer digitalen Karte
+• ist ein vernetzbarer, raumbezogener Web-Services
+• macht Geodaten in strukturierter Form zugänglich
+• kann mehrere Kartenlayer enthalten
 
 
-Version 5.12 (04.2022)
-   
-    - IGE: Manuelle Erfassung der Regionalschlüssel in den Raumbezügen
-    - IGE/Portal: Leaflet - Karte Raumbezüge - Austausch OSM Karte gegen TopPlusOpen Light grau
-    - Mapclient: Standard Hintergrundkarte: TopPlusOpen Light grau, Auswahl: TopPlusOpen Light grau, TopPlusOpen Light farbig, TopPlusOpen grau, TopPlusOpen farbig, Webatlas grau, Webatlas farbig
-	 
+Geodatenressourcen
+Geodatenressourcen werden alle Daten genannt, die man innerhalb einer
+Geodateninfrastruktur als Daten mit räumlichem Bezug (Geodaten) sieht. Üblicherweise
+unterscheidet man zwischen Geodaten (zum Beispiel Shape- oder Tiff-Dateien), Diensten
+(zum Beispiel WMS, WFS, CSW) und Fachinformationssystemen (zum Beispiel Viewer für
+ein spezielles Fachthema). Gelegentlich können aber auch Tabellen oder Listen Merkmale
+aufweisen, die sie für die Nutzung in einer Geodateninfrastruktur qualifizieren. Um allen
+möglichen Datenquellen gerecht zu werden, spricht man im Fachjargon von
+„Geodatenressourcen“. Gleichzeitig zeigt dieser Begriff, dass Geodaten in Ihren
+unterschiedliche Ausprägungen durchaus als „Rohstoff“ zu sehen sind, die es gilt, weiter zu
+nutzen, zu verarbeiten oder zu veredeln.
 
-Version: 5.11.2 (18.02.2022)
-   
-    - IGE: Feld Kurzbezeichnung unter die Tabelle Vorschaugrafik verschoben
-    - IGE: Umgang mit WKT-Geometrien (Well known text) verbessert - Konvertierung WKT - GML
-    - IGE: Feld "Fachliche Grundlage" - Label, Hilfetext und Verpflichtung überarbeiten
-    - IGE: Angabe in XML-Element "geographicIdentifier" (Raumbezug) - differenzierter befüllen
-    - IGE: Erweiterung der Liste der Referenzsysteme (EPSG 4327)
-    - IGE: Anpassung der OpenData Kategorien an den GovData Standard
-    - IGE: CodeListService um Getter für CodeListEntry ergänzt
-    - Portal: Anpassung der Zeitbezüge in "Durch die Ressource abgedeckte Zeitspanne"
-    - Portal: Verweise auf externe Webseiten in einen neuen Tab öffnen
-    - Portal: Button Karte - Karte in einen neuen Tab öffnen
-    - Mapclient: Erweiterung der Druckfunktion mit der Auswahl DPI
-    - Mapclient: Geschützte Dienste können über die bestehende Import-Funktion des Mapclients hinzugefügt werden (gilt für WMS, WMTS, KML und GPX).
+GetCapabilities
+Hierbei wird nach den Fähigkeiten des WMS gefragt. Als Antwort wird ein XML-Dokument an
+den Benutzer zurückgeschickt, das neben allgemeinen Angaben zum Anbieter des WMS die
+unterstützten Ausgabeformate des WMS zu den verschiedenen Anfragen sowie die
+abfragbaren Layer für die Karte beinhaltet.
 
+GetMap
+Diese Anfrage liefert ein georeferenziertes Rasterbild (Karte) vom WMS zurück. Innerhalb
+der Anfrage können u.a. Optionen über die gewünschten Kartenlayer, die gewünschte
+Darstellung der Layer, dem zugrundeliegenden Koordinatensystem, dem Kartenausschnitt,
+der Größe der Kartenausgabe und dem Ausgabeformat gemacht werden.
 
-Version: 5.10.1.2 (13.12.2021)
-	
-    - Mapclient: Import von geschützten Diensten
+GetFeatureInfo (optional)
+Ein WMS kann freiwillig Anfragen zu dem dargestellten Kartenausschnitt beantworten. Als
+Ausgabe liefert er festgelegte thematische Informationen der zugrundeliegenden Daten.
 
-Version: 5.10 (21.10.2021)
-   
-    - IGE: Anpassung der Zeitbezüge in "Durch die Ressource abgedeckte Zeitspanne"
-    - IGE: Extern-gekoppelte Datensätze werden regelmäßig analysiert
-    - IGE: Namensnennung 3.0 Deutschland (CC BY 3.0 DE) in Codeliste "Nutzungsbedingungen" aufnehmen
-    - Portal:
-      
-		**Umsetzung Verbesserung der Suche in den InGrid Komponenten**
-		
-		Durch den Boost auf Suchfelder können Ergebnisse abhängig davon, wo der Suchbegriff vorkommt, gewichtet werden.
-		Suche als Such-Phrase - Suche nach Titeln, die Zeichen mit einer Sonderfunktion (z.B. Bindestrich oder Doppelpunkt) innerhalb der Suche beinhalten.
-		Bessere Durchmischung der Ergebnisse aus verschiedenen Quellen.
-	  
-		**Ersetzen des Analyzers**
-		
-		Hierdurch werden auch Wortteile gefunden, die durch die bisherige Worttrennung nicht erfasst wurden.
-		Wortteile am Anfang des Wortes können stärker gewichtet werden als Wortteile, die im Wort enthalten sind.
-			
+Harvesting (abernten)
+Harvesting wird betrieben, damit Datenbeschreibungen von Geodatenressourcen in
+Suchoberflächen möglichst schnell zur Verfügung stehen.
+Im Rahmen des Harvesting werden Geodatenbeschreibungen (Metadatensätze) von einem
+Metadatenkatalog in einen anderen gezogen. Das Original verbleibt im Original-Katalog und
+wird dort aktualisiert. Durch den Metadatensatzidentifikator (UUID) und das hinterlegte
+Datum der letzten Änderung am Metadatensatz ist sichergestellt, dass der Datensatz nicht
+nur im Original-Katalog sondern auch - zeitversetzt - im harvestenden Katalog aktualisiert
+wird. Metadaten sind damit die einzigen Daten in einer Geodateninfrastruktur, die gezielt
+kopiert werden, um den Nutzern zur Verfügung zu stehen.
+Durch ein Harvesting dürfen Metadaten eines fremden Katalogs niemals abgeändert werden.
+Die meisten derzeit aktiven Kataloge halten sich an diese Vorgabe.
 
-Version: 5.9.2 (11.10.2021)
-   
-    - Portal: ReDesign MetaVer
-    - Portal: Umsetzung der Konzeption der verbesserten Darstellung von Detaildaten im Portal 
-    - Portal: Verbesserung der Barrierefreiheit von metaver.de
-    - Mapclient: Verbesserte Hintergrundkarten für MetaVer - Umstellung von OSM auf TopPlusOpen (BKG)
-    - Mapclient: nach dem Laden eines WMS die Struktur der Layer anzeigen
-    - Mapclient: Komprimierung von weiteren URL Parametern beim Aufruf von WMS Karten mit vielen Layern
-    - Mapclient: Beim Hinzufügen eines Kartendienstes aus der Suche oder Detaildarstellung können die Layer jetzt interaktiv gewählt werden 
-    - Mapclient: Per Button-Klick können alle Layer hinzugefügt werden
-    - Mapclient: Einzelne Layer können direkt mittels ihres Identifiers hinzugefügt werden (ohne vorherige Auswahl)
-    - Mapclient: alle geladene Layer deaktiviren / alle geladenen Layer löschen    
-    - IGE: Neue Opendata-Lizenzen für die Codeliste "Nutzungsbedingungen"
-    - IGE: Vorschaugrafiken können im IGE abgelegt und verwaltet werden
-    - IGE: Tabelle für Vorschaugrafiken eingefügt
-	 
+HTML - [en] Hypertext Markup Language
+dient der Strukturierung von Texten und Bildern (vorwiegend im Intranet/Internet)
 
-Version: 5.8.1  (26.05.2021)
-   
-    - IGE: WCS-Dienst mit GetCapabilities-Assistent erfassen
-    - IGE: Zusätzlicher Wert in Codeliste “Datenformat - Name” (GeoTIFF)
-    - IGE: Validierung GML+Version für INSPIRE-relevante Datensätze entfernen
-    - IGE: Erfassung von Metadaten in English
-    - Portal: Anpassung des Kontaktformulars für das Ticketsystem Zammad
-	 
- 
-Version: 5.7 (09.02.2021)
-   
-    - IGE: Abgabe von gekoppelten Daten über den Dienste-Datensatz, wenn Kopplung über Kataloggrenzen hinweg erfolgt
-    - IGE: Anpassung der Codeliste “Provider”
-	 
-   
-Version: 5.6.4 (05.12.2020) 
-   
-    - IGE: Erweiterung der Codlist "Nutzungsbedingungen" (Lizenzen) um den Eintrag "Nutzung der Daten nur nach Rücksprache mit dem Dateneigentümer"
-    - IGE: Qualitätsangaben erweitern - neue MD-Felder
-    - IGE: Maßstabsangabe für Objektart Dienst im Katalog ausgeben
-    - IGE: Capabilities Assistent soll WFS Capabilities nach Spezifikation 2.0.2 verarbeiten können
-    - IGE: Verhalten der Checkbox "OpenData" - nur wenn Checkbox "INSPIRE-relevant" aktiviert, dann das Feld Zugriffsbeschränkungen automatisch mit "Es gelten keine Zugriffsbeschränkungen" befüllen
-    - IGE: Feld "Datengrundlage" in mehrzeiliges Feld ändern
-    - Portal: Darstellung von InGrid Editor-Ordnern in der Datenkatalogansicht
-    - Portal: Umbenennung des Änderungsdatums in der Portaldarstellung
-	 
-   
-Version: 5.5.1 (29.09.2020)
-   
-    - Portal: Darstellung von mehreren Vorschaugrafiken
-    - Mapclient: Erweiterung Import von WMTS mit GetFeatureInfo-Funktion
+Identifikator der Datenquelle
+Verweis auf eine Geo-Datenquelle (Ressource)
+• wird manuell bei der Datenerfassung in den Metadatenkatalog eingetragen
+• die Datenquelle (digitale Karte) erhält dadurch eine eindeutige Kennzeichnung
+• die Datenquelle kann in unterschiedlichen Anwendungen eindeutig identifiziert werden
 
+Kartenlayer
+Kartenschichten (zum Beispiel Straßen oder Gewässer)
+
+ISO-Norm 19115
+• legt Standards für die Beschreibung von Geo-Informationen mit Metadaten fest
+• beschreibt den Mindestumfang und die Kategorien von Metadaten
+• unterscheidet zwischen verpflichtenden und optionalen Metadaten
+• beinhaltet Festlegungen für Geo-Datendienste
+
+ISO-Norm 19119
+• ist ein Standard für Schnittstellen von Geo-Datendiensten
+• schafft die Voraussetzungen für den Austausch und die Darstellung von Geoinformationen über unterschiedliche Internet-Anwendungen
+
+Keyword
+Schlüsselwort, Schlagwort, Suchbegriff ([en] Tag) dient dem gezielten Auffinden von Informationen über die Suche
+
+OGC - [en] Open Geospatial Consortium
+• ist eine gemeinnützige Organisation
+• Mitglieder: Regierungsorganisationen, private Industrie und Universitäten
+• treibt die Entwicklung von raumbezogener Informationsverarbeitung (insbesondere Geodaten) voran
+• legt allgemeingültige Standards (ISO) zum Zweck der Interoperabilität von Daten fest
+• Ressource - Daten-Quelle (zu beschreibende Daten)
+
+Suchoberfläche
+Unter Suchoberfläche wird in diesem Leitfaden eine Anwendung verstanden, die die
+technischen Requests (Anfragen) an die CSW-Schnittstelle schickt und die Responses
+(Antworten) in Empfang nimmt. Einerseits kann ein Suchender über die Suchoberfläche
+bestimmte Dinge auswählen (zum Beispiel Schlagwörter) oder eingeben (Suchbegriffe) und
+die Suche auslösen. Die Suche schickt daraufhin die technische Anfrage an den oder die
+angeschlossenen CSW-Schnittstellen und erhält eine Antwort. Im Idealfall sind in der Antwort
+diejenigen Datenbeschreibungen aufgelistet, die der Suchanfrage entsprechen. Diese
+werden dann dem Nutzer über eine Oberfläche in angemessener Form präsentiert. Üblich
+ist, dass eine solche Suchoberfläche beispielsweise URLs als anklickbare Hyperlinks
+interpretiert, denn die meisten Suchoberflächen sind Browseranwendungen. Denkbar ist
+aber auch eine Suchoberfläche, die zum Beispiel direkt in einem Geoinformationssystem
+implementiert ist. Suchoberflächen richten sich stets nach den Bedürfnissen der jeweiligen
+Zielgruppe unter den Suchenden.
+
+Suchende
+Der Suchende ist der, der Geodatenressourcen ausfindig machen möchte. Hierfür verwendet
+er im Idealfall eine Metadatensuche, die mittels einer Suchoberfläche realisiert wurde. Der
+Grund für eine Suche nach Geodatenressourcen kann vollkommen unterschiedlich motiviert
+sein. Der Suchende kann aufgrund seines Berufs recherchieren oder aber auch als Bürger
+oder für ein von ihm verfolgtes Hobby. Ebenso unterschiedlich wie seine Motivation können
+seine genauen Beweggründe sein, die von einer ersten grundlegenden Information hin bis zu
+einer detaillierten Nachverfolgung eines sehr speziellen Sachverhaltes reichen können. Nicht
+für jeden Suchenden ist jede Suchoberfläche gleichermaßen geeignet, sondern er wird
+diejenige Suchoberfläche wählen, die ihm gestalterisch, inhaltlich und sprachlich am
+nächsten kommt.
+
+UUID - Objekt-ID - [en]
+Universal Unique IDentifer - ist ein Eindeutiger Identifikator (ID) für den Metadatensatz
+• Die UUID wird automatisch beim Abspeichern durch das Erfassungssystem vergeben.
+• Der Metadatensatz kann in unterschiedlichen Anwendungen eindeutig identifiziert werden.
+• Ein mehrfaches Anzeigen des Metadatensatzes (Dubletten) in Anwendungen, kann vermieden werden.
+
+Webservices
+Unterstützung zur Zusammenarbeit zwischen verschiedenen Anwendungen
+
+WFS - [en]
+WebFeatureService - ist ein Dienst zum herunterladen von Geodaten.
+
+WMS - [en]
+WebMapService - ist ein Dienst zum Abrufen von Auszügen aus Landkarten über das Internet.
+
+XML - [en]
+Extensible Markup Language - dient der Beschreibung sowie dem Austausch von komplexen Datenstrukturen
 
  
 

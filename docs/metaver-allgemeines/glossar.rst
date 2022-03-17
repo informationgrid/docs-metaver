@@ -1,4 +1,7 @@
 
+Glossar
+=======
+
 Atom - [en]  Atom-Downloadservice - ist ein Dienst zum Herunterladen von Geodaten.
 
 CSW - Catalogue Service Web (Katalogschnittstelle)
