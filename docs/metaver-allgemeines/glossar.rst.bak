@@ -4,10 +4,12 @@ Glossar
 
 Atom - [en]
 -----------
+
 Atom-Downloadservice - ist ein Dienst zum Herunterladen von Geodaten.
 
 CSW - Catalogue Service Web (Katalogschnittstelle)
 --------------------------------------------------
+
 Bei einer CSW-Schnittstelle handelt es sich um eine standardisiert abfragbare Schnittstelle,
 die Datenbeschreibungen (Metadaten) abgibt. Die Anfrage wird wie auch bei anderen OGC-
 Diensten „Request“, die Antwort „Response“ genannt. Eine Katalogschnittstelle kann auf
@@ -23,6 +25,7 @@ webbasierte Suchoberfläche in einem Browser zu verwenden.
 
 Dublette
 --------
+
 mehrfach aufgelisteter Datensatz
 
 GDI

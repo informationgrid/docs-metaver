@@ -3,7 +3,7 @@ Glossar
 =======
 
 Atom - [en]
------------
+------------
 
 Atom-Downloadservice - ist ein Dienst zum Herunterladen von Geodaten.
 
