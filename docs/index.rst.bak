@@ -48,7 +48,7 @@ Version der Bedienungsanleitung
    :maxdepth: 2
    :caption: Glossar
    
-   metaver-allgemeines/glossar
+   metaver-allgemeines/glossar/index-glossar
 
    
 .. toctree::
