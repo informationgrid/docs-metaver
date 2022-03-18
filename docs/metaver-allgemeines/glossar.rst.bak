@@ -115,8 +115,8 @@ Verweis auf eine Geodatenquelle (Ressource)
   - die Datenquelle kann in unterschiedlichen Anwendungen eindeutig identifiziert werden
 
   
-InGrid
-------
+InGrid - InformationGrid [en] 
+-----------------------------
 InGrid ist eine modular aufgebaute Software, die vielseitig eingesetzt werden kann: Kernkomponenten sind ein Web-Portal,
 eine Suchmaschine, ein Metadatenkatalog mit Profilen für die Erfassung INSPRE-konformer Metadaten, offener Daten und UVP-Vorhaben,
 eine Visualisierungskomponente für OGC Web Map Services, ein Client zur Visualisierung von Zeitreihen sowie diverse An- und Abfrageschnittstellen,
@@ -161,7 +161,9 @@ Je nach gewählter Objektklasse ändert sich die Eingabemaste für die Metadaten
 
 Netz [de]
 ---------
-   - Web [en], Net [en], Grid [en]
+   - Web [en] - Netzwerk/Gespinst z.B. Word Wide Web
+   - Net [en] - Netz/Netzwerk z.B. Internet
+   - Grid [en] - Gitter/Raster z.B. InformationGrid (InGrid)
 
 
 OGC - Open Geospatial Consortium [en]
