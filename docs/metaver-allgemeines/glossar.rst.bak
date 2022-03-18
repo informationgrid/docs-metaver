@@ -89,7 +89,7 @@ Ein WMS kann freiwillig Anfragen zu dem dargestellten Kartenausschnitt beantwort
 Ausgabe liefert er festgelegte thematische Informationen der zugrundeliegenden Daten.
 
 
-Harvesting [en] - ernten [de]
+Harvesting [en] - Abernten
 -----------------------------
 Im Rahmen des Harvestings werden Metadatensätze von einem Metadatenkatalog für einen anderen eingesammelt.
 Das Original verbleibt im Original-Katalog und wird dort aktualisiert.
@@ -152,12 +152,26 @@ Metadaten oder Metainformationen sind strukturierte Daten, die Informationen üb
 Bei den durch Metadaten beschriebenen Daten handelt es sich oft um größere Datensammlungen wie z.B. Geodaten, Datenbanken, Literatur, Projekte, Organisationsstrukturen.
 
 
+Metadatenkatalog
+----------------
+   - ist eine Datenbank, diese beinhaltet Metadaten.
+
+
 Metadatensatz
 -------------
 Ein Medatadensatz beschreibt die eigentlichen Daten(Recource) 
 Metadatensätze können unterschiedliche Objektklassen (-typen) darstellen.
 In METAVER werden die Objektlassen Geodatensatz, Geodatendienst, Anwendung, Datenbank, Dokument, Projekt und Organisationseinheit verwendet.
 Je nach gewählter Objektklasse ändert sich die Eingabemaste für die Metadaten im Editor.
+
+
+METAVER - Metadatenverbund
+--------------------------
+   - Zentraler Zugangspunkt zu Metadaten der Länder: Brandenburg, Bremen, Hamburg, Hessen, Mecklenburg-Vorpommern, Saarland, Sachsen und Sachsen-Anhalt
+   - Software: InGrid
+   - beinhaltet unterschiedliche Metadaten (Umweltdaten und Geodaten)
+   - Ursprung: Umweltverwaltung - Beschreibung von Umweltdaten / Umweltinformationen (Umweltdatenkatalog)
+
 
 Netz [de]
 ---------
@@ -190,6 +204,15 @@ interpretiert, denn die meisten Suchoberflächen sind Browseranwendungen. Denkba
 aber auch eine Suchoberfläche, die zum Beispiel direkt in einem Geoinformationssystem
 implementiert ist. Suchoberflächen richten sich stets nach den Bedürfnissen der jeweiligen
 Zielgruppe unter den Suchenden.
+
+
+Umweltdatenkatalog
+------------------
+   - umweltrelevante Metadaten
+   - Aufbau 1992 als Desktopanwendung
+   - 2006 - 2015 als Browserbasierte Anwendung (Software InGrid) z.B. in Portal-U
+   - ab 2015 Bildung der Länderkooperation METAVER,  Fortführung der Metadaten-/Umweltdatenkataloge
+   - neben Umweltdatenkatalogen in METAVER (Portal-U) existieren auch eigenständige InGrid Intallationen einzelnen Ländern
 
 
 UUID - Universal Unique IDentifer [en]

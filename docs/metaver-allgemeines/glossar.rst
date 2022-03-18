@@ -89,8 +89,8 @@ Ein WMS kann freiwillig Anfragen zu dem dargestellten Kartenausschnitt beantwort
 Ausgabe liefert er festgelegte thematische Informationen der zugrundeliegenden Daten.
 
 
-Harvesting [en] - ernten [de]
------------------------------
+Harvesting [en] - Abernten
+--------------------------
 Im Rahmen des Harvestings werden Metadatensätze von einem Metadatenkatalog für einen anderen eingesammelt.
 Das Original verbleibt im Original-Katalog und wird dort aktualisiert.
 Durch den Metadatensatzidentifikator (UUID) und das hinterlegte
