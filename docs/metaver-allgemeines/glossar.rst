@@ -2,13 +2,16 @@
 Glossar
 =======
 
-Atom - [en]
-------------
+Atom feed - [en]
+----------------
 
 Atom-Downloadservice - ist ein Dienst zum Herunterladen von Geodaten.
+Atom Feed Atom ist ein XML -Format, das von Nutzern verwendet werden kann, um über neue Inhalte einer Website informiert zu werden.
+Nutzer können einen Atom-Feed abonnieren und mithilfe eines entsprechenden Atom-Feed-Readers oder eines Atom Feed Clients (InGrid) neue Inhalte von Websites in Kurzform betrachten,
+und mithilfe des Feeds Dateien als Download anbieten. 
 
-CSW - Catalogue Service Web (Katalogschnittstelle)
---------------------------------------------------
+CSW - Catalogue Service Web [en] - (Katalogschnittstelle)
+---------------------------------------------------------
 
 Bei einer CSW-Schnittstelle handelt es sich um eine standardisiert abfragbare Schnittstelle,
 die Datenbeschreibungen (Metadaten) abgibt. Die Anfrage wird wie auch bei anderen OGC-
@@ -53,30 +56,30 @@ möglichen Datenquellen gerecht zu werden, spricht man im Fachjargon von
 unterschiedliche Ausprägungen durchaus als „Rohstoff“ zu sehen sind, die es gilt, weiter zu
 nutzen, zu verarbeiten oder zu veredeln.
 
-GetCapabilities
----------------
+GetCapabilities [en]
+--------------------
 Hierbei wird nach den Fähigkeiten des WMS gefragt. Als Antwort wird ein XML-Dokument an
 den Benutzer zurückgeschickt, das neben allgemeinen Angaben zum Anbieter des WMS die
 unterstützten Ausgabeformate des WMS zu den verschiedenen Anfragen sowie die
 abfragbaren Layer für die Karte beinhaltet.
 
-GetMap
-------
+GetMap [en]
+-----------
 Diese Anfrage liefert ein georeferenziertes Rasterbild (Karte) vom WMS zurück. Innerhalb
 der Anfrage können u.a. Optionen über die gewünschten Kartenlayer, die gewünschte
 Darstellung der Layer, dem zugrundeliegenden Koordinatensystem, dem Kartenausschnitt,
 der Größe der Kartenausgabe und dem Ausgabeformat gemacht werden.
 
-GetFeatureInfo
---------------
+GetFeatureInfo [en]
+-------------------
 Ein WMS kann freiwillig Anfragen zu dem dargestellten Kartenausschnitt beantworten. Als
 Ausgabe liefert er festgelegte thematische Informationen der zugrundeliegenden Daten.
 
-Harvesting (abernten)
----------------------
-Im Rahmen des Harvesting werden Geodatenbeschreibungen (Metadatensätze) von einem
-Metadatenkatalog in einen anderen gezogen. Das Original verbleibt im Original-Katalog und
-wird dort aktualisiert. Durch den Metadatensatzidentifikator (UUID) und das hinterlegte
+Harvesting [en] - ernten [de]
+-----------------------------
+Im Rahmen des Harvestings werden Metadatensätze von einem Metadatenkatalog für einen anderen eingesammelt.
+Das Original verbleibt im Original-Katalog und wird dort aktualisiert.
+Durch den Metadatensatzidentifikator (UUID) und das hinterlegte
 Datum der letzten Änderung am Metadatensatz ist sichergestellt, dass der Datensatz nicht
 nur im Original-Katalog sondern auch - zeitversetzt - im harvestenden Katalog aktualisiert
 wird. Metadaten sind damit die einzigen Daten in einer Geodateninfrastruktur, die gezielt
@@ -84,9 +87,9 @@ kopiert werden, um den Nutzern zur Verfügung zu stehen.
 Durch ein Harvesting dürfen Metadaten eines fremden Katalogs niemals abgeändert werden.
 Die meisten derzeit aktiven Kataloge halten sich an diese Vorgabe.
 
-HTML - [en] 
------------
-Hypertext Markup Language dient der Strukturierung von Texten und Bildern (vorwiegend im Intranet/Internet).
+HTML - Hypertext Markup Language [en] 
+-------------------------------------
+   - dient der Strukturierung von Texten und Bildern (vorwiegend im Intranet/Internet).
 
 Identifikator der Datenquelle
 -----------------------------
@@ -94,6 +97,13 @@ Verweis auf eine Geodatenquelle (Ressource)
   - wird manuell bei der Datenerfassung in den Metadatenkatalog eingetragen
   - die Datenquelle (digitale Karte) erhält dadurch eine eindeutige Kennzeichnung
   - die Datenquelle kann in unterschiedlichen Anwendungen eindeutig identifiziert werden
+  
+InGrid
+------
+InGrid ist eine modular aufgebaute Software, die vielseitig eingesetzt werden kann: Kernkomponenten sind ein Web-Portal,
+eine Suchmaschine, ein Metadatenkatalog mit Profilen für die Erfassung INSPRE-konformer Metadaten, offener Daten und UVP-Vorhaben,
+eine Visualisierungskomponente für OGC Web Map Services, ein Client zur Visualisierung von Zeitreihen sowie diverse An- und Abfrageschnittstellen,
+die für die Recherche der angeschlossenen Komponenten, aber auch für die Weiterleitung der Ergebnisse an externe Systeme zuständig sind.
 
 Kartenlayer
 -----------
@@ -111,11 +121,11 @@ ISO-Norm 19119
   - ist ein Standard für Schnittstellen von Geodatendiensten
   - schafft die Voraussetzungen für den Austausch und die Darstellung von Geoinformationen über unterschiedliche Internet-Anwendungen
 
-Keyword
--------
+Keyword [en]
+------------
 Schlüsselwort, Schlagwort oder Suchbegriff dient dem gezielten Auffinden von Informationen über die Suche.
 
-OGC - [en] Open Geospatial Consortium
+OGC - Open Geospatial Consortium [en]
 --------------------------------------
   - ist eine gemeinnützige Organisation
   - Mitglieder: Regierungsorganisationen, private Industrie und Universitäten
@@ -140,7 +150,7 @@ implementiert ist. Suchoberflächen richten sich stets nach den Bedürfnissen de
 Zielgruppe unter den Suchenden.
 
 
-UUID - Objekt-ID - [en]
+UUID - Objekt-ID [en]
 -----------------------
 Universal Unique IDentifer - ist ein Eindeutiger Identifikator (ID) für den Metadatensatz
   - Die UUID wird automatisch beim Abspeichern durch das Erfassungssystem vergeben.
@@ -151,17 +161,17 @@ Webservices
 -----------
 Unterstützung zur Zusammenarbeit zwischen verschiedenen Anwendungen.
 
-WFS - [en]
-----------
-WebFeatureService - ist ein Dienst zum herunterladen von Geodaten.
+WFS - WebFeatureService [en]
+----------------------------
+   - ist ein Dienst zum herunterladen von Geodaten.
 
-WMS - [en]
-----------
-WebMapService - ist ein Dienst zum Abrufen von Auszügen aus Landkarten über das Internet.
+WMS - WebMapService [en]
+------------------------
+   - ist ein Dienst zum Abrufen von Auszügen aus Landkarten über das Internet.
 
-XML - [en]
-----------
-Extensible Markup Language - dient der Beschreibung sowie dem Austausch von komplexen Datenstrukturen
+XML - Extensible Markup Language [en]
+-------------------------------------
+   - dient der Beschreibung sowie dem Austausch von komplexen Datenstrukturen
 
  
 
