@@ -216,7 +216,7 @@ Webservices [en]
 
 WFS - WebFeatureService [en] - Downloaddienst
 ----------------------------------------------
-   - ist ein Dienst zum herunterladen von Geodaten.
+   - ist ein Dienst zum herunterladen von Geodaten über das Internet.
 
 
 WMS - WebMapService [en] - Darstellungsdienst
@@ -226,7 +226,7 @@ WMS - WebMapService [en] - Darstellungsdienst
 
 XML - Extensible Markup Language [en] - Erweiterbare Auszeichnungssprache
 -------------------------------------
-   -  ist eine Auszeichnungssprache zur Darstellung hierarchisch strukturierter Daten im Format einer Textdatei, die von Menschen als auch von Maschinen lesbar ist.
+   -  ist eine Auszeichnungssprache zur Darstellung hierarchisch strukturierter Daten im Format einer Textdatei, die von Menschen und von Maschinen lesbar ist.
 
  
 
