@@ -115,8 +115,8 @@ Verweis auf eine Geodatenquelle (Ressource)
   - die Datenquelle kann in unterschiedlichen Anwendungen eindeutig identifiziert werden
 
   
-InGrid
-------
+InGrid - InformationGrid [en] 
+-----------------------------
 InGrid ist eine modular aufgebaute Software, die vielseitig eingesetzt werden kann: Kernkomponenten sind ein Web-Portal,
 eine Suchmaschine, ein Metadatenkatalog mit Profilen für die Erfassung INSPRE-konformer Metadaten, offener Daten und UVP-Vorhaben,
 eine Visualisierungskomponente für OGC Web Map Services, ein Client zur Visualisierung von Zeitreihen sowie diverse An- und Abfrageschnittstellen,
@@ -147,7 +147,7 @@ Schlüsselwort, Schlagwort oder Suchbegriff dient dem gezielten Auffinden von In
 
 
 Metadaten
---------
+---------
 Metadaten oder Metainformationen sind strukturierte Daten, die Informationen über Merkmale anderer Daten enthalten.
 Bei den durch Metadaten beschriebenen Daten handelt es sich oft um größere Datensammlungen wie z.B. Geodaten, Datenbanken, Literatur, Projekte, Organisationsstrukturen.
 
@@ -158,6 +158,12 @@ Ein Medatadensatz beschreibt die eigentlichen Daten(Recource)
 Metadatensätze können unterschiedliche Objektklassen (-typen) darstellen.
 In METAVER werden die Objektlassen Geodatensatz, Geodatendienst, Anwendung, Datenbank, Dokument, Projekt und Organisationseinheit verwendet.
 Je nach gewählter Objektklasse ändert sich die Eingabemaste für die Metadaten im Editor.
+
+Netz [de]
+---------
+   - Web [en] - Netzwerk/Gespinst z.B. Word Wide Web
+   - Net [en] - Netz/Netzwerk z.B. Internet
+   - Grid [en] - Gitter/Raster z.B. InformationGrid (InGrid)
 
 
 OGC - Open Geospatial Consortium [en]
