@@ -209,8 +209,8 @@ Der Unterschied zwischen den beiden UUIDs besteht in der Verwendung von großen 
 Die Objekt-UUID darf nicht die gleiche sein wie die UUID des Identifikators der Datenquelle.
   
 
-Webservices
------------
+Webservices [en]
+----------------
  - ist ein Dienst im Internet für die Zusammenarbeit zwischen verschiedenen Anwendungen.
 
 

@@ -199,8 +199,8 @@ UUID - Universal Unique IDentifer [en]
 z.B. Objekt ID: 430D6C0D-FB79-46BA-AB30-9B248A31C798
   - Die UUID für einen Metadatensatz wird automatisch beim Abspeichern durch das Erfassungssystem vergeben.
   - Der Metadatensatz kann in unterschiedlichen Anwendungen eindeutig identifiziert werden.
-  - Über die Objekt-ID können Metadatensätze mit einander verknüpft werden (Daten-Dienste-Kopplung).
   - Ein mehrfaches Anzeigen des Metadatensatzes (Dubletten) in Anwendungen, kann vermieden werden.
+  - Über die Objekt-ID können Metadatensätze miteinander verknüpft werden (Daten-Dienste-Kopplung).
   
 z.B. Identifikator einer Datenquelle: 2ed0f592-f586-4e78-9df0-1c21047a4757
   - Der Identifikator der Datenquelle wird manuell in einem Geodatensatz vergeben oder erzeugt und dient der Identifikation eines Metadatensatzes aus unterschiedlichen Anwendungen.
