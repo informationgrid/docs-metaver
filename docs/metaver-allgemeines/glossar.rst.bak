@@ -105,9 +105,6 @@ eine Suchmaschine, ein Metadatenkatalog mit Profilen für die Erfassung INSPRE-k
 eine Visualisierungskomponente für OGC Web Map Services, ein Client zur Visualisierung von Zeitreihen sowie diverse An- und Abfrageschnittstellen,
 die für die Recherche der angeschlossenen Komponenten, aber auch für die Weiterleitung der Ergebnisse an externe Systeme zuständig sind.
 
-Kartenlayer
------------
-Kartenschichten (zum Beispiel Straßen oder Gewässer)
 
 ISO-Norm 19115
 --------------
@@ -120,6 +117,10 @@ ISO-Norm 19119
 --------------
   - ist ein Standard für Schnittstellen von Geodatendiensten
   - schafft die Voraussetzungen für den Austausch und die Darstellung von Geoinformationen über unterschiedliche Internet-Anwendungen
+  
+Kartenlayer
+-----------
+Kartenebenen oder -schichten (z.B. eine Ebene mit Straßen, eine Ebene mit Gewässern)
 
 Keyword [en]
 ------------
@@ -150,28 +151,28 @@ implementiert ist. Suchoberflächen richten sich stets nach den Bedürfnissen de
 Zielgruppe unter den Suchenden.
 
 
-UUID - Objekt-ID [en]
+UUID - Universal Unique IDentifer [en]
 -----------------------
-Universal Unique IDentifer - ist ein Eindeutiger Identifikator (ID) für den Metadatensatz
+  - ist ein Eindeutiger Identifikator (ID) für den Metadatensatz (z.B. Objekt ID: 430D6C0D-FB79-46BA-AB30-9B248A31C798, oder der Identifikator einer Datenquelle: 2ed0f592-f586-4e78-9df0-1c21047a4757)
   - Die UUID wird automatisch beim Abspeichern durch das Erfassungssystem vergeben.
   - Der Metadatensatz kann in unterschiedlichen Anwendungen eindeutig identifiziert werden.
   - Ein mehrfaches Anzeigen des Metadatensatzes (Dubletten) in Anwendungen, kann vermieden werden.
 
 Webservices
 -----------
-Unterstützung zur Zusammenarbeit zwischen verschiedenen Anwendungen.
+ - ist ein Dienst im Internet für die Zusammenarbeit zwischen verschiedenen Anwendungen.
 
-WFS - WebFeatureService [en]
-----------------------------
+WFS - WebFeatureService [en] - Downloaddienst
+----------------------------------------------
    - ist ein Dienst zum herunterladen von Geodaten.
 
-WMS - WebMapService [en]
-------------------------
+WMS - WebMapService [en] - Darstellungsdienst
+---------------------------------------------
    - ist ein Dienst zum Abrufen von Auszügen aus Landkarten über das Internet.
 
-XML - Extensible Markup Language [en]
+XML - Extensible Markup Language [en] - Erweiterbare Auszeichnungssprache
 -------------------------------------
-   - dient der Beschreibung sowie dem Austausch von komplexen Datenstrukturen
+   -  ist eine Auszeichnungssprache zur Darstellung hierarchisch strukturierter Daten im Format einer Textdatei, die von Menschen als auch von Maschinen lesbar ist.
 
  
 
