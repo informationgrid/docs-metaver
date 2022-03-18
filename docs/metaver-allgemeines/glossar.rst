@@ -217,7 +217,7 @@ Umweltdatenkatalog
 
 UUID - Universal Unique IDentifer [en]
 --------------------------------------
-  - ist ein Eindeutiger Identifikator (ID) für den Metadatensatz).
+  - ist ein Univrerseller Eindeutiger Identifikator (ID) für den Metadatensatz.
 
 z.B. Objekt ID: 430D6C0D-FB79-46BA-AB30-9B248A31C798
   - Die UUID für einen Metadatensatz wird automatisch beim Abspeichern durch das Erfassungssystem vergeben.
