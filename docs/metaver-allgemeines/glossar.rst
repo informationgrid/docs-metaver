@@ -208,11 +208,11 @@ Zielgruppe unter den Suchenden.
 
 Umweltdatenkatalog
 ------------------
-   - umweltrelevante Metadaten
+   - ist eine Datenbank mit umweltrelevanten Metadaten
    - Aufbau 1992 als Desktopanwendung
    - 2006 - 2015 als Browserbasierte Anwendung (Software InGrid) z.B. in Portal-U
    - ab 2015 Bildung der Länderkooperation METAVER,  Fortführung der Metadaten-/Umweltdatenkataloge
-   - neben Umweltdatenkatalogen in METAVER (Portal-U) existieren auch eigenständige InGrid Intallationen einzelnen Ländern
+   - neben Umweltdatenkatalogen in METAVER (vorher Portal-U) existieren auch eigenständige InGrid Intallationen in einzelnen Ländern
 
 
 UUID - Universal Unique IDentifer [en]

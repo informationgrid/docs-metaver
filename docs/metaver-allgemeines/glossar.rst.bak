@@ -5,7 +5,7 @@ Glossar
 Atom feed - [en]
 ----------------
 Atom-Downloadservice - ist ein Dienst zum Herunterladen von Geodaten.
-Atom Feed Atom ist ein XML -Format, das von Nutzern verwendet werden kann, um über neue Inhalte einer Website informiert zu werden.
+Atom Feed ist ein XML -Format, das von Nutzern verwendet werden kann, um über neue Inhalte einer Website informiert zu werden.
 Nutzer können einen Atom-Feed abonnieren und mithilfe eines entsprechenden Atom-Feed-Readers oder eines Atom Feed Clients (InGrid) neue Inhalte von Websites in Kurzform betrachten,
 und mithilfe des Feeds Dateien als Download anbieten.
 
@@ -208,7 +208,7 @@ Zielgruppe unter den Suchenden.
 
 Umweltdatenkatalog
 ------------------
-   - umweltrelevante Metadaten
+   - ist eine Datenbank mit umweltrelevanten Metadaten
    - Aufbau 1992 als Desktopanwendung
    - 2006 - 2015 als Browserbasierte Anwendung (Software InGrid) z.B. in Portal-U
    - ab 2015 Bildung der Länderkooperation METAVER,  Fortführung der Metadaten-/Umweltdatenkataloge
