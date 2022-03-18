@@ -107,7 +107,7 @@ die für die Recherche der angeschlossenen Komponenten, aber auch für die Weite
 
 Kartenlayer
 -----------
-Kartenschichten (zum Beispiel Straßen oder Gewässer)
+Kartenebenen oder -schichten (zum Beispiel Straßen oder Gewässer)
 
 ISO-Norm 19115
 --------------

@@ -97,6 +97,13 @@ Verweis auf eine Geodatenquelle (Ressource)
   - wird manuell bei der Datenerfassung in den Metadatenkatalog eingetragen
   - die Datenquelle (digitale Karte) erhält dadurch eine eindeutige Kennzeichnung
   - die Datenquelle kann in unterschiedlichen Anwendungen eindeutig identifiziert werden
+  
+InGrid
+------
+InGrid ist eine modular aufgebaute Software, die vielseitig eingesetzt werden kann: Kernkomponenten sind ein Web-Portal,
+eine Suchmaschine, ein Metadatenkatalog mit Profilen für die Erfassung INSPRE-konformer Metadaten, offener Daten und UVP-Vorhaben,
+eine Visualisierungskomponente für OGC Web Map Services, ein Client zur Visualisierung von Zeitreihen sowie diverse An- und Abfrageschnittstellen,
+die für die Recherche der angeschlossenen Komponenten, aber auch für die Weiterleitung der Ergebnisse an externe Systeme zuständig sind.
 
 Kartenlayer
 -----------
