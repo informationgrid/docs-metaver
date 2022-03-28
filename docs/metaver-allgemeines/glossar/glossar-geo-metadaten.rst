@@ -96,8 +96,8 @@ WFS - WebFeatureService [en] - Downloaddienst
    - ist ein Dienst zum herunterladen von Geodaten über das Internet.
    
    
-WKT - Well-known text
----------------------
+WKT - Well-known text [en]
+--------------------------
    - ist ein Eingabeformat eines Datenbankfeldes für Geometriedaten in einer Datenbank mit räumlicher Erweiterung (z.B. Punkte, Linien, Polygone, ...). WKT ist aus der Simple Features Spezifikation des OGC hervorgegangen. 
 
 
