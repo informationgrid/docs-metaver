@@ -1,6 +1,23 @@
 
-Die Objektklassen
-=======================
+Objektklassen
+=============
+
+Zur umfassenden Beschreibung der unterschiedlichsten Informationen stehen im InGrid Editor und im Portal folgende sieben Objektklassen zur Verfügung: 
+
+Objektklasse
+- Geodatensatz
+- Geodatendienst
+- Anwendung
+- Datenbank
+- Dokument
+- Projekt
+- Organisationseinheit
+
+Die Objektklasse ist eine Gruppe von Objekten mit gleichen Merkmalen und Strukturen. Je nach Auswahl des Typs werden bei der Erfassung unterschiedliche Felder angeboten. So müssen beispielsweise für den Typ "Geodatensatz" andere Felder gefüllt werden als für den Typ "Geodatendienst". 
+
+
+
+
 
 Geodatensatz
 ------------
@@ -25,12 +42,12 @@ Ein Geodatendienst ist ein in der Regel über das Internet angebotener Dienst, m
 Ein Dienst stellt immer bereits vorhandene Daten vom Typ "Geodatensatz" zur Verfügung. Im Metadatensatz des Dienstes wird daher angeben, auf welche Geodaten sich dieser Dienst tatsächlich bezieht. Aus diesem Grunde werden zuerst die Metadatensätze für diejenigen Geodaten erstellt, die der Dienst umfasst. Anschließend wird auf genau diese Metadatenbeschreibung bei der Beschreibung des Dienstes verlinkt (siehe Daten-Dienste-Kopplung). 
 
 Zu den Geodatendiensten zählen: 
-•	WMS (Web Map Service)
-•	WFS (Web Feature Service)
-•	WCS (Web Coverage Service)
-•	WCTS (Web Coordinate Transformation Service)
-•	WMTS (Web Map Tile Service)
-•	CSW (Catalogue Service Web)
+- WMS (Web Map Service)
+- WFS (Web Feature Service)
+- WCS (Web Coverage Service)
+- WCTS (Web Coordinate Transformation Service)
+- WMTS (Web Map Tile Service)
+- CSW (Catalogue Service Web)
 
 Alle im Rahmen von INSPIRE zu erfassenden Geodatendienste müssen auch als Objektklasse "Geodatendienst" angelegt werden. 
 
