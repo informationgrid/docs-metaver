@@ -30,7 +30,7 @@ InGrid-Version von Entwicklern für die Installation breitgestellt
 **Änderungen in den Versionen**
 
 
-Version 5.12 (04.2022)
+Version 5.12 (12.04.2022)
    
     - IGE: Manuelle Erfassung der Regionalschlüssel in den Raumbezügen
     - IGE/Portal: Leaflet - Karte Raumbezüge - Austausch OSM Karte gegen TopPlusOpen Light grau
