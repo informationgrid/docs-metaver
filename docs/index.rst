@@ -7,8 +7,8 @@ Bedienungsanleiung InGrid Editor / METAVER
 ==========================================
 
 Version der Bedienungsanleitung
-   - InGrid-Version: 5.11.0
-   - letzte Änderung: 18.03.2022
+   - InGrid-Version: 5.12.0
+   - letzte Änderung: 21.04.2022
    - Status: in Bearbeitung
 
 
@@ -17,6 +17,13 @@ Version der Bedienungsanleitung
    :caption: Allgemeines
 
    metaver-allgemeines/allgemeine-informationen
+
+  
+.. toctree::
+   :maxdepth: 2
+   :caption: Registrierung / Anmeldung
+
+   metaver-registrierung-anmeldung/registrierung_anmeldung
 
 
 .. toctree::
@@ -36,6 +43,13 @@ Version der Bedienungsanleitung
    metaver-erfassung/metaver-ojektklassen/index
    metaver-erfassung/erfassung-hilfe
 
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Die Objektklassen
+   
+   metaver-objektklassen/objektklassen
+   
    
 .. toctree::
    :maxdepth: 2
