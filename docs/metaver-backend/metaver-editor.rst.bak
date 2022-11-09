@@ -1,6 +1,6 @@
 
-METAVER / InGrid Editor
-================
+METAVER / InGrid Editor (IGE)
+=============================
 
 
 
