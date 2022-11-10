@@ -64,7 +64,7 @@ Welches Medium wird für die Bereitstellung der Daten verwendet?
 
 Die Metadaten sind in die Objektklassen: Geodatensatz, Geodatendienst, Anwendung, Datenbank, Dokument, Projekt und Organisationseinheit unterteilt.
 
-Die Metadatenkataloge sind ein Hilfsmittel um Daten zu finden. Daten (z.B. Karten) können nur dann gefunden werden, wenn sie mit Text beschrieben werden. Dieser Text ist wichtig für die Suchmaschinen. Je präziser die Beschreibung der Daten ist, um so schneller können die Daten von den Suchmaschinen gefunden werden. Wenn in die Suche Begriffe eingegeben werden, dann müssen diese Begriffe auch in der Beschreibung der Daten enthalten sein.
+Die Metadatenkataloge sind ein Hilfsmittel um Daten zu finden. Daten (z.B. Karten oder Datenbanken) können nur dann gefunden werden, wenn sie mit Text beschrieben werden. Dieser Text ist wichtig für die Suchmaschinen. Je präziser die Beschreibung der Daten ist, um so schneller können die Daten von den Suchmaschinen gefunden werden. Wenn in die Suche Begriffe eingegeben werden, dann müssen diese Begriffe auch in der Beschreibung der Daten enthalten sein.
 
 Die integrierte Suchmaschine ist eine zentrale Komponente der Software. Mit ihrer Hilfe können Datenbankeinträge nach Stichworten durchsucht werden. Über eine "Facettierung (Klassifikation)" ist es möglich, Einschränkungen in der Suche vorzunehmen.
 
