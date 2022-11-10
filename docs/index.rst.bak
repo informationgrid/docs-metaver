@@ -37,7 +37,7 @@ Version der Bedienungsanleitung
    :maxdepth: 2
    :caption: Der Metadateneditor
 
-   metaver-backend/metaver-editor
+   metaver-ingrid-editor/ingrid-editor
    
 
 .. toctree::
