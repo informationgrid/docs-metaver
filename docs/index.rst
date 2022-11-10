@@ -28,17 +28,16 @@ Version der Bedienungsanleitung
 
 .. toctree::
    :maxdepth: 2
-   :caption: Der Metadateneditor
-
-   metaver-backend/metaver-editor
-
-   
-   
-.. toctree::
-   :maxdepth: 2
    :caption: Die Objektklassen
    
    metaver-objektklassen/objektklassen
+   
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Der Metadateneditor
+
+   metaver-backend/metaver-editor
    
 
 .. toctree::
