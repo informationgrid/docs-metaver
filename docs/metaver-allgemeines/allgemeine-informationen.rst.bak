@@ -7,9 +7,9 @@ Den MetadatenVerbund (METAVER) der Länder gehören an: Brandenburg, Freie Hanse
 Was sind Metadaten? Metadaten beschreiben die eigentlichen Daten, sie werden verwendet um viele Daten zu strukturieren und zu verwalten. Metadaten können von Maschinen gelesen (XML/Schnittstellen) und ausgewertet werden (Suche/Recherche/Reports).
 
 
-Die Metadatenkataloge sind ein praktisches und umfassendes Hilfsmittel um Daten zu finden.
+Die Metadatenkataloge sind ein Hilfsmittel um Daten zu finden.
 
-Zum Beispiel:
+Worüber geben Metadaten Auskunft?
 
 *Allgemein: Welche Daten sind zu einem bestimmten Thema vorhanden?
 *Fachbezug: Worüber geben die Daten Auskunft?
@@ -18,15 +18,15 @@ Zum Beispiel:
 *Zeitbezug: Seit wann und in welchem Intervallen werden die Daten erfasst?
 *Raumbezug: Welches Gebiet oder welchen Ort beschreiben die Daten?
 
-Die integrierte Suchmaschine ist eine zentrale Komponente der Kataloge. Mit ihrer Hilfe können Sie Datenbankeinträge nach Stichworten durchsuchen. Über eine "Facettierung (Klassifikation)" ist es möglich, Einschränkungen in der Suche vorzunehmen.
+Die integrierte Suchmaschine ist eine zentrale Komponente der Software. Mit ihrer Hilfe können Datenbankeinträge nach Stichworten durchsucht werden. Über eine "Facettierung (Klassifikation)" ist es möglich, Einschränkungen in der Suche vorzunehmen.
 
 Die Metadaten sollen für Experten und Laien gleichermaßen aussagekräftig sein und die wichtigsten Informationen über die eigentlichen Daten enthalten, so etwa Objekt, Adresse, Erhebungsdatum, Aktualität, Maßstab, Nutzungsbedingungen, Ansprechpartner und weitere technische Details.
 
-Technische Grundlage der Metadatenkataloge ist die modular aufgebaute Software InGrid®. Der Name InGrid® steht hierbei für "Information Grid" - Informationsnetz.
+Technische Grundlage der Metadatenkataloge ist die Software InGrid®. Der Name InGrid® steht hierbei für "Information Grid" - Informationsnetz.
 
-Die InGrid®-Software leistet in ihrer Struktur das, was Fachleute von einer Metadatenbank erwarten. Sie enthält Objektklassen, die untergliedert sind - und Adressenangaben zu Institutionen, Fachbereichen und Personen.
+Die InGrid®-Software leistet in ihrer Struktur das, was Fachleute von einer Metadatenbank erwarten. Sie enthält untergliederte Objektklassen, Adressenangaben zu Institutionen, Fachbereichen und Personen.
 
-Die Erfassung und Aktualisierung der Metadaten erfolgt mit dem InGrid®Editor. Der Editor ist eine Webanwendung mit einer einfach zu bedienenden Oberfläche, die eine dezentrale Metadatenpflege mit einem Webbrowser über das Internet ermöglicht.
+Die Erfassung und Aktualisierung der Metadaten erfolgt mit dem InGrid®Editor. Der Editor ist eine Webanwendung mit einer einfach bedienbaren Oberfläche, die eine dezentrale Metadatenpflege mit einem Webbrowser über das Internet ermöglicht.
 
 
 Aufbau der Benutzeroberfläche
