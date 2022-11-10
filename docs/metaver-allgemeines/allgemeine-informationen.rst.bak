@@ -58,7 +58,7 @@ In welchen Format liegen die Daten vor?
 - digitale Speicherformate, analoge Formate
 
 Welches Medium wird für die Bereitstellung der Daten verwendet?
-Speicher- oder Breitstellungsmedium (Webdienst)
+- Speicher- oder Breitstellungsmedium (Webdienst)
 
 **Klassifizierung der Metadaten**
 
