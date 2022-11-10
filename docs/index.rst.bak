@@ -31,6 +31,14 @@ Version der Bedienungsanleitung
    :caption: Der Metadateneditor
 
    metaver-backend/metaver-editor
+
+   
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: Die Objektklassen
+   
+   metaver-objektklassen/objektklassen
    
 
 .. toctree::
@@ -43,14 +51,7 @@ Version der Bedienungsanleitung
    metaver-erfassung/metaver-ojektklassen/index
    metaver-erfassung/erfassung-hilfe
 
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Die Objektklassen
-   
-   metaver-objektklassen/objektklassen
-   
-   
+      
 .. toctree::
    :maxdepth: 2
    :caption: METAVER Nutzerverwaltung

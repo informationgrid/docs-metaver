@@ -16,7 +16,8 @@ Version der Bedienungsanleitung
    :maxdepth: 2
    :caption: Allgemeines
 
-   metaver-allgemeines/allgemeine-informationen
+   metaver-allgemeines/allgemeines-metaver
+   metaver-allgemeines/allgemeines-ingrid-editor
 
   
 .. toctree::
