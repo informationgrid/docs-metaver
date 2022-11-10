@@ -165,15 +165,19 @@ IGE-Toolbar (Symbolleiste)
 Hier im Einzelnen die zur Verfügung stehenden Werkzeuge: 
 
 **Neu anlegen**
+
 Dient dem Anlegen einer neuen Adresse oder eines neuen Objektes im Strukurbaum.
 
 **Neuen Ordner anlegen**
+
 Mit Ordner erstellen kann im Strukturbaum eine Hierarchie aufgebaut werden. Unter dem letzten Ordner werden dann die Objekte angelegt.
 
 **Vorschau und Druckansicht**
+
 Die Druckfunktion ist unter dem Punkt „Drucken von Teilbäumen und Suchergebnissen“ ausführlich beschrieben.
 
 **ISO-XML Anzeige**
+
 Zeigt das erstellte Metadatenobjekt als ISO-XML an. 
 
 [Grafik]
