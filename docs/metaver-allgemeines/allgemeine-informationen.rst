@@ -17,9 +17,11 @@ Welche Daten sind zu einem bestimmten Thema vorhanden?
 
 *Zuständigkeit*
 
-  *Wer ist Ansprechpartner für die Daten?
-  *Wer ist Eigentümer der Daten?
-  *Wer kann fachliche Auskünfte erteilen?
+Wer ist Ansprechpartner für die Daten?
+
+Wer ist Eigentümer der Daten?
+
+Wer kann fachliche Auskünfte erteilen?
   
 *Verschlagwortung*
 
@@ -33,13 +35,13 @@ Was genau beschreiben die Metadaten?
 
 *Zeit Informationen*
 
-*Seit wann werden die Daten erfasst?
+Seit wann werden die Daten erfasst?
 - Erstellung
 
-*Wie aktuell sind die Daten?
+Wie aktuell sind die Daten?
 - letzte Änderung
 
-*In welchem Intervallen werden die Daten erfasst?
+In welchem Intervallen werden die Daten erfasst?
 - jählich, monatlich, ...
 
 *Raum Informationen*
@@ -49,13 +51,13 @@ Welches Gebiet oder welchen Ort beschreiben die Daten?
 
 *Verfügbarkeit*
 
-*Gibt es Einschränkungen für die Nutzung der Daten?
+Gibt es Einschränkungen für die Nutzung der Daten?
 - Auskunft über Nutzungsbedingungen, Zugriffsbeschränkungen und Anwendungseinschränkungen
 
-*In welchen Format liegen die Daten vor?
+In welchen Format liegen die Daten vor?
 - digitale Speicherformate, analoge Formate
 
-*Welches Medium wird für die Bereitstellung der Daten verwendet?
+Welches Medium wird für die Bereitstellung der Daten verwendet?
 Speicher- oder Breitstellungsmedium (Webdienst)
 
 
