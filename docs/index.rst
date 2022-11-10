@@ -17,7 +17,6 @@ Version der Bedienungsanleitung
    :caption: Allgemeines
 
    metaver-allgemeines/allgemeines-metaver
-   metaver-allgemeines/allgemeines-ingrid-editor
 
   
 .. toctree::
