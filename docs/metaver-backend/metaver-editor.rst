@@ -12,20 +12,20 @@ Die Benutzeroberfläche setzt sich zusammen aus:
 3. Strukturbaum
 4. Erfassungsmaske
 
-(Screenshot)
+[Grafik]
 
 Strukturbaum
 ------------
 
 Der InGrid Editor verfügt über einen Strukturbaum. Er unterteilt sich in Objekte und Adressen.
 
-(Screenshot)
+[Grafik]
 
 Plus- und Minuszeichen
 '''''''''''''''''''''''
 Durch Klicken auf die Pluszeichen wird der Strukturbaum geöffnet bzw. durch Anklicken der Minuszeichen wieder geschlossen. Die Ordnung innerhalb einer Hierarchiestufe erfolgt alphabetisch nach Objektname bzw. Adresstitel und kann durch Verschieben oder Einfügen nicht geändert werden.
 
-(Screenshot)
+[Grafik]
 
 Icon im Strukturbaum
 --------------------
@@ -66,7 +66,7 @@ Der Strukturbaum wird mit Ordnern erstellt.
 **Hinweis:**
 In einer zukünftigen neuen Version der Software kann die Struktur nur noch mit Ordnern angelegt werden. Die Möglichkeit eine Struktur mit Objektklassen aufzubauen entfällt.
 
-(Screenshot)
+[Grafik]
 
  
 
