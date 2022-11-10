@@ -8,7 +8,7 @@ METAVER bedeutet MetadatenVerbund. Den MetadatenVerbund der Länder gehören an:
 
 Metadaten beschreiben die eigentlichen Daten, sie werden verwendet um viele Daten zu strukturieren und zu verwalten. Metadaten können von maschinell gelesen (XML) und ausgewertet werden (Suche/Recherche/Reports).
 
-Metadaten werden nach Standards erfasst (Pflichtfelder - z.B. ISO, INSPIRE) und mit weiteren Informationen angereichert (optionale Felder).
+Metadaten werden nach Standards erfasst (Pflichtfelder - z.B. ISO, GDI-DE, INSPIRE) und mit weiteren Informationen angereichert (optionale Felder).
 
 Metadaten sollten für Experten und Laien aussagekräftig sein und die wichtigsten Informationen über die eigentlichen Daten enthalten.
 
