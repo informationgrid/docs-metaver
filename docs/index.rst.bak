@@ -24,13 +24,6 @@ Version der Bedienungsanleitung
    :caption: Registrierung / Anmeldung
 
    metaver-registrierung-anmeldung/registrierung_anmeldung
-
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Die Objektklassen
-   
-   metaver-objektklassen/objektklassen
    
 
 .. toctree::
@@ -38,6 +31,14 @@ Version der Bedienungsanleitung
    :caption: Der Metadateneditor
 
    metaver-ingrid-editor/ingrid-editor
+   
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: Die Objektklassen
+   
+   metaver-objektklassen/objektklassen
+   
    
 
 .. toctree::
