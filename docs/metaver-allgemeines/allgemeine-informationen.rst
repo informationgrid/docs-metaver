@@ -24,16 +24,18 @@ Worüber geben die Daten Auskunft?
 
 *Gibt es Einschränkungen für die Nutzung der Daten?
 - Auskunft über Nutzungsbedingungen, Zugriffsbeschränkungen und Anwendungseinschränkungen
+
 *In welchen Format liegen die Daten vor?
 - analog, digital
+
 *Welches Medium wird für die Bereitstellung der Daten verwendet?
 Speicher- oder Breitstellungsmedium (Webdienst)
 
 *Zuständigkeit*
 
-Wer ist Ansprechpartner für die Daten?
-Wer ist Eigentümer der Daten?
-Wer kann fachliche Auskünfte erteilen?
+  *Wer ist Ansprechpartner für die Daten?
+  *Wer ist Eigentümer der Daten?
+  *Wer kann fachliche Auskünfte erteilen?
 
 *Zeit Informationen*
 
