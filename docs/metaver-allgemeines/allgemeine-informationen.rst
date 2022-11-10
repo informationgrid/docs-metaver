@@ -8,14 +8,14 @@ Was sind Metadaten? Metadaten beschreiben die eigentlichen Daten, sie werden ver
 
 Metadaten sollten für Experten und Laien aussagekräftig sein und die wichtigsten Informationen über die eigentlichen Daten enthalten.
 
-Worüber geben die Metadaten Auskunft?
+**Worüber geben die Metadaten Auskunft?**
 
-*Allgemein*
+**Allgemein**
 
 Welche Daten sind zu einem bestimmten Thema vorhanden?
 - Beschreibung der Daten, Ansicht (Grafik)
 
-*Zuständigkeit*
+**Zuständigkeit**
 
 Wer ist Ansprechpartner für die Daten?
 
@@ -23,17 +23,17 @@ Wer ist Eigentümer der Daten?
 
 Wer kann fachliche Auskünfte erteilen?
   
-*Verschlagwortung*
+**Verschlagwortung**
 
 Wie können die Metadaten gesucht und gefunden werden?  
 Schlagwörter, Suchbegriffe (Thesaurus) 
 
-*Fachbezug*
+**Fachbezug**
 
 Was genau beschreiben die Metadaten?
 - Fachliche und spezifische Erläuterungen der Daten
 
-*Zeit Informationen*
+**Zeit Informationen**
 
 Seit wann werden die Daten erfasst?
 - Erstellung
@@ -44,12 +44,12 @@ Wie aktuell sind die Daten?
 In welchem Intervallen werden die Daten erfasst?
 - jählich, monatlich, ...
 
-*Raum Informationen*
+**Raum Informationen**
 
 Welches Gebiet oder welchen Ort beschreiben die Daten?
 - Ortsangabe, Rechteck, Polygon, Boundingbox, Koordinaten, Regionalschlüssel
 
-*Verfügbarkeit*
+**Verfügbarkeit**
 
 Gibt es Einschränkungen für die Nutzung der Daten?
 - Auskunft über Nutzungsbedingungen, Zugriffsbeschränkungen und Anwendungseinschränkungen
@@ -60,10 +60,11 @@ In welchen Format liegen die Daten vor?
 Welches Medium wird für die Bereitstellung der Daten verwendet?
 Speicher- oder Breitstellungsmedium (Webdienst)
 
+**Klassifizierung der Metadaten**
 
-Wie sind die Metadaten Klassifiziert? Die Metadaten sind in die Objektklassen: Geodatensatz, Geodatendienst, Anwendung, Datenbank, Dokument, Projekt und Organisationseinheit unterteilt.
+Die Metadaten sind in die Objektklassen: Geodatensatz, Geodatendienst, Anwendung, Datenbank, Dokument, Projekt und Organisationseinheit unterteilt.
 
-Die Metadatenkataloge sind ein Hilfsmittel um Daten zu finden. Daten z.B. Karten können nur dann gefunden werden, wenn sie mit Text beschrieben werden. Dieser Text ist wichtig für die Suchmaschinen. Je präziser die Beschreibung der Daten ist, um so schneller können die Daten von den Suchmaschinen gefunden werden. Wenn in die Suche Begriffe eingegeben werden, dann müssen diese Begriffe auch in der Beschreibung der Daten enthalten sein.
+Die Metadatenkataloge sind ein Hilfsmittel um Daten zu finden. Daten (z.B. Karten) können nur dann gefunden werden, wenn sie mit Text beschrieben werden. Dieser Text ist wichtig für die Suchmaschinen. Je präziser die Beschreibung der Daten ist, um so schneller können die Daten von den Suchmaschinen gefunden werden. Wenn in die Suche Begriffe eingegeben werden, dann müssen diese Begriffe auch in der Beschreibung der Daten enthalten sein.
 
 Die integrierte Suchmaschine ist eine zentrale Komponente der Software. Mit ihrer Hilfe können Datenbankeinträge nach Stichworten durchsucht werden. Über eine "Facettierung (Klassifikation)" ist es möglich, Einschränkungen in der Suche vorzunehmen.
 
