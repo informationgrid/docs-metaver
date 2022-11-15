@@ -405,3 +405,150 @@ Zum Ausblenden aller optionalen Felder das Symbol erneut anklicken.
 Desweitern gibt es die Möglichkeit, nur für eine Rubrik die optionalen Felder auf- bzw. zuzuklappen. Hierfür einfach auf das entsprechende Symbol vor dem Rubriknamen klicken.
 
 [Grafik]
+
+
+Pflichtfelder
+-------------
+
+Im InGrid Editor gibt es eine Vielzahl von Feldern, die ausgefüllt werden können, es müssen jedoch nicht immer alle Felder belegt werden. Für jedes Objekt bzw. jede Adresse gibt es sogenannte Pflichtfelder, die auf jeden Fall ausgefüllt werden müssen. Ohne die Befüllung dieser Pflichtfelder ist das Abschließende Speichern und Veröffentlichen nicht möglich, da eine Validierung erfolgt, welche Pflichtfelder noch nicht und/bzw. ggf. fehlerhaft befüllt sind. Zwischenspeichern ist möglich. Gekennzeichnet sind diese Pflichtfelder durch fett gedruckte Überschriften sowie durch ein Sternchen.
+
+[Grafik] Pflichtfeld
+[Grafik] Optionales Feld
+
+Pflichtfelder sind Felder, die unter anderem INSPIRE-Forderungen entsprechend der Metadatenverordnung bedienen oder die die ISO umsetzen. Optionale Felder können darüber hinaus mit weiteren Angaben zur detaillierten Beschreibung des Metadatensatzes ausgefüllt werden.
+
+
+Unterschiedliche Feldarten
+--------------------------
+
+Textfelder
+^^^^^^^^^^
+Zum Füllen von Textfeldern klicken Sie in das Feld.
+Zum vergrößern des Textfeldes, klicken Sie mit der Maus auf die rechte untere Ecke des Feldes, halten die Maustaste gedrückt, und ziehen das Feld auf die gewünschte Größe.
+
+[Grafik]
+
+Auswahllisten
+^^^^^^^^^^^^^
+Nach einem einfachen Klick in die auszufüllende Zeile, kann die vorgegebene Auswahlliste über den Pfeil an der rechten Seite des Feldes aufgeklappt werden.
+
+[Grafik]
+
+Tabellen
+^^^^^^^^
+Um in den Editiermodus eines Feldes innerhalb einer Tabelle zu gelangen, müssen Sie einen Doppelklick mit der linken Maustaste auf das gewünschte Feld ausführen. Gleiches gilt z.B. auch für die Eingabe von Datumsangaben in einer Tabelle.
+Mit einem einfachen Klick können Sie befüllte Zeilen, in der der Mauszeiger steht, markieren. Sie können mehrere Zeilen markieren, in dem sie die Shift-Taste oder die Strg-Taste gleichzeitig mit einem einfachen Klick der linken Maustaste verwenden. Ein gleichzeitiges Drücken der Strg-Taste markiert eine Zeile, ohne die Markierung der bereits vorher markierten Zeilen aufzuheben. Ein gleichzeitiges Drücken der Shift-Taste markiert alle Zeilen zwischen der zuletzt markierten bis zu der angeklickten Zeile.
+Mit der rechten Maustaste lässt sich ein Kontextmenü öffnen, über das Sie die markierten Zeilen bearbeiten (z.B. löschen) können.
+
+[Grafik]
+
+Dialog
+^^^^^^
+Einige Felder können nur über Dialoge gefüllt werden.
+Öffnen Sie für die Datenerfassung das Dialogfenster.
+
+[Grafik]
+
+
+Speichern
+---------
+
+In der Symbolleiste des InGrid Editors werden zwei Speicherarten unterschieden:
+
+[Grafik] Zwischenspeichern
+[Grafik] Abschließendes Speichern & Veröffentlichen
+
+
+Zwischenspeichern
+^^^^^^^^^^^^^^^^^
+Das Zwischenspeichern speichert den geänderten bzw. neu erfassten Metadatensatz, die Daten werden allerdings noch nicht für die Veröffentlichung im Internet freigegeben, d.h. sie bleiben weiterhin nur im Strukturbaum des InGrid Editors sichtbar. Das Zwischenspeichern ist jederzeit möglich, auch wenn noch nicht alle Pflichtfelder ausgefüllt wurden. Zusätzlich erfolgt alle 2 Minuten eine automatische Speicherung (Einstellung in der Katalogverwaltung).
+
+
+Abschließenden Speichern & Veröffentlichen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Anders ist es beim Abschließenden Speichern & Veröffentlichen. Durch diese Art der Speicherung werden die Daten automatisch gemäß ihrer Veröffentlichungsbreite (Internet, Intranet oder amtsintern) publiziert und erscheinen nach der automatischen Indexierung im Internet.
+Voraussetzung für das abschließende Speichern ist die Befüllung sämtlicher Pflichtfelder. Fehlen entsprechende Angaben, erscheint bei der Betätigung des Buttons „Abschließendes Speichern“ eine Fehlermeldung und die Überschriften der entsprechenden Felder werden rot eingefärbt.
+
+[Grafik]
+
+Um trotz der Fehlermeldung die Bearbeitung sichern zu können, wählen Sie die Funktion Zwischenspeichern.
+
+[Grafik]
+
+Über die Schaltfläche „Zeige nächsten Fehler“, kann die Erfassungsmaske nach fehlenden Einträgen durchsucht werden.
+
+
+Automatische Speicherung / Session abgelaufen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+[Grafik]
+
+Einstellungen in der Katalogverwaltung.
+
+Autosave
+^^^^^^^^
+Die automatische Speicherung (Zwischenspeichern), ist in der Katalogverwaltung auf zwei Minuten eingestellt und kann nur durch den Katalogadministrator geändert werden.
+
+Session refresh
+^^^^^^^^^^^^^^^
+Wenn eine längere Zeit keine Interaktion mit dem Editor stattfindet, läuft die Session (Sitzung) ab, man wird aus dem InGrid Editor abgemeldet und muss sich am Editor neu anmelden. Die Session refresh – Funktion sorgt dafür, dass nach einer längeren Pause im Editor weitergearbeitet werden kann, ohne sich erneut anmelden zu müssen. Dieses Intervall kann nur durch den Katalogadministrator geändert werden.
+
+
+Hilfe
+-----
+
+Eine allgemeine Hilfe zum InGrid Editor kann durch einen Klick auf das Fragezeichensymbol (ganz rechts in der Toolbar) aufgerufen werden. Sie enthält Hinweise und Ratschläge für die Nutzung des InGrid Editors.
+
+[Grafik]
+
+In den Dialogfenstern steht ebenfalls eine Hilfe zur Verfügung.
+Das Symbol [?] verweist auf den Hilfetext.
+
+[Grafik]
+
+Zusätzlich erhalten Sie Hilfe für die Befüllung einzelner Felder, indem Sie den Mauszeiger über die Überschrift des jeweiligen Feldes ziehen. Der Pfeil verändert dann seine Form zu einer Kombination aus Pfeil und Fragezeichen. Ein einfacher Klick mit der linken Maustaste öffnet ein Dialogfeld, welches einen Hilfetext zu dem zugehörigen Feld anzeigt.
+
+[Grafik]
+[Grafik]
+
+
+Passwort vergessen
+------------------
+
+Aufruf der Seite „Anmeldung“: https://metaver.de/log-in Betätigen Sie den Link „Passwort vergessen?“.
+
+[Grafik]
+
+Es öffnet sich die „Passwort vergessen“ - Seite, deren Aufforderung bitte folgen.
+
+[Grafik]
+
+Feld „E-Mail*:“ Tragen Sie hier Ihre E-Mail-Adresse ein, betätigen Sie anschließend den Button „E-MAIL ANFORDERN“.
+
+Es öffnet sich die Seite „E-Mail gesendet“ mit der Information: „Sie haben eine E-Mail erhalten mit Informationen zu Ihrer Passwort-Änderung.“
+
+[Grafik]
+
+Das System versendet folgende E-Mail:
+
+[Grafik]
+
+Es öffnet sich die Seite „Passwort ändern“ mit der Aufforderung: „Ändern Sie bitte Ihr Passwort und melden Sie sich dann bitte erneut an.“ Im Feld „Benutzername“ den Benutzernamen und darunter zweimal das neue Passwort eintragen, abschließend den Button „SPEICHERN“ betätigen.
+
+[Grafik]
+
+Es wird automatisch auf die Seite „Anmeldung“ weitergeleitet, auf der man sich direkt mit dem neuen Passwort einloggen kann.
+
+[Grafik]
+
+
+Benutzername vergessen
+----------------------
+
+Wenn Sie Ihren Benutzernamen vergessen haben, füllen Sie bitte in METAVER das Kontaktformular (https://metaver.de/kontakt) aus, geben Sie bitte Ihr Bundesland an, so wird die Anfrage Ihren zuständigen Katalogadministrator zugestellt.
+
+
+Fragen und Kontakt
+------------------
+
+Müssen Fragen in Bezug auf das Portal, dieser Software oder im Zusammenhang mit den Inhalten geklärt werden, nutzen Sie bitte das Kontaktformular in METAVER (https://metaver.de/kontakt). Ihre Anfragen werden dann im Ticketsystem Zammad verarbeitet und erreichen automatisch den richtigen Ansprechpartner.
