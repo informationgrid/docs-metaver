@@ -234,3 +234,123 @@ Die Tabelle „Kategorien“ enthält eine Auswahlliste, die das Open-Data-Objek
 [Grafik]
 
 
+Optionale Schlagworte
+'''''''''''''''''''''
+Die Verschlagwortung über den Thesaurus-Navigator dient dem themenbezogenen Wiederauffinden der Objekte. Dazu müssen Schlagworte aus dem Thesaurus ausgewählt werden, die das Objekt so genau wie möglich, aber auch so allgemein wie nötig beschreiben. So sollte mindestens ein Schlagwort in der Thesaurus-Hierarchie einen relativ allgemeinen Aspekt des Objektes beschreiben und mindestens ein Schlagwort das Objekt so speziell wie möglich beschreiben.
+
+
+Beispiel: Naturschutz, Schmetterling, Kartierung, Artenschutz
+
+
+Die Auswahl kann über den „Verschlagwortungsassistenten“ als auch über den „Thesaurus-Navigator“ erfolgen (Links über der Tabelle).
+
+[Grafik]
+
+[Grafik]
+
+
+Abschnitt Fachbezug
+^^^^^^^^^^^^^^^^^^^
+
+Der Abschnitt Fachbezug richtet sich nach der gewählten Objektklasse und wird in den Anhängen dieses Dokumentes zu den unterschiedlichen Objektklassen ausführlich beschrieben.
+
+**Beschreibungen der Fachbezüge zu den Objektklassen**
+
+ -  Geodatensatz - Beschreibung von GIS-Daten, analoge Karten oder Kartenwerke.
+ -  Geodatendienst - Dienste die raumbezogenen Daten zur Verfügung stellen, insbesondere Dienste im Rahmen von INSPIRE, der GDI-DE oder der GDIs der Länder.
+ -  Anwendung - zentrale Auskunftssysteme, welche in der Regel auf eine oder mehrere Datenbanken zugreifen und diese zugänglich machen.
+ -  Datenbank - Analoge oder digitale Sammlung von Daten. Beispiele: Messdaten, statistische Erhebungen, Modelldaten, Daten zu Anlagen.
+ -  Dokument - Broschüren, Bücher, Aufsätze, Gutachten, etc. Von Interesse sind insbesondere Dokumente, welche nicht über den Buchhandel oder über Bibliotheken erhältlich sind ('graue Literatur').
+ -  Projekt - Forschungs- und Entwicklungsvorhaben, Projekte unter Beteiligung anderer Institutionen oder privater Unternehmen, Schutzprogramme, von besonderem Interesse sind Vorhaben/Projekte/Programme, in denen umweltrelevante Datenbestände entstehen.
+ -  Eine Ausnahme bildet die Objektlasse Organisationseinheit, in dieser befindet sich keinen Abschnitt Fachbezug.
+ 
+ 
+Abschnitt Raumbezugsystem
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Im Abschnitt Raumbezugsystem werden Informationen über die räumliche Zuordnung des beschriebenen Datenbestands erfasst.
+
+Geothesaurus-Raumbezug
+''''''''''''''''''''''
+Geothesaurus oder auch Gazetteer (Ortsverzeichnis), hier soll ein Ort oder eine Region mit Koordinaten angegeben werden.
+
+[Grafik]
+
+
+Geothesaurus-Navigator
+''''''''''''''''''''''
+Über den Geothesaurus-Navigator kann nach den Koordinaten einer räumlichen Einheit gesucht werden.
+
+[Grafik]
+
+[Grafik]
+
+Abschnitt Zeitbezug
+^^^^^^^^^^^^^^^^^^^
+
+Unter Zeitbezug werden Datumsangaben, Zeiträume, Zeitspannen, Perioden oder Intervalle der beschriebenen Daten eingetragen.
+
+
+Zeitbezug der Ressource
+'''''''''''''''''''''''
+In dieser Tabelle wird dokumentiert, wann die beschrieben Daten erfasst, veröffentlicht oder geändert wurden.
+
+
+Erläuterungen
+'''''''''''''
+Hier können z.B. die Angaben der Periodizität eingeschränkt, weitere Zeitangaben gemacht oder Unregelmäßigkeiten erklärt werden. Im Zusammenhang mit dem Eintrag im Feld Periodizität können hier Abstände, Perioden und Intervalle eingetragen werden, die sich nicht aus dem Zusammenhang der anderen Felder des Zeitbezuges erklären, z.B. Jahreszeiten, Dekaden, Tageszeiten.
+
+**Beispiel:** Die Messungen erfolgten nur tagsüber.
+
+
+Zeitspanne
+''''''''''
+Hier soll das Zeitspanne der Entstehung der eigentlichen Daten (z.B. Messdaten) eingetragen werden.
+
+[Grafik]
+
+[Grafik]
+
+Periodizität
+''''''''''''
+Ist die Auswahl oder die Angabe des Zeitzyklus der Datenerhebung. Der Eintrag muss aus der Auswahlliste erfolgen, die über den Pfeil am Ende des Feldes geöffnet wird.
+
+**Hinweis:**
+*Der Eintrag „unbekannt“ sollte nicht mehr verwendet und falls noch in Altdaten vorhanden durch sinnvolle Einträge ersetzt werden. Er stellt eine nicht ISO-konforme Erweiterung der Auswahlliste dar.*
+
+[Grafik]
+
+[Grafik]
+
+Status
+''''''
+Der Status beschreibt den Bearbeitungsstand eines Projektes oder einer der Messung etc. Diese können sich in unterschiedlichen Stadien befinden, d.h. Projekte, Programme oder Messungen können in Planung sein, derzeit durchgeführt werden oder schon abgeschlossen sein.
+
+[Grafik]
+
+[Grafik]
+
+Im Intervall
+''''''''''''
+Mit Intervall wird der zeitliche Abstand (Frequenz) der Datenerhebung angegeben. Erfolgt die Datenerhebung kontinuierlich oder periodisch (siehe Feld Periodizität), so wird diese Angabe hier präzisiert. Es stehen Felder für den freien Eintrag einer Ziffer und eine Auswahlliste zur Verfügung, die zeitliche Intervalle vorgibt. Der Eintrag von „10“ und „Tage“ bedeutet, dass die beschriebenen Daten alle 10 Tage aktualisiert werden.
+
+[Grafik]
+
+[Grafik]
+
+
+Abschnitt Zusatzinformation
+---------------------------
+
+Der Abschnitt Zusatzinformation enthält Angaben von allgemeinen Informationen wie Sprache und Veröffentlichungsbreite des Metadatensatzes.
+
+Sprache des Metadatensatzes
+'''''''''''''''''''''''''''
+Es erfolgt die Angabe der Sprache des Metadatensatzes, als Standard ist Deutsch voreingestellt.
+
+
+Veröffentlichung
+''''''''''''''''
+Das Feld Veröffentlichung gibt an, welche Veröffentlichungsmöglichkeiten für das Objekt freigegeben sind. Die Liste der Möglichkeiten ist nach Freigabestufen hierarchisch geordnet. Wird einem Objekt eine niedrigere Freigabestufe zugeordnet (z.B. von Internet auf Intranet), werden automatisch auch alle untergeordneten Objekte dieser Stufe zugeordnet. Soll einem Objekt eine höhere Freigabestufe zugeordnet werden als die des übergeordneten Objektes, wird die Zuordnung verweigert. Wird einem Objekt eine höhere Freigabestufe zugeordnet (z.B. von amtsintern auf Intranet), kann auch allen untergeordneten Objekten die höhere Freigabestufe zugeordnet werden.
+
+[Grafik]
