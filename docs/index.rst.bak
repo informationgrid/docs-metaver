@@ -8,7 +8,7 @@ Bedienungsanleiung InGrid Editor / METAVER
 
 Version der Bedienungsanleitung
    - InGrid-Version: 5.12.0
-   - letzte Änderung: 21.04.2022
+   - letzte Änderung: 10.11.2022
    - Status: in Bearbeitung
 
 
@@ -31,27 +31,35 @@ Version der Bedienungsanleitung
    :caption: Der Metadateneditor
 
    metaver-ingrid-editor/ingrid-editor
-   
-   
+
+
 .. toctree::
    :maxdepth: 2
-   :caption: Die Objektklassen
+   :caption: Beschreibung der Objektklassen
    
-   metaver-objektklassen/objektklassen
-   
-   
+   metaver-objektklassen/objektklassen-beschreibung
+
 
 .. toctree::
    :maxdepth: 3
    :caption: Erfassung von Metadaten
 
    metaver-erfassung/erfassung-adressen-metadaten
-   metaver-erfassung/bearbeitung-adressen-metadaten
-   metaver-erfassung/bearbeitung-adressen-metadaten-strukturbaum
-   metaver-erfassung/metaver-ojektklassen/index
-   metaver-erfassung/erfassung-hilfe
 
-      
+
+.. toctree::
+   :maxdepth: 3
+   :caption: Fachinformationen in den Objektklassen
+
+   metaver-objektklassen/objektklasse-geodatensatz
+   metaver-objektklassen/objektklasse-geodatendienst
+   metaver-objektklassen/objektklasse-anwendung
+   metaver-objektklassen/objektklasse-datenbank
+   metaver-objektklassen/objektklasse-dokument
+   metaver-objektklassen/objektklasse-projekt
+   metaver-objektklassen/objektklasse-organisationseinheit
+
+
 .. toctree::
    :maxdepth: 2
    :caption: METAVER Nutzerverwaltung
