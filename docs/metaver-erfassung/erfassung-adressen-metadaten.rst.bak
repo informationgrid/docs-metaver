@@ -348,4 +348,177 @@ Sprache des Metadatensatzes
 '''''''''''''''''''''''''''
 Es erfolgt die Angabe der Sprache des Metadatensatzes, als Standard ist Deutsch voreingestellt.
 
-**Beispiel:** Deutsch
+
+Veröffentlichung
+''''''''''''''''
+Das Feld Veröffentlichung gibt an, welche Veröffentlichungsmöglichkeiten für das Objekt freigegeben sind. Die Liste der Möglichkeiten ist nach Freigabestufen hierarchisch geordnet. Wird einem Objekt eine niedrigere Freigabestufe zugeordnet (z.B. von Internet auf Intranet), werden automatisch auch alle untergeordneten Objekte dieser Stufe zugeordnet. Soll einem Objekt eine höhere Freigabestufe zugeordnet werden als die des übergeordneten Objektes, wird die Zuordnung verweigert. Wird einem Objekt eine höhere Freigabestufe zugeordnet (z.B. von amtsintern auf Intranet), kann auch allen untergeordneten Objekten die höhere Freigabestufe zugeordnet werden.
+
+[Grafik]
+
+Die Einstellung haben folgende Bedeutung:
+
+ - Internet: Das Objekt darf auf allen Ebenen veröffentlicht werden.
+ - Intranet: Das Objekt darf nur im Intranet veröffentlicht werden, aber nicht im Internet.
+ - amtsintern: Das Objekt ist nur im internen Strukturbaum des Metadatenkataloges sichtbar. Es ist nicht für das Internet oder dem Intranet freigegeben.
+ 
+**Hinweis:** 
+*Die Option Intranet wird für Sachsen-Anhalt nicht verwendet, da das System im Internet bereitgestellt wird.*
+
+
+Abschnitt Verfügbarkeit
+-----------------------
+
+Im Abschnitt Verfügbarkeit wird angegeben, ob die zu beschreibenden Daten einer Zugriffsbeschränkung unterliegen und welche Nutzungsbedingungen für diese Daten gelten.
+
+Zugriffsbeschränkungen
+^^^^^^^^^^^^^^^^^^^^^^
+Im Feld Zugriffsbeschränkungen kann aus einer Auswahlliste ein Grund angegeben werden, warum die Daten einer Einschränkung unterliegen. Trifft keiner dieser Gründe zu, ist der Eintrag „Es gelten keine Beschränkungen“ anzugeben.
+
+**Hinweis:** *Für INSPIRE-Daten ist dieses Feld ein Pflichtfeld.*
+
+Nutzungsbedingungen
+^^^^^^^^^^^^^^^^^^^
+Nutzungsbedingungen sind ein einseitig vorformulierter Vertrag, mit dem der Anbieter (der Datenbereitsteller) die Nutzer der Daten über ihre Rechte und Pflichten informiert.
+In der Tabellenspalte Nutzungsbedingungen ist eine Auswahlliste mit Lizenzen hinterlegt, diese beschreiben vordefinierte Nutzungsbedingungen. Weiterhin besteht die Möglichkeit Nutzungsbedingungen per Freitext in die Zeile einzutragen oder auf Nutzungsbedingungen zu verweisen.
+
+Quellenvermerk
+^^^^^^^^^^^^^^
+In dieser Tabellenspalte wird das Copyright des Datenbreitstellers angegeben und die Angabe für das Jahr des Datenbezugs.
+
+**Beispiel:** © GeoBasis-DE / BKG (Jahr des letzten Datenbezugs)
+
+[Grafik]
+
+Abschnitt Verweise
+^^^^^^^^^^^^^^^^^^
+Im Abschnitt Verweise können Verlinkungen zu anderen Objekten innerhalb des Kataloges angelegt, oder es können Verweise mit URLs angelegt werden. Bereits angelegte Verweise lassen sich erneut bearbeiten.
+
+[Grafik]
+
+Verweise zu
+^^^^^^^^^^^
+Es besteht die Möglichkeit, Verweise von einem Objekt zu einem anderen Objekt oder zu einer Internetadresse (URL) zu erstellen. In dieser Tabelle werden alle Verweise zusammenfassend aufgeführt, welche im aktuellen Objekt angelegt wurden. Über dem Link „Verweis anlegen“ öffnet sich ein Dialog, mit dem weitere Einzelheiten zu den Verweisen eingesehen und editiert werden können. Es ist möglich, weitere Verweise über das Dialogfenster „Verweis bearbeiten“ hinzuzufügen (siehe 2. Verweise anlegen).
+
+**Hinweis:**
+*Wenn Open Data ausgewählt ist, muss mindestens ein Verweis vom Typ „Datendownload“ vorhanden sein, bevor das Objekt veröffentlicht werden kann!*
+
+[Grafik]
+
+Verweise von
+^^^^^^^^^^^^
+In Tabelle „Verweise von“ werden alle Verweise von denjenigen Objekten aufgeführt, welche auf das aktuelle Objekt verweisen.
+
+Das Editieren oder Hinzufügen ist an dieser Stelle nicht möglich. Sollen die Verweise gelöscht oder ergänzt werden, so muss zu dem entsprechenden Objekt gewechselt werden. Beim Löschen können Sie in der Tabelle „Verweise von“ einfach auf den Namen des entsprechenden Objektes klicken. Der InGrid-Editor wechselt dann automatisch in das ausgewählte Objekt. Im Abschnitt „Verweise“, Tabelle „Verweis zu“ kann jetzt der Verweis gelöscht bzw. ein neuer Verweis angelegt werden.
+
+
+Verweise anlegen
+----------------
+
+Im Abschnitt „Verweise“ besteht die Möglichkeit, Verweise von einem MDK-Objekt auf ein anderes MDK-Objekt oder zu einer Internetadresse (URL) zu erstellen. Alle eingegebenen Verweise werden in der Tabelle „Verweise zu“ aufgelistet.
+
+[Grafik]
+
+Verweise anlegen
+^^^^^^^^^^^^^^^^
+Über den Link „Verweis anlegen“ öffnet sich ein Dialogfenster.
+Es gibt zwei mögliche Verweisziele:
+ - Verweisziel Objekt: Querverweise zwischen Objekten innerhalb des MDK
+ - Verweisziel URL: Verweis auf Informationen im Internet
+ 
+[Grafik]
+ 
+Verweistyp
+^^^^^^^^^^
+Angabe des fachlichen Bezuges, der zwischen dem aktuellen Objekt und dem Verweisobjekt besteht. Wird das Dialogfenster im Abschnitt Verweise geöffnet, so kann über das Dropdown-Menu (ausklappbar über den Pfeil an der rechten Seite des Feldes) aus einer Auswahlliste ein Eintrag gewählt werden. Es sind dann auch freie Einträge für den Verweistyp möglich.
+
+Wurde der Dialog von einem Feld in einer anderen Rubrik (z.B. Objektklasse Anwendung, Rubrik Fachbezug, Feld: Basisdaten, Verweise) geöffnet, so wird automatisch der betreffende Feldname eingetragen und angezeigt.
+
+[Grafik]
+
+[Grafik]
+
+Beispiel: Objektklasse Anwendung / Verweistyp: Basisdaten
+
+[Grafik]
+
+Beispiel: Objektklasse Datenbank / Verweistyp: Methode / Datengrundlage
+
+Die angebotenen Eintragungen der Dropdown-Liste hängen von dem gewählten Objekttyp ab. Es kann daher auch vorkommen, dass weniger Listeneinträge im Dropdownmenü angezeigt werden.
+
+[Grafik]
+
+Verweisziel: „Objekt“
+^^^^^^^^^^^^^^^^^^^^^
+Über dieses Verweisziel werden Querverweise zwischen den Objekten des MDK definiert. Das Dialogfenster zeigt die entsprechenden Eingabefelder an.
+
+[Grafik]
+
+Objekt auswählen
+^^^^^^^^^^^^^^^^
+Über „Objekt auswählen“ öffnet sich der Objektstrukturbaum, aus dem das Zielobjekt auszuwählen ist.
+Ist das Objekt markiert, zu dem ein Verweis erstellt werden soll, kann der Eintrag durch einen Klick auf den Button „Zuweisen“ übernommen werden. Die Pflichtangaben „Objektname“ und „Objektklasse“ werden automatisch mit den entsprechenden Daten des ausgewählten Objekts gefüllt.
+
+Erläuterung
+^^^^^^^^^^^
+Hier können weitergehende Informationen zu dem Objekt eingegeben werden. Es können auch Erläuterungen zu der Beziehung zwischen den beschriebenen Daten des aktuellen Objektes und den Daten des Verweis-Objektes gegeben werden.
+
+Hinzufügen
+^^^^^^^^^^
+Sind alle Pflichtfelder und die gewünschten optionalen Felder gefüllt, kann der Verweis mit der Schaltfläche „Hinzufügen“ in der Tabelle angelegt werden.
+^
+[Grafik]
+
+Verweisziel „URL“
+^^^^^^^^^^^^^^^^^^
+Soll auf eine Internetseite oder eine externe Datenquelle im Internet verwiesen werden, so ist das Verweisziel „URL“ auszuwählen. Das Dialogfenster zeigt die entsprechenden Eingabefelder an.
+
+Die Auswahl erfolgt wie im Abschnitt „Verweistyp“ beschrieben.
+
+Weitere Pflichtfelder sind die „Bezeichnung des Verweises“ sowie „Internet-Adresse (URL)“.
+
+[Grafik]
+
+Bezeichnung des Verweises
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+Im Feld „Bezeichnung des Verweises“ soll eine möglichst aussagekräftige Bezeichnung für den Verweis angegeben werden, beispielsweise kann der dementsprechende Name der Webseite eingetragen werden. Die Eintragungen, die Sie hier angeben, erscheinen im Portal als Link. Klickt der Nutzer auf diesen Link, kommt er auf die Internetseite, die in dem Feld „Internet-Adresse (URL)“ angegeben wurde.
+
+Internet-Adresse (URL)
+^^^^^^^^^^^^^^^^^^^^^^
+Im Feld „Internet-Adresse (URL)“ wird die URL der Internetseite eingetragen, auf die verwiesen werden soll. Wichtig ist, die vollständige Internetadresse anzugeben, beginnend mit „https://“.
+
+Dateiformat
+^^^^^^^^^^^
+Es sind verschiedene Dateiformat-Einträge möglich, die angezeigten Dateiformate richten sich nach der gewählten Objektklasse.
+
+Auswahlliste der Dateiformate für die Objektklasse Geodatensatz:
+
+ - 3D-Shape
+ - AI
+ - ARC/INFO-Coverage
+ - ASCII
+ - Bitmap
+ - CityGML
+ - CSV
+ - DXF
+ - E00-Austauschformat
+ - EDBS
+ - EPS
+ - Excel
+ - GIF
+ - GML
+ - GRID
+ - GRID-ASCII
+ - HTML
+ - JPEG
+ - JSON
+ - NAS
+ - PDF
+ - PNG
+ - Shapefiles
+ - SVG
+ - TIFF
+ - WinWord
+ - XML
+ - XSD
+ - XYZ-ASCII
+ - ZIP
