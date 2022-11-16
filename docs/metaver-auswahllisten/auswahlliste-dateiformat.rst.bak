@@ -1,0 +1,99 @@
+
+Datenformat / Name
+==================
+
+ - 3D-Shape
+ - AI - Artficial Intelligence - künstliche Intelligenz
+ - ARC/INFO-Coverage
+ - ASCII - American Standard Code
+ - BMP - Bitmap
+ - CityGML -  City Geography Markup Language
+ - CSV - Comma-separated values
+ - DXF - Drawing Interchange File Format (AutoCAD)
+ - E00-Austauschformat
+ - EDBS - Einheitliche Datenbankschnittstelle
+ - EPS - Encapsulated Postscript
+ - XLSX - Excel
+ - GIF - Graphics Interchange Format
+ - GML - Geography Markup Language
+ - GRID - Gitter, Raster
+ - GRID-ASCII
+ - HTML - Hypertext Markup Language
+ - JPEG - Joint Photographic Experts Group
+ - JSON - JavaScript Object Notation
+ - NAS - Normbasierte Austauschschnittstelle
+ - PDF - Portable Document Format
+ - PNG - Portable Network Graphics
+ - Shapefiles
+ - SVG - Scalable Vector Graphics
+ - TIFF - Tagged Image File Format 
+ - docx - WinWord
+ - XML - Extensible Markup Language
+ - XPlanGML - raumbezogene Planwerke
+ - XSD - XML Schema Definition
+ - XYZ - ASCII-Rasterdatenformat
+ - ZIP - zipper [en]
+
+
+
+Geodatenformate
+---------------
+
+ - GeoPackage
+ 
+ - shp - ESRI-Shapedatei
+ 
+ - DXF - AutoCAD
+ 
+ - FlatGeobuf
+ 
+ - Geoconcept
+ 
+ - GeoRSS
+ 
+ - GML - Geography Markup Language
+ 
+ - GeoJSON
+ 
+ - GeoJSON - Umbruch getrennt
+ 
+ - GPX - GPS-Austauschformat
+ 
+ - INTERLIS 1
+ 
+ - INTERLIS 2
+ 
+ - KML - Keyhole Markup Language
+ 
+ - CSV - Komma getrennte Werte
+ 
+ - MIF - Mapinfo
+ 
+ - TAB - Mapinfo
+ 
+ - DGN - Microstation
+ 
+ - XLSX - MS Office Open XML Tabelle
+ 
+ - ODS - Open-Document-Tabelle
+ 
+ - PostgreSQL-SQL-Dump
+ 
+ - S-57 Base-Datei
+ 
+ - SpartiaLite
+ 
+ - SQLite
+ 
+ 
+ 
+ CSV
+ GML
+ GPX
+ GSV
+ SDB
+ SHP
+ XLSX
+ WMS
+ 
+ 
