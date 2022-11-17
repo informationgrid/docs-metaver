@@ -1,13 +1,7 @@
 
-Zeichensatz des Datensatzes
-===========================
+Auswahlliste blank
+==================
 
- - Sekunden
- - Minuten
- - Stunden
- - Tage
- - Monate
- - Jahre
 
 
 
