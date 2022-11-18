@@ -53,8 +53,8 @@ Version der Bedienungsanleitung
    ige_faq/glossar/glossar-allgemein
    ige_faq/glossar/geo-glossar
    ige_faq/glossar/glossar-datenformate
-
    
+
 .. toctree::
    :maxdepth: 2
    :caption: InGrid Versionen
@@ -62,7 +62,7 @@ Version der Bedienungsanleitung
    íge_allgemeines/ige-metaver_versionen
    
    
-   .. toctree::
+.. toctree::
    :maxdepth: 2
    :caption: Funktionen im InGrid-Editor
    
