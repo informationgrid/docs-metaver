@@ -1,6 +1,6 @@
 
-Beschreibung
-============
+Beschreibung der Objektklassen
+==============================
 
 Zur umfassenden Beschreibung der unterschiedlichsten Informationen stehen im InGrid Editor und im Portal folgende sieben Objektklassen zur Verfügung: 
 
