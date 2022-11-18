@@ -64,8 +64,10 @@ Version der Bedienungsanleitung
    :maxdepth: 2
    :caption: FAQ
    
-   ige_faq/harvesting/kataloge-harvesing
-   ige_faq/glossar/index-glossar
+   ige_faq/harvesting/kataloge-harvesting
+   ige_faq/glossar/glossar-allgemein
+   ige_faq/glossar/glossar-geo-metadaten
+   ige_faq/glossar/glossar-datenformate
 
    
 .. toctree::

@@ -66,7 +66,7 @@ Version der Bedienungsanleitung
    
    ige_faq/harvesting/kataloge-harvesting
    ige_faq/glossar/glossar-allgemein
-   ige_faq/glossar/glossar-geo-metadaten
+   ige_faq/glossar/geo-glossar
    ige_faq/glossar/glossar-datenformate
 
    
