@@ -1,7 +1,9 @@
 
+Registrierung / Anmeldung
+===========================
 
 Registrierung in METAVER
-=========================
+------------------------
 
 Öffnen Sie die Anmeldeseite.
 
@@ -36,7 +38,7 @@ Schicken Sie uns eine Nachricht über das METAVER-Kontaktformular (wählen Sie d
 
 
 Anmeldung in METAVER
-====================
+--------------------
 
 Wenn Sie eine Benutzerkennung haben und als InGrid Editor-Nutzer angelegt wurden, rufen Sie die Anmeldeseite auf (https://metaver.de/log-in), tragen Ihren Benutzernamen und Ihr Passwort ein und betätigen abschließend den Button "ANMELDEN".
 
@@ -54,7 +56,7 @@ Durch einen Klick auf den Menüpunkt "METADATEN" und anschließend auf den Butto
 
 
 Der InGrid Editor im Ausgangszustand
-====================================
+-------------------------------------
 
 Nach dem Laden des Editors wird zuerst das Dashboard gezeigt. Hier wird dargestellt, welche Objekte bzw. Adressen zuletzt bearbeitet wurden und wann das geschehen ist.
 Es gibt zwei Darstellungen: die Objekte/Adressen, für die der User selbst verantwortlich ist ("Meine Datensätze"), sowie eine Übersicht über alle Objekte/Adressen des Katalogs ("Alle Datensätze"). 
