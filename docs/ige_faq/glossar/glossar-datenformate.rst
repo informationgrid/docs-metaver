@@ -47,9 +47,9 @@ Microsoft
 
 **CAD-Formate**
 
- - DXF - AutoCAD - Drawing Interchange File Format (AutoCAD)
+ - .dxf - AutoCAD - Drawing Interchange File Format (AutoCAD)
  
- - DGN - Microstation
+ - .dgn - Microstation
  
  - Geoconcept - Anbieter spezieller Software-Lösungen für Vermessungsaufgaben auf der Basis von Autodesk®-Produkten
 
@@ -123,7 +123,7 @@ Microsoft
 
  - GRID-ASCII
 
- - XYZ - ASCII-Rasterdatenformat
+ - XYZ-ASCII-Rasterdatenformat
   
  
 **X-Standardformate**
