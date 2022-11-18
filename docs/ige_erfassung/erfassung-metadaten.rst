@@ -182,7 +182,7 @@ Die Auswahl kann über den „Verschlagwortungsassistenten“ als auch über den
 Abschnitt Fachbezug
 -------------------
 
-Der Abschnitt Fachbezug richtet sich nach der gewählten Objektklasse und wird in den Anhängen dieses Dokumentes zu den unterschiedlichen Objektklassen ausführlich beschrieben.
+Der Abschnitt Fachbezug richtet sich nach der gewählten Objektklasse, diese sind unter dem Punkt "Objektlasse" beschrieben.
 
 **Beschreibungen der Fachbezüge zu den Objektklassen**
 
@@ -462,39 +462,6 @@ Im Feld „Internet-Adresse (URL)“ wird die URL der Internetseite eingetragen,
 Dateiformat
 ^^^^^^^^^^^
 Es sind verschiedene Dateiformat-Einträge möglich, die angezeigten Dateiformate richten sich nach der gewählten Objektklasse.
-
-Auswahlliste der Dateiformate für die Objektklasse Geodatensatz:
-
- - 3D-Shape
- - AI
- - ARC/INFO-Coverage
- - ASCII
- - Bitmap
- - CityGML
- - CSV
- - DXF
- - E00-Austauschformat
- - EDBS
- - EPS
- - Excel
- - GIF
- - GML
- - GRID
- - GRID-ASCII
- - HTML
- - JPEG
- - JSON
- - NAS
- - PDF
- - PNG
- - Shapefiles
- - SVG
- - TIFF
- - WinWord
- - XML
- - XSD
- - XYZ-ASCII
- - ZIP
 
 
 URL-Typ

@@ -1,89 +1,5 @@
 
 
-Erfassung von Adressen
-======================
-
-Für eine effiziente Adressverwaltung empfiehlt es sich, hierarchische Strukturen aufzubauen, so dass erkennbar wird, in welche Fachbereiche eine Einrichtung untergliedert ist und wer die Ansprechpartner in den Fachbereichen sind. Für Personen, die keiner Institution zugeordnet werden können, besteht die Möglichkeit, diese im Adressen-Strukturbaum unterhalb des Bereiches „Freie Adressen“ anzulegen.
-
-[Grafik]
-
-Zum Anlegen einer neuen Adresse muss zunächst die Adresse ausgewählt werden, unter der die neue Adresse angelegt werden soll. Dafür die entsprechende Adresse im Strukturbaum anklicken und warten, bis die Initialisierung abgeschlossen ist.
-
-[Grafik]
-
-Sobald die Eingabemaske der Adresse im rechten Fenster (Inhaltsfenster) angezeigt wird, kann die neue Adresse, über das Symbol „Neu anlegen“ aus der Symbolleiste oder über das Kontextmenü (rechte Maustaste – „Neu anlegen“), erstellt werden.
-
-[Grafik] [Grafik]
-
-Es besteht hierbei die Wahl zwischen folgenden Adresstypen:
-
-[Grafik]
-
-[Grafik] Institution (z. B. Behörde)
-[Grafik] Einheit (z. B. Referat, Dezernat, Fachbereich oder Abteilung)
-[Grafik] Person
-
-Nach Auswahl des Adresstyps erscheint die neue Adresse rechts im Inhaltsfenster. Hier sehen Sie alle verfügbaren Felder und Informationen zur ausgewählten Adresse. Diese Felder sind je nach Adresstyp unterschiedlich.
-Standardmäßig werden zunächst nur die Pflichtfelder angezeigt. Neben den verpflichtenden Angaben können weitere Adressangaben (Anschrift, Aufgabenbereiche, usw.) zur Kontaktstelle sowie Schlagworte gespeichert werden. Sie öffnen diese optionalen Felder durch einen Klick auf das Symbol „Alle Felder aufklappen“ auf der rechten Seite in der Symbolleiste oder über das Symbol vor der Überschrift eines Themenabschnittes (dunkelblaue Balken).
-
-**Hinweis:** 
-
-*Obwohl die Adresse neu ist und gerade erst angelegt wurde, sind bestimmte Felder bereits befüllt. Diese Angaben stammen von der übergeordneten Adresse und sind als Vorschläge/Eingabehilfe zu verstehen und müssen unbedingt auf ihre Richtigkeit überprüft werden. Bitte klappen Sie daher immer alle Felder aus, um die automatisch eingefügten Daten kontrollieren zu können.*
-
-[Grafik]
-
-Abb.: In dieser Abbildung sind die automatisch befüllten Felder rot umrandet.
-
-
-Löschen von Einträgen
----------------------
-
-Soll ein bestehender Eintrag gelöscht werden, bitte die entsprechende Zeile mit der rechten Maustaste anklicken und den Punkt „Zeile löschen“ auswählen bzw. bei Textfeldern einfach den Eintrag markieren und löschen.
-
-
-Änderung von Einträgen
-----------------------
-
-Wenn ein Eintrag geändert werden soll, klicken Sie mit der linken Maustaste in das entsprechende Feld. Ein einfacher Klick setzt den Mauszeiger an die gewählte Stelle, ein weiterer Klick markiert das Wort links vom Cursor, noch ein weiterer Klick markiert die ganze Zeile.
-
-
-Veröffentlichung (Status)
--------------------------
-
-Von besonderer Bedeutung ist das Feld „Veröffentlichung“. Wie bei Objekten kann auch bei Adressen eine Veröffentlichungsbreite eingestellt werden. Im Auswahlmenü „Veröffentlichung“ sind die Werte „amtsintern“, „Intranet“ und „Internet“ verfügbar. Nur Adressen mit der Veröffentlichungsbreite „Internet“ sind auch im MetaVer veröffentlicht.
-Dabei ist zu beachten, dass eine Adresse mindestens eine gleichwertige Veröffentlichungsbreite haben muss wie ein Objekt, dem sie zugeordnet ist. Beispielsweise kann die Adresse die Veröffentlichungsbreite „Internet“ und das Objekt die Veröffentlichungsbreite „Intranet“ haben, nicht aber umgekehrt. Wenn aufgrund unterschiedlicher Veröffentlichungsbreite bei Objekt und Adresse Probleme auftreten, so wird der Nutzer darauf hingewiesen. Konflikte müssen vom Nutzer vor der Veröffentlichung der Adresse durch Anpassung der Veröffentlichungsbreite aufgelöst werden.
-
-[Grafik]
-
-**Hinweis:**
-
-*Die Angabe der E-Mail-Adresse im Abschnitt „Kommunikation“ ist ein Pflichtfeld und muss stets eingetragen werden. Fehlt die E-Mail-Adresse kann der Adressdatensatz nicht abschließend gespeichert und für das Internet veröffentlicht werden. Es kommt dann zu einer Fehlermeldung.*
-
-
-Daten nicht anzeigen
---------------------
-
-Wird die Option „Daten nicht anzeigen“ ausgewählt, so wird bei der Darstellung im Portal (auch im CSW und in OpenSearch) bei allen Metadatensätzen, denen diese Adresse zugeordnet ist, stattdessen die Adresse der übergeordneten Institution verwendet.
-
-[Grafik]
-
-
-Zugeordnete Objekte
---------------------
-
-Unter dem Abschnitt „Zugeordnete Objekte“ können keine Einträge per Hand vorgenommen werden. Hier sind alle Metadatenobjekte sichtbar, die mit dem Fachbereich bzw. der Person verknüpft sind. Beim Neuanlegen einer Adresse ist dieser Bereich noch leer. Wird jedoch in einem Objekt die Adresse als Kontaktadresse (Ansprechpartner, Hersteller, usw.) angegeben, so erscheint dieses Objekt automatisch in der Tabelle unter dem Abschnitt „Zugeordnete Objekte“.
-
-[Grafik]
-
-**Hinweise:**
-*Eine Adresse kann immer nur dann gelöscht werden, wenn dieser Adresse keine Objekte mehr zugeordnet sind, d.h. die oben abgebildete Liste der zugeordneten Objekte muss leer sein.*
-
-*Sind alle Pflichtfelder und die aus Nutzersicht notwendigen optionalen Felder gefüllt, kann die Adresse über das Symbol „Abschließendes Speichern & Veröffentlichen“ in der Symbolleiste für das Internet freigegeben werden.*
-
-*Es besteht keine Verpflichtung zur Veröffentlichung von persönlichen Adressen. Die Angabe einer Institution ist ausreichend und wird empfohlen.*
-
-
-
 Erfassung von Metadaten
 =======================
 
@@ -143,7 +59,7 @@ Soll kein Assistent verwendet werden, wird auf der rechten Seite die erforderlic
 
 
 Objekte ausfüllen
-=================
+-----------------
 
 Die nachfolgenden Felder der Erfassungsmaske wurden in diesem Dokument allgemein beschrieben. Spezielle und ausführliche Angaben sind in den Anhängen zu den einzelnen Objektklassen beschrieben.
 
@@ -228,6 +144,19 @@ Kategorien
 ^^^^^^^^^^
 
 Die Tabelle „Kategorien“ enthält eine Auswahlliste, die das Open-Data-Objekt näher bestimmen.
+
+[Grafik]
+
+[Grafik]
+
+
+Abschnitt Verschlagwortung
+--------------------------
+
+Freie Schlagworte eintragen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+In dieses Feld werden die Schlagworte eingetragen, über die das Objekt bei einer Suche möglichst schnell gefunden werden soll. Hier sollen prägnante Begriffe verwendet werden. Dies können spezielle Fachgebiete, Mess-Methoden, Bestandteile o.ä. sein. Die Freien Suchbegriffe sind ergänzend zu den Thesaurus-Suchbegriffen anzugeben. Wenn Sie hier einen Begriff eingeben, der im Umwelt-Thesaurus des Umweltbundesamtes enthalten ist, dann wird dieser automatisch als „UMTHES“ gekennzeichnet.
 
 [Grafik]
 
@@ -353,7 +282,7 @@ Mit Intervall wird der zeitliche Abstand (Frequenz) der Datenerhebung angegeben.
 
 
 Abschnitt Zusatzinformation
-===========================
+---------------------------
 
 Der Abschnitt Zusatzinformation enthält Angaben von allgemeinen Informationen wie Sprache und Veröffentlichungsbreite des Metadatensatzes.
 
@@ -382,13 +311,13 @@ Die Einstellung haben folgende Bedeutung:
 
 
 Abschnitt Verfügbarkeit
-=======================
+-----------------------
 
 Im Abschnitt Verfügbarkeit wird angegeben, ob die zu beschreibenden Daten einer Zugriffsbeschränkung unterliegen und welche Nutzungsbedingungen für diese Daten gelten.
 
 
 Zugriffsbeschränkungen
-----------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Im Feld Zugriffsbeschränkungen kann aus einer Auswahlliste ein Grund angegeben werden, warum die Daten einer Einschränkung unterliegen. Trifft keiner dieser Gründe zu, ist der Eintrag „Es gelten keine Beschränkungen“ anzugeben.
 
@@ -396,14 +325,14 @@ Im Feld Zugriffsbeschränkungen kann aus einer Auswahlliste ein Grund angegeben 
 
 
 Nutzungsbedingungen
--------------------
+^^^^^^^^^^^^^^^^^^^^^
 
 Nutzungsbedingungen sind ein einseitig vorformulierter Vertrag, mit dem der Anbieter (der Datenbereitsteller) die Nutzer der Daten über ihre Rechte und Pflichten informiert.
 In der Tabellenspalte Nutzungsbedingungen ist eine Auswahlliste mit Lizenzen hinterlegt, diese beschreiben vordefinierte Nutzungsbedingungen. Weiterhin besteht die Möglichkeit Nutzungsbedingungen per Freitext in die Zeile einzutragen oder auf Nutzungsbedingungen zu verweisen.
 
 
 Quellenvermerk
---------------
+^^^^^^^^^^^^^^
 
 In dieser Tabellenspalte wird das Copyright des Datenbreitstellers angegeben und die Angabe für das Jahr des Datenbezugs.
 
@@ -413,7 +342,7 @@ In dieser Tabellenspalte wird das Copyright des Datenbreitstellers angegeben und
 
 
 Abschnitt Verweise
-==================
+------------------
 
 Im Abschnitt Verweise können Verlinkungen zu anderen Objekten innerhalb des Kataloges angelegt, oder es können Verweise mit URLs angelegt werden. Bereits angelegte Verweise lassen sich erneut bearbeiten.
 
@@ -421,7 +350,7 @@ Im Abschnitt Verweise können Verlinkungen zu anderen Objekten innerhalb des Kat
 
 
 Verweise zu
------------
+^^^^^^^^^^^
 
 Es besteht die Möglichkeit, Verweise von einem Objekt zu einem anderen Objekt oder zu einer Internetadresse (URL) zu erstellen. In dieser Tabelle werden alle Verweise zusammenfassend aufgeführt, welche im aktuellen Objekt angelegt wurden. Über dem Link „Verweis anlegen“ öffnet sich ein Dialog, mit dem weitere Einzelheiten zu den Verweisen eingesehen und editiert werden können. Es ist möglich, weitere Verweise über das Dialogfenster „Verweis bearbeiten“ hinzuzufügen (siehe 2. Verweise anlegen).
 
@@ -432,7 +361,7 @@ Es besteht die Möglichkeit, Verweise von einem Objekt zu einem anderen Objekt o
 
 
 Verweise von
-------------
+^^^^^^^^^^^^
 
 In Tabelle „Verweise von“ werden alle Verweise von denjenigen Objekten aufgeführt, welche auf das aktuelle Objekt verweisen.
 
@@ -440,7 +369,7 @@ Das Editieren oder Hinzufügen ist an dieser Stelle nicht möglich. Sollen die V
 
 
 Verweise anlegen
-================
+----------------
 
 Im Abschnitt „Verweise“ besteht die Möglichkeit, Verweise von einem MDK-Objekt auf ein anderes MDK-Objekt oder zu einer Internetadresse (URL) zu erstellen. Alle eingegebenen Verweise werden in der Tabelle „Verweise zu“ aufgelistet.
 
@@ -456,7 +385,7 @@ Es gibt zwei mögliche Verweisziele:
  
  
 Verweistyp
-----------
+^^^^^^^^^^
 
 Angabe des fachlichen Bezuges, der zwischen dem aktuellen Objekt und dem Verweisobjekt besteht. Wird das Dialogfenster im Abschnitt Verweise geöffnet, so kann über das Dropdown-Menu (ausklappbar über den Pfeil an der rechten Seite des Feldes) aus einer Auswahlliste ein Eintrag gewählt werden. Es sind dann auch freie Einträge für den Verweistyp möglich.
 
@@ -478,7 +407,7 @@ Die angebotenen Eintragungen der Dropdown-Liste hängen von dem gewählten Objek
 
 
 Verweisziel: „Objekt“
----------------------
+^^^^^^^^^^^^^^^^^^^^^
 
 Über dieses Verweisziel werden Querverweise zwischen den Objekten des MDK definiert. Das Dialogfenster zeigt die entsprechenden Eingabefelder an.
 
@@ -486,28 +415,28 @@ Verweisziel: „Objekt“
 
 
 Objekt auswählen
-----------------
+^^^^^^^^^^^^^^^^
 
 Über „Objekt auswählen“ öffnet sich der Objektstrukturbaum, aus dem das Zielobjekt auszuwählen ist.
 Ist das Objekt markiert, zu dem ein Verweis erstellt werden soll, kann der Eintrag durch einen Klick auf den Button „Zuweisen“ übernommen werden. Die Pflichtangaben „Objektname“ und „Objektklasse“ werden automatisch mit den entsprechenden Daten des ausgewählten Objekts gefüllt.
 
 
 Erläuterung
------------
+^^^^^^^^^^^
 
 Hier können weitergehende Informationen zu dem Objekt eingegeben werden. Es können auch Erläuterungen zu der Beziehung zwischen den beschriebenen Daten des aktuellen Objektes und den Daten des Verweis-Objektes gegeben werden.
 
 
 Hinzufügen
-----------
+^^^^^^^^^^
 
 Sind alle Pflichtfelder und die gewünschten optionalen Felder gefüllt, kann der Verweis mit der Schaltfläche „Hinzufügen“ in der Tabelle angelegt werden.
 ^
 [Grafik]
 
 
-Verweisziel „URL“
------------------
+Verweisziel "URL"
+^^^^^^^^^^^^^^^^^^
 
 Soll auf eine Internetseite oder eine externe Datenquelle im Internet verwiesen werden, so ist das Verweisziel „URL“ auszuwählen. Das Dialogfenster zeigt die entsprechenden Eingabefelder an.
 
@@ -519,57 +448,24 @@ Weitere Pflichtfelder sind die „Bezeichnung des Verweises“ sowie „Internet
 
 
 Bezeichnung des Verweises
--------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Im Feld „Bezeichnung des Verweises“ soll eine möglichst aussagekräftige Bezeichnung für den Verweis angegeben werden, beispielsweise kann der dementsprechende Name der Webseite eingetragen werden. Die Eintragungen, die Sie hier angeben, erscheinen im Portal als Link. Klickt der Nutzer auf diesen Link, kommt er auf die Internetseite, die in dem Feld „Internet-Adresse (URL)“ angegeben wurde.
 
 
 Internet-Adresse (URL)
-----------------------
+^^^^^^^^^^^^^^^^^^^^^^
 
 Im Feld „Internet-Adresse (URL)“ wird die URL der Internetseite eingetragen, auf die verwiesen werden soll. Wichtig ist, die vollständige Internetadresse anzugeben, beginnend mit „https://“.
 
 
 Dateiformat
------------
+^^^^^^^^^^^
 Es sind verschiedene Dateiformat-Einträge möglich, die angezeigten Dateiformate richten sich nach der gewählten Objektklasse.
-
-Auswahlliste der Dateiformate für die Objektklasse Geodatensatz:
-
- - 3D-Shape
- - AI
- - ARC/INFO-Coverage
- - ASCII
- - Bitmap
- - CityGML
- - CSV
- - DXF
- - E00-Austauschformat
- - EDBS
- - EPS
- - Excel
- - GIF
- - GML
- - GRID
- - GRID-ASCII
- - HTML
- - JPEG
- - JSON
- - NAS
- - PDF
- - PNG
- - Shapefiles
- - SVG
- - TIFF
- - WinWord
- - XML
- - XSD
- - XYZ-ASCII
- - ZIP
 
 
 URL-Typ
--------
+^^^^^^^^
 
 Bei URL-Verweisen für ein Objekt wird unterschieden ob diese URL für das Internet oder für das Intranet gilt.
 
@@ -590,14 +486,16 @@ Auf diese Weise kann der Metadatensatz abschließend gespeichert werden. Sobald 
 
 
 Filter für Verweistypen
------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^
+
 Es besteht die Möglichkeit die Verweistypen zu filtern. Die Einträge für die Filterfunktion können über ein Dropdown-Menu geöffnet und ausgewählt werden. Es werden dann nur Verweise eines bestimmten Typs gelistet: z.B. nur Verweise vom Typ „unspezifischer Verweis“.
 
 [Grafik]
 
 
 Zeile löschen / bearbeiten
---------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 Möchten Sie einen bestehenden Verweis löschen oder ändern, so klicken Sie bitte in der Tabelle mit der rechten Maustaste auf den Verweis, der geändert oder gelöscht werden soll. Es öffnet sich eine Liste zur Auswahl des passenden Befehls.
 
 Mit „Zeile löschen“ wird der ausgewählte Verweis sofort gelöscht.
