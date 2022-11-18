@@ -1,5 +1,5 @@
-Erfassung von Metadaten
-=======================
+Metadaten erfassen
+==================
 
 Sollen Metadaten erfasst oder aktualisiert werden, so ist der Menüpunkt „Hierarchie & Erfassung“ in der Menüleiste des InGrid Editors zu wählen. Auf der linken Seite öffnet sich der Strukturbaum des InGrid Editors. Dieser lässt sich durch Klicken auf die Pluszeichen ausklappen und durch Betätigung des Minuszeichens einklappen.
 
