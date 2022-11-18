@@ -62,7 +62,7 @@ Version der Bedienungsanleitung
    
 .. toctree::
    :maxdepth: 2
-   :caption: Glossar
+   :caption: FAQ
    
    ige_faq/glossar/index-glossar
 
