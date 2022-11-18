@@ -1,5 +1,0 @@
-
-Objektklasse Anwendung
-======================
-
-Beispielinhalt

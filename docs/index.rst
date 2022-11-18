@@ -7,8 +7,8 @@ Bedienungsanleiung InGrid Editor / METAVER
 ==========================================
 
 Version der Bedienungsanleitung
-   - InGrid-Version: 5.12.0
-   - letzte Änderung: 10.11.2022
+   - InGrid-Version: 5.14.0
+   - letzte Änderung: 18.11.2022
    - Status: in Bearbeitung
 
 
@@ -16,65 +16,61 @@ Version der Bedienungsanleitung
    :maxdepth: 2
    :caption: Allgemeine Informationen
 
-   metaver-allgemeines/allgemeines-metaver
-   metaver-registrierung-anmeldung/registrierung_anmeldung
-   metaver-ingrid-editor/ingrid-editor
-
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Beschreibung der Objektklassen
+   ige_allgemeines/allgemeines-metaver
+   ige_registrierung-anmeldung/registrierung_anmeldung
+   ige_ingrid-editor/ingrid-editor
 
 
 .. toctree::
    :maxdepth: 3
    :caption: Erfassung von Metadaten
 
-   metaver-erfassung/erfassung-adressen-metadaten
-   metaver-erfassung/erfassung-metadaten
+   ige_erfassung/erfassung-adressen-metadaten
+   ige_erfassung/erfassung-metadaten
+   ige_erfassung/bearbeitung-metadaten
 
 
 .. toctree::
    :maxdepth: 3
-   :caption: Objektklassen - Fachinformationen
+   :caption: Objektklassen
    
-   metaver-objektklassen/objektklassen-beschreibung
-   metaver-objektklassen/objektklasse-geodatensatz
-   metaver-objektklassen/objektklasse-geodatendienst
-   metaver-objektklassen/objektklasse-anwendung
-   metaver-objektklassen/objektklasse-datenbank
-   metaver-objektklassen/objektklasse-dokument
-   metaver-objektklassen/objektklasse-projekt
-   metaver-objektklassen/objektklasse-organisationseinheit
+   ige_objektklassen/objektklassen-beschreibung
+   ige_objektklassen/objektklasse-geodatensatz
+   ige_objektklassen/objektklasse-geodatendienst
+   ige_objektklassen/objektklasse-anwendung
+   ige_objektklassen/objektklasse-datenbank
+   ige_objektklassen/objektklasse-dokument
+   ige_objektklassen/objektklasse-projekt
+   ige_objektklassen/objektklasse-organisationseinheit
 
 
 .. toctree::
    :maxdepth: 2
    :caption: Funktionen im InGrid-Editor
    
-   metaver-suche/ige_suche.rst
-   metVER-statistik/ige_statistik.rst
-   metaver-hilfe/ige_hilfe-erfassung.rst
+   ige_suche/ige_suche.rst
+   ige_statistik/ige_statistik.rst
+   ige_hilfe/ige_hilfe-erfassung.rst
 
 
 .. toctree::
    :maxdepth: 2
    :caption: Administration
 
-   metaver-nutzerverwaltung/nutzerverwaltung
+   ige_nutzerverwaltung/nutzerverwaltung
    
    
 .. toctree::
    :maxdepth: 2
    :caption: Glossar
    
-   metaver-allgemeines/glossar/index-glossar
+   ige_faq/glossar/index-glossar
 
    
 .. toctree::
    :maxdepth: 2
    :caption: InGrid - Versionen
    
-   metaver-allgemeines/ige-metaver_Versionen
+   íge_allgemeines/ige-metaver_Versionen
 
 
