@@ -1,5 +1,5 @@
 
-Datenformat / Beschreibung
+Datenformate / Beschreibung
 ==========================
 
 **Geo-Formate**
