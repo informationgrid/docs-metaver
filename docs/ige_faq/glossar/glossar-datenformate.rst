@@ -10,8 +10,6 @@ Datenformat / Beschreibung
  
  - GeoJSON -  ist ein offenes Format, um geografische Daten nach der Simple-Feature-Access-Spezifikation zu repräsentieren. Dafür wird die JavaScript Object Notation verwendet
  
- - GeoJSON - Umbruch getrennt
- 
  - INTERLIS 1 - ist eine Datenbeschreibungssprache und ein Transferformat mit besonderer Berücksichtigung von Geodaten und der modellbasierten Methode
  
  - INTERLIS 2 - ist eine Datenbeschreibungssprache und ein Transferformat mit besonderer Berücksichtigung von Geodaten und der modellbasierten Methode
@@ -32,19 +30,19 @@ ESRI
  - 3D-Shape
  
  
- Google
+QGIS
+
+ - .qgs
+
+
+Google
  
  - GSV - Google Street View
  
  
- Microsoft
+Microsoft
  
  - SDB - SDB Dateien gehören meistens zu Windows von Microsoft. Die Dateinamenerweiterung SDB wird typischerweise mit Dateien assoziiert, die 3D-Modelle enthalten, die mit SAP2000, einer Software zur Strukturanalyse, erstellt wurden. 
-
- 
-QGIS
-
- - .qgs
 
 
 **CAD-Formate**
@@ -114,7 +112,7 @@ Microsoft
  - .xlsx - MS-Excel
 
 
-(Open) Office
+(Open)-Office
 
  - .ods - Open-Document-Tabelle
 
