@@ -18,20 +18,12 @@ Version der Bedienungsanleitung
 
    metaver-allgemeines/allgemeines-metaver
    metaver-registrierung-anmeldung/registrierung_anmeldung
-   
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Der Metadateneditor
-
    metaver-ingrid-editor/ingrid-editor
 
 
 .. toctree::
    :maxdepth: 2
    :caption: Beschreibung der Objektklassen
-   
-   metaver-objektklassen/objektklassen-beschreibung
 
 
 .. toctree::
@@ -39,12 +31,14 @@ Version der Bedienungsanleitung
    :caption: Erfassung von Metadaten
 
    metaver-erfassung/erfassung-adressen-metadaten
+   metaver-erfassung/erfassung-metadaten
 
 
 .. toctree::
    :maxdepth: 3
    :caption: Objektklassen - Fachinformationen
-
+   
+   metaver-objektklassen/objektklassen-beschreibung
    metaver-objektklassen/objektklasse-geodatensatz
    metaver-objektklassen/objektklasse-geodatendienst
    metaver-objektklassen/objektklasse-anwendung
@@ -56,7 +50,16 @@ Version der Bedienungsanleitung
 
 .. toctree::
    :maxdepth: 2
-   :caption: METAVER Nutzerverwaltung
+   :caption: Funktionen im InGrid-Editor
+   
+   metaver-suche/ige_suche.rst
+   metVER-statistik/ige_statistik.rst
+   metaver-hilfe/ige_hilfe-erfassung.rst
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Administration
 
    metaver-nutzerverwaltung/nutzerverwaltung
    
