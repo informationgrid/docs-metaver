@@ -2,53 +2,9 @@
 Geodatensatz
 ============
 
+Spezielle Felder
+----------------
 
-
-
-
-
-Metadatenkatalog Sachsen-Anhalt
-
-Erfassungsanleitung
-Teil 2 / Anhang 1
-
-Objektklasse: Geodatensatz
-
- 
-
-
-(InGrid-Version 5.6.2)
-
-Stand: 01.12.2020
-
-
- 
-
-Inhaltsverzeichnis
-
-1 OBJEKTKLASSE: GEODATENSATZ	3
-1.1	Kopf der Erfassungsmaske	3
-1.2	Abschnitt Allgemeines	4
-1.3	Abschnitt Verschlagwortung	9
-1.4	Abschnitt Fachbezug	15
-1.5	Abschnitt Datenqualität	22
-1.6	Abschnitt Raumbezugsystem	25
-1.7	Abschnitt Zeitbezug	29
-1.8	Abschnitt Zusatzinformation	31
-1.9	Abschnitt Verfügbarkeit	35
-1.10	Abschnitt Verweise	38
-Anlage	39
-
-
-
- 
-
-
-1 Objektklasse: Geodatensatz 
-
-1.1	Kopf der Erfassungsmaske
-
- 
 
 Nach dem Anlegen eines neuen Objektes stehen die Eingabefelder für das neue Objekt im rechten Inhaltsfenster zur Verfügung. Als erster Schritt sollten die Basisinformationen im Inhaltsfenster (siehe Screenshot) bearbeitet werden.
 
@@ -87,10 +43,6 @@ sie ist nicht zu verwechseln mit dem Identifikator der Datenquelle!
 
 1.2	Abschnitt Allgemeines
 
- 
-
- 
-
 Kurzbezeichnung
 Angabe einer Abkürzung (Kurzbezeichnung) für den zu beschreibenden Geodatensatz.
 
@@ -119,7 +71,7 @@ Abb.: Anzeige der Vorschaugrafik (WMS) in der Suchergebnisliste auf der Portalob
  
 
 Abb.: Anzeige der Vorschaugrafik in der Detailansicht des Datensatzes - Über den Button "Zeige Karte" wird der Kartenviewer aufgerufen.
- 
+
  
 
 Beschreibung
@@ -133,16 +85,16 @@ Adressen
 An dieser Stelle sind Personen, Fachbereiche oder Institutionen anzugeben, die weitere Auskünfte zum aktuellen Objekt/Datensatz geben können. Es besteht dabei keine Verpflichtung zur Veröffentlichung von Personenbezogenen Daten (siehe Erfassungsanleitung Teil 2, Punkt: 1.1 Anlegen von Adressen, Feld: "Daten nicht anzeigen"). Die Angabe einer Institution oder eines Fachbereiches ist ausreichend. Bei Bedarf können diese Verweise geändert werden. In der linken Spalte ist kein freier Eintrag möglich, die Auswahl erfolgt über eine Dropdown-Liste. Zum Öffnen des Dropdownmenüs die entsprechende freie Zelle der Tabelle markieren und anschließend auf das kleine Dreieck am rechten Rand klicken. Es öffnet sich daraufhin die Dropdown-Liste mit den Auswahlmöglichkeiten:
 
 Auswahlliste Art des Verweises
-•	Anbieter 
-•	Ansprechpartner 
-•	Autor 
-•	Bearbeiter 
-•	Eigentümer 
-•	Herausgeber	•	Nutzer
-•	Projektleitung
-•	Urheber
-•	Vertrieb
-•	Verwalter
+ - Anbieter 
+ - Ansprechpartner 
+ - Autor 
+ - Bearbeiter 
+ - Eigentümer 
+ - Herausgeber	 - Nutzer
+ - Projektleitung
+ - Urheber
+ - Vertrieb
+ - Verwalter
 
 
 Link Adresse hinzufügen
@@ -171,8 +123,8 @@ INSPIRE-relevant
 Dieses Feld definiert, wenn aktiviert, dass ein Metadatensatz für das INSPIRE-Monitoring vorgesehen ist.
 
 Folgende Eigenschaften ändern sich bei der Aktivierung der Checkbox:
-•	Hinzufügen des Schlagwortes "inspireidentifiziert" während der ISO-XML Generierung
-•	Verpflichtende Angabe eines INSPIRE-Themas im Abschnitt "Verschlagwortung"
+ - Hinzufügen des Schlagwortes "inspireidentifiziert" während der ISO-XML Generierung
+ - Verpflichtende Angabe eines INSPIRE-Themas im Abschnitt "Verschlagwortung"
 
 Die als INSPIRE-relevant markierten Datensätze werden im INSPIRE GeoPortal (https://inspire-geoportal.ec.europa.eu/) veröffentlicht.
 
@@ -195,9 +147,9 @@ Open Data
 Diese Checkbox kennzeichnet den Metadatensatz als "Open Data"-Objekt.
 Es sind dann zusätzlich folgende Angaben verpflichtend:
 
-•	In der (nur für OpenData) erscheinenden Tabelle "Kategorien" muss mindestens ein Wert eingetragen werden.
-•	Unter Verweisen muss mindestens ein Verweis vom Typ "Datendownload" eingetragen werden.
-•	Unter "Nutzungsbedingung" muss mindestens ein Eintrag vorhanden sein.
+ - In der (nur für OpenData) erscheinenden Tabelle "Kategorien" muss mindestens ein Wert eingetragen werden.
+ - Unter Verweisen muss mindestens ein Verweis vom Typ "Datendownload" eingetragen werden.
+ - Unter "Nutzungsbedingung" muss mindestens ein Eintrag vorhanden sein.
 
 Hinweis:
 Die Checkbox „Open Data“ ist derzeit für Sachsen-Anhalt nicht relevant, da für Open Data noch keine gesetzlichen Grundlagen existieren. 
@@ -228,7 +180,7 @@ Achtung:
 Dieses Feld ist nur ein Pflichtfeld, wenn in das Feld "INSPIRE-relevant" ein Häkchen gesetzt wurde.
 
 Über ein Dropdownmenü öffnet sich die Liste aller INSPIRE-Themengebiete, aus der das zutreffende Thema auszuwählen ist. Handelt es sich bei den beschriebenen Daten um keinen INSPIRE-relevanten Geodatensatz, so ist "kein INSPIRE-Thema" aus der Liste auszuwählen. 
- 
+
 Auswahlliste INSPIRE-Themen
 1.	Kein INSPIRE-Thema
 2.	Adressen
@@ -287,9 +239,9 @@ INSPIRE - Räumlicher Anwendungsbereich (INSPIRE-Pflichtfeld)
 Das Schlagwort "Räumlicher Anwendungsbereich" wird im Rahmen des INSPIRE-Monitorings verwendet, um die flächenmäßige Abdeckung der INSPIRE-relevanten Geodatensätze auszuwerten. INSPIRE-relevante Geodatensätze müssen aus den zur Auswahl stehenden Werten entweder mit "National", "Regional" oder "Lokal" beschrieben werden.
 
 Auswahlfeld INSPIRE - Räumlicher Anwendungsbereich
-•	Europäisch
-•	Global	•	Lokal
-•	National	•	Regional
+ - Europäisch
+ - Global	 - Lokal
+ - National	 - Regional
 
 
  
@@ -307,24 +259,24 @@ Wird versucht eine ISO-Kategorie zu löschen, die an ein INSPIRE-Thema geknüpft
 Umgekehrt gilt der Automatismus nicht: Beim Hinzufügen einer ISO Kategorie wird kein INSPIRE Thema gesetzt.
 
 Auswahlliste ISO 19115 Themenkategorien
-•	Atmosphäre
-•	Bauwerke
-•	Binnengewässer
-•	Biologie
-•	Geowissenschaften
-•	Gesellschaft
-•	Gesundheitswesen
-•	Grenzen
-•	Höhenangaben
-•	Landwirtschaft	•	Meere
-•	Militär und Aufklärung
-•	Oberflächenbeschreibung
-•	Ortsangaben
-•	Planungsunterlagen, Kataster
-•	Umwelt
-•	Ver- und Entsorgung, Kommunikation
-•	Verkehrswesen
-•	Wirtschaft
+ - Atmosphäre
+ - Bauwerke
+ - Binnengewässer
+ - Biologie
+ - Geowissenschaften
+ - Gesellschaft
+ - Gesundheitswesen
+ - Grenzen
+ - Höhenangaben
+ - Landwirtschaft	 - Meere
+ - Militär und Aufklärung
+ - Oberflächenbeschreibung
+ - Ortsangaben
+ - Planungsunterlagen, Kataster
+ - Umwelt
+ - Ver- und Entsorgung, Kommunikation
+ - Verkehrswesen
+ - Wirtschaft
 
 Hinweis: Der Inhalt der Themen-Auswahlliste stammt aus der ISO 19115 und kann nicht erweitert werden. 
 
@@ -423,7 +375,7 @@ Bei Daten dieser Klasse ist zwischen einem "Datensatz" und einer "Datenserie" zu
 
  
 
- 
+
 Datensatz
 Als Datensatz wird eine in sich abgeschlossene Sammlung von Geodaten (Daten mit Raumbezug) bezeichnet, z.B. ein digitaler Bestand zu einem bestimmten fachlichen Thema.
 
@@ -457,9 +409,9 @@ Achtung: Dieses Feld ist nur aktiv nach Auswahl von "Vektor" im Feld "Digitale R
 
 Erstellungsmaßstab
 Angabe des Erstellungsmaßstabes, der sich auf die erstellte Karte und/oder Digitalisiergrundlage bei Geodaten bezieht. 
-•	Maßstab 1:x: Maßstab der Karte, z.B. 1:12 
-•	Bodenauflösung (m): Einheit geteilt durch Auflösung multipliziert mit dem Maßstab (Angabe in Meter, Fließkommazahl) 
-•	Scanauflösung (DPI): Auflösung z.B. einer eingescannten Karte, z.B. 120dpi (Angabe in dpi, Integerzahl)
+ - Maßstab 1:x: Maßstab der Karte, z.B. 1:12 
+ - Bodenauflösung (m): Einheit geteilt durch Auflösung multipliziert mit dem Maßstab (Angabe in Meter, Fließkommazahl) 
+ - Scanauflösung (DPI): Auflösung z.B. einer eingescannten Karte, z.B. 120dpi (Angabe in dpi, Integerzahl)
 
 Beispiel:
 Bodenauflösung: Auflösungseinheit in Linien/cm; Einheit: z.B. 1 cm geteilt durch 400 Linien multipliziert mit dem Maßstab 1:25.000 ergibt 62,5 cm als Bodenauflösung
@@ -532,7 +484,7 @@ Angabe der Unterlagen (Luftbilder, Karten, Datensammlungen), die bei der Erstell
 
 Beispiel: Kartieroriginale der Pflanzenerfassung
 
- 
+
  
 
 Herstellungsprozess
@@ -690,71 +642,71 @@ Anmerkung:
 Die Arbeitsgemeinschaft der Vermessungsverwaltungen der Länder der Bundesrepublik Deutschland (AdV) hat 1991 die Einführung des ETRS89 als Bezugssystem Lage und 1995 die Einführung von UTM als ebenes Koordinatensystem für ETRS89 beschlossen. Dies geschieht im Einklang mit den Empfehlungen der EU zur Realisierung eines europaweiten Raumbezuges und somit zur Schaffung einer einheitlichen Basis für die zukunftsfähige Geodateninfrastruktur in Europa. 
 
 Beispiel: EPSG:4326 / WGS 84 / geographisch
- 
+
 Auswahlliste der Raumbezugssysteme
-•	CRS 84: CRS 84 / mathematisch
-•	DE_42/83 / GK_3
-•	DE_DHDN / GK_3
-•	DE_DHDN / GK_3_BW100
-•	DE_DHDN / GK_3_HE100
-•	DE_DHDN / GK_3_NW177
-•	DE_DHDN / GK_3_RDN
-•	DE_DHDN / GK_3_RP101
-•	DE_DHDN / GK_3_RP180
-•	DE_ETRS89 / UTM
-•	DE_PD/83 / GK_3
-•	DE_PD/83 / GK_9-15, Bezug 12. Meridian (BY)
-•	DE_RD/83 / GK_3
-•	EPSG 2176: ETRS89 / Poland CS2000 zone 5
-•	EPSG 23031: ED50 / UTM Zone 31N
-•	EPSG 23032: ED50 / UTM Zone 32N
-•	EPSG 23033: ED50 / UTM Zone 33N
-•	EPSG 2397: Pulkovo 1942(83) / Gauss-Kruger zone 3
-•	EPSG 2398: Pulkovo 1942(83) / Gauss-Kruger zone 4
-•	EPSG 2399: Pulkovo 1942(83) / Gauss-Kruger zone 5
-•	EPSG 25831: ETRS89 / UTM Zone 31N (INSPIRE)
-•	EPSG 25832: ETRS89 / UTM Zone 32N (INSPIRE)
-•	EPSG 25833: ETRS89 / UTM Zone 33N (INSPIRE)
-•	EPSG 25834: ETRS89 / UTM Zone 34N (INSPIRE)
-•	EPSG 28462: Pulkovo 1942 / Gauss-Krüger 2N
-•	EPSG 28463: Pulkovo 1942 / Gauss-Krüger 3N
-•	EPSG 3034: ETRS89 / LCC Europa (INSPIRE)
-•	EPSG 3035: ETRS89 / LAEA Europa (INSPIRE)
-•	EPSG 3038: ETRS89 / ETRS-TM26
-•	EPSG 3039: ETRS89 / ETRS-TM27
-•	EPSG 3040: ETRS89 / ETRS-TM28
-•	EPSG 3041: ETRS89 / ETRS-TM29
-•	EPSG 3042: ETRS89 / ETRS-TM30
-•	EPSG 3043: ETRS89 / ETRS-TM31
-•	EPSG 3044: ETRS89 / UTM Zone 32N (N-E) (INSPIRE)
-•	EPSG 3045: ETRS89 / UTM Zone 33N (N-E) (INSPIRE)
-•	EPSG 3046: ETRS89 / ETRS-TM34
-•	EPSG 3047: ETRS89 / ETRS-TM35
-•	EPSG 3068: DHDN / Soldner Berlin
-•	EPSG 31466: DHDN / Gauss-Krüger Zone 2
-•	EPSG 31467: DHDN / Gauss-Krüger Zone 3
-•	EPSG 31468: DHDN / Gauss-Krüger Zone 4
-•	EPSG 31469: DHDN / Gauss-Krüger Zone 5
-•	EPSG 32631: WGS 84 / UTM Zone 31N
-•	EPSG 32632: WGS 84 / UTM Zone 32N
-•	EPSG 32633: WGS 84 / UTM Zone 33N
-•	EPSG 35832: ETRS89 / UTM zone 32N 8d
-•	EPSG 35833: ETRS89 / UTM zone 33N 8d
-•	EPSG 3857: WGS 84 / Pseudo-Mercator
-•	EPSG 4178: Pulkovo 1942(83) / geographisch
-•	EPSG 4230: ED50 / geographisch
-•	EPSG 4258: ETRS89 / geographisch (INSPIRE)
-•	EPSG 4284: Pulkovo 1942 / geographisch
-•	EPSG 4314: DHDN / geographisch
-•	EPSG 4326: WGS 84 / geographisch
-•	EPSG 4647: ETRS89 / UTM Zone 32N (zE-N)
-•	EPSG 4839: ETRS89 / LCC Deutschland (N-E)
-•	EPSG 5650: ETRS89 / UTM Zone 33N (zE-N)
-•	EPSG 5676: DHDN / Gauss-Krüger Zone 2 (E-N)
-•	EPSG 5677: DHDN / Gauss-Krüger Zone 3 (E-N)
-•	EPSG 5678: DHDN / Gauss-Krüger Zone 4 (E-N)
-•	EPSG 5679: DHDN / Gauss-Krüger Zone 5 (E-N)
-•	EPSG 8395: ETRS89 / Gauss-Krüger (CM 9E)
+ - CRS 84: CRS 84 / mathematisch
+ - DE_42/83 / GK_3
+ - DE_DHDN / GK_3
+ - DE_DHDN / GK_3_BW100
+ - DE_DHDN / GK_3_HE100
+ - DE_DHDN / GK_3_NW177
+ - DE_DHDN / GK_3_RDN
+ - DE_DHDN / GK_3_RP101
+ - DE_DHDN / GK_3_RP180
+ - DE_ETRS89 / UTM
+ - DE_PD/83 / GK_3
+ - DE_PD/83 / GK_9-15, Bezug 12. Meridian (BY)
+ - DE_RD/83 / GK_3
+ - EPSG 2176: ETRS89 / Poland CS2000 zone 5
+ - EPSG 23031: ED50 / UTM Zone 31N
+ - EPSG 23032: ED50 / UTM Zone 32N
+ - EPSG 23033: ED50 / UTM Zone 33N
+ - EPSG 2397: Pulkovo 1942(83) / Gauss-Kruger zone 3
+ - EPSG 2398: Pulkovo 1942(83) / Gauss-Kruger zone 4
+ - EPSG 2399: Pulkovo 1942(83) / Gauss-Kruger zone 5
+ - EPSG 25831: ETRS89 / UTM Zone 31N (INSPIRE)
+ - EPSG 25832: ETRS89 / UTM Zone 32N (INSPIRE)
+ - EPSG 25833: ETRS89 / UTM Zone 33N (INSPIRE)
+ - EPSG 25834: ETRS89 / UTM Zone 34N (INSPIRE)
+ - EPSG 28462: Pulkovo 1942 / Gauss-Krüger 2N
+ - EPSG 28463: Pulkovo 1942 / Gauss-Krüger 3N
+ - EPSG 3034: ETRS89 / LCC Europa (INSPIRE)
+ - EPSG 3035: ETRS89 / LAEA Europa (INSPIRE)
+ - EPSG 3038: ETRS89 / ETRS-TM26
+ - EPSG 3039: ETRS89 / ETRS-TM27
+ - EPSG 3040: ETRS89 / ETRS-TM28
+ - EPSG 3041: ETRS89 / ETRS-TM29
+ - EPSG 3042: ETRS89 / ETRS-TM30
+ - EPSG 3043: ETRS89 / ETRS-TM31
+ - EPSG 3044: ETRS89 / UTM Zone 32N (N-E) (INSPIRE)
+ - EPSG 3045: ETRS89 / UTM Zone 33N (N-E) (INSPIRE)
+ - EPSG 3046: ETRS89 / ETRS-TM34
+ - EPSG 3047: ETRS89 / ETRS-TM35
+ - EPSG 3068: DHDN / Soldner Berlin
+ - EPSG 31466: DHDN / Gauss-Krüger Zone 2
+ - EPSG 31467: DHDN / Gauss-Krüger Zone 3
+ - EPSG 31468: DHDN / Gauss-Krüger Zone 4
+ - EPSG 31469: DHDN / Gauss-Krüger Zone 5
+ - EPSG 32631: WGS 84 / UTM Zone 31N
+ - EPSG 32632: WGS 84 / UTM Zone 32N
+ - EPSG 32633: WGS 84 / UTM Zone 33N
+ - EPSG 35832: ETRS89 / UTM zone 32N 8d
+ - EPSG 35833: ETRS89 / UTM zone 33N 8d
+ - EPSG 3857: WGS 84 / Pseudo-Mercator
+ - EPSG 4178: Pulkovo 1942(83) / geographisch
+ - EPSG 4230: ED50 / geographisch
+ - EPSG 4258: ETRS89 / geographisch (INSPIRE)
+ - EPSG 4284: Pulkovo 1942 / geographisch
+ - EPSG 4314: DHDN / geographisch
+ - EPSG 4326: WGS 84 / geographisch
+ - EPSG 4647: ETRS89 / UTM Zone 32N (zE-N)
+ - EPSG 4839: ETRS89 / LCC Deutschland (N-E)
+ - EPSG 5650: ETRS89 / UTM Zone 33N (zE-N)
+ - EPSG 5676: DHDN / Gauss-Krüger Zone 2 (E-N)
+ - EPSG 5677: DHDN / Gauss-Krüger Zone 3 (E-N)
+ - EPSG 5678: DHDN / Gauss-Krüger Zone 4 (E-N)
+ - EPSG 5679: DHDN / Gauss-Krüger Zone 5 (E-N)
+ - EPSG 8395: ETRS89 / Gauss-Krüger (CM 9E)
  
 
 Höhe
@@ -815,15 +767,15 @@ Achtung: Der Eintrag "unbekannt" sollte nicht mehr verwendet werden.
 Falls noch in Altdaten vorhanden, sollte dieses Wort durch sinnvolle Einträge ersetzt werden. Er stellt eine nicht ISO-konforme Erweiterung der Auswahlliste dar.
 
 Auswahlliste der Periodizität
-•	bei Bedarf
-•	einmalig
-•	halbjährlich	•	jährlich
-•	kontinuierlich
-•	monatlich	•	täglich
-•	unbekannt
-•	unregelmäßig	•	vierteljährlich
-•	wöchentlich
-•	zweiwöchentlich
+ - bei Bedarf
+ - einmalig
+ - halbjährlich	 - jährlich
+ - kontinuierlich
+ - monatlich	 - täglich
+ - unbekannt
+ - unregelmäßig	 - vierteljährlich
+ - wöchentlich
+ - zweiwöchentlich
 
 Beispiel: täglich
 
@@ -833,13 +785,13 @@ Beispiel: täglich
 Status
 Stand der Ausführung des Projektes, der Messung etc. Der Editor nimmt alle bekannten Daten auf, diese können sich in unterschiedlichen Stadien ihrer Lebenszeit befinden, d.h. Projekte, Programme oder Messungen können in konkreter Planung sein, derzeit durchgeführt werden oder schon abgeschlossen sein.
 Auswalliste Status
-•	abgeschlossen
-•	erforderlich
-•	geplant
-•	historisches Archiv	•	in Erstellung
-•	in Produktion
-•	kontinuierliche Aktualisierung
-•	veraltet
+ - abgeschlossen
+ - erforderlich
+ - geplant
+ - historisches Archiv	 - in Erstellung
+ - in Produktion
+ - kontinuierliche Aktualisierung
+ - veraltet
 
 Beispiel: abgeschlossen
 
@@ -850,10 +802,10 @@ Im Intervall
 Angabe des zeitlichen Abstands (Frequenz) der Datenerhebung. Erfolgt die Datenerhebung kontinuierlich oder periodisch (siehe Feld Periodizität), so soll diese Angabe hier präzisiert werden. Es stehen Felder für den freien Eintrag einer Ziffer und eine Auswahlliste zur Verfügung, die zeitliche Intervalle vorgibt. Der Eintrag von 10 und Tage bedeutet: Die beschriebenen Daten werden bzw. wurden alle 10 Tage erhoben.
 
 Auswahlliste der Intervalle
-•	Jahre
-•	Monate	•	Tage
-•	Stunden	•	Minuten
-•	Sekunden
+ - Jahre
+ - Monate	 - Tage
+ - Stunden	 - Minuten
+ - Sekunden
 
 Beispiel: Alle 6 Monate
 
@@ -883,15 +835,15 @@ Standardeinstellung ist: Deutsch
 Veröffentlichung
 Das Feld "Veröffentlichung" ist sehr wichtig, denn es gibt den Status der Veröffentlichungsbreite an. Möglich sind folgende Werte, die über ein Dropdown-Menü ausgewählt werden können:
  
-•	Internet
+ - Internet
 Das Objekt wird für das Internet veröffentlicht. 
 
-•	Intranet
+ - Intranet
 Das Objekt wird nur für das Intranet veröffentlicht, aber nicht für das Internet. 
 
 Hinweis: Diese Option trifft derzeit für Sachsen-Anhalt nicht zu, da die Portal-/Erfassungssoftware nicht im Landesdatennetz installiert ist.
 
-•	amtsintern
+ - amtsintern
 Das Objekt ist nur im Strukturbaum der Erfassungssoftware sichtbar, aber nicht im Intranet und auch nicht im Internet.
 
 
@@ -917,31 +869,31 @@ Zeichensatz des Datensatzes
 Angaben zu dem im beschriebenen Datensatz benutzten Zeichensatz z.B. UTF-8.
 
 Auswahlliste Zeichensatz des Datensatzes
-•	8859part1
-•	8859part2
-•	8859part3
-•	8859part4
-•	8859part5
-•	8859part6
-•	8859part7	•	8859part8
-•	8859part9
-•	8859part10
-•	8859part11
-•	8859part12
-•	8859part13
-•	8859part14	•	8859part15
-•	big5
-•	Ebcdic
-•	EucJP
-•	EucKR
-•	GB2312
-•	Jis	•	ShiftJIS
-•	ucs2
-•	ucs4
-•	UsAscii
-•	utf7
-•	utf8
-•	utf16
+ - 8859part1
+ - 8859part2
+ - 8859part3
+ - 8859part4
+ - 8859part5
+ - 8859part6
+ - 8859part7	 - 8859part8
+ - 8859part9
+ - 8859part10
+ - 8859part11
+ - 8859part12
+ - 8859part13
+ - 8859part14	 - 8859part15
+ - big5
+ - Ebcdic
+ - EucJP
+ - EucKR
+ - GB2312
+ - Jis	 - ShiftJIS
+ - ucs2
+ - ucs4
+ - UsAscii
+ - utf7
+ - utf8
+ - utf16
 
 
  
@@ -951,7 +903,7 @@ Hier muss angegeben werden, zu welcher Durchführungsbestimmung der INSPIRE-Rich
 
 Dieses Feld wird bei der Auswahl der "INSPIRE-Themen" oder der "Art des Dienstes" automatisch befüllt. Es muss dann nur der Grad der Konformität manuell eingetragen werden.
 
- 
+
 Achtung:
 Bitte entsprechend den Empfehlungen des AdV-Metadatenprofils nur die Werte "konform" und "nicht konform" im Feld "Grad der Konformität" verwenden. Für alle nicht INSPIRE-Objekte, sollte hier die „INSPIRE-Richtlinie“ mit dem Wert „nicht evaluiert“ ausgewählt werden. 
 
@@ -994,15 +946,15 @@ Das Feld Zugriffsbeschränkungen ist ein Feld, welches im Zusammenhang mit INSPI
 Beispiel: aufgrund der Rechte des geistigen Eigentums
 
 Auswahlliste Zugriffsbeschränkungen
-•	aufgrund der Rechte des geistigen Eigentums
-•	aufgrund der Vertraulichkeit der Verfahren von Behörden
-•	aufgrund der Vertraulichkeit personenbezogener Daten
-•	aufgrund der Vertraulichkeit von Geschäfts- oder Betriebsinformationen
-•	aufgrund des Schutzes einer Person
-•	aufgrund des Schutzes von Umweltbereichen
-•	aufgrund internationaler Beziehungen, der öffentliche Sicherheit oder der Landesverteidigung
-•	aufgrund laufender Gerichtsverfahren
-•	Es gelten keine Zugriffsbeschränkungen
+ - aufgrund der Rechte des geistigen Eigentums
+ - aufgrund der Vertraulichkeit der Verfahren von Behörden
+ - aufgrund der Vertraulichkeit personenbezogener Daten
+ - aufgrund der Vertraulichkeit von Geschäfts- oder Betriebsinformationen
+ - aufgrund des Schutzes einer Person
+ - aufgrund des Schutzes von Umweltbereichen
+ - aufgrund internationaler Beziehungen, der öffentliche Sicherheit oder der Landesverteidigung
+ - aufgrund laufender Gerichtsverfahren
+ - Es gelten keine Zugriffsbeschränkungen
 
 
  
@@ -1015,41 +967,41 @@ In das Feld Nutzungsbedingungen sollen die Bedingungen zur Nutzung des beschrieb
 Beispiel: Nutzungsbedingungen für das amtliche Vermessungswesen Sachsen-Anhalt
 
 Es ist auch möglich, vordefinierten Text aus einer Liste auszuwählen. 
- 
+
 Auswahlliste Nutzungsbedingungen
-•	Es gelten keine Bedingungen
-•	Amtliches Werk, lizenzfrei nach §5 Abs. 1 UrhG
-•	Andere Freeware Lizenz
-•	Andere geschlossene Lizenz
-•	Andere kommerzielle Lizenz
-•	Andere offene Lizenz
-•	Andere Open Source Lizenz
-•	BSD Lizenz
-•	Creative Commons CC Zero License (cc-zero)
-•	Creative Commons Namensnennung (CC-BY)
-•	Creative Commons Namensnennung - - Keine Bearbeitung 4.0 International (CC BY-ND 4.0)
-•	Creative Commons Namensnennung - Nicht kommerziell (CC BY-NC)
-•	Creative Commons Namensnennung - Nicht kommerziell 4.0 International (CC BY-NC 4.0)
-•	Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen (CC-BY-SA)
-•	Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International (CC-BY-SA 4.0)
-•	Creative Commons Namensnennung -- Keine Bearbeitung 3.0 Unported (CC BY-ND 3.0)
-•	Creative Commons Namensnennung – 4.0 International (CC BY 4.0)
-•	Datenlizenz Deutschland Namensnennung 1.0
-•	Datenlizenz Deutschland Namensnennung 2.0
-•	Datenlizenz Deutschland Namensnennung nicht-kommerziell 1.0
-•	Datenlizenz Deutschland – Zero – Version 2.0
-•	eingeschränkte Geolizenz
-•	Freie Softwarelizenz der Apache Software Foundation
-•	Geolizenz Ia Namensnennung
-•	GNU Free Documentation License (GFDL)
-•	GNU General Public License version 3.0 (GPLv3)
-•	Mozilla Public License 2.0 (MPL)
-•	Nutzung der Daten nur nach Rücksprache mit dem Dateneigentümer
-•	Nutzungsbestimmungen für die Bereitstellung von Geodaten des Bundes
-•	Open Data Commons Attribution License (ODC-BY 1.0)
-•	Open Data Commons Open Database License (ODbL)
-•	Open Data Commons Public Domain Dedication and Licence (ODC PDDL)
-•	Public Domain Mark 1.0 (PDM)
+ - Es gelten keine Bedingungen
+ - Amtliches Werk, lizenzfrei nach §5 Abs. 1 UrhG
+ - Andere Freeware Lizenz
+ - Andere geschlossene Lizenz
+ - Andere kommerzielle Lizenz
+ - Andere offene Lizenz
+ - Andere Open Source Lizenz
+ - BSD Lizenz
+ - Creative Commons CC Zero License (cc-zero)
+ - Creative Commons Namensnennung (CC-BY)
+ - Creative Commons Namensnennung - - Keine Bearbeitung 4.0 International (CC BY-ND 4.0)
+ - Creative Commons Namensnennung - Nicht kommerziell (CC BY-NC)
+ - Creative Commons Namensnennung - Nicht kommerziell 4.0 International (CC BY-NC 4.0)
+ - Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen (CC-BY-SA)
+ - Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International (CC-BY-SA 4.0)
+ - Creative Commons Namensnennung -- Keine Bearbeitung 3.0 Unported (CC BY-ND 3.0)
+ - Creative Commons Namensnennung – 4.0 International (CC BY 4.0)
+ - Datenlizenz Deutschland Namensnennung 1.0
+ - Datenlizenz Deutschland Namensnennung 2.0
+ - Datenlizenz Deutschland Namensnennung nicht-kommerziell 1.0
+ - Datenlizenz Deutschland – Zero – Version 2.0
+ - eingeschränkte Geolizenz
+ - Freie Softwarelizenz der Apache Software Foundation
+ - Geolizenz Ia Namensnennung
+ - GNU Free Documentation License (GFDL)
+ - GNU General Public License version 3.0 (GPLv3)
+ - Mozilla Public License 2.0 (MPL)
+ - Nutzung der Daten nur nach Rücksprache mit dem Dateneigentümer
+ - Nutzungsbestimmungen für die Bereitstellung von Geodaten des Bundes
+ - Open Data Commons Attribution License (ODC-BY 1.0)
+ - Open Data Commons Open Database License (ODbL)
+ - Open Data Commons Public Domain Dedication and Licence (ODC PDDL)
+ - Public Domain Mark 1.0 (PDM)
 
 Bei frei nutzbaren Daten bzw. Diensten ist beispielsweise "Es gelten keine Bedingungen" aus der Liste zu verwenden. Aber auch die Lizenzen für Open Data-Objekte finden Sie in dieser Liste (Datenlizenz Deutschland). 
 
@@ -1084,22 +1036,22 @@ Medienoptionen
 Angabe, auf welchen Medien die Daten zur Verfügung gestellt werden können. Hier können elektronische Datenträger als auch Medien in Papierform angegeben werden, auf denen die im Objekt beschriebenen Daten dem Nutzer zur Verfügung stehen. Es können mehrere Medien eingetragen werden. Medium: Angabe der Medien, auf denen der Datensatz bereitgestellt werden kann (ISO-Auswahlliste) Datenvolumen: Umfang des Datenvolumens in MB (Fließkommazahl) Speicherort: Ort der Datenspeicherung im Intranet/Internet, Angabe als Verweis.
 
 Auswahlliste Medium
-•	0,5-Zoll Kassette
-•	3,5-Zoll Diskette
-•	analoge Fotografie
-•	Ausdruck
-•	CD-ROM
-•	DVD	•	DVD-ROM
-•	E-Mail
-•	Faxabruf
-•	Infokiosk
-•	Mikrofilm
-•	Mobilfunk	•	Online Link
-•	Rundfunk
-•	Telefonverbindung
-•	unbekannt (*)
-•	Videotext
-•	ZIP-Laufwerk
+ - 0,5-Zoll Kassette
+ - 3,5-Zoll Diskette
+ - analoge Fotografie
+ - Ausdruck
+ - CD-ROM
+ - DVD	 - DVD-ROM
+ - E-Mail
+ - Faxabruf
+ - Infokiosk
+ - Mikrofilm
+ - Mobilfunk	 - Online Link
+ - Rundfunk
+ - Telefonverbindung
+ - unbekannt (*)
+ - Videotext
+ - ZIP-Laufwerk
 
 Beispiel: Medium: CD-ROM Datenvolumen: 700 MB Speicherort: Explorer Z:/Bereich_51/Metainformation/2020-02-26_Hilfetexte.doc
 

@@ -2,8 +2,24 @@
 Geodatensatz
 ============
 
-Spezielle Felder
-----------------
+Die Objektklasse Geodatensatz dient der Beschreibung von Daten mit direktem oder indirektem Raumbezug (digital oder analog). Beispiele: GIS-Daten, analoge Karten oder Kartenwerke
+
+Werden die beschriebenen Daten über einen Webdienst (z.B. OGC Web-Mapping-Service (WMS)) bereitgestellt, sollte auf diesen Dienst, welcher als eigenes Objekt des Typs „Geodatendienst“ beschrieben ist, verwiesen werden (siehe Daten-Dienste-Kopplung).
+
+Alle im Rahmen von INSPIRE zu erfassenden Geodaten müssen auch als Objektklasse „Geodatensatz“ angelegt werden.
+
+Beispiele:
+
+ - INSPIRE ST Geografische Bezeichnungen ATKIS Basis-DLM
+
+ - INSPIRE ST Gewässernetz - Gewässerkundlicher Landesdienst
+
+ - INSPIRE ST Umweltüberwachung - Gewässerkundlicher Landesdienst
+
+
+
+Erfassung
+---------
 
 
 Nach dem Anlegen eines neuen Objektes stehen die Eingabefelder für das neue Objekt im rechten Inhaltsfenster zur Verfügung. Als erster Schritt sollten die Basisinformationen im Inhaltsfenster (siehe Screenshot) bearbeitet werden.
