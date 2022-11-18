@@ -17,7 +17,7 @@ Beide werden in separaten Teilbäumen des Kataloges gepflegt.
 
 
 Erfassung von Adressen
-----------------------
+======================
 
 Für eine effiziente Adressverwaltung empfiehlt es sich, hierarchische Strukturen aufzubauen, so dass erkennbar wird, in welche Fachbereiche eine Einrichtung untergliedert ist und wer die Ansprechpartner in den Fachbereichen sind. Für Personen, die keiner Institution zugeordnet werden können, besteht die Möglichkeit, diese im Adressen-Strukturbaum unterhalb des Bereiches „Freie Adressen“ anzulegen.
 
@@ -52,19 +52,20 @@ Abb.: In dieser Abbildung sind die automatisch befüllten Felder rot umrandet.
 
 
 Löschen von Einträgen
-^^^^^^^^^^^^^^^^^^^^^
+---------------------
 
 Soll ein bestehender Eintrag gelöscht werden, bitte die entsprechende Zeile mit der rechten Maustaste anklicken und den Punkt „Zeile löschen“ auswählen bzw. bei Textfeldern einfach den Eintrag markieren und löschen.
 
 
 Änderung von Einträgen
-^^^^^^^^^^^^^^^^^^^^^^
+----------------------
 
 Wenn ein Eintrag geändert werden soll, klicken Sie mit der linken Maustaste in das entsprechende Feld. Ein einfacher Klick setzt den Mauszeiger an die gewählte Stelle, ein weiterer Klick markiert das Wort links vom Cursor, noch ein weiterer Klick markiert die ganze Zeile.
 
 
 Veröffentlichung
-----------------
+================
+
 Von besonderer Bedeutung ist das Feld „Veröffentlichung“. Wie bei Objekten kann auch bei Adressen eine Veröffentlichungsbreite eingestellt werden. Im Auswahlmenü „Veröffentlichung“ sind die Werte „amtsintern“, „Intranet“ und „Internet“ verfügbar. Nur Adressen mit der Veröffentlichungsbreite „Internet“ sind auch im MetaVer veröffentlicht.
 Dabei ist zu beachten, dass eine Adresse mindestens eine gleichwertige Veröffentlichungsbreite haben muss wie ein Objekt, dem sie zugeordnet ist. Beispielsweise kann die Adresse die Veröffentlichungsbreite „Internet“ und das Objekt die Veröffentlichungsbreite „Intranet“ haben, nicht aber umgekehrt. Wenn aufgrund unterschiedlicher Veröffentlichungsbreite bei Objekt und Adresse Probleme auftreten, so wird der Nutzer darauf hingewiesen. Konflikte müssen vom Nutzer vor der Veröffentlichung der Adresse durch Anpassung der Veröffentlichungsbreite aufgelöst werden.
 
@@ -76,7 +77,7 @@ Dabei ist zu beachten, dass eine Adresse mindestens eine gleichwertige Veröffen
 
 
 Daten nicht anzeigen
-^^^^^^^^^^^^^^^^^^^^
+--------------------
 
 Wird die Option „Daten nicht anzeigen“ ausgewählt, so wird bei der Darstellung im Portal (auch im CSW und in OpenSearch) bei allen Metadatensätzen, denen diese Adresse zugeordnet ist, stattdessen die Adresse der übergeordneten Institution verwendet.
 
@@ -84,7 +85,7 @@ Wird die Option „Daten nicht anzeigen“ ausgewählt, so wird bei der Darstell
 
 
 Zugeordnete Objekte
-^^^^^^^^^^^^^^^^^^^
+--------------------
 
 Unter dem Abschnitt „Zugeordnete Objekte“ können keine Einträge per Hand vorgenommen werden. Hier sind alle Metadatenobjekte sichtbar, die mit dem Fachbereich bzw. der Person verknüpft sind. Beim Neuanlegen einer Adresse ist dieser Bereich noch leer. Wird jedoch in einem Objekt die Adresse als Kontaktadresse (Ansprechpartner, Hersteller, usw.) angegeben, so erscheint dieses Objekt automatisch in der Tabelle unter dem Abschnitt „Zugeordnete Objekte“.
 
@@ -100,20 +101,22 @@ Unter dem Abschnitt „Zugeordnete Objekte“ können keine Einträge per Hand v
 
 
 Erfassung von Metadaten
------------------------
+=======================
 
 Erst die Adresse anlegen
-^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------
 
 Soll ein neues Objekt angelegt werden, empfiehlt es sich zunächst zu prüfen, ob die Adresse, auf die in einem neuen Objekt verwiesen werden soll, bereits im Metadatenkatalog (MDK) angelegt ist. Ist dies nicht der Fall, sollte zunächst die neue Adresse und anschließend erst das neue Objekt erstellt werden. Grund hierfür ist, dass die Adressverweise im Objekt nicht frei eingegeben werden können, sondern aus den bereits bestehenden Adresseinträgen ausgewählt werden. Existiert die gewünschte Adresse noch nicht, so ist der betreffende Adress-Eintrag nicht auswählbar. Der Bearbeiter muss in diesem Fall das neu angelegte Objekt zunächst zwischenspeichern und erst einmal die Adresse im Adress-Strukurbaum anlegen. Diesen Umweg erspart man sich, wenn immer als erstes die Adressen angelegt werden und anschließend die Objekte.
 
+
 Aufbau des Strukturbaumes
-^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------
 
 Die Metadatenkatalog-Objekte werden im Objekt-Strukturbaum des InGrid Editors verwaltet. Für eine effiziente Verwaltung der Objekte können, wie bei den Adressen, hierarchische Strukturen mit Ordnern aufgebaut werden.
 
+
 Neues Objekt anlegen
-^^^^^^^^^^^^^^^^^^^^
+--------------------
 
 Zum Anlegen eines neuen Objektes muss zunächst der Ordner im Strukturbaum ausgewählt werden, unter dem das neue Objekt angelegt werden soll. „Neu anlegen“ (aus der Symbolleiste) oder über das Kontextmenü (rechte Maustaste – „Neu anlegen“) wählen, es erscheint der Erfassungsassistent.
 
@@ -123,8 +126,9 @@ Damit ein neu angelegtes Objekt veröffentlicht werden kann, müssen alle Pflich
 
 Sobald alle Pflichtfelder und mögliche optionalen Felder ausgefüllt sind, kann das neue Objekt mit „Abschließendes Speichern & Veröffentlichen“ (in der Symbolleiste) gemäß seiner Veröffentlichungsbreite freigegeben werden. Im Strukturbaum des InGrid Editors erscheint das Objekt anschließend als veröffentlicht in der Farbe Blau.
 
+
 Pflichtfelder und optionale Felder
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------------------
 
 Je nach Auswahl der Objektklasse, werden im Inhaltsfenster des InGrid Editors unterschiedliche Felder angeboten. Die Pflichtfelder unterscheiden sich zwischen den einzelnen Objektklassen. Am umfangreichsten ist die Objektklasse „Geodatensatz“, die Klasse „Organisationseinheit“ ist dagegen am schnellsten zu befüllen.
 
@@ -133,17 +137,19 @@ Je nach Auswahl der Objektklasse, werden im Inhaltsfenster des InGrid Editors un
 
 
 Der Erfassungsassistent
-^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------
+
 Wird ein neues Objekt angelegt, öffnet sich ein Dialogfenster. Darin muss ausgewählt werden, welcher Assistent oder welcher Objekttyp verwendet werden soll.
 
 
 Allgemeiner Erfassungsassistent
-'''''''''''''''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 Sind die zu beschreibenden Informationen bereits im Internet veröffentlicht, kann der Allgemeine Erfassungsassistent genutzt werden. Die entsprechende Internetseite wird hierbei vom Semantic Network Service (SNS, Umweltbundesamt) analysiert. Soweit ausreichend Informationen auf der jeweiligen Internetseite vorhanden sind, werden die Felder Titel, Beschreibung, Schlagworte, Raum- und Zeitbezug automatisch gefüllt.
 
 
 getCapabilities Assistent
-'''''''''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Zur Erfassung von Diensten (WMS, WFS, WCS, WCTS, WMTS und CSW) kann der getCapabilities-Assistent genutzt werden. Auf Grundlage der Informationen der getCapability-URL befüllt der Assistent hierbei insbesondere die komplexen technischen Felder zur Beschreibung des Dienstes automatisch, so dass die Erfassung von OGC konformen Diensten erheblich vereinfacht wird. Die Ergebnisse der Analyse werden in das neue Metadatenobjekt übernommen. Anschließend kann das Objekt im InGrid Editor weiterbearbeitet und gespeichert werden.
 
@@ -153,32 +159,34 @@ Soll kein Assistent verwendet werden, wird auf der rechten Seite die erforderlic
 
 
 Objekte ausfüllen
------------------
+=================
 
 Die nachfolgenden Felder der Erfassungsmaske wurden in diesem Dokument allgemein beschrieben. Spezielle und ausführliche Angaben sind in den Anhängen zu den einzelnen Objektklassen beschrieben.
 
 
 Abschnitt Kopf der Erfassungsmaske
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------------------
 
 Nach dem Anlegen eines neuen Objektes stehen die Eingabefelder für das neue Objekt im rechten Inhaltsfenster zur Verfügung. Im ersten Schritt sollten die Basisinformationen in der Erfassungsmaske (Screenshot) bearbeitet werden.
 
+
 Objektname
-''''''''''
+^^^^^^^^^^
 
 Angabe einer kurzen prägnanten Bezeichnung. Soweit ein gängiges Kürzel vorhanden ist, ist dieses Kürzel mit anzugeben. Der Eintrag in dieses Feld ist obligatorisch.
 
 
 Objektklasse
-''''''''''''
+^^^^^^^^^^^^
 
 Die Objektklasse richtet sich danach, welche Klasse im Dialogfenster, vor der Erstellung des Metadatensatzes, siehe Abbildung in Abschnitt 1.2.5, ausgewählt wurde.
 
 **Hinweis:**
 *Ein Wechsel der Objektklasse ist an dieser Stelle nicht mehr möglich.*
 
+
 Verantwortlicher
-''''''''''''''''
+^^^^^^^^^^^^^^^^
 
 Hier wird automatisiert der Erfasser eingetragen, der das Objekt angelegt hat. An dieser Stelle sollte jedoch die Person stehen, die für die Aktualisierung zuständig ist. In der Regel ist der Erfasser auch die fachlich Verantwortliche Person (Standardeinstellung).
 
@@ -196,24 +204,30 @@ Unter den ersten drei Feldern werden automatisiert weitere Informationen zum Obj
 
 
 Abschnitt Allgemeines
-^^^^^^^^^^^^^^^^^^^^^
+---------------------
 
 Im Bereich „Allgemeines“ erfolgt der Eintrag von allgemeinen Informationen zum Objekt (Beschreibung, Kontaktinformation).
 
+
 Beschreibung
-''''''''''''
+^^^^^^^^^^^^
+
 In dieses Feld wird eine fachliche Inhaltsangabe eingetragen. Auf Verständlichkeit für fachfremde Dritte ist zu achten.
 
 [Grafik]
 
+
 Link „Adresse hinzufügen“
-''''''''''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
 Über den Link „Adresse hinzufügen“ wird die Adressverknüpfung angelegt. Als Auswahlmöglichkeit stehen alle im Adressstrukturbaum des Metadatenkataloges eingetragenen Adressdaten zur Verfügung.
 
 [Grafik]
 
+
 Open Data
-'''''''''
+^^^^^^^^^
+
 Diese Checkbox kennzeichnet den Metadatensatz als „Open Data“.
 Es sind dann zusätzlich folgende Angaben verpflichtend einzugeben:
   - In der (nur für Open Data) erscheinenden Tabelle „Kategorien“ muss mindestens ein Wert ausgewählt und eingetragen werden.
@@ -225,8 +239,10 @@ Es sind dann zusätzlich folgende Angaben verpflichtend einzugeben:
 **Hinweis:**
 *In Sachsen-Anhalt gibt es derzeit für Open Data keine gesetzlichen Grundlagen.*
 
+
 Kategorien
-''''''''''
+^^^^^^^^^^
+
 Die Tabelle „Kategorien“ enthält eine Auswahlliste, die das Open-Data-Objekt näher bestimmen.
 
 [Grafik]
@@ -235,7 +251,8 @@ Die Tabelle „Kategorien“ enthält eine Auswahlliste, die das Open-Data-Objek
 
 
 Optionale Schlagworte
-'''''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^
+
 Die Verschlagwortung über den Thesaurus-Navigator dient dem themenbezogenen Wiederauffinden der Objekte. Dazu müssen Schlagworte aus dem Thesaurus ausgewählt werden, die das Objekt so genau wie möglich, aber auch so allgemein wie nötig beschreiben. So sollte mindestens ein Schlagwort in der Thesaurus-Hierarchie einen relativ allgemeinen Aspekt des Objektes beschreiben und mindestens ein Schlagwort das Objekt so speziell wie möglich beschreiben.
 
 
@@ -250,7 +267,7 @@ Die Auswahl kann über den „Verschlagwortungsassistenten“ als auch über den
 
 
 Abschnitt Fachbezug
-^^^^^^^^^^^^^^^^^^^
+-------------------
 
 Der Abschnitt Fachbezug richtet sich nach der gewählten Objektklasse und wird in den Anhängen dieses Dokumentes zu den unterschiedlichen Objektklassen ausführlich beschrieben.
 
@@ -266,53 +283,61 @@ Der Abschnitt Fachbezug richtet sich nach der gewählten Objektklasse und wird i
  
  
 Abschnitt Raumbezugsystem
-^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------
 
 Im Abschnitt Raumbezugsystem werden Informationen über die räumliche Zuordnung des beschriebenen Datenbestands erfasst.
 
+
 Geothesaurus-Raumbezug
-''''''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^
+
 Geothesaurus oder auch Gazetteer (Ortsverzeichnis), hier soll ein Ort oder eine Region mit Koordinaten angegeben werden.
 
 [Grafik]
 
 
 Geothesaurus-Navigator
-''''''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^
 Über den Geothesaurus-Navigator kann nach den Koordinaten einer räumlichen Einheit gesucht werden.
 
 [Grafik]
 
 [Grafik]
 
+
 Abschnitt Zeitbezug
-^^^^^^^^^^^^^^^^^^^
+-------------------
 
 Unter Zeitbezug werden Datumsangaben, Zeiträume, Zeitspannen, Perioden oder Intervalle der beschriebenen Daten eingetragen.
 
 
 Zeitbezug der Ressource
-'''''''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^
+
 In dieser Tabelle wird dokumentiert, wann die beschrieben Daten erfasst, veröffentlicht oder geändert wurden.
 
 
 Erläuterungen
-'''''''''''''
+^^^^^^^^^^^^^
+
 Hier können z.B. die Angaben der Periodizität eingeschränkt, weitere Zeitangaben gemacht oder Unregelmäßigkeiten erklärt werden. Im Zusammenhang mit dem Eintrag im Feld Periodizität können hier Abstände, Perioden und Intervalle eingetragen werden, die sich nicht aus dem Zusammenhang der anderen Felder des Zeitbezuges erklären, z.B. Jahreszeiten, Dekaden, Tageszeiten.
 
 **Beispiel:** Die Messungen erfolgten nur tagsüber.
 
 
 Zeitspanne
-''''''''''
+^^^^^^^^^^
+
 Hier soll das Zeitspanne der Entstehung der eigentlichen Daten (z.B. Messdaten) eingetragen werden.
 
 [Grafik]
 
 [Grafik]
 
+
 Periodizität
-''''''''''''
+^^^^^^^^^^^^
+
 Ist die Auswahl oder die Angabe des Zeitzyklus der Datenerhebung. Der Eintrag muss aus der Auswahlliste erfolgen, die über den Pfeil am Ende des Feldes geöffnet wird.
 
 **Hinweis:**
@@ -322,16 +347,20 @@ Ist die Auswahl oder die Angabe des Zeitzyklus der Datenerhebung. Der Eintrag mu
 
 [Grafik]
 
+
 Status
-''''''
+^^^^^^
+
 Der Status beschreibt den Bearbeitungsstand eines Projektes oder einer der Messung etc. Diese können sich in unterschiedlichen Stadien befinden, d.h. Projekte, Programme oder Messungen können in Planung sein, derzeit durchgeführt werden oder schon abgeschlossen sein.
 
 [Grafik]
 
 [Grafik]
 
+
 Im Intervall
-''''''''''''
+^^^^^^^^^^^^
+
 Mit Intervall wird der zeitliche Abstand (Frequenz) der Datenerhebung angegeben. Erfolgt die Datenerhebung kontinuierlich oder periodisch (siehe Feld Periodizität), so wird diese Angabe hier präzisiert. Es stehen Felder für den freien Eintrag einer Ziffer und eine Auswahlliste zur Verfügung, die zeitliche Intervalle vorgibt. Der Eintrag von „10“ und „Tage“ bedeutet, dass die beschriebenen Daten alle 10 Tage aktualisiert werden.
 
 [Grafik]
@@ -340,17 +369,20 @@ Mit Intervall wird der zeitliche Abstand (Frequenz) der Datenerhebung angegeben.
 
 
 Abschnitt Zusatzinformation
----------------------------
+===========================
 
 Der Abschnitt Zusatzinformation enthält Angaben von allgemeinen Informationen wie Sprache und Veröffentlichungsbreite des Metadatensatzes.
 
+
 Sprache des Metadatensatzes
-'''''''''''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 Es erfolgt die Angabe der Sprache des Metadatensatzes, als Standard ist Deutsch voreingestellt.
 
 
 Veröffentlichung
-''''''''''''''''
+^^^^^^^^^^^^^^^^
+
 Das Feld Veröffentlichung gibt an, welche Veröffentlichungsmöglichkeiten für das Objekt freigegeben sind. Die Liste der Möglichkeiten ist nach Freigabestufen hierarchisch geordnet. Wird einem Objekt eine niedrigere Freigabestufe zugeordnet (z.B. von Internet auf Intranet), werden automatisch auch alle untergeordneten Objekte dieser Stufe zugeordnet. Soll einem Objekt eine höhere Freigabestufe zugeordnet werden als die des übergeordneten Objektes, wird die Zuordnung verweigert. Wird einem Objekt eine höhere Freigabestufe zugeordnet (z.B. von amtsintern auf Intranet), kann auch allen untergeordneten Objekten die höhere Freigabestufe zugeordnet werden.
 
 [Grafik]
@@ -366,37 +398,47 @@ Die Einstellung haben folgende Bedeutung:
 
 
 Abschnitt Verfügbarkeit
------------------------
+=======================
 
 Im Abschnitt Verfügbarkeit wird angegeben, ob die zu beschreibenden Daten einer Zugriffsbeschränkung unterliegen und welche Nutzungsbedingungen für diese Daten gelten.
 
+
 Zugriffsbeschränkungen
-^^^^^^^^^^^^^^^^^^^^^^
+----------------------
+
 Im Feld Zugriffsbeschränkungen kann aus einer Auswahlliste ein Grund angegeben werden, warum die Daten einer Einschränkung unterliegen. Trifft keiner dieser Gründe zu, ist der Eintrag „Es gelten keine Beschränkungen“ anzugeben.
 
 **Hinweis:** *Für INSPIRE-Daten ist dieses Feld ein Pflichtfeld.*
 
+
 Nutzungsbedingungen
-^^^^^^^^^^^^^^^^^^^
+-------------------
+
 Nutzungsbedingungen sind ein einseitig vorformulierter Vertrag, mit dem der Anbieter (der Datenbereitsteller) die Nutzer der Daten über ihre Rechte und Pflichten informiert.
 In der Tabellenspalte Nutzungsbedingungen ist eine Auswahlliste mit Lizenzen hinterlegt, diese beschreiben vordefinierte Nutzungsbedingungen. Weiterhin besteht die Möglichkeit Nutzungsbedingungen per Freitext in die Zeile einzutragen oder auf Nutzungsbedingungen zu verweisen.
 
+
 Quellenvermerk
-^^^^^^^^^^^^^^
+--------------
+
 In dieser Tabellenspalte wird das Copyright des Datenbreitstellers angegeben und die Angabe für das Jahr des Datenbezugs.
 
 **Beispiel:** © GeoBasis-DE / BKG (Jahr des letzten Datenbezugs)
 
 [Grafik]
 
+
 Abschnitt Verweise
-^^^^^^^^^^^^^^^^^^
+==================
+
 Im Abschnitt Verweise können Verlinkungen zu anderen Objekten innerhalb des Kataloges angelegt, oder es können Verweise mit URLs angelegt werden. Bereits angelegte Verweise lassen sich erneut bearbeiten.
 
 [Grafik]
 
+
 Verweise zu
-^^^^^^^^^^^
+-----------
+
 Es besteht die Möglichkeit, Verweise von einem Objekt zu einem anderen Objekt oder zu einer Internetadresse (URL) zu erstellen. In dieser Tabelle werden alle Verweise zusammenfassend aufgeführt, welche im aktuellen Objekt angelegt wurden. Über dem Link „Verweis anlegen“ öffnet sich ein Dialog, mit dem weitere Einzelheiten zu den Verweisen eingesehen und editiert werden können. Es ist möglich, weitere Verweise über das Dialogfenster „Verweis bearbeiten“ hinzuzufügen (siehe 2. Verweise anlegen).
 
 **Hinweis:**
@@ -404,22 +446,23 @@ Es besteht die Möglichkeit, Verweise von einem Objekt zu einem anderen Objekt o
 
 [Grafik]
 
+
 Verweise von
-^^^^^^^^^^^^
+------------
+
 In Tabelle „Verweise von“ werden alle Verweise von denjenigen Objekten aufgeführt, welche auf das aktuelle Objekt verweisen.
 
 Das Editieren oder Hinzufügen ist an dieser Stelle nicht möglich. Sollen die Verweise gelöscht oder ergänzt werden, so muss zu dem entsprechenden Objekt gewechselt werden. Beim Löschen können Sie in der Tabelle „Verweise von“ einfach auf den Namen des entsprechenden Objektes klicken. Der InGrid-Editor wechselt dann automatisch in das ausgewählte Objekt. Im Abschnitt „Verweise“, Tabelle „Verweis zu“ kann jetzt der Verweis gelöscht bzw. ein neuer Verweis angelegt werden.
 
 
 Verweise anlegen
-----------------
+================
 
 Im Abschnitt „Verweise“ besteht die Möglichkeit, Verweise von einem MDK-Objekt auf ein anderes MDK-Objekt oder zu einer Internetadresse (URL) zu erstellen. Alle eingegebenen Verweise werden in der Tabelle „Verweise zu“ aufgelistet.
 
 [Grafik]
 
-Verweise anlegen
-^^^^^^^^^^^^^^^^
+
 Über den Link „Verweis anlegen“ öffnet sich ein Dialogfenster.
 Es gibt zwei mögliche Verweisziele:
  - Verweisziel Objekt: Querverweise zwischen Objekten innerhalb des MDK
@@ -427,8 +470,10 @@ Es gibt zwei mögliche Verweisziele:
  
 [Grafik]
  
+ 
 Verweistyp
-^^^^^^^^^^
+----------
+
 Angabe des fachlichen Bezuges, der zwischen dem aktuellen Objekt und dem Verweisobjekt besteht. Wird das Dialogfenster im Abschnitt Verweise geöffnet, so kann über das Dropdown-Menu (ausklappbar über den Pfeil an der rechten Seite des Feldes) aus einer Auswahlliste ein Eintrag gewählt werden. Es sind dann auch freie Einträge für den Verweistyp möglich.
 
 Wurde der Dialog von einem Feld in einer anderen Rubrik (z.B. Objektklasse Anwendung, Rubrik Fachbezug, Feld: Basisdaten, Verweise) geöffnet, so wird automatisch der betreffende Feldname eingetragen und angezeigt.
@@ -447,29 +492,39 @@ Die angebotenen Eintragungen der Dropdown-Liste hängen von dem gewählten Objek
 
 [Grafik]
 
+
 Verweisziel: „Objekt“
-^^^^^^^^^^^^^^^^^^^^^
+---------------------
+
 Über dieses Verweisziel werden Querverweise zwischen den Objekten des MDK definiert. Das Dialogfenster zeigt die entsprechenden Eingabefelder an.
 
 [Grafik]
 
+
 Objekt auswählen
-^^^^^^^^^^^^^^^^
+----------------
+
 Über „Objekt auswählen“ öffnet sich der Objektstrukturbaum, aus dem das Zielobjekt auszuwählen ist.
 Ist das Objekt markiert, zu dem ein Verweis erstellt werden soll, kann der Eintrag durch einen Klick auf den Button „Zuweisen“ übernommen werden. Die Pflichtangaben „Objektname“ und „Objektklasse“ werden automatisch mit den entsprechenden Daten des ausgewählten Objekts gefüllt.
 
+
 Erläuterung
-^^^^^^^^^^^
+-----------
+
 Hier können weitergehende Informationen zu dem Objekt eingegeben werden. Es können auch Erläuterungen zu der Beziehung zwischen den beschriebenen Daten des aktuellen Objektes und den Daten des Verweis-Objektes gegeben werden.
 
+
 Hinzufügen
-^^^^^^^^^^
+----------
+
 Sind alle Pflichtfelder und die gewünschten optionalen Felder gefüllt, kann der Verweis mit der Schaltfläche „Hinzufügen“ in der Tabelle angelegt werden.
 ^
 [Grafik]
 
+
 Verweisziel „URL“
-^^^^^^^^^^^^^^^^^^
+-----------------
+
 Soll auf eine Internetseite oder eine externe Datenquelle im Internet verwiesen werden, so ist das Verweisziel „URL“ auszuwählen. Das Dialogfenster zeigt die entsprechenden Eingabefelder an.
 
 Die Auswahl erfolgt wie im Abschnitt „Verweistyp“ beschrieben.
@@ -478,16 +533,21 @@ Weitere Pflichtfelder sind die „Bezeichnung des Verweises“ sowie „Internet
 
 [Grafik]
 
+
 Bezeichnung des Verweises
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------
+
 Im Feld „Bezeichnung des Verweises“ soll eine möglichst aussagekräftige Bezeichnung für den Verweis angegeben werden, beispielsweise kann der dementsprechende Name der Webseite eingetragen werden. Die Eintragungen, die Sie hier angeben, erscheinen im Portal als Link. Klickt der Nutzer auf diesen Link, kommt er auf die Internetseite, die in dem Feld „Internet-Adresse (URL)“ angegeben wurde.
 
+
 Internet-Adresse (URL)
-^^^^^^^^^^^^^^^^^^^^^^
+----------------------
+
 Im Feld „Internet-Adresse (URL)“ wird die URL der Internetseite eingetragen, auf die verwiesen werden soll. Wichtig ist, die vollständige Internetadresse anzugeben, beginnend mit „https://“.
 
+
 Dateiformat
-^^^^^^^^^^^
+-----------
 Es sind verschiedene Dateiformat-Einträge möglich, die angezeigten Dateiformate richten sich nach der gewählten Objektklasse.
 
 Auswahlliste der Dateiformate für die Objektklasse Geodatensatz:
@@ -522,9 +582,11 @@ Auswahlliste der Dateiformate für die Objektklasse Geodatensatz:
  - XSD
  - XYZ-ASCII
  - ZIP
- 
+
+
 URL-Typ
-^^^^^^^
+-------
+
 Bei URL-Verweisen für ein Objekt wird unterschieden ob diese URL für das Internet oder für das Intranet gilt.
 
 **Empfehlung:**
@@ -542,14 +604,16 @@ Auf diese Weise kann der Metadatensatz abschließend gespeichert werden. Sobald 
 
 [Grafik]
 
+
 Filter für Verweistypen
-^^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------
 Es besteht die Möglichkeit die Verweistypen zu filtern. Die Einträge für die Filterfunktion können über ein Dropdown-Menu geöffnet und ausgewählt werden. Es werden dann nur Verweise eines bestimmten Typs gelistet: z.B. nur Verweise vom Typ „unspezifischer Verweis“.
 
 [Grafik]
 
+
 Zeile löschen / bearbeiten
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+--------------------------
 Möchten Sie einen bestehenden Verweis löschen oder ändern, so klicken Sie bitte in der Tabelle mit der rechten Maustaste auf den Verweis, der geändert oder gelöscht werden soll. Es öffnet sich eine Liste zur Auswahl des passenden Befehls.
 
 Mit „Zeile löschen“ wird der ausgewählte Verweis sofort gelöscht.
@@ -558,34 +622,3 @@ Der Befehl „Zeile bearbeiten“ öffnet wieder das bekannte Dialogfenster mit 
 **Hinweis:** *Es erfolgt keine Sicherheitsabfrage, ob der Verweis wirklich gelöscht werden soll!*
 
 [Grafik]
-
-
-Aktualisierungszyklen der Metadaten
------------------------------------
-
-Änderungen an den Metadaten des Metadatenkataloges Sachsen-Anhalt werden zu unterschiedlichen Zeiten in den verschiedenen Anwendungen sichtbar.
-
-Indexierung/Harvesting
-^^^^^^^^^^^^^^^^^^^^^^
-Die neu angelegten bzw. geänderten Metadaten bzw. Adressdaten sind kurz nach Veröffentlichung im Internet auffindbar. Im CSW-ST werden die Änderungen erst einen Tag später ausgegeben.
-
-• Redaktionsschluss für Metadatenaktualisierungen ist 17:00 Uhr
-• Sichtbarkeit von Änderungen im InGrid-Editor sofort
-• Sichtbarkeit im Portal (MetaVer) nach der Indexierung (ca. 1 Minute)
-• zusätzliche Indexierung des MDK-ST für das Portal MetaVer (0:30 Uhr)
-• Indexierung für CSW um 01:30 Uhr (ca. 15-20 Min.)
-
-Geokatalog BKG/GDI-DE (Geo-Metadaten)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Harvesting CSW-MetaVer, Katalog-ST: täglich um 18:30 Uhr (ca. 3 Min.)
-
-Geoportal.de BKG/GDI-DE (Geo-Metadaten)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Harvesting von Geokatalog.de 2x am Tag
-
-**Hinweis:**
-*Der MetaVer-CSW wird nachts um 01:30 Uhr aktualisiert, am selben Tag 18:30 Uhr harvestet der Geokatalog des BKG den MDK-Sachsen-Anhalt. Das bedeutet, die Änderungen aus dem InGrid-Editor stehen erst am darauffolgenden Tag ab ca. 18:35 Uhr im Geoportal.de für die Recherche zur Verfügung.
-
-INSPIRE-Geoportal (Geo-Metadaten)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Das Harvesting von Geokatalog.de in das INSPIRE Geoportal erfolgt nach einer Abstimmung der Koordinierungsstelle GDI-DE mit den Betreibern des INSPIRE-Geoportals.*
