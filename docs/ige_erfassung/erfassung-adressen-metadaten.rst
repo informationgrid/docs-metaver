@@ -64,7 +64,7 @@ Wenn ein Eintrag geändert werden soll, klicken Sie mit der linken Maustaste in 
 
 
 Veröffentlichung (Status)
-=========================
+-------------------------
 
 Von besonderer Bedeutung ist das Feld „Veröffentlichung“. Wie bei Objekten kann auch bei Adressen eine Veröffentlichungsbreite eingestellt werden. Im Auswahlmenü „Veröffentlichung“ sind die Werte „amtsintern“, „Intranet“ und „Internet“ verfügbar. Nur Adressen mit der Veröffentlichungsbreite „Internet“ sind auch im MetaVer veröffentlicht.
 Dabei ist zu beachten, dass eine Adresse mindestens eine gleichwertige Veröffentlichungsbreite haben muss wie ein Objekt, dem sie zugeordnet ist. Beispielsweise kann die Adresse die Veröffentlichungsbreite „Internet“ und das Objekt die Veröffentlichungsbreite „Intranet“ haben, nicht aber umgekehrt. Wenn aufgrund unterschiedlicher Veröffentlichungsbreite bei Objekt und Adresse Probleme auftreten, so wird der Nutzer darauf hingewiesen. Konflikte müssen vom Nutzer vor der Veröffentlichung der Adresse durch Anpassung der Veröffentlichungsbreite aufgelöst werden.
