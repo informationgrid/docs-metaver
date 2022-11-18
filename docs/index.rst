@@ -44,22 +44,6 @@ Version der Bedienungsanleitung
    ige_objektklassen/objektklasse-projekt
    ige_objektklassen/objektklasse-organisationseinheit
 
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Funktionen im InGrid-Editor
-   
-   ige_suche/ige_suche.rst
-   ige_statistik/ige_statistik.rst
-   ige_hilfe/ige_hilfe-erfassung.rst
-
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Administration
-
-   ige_nutzerverwaltung/nutzerverwaltung
-   
    
 .. toctree::
    :maxdepth: 2
@@ -73,8 +57,24 @@ Version der Bedienungsanleitung
    
 .. toctree::
    :maxdepth: 2
-   :caption: InGrid - Versionen
+   :caption: InGrid Versionen
    
    íge_allgemeines/ige-metaver_versionen
+   
+   
+   .. toctree::
+   :maxdepth: 2
+   :caption: Funktionen im InGrid-Editor
+   
+   ige_suche/ige_suche.rst
+   ige_statistik/ige_statistik.rst
+   ige_hilfe/ige_hilfe-erfassung.rst
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Administration
+
+   ige_nutzerverwaltung/nutzerverwaltung
 
 

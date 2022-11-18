@@ -25,7 +25,8 @@ Version der Bedienungsanleitung
    :maxdepth: 3
    :caption: Erfassung von Metadaten
 
-   ige_erfassung/erfassung-adressen-metadaten
+   ige_erfassung/erfassung
+   ige_erfassung/erfassung-adressen
    ige_erfassung/erfassung-metadaten
    ige_erfassung/bearbeitung-metadaten
 
