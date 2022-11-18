@@ -14,15 +14,9 @@ Version der Bedienungsanleitung
 
 .. toctree::
    :maxdepth: 2
-   :caption: Allgemeines
+   :caption: Allgemeine Informationen
 
    metaver-allgemeines/allgemeines-metaver
-
-  
-.. toctree::
-   :maxdepth: 2
-   :caption: Registrierung / Anmeldung
-
    metaver-registrierung-anmeldung/registrierung_anmeldung
    
 

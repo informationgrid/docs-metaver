@@ -49,7 +49,7 @@ Version der Bedienungsanleitung
 
 .. toctree::
    :maxdepth: 3
-   :caption: Fachinformationen in den Objektklassen
+   :caption: Objektklassen - Fachinformationen
 
    metaver-objektklassen/objektklasse-geodatensatz
    metaver-objektklassen/objektklasse-geodatendienst
