@@ -62,7 +62,7 @@ Version der Bedienungsanleitung
    íge_allgemeines/ige-metaver_versionen
    
    
-   .. toctree::
+.. toctree::
    :maxdepth: 2
    :caption: Funktionen im InGrid-Editor
    

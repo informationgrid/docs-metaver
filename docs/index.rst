@@ -59,7 +59,7 @@ Version der Bedienungsanleitung
    :maxdepth: 2
    :caption: InGrid Versionen
    
-   íge_allgemeines/ige-metaver_versionen
+   ige_allgemeines/ige-metaver_versionen
    
    
 .. toctree::
