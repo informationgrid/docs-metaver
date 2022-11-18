@@ -2,3 +2,12 @@
 Anwendung
 =========
 
+Mit der Objektklasse Anwendung lassen sich im Metadatenkatalog Softwareprodukte, Webanwendungen oder zentrale Auskunfts- und Informationssysteme, beschreiben.
+
+Beispiele:
+
+
+
+Erfassung
+---------
+
