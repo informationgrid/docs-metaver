@@ -74,6 +74,6 @@ Version der Bedienungsanleitung
    :maxdepth: 2
    :caption: InGrid - Versionen
    
-   íge_allgemeines/ige-metaver_Versionen
+   íge_allgemeines/ige-metaver_versionen
 
 
