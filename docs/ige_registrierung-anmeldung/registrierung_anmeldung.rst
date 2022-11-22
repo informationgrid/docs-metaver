@@ -13,23 +13,21 @@ Zum Anlegen eines neuen Benutzers wählen Sie: "REGISTRIEREN".
 
 Auf der Seite Anmeldung müssen mindestens alle Pflichtfelder (Kennzeichnung durch Sternchen) ausgefüllt werden. Ihren zukünftigen Benutzernamen sowie das zugehörige Passwort können Sie frei wählen.
 
-.. image:: ../img_ige/metaver-registrierung-anmeldung/metaver_anmeldung.png
+.. image:: ../img_ige/metaver-registrierung-anmeldung/metaver_registrierung.png
 
 Es erfolgt eine Passwortprüfung, wählen Sie bitte ein starkes Passwort (grüner Balken).
 
-.. image:: ../img_ige/metaver-registrierung-anmeldung/metaver_konto-erstellen.png
-
 Zum Abschließen der Registrierung betätigen Sie den Button "KONTO ERSTELLEN". Sie erhalten daraufhin folgende Nachricht in Ihrem Browserfenster
 
-.. image:: ::/img_ige/metaver-registrierung-anmeldung/metaver_account-angelegt.png
+.. image:: ../img_ige/metaver-registrierung-anmeldung/metaver_account-angelegt.png
 
 Außerdem erhalten Sie eine E-Mail an die zuvor von Ihnen eingegebene Email-Adresse: 
 
-[Grafik]
+.. image:: ../img_ige/metaver-registrierung-anmeldung/metaver_konto-erstellen.png
 
 Zur Freischaltung ihrer neuen Benutzerkennung klicken Sie bitte auf den Link in Ihrer E-Mail. Es öffnet sich daraufhin der Browser mit folgender Anzeige:
 
-[Grafik]
+.. image:: ../img_ige/metaver-registrierung-anmeldung/metaver_account-freigeschaltet.png
 
 Bevor Sie Metadaten erfassen und pflegen können, muss Ihre neue Benutzerkennung für die Erfassung und Pflege der Metadaten freigeschaltet werden. Bisher dürfen Sie sich nur am Portal anmelden und persönliche Einstellungen vornehmen, aber noch keine Änderungen an den Metadaten vornehmen. 
 Schicken Sie uns eine Nachricht über das METAVER-Kontaktformular (wählen Sie das zutreffende Bundesland aus) und teilen uns mit, dass wir für Sie einen Zugang zum InGrid Editor anlegen sollen (dafür benötigen wir den von Ihnen gewählten Benutzernamen). Wir richten Ihnen dann den entsprechenden Zugang mit den entsprechenden Berechtigungen ein. 
@@ -40,7 +38,7 @@ Anmeldung in METAVER
 
 Wenn Sie eine Benutzerkennung haben und als InGrid Editor-Nutzer angelegt wurden, rufen Sie die Anmeldeseite auf (https://metaver.de/log-in), tragen Ihren Benutzernamen und Ihr Passwort ein und betätigen abschließend den Button "ANMELDEN".
 
-[Grafik]
+.. image:: ../img_ige/metaver-registrierung-anmeldung/metaver_anmeldung.png
 
 Im Unterschied zu einem unangemeldeten Nutzer bzw. einem Nutzer ohne Zugang zum InGrid Editor, sehen Sie jetzt im Menü den Punkt "METADATEN". Diese Auswahl ist immer nur dann sichtbar, wenn die entsprechenden Zugriffsrechte vorliegen. Hierüber erfolgt der Einstieg zum InGrid Editor.
 
