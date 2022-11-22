@@ -35,7 +35,6 @@ Version der Bedienungsanleitung
    :maxdepth: 3
    :caption: Objektklassen
    
-   ige_objektklassen/objektklassen-beschreibung
    ige_objektklassen/objektklasse-geodatensatz
    ige_objektklassen/objektklasse-geodatendienst
    ige_objektklassen/objektklasse-anwendung

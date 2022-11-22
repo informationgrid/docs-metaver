@@ -1,5 +1,5 @@
 
-.. image:: img/portal/logo-metaver.svg
+.. image:: img-ige/portal/logo-metaver.svg
    :width: 300
 
 
@@ -10,6 +10,9 @@ Version der Bedienungsanleitung
    - InGrid-Version: 5.14.0
    - letzte Änderung: 18.11.2022
    - Status: in Bearbeitung
+   
+
+.. image:: img-ige/metaver-allgemeines/ige_dashboard.svg
 
 
 .. toctree::
