@@ -43,6 +43,7 @@ Wenn Sie eine Benutzerkennung haben und als InGrid Editor-Nutzer angelegt wurden
 Im Unterschied zu einem unangemeldeten Nutzer bzw. einem Nutzer ohne Zugang zum InGrid Editor, sehen Sie jetzt im Menü den Punkt "METADATEN". Diese Auswahl ist immer nur dann sichtbar, wenn die entsprechenden Zugriffsrechte vorliegen. Hierüber erfolgt der Einstieg zum InGrid Editor.
 
 .. image:: ../img_ige/metaver-registrierung-anmeldung/metaver_menue.png
+   :width: 400
 
 Durch einen Klick auf den Menüpunkt "METADATEN" und anschließend auf den Button "Login IGE" kommen Sie in die Metadaten-Erfassungskomponente den InGrid Editor. Der InGrid Editor öffnet sich in einer neueren Registerkarte Ihres Browsers.
 
