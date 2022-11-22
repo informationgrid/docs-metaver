@@ -21,7 +21,7 @@ Zum Abschließen der Registrierung betätigen Sie den Button "KONTO ERSTELLEN". 
 
 .. image:: ../img_ige/metaver-registrierung-anmeldung/metaver_account-angelegt.png
 
-Außerdem erhalten Sie eine E-Mail an die zuvor von Ihnen eingegebene Email-Adresse: 
+Außerdem erhalten Sie eine E-Mail an die zuvor von Ihnen eingegebene E-Mail-Adresse: 
 
 .. image:: ../img_ige/metaver-registrierung-anmeldung/metaver_e-mail.png
 
