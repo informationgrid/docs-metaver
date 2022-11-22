@@ -21,7 +21,7 @@ Zum Abschließen der Registrierung betätigen Sie den Button "KONTO ERSTELLEN". 
 
 .. image:: ../img_ige/metaver-registrierung-anmeldung/metaver_account-angelegt.png
 
-Außerdem erhalten Sie eine E-Mail an die zuvor von Ihnen eingegebene Email-Adresse: 
+Außerdem erhalten Sie eine E-Mail an die zuvor von Ihnen eingegebene E-Mail-Adresse: 
 
 .. image:: ../img_ige/metaver-registrierung-anmeldung/metaver_e-mail.png
 
@@ -42,7 +42,7 @@ Wenn Sie eine Benutzerkennung haben und als InGrid Editor-Nutzer angelegt wurden
 
 Im Unterschied zu einem unangemeldeten Nutzer bzw. einem Nutzer ohne Zugang zum InGrid Editor, sehen Sie jetzt im Menü den Punkt "METADATEN". Diese Auswahl ist immer nur dann sichtbar, wenn die entsprechenden Zugriffsrechte vorliegen. Hierüber erfolgt der Einstieg zum InGrid Editor.
 
-[Grafik]
+.. image:: ../img_ige/metaver-registrierung-anmeldung/metaver_menue.png
 
 Durch einen Klick auf den Menüpunkt "METADATEN" und anschließend auf den Button "Login IGE" kommen Sie in die Metadaten-Erfassungskomponente den InGrid Editor. Der InGrid Editor öffnet sich in einer neueren Registerkarte Ihres Browsers.
 
