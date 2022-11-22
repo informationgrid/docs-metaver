@@ -10,9 +10,6 @@ Version der Bedienungsanleitung
    - InGrid-Version: 5.14.0
    - letzte Änderung: 22.11.2022
    - Status: in Bearbeitung
-   
-
-.. image:: img_ige/metaver-allgemeines/ige_dashboard.png
 
 
 .. toctree::
