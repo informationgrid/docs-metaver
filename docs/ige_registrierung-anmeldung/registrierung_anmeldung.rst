@@ -68,8 +68,8 @@ Alle Objekte des Benutzers, die bereits veröffentlicht sind.
 3.	Adressen in Bearbeitung
 Alle Adressen des Benutzers, die in Bearbeitung sind (Zwischenspeicherung). Also Adressen, die nach dem Neuanlegen noch nicht abschließend gespeichert wurden bzw. Adressen, die schon veröffentlicht waren, aber geändert wurden und deren Änderungen bislang noch nicht wieder abschließend gespeichert wurden. 
 
-[Grafik]
+.. image:: ../img_ige/metaver-registrierung-anmeldung/ige_dashboard.png
 
 Im Bereich "Alle Datensätze" gibt es nur die Tabellen, in denen die Objekte und Adressen dargestellt werden, die sich in Bearbeitung befinden. Die eigenen angezeigten Objekte bzw. Adressen sind mit Links hinterlegt, sodass diese direkt zur Ansicht/Bearbeitung geöffnet werden können. Alle anderen Objekte sind grau.
 
-[Grafik]
+.. image:: ../img_ige/metaver-registrierung-anmeldung/ige_dashboard_alle-datensaetze.png
