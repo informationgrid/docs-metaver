@@ -7,7 +7,7 @@ Registrierung und Anmeldung
 
 URL: https://metaver.de/log-in
 
-.. image:: ::/img_ige/metaver-registrierung-anmeldung/metaver_log-in.png
+.. image:: ../img_ige/metaver-registrierung-anmeldung/metaver_log-in.png
 
 Zum Anlegen eines neuen Benutzers wählen Sie: "REGISTRIEREN".
 
