@@ -7,21 +7,21 @@ Registrierung und Anmeldung
 
 URL: https://metaver.de/log-in
 
-.. image:: img_ige/metaver-registrierung-anmeldung/metaver-log-in.png
+.. image:: img_ige/metaver-registrierung-anmeldung/metaver_log-in.png
 
 Zum Anlegen eines neuen Benutzers wählen Sie: "REGISTRIEREN".
 
 Auf der Seite Anmeldung müssen mindestens alle Pflichtfelder (Kennzeichnung durch Sternchen) ausgefüllt werden. Ihren zukünftigen Benutzernamen sowie das zugehörige Passwort können Sie frei wählen.
 
-.. image:: img_ige/metaver-registrierung-anmeldung/metaver-anmeldung.png
+.. image:: img_ige/metaver-registrierung-anmeldung/metaver_anmeldung.png
 
 Es erfolgt eine Passwortprüfung, wählen Sie bitte ein starkes Passwort (grüner Balken).
 
-.. image:: img_ige/metaver-registrierung-anmeldung/metaver-konto-erstellen.png
+.. image:: img_ige/metaver-registrierung-anmeldung/metaver_konto-erstellen.png
 
 Zum Abschließen der Registrierung betätigen Sie den Button "KONTO ERSTELLEN". Sie erhalten daraufhin folgende Nachricht in Ihrem Browserfenster
 
-.. image:: img_ige/metaver-registrierung-anmeldung/metaver-account-angelegt.png
+.. image:: img_ige/metaver-registrierung-anmeldung/metaver_account-angelegt.png
 
 Außerdem erhalten Sie eine E-Mail an die zuvor von Ihnen eingegebene Email-Adresse: 
 
