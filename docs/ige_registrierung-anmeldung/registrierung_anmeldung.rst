@@ -23,7 +23,7 @@ Zum Abschließen der Registrierung betätigen Sie den Button "KONTO ERSTELLEN". 
 
 Außerdem erhalten Sie eine E-Mail an die zuvor von Ihnen eingegebene Email-Adresse: 
 
-.. image:: ../img_ige/metaver-registrierung-anmeldung/metaver_konto-erstellen.png
+.. image:: ../img_ige/metaver-registrierung-anmeldung/metaver_konto-e-mail.png
 
 Zur Freischaltung ihrer neuen Benutzerkennung klicken Sie bitte auf den Link in Ihrer E-Mail. Es öffnet sich daraufhin der Browser mit folgender Anzeige:
 
