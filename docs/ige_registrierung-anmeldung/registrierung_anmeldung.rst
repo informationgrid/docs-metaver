@@ -13,15 +13,15 @@ Zum Anlegen eines neuen Benutzers wählen Sie: "REGISTRIEREN".
 
 Auf der Seite Anmeldung müssen mindestens alle Pflichtfelder (Kennzeichnung durch Sternchen) ausgefüllt werden. Ihren zukünftigen Benutzernamen sowie das zugehörige Passwort können Sie frei wählen.
 
-[Grafik]
+.. image:: img_ige/metaver-registrierung-anmeldung/metaver-anmeldung.png
 
 Es erfolgt eine Passwortprüfung, wählen Sie bitte ein starkes Passwort (grüner Balken).
 
-[Grafik]
+.. image:: img_ige/metaver-registrierung-anmeldung/metaver-konto-erstellen.png
 
 Zum Abschließen der Registrierung betätigen Sie den Button "KONTO ERSTELLEN". Sie erhalten daraufhin folgende Nachricht in Ihrem Browserfenster
 
-[Grafik]
+.. image:: img_ige/metaver-registrierung-anmeldung/metaver-account-angelegt.png
 
 Außerdem erhalten Sie eine E-Mail an die zuvor von Ihnen eingegebene Email-Adresse: 
 
