@@ -44,7 +44,7 @@ Die blauen und roten Symbole werden im Strukturbaum des InGrid Editors verwendet
     :widths: 50 50 150
 
     Portal , Editor , Objektklassen
-    .. image:: ../img_ige/icons/objekte/portal/geodatensatz.png, ../img_ige/icons/objekte/ige/geodatensatz.png, Geodatensatz
+    .. image:: ../img_ige/icons/objekte/portal/geodatensatz.png :width: 30, ../img_ige/icons/objekte/ige/geodatensatz.png, Geodatensatz
 	   :width: 30
 	.. image:: ../img_ige/icons/objekte/portal/geodatendienst.png, .. image:: ../img_ige/icons/objekte/ige/goeodatendienst.png, Geodatendienst
 	.. image:: ../img_ige/icons/objekte/portal/anwendung.png, .. image:: ../img_ige/icons/objekte/ige/anwendung.png, Anwendung
