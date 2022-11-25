@@ -57,7 +57,7 @@ Die blauen und roten Symbole werden im Strukturbaum des InGrid Editors verwendet
 **Adressen**
 
 .. csv-table::
-    :widths: 50 50 150
+    :widths: 50, 50, 150
 
     Portal, Editor, Adresstypen
     .. image:: ../img_ige/icons/adressen/portal/institution.png, .. image:: ../img_ige/icons/adressen/ige/institution.png, Institution
