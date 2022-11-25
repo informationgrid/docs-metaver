@@ -95,14 +95,9 @@ Jedem Objekt und jeder Adresse im Metadatenkatalog muss eine Veröffentlichungsb
 
 Der Editor enthält folgende drei Auswahlmöglichkeiten:
 
-.. csv-table::
-    :widths: 50 50 150
-
-    Portal , Editor , Adresstypen
-    .. image:: ../img_ige/icons/adressen/portal/institution.png, .. image:: ../img_ige/icons/adressen/ige/institution.png, Internet
-	.. image:: ../img_ige/icons/adressen/portal/einheit.png, .. image:: ../img_ige/icons/adressen/ige/einheit.png, Intranet
-	.. image:: ../img_ige/icons/adressen/portal/person.png, .. image:: ../img_ige/icons/adressen/ige/person.png, amtsintern
-	
+ - Internet
+ - Intranet
+ - amtsintern
 	
 Im Strukturbaum wird die Veröffentlichungsbreite der jeweiligen Objekte angezeigt. Die Veröffentlichungsbreite „Internet“ wird nicht gesondert markiert, die Veröffentlichungsbreite „Intranet“ wird mit einem kleinen blauen Quadrat links unterhalb des Objekttypensymbols dargestellt und „amtsintern“ mit einem kleinen roten Quadrat. 
 
@@ -216,6 +211,23 @@ Gedrückt halten für Verlauf
 Alle Felder aufklappen / nur Pflichtfelder aufklappen
 
 Hilfe
+
+.. csv-table::
+    :widths: 50 250
+
+    Icon , Bedeutung
+    .. image:: ../img_ige/icons/symbolleiste/konvertiert/neu-anlegen.png, Neu anlegen
+	.. image:: ../img_ige/icons/symbolleiste/konvertiert/neuen-ordner-anlegen.png, Neuen Ordner anlegen
+	.. image:: ../img_ige/icons/symbolleiste/konvertiert/vorschau-und-druckansicht.png, Vorschau und Druckansicht
+	
+
+
+
+
+
+
+
+
 
 
 Erläuterung der Toolbar-Funktionen
