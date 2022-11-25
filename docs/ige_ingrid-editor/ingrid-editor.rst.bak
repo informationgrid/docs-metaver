@@ -192,6 +192,9 @@ Hier im Einzelnen die zur Verfügung stehenden Werkzeuge:
 	.. image:: ../img_ige/ige-symbolleiste/ausschneiden.png, Objekte Adressen Teilbäume ausschneiden
 	.. image:: ../img_ige/ige-symbolleiste/kopieren.png, Objekte Adressen kopieren
 	.. image:: ../img_ige/ige-symbolleiste/teilbaum-kopieren.png, Teilbaum kopieren
+	.. image:: ../img_ige/ige-symbolleiste/einfuegen.png, Einfügen
+	.. image:: ../img_ige/ige-symbolleiste/zwischespeichern.png, Zwischenspeichern
+	.. image:: ../img_ige/ige-symbolleiste/rueckgaengig.png, Rückgängig
 
 
 
