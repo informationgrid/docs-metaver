@@ -214,7 +214,7 @@ Hilfe
 
 .. csv-table::
     :header: "Icon", "Bedeutung"
-    :widths: 50, 250
+    :widths: 50 250
 
     Icon, Bedeutung
     .. image:: ../img_ige/icons/symbolleiste/konvertiert/neu-anlegen.png, Neu anlegen
