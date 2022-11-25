@@ -95,12 +95,15 @@ Jedem Objekt und jeder Adresse im Metadatenkatalog muss eine Veröffentlichungsb
 
 Der Editor enthält folgende drei Auswahlmöglichkeiten:
 
-[Icons]
+.. csv-table::
+    :widths: 50 50 150
 
-- Internet
-- Intranet (Landesdatennetz - im Metadatenkatalog Sachsen-Anhalt nicht möglich)
-- amtsintern
-
+    Portal , Editor , Adresstypen
+    .. image:: ../img_ige/icons/adressen/portal/institution.png, .. image:: ../img_ige/icons/adressen/ige/institution.png, Internet
+	.. image:: ../img_ige/icons/adressen/portal/einheit.png, .. image:: ../img_ige/icons/adressen/ige/einheit.png, Intranet
+	.. image:: ../img_ige/icons/adressen/portal/person.png, .. image:: ../img_ige/icons/adressen/ige/person.png, amtsintern
+	
+	
 Im Strukturbaum wird die Veröffentlichungsbreite der jeweiligen Objekte angezeigt. Die Veröffentlichungsbreite „Internet“ wird nicht gesondert markiert, die Veröffentlichungsbreite „Intranet“ wird mit einem kleinen blauen Quadrat links unterhalb des Objekttypensymbols dargestellt und „amtsintern“ mit einem kleinen roten Quadrat. 
 
 **Internet**
