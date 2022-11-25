@@ -213,6 +213,7 @@ Alle Felder aufklappen / nur Pflichtfelder aufklappen
 Hilfe
 
 .. csv-table::
+    :header: "Icon", "Bedeutung"
     :widths: 50, 250
 
     Icon, Bedeutung
