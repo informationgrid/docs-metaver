@@ -190,7 +190,6 @@ Objekt / Adresse löschen
 Soll ein Objekt oder eine Adresse komplett gelöscht werden, ist der Befehl „Ausgewähltes Objekt / Teilbaum löschen“ aus der Toolbar auszuwählen. Alternativ kann die Funktion „Löschen“ auch über das Kontextmenü (rechte Maustaste) aufgerufen werden. 
 
 .. image:: ../img_ige/ige-symbolleiste/loeschen.png
-   :width: 25
 
 Wichtig ist, dass zuvor das Objekt bzw. die Adresse markiert wird, welche(s) gelöscht werden soll. Erst wenn das betreffende Objekt rechts in der Erfassungsmaske des Editors zu sehen ist, darf der Befehl aufgerufen werden. 
 Es öffnet sich daraufhin ein Fenster mit einer Sicherheitsabfrage, ob das Objekt bzw. die Adresse tatsächlich gelöscht werden soll. Mit einem Klick auf „Ok“ werden die Daten endgültig gelöscht. 
