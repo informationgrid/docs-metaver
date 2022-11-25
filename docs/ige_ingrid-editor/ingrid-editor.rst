@@ -215,7 +215,7 @@ Hilfe
 .. csv-table::
     :widths: 50, 250
 
-    Icon , Bedeutung
+    Icon, Bedeutung
     .. image:: ../img_ige/icons/symbolleiste/konvertiert/neu-anlegen.png, Neu anlegen
 	.. image:: ../img_ige/icons/symbolleiste/konvertiert/neuen-ordner-anlegen.png, Neuen Ordner anlegen
 	.. image:: ../img_ige/icons/symbolleiste/konvertiert/vorschau-und-druckansicht.png, Vorschau und Druckansicht

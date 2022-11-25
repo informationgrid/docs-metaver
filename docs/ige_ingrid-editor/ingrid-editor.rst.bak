@@ -213,7 +213,7 @@ Alle Felder aufklappen / nur Pflichtfelder aufklappen
 Hilfe
 
 .. csv-table::
-    :widths: 50 250
+    :widths: 50, 250
 
     Icon , Bedeutung
     .. image:: ../img_ige/icons/symbolleiste/konvertiert/neu-anlegen.png, Neu anlegen
