@@ -44,13 +44,13 @@ Die blauen und roten Symbole werden im Strukturbaum des InGrid Editors verwendet
     :header: "Portal", "Editor", "Objektklassen"
     :widths: 50 30 150
 
-    .. image:: ../img_ige/icons/objekte/portal/geodatensatz.png, .. image:: ../img_ige/icons/objekte/ige/geodatensatz.png, Geodatensatz
-	.. image:: ../img_ige/icons/objekte/portal/geodatendienst.png, .. image:: ../img_ige/icons/objekte/ige/geodatendienst.png, Geodatendienst
-	.. image:: ../img_ige/icons/objekte/portal/anwendung.png, .. image:: ../img_ige/icons/objekte/ige/anwendung.png, Anwendung
-	.. image:: ../img_ige/icons/objekte/portal/datenbank.png, .. image:: ../img_ige/icons/objekte/ige/datenbank.png, Datenbank
-	.. image:: ../img_ige/icons/objekte/portal/dokument.png, .. image:: ../img_ige/icons/objekte/ige/dokument.png, Dokument
-	.. image:: ../img_ige/icons/objekte/portal/projekt.png, .. image:: ../img_ige/icons/objekte/ige/projekt.png, Projekt
-	.. image:: ../img_ige/icons/objekte/portal/organisationseinheit.png, .. image:: ../img_ige/icons/objekte/ige/organisationseinheit.png, Organisationseinheit
+    .. image:: ../img_ige/ige-icons/objekte/portal/geodatensatz.png, .. image:: ../img_ige/ige-icons/objekte/ige/geodatensatz.png, Geodatensatz
+	.. image:: ../img_ige/ige-icons/objekte/portal/geodatendienst.png, .. image:: ../img_ige/ige-icons/objekte/ige/geodatendienst.png, Geodatendienst
+	.. image:: ../img_ige/ige-icons/objekte/portal/anwendung.png, .. image:: ../img_ige/ige-icons/objekte/ige/anwendung.png, Anwendung
+	.. image:: ../img_ige/ige-icons/objekte/portal/datenbank.png, .. image:: ../img_ige/ige-icons/objekte/ige/datenbank.png, Datenbank
+	.. image:: ../img_ige/ige-icons/objekte/portal/dokument.png, .. image:: ../img_ige/ige-icons/objekte/ige/dokument.png, Dokument
+	.. image:: ../img_ige/ige-icons/objekte/portal/projekt.png, .. image:: ../img_ige/ige-icons/objekte/ige/projekt.png, Projekt
+	.. image:: ../img_ige/ige-icons/objekte/portal/organisationseinheit.png, .. image:: ../img_ige/ige-icons/objekte/ige/organisationseinheit.png, Organisationseinheit
 
 
 
@@ -60,9 +60,9 @@ Die blauen und roten Symbole werden im Strukturbaum des InGrid Editors verwendet
     :header: "Portal", "Editor", "Adresstypen"
     :widths: 50 30 150
 
-    .. image:: ../img_ige/icons/adressen/portal/institution.png, .. image:: ../img_ige/icons/adressen/ige/institution.png, Institution
-	.. image:: ../img_ige/icons/adressen/portal/einheit.png, .. image:: ../img_ige/icons/adressen/ige/einheit.png, Einheit
-	.. image:: ../img_ige/icons/adressen/portal/person.png, .. image:: ../img_ige/icons/adressen/ige/person.png, Person
+    .. image:: ../img_ige/ige-icons/adressen/portal/institution.png, .. image:: ../img_ige/ige-icons/adressen/ige/institution.png, Institution
+	.. image:: ../img_ige/ige-icons/adressen/portal/einheit.png, .. image:: ../img_ige/ige-icons/adressen/ige/einheit.png, Einheit
+	.. image:: ../img_ige/ige-icons/adressen/portal/person.png, .. image:: ../img_ige/ige-icons/adressen/ige/person.png, Person
 
 
 Ordner
@@ -173,24 +173,24 @@ Hier im Einzelnen die zur Verfügung stehenden Werkzeuge:
     :header: "Icon", "Bedeutung"
     :widths: 50 250
 
-    .. image:: ../img_ige/icons/symbolleiste/konvertiert/neu-anlegen.png, Neu anlegen
-	.. image:: ../img_ige/icons/symbolleiste/konvertiert/neuen-ordner-anlegen.png, Neuen Ordner anlegen
-	.. image:: ../img_ige/icons/symbolleiste/konvertiert/vorschau-und-druckansicht.png, Vorschau und Druckansicht
-	.. image:: ../img_ige/icons/symbolleiste/konvertiert/neu-anlegen.png, ISO-XML Anzeige
-	.. image:: ../img_ige/icons/symbolleiste/konvertiert/ausschneiden.png, Objekte Adressen Teilbäume ausschneiden
-	.. image:: ../img_ige/icons/symbolleiste/konvertiert/kopieren.png, Objekte/Adressen kopieren
-	.. image:: ../img_ige/icons/symbolleiste/konvertiert/teilbaum-kopieren.png, Teilbaum kopieren
-	.. image:: ../img_ige/icons/symbolleiste/konvertiert/einfuegen.png, Einfügen (Objekt / Adresse / Teilbaum)
-	.. image:: ../img_ige/icons/symbolleiste/konvertiert/zwischespeichern.png, Zwischenspeichern
-	.. image:: ../img_ige/icons/symbolleiste/konvertiert/rueckgaengig.png, Rückgängig
-	.. image:: ../img_ige/icons/symbolleiste/konvertiert/aenderungen-verwerfen.png, Änderungen am aktuellen Objekt / Adresse verwerfen
-	.. image:: ../img_ige/icons/symbolleiste/konvertiert/speichern-und-veroeffentlichen.png, Abschließendes Speichern & Veröffentlichen
-	.. image:: ../img_ige/icons/symbolleiste/konvertiert/loeschen.png, Ausgewähltes Objekt / Adresse / Teilbaum löschen
-    .. image:: ../img_ige/icons/symbolleiste/konvertiert/aenderungen-anzeigen.png, Änderungen anzeigen
-	.. image:: ../img_ige/icons/symbolleiste/konvertiert/kommentar-ansehen.png, Kommentar ansehen / hinzufügen
-	.. image:: ../img_ige/icons/symbolleiste/konvertiert/vorher.png, Klicken, um zum vorherigen Objekt / Adresse zu gehen. Gedrückt halten für Verlauf
-	.. image:: ../img_ige/icons/symbolleiste/konvertiert/naechstes.png, Klicken um zum nächsten Objekt / Adresse zu gehen. Gedrückt halten für Verlauf
-	.. image:: ../img_ige/icons/symbolleiste/konvertiert/alle-felder-aufklappen.png, Alle Felder aufklappen / nur Pflichtfelder aufklappen
+    .. image:: ../img_ige/ige-symbolleiste/neu-anlegen.png, Neu anlegen
+	.. image:: ../img_ige/ige-symbolleiste/neuen-ordner-anlegen.png, Neuen Ordner anlegen
+	.. image:: ../img_ige/ige-symbolleiste/vorschau-und-druckansicht.png, Vorschau und Druckansicht
+	.. image:: ../img_ige/ige-symbolleiste/neu-anlegen.png, ISO-XML Anzeige
+	.. image:: ../img_ige/ige-symbolleiste/ausschneiden.png, Objekte Adressen Teilbäume ausschneiden
+	.. image:: ../img_ige/ige-symbolleiste/kopieren.png, Objekte/Adressen kopieren
+	.. image:: ../img_ige/ige-symbolleiste/teilbaum-kopieren.png, Teilbaum kopieren
+	.. image:: ../img_ige/ige-symbolleiste/einfuegen.png, Einfügen (Objekt / Adresse / Teilbaum)
+	.. image:: ../img_ige/ige-symbolleiste/zwischespeichern.png, Zwischenspeichern
+	.. image:: ../img_ige/ige-symbolleiste/rueckgaengig.png, Rückgängig
+	.. image:: ../img_ige/ige-symbolleiste/aenderungen-verwerfen.png, Änderungen am aktuellen Objekt / Adresse verwerfen
+	.. image:: ../img_ige/ige-symbolleiste/speichern-und-veroeffentlichen.png, Abschließendes Speichern & Veröffentlichen
+	.. image:: ../img_ige/ige-symbolleiste/loeschen.png, Ausgewähltes Objekt / Adresse / Teilbaum löschen
+    .. image:: ../img_ige/ige-symbolleiste/aenderungen-anzeigen.png, Änderungen anzeigen
+	.. image:: ../img_ige/ige-symbolleiste/kommentar-ansehen.png, Kommentar ansehen / hinzufügen
+	.. image:: ../img_ige/ige-symbolleiste/vorher.png, Klicken, um zum vorherigen Objekt / Adresse zu gehen. Gedrückt halten für Verlauf
+	.. image:: ../img_ige/ige-symbolleiste/naechstes.png, Klicken um zum nächsten Objekt / Adresse zu gehen. Gedrückt halten für Verlauf
+	.. image:: ../img_ige/ige-symbolleiste/alle-felder-aufklappen.png, Alle Felder aufklappen / nur Pflichtfelder aufklappen
 
 
 Erläuterung der Symbolleisten-Funktionen
@@ -201,7 +201,7 @@ Objekt / Adresse löschen
 
 Soll ein Objekt oder eine Adresse komplett gelöscht werden, ist der Befehl „Ausgewähltes Objekt / Teilbaum löschen“ aus der Toolbar auszuwählen. Alternativ kann die Funktion „Löschen“ auch über das Kontextmenü (rechte Maustaste) aufgerufen werden. 
 
-  .. image:: ../img_ige/icons/symbolleiste/konvertiert/loeschen.png
+  .. image:: ../img_ige/ige-symbolleiste/loeschen.png
   :width: 25
 
 Wichtig ist, dass zuvor das Objekt bzw. die Adresse markiert wird, welche(s) gelöscht werden soll. Erst wenn das betreffende Objekt rechts in der Erfassungsmaske des Editors zu sehen ist, darf der Befehl aufgerufen werden. 

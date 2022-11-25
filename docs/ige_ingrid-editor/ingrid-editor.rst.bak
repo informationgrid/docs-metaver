@@ -169,49 +169,6 @@ IGE-Toolbar (Symbolleiste)
 
 Hier im Einzelnen die zur Verfügung stehenden Werkzeuge: 
 
-**Neu anlegen**
-
-Dient dem Anlegen einer neuen Adresse oder eines neuen Objektes im Strukurbaum.
-
-**Neuen Ordner anlegen**
-
-Mit Ordner erstellen kann im Strukturbaum eine Hierarchie aufgebaut werden. Unter dem letzten Ordner werden dann die Objekte angelegt.
-
-**Vorschau und Druckansicht**
-
-Die Druckfunktion ist unter dem Punkt „Drucken von Teilbäumen und Suchergebnissen“ ausführlich beschrieben.
-
-**ISO-XML Anzeige**
-
-Zeigt das erstellte Metadatenobjekt als ISO-XML an. 
-
-[Grafik]
-
-
-Objekte / Adresse / Teilbaum ausschneiden
-Objekt / Adresse kopieren
-Teilbäume kopieren
-Einfügen (Objekt / Adresse / Teilbaum)
-
-Zwischenspeichern
-Rückgängig
-Änderungen am aktuellen Objekt / Adresse verwerfen
-
-Abschließendes Speichern & Veröffentlichen
-Ausgewähltes Objekt / Adresse / Teilbaum löschen
-Änderungen anzeigen
-
-Kommentar ansehen / hinzufügen
-
-Klicken, um zum vorherigen Objekt / Adresse zu gehen.
-Gedrückt halten für Verlauf
-Klicken, um zum nächsten Objekt / Adresse zu gehen.
-Gedrückt halten für Verlauf
-
-Alle Felder aufklappen / nur Pflichtfelder aufklappen
-
-Hilfe
-
 .. csv-table::
     :header: "Icon", "Bedeutung"
     :widths: 50 250
@@ -236,14 +193,7 @@ Hilfe
 	.. image:: ../img_ige/icons/symbolleiste/konvertiert/alle-felder-aufklappen.png, Alle Felder aufklappen / nur Pflichtfelder aufklappen
 
 
-
-
-
-
-
-
-
-Erläuterung der Toolbar-Funktionen
+Erläuterung der Symbolleisten-Funktionen
 ----------------------------------
 
 Objekt / Adresse löschen
@@ -251,7 +201,8 @@ Objekt / Adresse löschen
 
 Soll ein Objekt oder eine Adresse komplett gelöscht werden, ist der Befehl „Ausgewähltes Objekt / Teilbaum löschen“ aus der Toolbar auszuwählen. Alternativ kann die Funktion „Löschen“ auch über das Kontextmenü (rechte Maustaste) aufgerufen werden. 
 
-[Grafik]
+  .. image:: ../img_ige/icons/symbolleiste/konvertiert/loeschen.png
+  :width: 25
 
 Wichtig ist, dass zuvor das Objekt bzw. die Adresse markiert wird, welche(s) gelöscht werden soll. Erst wenn das betreffende Objekt rechts in der Erfassungsmaske des Editors zu sehen ist, darf der Befehl aufgerufen werden. 
 Es öffnet sich daraufhin ein Fenster mit einer Sicherheitsabfrage, ob das Objekt bzw. die Adresse tatsächlich gelöscht werden soll. Mit einem Klick auf „Ok“ werden die Daten endgültig gelöscht. 
