@@ -195,9 +195,11 @@ Hier im Einzelnen die zur Verfügung stehenden Werkzeuge:
 	.. image:: ../img_ige/ige-symbolleiste/einfuegen.png, Einfügen
 	.. image:: ../img_ige/ige-symbolleiste/zwischenspeichern.png, Zwischenspeichern
 	.. image:: ../img_ige/ige-symbolleiste/rueckgaengig.png, Rückgängig
-	.. image:: ../img_ige/ige-symbolleiste/aenderungen-verwerfen.png, Änderungen am aktuellen Objekt Adresse verwerfen
+	.. image:: ../img_ige/ige-symbolleiste/aenderung-verwerfen.png, Änderungen am aktuellen Objekt Adresse verwerfen
 	.. image:: ../img_ige/ige-symbolleiste/speichern-und-veroeffentlichen.png, Abschließendes Speichern & Veröffentlichen
 	.. image:: ../img_ige/ige-symbolleiste/loeschen.png, Ausgewähltes Objekt Adresse Teilbaum löschen
+	.. image:: ../img_ige/ige-symbolleiste/aenderungen-anzeigen.png, Änderungen anzeigen
+	.. image:: ../img_ige/ige-symbolleiste/kommentar-ansehen.png, Kommentar ansehen hinzufügen
 
 
 
