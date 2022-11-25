@@ -178,6 +178,7 @@ Hier im Einzelnen die zur Verfügung stehenden Werkzeuge:
 	.. image:: ../img_ige/ige-symbolleiste/druckansicht.png, Vorschau und Druckansicht
 	.. image:: ../img_ige/ige-symbolleiste/iso.png, ISO XML Anzeige
 	.. image:: ../img_ige/ige-symbolleiste/ausschneiden.png, Objekte Adressen Teilbäume ausschneiden
+	.. image:: ../img_ige/ige-symbolleiste/kopieren.png, Objekte Adressen kopieren
 
 
 
