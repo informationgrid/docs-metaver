@@ -56,15 +56,10 @@ Die blauen und roten Symbole werden im Strukturbaum des InGrid Editors verwendet
 
 **Adressen**
 
-Portal	Editor	Adresstyp
- 	 	        Institution
- 	 	        Einheit
- 	 	        Person
-				
 .. csv-table::
     :widths: 50 50 150
 
-    Portal , Editor , Adresse
+    Portal , Editor , Adresstyp
     .. image:: ../img_ige/icons/adressen/portal/institution.png, .. image:: ../img_ige/icons/adressen/ige/institution.png, Geodatensatz
 	.. image:: ../img_ige/icons/adressen/portal/einheit.png, .. image:: ../img_ige/icons/adressen/ige/einheit.png, Geodatendienst
 	.. image:: ../img_ige/icons/adressen/portal/person.png, .. image:: ../img_ige/icons/adressen/ige/person.png, Anwendung
