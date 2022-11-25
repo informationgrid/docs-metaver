@@ -178,19 +178,19 @@ Hier im Einzelnen die zur Verfügung stehenden Werkzeuge:
 	.. image:: ../img_ige/ige-symbolleiste/vorschau-und-druckansicht.png, Vorschau und Druckansicht
 	.. image:: ../img_ige/ige-symbolleiste/neu-anlegen.png, ISO-XML Anzeige
 	.. image:: ../img_ige/ige-symbolleiste/ausschneiden.png, Objekte Adressen Teilbäume ausschneiden
-	.. image:: ../img_ige/ige-symbolleiste/kopieren.png, Objekte/Adressen kopieren
+	.. image:: ../img_ige/ige-symbolleiste/kopieren.png, Objekte Adressen kopieren
 	.. image:: ../img_ige/ige-symbolleiste/teilbaum-kopieren.png, Teilbaum kopieren
-	.. image:: ../img_ige/ige-symbolleiste/einfuegen.png, Einfügen (Objekt / Adresse / Teilbaum)
+	.. image:: ../img_ige/ige-symbolleiste/einfuegen.png, Einfügen (Objekt Adresse Teilbaum)
 	.. image:: ../img_ige/ige-symbolleiste/zwischespeichern.png, Zwischenspeichern
 	.. image:: ../img_ige/ige-symbolleiste/rueckgaengig.png, Rückgängig
-	.. image:: ../img_ige/ige-symbolleiste/aenderungen-verwerfen.png, Änderungen am aktuellen Objekt / Adresse verwerfen
+	.. image:: ../img_ige/ige-symbolleiste/aenderungen-verwerfen.png, Änderungen am aktuellen Objekt Adresse verwerfen
 	.. image:: ../img_ige/ige-symbolleiste/speichern-und-veroeffentlichen.png, Abschließendes Speichern & Veröffentlichen
-	.. image:: ../img_ige/ige-symbolleiste/loeschen.png, Ausgewähltes Objekt / Adresse / Teilbaum löschen
+	.. image:: ../img_ige/ige-symbolleiste/loeschen.png, Ausgewähltes Objekt Adresse Teilbaum löschen
     .. image:: ../img_ige/ige-symbolleiste/aenderungen-anzeigen.png, Änderungen anzeigen
-	.. image:: ../img_ige/ige-symbolleiste/kommentar-ansehen.png, Kommentar ansehen / hinzufügen
-	.. image:: ../img_ige/ige-symbolleiste/vorher.png, Klicken, um zum vorherigen Objekt / Adresse zu gehen. Gedrückt halten für Verlauf
-	.. image:: ../img_ige/ige-symbolleiste/naechstes.png, Klicken um zum nächsten Objekt / Adresse zu gehen. Gedrückt halten für Verlauf
-	.. image:: ../img_ige/ige-symbolleiste/alle-felder-aufklappen.png, Alle Felder aufklappen / nur Pflichtfelder aufklappen
+	.. image:: ../img_ige/ige-symbolleiste/kommentar-ansehen.png, Kommentar ansehen hinzufügen
+	.. image:: ../img_ige/ige-symbolleiste/vorher.png, Klicken, um zum vorherigen Objekt Adresse zu gehen. Gedrückt halten für Verlauf
+	.. image:: ../img_ige/ige-symbolleiste/naechstes.png, Klicken um zum nächsten Objekt Adresse zu gehen. Gedrückt halten für Verlauf
+	.. image:: ../img_ige/ige-symbolleiste/alle-felder-aufklappen.png, Alle Felder aufklappen nur Pflichtfelder aufklappen
 
 
 Erläuterung der Symbolleisten-Funktionen
