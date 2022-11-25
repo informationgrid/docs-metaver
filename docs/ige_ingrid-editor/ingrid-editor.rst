@@ -44,7 +44,7 @@ Die blauen und roten Symbole werden im Strukturbaum des InGrid Editors verwendet
     :widths: 50 50 150
 
     Portal , Editor , Objektklassen
-    .. image:: ../img_ige/icons/objekte/portal/geodatensatz.png, .. image:: ../img_ige/icons/objekte/ige/geodatensatz.png, Geodatensatz
+    .. image:: ../img_ige/icons/objekte/portal/geodatensatz.png, ../img_ige/icons/objekte/ige/geodatensatz.png, Geodatensatz
 	.. image:: ../img_ige/icons/objekte/portal/geodatendienst.png, .. image:: ../img_ige/icons/objekte/ige/goeodatendienst.png, Geodatendienst
 	.. image:: ../img_ige/icons/objekte/portal/anwendung.png, .. image:: ../img_ige/icons/objekte/ige/anwendung.png, Anwendung
 	.. image:: ../img_ige/icons/objekte/portal/datenbank.png, .. image:: ../img_ige/icons/objekte/ige/datenbank.png, Datenbank
@@ -60,9 +60,9 @@ Die blauen und roten Symbole werden im Strukturbaum des InGrid Editors verwendet
     :widths: 50 50 150
 
     Portal , Editor , Adresstypen
-    .. image:: ../img_ige/icons/adressen/portal/institution.png, .. image:: ../img_ige/icons/adressen/ige/institution.png, Geodatensatz
-	.. image:: ../img_ige/icons/adressen/portal/einheit.png, .. image:: ../img_ige/icons/adressen/ige/einheit.png, Geodatendienst
-	.. image:: ../img_ige/icons/adressen/portal/person.png, .. image:: ../img_ige/icons/adressen/ige/person.png, Anwendung
+    .. image:: ../img_ige/icons/adressen/portal/institution.png, .. image:: ../img_ige/icons/adressen/ige/institution.png, Institution
+	.. image:: ../img_ige/icons/adressen/portal/einheit.png, .. image:: ../img_ige/icons/adressen/ige/einheit.png, Einheit
+	.. image:: ../img_ige/icons/adressen/portal/person.png, .. image:: ../img_ige/icons/adressen/ige/person.png, Person
 
 
 Ordner
