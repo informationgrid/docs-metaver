@@ -201,9 +201,7 @@ Hier im Einzelnen die zur Verfügung stehenden Werkzeuge:
 	.. image:: ../img_ige/ige-symbolleiste/loeschen.png, Ausgewähltes Objekt Adresse Teilbaum löschen
 	.. image:: ../img_ige/ige-symbolleiste/aenderungen-anzeigen.png, Änderungen anzeigen
 	.. image:: ../img_ige/ige-symbolleiste/kommentar-ansehen.png, Kommentar ansehen hinzufügen
-	.. image:: ../img_ige/ige-symbolleiste/vorher.png, Klicken um zum vorherigen Objekt oder zur Adresse zu gehen und für die Anzeige des Verlaufs das Symbol gedrückt halten
-	.. image:: ../img_ige/ige-symbolleiste/naechstes.png, Klicken um zum nächsten Objekt oder zur Adresse zu gehen und für die Anzeige des Verlaufs das Symbol gedrückt halten
-	.. image:: ../img_ige/ige-symbolleiste/alle-felder-aufklappen.png, Alle Felder aufklappen oder nur Pflichtfelder aufklappen
+
 
 
 
