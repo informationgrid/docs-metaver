@@ -43,7 +43,7 @@ Die blauen und roten Symbole werden im Strukturbaum des InGrid Editors verwendet
 .. csv-table::
     :widths: 50 30 150
 
-    Portal, Editor, Objektklassen
+    Portal , Editor , Objektklassen
     .. image:: ../img_ige/icons/objekte/portal/geodatensatz.png, .. image:: ../img_ige/icons/objekte/ige/geodatensatz.png, Geodatensatz
 	.. image:: ../img_ige/icons/objekte/portal/geodatendienst.png, .. image:: ../img_ige/icons/objekte/ige/geodatendienst.png, Geodatendienst
 	.. image:: ../img_ige/icons/objekte/portal/anwendung.png, .. image:: ../img_ige/icons/objekte/ige/anwendung.png, Anwendung
@@ -59,7 +59,7 @@ Die blauen und roten Symbole werden im Strukturbaum des InGrid Editors verwendet
 .. csv-table::
     :widths: 50 30 150
 
-    Portal, Editor, Adresstypen
+    Portal , Editor , Adresstypen
     .. image:: ../img_ige/icons/adressen/portal/institution.png, .. image:: ../img_ige/icons/adressen/ige/institution.png, Institution
 	.. image:: ../img_ige/icons/adressen/portal/einheit.png, .. image:: ../img_ige/icons/adressen/ige/einheit.png, Einheit
 	.. image:: ../img_ige/icons/adressen/portal/person.png, .. image:: ../img_ige/icons/adressen/ige/person.png, Person
