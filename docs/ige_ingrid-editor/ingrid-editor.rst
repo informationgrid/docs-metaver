@@ -184,6 +184,7 @@ Hier im Einzelnen die zur Verfügung stehenden Werkzeuge:
 .. csv-table::
     :header: "Icon", "Bedeutung"
     :widths: 50 250
+	:width: 500
 
     .. image:: ../img_ige/ige-symbolleiste/neu-anlegen.png, Neu anlegen
 	.. image:: ../img_ige/ige-symbolleiste/neuen-ordner-anlegen.png, Neuen Ordner anlegen
