@@ -102,15 +102,18 @@ Der Editor enthält folgende drei Auswahlmöglichkeiten:
 Im Strukturbaum wird die Veröffentlichungsbreite der jeweiligen Objekte angezeigt. Die Veröffentlichungsbreite „Internet“ wird nicht gesondert markiert, die Veröffentlichungsbreite „Intranet“ wird mit einem kleinen blauen Quadrat links unterhalb des Objekttypensymbols dargestellt und „amtsintern“ mit einem kleinen roten Quadrat. 
 
 **Internet**
+
 Das Objekt/die Adresse wird im Internet im MetadatenVerbund (MetaVer) unter www.metaver.de/ veröffentlicht. Durch die Veröffentlichung auf www.metaver.de/ werden die Daten automatisch auch für andere Informationssysteme bereitgestellt. Hierzu zählen zum Beispiel das Geoportal Deutschlands (Geoportal.de) www.geoportal.de/, in dem Geodaten aus ganz Deutschland recherchiert werden können und das INSPIRE GEOPORTAL https://inspire-geoportal.ec.europa.eu/, das die europaweite Suche nach Geodatenressourcen im Geltungsbereich von INSPIRE ermöglicht.
 
 **Intranet**
+
 Das Objekt/die Adresse darf nicht im Internet, sondern nur im Intranet veröffentlicht werden. 
 
-Hinweis:
-Die Funktion „Intranet“ ist für den Metadatenkatalog Sachsen-Anhalt nicht relevant, da der Metadatenkatalog nicht über das Intranet erreichbar ist.
+**Hinweis:**
+*Die Funktion „Intranet“ ist für den Metadatenkatalog Sachsen-Anhalt nicht relevant, da der Metadatenkatalog nicht über das Intranet erreichbar ist.*
 
 **amtsintern**
+
 Das Objekt/die Adresse ist nur im Editor einsehbar. Das Objekt/die Adresse wird weder im Internet noch im Intranet angezeigt. Personen ohne Zugang zum InGrid Editor können diese Objekte/die Adressen nicht recherchieren. 
 
 
@@ -129,30 +132,39 @@ Das IGE-Kontextmenü
 Wenn ein Objekt im Strukturbaum markiert wurde, kann das Kontextmenü mit der rechte Maustaste geöffnet werden.
 
 **Neu anlegen**
+
 Dient dem Anlegen einer neuen Adresse oder eines neuen Objektes im Strukurbaum.
 
 **Ordner erstellen**
+
 Mit Ordner erstellen kann im Strukturbaum eine Hierarchie aufgebaut werden. Unter dem letzten Ordner werden dann die Objekte angelegt. 
 
 **Vorschau und Druckansicht**
+
 Die Druckfunktion ist unter dem Punkt „Drucken von Teilbäumen und Suchergebnissen“ ausführlich beschrieben.
 
 **Objekte/Adressen/Teilbäume ausschneiden**
+
 Adressen und Objekte oder Teile des Strukturbaumes lassen sich über diese Funktion ausschneiden.
 
 **Objekte/Adressen kopieren**
+
 Adressen und Objekte lassen sich über diese Funktion kopieren.
 
 **Teilbaume kopieren**
+
 Teile des Strukturbaumes lassen sich über diese Funktion kopieren.
 
 **Einfügen**
+
 Funktion für das Einfügen von ausgeschnittenen oder kopierten Adressen, Objekten und Teilbäumen.
 
 **Teilbaum neu laden**
+
 Werden mehrere Adressen oder Objekte auf einer Ebene nacheinander angelegt, so stehen diese nicht alphabetisch geordnet untereinander. Über diese Funktion kann die darüber liegende Adresse oder das Objekt angeklickt werden und der Teil-Baum wird im IGE neu geladen. Nach dem Laden stehen die Adressen/Objekte alphabetisch geordnet im Strukturbaum.
 
 **Löschen**
+
 Löschen von Adressen, Objekten oder Teilbaumen aus dem Strukurbaum.
 
 - Ändern auf Internet
