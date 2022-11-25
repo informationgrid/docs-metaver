@@ -44,13 +44,13 @@ Die blauen und roten Symbole werden im Strukturbaum des InGrid Editors verwendet
     :widths: 50 50 150
 
     Portal , Editor , Objektklasse
-    .. image:: ../img-ige/icons/Objekte/portal/geodatensatz.png, .. image:: ../img-ige/icons/Objekte/ige/geodatensatz.png, Geodatensatz
-	.. image:: ../img-ige/icons/Objekte/portal/geodatendienst.png, .. image:: ../img-ige/icons/Objekte/ige/goeodatendienst.png, Geodatendienst
-	.. image:: ../img-ige/icons/Objekte/portal/anwendung.png, .. image:: ../img-ige/icons/Objekte/ige/anwendung.png, Anwendung
-	.. image:: ../img-ige/icons/Objekte/portal/datenbank.png, .. image:: ../img-ige/icons/Objekte/ige/datenbank.png, Datenbank
-	.. image:: ../img-ige/icons/Objekte/portal/dokument.png, .. image:: ../img-ige/icons/Objekte/ige/dokument.png, Dokument
-	.. image:: ../img-ige/icons/Objekte/portal/projekt.png, .. image:: ../img-ige/icons/Objekte/ige/projekt.png, Projekt
-	.. image:: ../img-ige/icons/Objekte/portal/organisationseinheit.png, .. image:: ../img-ige/icons/Objekte/ige/organisationseinheit.png, Organisationseinheit
+    .. image:: ../img_ige/icons/Objekte/portal/geodatensatz.png, .. image:: ../img-ige/icons/Objekte/ige/geodatensatz.png, Geodatensatz
+	.. image:: ../img_ige/icons/Objekte/portal/geodatendienst.png, .. image:: ../img-ige/icons/Objekte/ige/goeodatendienst.png, Geodatendienst
+	.. image:: ../img_ige/icons/Objekte/portal/anwendung.png, .. image:: ../img-ige/icons/Objekte/ige/anwendung.png, Anwendung
+	.. image:: ../img_ige/icons/Objekte/portal/datenbank.png, .. image:: ../img-ige/icons/Objekte/ige/datenbank.png, Datenbank
+	.. image:: ../img_ige/icons/Objekte/portal/dokument.png, .. image:: ../img-ige/icons/Objekte/ige/dokument.png, Dokument
+	.. image:: ../img_ige/icons/Objekte/portal/projekt.png, .. image:: ../img-ige/icons/Objekte/ige/projekt.png, Projekt
+	.. image:: ../img_ige/icons/Objekte/portal/organisationseinheit.png, .. image:: ../img-ige/icons/Objekte/ige/organisationseinheit.png, Organisationseinheit
 
 
 
