@@ -220,7 +220,7 @@ Hilfe
 	.. image:: ../img_ige/icons/symbolleiste/konvertiert/neuen-ordner-anlegen.png, Neuen Ordner anlegen
 	.. image:: ../img_ige/icons/symbolleiste/konvertiert/vorschau-und-druckansicht.png, Vorschau und Druckansicht
 	.. image:: ../img_ige/icons/symbolleiste/konvertiert/neu-anlegen.png, ISO-XML Anzeige
-	.. image:: ../img_ige/icons/symbolleiste/konvertiert/ausschneiden.png, Objekte/Adressen/Teilbäume ausschneiden
+	.. image:: ../img_ige/icons/symbolleiste/konvertiert/ausschneiden.png, Objekte Adressen Teilbäume ausschneiden
 
 
 
