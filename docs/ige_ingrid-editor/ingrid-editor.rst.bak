@@ -48,6 +48,22 @@ Portal	Editor	Objektklasse
  	 	        Dokument
  	 	        Projekt
  	 	        Organisationseinheit
+				
+				
+
+
+.. csv-table::
+    :widths: 50 50 150
+
+    Symbol , Farbe , Objektklasse
+    .. image:: ../img-ige/icons/Objekte/portal/geodatensatz.png, .. image:: ../img-ige/icons/Objekte/ige/geodatensatz.png, Geodatensatz
+	.. image:: ../img-ige/icons/Objekte/portal/geodatendienst.png, .. image:: ../img-ige/icons/Objekte/ige/goeodatendienst.png, Geodatendienst
+	.. image:: ../img-ige/icons/Objekte/portal/anwendung.png, .. image:: ../img-ige/icons/Objekte/ige/anwendung.png, Anwendung
+	.. image:: ../img-ige/icons/Objekte/portal/datenbank.png, .. image:: ../img-ige/icons/Objekte/ige/datenbank.png, Datenbank
+	.. image:: ../img-ige/icons/Objekte/portal/dokument.png, .. image:: ../img-ige/icons/Objekte/ige/dokument.png, Dokument
+	.. image:: ../img-ige/icons/Objekte/portal/projekt.png, .. image:: ../img-ige/icons/Objekte/ige/projekt.png, Projekt
+	.. image:: ../img-ige/icons/Objekte/portal/organisationseinheit.png, .. image:: ../img-ige/icons/Objekte/ige/organisationseinheit.png, Organisationseinheit
+
 
 
 **Adressen**
@@ -545,7 +561,7 @@ Es wird automatisch auf die Seite „Anmeldung“ weitergeleitet, auf der man si
 Benutzername vergessen
 ----------------------
 
-Wenn Sie Ihren Benutzernamen vergessen haben, füllen Sie unter: METAVER / Kontakt das Kontaktformular aus und wählen Sie vor dem Absenden das Bundesland Sachsen-Anhalt.
+Wenn Sie Ihren Benutzernamen vergessen haben, füllen Sie bitte in METAVER das Kontaktformular (https://metaver.de/kontakt) aus, geben Sie bitte Ihr Bundesland an, so wird die Anfrage Ihren zuständigen Katalogadministrator zugestellt.
 
 
 Fragen und Kontakt
