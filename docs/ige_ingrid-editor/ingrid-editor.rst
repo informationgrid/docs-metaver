@@ -220,20 +220,6 @@ Hilfe
 	.. image:: ../img_ige/icons/symbolleiste/konvertiert/neuen-ordner-anlegen.png, Neuen Ordner anlegen
 	.. image:: ../img_ige/icons/symbolleiste/konvertiert/vorschau-und-druckansicht.png, Vorschau und Druckansicht
 	.. image:: ../img_ige/icons/symbolleiste/konvertiert/neu-anlegen.png, ISO-XML Anzeige
-	.. image:: ../img_ige/icons/symbolleiste/konvertiert/ausschneiden.png, Objekte/Adressen/Teilbäume ausschneiden
-	.. image:: ../img_ige/icons/symbolleiste/konvertiert/kopieren.png, Objekte/Adressen kopieren
-	.. image:: ../img_ige/icons/symbolleiste/konvertiert/teilbaum-kopieren.png, Teilbaum kopieren
-	.. image:: ../img_ige/icons/symbolleiste/konvertiert/einfuegen.png, Einfügen (Objekt / Adresse / Teilbaum)
-	.. image:: ../img_ige/icons/symbolleiste/konvertiert/zwischespeichern.png, Zwischenspeichern
-	.. image:: ../img_ige/icons/symbolleiste/konvertiert/rueckgaengig.png, Rückgängig
-	.. image:: ../img_ige/icons/symbolleiste/konvertiert/aenderungen-verwerfen.png, Änderungen am aktuellen Objekt / Adresse verwerfen
-	.. image:: ../img_ige/icons/symbolleiste/konvertiert/speichern-und-veroeffentlichen.png, Abschließendes Speichern & Veröffentlichen
-	.. image:: ../img_ige/icons/symbolleiste/konvertiert/loeschen.png, Ausgewähltes Objekt / Adresse / Teilbaum löschen
-    .. image:: ../img_ige/icons/symbolleiste/konvertiert/aenderungen-anzeigen.png, Änderungen anzeigen
-	.. image:: ../img_ige/icons/symbolleiste/konvertiert/kommentar-ansehen.png, Kommentar ansehen / hinzufügen
-	.. image:: ../img_ige/icons/symbolleiste/konvertiert/vorher.png, Klicken, um zum vorherigen Objekt / Adresse zu gehen. Gedrückt halten für Verlauf
-	.. image:: ../img_ige/icons/symbolleiste/konvertiert/naechstes.png, Klicken um zum nächsten Objekt / Adresse zu gehen. Gedrückt halten für Verlauf
-	.. image:: ../img_ige/icons/symbolleiste/konvertiert/alle-felder-aufklappen.png, Alle Felder aufklappen / nur Pflichtfelder aufklappen
 
 
 

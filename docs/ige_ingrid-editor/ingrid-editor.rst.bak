@@ -232,7 +232,7 @@ Hilfe
     .. image:: ../img_ige/icons/symbolleiste/konvertiert/aenderungen-anzeigen.png, Änderungen anzeigen
 	.. image:: ../img_ige/icons/symbolleiste/konvertiert/kommentar-ansehen.png, Kommentar ansehen / hinzufügen
 	.. image:: ../img_ige/icons/symbolleiste/konvertiert/vorher.png, Klicken, um zum vorherigen Objekt / Adresse zu gehen. Gedrückt halten für Verlauf
-	.. image:: ../img_ige/icons/symbolleiste/konvertiert/naechstes.png, Klicken, um zum nächsten Objekt / Adresse zu gehen. Gedrückt halten für Verlauf
+	.. image:: ../img_ige/icons/symbolleiste/konvertiert/naechstes.png, Klicken um zum nächsten Objekt / Adresse zu gehen. Gedrückt halten für Verlauf
 	.. image:: ../img_ige/icons/symbolleiste/konvertiert/alle-felder-aufklappen.png, Alle Felder aufklappen / nur Pflichtfelder aufklappen
 
 
