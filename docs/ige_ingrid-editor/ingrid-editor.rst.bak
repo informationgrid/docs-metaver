@@ -193,8 +193,11 @@ Hier im Einzelnen die zur Verfügung stehenden Werkzeuge:
 	.. image:: ../img_ige/ige-symbolleiste/kopieren.png, Objekte Adressen kopieren
 	.. image:: ../img_ige/ige-symbolleiste/teilbaum-kopieren.png, Teilbaum kopieren
 	.. image:: ../img_ige/ige-symbolleiste/einfuegen.png, Einfügen
-	.. image:: ../img_ige/ige-symbolleiste/zwischespeichern.png, Zwischenspeichern
+	.. image:: ../img_ige/ige-symbolleiste/zwischenspeichern.png, Zwischenspeichern
 	.. image:: ../img_ige/ige-symbolleiste/rueckgaengig.png, Rückgängig
+	.. image:: ../img_ige/ige-symbolleiste/aenderungen-verwerfen.png, Änderungen am aktuellen Objekt Adresse verwerfen
+	.. image:: ../img_ige/ige-symbolleiste/speichern-und-veroeffentlichen.png, Abschließendes Speichern & Veröffentlichen
+	.. image:: ../img_ige/ige-symbolleiste/loeschen.png, Ausgewähltes Objekt Adresse Teilbaum löschen
 
 
 
