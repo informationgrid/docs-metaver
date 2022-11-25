@@ -176,7 +176,7 @@ Hier im Einzelnen die zur Verfügung stehenden Werkzeuge:
     .. image:: ../img_ige/ige-symbolleiste/neu-anlegen.png, Neu anlegen
 	.. image:: ../img_ige/ige-symbolleiste/neuen-ordner-anlegen.png, Neuen Ordner anlegen
 	.. image:: ../img_ige/ige-symbolleiste/druckansicht.png, Vorschau und Druckansicht
-	.. image:: ../img_ige/ige-symbolleiste/neu-anlegen.png, ISO XML Anzeige
+	.. image:: ../img_ige/ige-symbolleiste/iso.png, ISO XML Anzeige
 
 
 
