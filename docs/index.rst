@@ -49,11 +49,7 @@ Version der Bedienungsanleitung
    :caption: FAQ
    
    ige_faq/faq/faq
-   ige_faq/harvesting/kataloge-harvesting
-   ige_faq/glossar/glossar-allgemein
-   ige_faq/glossar/geo-glossar
-   ige_faq/glossar/glossar-datenformate
-   
+
 
 .. toctree::
    :maxdepth: 2
