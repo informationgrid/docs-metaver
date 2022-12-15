@@ -68,7 +68,7 @@ Gibt es Einschränkungen für die Nutzung der Daten?
 
 In welchen Format liegen die Daten vor?
 
-- digitale Speicherformate, analoge Formate
+- digital oder analog
 
 Welches Medium wird für die Bereitstellung der Daten verwendet?
 
