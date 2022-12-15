@@ -30,7 +30,7 @@ Metadaten sollten für Experten und Laien aussagekräftig sein und die wichtigst
 
 Welche Daten sind zu einem bestimmten Thema vorhanden?
 
-- Beschreibung der Daten, Visualisierung mit Grafiken
+- Titel, Kurzbezeichnung, Beschreibung der Daten, Visualisierung mit Grafiken
 
 **Zuständigkeit**
 
