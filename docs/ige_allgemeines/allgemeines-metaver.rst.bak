@@ -36,7 +36,7 @@ Wer kann fachliche Auskünfte erteilen?
 
 Wie können die Metadaten gesucht und gefunden werden?
 
-- Kategorisierung, Verschlagwortung (Suchbegriffe)  (Thesauri) 
+- Kategorisierung, Verschlagwortung (Suchbegriffe) 
 
 **Fachbezug**
 
