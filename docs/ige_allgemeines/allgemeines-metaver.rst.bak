@@ -76,7 +76,7 @@ Gibt es Einschränkungen für die Nutzung der Daten?
 
 In welchen Format liegen die Daten vor?
 
-- digital (Dateiformat) oder analog (Ausgabeformat z.B. Heft, Broschüre, Katalog, Buch)
+- digital (Dateiformat z.B. .pdf, .docx, .xlsx, .tiff, .shp) oder analog (Ausgabeformat z.B. Heft, Broschüre, Katalog, Buch)
 
 Welches Medium wird für die Bereitstellung der Daten verwendet?
 
