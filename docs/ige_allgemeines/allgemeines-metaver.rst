@@ -14,7 +14,7 @@ Metadaten sollten für Experten und Laien aussagekräftig sein und die wichtigst
 
 **Was ist ein Metadatenkatalog?**
 
-Einen Metadatenkatalog kann man sich wie eine Bibliothek vorstellen, es werden Informationen gesammelt, erschlossen, aufbewahrt und über Portale und Suchmaschinen verfügbar gemacht. 
+Einen Metadatenkatalog kann man sich wie eine Bibliothek vorstellen, es werden Informationen gesammelt, erschlossen, aufbewahrt und über verschiedene Portale und Suchmaschinen verfügbar gemacht. 
 
 **Worüber geben die Metadaten Auskunft?**
 
