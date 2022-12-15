@@ -78,7 +78,7 @@ In welchen Format liegen die Daten vor?
 
 - digital (Dateiformat z.B. .pdf, .docx, .xlsx, .tiff, .shp)
 
-- oder analog (Ausgabeformat z.B. Heft, Broschüre, Katalog, Buch)
+- oder analog (Ausgabeformat z.B. Heft, Broschüre, Katalog, Buch, topografische Karte)
 
 Welches Medium wird für die Bereitstellung der Daten verwendet?
 
