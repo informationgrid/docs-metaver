@@ -7,7 +7,7 @@ METAVER bedeutet MetadatenVerbund. Den MetadatenVerbund der Länder gehören an:
 
 **Was ist ein Metadateninformationssystem (MIS)?**
 
-Metadateninfaormationssysteme (z.B. METAVER) enthalten eine Erfassungssoftware (Backend), den Metadatenkatalog (Datenbank) mit den Metadaten und eine Suche für die Recherche und können eine Portaloberfäche (Frontend) für die Recherche anbieten. Bekannte Metadateninformationssysteme sind Bibliotheksprogramme hier kann z.B. nach Autor, Buchtitel, Inhalt, Kategorie und Standort recherchiert werden.)
+Metadateninfaormationssysteme wie z.B. METAVER enthalten eine Erfassungssoftware (Backend), den Metadatenkatalog (Datenbank) mit den Metadaten und eine Suche für die Recherche und können eine Portaloberfäche (Frontend) für die Recherche anbieten. Bekannte Metadateninformationssysteme sind Bibliotheksprogramme hier kann z.B. nach Autor, Buchtitel, Inhalt, Kategorie und Standort recherchiert werden.)
 
 
 **Was ist ein Metadatenkatalog?**
