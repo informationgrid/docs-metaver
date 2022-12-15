@@ -23,7 +23,7 @@ Metadaten werden nach Standards erfasst (Pflichtfelder - z.B. ISO, GDI-DE, INSPI
 
 Metadaten sollten für Experten und Laien aussagekräftig sein und die wichtigsten Informationen über die eigentlichen Daten enthalten.
 
-**Welche Metadatentypen werden in METAVER beschrieben?**
+**Welche Metadatentypen (Objektklassen) werden in METAVER beschrieben?**
 
 - Geodatendienste (Webdienste - Darstellungsdienste/Downloaddienste)
 - Geodatensätze (Beschreibung von geografischen Daten)
