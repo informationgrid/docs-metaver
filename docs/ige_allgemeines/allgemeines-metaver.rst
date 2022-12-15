@@ -117,6 +117,7 @@ Die Erfassung und Aktualisierung der Metadaten erfolgt mit dem InGrid®Editor. D
 **Wer profitiert von den beschriebenen Daten?**
 
 - die öffentliche Verwaltung kann Daten untereinander austauschen
-- die Politik kann Rückschlüsse aus den Daten ziehen
-- Universitäten, Hochschulen, Institute und Forschungseinrichtungen können die Daten für die Ausbildung und für Forschungsprojekte und verwenden
-- Unternehmen können neue Anwendungen entwickeln
+- die Politik aus den Daten kann Rückschlüsse ziehen
+- Universitäten und Hochschulen können die Daten für die Ausbildung verwenden
+- Institute und Forschungseinrichtungen können die Daten für Forschungsprojekte und nutzen
+- Unternehmen können aus den bereitgestellten Daten neue Anwendungen entwickeln

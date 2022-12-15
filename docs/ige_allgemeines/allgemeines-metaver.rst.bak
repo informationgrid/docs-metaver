@@ -118,5 +118,5 @@ Die Erfassung und Aktualisierung der Metadaten erfolgt mit dem InGrid®Editor. D
 
 - die öffentliche Verwaltung kann Daten untereinander austauschen
 - die Politik kann Rückschlüsse aus den Daten ziehen
-- Universitäten, Hochschulen, Institute und Forschungseinrichtungen können die Daten für Forschungsprojekte verwenden
+- Universitäten, Hochschulen, Institute und Forschungseinrichtungen können die Daten für die Ausbildung und für Forschungsprojekte und verwenden
 - Unternehmen können neue Anwendungen entwickeln
