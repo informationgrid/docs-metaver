@@ -70,7 +70,7 @@ Gibt es Einschränkungen für die Nutzung der Daten?
 
 - Nutzungsbedingungen (z.B. Lizenzen)
 
-- Zugriffsbeschränkungen (z.B. Dienst geschützt - zum Schutz der Privatsphäre oder des geistigen Eigentums)
+- Zugriffsbeschränkungen (geschützter Dienst z.B. - auf Grund der Rechte des geistigen Eigentums)
 
 - Anwendungseinschränkungen (z.B. nicht für Navigationszwecke geeignet)
 
