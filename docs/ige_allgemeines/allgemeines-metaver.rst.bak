@@ -54,7 +54,7 @@ Was genau beschreiben die Metadaten?
 
 - kurze Fachliche und spezifische Erläuterungen der Daten
 
-**Zeit Informationen**
+**Zeit-Informationen**
 
 Seit wann werden die Daten erfasst?
 
@@ -68,7 +68,7 @@ In welchem Intervallen werden die Daten erfasst?
 
 - täglich, jährlich, monatlich, ...
 
-**Raum Informationen**
+**Raum-Informationen**
 
 Welchen Ort (Punkt) oder welchen Raum (Gebiet) beschreiben die Daten?
 

@@ -103,7 +103,6 @@ Weitere Unterteilungen sind: Webseiten, Metadaten, Karten (topografische/themati
 
 Die Metadaten werden benötigt um Daten zu finden. Daten (z.B. Karten, Datenbanken, offene Verwaltungsdaten) können nur dann gefunden werden, wenn sie mit Text beschrieben wurden. Dieser Text ist wichtig für die Suchmaschinen. Je präziser die Beschreibung der Daten ist, um so schneller können die Daten von den Suchmaschinen gefunden werden. Begriffe die in die Suche eingegeben werden, müssen auch in der Beschreibung der Daten enthalten sein (Suchbegriffe/Schlagwörter/Stichwörter/Schlüsselwörter/Keywords).
 
-Die Suchmaschine ist eine zentrale Komponente der Software InGrid®. Mit ihrer Technik können Datenbankeinträge nach Schlüsselwörtern durchsucht werden. Über eine "Facettierung (Klassifizierung)" ist es möglich, Einschränkungen in der Suche vorzunehmen.
 
 **Die Software InGrid®**
 
@@ -112,6 +111,8 @@ Technische Grundlage der Metadatenkataloge ist die Software InGrid®. Der Name I
 Die InGrid®-Software leistet in ihrer Struktur das, was Fachleute von einer Metadatenbank erwarten. Sie enthält untergliederte Objektklassen, Adressenangaben zu Institutionen, Fachbereichen und Personen.
 
 Die Erfassung und Aktualisierung der Metadaten erfolgt mit dem InGrid®Editor. Der Editor ist eine Webanwendung mit einer einfach bedienbaren Oberfläche, die eine dezentrale Metadatenpflege mit einem Webbrowser über das Internet ermöglicht.
+
+Die Suchmaschine ist eine zentrale Komponente der Software InGrid®. Mit ihrer Technik können Datenbankeinträge nach Schlüsselwörtern durchsucht werden. Über eine "Facettierung (Klassifizierung)" ist es möglich, Einschränkungen in der Suche vorzunehmen.
 
 
 **Wer profitiert von den beschriebenen und bereitgestellten Daten?**
