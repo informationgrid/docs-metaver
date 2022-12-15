@@ -114,7 +114,7 @@ Die InGrid®-Software leistet in ihrer Struktur das, was Fachleute von einer Met
 Die Erfassung und Aktualisierung der Metadaten erfolgt mit dem InGrid®Editor. Der Editor ist eine Webanwendung mit einer einfach bedienbaren Oberfläche, die eine dezentrale Metadatenpflege mit einem Webbrowser über das Internet ermöglicht.
 
 
-**Wer profitiert von den beschriebenen Daten?**
+**Wer profitiert von den beschriebenen und bereitgestellten Daten?**
 
 - die öffentliche Verwaltung kann Daten untereinander austauschen
 - die Politik kann aus den Daten kann Rückschlüsse für ihr Handeln ziehen
