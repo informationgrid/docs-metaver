@@ -52,7 +52,7 @@ Wie können die Metadaten gesucht und gefunden werden?
 
 Was genau beschreiben die Metadaten?
 
-- Fachliche und spezifische Erläuterungen der Daten
+- kurze Fachliche und spezifische Erläuterungen der Daten
 
 **Zeit Informationen**
 

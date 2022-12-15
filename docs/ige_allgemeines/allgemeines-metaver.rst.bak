@@ -39,6 +39,8 @@ Wer ist Ansprechpartner für die Daten?
 Wer ist Eigentümer der Daten?
 
 Wer kann fachliche Auskünfte erteilen?
+
+- Verknüpfung der Metadaten mit Adressdaten
   
 **Verschlagwortung**
 
