@@ -103,6 +103,16 @@ Welches Medium wird für die Bereitstellung der Daten verwendet?
 
 - Speicher- oder Breitstellungsmedium (z.B. CD, DVD, Webdienste/Cloud)
 
+
+**Wer profitiert von den beschriebenen und bereitgestellten Daten?**
+
+- die öffentliche Verwaltung kann Daten untereinander austauschen
+- die Politik kann aus den Daten kann Rückschlüsse für ihr Handeln ziehen
+- Universitäten und Hochschulen können die Daten für die Ausbildung verwenden
+- Institute und Forschungseinrichtungen können die Daten für Forschungsprojekte und nutzen
+- Unternehmen können aus den bereitgestellten Daten neue Anwendungen entwickeln
+
+
 **Klassifizierung der Metadaten im Portal**
 
 Die Metadaten sind in die Objektklassen: Geodatensatz, Geodatendienst, Anwendung, Datenbank, Dokument, Projekt und Organisationseinheit unterteilt.
@@ -122,12 +132,3 @@ Die InGrid®-Software leistet in ihrer Struktur das, was Fachleute von einer Met
 Die Erfassung und Aktualisierung der Metadaten erfolgt mit dem InGrid®Editor. Der Editor ist eine Webanwendung mit einer einfach bedienbaren Oberfläche, die eine dezentrale Metadatenpflege mit einem Webbrowser über das Internet ermöglicht.
 
 Die Suchmaschine ist eine zentrale Komponente der Software InGrid®. Mit ihrer Technik können Datenbankeinträge nach Schlüsselwörtern durchsucht werden. Über eine "Facettierung (Klassifizierung)" ist es möglich, Einschränkungen in der Suche vorzunehmen.
-
-
-**Wer profitiert von den beschriebenen und bereitgestellten Daten?**
-
-- die öffentliche Verwaltung kann Daten untereinander austauschen
-- die Politik kann aus den Daten kann Rückschlüsse für ihr Handeln ziehen
-- Universitäten und Hochschulen können die Daten für die Ausbildung verwenden
-- Institute und Forschungseinrichtungen können die Daten für Forschungsprojekte und nutzen
-- Unternehmen können aus den bereitgestellten Daten neue Anwendungen entwickeln
