@@ -95,7 +95,7 @@ Welches Medium wird für die Bereitstellung der Daten verwendet?
 **Klassifizierung der Metadaten im Portal**
 
 Die Metadaten sind in die Objektklassen: Geodatensatz, Geodatendienst, Anwendung, Datenbank, Dokument, Projekt und Organisationseinheit unterteilt.
-Weiter Unterteilungen sind: Webseiten, Metadaten, Karten (topografische/thematische), INSPIRE (Europäische Geodateninfrastruktur), OpenData (offene Verwaltungsdaten) , Zeitangaben, Raumangaben, Anbieter der Metadaten.
+Weitere Unterteilungen sind: Webseiten, Metadaten, Karten (topografische/thematische), INSPIRE (Europäische Geodateninfrastruktur), OpenData (offene Verwaltungsdaten) , Zeitangaben, Raumangaben, Anbieter der Metadaten.
 
 **Die Datensuche**
 

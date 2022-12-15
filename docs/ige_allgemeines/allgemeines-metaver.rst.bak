@@ -24,7 +24,7 @@ Metadaten werden nach Standards erfasst (Pflichtfelder - z.B. ISO, GDI-DE, INSPI
 Metadaten sollten für Experten und Laien aussagekräftig sein und die wichtigsten Informationen über die eigentlichen Daten enthalten.
 
 
-**Worüber geben die Metadaten Auskunft?**
+**Worüber geben die Metadaten in METAVER Auskunft?**
 
 **Allgemein**
 
