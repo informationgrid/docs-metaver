@@ -7,12 +7,12 @@ METAVER bedeutet MetadatenVerbund. Den MetadatenVerbund der Länder gehören an:
 
 **Was ist ein Metadateninformationssystem (MIS)?**
 
-Metadateninfaormationssysteme wie z.B. METAVER enthalten eine Erfassungssoftware bzw. den Editor (Backend), den Metadatenkatalog (Datenbank) mit den Metadaten, eine Suche für die Recherche und können eine Portaloberfäche (Frontend) für die Recherche aufweisen. Bekannte Metadateninformationssysteme sind z.B. Bibliotheksprogramme hier kann nach Autoren, Buchtitel, Inhalt, Kategorie und Standort recherchiert werden.
+Metadateninformationssysteme wie z.B. METAVER enthalten eine Erfassungssoftware bzw. den Editor (Backend), den Metadatenkatalog (Datenbank) mit den Metadaten, eine Suche für die Recherche und können eine Portaloberfläche (Frontend) für die Recherche aufweisen. Bekannte Metadateninformationssysteme sind z.B. Bibliotheksprogramme hier kann nach Autoren, Buchtitel, Inhalt, Kategorie und Standort recherchiert werden.
 
 
 **Was ist ein Metadatenkatalog?**
 
-Einen Metadatenkatalog ist eine Datenbank, diese kann man sich wie eine Bibliothek vorstellen. In einem Metadatenkatalog werden Informationen erschlossen, gesammelt, strukturiert, kategoriesiert, aufbewahrt und über unterschiedliche Portale und Suchmaschinen verfügbar gemacht. 
+Einen Metadatenkatalog ist eine Datenbank, diese kann man sich wie eine Bibliothek vorstellen. In einem Metadatenkatalog werden Informationen erschlossen, gesammelt, strukturiert, kategorisiert, aufbewahrt und über unterschiedliche Portale und Suchmaschinen verfügbar gemacht. 
 
 
 **Was sind Metadaten?** 
@@ -23,6 +23,15 @@ Metadaten werden nach Standards erfasst (Pflichtfelder - z.B. ISO, GDI-DE, INSPI
 
 Metadaten sollten für Experten und Laien aussagekräftig sein und die wichtigsten Informationen über die eigentlichen Daten enthalten.
 
+Welche Metadatentypen werden in METAVER beschrieben?
+
+- Geodatendienste (Webdienste - Darstellungsdienste/Downloaddienste)
+- Geodatensätze (Beschreibung von geografischen Daten)
+- Anwendungen (in der Verwaltung eingesetzte Programme)
+- Datenbanken (Datensammlungen)
+- Dokumente (Literatur)
+- Projekte (z.B. geförderte Projekte)
+- Organisationseinheiten (Verweise auf Internetseiten oder Beschreibungen)
 
 **Worüber geben die Metadaten in METAVER Auskunft?**
 
