@@ -25,7 +25,7 @@ Metadaten sollten für Experten und Laien aussagekräftig sein und die wichtigst
 
 **Welche Metadatentypen (Objektklassen) werden in METAVER beschrieben?**
 
-- Geodatendienste (Webdienste - Darstellungsdienste/Downloaddienste)
+- Geodatendienste (sind Webdienste/Webservices - Darstellungsdienste/Downloaddienste)
 - Geodatensätze (Beschreibung von geografischen Daten)
 - Anwendungen (in der Verwaltung eingesetzte Programme)
 - Datenbanken (Datensammlungen)
