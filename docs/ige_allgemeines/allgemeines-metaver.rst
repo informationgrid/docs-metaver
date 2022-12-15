@@ -68,7 +68,7 @@ Gibt es Einschränkungen für die Nutzung der Daten?
 
 In welchen Format liegen die Daten vor?
 
-- digital oder analog
+- digital oder analog (z.B. Heft, Broschüre, Buch)
 
 Welches Medium wird für die Bereitstellung der Daten verwendet?
 
