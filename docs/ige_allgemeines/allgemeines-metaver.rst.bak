@@ -32,7 +32,7 @@ Wer kann fachliche Auskünfte erteilen?
 
 Wie können die Metadaten gesucht und gefunden werden?
 
-- Schlagwörter/Suchbegriffe (Thesauri) 
+- Kategorisierung, Schlagwörter/Suchbegriffe (Thesauri) 
 
 **Fachbezug**
 
@@ -81,7 +81,7 @@ Weiter Unterteilungen sind: Webseiten, Metadaten, Karten (topografische/thematis
 
 **Die Datensuche**
 
-Die Metadaten sind ein Hilfsmittel um Daten zu finden. Daten (z.B. Karten, Datenbanken, offene Verwaltungsdaten) können nur dann gefunden werden, wenn sie mit Text beschrieben wurden. Dieser Text ist wichtig für die Suchmaschinen. Je präziser die Beschreibung der Daten ist, um so schneller können die Daten von den Suchmaschinen gefunden werden. Begriffe die in die Suche eingegeben werden, müssen auch in der Beschreibung der Daten enthalten sein (Suchbegriffe/Schlüsselwörter/Schlagwörter/Stichwörter/Keywords).
+Die Metadaten werden benötigt um Daten zu finden. Daten (z.B. Karten, Datenbanken, offene Verwaltungsdaten) können nur dann gefunden werden, wenn sie mit Text beschrieben wurden. Dieser Text ist wichtig für die Suchmaschinen. Je präziser die Beschreibung der Daten ist, um so schneller können die Daten von den Suchmaschinen gefunden werden. Begriffe die in die Suche eingegeben werden, müssen auch in der Beschreibung der Daten enthalten sein (Suchbegriffe/Schlüsselwörter/Schlagwörter/Stichwörter/Keywords).
 
 Die Suchmaschine ist eine zentrale Komponente der Software InGrid®. Mit ihrer Technik können Datenbankeinträge nach Schlüsselwörtern durchsucht werden. Über eine "Facettierung (Klassifizierung)" ist es möglich, Einschränkungen in der Suche vorzunehmen.
 
