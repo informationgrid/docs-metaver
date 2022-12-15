@@ -17,6 +17,7 @@ Metadaten sollten für Experten und Laien aussagekräftig sein und die wichtigst
 **Allgemein**
 
 Welche Daten sind zu einem bestimmten Thema vorhanden?
+
 - Beschreibung der Daten, Visualisierung mit Grafiken
 
 **Zuständigkeit**
@@ -29,39 +30,48 @@ Wer kann fachliche Auskünfte erteilen?
   
 **Verschlagwortung**
 
-Wie können die Metadaten gesucht und gefunden werden?  
-Schlagwörter/Suchbegriffe (Thesauri) 
+Wie können die Metadaten gesucht und gefunden werden?
+
+- Schlagwörter/Suchbegriffe (Thesauri) 
 
 **Fachbezug**
 
 Was genau beschreiben die Metadaten?
+
 - Fachliche und spezifische Erläuterungen der Daten
 
 **Zeit Informationen**
 
 Seit wann werden die Daten erfasst?
+
 - Erstellung
 
 Wie aktuell sind die Daten?
+
 - letzte Änderung
 
 In welchem Intervallen werden die Daten erfasst?
+
 - jährlich, monatlich, ...
 
 **Raum Informationen**
 
 Welchen Ort (Punkt) oder welchen Raum (Gebiet) beschreiben die Daten?
+
 - Ortsangabe, Rechteck, Polygon, Boundingbox, Koordinaten, Regionalschlüssel
 
 **Verfügbarkeit**
 
 Gibt es Einschränkungen für die Nutzung der Daten?
+
 - Auskunft über Nutzungsbedingungen, Zugriffsbeschränkungen und Anwendungseinschränkungen
 
 In welchen Format liegen die Daten vor?
+
 - digitale Speicherformate, analoge Formate
 
 Welches Medium wird für die Bereitstellung der Daten verwendet?
+
 - Speicher- oder Breitstellungsmedium (z.B. CD, DVD, Webdienste/Cloud)
 
 **Klassifizierung der Metadaten im Portal**
