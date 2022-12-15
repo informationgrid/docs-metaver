@@ -5,7 +5,7 @@ Allgemeines zu METAVER
 METAVER bedeutet MetadatenVerbund. Den MetadatenVerbund der Länder gehören an: Brandenburg, Freie Hansestadt Bremen, Freie und Hansestadt Hamburg, Hessen, Mecklenburg-Vorpommern, Saarland, Sachsen und Sachsen-Anhalt, sie betreiben ein gemeinsames Metadatenportal. Der gemeinsame Betrieb der Metadatenkataloge wird durch die Freie und Hansestadt Hamburg organisiert, für den Inhalt der Kataloge sind die einzelnen Bundesländer verantwortlich.
 
 
-**Was ist ein Metadateninformationssystem (MIS)?
+**Was ist ein Metadateninformationssystem (MIS)?**
 
 Metadateninfaormationssysteme (z.B. METAVER) enthalten eine Erfassungssoftware (Backend), den Metadatenkatalog (Datenbank) mit den Metadaten und eine Suche für die Recherche und können eine Portaloberfäche (Frontend) für die Recherche anbieten. Bekannte Metadateninformationssysteme sind Bibliotheksprogramme hier kann z.B. nach Autor, Buchtitel, Inhalt, Kategorie und Standort recherchiert werden.)
 
