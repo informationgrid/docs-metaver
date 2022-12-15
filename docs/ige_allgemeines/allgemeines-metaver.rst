@@ -12,6 +12,10 @@ Metadaten werden nach Standards erfasst (Pflichtfelder - z.B. ISO, GDI-DE, INSPI
 
 Metadaten sollten für Experten und Laien aussagekräftig sein und die wichtigsten Informationen über die eigentlichen Daten enthalten.
 
+**Was ist ein Metadatenkatalog?**
+
+Einen Metadatenkatalog kann man sich wie eine Bibliothek vorstellen, es werden Informationen gesammelt, erschlossen, aufbewahrt und verfügbar gemacht. 
+
 **Worüber geben die Metadaten Auskunft?**
 
 **Allgemein**
@@ -44,15 +48,15 @@ Was genau beschreiben die Metadaten?
 
 Seit wann werden die Daten erfasst?
 
-- Erstellung
+- Angabe des Erstellungsdatums
 
 Wie aktuell sind die Daten?
 
-- letzte Änderung
+- Datumsangabe wann die Daten zuletzt geändert wurden
 
 In welchem Intervallen werden die Daten erfasst?
 
-- jährlich, monatlich, ...
+- täglich, jährlich, monatlich, ...
 
 **Raum Informationen**
 
@@ -64,7 +68,9 @@ Welchen Ort (Punkt) oder welchen Raum (Gebiet) beschreiben die Daten?
 
 Gibt es Einschränkungen für die Nutzung der Daten?
 
-- Auskunft über Nutzungsbedingungen (z.B. Lizenzen), Zugriffsbeschränkungen (z.B. geschützte Dienste/Kartenlayer) und Anwendungseinschränkungen (z.B. nicht für Navigationszwecke geeignet)
+- Nutzungsbedingungen (z.B. Lizenzen)
+- Zugriffsbeschränkungen (z.B. Dienst geschützt - zum Schutz der Privatsphäre oder des geistigen Eigentums)
+- Anwendungseinschränkungen (z.B. nicht für Navigationszwecke geeignet)
 
 In welchen Format liegen die Daten vor?
 
