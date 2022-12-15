@@ -64,7 +64,7 @@ Welchen Ort (Punkt) oder welchen Raum (Gebiet) beschreiben die Daten?
 
 Gibt es Einschränkungen für die Nutzung der Daten?
 
-- Auskunft über Nutzungsbedingungen, Zugriffsbeschränkungen und Anwendungseinschränkungen
+- Auskunft über Nutzungsbedingungen (z.B. Lizenzen), Zugriffsbeschränkungen und Anwendungseinschränkungen
 
 In welchen Format liegen die Daten vor?
 
