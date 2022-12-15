@@ -58,7 +58,7 @@ In welchem Intervallen werden die Daten erfasst?
 
 Welchen Ort (Punkt) oder welchen Raum (Gebiet) beschreiben die Daten?
 
-- Adresse, Ortsangabe, Rechteck/Boundingbox, Polygon, Koordinaten, Regionalschlüssel
+- Ortsangabe/Adresse, Koordinaten (Punkt, Rechteck/Boundingbox, Polygon), Regionalschlüssel
 
 **Verfügbarkeit**
 
