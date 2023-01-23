@@ -22,20 +22,20 @@ Version der Bedienungsanleitung
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Erfassung von Metadaten
 
-   ige_erfassung/erfassung.rst
-   ige_erfassung/erfassung-adressen.rst
-   ige_erfassung/erfassung-metadaten.rst
-   ige_erfassung/bearbeitung-metadaten.rst
+   metaver_backend/ige_erfassung/erfassung.rst
+   metaver_backend/ige_erfassung/erfassung-adressen.rst
+   metaver_backend/ige_erfassung/erfassung-metadaten.rst
+   metaver_backend/ige_erfassung/bearbeitung-metadaten.rst
 
 
 .. toctree::
    :maxdepth: 3
    :caption: Objektklassen
    
-   metaver_backend/ige_objektklassen/objektklasse-geodatensatz.rst
+   ige_objektklassen/objektklasse-geodatensatz.rst
    metaver_backend/ige_objektklassen/objektklasse-geodatendienst.rst
    metaver_backend/ige_objektklassen/objektklasse-anwendung.rst
    metaver_backend/ige_objektklassen/objektklasse-datenbank.rst
