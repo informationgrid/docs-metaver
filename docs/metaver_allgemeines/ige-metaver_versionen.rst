@@ -3,33 +3,33 @@ InGrid Versionen
 ====================
 
 Version der Bedienungsanleitung
-   - InGrid-Version: 5.12.0
-   - letzte Änderung: 21.04.2022
+   - InGrid-Version: 5.14.0
+   - letzte Änderung: 23.01.2023
    - Status: in Bearbeitung
  
  
 Installierte InGrid-Version auf metaver.de
-   - InGrid-Version: 5.12.1
-   - Update wurde installiert am: 18.05.2022
+   - InGrid-Version: 5.14.2
+   - Update wurde installiert am: 24.11.2022
 
 
 Installierte InGrid-Version auf test.metaver.de
-   - InGrid-Version: 5.14.0
-   - Update wurde installiert am: 12.04.2022
+   - InGrid-Version: 5.14.4
+   - Update wurde installiert am: 03.01.2023
    - Datenbestand vom: 04.10.2022
 
 
 InGrid-Version von Entwicklern für die Installation breitgestellt
-   - InGrid-Version: 5.14.0
-   - Release: 04.10.2022
+   - InGrid-Version: 5.14.4
+   - Release: 
 
-Update auf METAVER-Livesystem Version 5.14 : 07.12.2022
+Update auf METAVER-Livesystem Version 5.14.2 : 24.11.2023
  
  
 
 **Änderungen in den Versionen**
 
-Version 5.14.0 (04.10.2022)
+Version 5.14.4 (24.11.2022)
 	
 
 Version 5.12 (12.04.2022)

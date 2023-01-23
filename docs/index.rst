@@ -16,7 +16,7 @@ Version der Bedienungsanleitung
    :maxdepth: 2
    :caption: Allgemeine Informationen
 
-   metaver_allgemeines/
+   metaver_allgemeines/allgemeines-metaver.rst
    metaver_registrierung-anmeldung/registrierung_anmeldung.rst
    metaver_backend/ige_ingrid-editor/ingrid-editor.rst
 
