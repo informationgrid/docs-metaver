@@ -89,7 +89,7 @@ Welches Medium wird für die Bereitstellung der Daten verwendet?
 **Wer profitiert von den beschriebenen und bereitgestellten Daten?**
 
 - die öffentliche Verwaltung kann Daten untereinander austauschen
-- die Politik kann aus den Daten kann Rückschlüsse für ihr Handeln ziehen
+- die Politik kann aus den Daten Rückschlüsse für ihr Handeln ziehen
 - Universitäten und Hochschulen können die Daten für die Ausbildung verwenden
-- Institute und Forschungseinrichtungen können die Daten für Forschungsprojekte und nutzen
+- Institute und Forschungseinrichtungen können die Daten für Forschungsprojekte nutzen
 - Unternehmen können aus den bereitgestellten Daten neue Anwendungen entwickeln
