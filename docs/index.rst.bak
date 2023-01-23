@@ -1,9 +1,9 @@
 
-.. image:: img_ige/portal/logo-metaver.svg
+.. image:: img_ige/metaver_portal/logo-metaver.svg
    :width: 300
 
 
-Bedienungsanleiung InGrid Editor / METAVER
+Bedienungsanleitung InGrid Editor / METAVER
 ==========================================
 
 Version der Bedienungsanleitung

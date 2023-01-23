@@ -17,7 +17,7 @@ Version der Bedienungsanleitung
    :caption: Allgemeine Informationen
 
    metaver_allgemeines/allgemeines-metaver.rst
-   metaver_registrierung-anmeldung/registrierung_anmeldung.rst
+   metaver_registrierung-anmeldung/metaver_registrierung-anmeldung.rst
    metaver_backend/ige_ingrid-editor/ingrid-editor.rst
 
 
