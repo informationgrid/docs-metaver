@@ -22,7 +22,7 @@ Version der Bedienungsanleitung
 
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :caption: Erfassung von Metadaten
 
    ige_erfassung/erfassung.rst
@@ -45,7 +45,7 @@ Version der Bedienungsanleitung
 
    
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: FAQ
    
    metaver_faq/faq/faq.rst
@@ -59,7 +59,7 @@ Version der Bedienungsanleitung
    
    
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Funktionen im InGrid-Editor
    
    metaver_backend/ige_suche/ige_suche.rst
