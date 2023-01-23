@@ -8,8 +8,8 @@ Bedienungsanleiung InGrid Editor / METAVER
 
 Version der Bedienungsanleitung
    - InGrid-Version: 5.14.0
-   - letzte Änderung: 22.11.2022
-   - Status: in Bearbeitung10.710,00
+   - letzte Änderung: 23.01.2023
+   - Status: in Bearbeitung
 
 
 .. toctree::
