@@ -29,10 +29,10 @@ webbasierte Suchoberfläche in einem Browser zu verwenden.
 
 **Dublette**
 
-Eine Dublette ist ein mehrfach vorhandener Datensatz.
+Eine Dublette ist eine Kopie eines Datensatzes. Ist der Datensatz mehrfach in einer Anwendung vorhanden, spricht man von einer Dublette.
 
 
-**Harvesting - Abernten**
+**Harvesting (Abernten)**
 
 Im Rahmen des Harvestings werden Metadatensätze von einem Metadatenkatalog für einen anderen eingesammelt.
 Das Original verbleibt im Original-Katalog und wird dort aktualisiert.
