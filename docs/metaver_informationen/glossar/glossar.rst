@@ -246,7 +246,7 @@ Datenformate / Beschreibung
  
 **Microsoft**
  
- - SDB - SDB Dateien gehören meistens zu Windows von Microsoft. Die Dateinamenerweiterung SDB wird typischerweise mit Dateien assoziiert, die 3D-Modelle enthalten, die mit SAP2000, einer Software zur Strukturanalyse, erstellt wurden. 
+ - SDB - SDB Dateien gehören meistens zu Windows von Microsoft. Die Dateinamenerweiterung SDB wird typischerweise mit Dateien in Verbindung gebracht, die 3D-Modelle enthalten, die mit SAP2000, einer Software zur Strukturanalyse, erstellt wurden. 
 
 
 **CAD-Formate**
