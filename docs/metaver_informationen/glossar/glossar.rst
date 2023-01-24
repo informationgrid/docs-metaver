@@ -366,7 +366,7 @@ Microsoft
  
 **Künstliche Intelligenz**
  
-- AI - Artficial Intelligence - künstliche Intelligenz
+ - AI - Artficial Intelligence - künstliche Intelligenz
   
  
 **Komprimierungsformate**
