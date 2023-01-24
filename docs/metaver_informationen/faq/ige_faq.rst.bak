@@ -21,17 +21,17 @@ Metadaten werden nach Standards erfasst (Pflichtfelder - z.B. ISO, GDI-DE, INSPI
 Metadaten sollten für Experten und Laien aussagekräftig sein und die wichtigsten Informationen über die eigentlichen Daten enthalten.
 
 
-**Wie sind die Metadaten im Portal klassifiziert?**
+**Klassifizierung der Metadaten im Portal**
 
 Die Metadaten sind in die Objektklassen: Geodatensatz, Geodatendienst, Anwendung, Datenbank, Dokument, Projekt und Organisationseinheit unterteilt.
 Weitere Unterteilungen sind: Webseiten, Metadaten, Karten (topografische/thematische), INSPIRE (Europäische Geodateninfrastruktur), OpenData (offene Verwaltungsdaten) , Zeitangaben, Raumangaben, Anbieter der Metadaten.
 
-**Wozu benötigt man Metadaten?**
+**Die Datensuche**
 
 Die Metadaten werden benötigt um Daten zu finden. Daten (z.B. Karten, Datenbanken, offene Verwaltungsdaten) können nur dann gefunden werden, wenn sie mit Text beschrieben wurden. Dieser Text ist wichtig für die Suchmaschinen. Je präziser die Beschreibung der Daten ist, um so schneller können die Daten von den Suchmaschinen gefunden werden. Begriffe die in die Suche eingegeben werden, müssen auch in der Beschreibung der Daten enthalten sein (Suchbegriffe/Schlagwörter/Stichwörter/Schlüsselwörter/Keywords).
 
 
-**Welche Software kommt für die Erfassung der Metadaten zum Einsatz?**
+**Die Software InGrid®**
 
 Technische Grundlage der Metadatenkataloge ist die Software InGrid®. Der Name InGrid® steht hierbei für "Information Grid" - das bedeutet Informationsnetz.
 
@@ -40,15 +40,3 @@ Die InGrid®-Software leistet in ihrer Struktur das, was Fachleute von einer Met
 Die Erfassung und Aktualisierung der Metadaten erfolgt mit dem InGrid®Editor. Der Editor ist eine Webanwendung mit einer einfach bedienbaren Oberfläche, die eine dezentrale Metadatenpflege mit einem Webbrowser über das Internet ermöglicht.
 
 Die Suchmaschine ist eine zentrale Komponente der Software InGrid®. Mit ihrer Technik können Datenbankeinträge nach Schlüsselwörtern durchsucht werden. Über eine "Facettierung (Klassifizierung)" ist es möglich, Einschränkungen in der Suche vorzunehmen.
-
-**Was ist ein Atom Feed?**
-
-Atom-Downloadservice - ist ein Dienst zum Herunterladen von Geodaten.
-Atom Feed ist ein XML -Format, das von Nutzern verwendet werden kann, um über neue Inhalte einer Website informiert zu werden.
-Nutzer können einen Atom-Feed abonnieren und mithilfe eines entsprechenden Atom-Feed-Readers oder eines Atom Feed Clients (InGrid) neue Inhalte von Websites in Kurzform betrachten,
-und mithilfe des Feeds Dateien als Download anbieten.
-
-
-**Was ist der Atom-Feed Client?**
-
-Der Atom-Feed Client ist eine Anwendung in METAVER er löst einen Atom Feed bis zum Datendownload auf, was sonst nur mit einer Browser-Erweiterung möglich ist.
