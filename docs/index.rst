@@ -45,11 +45,11 @@ Version der Bedienungsanleitung
    
 .. toctree::
    :maxdepth: 3
-   :caption: FAQ
+   :caption: Fragen und Antworten
    
-   metaver_faq/allgemeines-metaver.rst
-   metaver_faq/faq.rst
-   metaver_faq/metaver_kontakt.rst
+   metaver_informationen/faq/allgemeines-metaver.rst
+   metaver_informationen/faq/faq.rst
+   metaver_informationen/kontakt/metaver_kontakt.rst
    
    
 .. toctree::
@@ -63,7 +63,7 @@ Version der Bedienungsanleitung
 
 .. toctree::
    :maxdepth: 2
-   :caption: InGrid Versionen
+   :caption: Historie (Software)
    
    metaver_allgemeines/ige-metaver_versionen.rst
    

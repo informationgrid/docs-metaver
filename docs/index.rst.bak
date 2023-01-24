@@ -47,8 +47,8 @@ Version der Bedienungsanleitung
    :maxdepth: 3
    :caption: FAQ
    
-   metaver_faq/faq.rst
    metaver_faq/allgemeines-metaver.rst
+   metaver_faq/faq.rst
    metaver_faq/metaver_kontakt.rst
    
    

@@ -19,9 +19,3 @@ Zusätzlich erhalten Sie Hilfe für die Befüllung einzelner Felder, indem Sie d
 
 [Grafik]
 [Grafik]
-
-
-Fragen und Kontakt
-------------------
-
-Müssen Fragen in Bezug auf das Portal, dieser Software oder im Zusammenhang mit den Inhalten geklärt werden, nutzen Sie bitte das Kontaktformular in METAVER (https://metaver.de/kontakt). Ihre Anfragen werden dann im Ticketsystem Zammad verarbeitet und erreichen automatisch den richtigen Ansprechpartner
