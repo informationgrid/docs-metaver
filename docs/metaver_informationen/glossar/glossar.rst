@@ -11,7 +11,7 @@ Die Bereitstellung von Daten im Atom-Format bezeichnet man auch als Atom-Feed. A
 
 
 
-**CSW - Catalogue Service Web - (Katalogschnittstelle)**
+**CSW - Catalogue Service Web**
 
 Bei einer CSW-Schnittstelle handelt es sich um eine standardisiert abfragbare Schnittstelle,
 die Datenbeschreibungen (Metadaten) abgibt. Die Anfrage wird wie auch bei anderen OGC-

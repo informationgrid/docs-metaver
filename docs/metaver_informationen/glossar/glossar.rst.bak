@@ -11,7 +11,7 @@ Die Bereitstellung von Daten im Atom-Format bezeichnet man auch als Atom-Feed. A
 
 
 
-**CSW - Catalogue Service Web - (Katalogschnittstelle)**
+**CSW - Catalogue Service Web (Katalogschnittstelle)**
 
 Bei einer CSW-Schnittstelle handelt es sich um eine standardisiert abfragbare Schnittstelle,
 die Datenbeschreibungen (Metadaten) abgibt. Die Anfrage wird wie auch bei anderen OGC-
@@ -112,7 +112,7 @@ die Suche auslösen. Die Suche schickt daraufhin die technische Anfrage an den o
 
 **UUID - Universal Unique IDentifer**
 
-  Die UUID ist ein Univrerseller Eindeutiger Identifikator (ID) für den Metadatensatz.
+Die UUID ist ein Univrerseller Eindeutiger Identifikator (ID) für den Metadatensatz.
 
 z.B. Objekt ID: 430D6C0D-FB79-46BA-AB30-9B248A31C798
  - Die UUID für einen Metadatensatz wird automatisch beim Abspeichern durch das Erfassungssystem vergeben.
@@ -121,7 +121,7 @@ z.B. Objekt ID: 430D6C0D-FB79-46BA-AB30-9B248A31C798
  - Über die Objekt-ID können Metadatensätze miteinander verknüpft werden (Daten-Dienste-Kopplung).
   
 z.B. Identifikator einer Datenquelle: 2ed0f592-f586-4e78-9df0-1c21047a4757
- - Der Identifikator der Datenquelle wird manuell in einem Geodatensatz vergeben oder erzeugt und dient der Identifikation eines Metadatensatzes aus unterschiedlichen Anwendungen.
+Der Identifikator der Datenquelle wird manuell in einem Geodatensatz vergeben oder erzeugt und dient der Identifikation eines Metadatensatzes aus unterschiedlichen Anwendungen.
   
 Der Unterschied zwischen den beiden UUIDs besteht in der Verwendung von großen und kleinen Buchstaben.
 Die Objekt-UUID darf nicht die gleiche sein wie die UUID des Identifikators der Datenquelle.
