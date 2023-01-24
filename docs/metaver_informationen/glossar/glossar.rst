@@ -235,7 +235,8 @@ Datenformate / Beschreibung
  
 **QGIS**
 
- - .qgs
+ - .qgs - QGIS Projekt
+ - .qgz - geziptes QGIS Projekt
 
 
 **Google**
@@ -255,15 +256,19 @@ Datenformate / Beschreibung
  - Geoconcept - Anbieter spezieller Software-Lösungen für Vermessungsaufgaben auf der Basis von Autodesk®-Produkten
 
 
-**Auszeichnungssprachen**
+**Auszeichnungssprache**
 
  - .html - Hypertext Markup Language
+ 
+ Austauschformate
+ 
  - .gml - Geography Markup- ist eine Auszeichnungssprache zum Austausch raumbezogener Objekte.
  - .kml - Keyhole Markup Language
  - .xml - Extensible Markup Language
  - .gpx - GPS-Austauschformat - Datenformat zur Speicherung von Geodaten (ursprünglich hauptsächlich GPS-Daten), das von der Firma TopoGrafix entwickelt wurde. Es basiert auf dem allgemeinen XML-Standard. Ein XML Schema beschreibt die Elemente und den Aufbau des GPS Exchange Formats.
 
- - CityGML -  City Geography Markup Language
+ - XPlanGML - XPlan Geography Markup Language (Austauschformat in der XPlanung/Bauleitplanung)
+ - CityGML -  City Geography Markup Language (Austauschformat 3D-Stadtmodelle)
 
  
 **Schemadefinitionen**
