@@ -374,7 +374,7 @@ Microsoft
  - .zip - (zipper - Reißverschluss) - Format für verlustfrei komprimierte Dateien
 
 
-**sontige**
+**sonstige**
   
  - GRID - Gitter, Raster
  
