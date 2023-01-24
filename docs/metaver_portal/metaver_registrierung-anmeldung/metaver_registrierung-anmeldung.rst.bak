@@ -50,8 +50,6 @@ Durch einen Klick auf den Menüpunkt "METADATEN" und anschließend auf den Butto
 .. image:: ../img_ige/metaver_registrierung-anmeldung/metaver_log-in_erfassungskomponente.png
 
 
-
-
 Der InGrid Editor im Ausgangszustand
 ------------------------------------
 
@@ -74,3 +72,39 @@ Alle Adressen des Benutzers, die in Bearbeitung sind (Zwischenspeicherung). Also
 Im Bereich "Alle Datensätze" gibt es nur die Tabellen, in denen die Objekte und Adressen dargestellt werden, die sich in Bearbeitung befinden. Die eigenen angezeigten Objekte bzw. Adressen sind mit Links hinterlegt, sodass diese direkt zur Ansicht/Bearbeitung geöffnet werden können. Alle anderen Objekte sind grau.
 
 .. image:: ../img_ige/metaver_registrierung-anmeldung/ige_dashboard_alle-datensaetze.png
+
+
+Passwort vergessen
+------------------
+
+Aufruf der Seite „Anmeldung“: https://metaver.de/log-in Betätigen Sie den Link „Passwort vergessen?“.
+
+[Grafik]
+
+Es öffnet sich die „Passwort vergessen“ - Seite, deren Aufforderung bitte folgen.
+
+[Grafik]
+
+Feld „E-Mail*:“ Tragen Sie hier Ihre E-Mail-Adresse ein, betätigen Sie anschließend den Button „E-MAIL ANFORDERN“.
+
+Es öffnet sich die Seite „E-Mail gesendet“ mit der Information: „Sie haben eine E-Mail erhalten mit Informationen zu Ihrer Passwort-Änderung.“
+
+[Grafik]
+
+Das System versendet folgende E-Mail:
+
+[Grafik]
+
+Es öffnet sich die Seite „Passwort ändern“ mit der Aufforderung: „Ändern Sie bitte Ihr Passwort und melden Sie sich dann bitte erneut an.“ Im Feld „Benutzername“ den Benutzernamen und darunter zweimal das neue Passwort eintragen, abschließend den Button „SPEICHERN“ betätigen.
+
+[Grafik]
+
+Es wird automatisch auf die Seite „Anmeldung“ weitergeleitet, auf der man sich direkt mit dem neuen Passwort einloggen kann.
+
+[Grafik]
+
+
+Benutzername vergessen
+----------------------
+
+Wenn Sie Ihren Benutzernamen vergessen haben, füllen Sie bitte in METAVER das Kontaktformular (https://metaver.de/kontakt) aus, geben Sie bitte Ihr Bundesland an, so wird die Anfrage Ihren zuständigen Katalogadministrator zugestellt.
