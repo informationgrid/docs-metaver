@@ -32,6 +32,11 @@ webbasierte Suchoberfläche in einem Browser zu verwenden.
 Eine Dublette ist eine Kopie eines Datensatzes. Ist der Datensatz mehrfach in einer Anwendung vorhanden, spricht man von einer Dublette.
 
 
+**Grid**
+
+Grid steht für Gitter/Raster z.B. InformationGrid in der Software InGrid.
+
+
 **Harvesting (Abernten)**
 
 Im Rahmen des Harvestings werden Metadatensätze von einem Metadatenkatalog für einen anderen eingesammelt.
@@ -90,11 +95,6 @@ Je nach gewählter Objektklasse ändert sich die Eingabemaste für die Metadaten
  - Ursprung: Umweltverwaltung - Beschreibung von Umweltdaten / Umweltinformationen (Umweltdatenkatalog)
 
 
-**Grid**
-
- - Grid steht für Gitter/Raster z.B. InformationGrid in der Software InGrid.
-
-
 **Suchoberfläche**
 
 Unter Suchoberfläche ist eine Anwendung, die die technischen Requests (Anfragen) an die CSW-Schnittstelle schickt und die Responses (Antworten) in Empfang nimmt. Einerseits kann ein Suchender über die Suchoberfläche bestimmte Dinge auswählen (zum Beispiel Schlagwörter) oder eingeben (Suchbegriffe) und
@@ -112,7 +112,7 @@ die Suche auslösen. Die Suche schickt daraufhin die technische Anfrage an den o
 
 **UUID - Universal Unique IDentifer**
 
-  Die UUID ist ein Univrerseller Eindeutiger Identifikator (ID) für den Metadatensatz.
+Die UUID ist ein Univrerseller Eindeutiger Identifikator (ID) für den Metadatensatz.
 
 z.B. Objekt ID: 430D6C0D-FB79-46BA-AB30-9B248A31C798
  - Die UUID für einen Metadatensatz wird automatisch beim Abspeichern durch das Erfassungssystem vergeben.
@@ -121,7 +121,7 @@ z.B. Objekt ID: 430D6C0D-FB79-46BA-AB30-9B248A31C798
  - Über die Objekt-ID können Metadatensätze miteinander verknüpft werden (Daten-Dienste-Kopplung).
   
 z.B. Identifikator einer Datenquelle: 2ed0f592-f586-4e78-9df0-1c21047a4757
- - Der Identifikator der Datenquelle wird manuell in einem Geodatensatz vergeben oder erzeugt und dient der Identifikation eines Metadatensatzes aus unterschiedlichen Anwendungen.
+Der Identifikator der Datenquelle wird manuell in einem Geodatensatz vergeben oder erzeugt und dient der Identifikation eines Metadatensatzes aus unterschiedlichen Anwendungen.
   
 Der Unterschied zwischen den beiden UUIDs besteht in der Verwendung von großen und kleinen Buchstaben.
 Die Objekt-UUID darf nicht die gleiche sein wie die UUID des Identifikators der Datenquelle.

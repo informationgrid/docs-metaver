@@ -32,7 +32,12 @@ webbasierte Suchoberfläche in einem Browser zu verwenden.
 Eine Dublette ist eine Kopie eines Datensatzes. Ist der Datensatz mehrfach in einer Anwendung vorhanden, spricht man von einer Dublette.
 
 
-**Harvesting - Abernten**
+**Grid**
+
+Grid steht für Gitter/Raster z.B. InformationGrid in der Software InGrid.
+
+
+**Harvesting (Abernten)**
 
 Im Rahmen des Harvestings werden Metadatensätze von einem Metadatenkatalog für einen anderen eingesammelt.
 Das Original verbleibt im Original-Katalog und wird dort aktualisiert.
@@ -88,11 +93,6 @@ Je nach gewählter Objektklasse ändert sich die Eingabemaste für die Metadaten
  - Zum Einsatz kommt die Software: InGrid.
  - METAVER beinhaltet unterschiedliche Metadaten (Umweltdaten und Geodaten)
  - Ursprung: Umweltverwaltung - Beschreibung von Umweltdaten / Umweltinformationen (Umweltdatenkatalog)
-
-
-**Grid**
-
- - Grid steht für Gitter/Raster z.B. InformationGrid in der Software InGrid.
 
 
 **Suchoberfläche**
