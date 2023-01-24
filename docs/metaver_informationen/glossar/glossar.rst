@@ -13,18 +13,7 @@ Die Bereitstellung von Daten im Atom-Format bezeichnet man auch als Atom-Feed. A
 
 **CSW - Catalogue Service Web**
 
-Bei einer CSW-Schnittstelle handelt es sich um eine standardisiert abfragbare Schnittstelle,
-die Datenbeschreibungen (Metadaten) abgibt. Die Anfrage wird wie auch bei anderen OGC-
-Diensten „Request“, die Antwort „Response“ genannt. Eine Katalogschnittstelle kann auf
-Anfrage benennen, welche Fähigkeiten sie besitzt (GetCapabilities), über wie viele
-Datenbeschreibungen sie verfügt (DescribeRecords) und es können neben weiteren
-Möglichkeiten gezielt bestimmte Datenbeschreibungen unter Angabe des
-Metadatensatzidentifikators abgerufen werden (GetRecordById). Alles in allem ist die
-Kommunikation mit einer CSW-Schnittstelle um ein Vielfaches komplexer als beispielsweise
-die Kommunikation mit einem WMS (WebMapService), der Kartenbilder und
-Sachinformationen ausliefern kann. Aus diesem Grunde ist es sinnvoll, für die
-Kommunikation mit einem CSW eine auf die eigenen Bedürfnisse angepasste zum Beispiel
-webbasierte Suchoberfläche in einem Browser zu verwenden.
+Bei einer CSW-Schnittstelle handelt es sich um eine standardisiert abfragbare Schnittstelle, die Datenbeschreibungen (Metadaten) abgibt. Die Anfrage wird wie auch bei anderen OGC- Diensten „Request“, die Antwort „Response“ genannt. Eine Katalogschnittstelle kann auf Anfrage benennen, welche Fähigkeiten sie besitzt (GetCapabilities), über wie viele Datenbeschreibungen sie verfügt (DescribeRecords) und es können neben weiteren Möglichkeiten gezielt bestimmte Datenbeschreibungen unter Angabe des Metadatensatzidentifikators abgerufen werden (GetRecordById). Alles in allem ist die Kommunikation mit einer CSW-Schnittstelle um ein Vielfaches komplexer als beispielsweise die Kommunikation mit einem WMS (WebMapService), der Kartenbilder und Sachinformationen ausliefern kann. Aus diesem Grunde ist es sinnvoll, für die Kommunikation mit einem CSW eine auf die eigenen Bedürfnisse angepasste zum Beispiel webbasierte Suchoberfläche in einem Browser zu verwenden.
 
 
 **Dublette**
@@ -37,17 +26,9 @@ Eine Dublette ist eine Kopie eines Datensatzes. Ist der Datensatz mehrfach in ei
 Grid steht für Gitter/Raster z.B. InformationGrid in der Software InGrid.
 
 
-**Harvesting (Abernten)**
+**Harvesting**
 
-Im Rahmen des Harvestings werden Metadatensätze von einem Metadatenkatalog für einen anderen eingesammelt.
-Das Original verbleibt im Original-Katalog und wird dort aktualisiert.
-Durch den Metadatensatzidentifikator (UUID) und das hinterlegte
-Datum der letzten Änderung am Metadatensatz ist sichergestellt, dass der Datensatz nicht
-nur im Original-Katalog sondern auch - zeitversetzt - im harvestenden Katalog aktualisiert
-wird. Metadaten sind damit die einzigen Daten in einer Geodateninfrastruktur, die gezielt
-kopiert werden, um den Nutzern zur Verfügung zu stehen.
-Durch ein Harvesting dürfen Metadaten eines fremden Katalogs niemals abgeändert werden.
-Die meisten derzeit aktiven Kataloge halten sich an diese Vorgabe.
+Im Rahmen des Harvestings werden Metadatensätze von einem Metadatenkatalog für einen anderen eingesammelt (geerntet). Das Original verbleibt im Original-Katalog und wird dort aktualisiert. Durch den Metadatensatzidentifikator (UUID) und das hinterlegte Datum der letzten Änderung am Metadatensatz ist sichergestellt, dass der Datensatz nicht nur im Original-Katalog sondern auch - zeitversetzt - im harvestenden Katalog aktualisiert wird. Metadaten sind damit die einzigen Daten in einer Geodateninfrastruktur, die gezielt kopiert werden, um den Nutzern zur Verfügung zu stehen. Durch ein Harvesting dürfen Metadaten eines fremden Katalogs niemals abgeändert werden. Die meisten derzeit aktiven Kataloge halten sich an diese Vorgabe.
 
 
 **HTML - Hypertext Markup Language**
@@ -57,10 +38,7 @@ HTML dient der Strukturierung von Texten und Bildern (vorwiegend im Intranet/Int
   
 **InGrid - InformationGrid**
 
-InGrid ist eine modular aufgebaute Software, die vielseitig eingesetzt werden kann: Kernkomponenten sind ein Web-Portal,
-eine Suchmaschine, ein Metadatenkatalog mit Profilen für die Erfassung INSPRE-konformer Metadaten, offener Daten und UVP-Vorhaben,
-eine Visualisierungskomponente für OGC Web Map Services, ein Client zur Visualisierung von Zeitreihen sowie diverse An- und Abfrageschnittstellen,
-die für die Recherche der angeschlossenen Komponenten, aber auch für die Weiterleitung der Ergebnisse an externe Systeme zuständig sind.
+InGrid ist eine modular aufgebaute Software, die vielseitig eingesetzt werden kann: Kernkomponenten sind ein Web-Portal, eine Suchmaschine, ein Metadatenkatalog mit Profilen für die Erfassung INSPRE-konformer Metadaten, offener Daten und UVP-Vorhaben, eine Visualisierungskomponente für OGC Web Map Services, ein Client zur Visualisierung von Zeitreihen sowie diverse An- und Abfrageschnittstellen, die für die Recherche der angeschlossenen Komponenten, aber auch für die Weiterleitung der Ergebnisse an externe Systeme zuständig sind.
 
 
 **Keyword**
@@ -70,8 +48,7 @@ Ein Keyword, Schlüsselwort, Schlagwort oder Suchbegriff dient dem gezielten Auf
 
 **Metadaten**
 
-Metadaten oder Metainformationen sind strukturierte Daten, die Informationen über Merkmale anderer Daten enthalten.
-Bei den durch Metadaten beschriebenen Daten handelt es sich oft um größere Datensammlungen wie z.B. Geodaten, Datenbanken, Literatur, Projekte, Organisationsstrukturen.
+Metadaten oder Metainformationen sind strukturierte Daten, die Informationen über Merkmale anderer Daten enthalten. Bei den durch Metadaten beschriebenen Daten handelt es sich oft um größere Datensammlungen wie z.B. Geodaten, Datenbanken, Literatur, Projekte, Organisationsstrukturen.
 
 
 **Metadatenkatalog**
@@ -81,10 +58,7 @@ Der Metadatenkatalog ist eine Datenbank, diese beinhaltet Metadaten.
 
 **Metadatensatz**
 
-Ein Medatadensatz beschreibt die eigentlichen Daten(Recource) 
-Metadatensätze können unterschiedliche Objektklassen (-typen) darstellen.
-In METAVER werden die Objektlassen Geodatensatz, Geodatendienst, Anwendung, Datenbank, Dokument, Projekt und Organisationseinheit verwendet.
-Je nach gewählter Objektklasse ändert sich die Eingabemaste für die Metadaten im Editor.
+Ein Medatadensatz beschreibt die eigentlichen Daten(Recource). Metadatensätze können unterschiedliche Objektklassen (-typen) darstellen. In METAVER werden die Objektlassen Geodatensatz, Geodatendienst, Anwendung, Datenbank, Dokument, Projekt und Organisationseinheit verwendet. Je nach gewählter Objektklasse ändert sich die Eingabemaste für die Metadaten im Editor.
 
 
 **METAVER - Metadatenverbund**
