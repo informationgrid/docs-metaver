@@ -26,6 +26,6 @@ Der Second Level Support wird angesprochen, wenn das Kontaktformular ohne Angabe
 
 Eine Gruppe eines Bundeslandes wird angesprochen, wenn das Kontaktformular mit Angabe eines Bundeslandes und ohne Option Checkbox „Ich habe eine technische Frage zur Website oder möchte eine Störung melden.“ versendet wird. Die Nachricht wird an den Katalogadministrator oder einen anderen Ansprechpartner des ausgewählten Bundeslandes gerichtet.
 
-../../img_ige/metaver_portal/metaver_kontakt.png
+    .. image:: ../../img_ige/metaver_portal/metaver_kontakt.png
 
 Abb.: METAVER - Ansicht Kontaktformular
