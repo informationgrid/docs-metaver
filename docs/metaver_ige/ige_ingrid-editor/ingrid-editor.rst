@@ -44,13 +44,13 @@ Die blauen und roten Symbole werden im Strukturbaum des InGrid Editors verwendet
     :header: "Portal", "Editor", "Objektklassen"
     :widths: 30 30 80
 
-    .. image:: ../../img_ige/metaver_ige/ige-icons/objekte/portal/geodatensatz.png, .. image:: ../../img_ige/metaver_ige/ige-icons/objekte/ige/geodatensatz.png, Geodatensatz
-	.. image:: ../../img_ige/metaver_ige/ige-icons/objekte/portal/geodatendienst.png, .. image:: ../../img_ige/metaver_ige/ige-icons/objekte/ige/geodatendienst.png, Geodatendienst
-	.. image:: ../../img_ige/metaver_ige/ige-icons/objekte/portal/anwendung.png, .. image:: ../../img_ige/metaver_ige/ige-icons/objekte/ige/anwendung.png, Anwendung
-	.. image:: ../../img_ige/metaver_ige/ige-icons/objekte/portal/datenbank.png, .. image:: ../../img_ige/metaver_ige/ige-icons/objekte/ige/datenbank.png, Datenbank
-	.. image:: ../../img_ige/metaver_ige/ige-icons/objekte/portal/dokument.png, .. image:: ../../img_ige/metaver_ige/ige-icons/objekte/ige/dokument.png, Dokument
-	.. image:: ../../img_ige/metaver_ige/ige-icons/objekte/portal/projekt.png, .. image:: ../../img_ige/metaver_ige/ige-icons/objekte/ige/projekt.png, Projekt
-	.. image:: ../../img_ige/metaver_ige/ige-icons/objekte/portal/organisationseinheit.png, .. image:: ../../img_ige/metaver_ige/ige-icons/objekte/ige/organisationseinheit.png, Organisationseinheit
+    .. image:: ../../img_ige/metaver_ige/ige_icons/objekte/portal/geodatensatz.png, .. image:: ../../img_ige/metaver_ige/ige_icons/objekte/ige/geodatensatz.png, Geodatensatz
+	.. image:: ../../img_ige/metaver_ige/ige_icons/objekte/portal/geodatendienst.png, .. image:: ../../img_ige/metaver_ige/ige_icons/objekte/ige/geodatendienst.png, Geodatendienst
+	.. image:: ../../img_ige/metaver_ige/ige_icons/objekte/portal/anwendung.png, .. image:: ../../img_ige/metaver_ige/ige_icons/objekte/ige/anwendung.png, Anwendung
+	.. image:: ../../img_ige/metaver_ige/ige_icons/objekte/portal/datenbank.png, .. image:: ../../img_ige/metaver_ige/ige_icons/objekte/ige/datenbank.png, Datenbank
+	.. image:: ../../img_ige/metaver_ige/ige_icons/objekte/portal/dokument.png, .. image:: ../../img_ige/metaver_ige/ige_icons/objekte/ige/dokument.png, Dokument
+	.. image:: ../../img_ige/metaver_ige/ige_icons/objekte/portal/projekt.png, .. image:: ../../img_ige/metaver_ige/ige_icons/objekte/ige/projekt.png, Projekt
+	.. image:: ../../img_ige/metaver_ige/ige_icons/objekte/portal/organisationseinheit.png, .. image:: ../../img_ige/metaver_ige/ige_icons/objekte/ige/organisationseinheit.png, Organisationseinheit
 
 
 
@@ -60,9 +60,9 @@ Die blauen und roten Symbole werden im Strukturbaum des InGrid Editors verwendet
     :header: "Portal", "Editor", "Adresstypen"
     :widths: 30 30 80
 
-    .. image:: ../../img_ige/metaver_ige/ige-icons/adressen/portal/institution.png, .. image:: ../../img_ige/metaver_ige/ige-icons/adressen/ige/institution.png, Institution
-	.. image:: ../../img_ige/metaver_ige/ige-icons/adressen/portal/einheit.png, .. image:: ../../img_ige/metaver_ige/ige-icons/adressen/ige/einheit.png, Einheit
-	.. image:: ../../img_ige/metaver_ige/ige-icons/adressen/portal/person.png, .. image:: ../../img_ige/metaver_ige/ige-icons/adressen/ige/person.png, Person
+    .. image:: ../../img_ige/metaver_ige/ige_icons/adressen/portal/institution.png, .. image:: ../../img_ige/metaver_ige/ige_icons/adressen/ige/institution.png, Institution
+	.. image:: ../../img_ige/metaver_ige/ige_icons/adressen/portal/einheit.png, .. image:: ../../img_ige/metaver_ige/ige_icons/adressen/ige/einheit.png, Einheit
+	.. image:: ../../img_ige/metaver_ige/ige_icons/adressen/portal/person.png, .. image:: ../../img_ige/metaver_ige/ige_icons/adressen/ige/person.png, Person
 
 
 Ordner
