@@ -17,30 +17,30 @@ Version der Bedienungsanleitung
    :caption: Allgemeine Informationen
 
    metaver_portal/metaver_registrierung-anmeldung/metaver_registrierung-anmeldung.rst
-   metaver_backend/ige_ingrid-editor/ingrid-editor.rst
+   metaver_ige/ige_ingrid-editor/ingrid-editor.rst
 
 
 .. toctree::
    :maxdepth: 3
    :caption: Erfassung von Metadaten
 
-   metaver_backend/ige_erfassung/erfassung.rst
-   metaver_backend/ige_erfassung/erfassung-adressen.rst
-   metaver_backend/ige_erfassung/erfassung-metadaten.rst
-   metaver_backend/ige_erfassung/bearbeitung-metadaten.rst
+   metaver_ige/ige_erfassung/erfassung.rst
+   metaver_ige/ige_erfassung/erfassung-adressen.rst
+   metaver_ige/ige_erfassung/erfassung-metadaten.rst
+   metaver_ige/ige_erfassung/bearbeitung-metadaten.rst
 
 
 .. toctree::
    :maxdepth: 3
    :caption: Objektklassen
    
-   metaver_backend/ige_objektklassen/objektklasse-geodatensatz.rst
-   metaver_backend/ige_objektklassen/objektklasse-geodatendienst.rst
-   metaver_backend/ige_objektklassen/objektklasse-anwendung.rst
-   metaver_backend/ige_objektklassen/objektklasse-datenbank.rst
-   metaver_backend/ige_objektklassen/objektklasse-dokument.rst
-   metaver_backend/ige_objektklassen/objektklasse-projekt.rst
-   metaver_backend/ige_objektklassen/objektklasse-organisationseinheit.rst
+   metaver_ige/ige_objektklassen/objektklasse-geodatensatz.rst
+   metaver_ige/ige_objektklassen/objektklasse-geodatendienst.rst
+   metaver_ige/ige_objektklassen/objektklasse-anwendung.rst
+   metaver_ige/ige_objektklassen/objektklasse-datenbank.rst
+   metaver_ige/ige_objektklassen/objektklasse-dokument.rst
+   metaver_ige/ige_objektklassen/objektklasse-projekt.rst
+   metaver_ige/ige_objektklassen/objektklasse-organisationseinheit.rst
 
    
 .. toctree::
@@ -57,9 +57,9 @@ Version der Bedienungsanleitung
    :maxdepth: 3
    :caption: Funktionen im InGrid-Editor
    
-   metaver_backend/ige_funktionen/ige_suche.rst
-   metaver_backend/ige_funktionen/ige_reports.rst
-   metaver_backend/ige_funktionen/ige_hilfe.rst
+   metaver_ige/ige_funktionen/ige_suche.rst
+   metaver_ige/ige_funktionen/ige_reports.rst
+   metaver_ige/ige_funktionen/ige_hilfe.rst
 
 
 .. toctree::
