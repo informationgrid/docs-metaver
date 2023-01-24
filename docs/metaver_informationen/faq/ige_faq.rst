@@ -41,13 +41,6 @@ Die Erfassung und Aktualisierung der Metadaten erfolgt mit dem InGrid®Editor. D
 
 Die Suchmaschine ist eine zentrale Komponente der Software InGrid®. Mit ihrer Technik können Datenbankeinträge nach Schlüsselwörtern durchsucht werden. Über eine "Facettierung (Klassifizierung)" ist es möglich, Einschränkungen in der Suche vorzunehmen.
 
-**Was ist ein Atom Feed?**
-
-Atom-Downloadservice - ist ein Dienst zum Herunterladen von Geodaten.
-Atom Feed ist ein XML -Format, das von Nutzern verwendet werden kann, um über neue Inhalte einer Website informiert zu werden.
-Nutzer können einen Atom-Feed abonnieren und mithilfe eines entsprechenden Atom-Feed-Readers oder eines Atom Feed Clients (InGrid) neue Inhalte von Websites in Kurzform betrachten,
-und mithilfe des Feeds Dateien als Download anbieten.
-
 
 **Was ist der Atom-Feed Client?**
 

@@ -5,6 +5,12 @@ Glossar
 Glossar allgemein
 -----------------
 
+**Atom Feed**
+
+Die Bereitstellung von Daten im Atom-Format bezeichnet man auch als Atom-Feed. Atom-Feed ist ein XML-Format, dass von Nutzern verwendet werden kann, um Daten aus dem Internet herunterzuladen. (Bekannt sind solche Dienste auch als RSS-Feed.) Nutzer können einen Atom-Feed (Atom-Channel) abonnieren und mithilfe eines entsprechenden Atom-Feed-Readers (Browser-Erweiterung) Daten aus dem Internet herunterladen. Da in den Webbrowsern die Erweiterung für den Atom-Feed Reader kein Standard ist, wurde der Atom-Feed Client entwickelt. Der Atom-Feed Client wurde im METAVER an die Bundesländer angepasst. Über den Atom-Feed Client werden die Atom-Feeds verwaltet und die Daten als Download bereitgestellt.
+
+
+
 **CSW - Catalogue Service Web - (Katalogschnittstelle)**
 
 Bei einer CSW-Schnittstelle handelt es sich um eine standardisiert abfragbare Schnittstelle,

@@ -5,6 +5,15 @@ Glossar
 Glossar allgemein
 -----------------
 
+**Atom Feed**
+
+Der Atom-Downloadservice ist ein Dienst zum herunterladen von Geodaten aus dem Internet.
+Atom Feed ist ein XML -Format, das von Nutzern verwendet werden kann, um über neue Inhalte einer Website informiert zu werden.
+Nutzer können einen Atom-Feed abonnieren und mithilfe eines entsprechenden Atom-Feed-Readers oder eines Atom Feed Clients (InGrid) neue Inhalte von Websites in Kurzform betrachten,
+und mithilfe des Feeds Dateien als Download anbieten.
+
+
+
 **CSW - Catalogue Service Web - (Katalogschnittstelle)**
 
 Bei einer CSW-Schnittstelle handelt es sich um eine standardisiert abfragbare Schnittstelle,
@@ -374,7 +383,7 @@ Microsoft
  - .zip - (zipper - Reißverschluss) - Format für verlustfrei komprimierte Dateien
 
 
-**sontige**
+**sonstige**
   
  - GRID - Gitter, Raster
  
