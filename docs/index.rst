@@ -16,7 +16,6 @@ Version der Bedienungsanleitung
    :maxdepth: 2
    :caption: Allgemeine Informationen
 
-   metaver_allgemeines/allgemeines-metaver.rst
    metaver_registrierung-anmeldung/metaver_registrierung-anmeldung.rst
    metaver_backend/ige_ingrid-editor/ingrid-editor.rst
 
@@ -48,7 +47,18 @@ Version der Bedienungsanleitung
    :maxdepth: 3
    :caption: FAQ
    
-   metaver_faq/faq/faq.rst
+   metaver_faq/allgemeines-metaver.rst
+   metaver_faq/faq.rst
+   metaver_faq/metaver_kontakt.rst
+   
+   
+.. toctree::
+   :maxdepth: 3
+   :caption: Funktionen im InGrid-Editor
+   
+   metaver_backend/ige_funktionen/ige_suche.rst
+   metaver_backend/ige_funktionen/ige_reports.rst
+   metaver_backend/ige_funktionen/ige_hilfe.rst
 
 
 .. toctree::
@@ -57,15 +67,6 @@ Version der Bedienungsanleitung
    
    metaver_allgemeines/ige-metaver_versionen.rst
    
-   
-.. toctree::
-   :maxdepth: 3
-   :caption: Funktionen im InGrid-Editor
-   
-   metaver_backend/ige_suche/ige_suche.rst
-   metaver_backend/ige_statistik/ige_statistik.rst
-   metaver_backend/ige_hilfe/ige_hilfe-erfassung.rst
-
 
 .. toctree::
    :maxdepth: 2
