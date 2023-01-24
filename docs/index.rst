@@ -16,7 +16,7 @@ Version der Bedienungsanleitung
    :maxdepth: 2
    :caption: Allgemeine Informationen
 
-   metaver_registrierung-anmeldung/metaver_registrierung-anmeldung.rst
+   metaver_portal/metaver_registrierung-anmeldung/metaver_registrierung-anmeldung.rst
    metaver_backend/ige_ingrid-editor/ingrid-editor.rst
 
 
@@ -47,8 +47,8 @@ Version der Bedienungsanleitung
    :maxdepth: 3
    :caption: Fragen und Antworten
    
-   metaver_informationen/faq/allgemeines-metaver.rst
-   metaver_informationen/faq/faq.rst
+   metaver_informationen/faq/metaver_allgemeines.rst
+   metaver_informationen/faq/ige_faq.rst
    metaver_informationen/kontakt/metaver_kontakt.rst
    
    
