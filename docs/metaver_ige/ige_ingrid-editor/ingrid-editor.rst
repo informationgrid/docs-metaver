@@ -201,10 +201,14 @@ Mit diesen Funktionen wird die Veröffentlichungsbreite der Adressen / Objekte g
 
 IGE-Symbolleiste (Toolbar)
 --------------------------
-
-  .. image:: ../../img_ige/metaver_ige/ige_symbolleiste/ige-symbolleiste.png
   
-Abb.: InGrid Editor - Kontextmenü
+.. csv-table::
+
+    :widths: 250 50
+
+    .. image::   .. image:: ../../img_ige/metaver_ige/ige_symbolleiste/ige-symbolleiste.png,  .. image::   .. image:: ../../img_ige/metaver_ige/ige_symbolleiste/ige-symbolleiste_2.png
+
+Abb.: InGrid Editor - Symbolleiste
 
 Hier im Einzelnen die zur Verfügung stehenden Werkzeuge: 
 

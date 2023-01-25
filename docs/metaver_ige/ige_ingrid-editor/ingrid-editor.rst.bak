@@ -201,10 +201,15 @@ Mit diesen Funktionen wird die Veröffentlichungsbreite der Adressen / Objekte g
 
 IGE-Symbolleiste (Toolbar)
 --------------------------
-
-  .. image:: ../../img_ige/metaver_ige/ige_benutzeroberflaeche/ige-symbolleiste.png
   
-Abb.: InGrid Editor - Kontextmenü
+.. csv-table::
+
+    :widths: 250 50
+
+    .. image::   .. image:: ../../img_ige/metaver_ige/ige_symbolleiste/ige-symbolleiste.png,  .. image::   .. image:: ../../img_ige/metaver_ige/ige_symbolleiste/ige-symbolleiste_2.png
+
+  
+Abb.: InGrid Editor - Symbolleiste
 
 Hier im Einzelnen die zur Verfügung stehenden Werkzeuge: 
 
@@ -212,24 +217,24 @@ Hier im Einzelnen die zur Verfügung stehenden Werkzeuge:
     :header: "Icon", "Bedeutung"
     :widths: 50 250
 
-    .. image:: ../../img_ige/metaver_ige/ige-symbolleiste/icons/neu-anlegen.png, Neu anlegen
-    .. image:: ../../img_ige/metaver_ige/ige-symbolleiste/icons/neuen-ordner-anlegen.png, Neuen Ordner anlegen
-    .. image:: ../../img_ige/metaver_ige/ige-symbolleiste/icons/druckansicht.png, Vorschau und Druckansicht
-    .. image:: ../../img_ige/metaver_ige/ige-symbolleiste/icons/iso.png, ISO XML Anzeige
-    .. image:: ../../img_ige/metaver_ige/ige-symbolleiste/icons/ausschneiden.png, Objekte Adressen Teilbäume ausschneiden
-    .. image:: ../../img_ige/metaver_ige/ige-symbolleiste/icons/kopieren.png, Objekte Adressen kopieren
-    .. image:: ../../img_ige/metaver_ige/ige-symbolleiste/icons/teilbaum-kopieren.png, Teilbaum kopieren
-    .. image:: ../../img_ige/metaver_ige/ige-symbolleiste/icons/einfuegen.png, Einfügen
-    .. image:: ../../img_ige/metaver_ige/ige-symbolleiste/icons/zwischenspeichern.png, Zwischenspeichern
-    .. image:: ../../img_ige/metaver_ige/ige-symbolleiste/icons/rueckgaengig.png, Rückgängig
-    .. image:: ../../img_ige/metaver_ige/ige-symbolleiste/icons/aenderung-verwerfen.png, Änderungen am aktuellen Objekt Adresse verwerfen
-    .. image:: ../../img_ige/metaver_ige/ige-symbolleiste/icons/speichern-und-veroeffentlichen.png, Abschließendes Speichern & Veröffentlichen
-    .. image:: ../../img_ige/metaver_ige/ige-symbolleiste/icons/loeschen.png, Ausgewähltes Objekt Adresse Teilbaum löschen
-    .. image:: ../../img_ige/metaver_ige/ige-symbolleiste/icons/aenderungen-anzeigen.png, Änderungen anzeigen
-    .. image:: ../../img_ige/metaver_ige/ige-symbolleiste/icons/kommentar-ansehen.png, Kommentar ansehen hinzufügen
-    .. image:: ../../img_ige/metaver_ige/ige-symbolleiste/icons/vorher.png, Klicken um zum vorherigen Metadatensatz zu gehen
-    .. image:: ../../img_ige/metaver_ige/ige-symbolleiste/icons/naechstes.png, Klicken um zum nächsten Metadatensatz zu gehen
-    .. image:: ../../img_ige/metaver_ige/ige-symbolleiste/icons/alle-felder-aufklappen.png, Alle Felder aufklappen
+    .. image:: ../../img_ige/metaver_ige/ige_symbolleiste/icons/neu-anlegen.png, Neu anlegen
+    .. image:: ../../img_ige/metaver_ige/ige_symbolleiste/icons/neuen-ordner-anlegen.png, Neuen Ordner anlegen
+    .. image:: ../../img_ige/metaver_ige/ige_symbolleiste/icons/druckansicht.png, Vorschau und Druckansicht
+    .. image:: ../../img_ige/metaver_ige/ige_symbolleiste/icons/iso.png, ISO XML Anzeige
+    .. image:: ../../img_ige/metaver_ige/ige_symbolleiste/icons/ausschneiden.png, Objekte Adressen Teilbäume ausschneiden
+    .. image:: ../../img_ige/metaver_ige/ige_symbolleiste/icons/kopieren.png, Objekte Adressen kopieren
+    .. image:: ../../img_ige/metaver_ige/ige_symbolleiste/icons/teilbaum-kopieren.png, Teilbaum kopieren
+    .. image:: ../../img_ige/metaver_ige/ige_symbolleiste/icons/einfuegen.png, Einfügen
+    .. image:: ../../img_ige/metaver_ige/ige_symbolleiste/icons/zwischenspeichern.png, Zwischenspeichern
+    .. image:: ../../img_ige/metaver_ige/ige_symbolleiste/icons/rueckgaengig.png, Rückgängig
+    .. image:: ../../img_ige/metaver_ige/ige_symbolleiste/icons/aenderung-verwerfen.png, Änderungen am aktuellen Objekt Adresse verwerfen
+    .. image:: ../../img_ige/metaver_ige/ige_symbolleiste/icons/speichern-und-veroeffentlichen.png, Abschließendes Speichern & Veröffentlichen
+    .. image:: ../../img_ige/metaver_ige/ige_symbolleiste/icons/loeschen.png, Ausgewähltes Objekt Adresse Teilbaum löschen
+    .. image:: ../../img_ige/metaver_ige/ige_symbolleiste/icons/aenderungen-anzeigen.png, Änderungen anzeigen
+    .. image:: ../../img_ige/metaver_ige/ige_symbolleiste/icons/kommentar-ansehen.png, Kommentar ansehen hinzufügen
+    .. image:: ../../img_ige/metaver_ige/ige_symbolleiste/icons/vorher.png, Klicken um zum vorherigen Metadatensatz zu gehen
+    .. image:: ../../img_ige/metaver_ige/ige_symbolleiste/icons/naechstes.png, Klicken um zum nächsten Metadatensatz zu gehen
+    .. image:: ../../img_ige/metaver_ige/ige_symbolleiste/icons/alle-felder-aufklappen.png, Alle Felder aufklappen
 
 
 
