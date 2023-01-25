@@ -5,33 +5,36 @@ Allgemeines zum InGrid Editor
 Aufbau der Benutzeroberfläche
 -----------------------------
 
-Die Benutzeroberfläche setzt sich zusammen aus: 
+  .. image:: ../../img_ige/metaver_ige/ige_benutzeroberflaeche/ige-benutzeroberflaeche.png
+	
+Abb.: Benutzeroberfläche des InGrid Editors
+
+Die Benutzeroberfläche ist wie folgt aufgebaut: 
 
 1. Navigationsleiste
 2. Toolbar (Symbolleiste)
 3. Strukturbaum
 4. Erfassungsmaske
 
-  .. image:: ../../img_ige/metaver_ige/ige_benutzeroberflaeche/ige-benutzeroberflaeche.png
-	
-Abb.: Benutzeroberfläche des InGrid Editors
-
 
 Strukturbaum
 ------------
 
-Der InGrid Editor verfügt über einen Strukturbaum. Er unterteilt sich in Objekte und Adressen.
+Der InGrid Editor verfügt über einen Strukturbaum.
 
   .. image:: ../../img_ige/metaver_ige/ige_benutzeroberflaeche/ige-strukturbaum.png
   
-Abb.: Der Strukturbaum ist in Objekte und Adressen unterteilt
+Abb.: Der Strukturbaum ist in Objekte und Adressen unterteilt.
   
 
 Plus- und Minuszeichen
 '''''''''''''''''''''''
 Durch Klicken auf die Pluszeichen wird der Strukturbaum geöffnet bzw. durch Anklicken der Minuszeichen wieder geschlossen. Die Ordnung innerhalb einer Hierarchiestufe erfolgt alphabetisch nach Objektname bzw. Adresstitel und kann durch Verschieben oder Einfügen nicht geändert werden.
 
-[Grafik]
+  .. image:: ../../img_ige/metaver_ige/ige_benutzeroberflaeche/ige-struktur.png
+  
+Abb.: Strukturbaum auf und zu klappen
+
 
 Icon im Strukturbaum
 --------------------
