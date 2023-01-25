@@ -12,7 +12,10 @@ Die Benutzeroberfläche setzt sich zusammen aus:
 3. Strukturbaum
 4. Erfassungsmaske
 
-[Grafik]
+  .. image:: ../../img_ige/metaver_ige/ige_icons/objekte/portal/ige-benutzeroberlaeche.png
+	
+Abb.: Benutzeroberfläche des InGrid Editors
+
 
 Strukturbaum
 ------------

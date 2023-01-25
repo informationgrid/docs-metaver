@@ -40,7 +40,7 @@ Die blauen und roten Symbole werden im Strukturbaum des InGrid Editors verwendet
 
 **Objekte**
 
-Für die Erfassung von Metadaten stehen im InGrid Editor und im Portal METAVER folgende sieben Objektklassen zur Verfügung: 
+Für die Erfassung und die Recherche von Metadaten werden im InGrid Editor und im Portal METAVER folgende sieben Objektklassen zur Auswahl angeboten: 
 
 .. csv-table::
     :header: "Portal", "Editor", "Objektklassen"
@@ -59,6 +59,8 @@ Objektklassen sind eine Gruppe von Objekten mit gleichen Merkmalen und Strukture
 
 
 **Adressen**
+
+Für die Erfassung und die Recherche von Adressen werden im InGrid Editor und im Portal METAVER folgende drei Adresstypen zur Auswahl angeboten.
 
 .. csv-table::
     :header: "Portal", "Editor", "Adresstypen"
