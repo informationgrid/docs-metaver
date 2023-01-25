@@ -116,7 +116,7 @@ Der Editor enthält folgende drei Auswahlmöglichkeiten:
 
 .. csv-table::
     :header: "Icon", "Status"
-    :widths: 30 30
+    :widths: 30 50
 
     .. image:: ../../img_ige/metaver_ige/ige_icons/status/dienst_internet.png, Internet
 	.. image:: ../../img_ige/metaver_ige/ige_icons/status/dienst_intranet.png, Intranet
