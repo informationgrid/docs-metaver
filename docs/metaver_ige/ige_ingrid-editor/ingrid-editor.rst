@@ -199,10 +199,10 @@ Löschen von Adressen, Objekten oder Teilbaumen aus dem Strukurbaum.
 Mit diesen Funktionen wird die Veröffentlichungsbreite der Adressen / Objekte geregelt.
 
 
-IGE-Toolbar (Symbolleiste)
+IGE-Symbolleiste (Toolbar)
 --------------------------
 
-  .. image:: ../../img_ige/metaver_ige/ige_benutzeroberflaeche/ige-kontextmenue.png
+  .. image:: ../../img_ige/metaver_ige/ige_benutzeroberflaeche/ige-symbolleiste.png
   
 Abb.: InGrid Editor - Kontextmenü
 
