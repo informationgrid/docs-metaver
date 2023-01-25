@@ -2,6 +2,12 @@
 Geodatendienst
 ==============
 
+.. csv-table::
+    :header: "Portal", "Editor"
+    :widths: 30 30
+
+	.. image:: ../../img_ige/metaver_ige/ige_icons/objekte/portal/geodatendienst.png, .. image:: ../../img_ige/metaver_ige/ige_icons/objekte/ige/geodatendienst.png
+
 Ein Geodatendienst ist ein in der Regel über das Internet angebotener Dienst, mit dessen Hilfe man sich Geodaten anschauen, einbinden, bearbeiten oder abfragen kann. Geodatendienste sind Webservices, die raumbezogene Informationen verarbeiten und vom Open Geospatial Consortium (OGC) auf Basis von ISO-Normen international standardisiert wurden.
 
 Ein Dienst stellt immer bereits vorhandene Daten vom Typ „Geodatensatz“ zur Verfügung. Im Metadatensatz des Dienstes wird daher angeben, auf welche Geodaten sich dieser Dienst tatsächlich bezieht. Aus diesem Grunde werden zuerst die Metadatensätze für diejenigen Geodaten erstellt, die der Dienst umfasst. Anschließend wird auf genau diese Metadatenbeschreibung bei der Beschreibung des Dienstes verlinkt (siehe Daten-Dienste-Kopplung).

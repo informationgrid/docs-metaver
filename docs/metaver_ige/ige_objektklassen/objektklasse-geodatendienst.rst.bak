@@ -2,6 +2,30 @@
 Geodatendienst
 ==============
 
+Ein Geodatendienst ist ein in der Regel über das Internet angebotener Dienst, mit dessen Hilfe man sich Geodaten anschauen, einbinden, bearbeiten oder abfragen kann. Geodatendienste sind Webservices, die raumbezogene Informationen verarbeiten und vom Open Geospatial Consortium (OGC) auf Basis von ISO-Normen international standardisiert wurden.
+
+Ein Dienst stellt immer bereits vorhandene Daten vom Typ „Geodatensatz“ zur Verfügung. Im Metadatensatz des Dienstes wird daher angeben, auf welche Geodaten sich dieser Dienst tatsächlich bezieht. Aus diesem Grunde werden zuerst die Metadatensätze für diejenigen Geodaten erstellt, die der Dienst umfasst. Anschließend wird auf genau diese Metadatenbeschreibung bei der Beschreibung des Dienstes verlinkt (siehe Daten-Dienste-Kopplung).
+
+Zu den Geodatendiensten zählen:
+
+ - WMS (Web Map Service)
+
+ - WFS (Web Feature Service)
+
+ - WCS (Web Coverage Service)
+
+ - WCTS (Web Coordinate Transformation Service)
+
+ - WMTS (Web Map Tile Service)
+
+ - CSW (Catalogue Service Web)
+
+Alle im Rahmen von INSPIRE zu erfassenden Geodatendienste müssen auch als Objektklasse „Geodatendienst“ angelegt werden.
+
+
+Erfassung
+---------
+
 1.1 Der getCapabilities-Assistent
 
 Der getCapabilties Assistent unterstützt die Erfassung von Services in der Objektklasse Geodatendienst.
