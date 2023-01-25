@@ -150,7 +150,9 @@ Teilweise werden im Strukturbaum Objekte oder Adressen nicht schwarz, sondern nu
 Das IGE-Kontextmenü
 --------------------
 
-[Grafik]
+  .. image:: ../../img_ige/metaver_ige/ige_benutzeroberflaeche/ige-kontextmenue.png
+  
+Abb.: Kontextmenü (Strukturbaum - rechte Maustaste)
 
 Wenn ein Objekt im Strukturbaum markiert wurde, kann das Kontextmenü mit der rechte Maustaste geöffnet werden.
 
@@ -200,7 +202,9 @@ Mit diesen Funktionen wird die Veröffentlichungsbreite der Adressen / Objekte g
 IGE-Toolbar (Symbolleiste)
 --------------------------
 
-[Grafik]
+  .. image:: ../../img_ige/metaver_ige/ige_benutzeroberflaeche/ige-kontextmenue.png
+  
+Abb.: InGrid Editor - Kontextmenü
 
 Hier im Einzelnen die zur Verfügung stehenden Werkzeuge: 
 
@@ -208,24 +212,24 @@ Hier im Einzelnen die zur Verfügung stehenden Werkzeuge:
     :header: "Icon", "Bedeutung"
     :widths: 50 250
 
-    .. image:: ../img_ige/ige-symbolleiste/neu-anlegen.png, Neu anlegen
-	.. image:: ../img_ige/ige-symbolleiste/neuen-ordner-anlegen.png, Neuen Ordner anlegen
-	.. image:: ../img_ige/ige-symbolleiste/druckansicht.png, Vorschau und Druckansicht
-	.. image:: ../img_ige/ige-symbolleiste/iso.png, ISO XML Anzeige
-	.. image:: ../img_ige/ige-symbolleiste/ausschneiden.png, Objekte Adressen Teilbäume ausschneiden
-	.. image:: ../img_ige/ige-symbolleiste/kopieren.png, Objekte Adressen kopieren
-	.. image:: ../img_ige/ige-symbolleiste/teilbaum-kopieren.png, Teilbaum kopieren
-	.. image:: ../img_ige/ige-symbolleiste/einfuegen.png, Einfügen
-	.. image:: ../img_ige/ige-symbolleiste/zwischenspeichern.png, Zwischenspeichern
-	.. image:: ../img_ige/ige-symbolleiste/rueckgaengig.png, Rückgängig
-	.. image:: ../img_ige/ige-symbolleiste/aenderung-verwerfen.png, Änderungen am aktuellen Objekt Adresse verwerfen
-	.. image:: ../img_ige/ige-symbolleiste/speichern-und-veroeffentlichen.png, Abschließendes Speichern & Veröffentlichen
-	.. image:: ../img_ige/ige-symbolleiste/loeschen.png, Ausgewähltes Objekt Adresse Teilbaum löschen
-	.. image:: ../img_ige/ige-symbolleiste/aenderungen-anzeigen.png, Änderungen anzeigen
-	.. image:: ../img_ige/ige-symbolleiste/kommentar-ansehen.png, Kommentar ansehen hinzufügen
-	.. image:: ../img_ige/ige-symbolleiste/vorher.png, Klicken um zum vorherigen Metadatensatz zu gehen
-	.. image:: ../img_ige/ige-symbolleiste/naechstes.png, Klicken um zum nächsten Metadatensatz zu gehen
-	.. image:: ../img_ige/ige-symbolleiste/alle-felder-aufklappen.png, Alle Felder aufklappen
+    .. image:: ../../img_ige/metaver_ige/ige-symbolleiste/icons/neu-anlegen.png, Neu anlegen
+    .. image:: ../../img_ige/metaver_ige/ige-symbolleiste/icons/neuen-ordner-anlegen.png, Neuen Ordner anlegen
+    .. image:: ../../img_ige/metaver_ige/ige-symbolleiste/icons/druckansicht.png, Vorschau und Druckansicht
+    .. image:: ../../img_ige/metaver_ige/ige-symbolleiste/icons/iso.png, ISO XML Anzeige
+    .. image:: ../../img_ige/metaver_ige/ige-symbolleiste/icons/ausschneiden.png, Objekte Adressen Teilbäume ausschneiden
+    .. image:: ../../img_ige/metaver_ige/ige-symbolleiste/icons/kopieren.png, Objekte Adressen kopieren
+    .. image:: ../../img_ige/metaver_ige/ige-symbolleiste/icons/teilbaum-kopieren.png, Teilbaum kopieren
+    .. image:: ../../img_ige/metaver_ige/ige-symbolleiste/icons/einfuegen.png, Einfügen
+    .. image:: ../../img_ige/metaver_ige/ige-symbolleiste/icons/zwischenspeichern.png, Zwischenspeichern
+    .. image:: ../../img_ige/metaver_ige/ige-symbolleiste/icons/rueckgaengig.png, Rückgängig
+    .. image:: ../../img_ige/metaver_ige/ige-symbolleiste/icons/aenderung-verwerfen.png, Änderungen am aktuellen Objekt Adresse verwerfen
+    .. image:: ../../img_ige/metaver_ige/ige-symbolleiste/icons/speichern-und-veroeffentlichen.png, Abschließendes Speichern & Veröffentlichen
+    .. image:: ../../img_ige/metaver_ige/ige-symbolleiste/icons/loeschen.png, Ausgewähltes Objekt Adresse Teilbaum löschen
+    .. image:: ../../img_ige/metaver_ige/ige-symbolleiste/icons/aenderungen-anzeigen.png, Änderungen anzeigen
+    .. image:: ../../img_ige/metaver_ige/ige-symbolleiste/icons/kommentar-ansehen.png, Kommentar ansehen hinzufügen
+    .. image:: ../../img_ige/metaver_ige/ige-symbolleiste/icons/vorher.png, Klicken um zum vorherigen Metadatensatz zu gehen
+    .. image:: ../../img_ige/metaver_ige/ige-symbolleiste/icons/naechstes.png, Klicken um zum nächsten Metadatensatz zu gehen
+    .. image:: ../../img_ige/metaver_ige/ige-symbolleiste/icons/alle-felder-aufklappen.png, Alle Felder aufklappen
 
 
 
