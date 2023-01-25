@@ -116,11 +116,11 @@ Der Editor enthält folgende drei Auswahlmöglichkeiten:
 
 .. csv-table::
     :header: "Icon", "Status"
-    :widths: 30 50
+    :widths: 30 100
 
     .. image:: ../../img_ige/metaver_ige/ige_icons/status/dienst_internet.png, Internet
-	.. image:: ../../img_ige/metaver_ige/ige_icons/status/dienst_intranet.png, Intranet
-	.. image:: ../../img_ige/metaver_ige/ige_icons/status/dienst_amtsintern.png, amtsintern
+	.. image:: ../../img_ige/metaver_ige/ige_icons/status/dienst_intranet.png, Intranet (blaues Pixel)
+	.. image:: ../../img_ige/metaver_ige/ige_icons/status/dienst_amtsintern.png, amtsintern (rotes Pixel)
 	
 Im Strukturbaum wird die Veröffentlichungsbreite der jeweiligen Objekte angezeigt. Die Veröffentlichungsbreite „Internet“ wird nicht gesondert markiert, die Veröffentlichungsbreite „Intranet“ wird mit einem kleinen blauen Quadrat links unterhalb des Objekttypensymbols dargestellt und „amtsintern“ mit einem kleinen roten Quadrat. 
 
