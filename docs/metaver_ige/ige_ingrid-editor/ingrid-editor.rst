@@ -99,7 +99,7 @@ Neben dem Objekttyp bzw. dem Adresstyp zeigen die Icons im Editor zusätzlich de
 
 .. csv-table::
     :header: "Icon", "Farbe", "Beschreibung"
-    :widths: 30 30 80
+    :widths: 30 30 280
 
     .. image:: ../../img_ige/metaver_ige/ige_icons/status/dienst_internet.png, Blau, Objekt bzw. Adresse ist veröffentlicht
 	.. image:: ../../img_ige/metaver_ige/ige_icons/status/dienst_rot.png, Rot, Objekt bzw. Adresse ist in Bearbeitung (Icon mit Buchstaben „B“ für Bearbeitung)
