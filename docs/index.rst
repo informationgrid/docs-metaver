@@ -36,7 +36,7 @@ Version der Bedienungsanleitung
 
 .. toctree::
    :maxdepth: 3
-   :caption: Objektklassen
+   :caption: Erfassung der Objektklassen
    
    metaver_ige/ige_objektklassen/objektklasse-geodatensatz.rst
    metaver_ige/ige_objektklassen/objektklasse-geodatendienst.rst
