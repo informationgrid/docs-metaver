@@ -83,12 +83,13 @@ Für die Erfassung und die Recherche von Adressen werden im InGrid Editor und im
 Ordner
 ''''''
 
-Der Strukturbaum wird mit Ordnern erstellt.
+  .. image:: ../../img_ige/metaver_ige/ige_benutzeroberflaeche/ige-ordner.png
+  
+Abb.: Strukturierung der Metadaten mit Ordnern
+
 
 **Hinweis:**
 In einer zukünftigen neuen Version der Software kann die Struktur nur noch mit Ordnern angelegt werden. Die Möglichkeit eine Struktur mit Objektklassen aufzubauen entfällt.
-
-[Grafik]
 
 
 Bearbeitungsstand
@@ -96,11 +97,14 @@ Bearbeitungsstand
 
 Neben dem Objekttyp bzw. dem Adresstyp zeigen die Icons im Editor zusätzlich den jeweiligen Bearbeitungsstand an. 
 
-[Icons]
+.. csv-table::
+    :header: "Icon", "Farbe", "Beschreibung"
+    :widths: 30 30 80
 
-Blau	Objekt bzw. Adresse ist veröffentlicht
-Rot	Objekt bzw. Adresse ist in Bearbeitung (Icon mit Buchstaben „B“ für Bearbeitung)
-Blau / Rot	Wird ein blaues Icon rot überlagert, so gibt es eine veröffentlichte Version des Objektes bzw. der Adresse und eine bearbeitete Version 
+    .. image:: ../../img_ige/metaver_ige/ige_icons/adressen/portal/institution.png, Blau, Objekt bzw. Adresse ist veröffentlicht
+	.. image:: ../../img_ige/metaver_ige/ige_icons/adressen/portal/einheit.png, Rot, Objekt bzw. Adresse ist in Bearbeitung (Icon mit Buchstaben „B“ für Bearbeitung)
+	.. image:: ../../img_ige/metaver_ige/ige_icons/adressen/portal/person.png, Blau/Rot, Wird ein blaues Icon rot überlagert, so gibt es eine veröffentlichte Version des Objektes bzw. der Adresse und eine bearbeitete Version
+
 
 
 Veröffentlichungsbreite
