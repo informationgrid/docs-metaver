@@ -206,7 +206,7 @@ IGE-Symbolleiste (Toolbar)
 
     :widths: 250 50
 
-    .. image::   .. image:: ../../img_ige/metaver_ige/ige_symbolleiste/ige-symbolleiste.png,  .. image::   .. image:: ../../img_ige/metaver_ige/ige_symbolleiste/ige-symbolleiste_2.png
+    .. image:: ../../img_ige/metaver_ige/ige_symbolleiste/ige-symbolleiste.png,  .. image:: ../../img_ige/metaver_ige/ige_symbolleiste/ige-symbolleiste_2.png
 
 Abb.: InGrid Editor - Symbolleiste
 
