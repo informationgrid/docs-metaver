@@ -83,12 +83,13 @@ Für die Erfassung und die Recherche von Adressen werden im InGrid Editor und im
 Ordner
 ''''''
 
-Der Strukturbaum wird mit Ordnern erstellt.
+  .. image:: ../../img_ige/metaver_ige/ige_benutzeroberflaeche/ige-ordner.png
+  
+Abb.: Strukturierung der Metadaten mit Ordnern
+
 
 **Hinweis:**
 In einer zukünftigen neuen Version der Software kann die Struktur nur noch mit Ordnern angelegt werden. Die Möglichkeit eine Struktur mit Objektklassen aufzubauen entfällt.
-
-[Grafik]
 
 
 Bearbeitungsstand

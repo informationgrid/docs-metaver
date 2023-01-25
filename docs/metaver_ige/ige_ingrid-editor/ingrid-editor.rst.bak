@@ -31,7 +31,10 @@ Plus- und Minuszeichen
 '''''''''''''''''''''''
 Durch Klicken auf die Pluszeichen wird der Strukturbaum geöffnet bzw. durch Anklicken der Minuszeichen wieder geschlossen. Die Ordnung innerhalb einer Hierarchiestufe erfolgt alphabetisch nach Objektname bzw. Adresstitel und kann durch Verschieben oder Einfügen nicht geändert werden.
 
-[Grafik]
+  .. image:: ../../img_ige/metaver_ige/ige_benutzeroberflaeche/ige-struktur.png
+  
+Abb.: Strukturbaum auf und zu klappen
+
 
 Icon im Strukturbaum
 --------------------
