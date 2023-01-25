@@ -12,7 +12,7 @@ Die Benutzeroberfläche setzt sich zusammen aus:
 3. Strukturbaum
 4. Erfassungsmaske
 
-  .. image:: ../../img_ige/metaver_ige/ige_benutzeroberfaeche/ige-benutzeroberflaeche.png
+  .. image:: ../../img_ige/metaver_ige/ige_benutzeroberflaeche/ige-benutzeroberflaeche.png
 	
 Abb.: Benutzeroberfläche des InGrid Editors
 
@@ -22,7 +22,7 @@ Strukturbaum
 
 Der InGrid Editor verfügt über einen Strukturbaum. Er unterteilt sich in Objekte und Adressen.
 
-  .. image:: ../../img_ige/metaver_ige/ige_benutzeroberfaeche/ige-strukturbaum.png
+  .. image:: ../../img_ige/metaver_ige/ige_benutzeroberflaeche/ige-strukturbaum.png
   
 Abb.: Der Strukturbaum ist in Objekte und Adressen unterteilt
   
