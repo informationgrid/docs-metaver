@@ -103,7 +103,8 @@ Neben dem Objekttyp bzw. dem Adresstyp zeigen die Icons im Editor zusätzlich de
 
     .. image:: ../../img_ige/metaver_ige/ige_icons/status/dienst_internet.png, Blau, Objekt bzw. Adresse ist veröffentlicht
 	.. image:: ../../img_ige/metaver_ige/ige_icons/status/dienst_rot.png, Rot, Objekt bzw. Adresse ist in Bearbeitung (Icon mit Buchstaben "B" für Bearbeitung)
-	.. image:: ../../img_ige/metaver_ige/ige_icons/status/dienst_blau-rot.png, Blau/Rot, Wird ein blaues Icon rot überlagert so gibt es eine veröffentlichte Version des Objektes bzw. der Adresse und eine bearbeitete Version.
+	.. image:: ../../img_ige/metaver_ige/ige_icons/status/dienst_blau-rot.png, Blau/Rot, Wird ein blaues Icon rot überlagert so gibt es eine veröffentlichte Version
+	des Objektes bzw. der Adresse und eine bearbeitete Version.
 
 
 
