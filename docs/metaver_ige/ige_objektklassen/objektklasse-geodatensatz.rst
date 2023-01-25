@@ -3,6 +3,7 @@ Geodatensatz
 ============
 
 .. csv-table::
+    :header: "Portal", "Editor"
     :widths: 30 30
 
     .. image:: ../../img_ige/metaver_ige/ige_icons/objekte/portal/geodatensatz.png, .. image:: ../../img_ige/metaver_ige/ige_icons/objekte/ige/geodatensatz.png
