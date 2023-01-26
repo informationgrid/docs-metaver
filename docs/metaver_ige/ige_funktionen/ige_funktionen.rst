@@ -22,7 +22,7 @@ Abb.: Symbolleiste - Befehl ISO-XML-Anzeigen
 
 Mit dem Befehl „Änderungen anzeigen“ haben Sie die Möglichkeit, sich das Objekt bzw. die Adresse einmal vor und einmal nach dem Editieren anzusehen und zu vergleichen. 
 
-.. image:: ../../img_ige/metaver_ige/ige_symbolleiste/ige-symbolleiste_aenderungen-anzeigen
+.. image:: ../../img_ige/metaver_ige/ige_symbolleiste/ige-symbolleiste_aenderungen-anzeigen.png
 
 Abb.: Symbolleiste - Befehl Änderungen anzeigen
 
