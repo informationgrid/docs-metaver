@@ -157,30 +157,39 @@ Abb.: Kontextmenü (Strukturbaum - rechte Maustaste)
 Wenn ein Objekt im Strukturbaum markiert wurde, kann das Kontextmenü mit der rechte Maustaste geöffnet werden.
 
 **Neu anlegen**
+
 Dient dem Anlegen einer neuen Adresse oder eines neuen Objektes im Strukurbaum.
 
 **Ordner erstellen**
+
 Mit Ordner erstellen kann im Strukturbaum eine Hierarchie aufgebaut werden. Unter dem letzten Ordner werden dann die Objekte angelegt. 
 
 **Vorschau und Druckansicht**
+
 Die Druckfunktion ist unter dem Punkt „Drucken von Teilbäumen und Suchergebnissen“ ausführlich beschrieben.
 
 **Objekte/Adressen/Teilbäume ausschneiden**
+
 Adressen und Objekte oder Teile des Strukturbaumes lassen sich über diese Funktion ausschneiden.
 
 **Objekte/Adressen kopieren**
+
 Adressen und Objekte lassen sich über diese Funktion kopieren.
 
 **Teilbaume kopieren**
+
 Teile des Strukturbaumes lassen sich über diese Funktion kopieren.
 
 **Einfügen**
+
 Funktion für das Einfügen von ausgeschnittenen oder kopierten Adressen, Objekten und Teilbäumen.
 
 **Teilbaum neu laden**
+
 Werden mehrere Adressen oder Objekte auf einer Ebene nacheinander angelegt, so stehen diese nicht alphabetisch geordnet untereinander. Über diese Funktion kann die darüber liegende Adresse oder das Objekt angeklickt werden und der Teil-Baum wird im IGE neu geladen. Nach dem Laden stehen die Adressen/Objekte alphabetisch geordnet im Strukturbaum.
 
 **Löschen**
+
 Löschen von Adressen, Objekten oder Teilbaumen aus dem Strukurbaum.
 
 - Ändern auf Internet
@@ -284,7 +293,7 @@ Dieser Dialog kann vom Nutzer für künftige Kopiervorgänge unterdrückt werden
 Zum Einfügen markieren Sie bitte das Objekt bzw. die Adresse, die hierarchisch über dem einzufügenden Objekt bzw. der einzufügenden Adresse steht. 
 Ist die entsprechende Adresse bzw. das entsprechende Objekt markiert, so kann mit dem Icon „Einfügen“ (aus der Symbolleiste) die Kopie eingefügt werden. 
 
-.. image:: ../../img_ige//metaver_ige/ige_symbolleiste/ige-symbolleiste_einfügen.png
+.. image:: ../../img_ige//metaver_ige/ige_symbolleiste/ige-symbolleiste_einfuegen.png
 
 Abb.: Symbolleiste - Einfügen
 
@@ -302,9 +311,9 @@ Abb.: Strukturbaum - Symbol erscheint rot
 Vor dem abschließenden Speichern müssen Sie nun noch die Änderungen gegenüber dem kopierten Objekt / der kopierten Adresse vornehmen. 
 
 
-**Wichtig:**
+**Hinweis:**
 
-*Ganz wichtig ist zudem, dass der Objektname bzw. der Adresstitel geändert werden. Geschieht dieses nicht, so existieren im Metadatenkatalog zwei Objekte/Adressen mit dem gleichen Namen. Dieses sollte unbedingt vermieden werden!* 
+*Wichtig ist, dass der Objektname bzw. der Adresstitel geändert werden. Geschieht dieses nicht, so existieren im Metadatenkatalog zwei Objekte/Adressen mit dem gleichen Namen. Dieses sollte unbedingt vermieden werden!* 
 
 *Die Ordnung innerhalb einer Hierarchiestufe erfolgt im Übrigen alphabetisch nach Objektname bzw. Adresstitel und kann durch Verschieben oder Einfügen nicht geändert werden.*
 
@@ -319,11 +328,15 @@ Um ein Objekt, eine Adresse oder einen Teilbaum zu verschieben, markieren Sie di
 
 Nach dem Markieren wird über das Kontextmenü (rechte Maustaste) der Befehl „Objekt / Adresse ausschneiden / Teilbaum ausschneiden“ ausgewählt. Alternativ kann der Befehl auch über das Icon der Symbolleiste aufgerufen werden. 
 
-[Grafik]
+.. image:: ../../img_ige//metaver_ige/ige_symbolleiste/ige-symbolleiste_ausschneiden.png
+
+Abb.: Symbolleiste - Ausschneiden
 
 Das Objekt, die Adresse oder der Teilbaum befinden sich nun im Zwischenspeicher. Zu erkennen ist dieses im Strukturbaum. Das ausgeschnittene Objekt wird dort nur noch grau dargestellt. 
 
-[Grafik]
+.. image:: ../../img_ige//metaver_ige/ige_strukturbaum/ige-symbolleiste_ausschneiden-grau.png
+
+Abb.: Strukturbaum - Schrift grau
 
 Mit dem Befehl „Einfügen“ können die Daten wieder in den Strukturbaum eingefügt werden. Markieren Sie hierzu das Objekt bzw. die Adresse, die hierarchisch über dem einzufügenden Objekt oder Teilbaum bzw. der einzufügenden Adresse steht. Anschließend ist der Befehl „Einfügen“ über das Kontextmenü oder über die Symbolleiste auszuwählen. 
 
