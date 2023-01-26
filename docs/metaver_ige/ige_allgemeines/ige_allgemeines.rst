@@ -309,8 +309,10 @@ Abb.: Strukturbaum - Symbol erscheint rot
 
 Vor dem abschließenden Speichern müssen Sie nun noch die Änderungen gegenüber dem kopierten Objekt / der kopierten Adresse vornehmen. 
 
- .. hint::
+**Hinweis:**
+
 *Wichtig ist, dass der Objektname bzw. der Adresstitel geändert werden. Geschieht dieses nicht, so existieren im Metadatenkatalog zwei Objekte/Adressen mit dem gleichen Namen. Dieses sollte unbedingt vermieden werden!* 
+
 *Die Ordnung innerhalb einer Hierarchiestufe erfolgt im Übrigen alphabetisch nach Objektname bzw. Adresstitel und kann durch Verschieben oder Einfügen nicht geändert werden.*
 
 
