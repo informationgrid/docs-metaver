@@ -115,10 +115,10 @@ Abb.: Hilfe [?]
 
 Zusätzlich erhalten Sie Hilfe für die Befüllung einzelner Felder, indem Sie den Mauszeiger über die Bezeichnung des jeweiligen Feldes ziehen. Der Pfeil verändert dann seine Form zu einer Kombination aus Pfeil und Fragezeichen. Ein einfacher Klick mit der linken Maustaste öffnet ein Fenster, welches einen Hilfetext zu dem zugehörigen Feld anzeigt.
 
-.. image:: ../../img_ige/metaver_ige/ige_funktionen/ige_hilfe/ige-hilfe_symbol.png
+.. image:: ../../img_ige/metaver_ige/ige_funktionen/ige_hilfe/ige-hilfe_feldueberschrift.png
 
 Abb.: Feldüberschriften - Hilfe [?]
 
-.. image:: ../../img_ige/metaver_ige/ige_funktionen/ige-hilfe_feldueberschrift_dialog.png
+.. image:: ../../img_ige/metaver_ige/ige_funktionen/ige_hilfe/ige-hilfe_feldueberschrift_dialog.png
 
 Abb.: Hilfefenster
