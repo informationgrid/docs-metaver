@@ -141,7 +141,7 @@ Das Objekt/die Adresse ist nur im Editor einsehbar. Das Objekt/die Adresse wird 
 
 
 Ausgegraute Objekte/Adressen im Strukturbaum
-''''''''''''''''''''''''''''''''''''''''''''
+'''''''''''''''''''''''''''''''''''''''''''''
 
 Teilweise werden im Strukturbaum Objekte oder Adressen nicht schwarz, sondern nur in grau angezeigt. Dieses hängt mit der Zuweisung von Berechtigungen zusammen. Ändern kann ein Erfasser nur die Objekte/Adressen, die im Strukturbaum schwarz dargestellt sind.
 
@@ -237,10 +237,10 @@ Hier im Einzelnen die zur Verfügung stehenden Werkzeuge:
 
 
 Erläuterung der Icons in der Symbolleiste
-----------------------------------------------
+-----------------------------------------
 
-Objekt / Adresse löschen
-^^^^^^^^^^^^^^^^^^^^^^^^
+Objekt/Adresse löschen
+''''''''''''''''''''''
 
 Soll ein Objekt oder eine Adresse komplett gelöscht werden, ist der Befehl „Ausgewähltes Objekt / Teilbaum löschen“ aus der Symbolleiste auszuwählen. Alternativ kann die Funktion „Löschen“ auch über das Kontextmenü (rechte Maustaste) aufgerufen werden. 
 
@@ -265,8 +265,8 @@ Im Strukturbaum können auch mehrere Objekte bzw. Adressen gleichzeitig markiert
 *Eine Adresse kann immer nur dann gelöscht werden, wenn dieser Adresse keine Objekte zugeordnet sind.*
 
 
-Objekt / Adresse kopieren und einfügen
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Objekt/Adresse kopieren und einfügen
+''''''''''''''''''''''''''''''''''''
 
 Ein markiertes Objekt oder eine markierte Adresse kann mit der Funktion „Kopieren“ in den Zwischenspeicher kopiert werden. Anschließend ist es möglich, die Kopie an einer anderen Stelle oder der gleichen Stelle im Hierarchiebaum wieder einzufügen. Sinnvoll ist dieses beispielweise, wenn Sie zwei ähnliche Objekte oder Adressen anlegen wollen. Sie brauchen dann nur ein Objekt bzw. eine Adresse anzulegen. Bei dem zweiten Metadatensatz müssen nur noch die Änderungen eingearbeitet werden. 
 
@@ -318,8 +318,8 @@ Vor dem abschließenden Speichern müssen Sie nun noch die Änderungen gegenübe
 *Die Ordnung innerhalb einer Hierarchiestufe erfolgt im Übrigen alphabetisch nach Objektname bzw. Adresstitel und kann durch Verschieben oder Einfügen nicht geändert werden.*
 
 
-Objekt / Adresse / Teilbaum ausschneiden und wieder einfügen
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Objekt/Adresse/Teilbaum ausschneiden und wieder einfügen
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Es ist im InGrid Editor möglich, ein Objekt, eine Adresse oder einen Teilbaum (d.h. ein Objekt mit allen hierarchisch darunterliegenden Objekten bzw. Adressen) zu verschieben. Hierfür wird das entsprechende Objekt ausgeschnitten und einem anderen Platz in der Hierarchie des aktuellen Kataloges wieder zugewiesen. 
 Sinnvoll ist das Verschieben, wenn beispielsweise Personen innerhalb einer Behörde das Amt bzw. die Abteilung wechseln. 
@@ -348,7 +348,7 @@ Damit wird das ausgeschnittene Objekt, die ausgeschnittene Adresse bzw. der Teil
 
 
 Adressangaben in nachgeordnete Adressen übernehmen
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Auf zwei Wegen können Adressangaben einer übergeordneten Adresse in eine nachgeordnete (=untergeordnete) Adresse übertragen werden: 
 
@@ -362,7 +362,7 @@ b) Im Hierarchiebaum die Adresse auswählen, die in die nachgeordneten Adressen 
 
 
 Änderungen anzeigen
-^^^^^^^^^^^^^^^^^^^
+'''''''''''''''''''
 
 Mit dem Befehl „Änderungen anzeigen“ haben Sie die Möglichkeit, sich das Objekt bzw. die Adresse einmal vor und einmal nach dem Editieren anzusehen und zu vergleichen. 
 
@@ -376,7 +376,7 @@ Hilfreich ist diese Ansicht beispielsweise, wenn ein Objekt bzw. eine Adresse vo
 
 
 Rückgängig
-^^^^^^^^^^
+''''''''''
 
 Mit dem Befehl „Rückgängig“ können Ihre Änderungen seit dem letzten Zwischenspeichern verworfen werden. Die Funktion „Rückgängig“ ist immer dann aktiv, wenn in einem Feld eine Veränderung vorgenommen und das Feld verlassen wurde. 
 
@@ -389,7 +389,7 @@ Um das Objekt bzw. die Adresse auf die Version der letzten Veröffentlichung zur
 
 
 Änderungen am aktuellen Objekt/Adresse verwerfen
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+''''''''''''''''''''''''''''''''''''''''''''''''
 
 Mit dieser Funktion können Objekte und Adressen, die schon veröffentlicht wurden, auf den Stand zurückgesetzt werden, den sie bei der Veröffentlichung hatten. Die Bearbeitungen, auch die die mit der Funktion Zwischenspeichern gesichert wurden, werden zurückgesetzt und gelöscht.
 
@@ -472,20 +472,20 @@ Unterschiedliche Feldarten
 --------------------------
 
 Textfelder
-^^^^^^^^^^
+''''''''''
 Zum Füllen von Textfeldern klicken Sie in das Feld.
 Zum vergrößern des Textfeldes, klicken Sie mit der Maus auf die rechte untere Ecke des Feldes, halten die Maustaste gedrückt, und ziehen das Feld auf die gewünschte Größe.
 
 [Grafik]
 
 Auswahllisten
-^^^^^^^^^^^^^
+'''''''''''''
 Nach einem einfachen Klick in die auszufüllende Zeile, kann die vorgegebene Auswahlliste über den Pfeil an der rechten Seite des Feldes aufgeklappt werden.
 
 [Grafik]
 
 Tabellen
-^^^^^^^^
+''''''''
 Um in den Editiermodus eines Feldes innerhalb einer Tabelle zu gelangen, müssen Sie einen Doppelklick mit der linken Maustaste auf das gewünschte Feld ausführen. Gleiches gilt z.B. auch für die Eingabe von Datumsangaben in einer Tabelle.
 Mit einem einfachen Klick können Sie befüllte Zeilen, in der der Mauszeiger steht, markieren. Sie können mehrere Zeilen markieren, in dem sie die Shift-Taste oder die Strg-Taste gleichzeitig mit einem einfachen Klick der linken Maustaste verwenden. Ein gleichzeitiges Drücken der Strg-Taste markiert eine Zeile, ohne die Markierung der bereits vorher markierten Zeilen aufzuheben. Ein gleichzeitiges Drücken der Shift-Taste markiert alle Zeilen zwischen der zuletzt markierten bis zu der angeklickten Zeile.
 Mit der rechten Maustaste lässt sich ein Kontextmenü öffnen, über das Sie die markierten Zeilen bearbeiten (z.B. löschen) können.
@@ -493,7 +493,7 @@ Mit der rechten Maustaste lässt sich ein Kontextmenü öffnen, über das Sie di
 [Grafik]
 
 Dialog
-^^^^^^
+''''''
 Einige Felder können nur über Dialoge gefüllt werden.
 Öffnen Sie für die Datenerfassung das Dialogfenster.
 
@@ -510,12 +510,12 @@ In der Symbolleiste des InGrid Editors werden zwei Speicherarten unterschieden:
 
 
 Zwischenspeichern
-^^^^^^^^^^^^^^^^^
+'''''''''''''''''
 Das Zwischenspeichern speichert den geänderten bzw. neu erfassten Metadatensatz, die Daten werden allerdings noch nicht für die Veröffentlichung im Internet freigegeben, d.h. sie bleiben weiterhin nur im Strukturbaum des InGrid Editors sichtbar. Das Zwischenspeichern ist jederzeit möglich, auch wenn noch nicht alle Pflichtfelder ausgefüllt wurden. Zusätzlich erfolgt alle 2 Minuten eine automatische Speicherung (Einstellung in der Katalogverwaltung).
 
 
 Abschließenden Speichern & Veröffentlichen
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+''''''''''''''''''''''''''''''''''''''''''
 Anders ist es beim Abschließenden Speichern & Veröffentlichen. Durch diese Art der Speicherung werden die Daten automatisch gemäß ihrer Veröffentlichungsbreite (Internet, Intranet oder amtsintern) publiziert und erscheinen nach der automatischen Indexierung im Internet.
 Voraussetzung für das abschließende Speichern ist die Befüllung sämtlicher Pflichtfelder. Fehlen entsprechende Angaben, erscheint bei der Betätigung des Buttons „Abschließendes Speichern“ eine Fehlermeldung und die Überschriften der entsprechenden Felder werden rot eingefärbt.
 
@@ -529,16 +529,16 @@ Um trotz der Fehlermeldung die Bearbeitung sichern zu können, wählen Sie die F
 
 
 Automatische Speicherung / Session abgelaufen
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+'''''''''''''''''''''''''''''''''''''''''''''
 
 [Grafik]
 
 Einstellungen in der Katalogverwaltung.
 
 Autosave
-^^^^^^^^
+''''''''
 Die automatische Speicherung (Zwischenspeichern), ist in der Katalogverwaltung auf zwei Minuten eingestellt und kann nur durch den Katalogadministrator geändert werden.
 
 Session refresh
-^^^^^^^^^^^^^^^
+'''''''''''''''
 Wenn eine längere Zeit keine Interaktion mit dem Editor stattfindet, läuft die Session (Sitzung) ab, man wird aus dem InGrid Editor abgemeldet und muss sich am Editor neu anmelden. Die Session refresh – Funktion sorgt dafür, dass nach einer längeren Pause im Editor weitergearbeitet werden kann, ohne sich erneut anmelden zu müssen. Dieses Intervall kann nur durch den Katalogadministrator geändert werden.

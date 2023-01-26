@@ -237,10 +237,10 @@ Hier im Einzelnen die zur Verfügung stehenden Werkzeuge:
 
 
 Erläuterung der Icons in der Symbolleiste
-----------------------------------------------
+-----------------------------------------
 
-Objekt / Adresse löschen
-^^^^^^^^^^^^^^^^^^^^^^^^
+Objekt/Adresse löschen
+^^^^^^^^^^^^^^^^^^^^^^
 
 Soll ein Objekt oder eine Adresse komplett gelöscht werden, ist der Befehl „Ausgewähltes Objekt / Teilbaum löschen“ aus der Symbolleiste auszuwählen. Alternativ kann die Funktion „Löschen“ auch über das Kontextmenü (rechte Maustaste) aufgerufen werden. 
 
@@ -265,8 +265,8 @@ Im Strukturbaum können auch mehrere Objekte bzw. Adressen gleichzeitig markiert
 *Eine Adresse kann immer nur dann gelöscht werden, wenn dieser Adresse keine Objekte zugeordnet sind.*
 
 
-Objekt / Adresse kopieren und einfügen
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Objekt/Adresse kopieren und einfügen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Ein markiertes Objekt oder eine markierte Adresse kann mit der Funktion „Kopieren“ in den Zwischenspeicher kopiert werden. Anschließend ist es möglich, die Kopie an einer anderen Stelle oder der gleichen Stelle im Hierarchiebaum wieder einzufügen. Sinnvoll ist dieses beispielweise, wenn Sie zwei ähnliche Objekte oder Adressen anlegen wollen. Sie brauchen dann nur ein Objekt bzw. eine Adresse anzulegen. Bei dem zweiten Metadatensatz müssen nur noch die Änderungen eingearbeitet werden. 
 
@@ -318,8 +318,8 @@ Vor dem abschließenden Speichern müssen Sie nun noch die Änderungen gegenübe
 *Die Ordnung innerhalb einer Hierarchiestufe erfolgt im Übrigen alphabetisch nach Objektname bzw. Adresstitel und kann durch Verschieben oder Einfügen nicht geändert werden.*
 
 
-Objekt / Adresse / Teilbaum ausschneiden und wieder einfügen
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Objekt/Adresse/Teilbaum ausschneiden und wieder einfügen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Es ist im InGrid Editor möglich, ein Objekt, eine Adresse oder einen Teilbaum (d.h. ein Objekt mit allen hierarchisch darunterliegenden Objekten bzw. Adressen) zu verschieben. Hierfür wird das entsprechende Objekt ausgeschnitten und einem anderen Platz in der Hierarchie des aktuellen Kataloges wieder zugewiesen. 
 Sinnvoll ist das Verschieben, wenn beispielsweise Personen innerhalb einer Behörde das Amt bzw. die Abteilung wechseln. 
@@ -340,7 +340,9 @@ Abb.: Strukturbaum - Schrift grau
 
 Mit dem Befehl „Einfügen“ können die Daten wieder in den Strukturbaum eingefügt werden. Markieren Sie hierzu das Objekt bzw. die Adresse, die hierarchisch über dem einzufügenden Objekt oder Teilbaum bzw. der einzufügenden Adresse steht. Anschließend ist der Befehl „Einfügen“ über das Kontextmenü oder über die Symbolleiste auszuwählen. 
 
-[Grafik]
+.. image:: ../../img_ige//metaver_ige/ige_symbolleiste/ige-symbolleiste_einfuegen.png
+
+Abb.: Symbolleiste - Einfügen
 
 Damit wird das ausgeschnittene Objekt, die ausgeschnittene Adresse bzw. der Teilbaum wieder im Strukturbaum eingefügt. Im Gegensatz zum Kopieren ist das eingefügte Objekt bzw. die eingefügte Adresse nicht automatisch im Bearbeitungszustand. Beim Verschieben bleibt die Veröffentlichungsstufe bestehen. Die Ordnung innerhalb einer Hierarchiestufe erfolgt alphabetisch und kann durch Verschieben oder Einfügen nicht geändert werden. 
 
