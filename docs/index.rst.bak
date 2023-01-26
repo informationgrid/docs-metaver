@@ -46,7 +46,7 @@ Version der Bedienungsanleitung
    :maxdepth: 3
    :caption: Fragen und Antworten
    
-   metaver_informationen/ige_faq.rst
+.. metaver_informationen/ige_faq
    metaver_informationen/kontakt/metaver_kontakt.rst
 
 
@@ -56,11 +56,11 @@ Version der Bedienungsanleitung
    
    metaver_allgemeines/ige-metaver_versionen.rst
    
-
+.. 
 .. toctree::
    :maxdepth: 2
    :caption: Administration
 
-   ige_nutzerverwaltung/nutzerverwaltung
+   ige_benutzerverwaltung/nutzerverwaltung
 
 
