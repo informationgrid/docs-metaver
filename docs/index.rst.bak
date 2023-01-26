@@ -38,14 +38,8 @@ Version der Bedienungsanleitung
    :maxdepth: 3
    :caption: Objektklassen
    
-   metaver_ige/ige_objektklassen/objektklasse-geodatensatz.rst
-   metaver_ige/ige_objektklassen/objektklasse-geodatendienst.rst
-   metaver_ige/ige_objektklassen/objektklasse-anwendung.rst
-   metaver_ige/ige_objektklassen/objektklasse-datenbank.rst
-   metaver_ige/ige_objektklassen/objektklasse-dokument.rst
-   metaver_ige/ige_objektklassen/objektklasse-projekt.rst
-   metaver_ige/ige_objektklassen/objektklasse-organisationseinheit.rst
-   
+   metaver_ige/ige_objektklassen/objektklassen.rst
+
    
 .. toctree::
    :maxdepth: 3

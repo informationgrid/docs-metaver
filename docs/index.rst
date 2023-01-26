@@ -54,8 +54,8 @@ Version der Bedienungsanleitung
    
    metaver_informationen/faq/metaver_allgemeines.rst
    metaver_informationen/faq/ige_faq.rst
-   metaver_informationen/kontakt/metaver_kontakt.rst
    metaver_informationen/glossar/glossar.rst
+   metaver_informationen/kontakt/metaver_kontakt.rst
 
 
 .. toctree::
