@@ -22,7 +22,7 @@ Strukturbaum
 
 Der InGrid Editor verfügt über einen Strukturbaum.
 
-  .. image:: ../../img_ige/metaver_ige/ige_benutzeroberflaeche/ige-strukturbaum.png
+  .. image:: ../../img_ige/metaver_ige/ige_strukturbaum/ige-strukturbaum.png
   
 Abb.: Der Strukturbaum ist in Objekte und Adressen unterteilt.
   
@@ -31,7 +31,7 @@ Plus- und Minuszeichen
 '''''''''''''''''''''''
 Durch Klicken auf die Pluszeichen wird der Strukturbaum geöffnet bzw. durch Anklicken der Minuszeichen wieder geschlossen. Die Ordnung innerhalb einer Hierarchiestufe erfolgt alphabetisch nach Objektname bzw. Adresstitel und kann durch Verschieben oder Einfügen nicht geändert werden.
 
-  .. image:: ../../img_ige/metaver_ige/ige_benutzeroberflaeche/ige-struktur.png
+  .. image:: ../../img_ige/metaver_ige/ige_strukturbaum/ige-struktur.png
   
 Abb.: Strukturbaum auf und zu klappen
 
@@ -83,7 +83,7 @@ Für die Erfassung und die Recherche von Adressen werden im InGrid Editor und im
 Ordner
 ''''''
 
-  .. image:: ../../img_ige/metaver_ige/ige_benutzeroberflaeche/ige-ordner.png
+  .. image:: ../../img_ige/metaver_ige/ige_strukturbaum/ige-ordner.png
   
 Abb.: Strukturierung der Metadaten mit Ordnern
 
@@ -150,46 +150,37 @@ Teilweise werden im Strukturbaum Objekte oder Adressen nicht schwarz, sondern nu
 Das IGE-Kontextmenü
 --------------------
 
-  .. image:: ../../img_ige/metaver_ige/ige_benutzeroberflaeche/ige-kontextmenue.png
+  .. image:: ../../img_ige/metaver_ige/ige_kontextmenue/ige-kontextmenue.png
   
 Abb.: Kontextmenü (Strukturbaum - rechte Maustaste)
 
 Wenn ein Objekt im Strukturbaum markiert wurde, kann das Kontextmenü mit der rechte Maustaste geöffnet werden.
 
 **Neu anlegen**
-
 Dient dem Anlegen einer neuen Adresse oder eines neuen Objektes im Strukurbaum.
 
 **Ordner erstellen**
-
 Mit Ordner erstellen kann im Strukturbaum eine Hierarchie aufgebaut werden. Unter dem letzten Ordner werden dann die Objekte angelegt. 
 
 **Vorschau und Druckansicht**
-
 Die Druckfunktion ist unter dem Punkt „Drucken von Teilbäumen und Suchergebnissen“ ausführlich beschrieben.
 
 **Objekte/Adressen/Teilbäume ausschneiden**
-
 Adressen und Objekte oder Teile des Strukturbaumes lassen sich über diese Funktion ausschneiden.
 
 **Objekte/Adressen kopieren**
-
 Adressen und Objekte lassen sich über diese Funktion kopieren.
 
 **Teilbaume kopieren**
-
 Teile des Strukturbaumes lassen sich über diese Funktion kopieren.
 
 **Einfügen**
-
 Funktion für das Einfügen von ausgeschnittenen oder kopierten Adressen, Objekten und Teilbäumen.
 
 **Teilbaum neu laden**
-
 Werden mehrere Adressen oder Objekte auf einer Ebene nacheinander angelegt, so stehen diese nicht alphabetisch geordnet untereinander. Über diese Funktion kann die darüber liegende Adresse oder das Objekt angeklickt werden und der Teil-Baum wird im IGE neu geladen. Nach dem Laden stehen die Adressen/Objekte alphabetisch geordnet im Strukturbaum.
 
 **Löschen**
-
 Löschen von Adressen, Objekten oder Teilbaumen aus dem Strukurbaum.
 
 - Ändern auf Internet
@@ -260,7 +251,7 @@ Im Strukturbaum können auch mehrere Objekte bzw. Adressen gleichzeitig markiert
 
 **Hinweise:**
 
-*Möchte man ein Objekt oder eine Adresse löschen, welche(s) untergeordnete Objekte bzw. Adressen besitzt, so werden diese automatisch mit gelöscht!*
+*Soll ein Objekt oder eine Adresse gelöscht werden, welche(s) untergeordnete Objekte bzw. Adressen besitzt, so werden diese automatisch mit gelöscht!*
 
 *Eine Adresse kann immer nur dann gelöscht werden, wenn dieser Adresse keine Objekte zugeordnet sind.*
 
@@ -278,20 +269,24 @@ Abb.: Symbolleiste - Kopieren
 
 Alternativ können Sie nach dem Markieren des Objektes / der Adresse den Befehl auch über das Kontextmenü (rechte Maustaste) auswählen. 
 
-Es öffnet sich daraufhin ein Fenster mit einem Warnhinweis. Diese Warnung macht den Nutzer darauf aufmerksam, dass mit dem Vorgang des Kopierens und Einfügens der Metadatensatz eine neue Objekt-ID (UUID) zugeteilt bekommt und unter der alten Objekt-ID (UUID) nicht mehr auffindbar sein wird. 
-
 .. image:: ../../img_ige//metaver_ige/ige_kontextmenue/ige-kontextmenue-kopieren.png
 
 Abb.: Kontextmenü - Objekte/Adressen kopieren
+
+Es öffnet sich daraufhin ein Fenster mit einem Warnhinweis. Diese Warnung macht den Nutzer darauf aufmerksam, dass mit dem Vorgang des Kopierens und Einfügens der Metadatensatz eine neue Objekt-ID (UUID) zugeteilt bekommt und unter der alten Objekt-ID (UUID) nicht mehr auffindbar sein wird. 
+
+.. image:: ../../img_ige/metaver_ige/ige_box_dialog/ige-dialog_information.png
+
+Abb.: Dialogbox - Information
 
 Dieser Dialog kann vom Nutzer für künftige Kopiervorgänge unterdrückt werden, indem die Checkbox Nicht mehr anzeigen markiert wird. Dieser Hinweis ist wichtig, da die UUID eine entscheidende Eigenschaft eines Metadatensatzes ist und eine Änderung derselben weitreichenden Konsequenzen hat. (z.B. Daten-Dienste-Kopplung, INSPIRE-Monitoring-Prozess der GDI-DE).
 
 Zum Einfügen markieren Sie bitte das Objekt bzw. die Adresse, die hierarchisch über dem einzufügenden Objekt bzw. der einzufügenden Adresse steht. 
 Ist die entsprechende Adresse bzw. das entsprechende Objekt markiert, so kann mit dem Icon „Einfügen“ (aus der Symbolleiste) die Kopie eingefügt werden. 
 
-.. image:: ../../img_ige/metaver_ige/ige_box_dialog/ige-dialog_information.png
+.. image:: ../../img_ige//metaver_ige/ige_symbolleiste/ige-symbolleiste_einfügen.png
 
-Abb.: Dialogbox - Information
+Abb.: Symbolleiste - Einfügen
 
 Alternativ ist der Befehl „Einfügen“ auch über das Kontextmenü (rechte Maustaste) aufzurufen. 
 
@@ -300,7 +295,9 @@ Im Strukturbaum können auch mehrere Objekte bzw. Adressen gleichzeitig selektie
 Nach dem Einfügen wird das Symbol der kopierten Adresse bzw. des kopierten Objektes im 
 Strukturbaum rot dargestellt. Es befindet sich somit im Bearbeitungszustand. 
 
-[Grafik]
+.. image:: ../../img_ige//metaver_ige/ige_strukturbaum/ige-strukturbaum_bearbeitungszustand.png
+
+Abb.: Strukturbaum - Symbol erscheint rot
 
 Vor dem abschließenden Speichern müssen Sie nun noch die Änderungen gegenüber dem kopierten Objekt / der kopierten Adresse vornehmen. 
 
