@@ -24,12 +24,10 @@ Hilfreich ist diese Ansicht beispielsweise, wenn ein Objekt bzw. eine Adresse vo
 Vorschau und Druckansicht
 --------------------------
 
-..  
-Suche
+..  Suche
 -----
 
-..  
-Reports
+..  Reports
 -------
 
 
