@@ -236,20 +236,24 @@ Hier im Einzelnen die zur Verfügung stehenden Werkzeuge:
 
 
 
-Erläuterung der Symbolleisten-Funktionen
-----------------------------------
+Erläuterung der Icons in der Symbolleiste
+----------------------------------------------
 
 Objekt / Adresse löschen
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-Soll ein Objekt oder eine Adresse komplett gelöscht werden, ist der Befehl „Ausgewähltes Objekt / Teilbaum löschen“ aus der Toolbar auszuwählen. Alternativ kann die Funktion „Löschen“ auch über das Kontextmenü (rechte Maustaste) aufgerufen werden. 
+Soll ein Objekt oder eine Adresse komplett gelöscht werden, ist der Befehl „Ausgewähltes Objekt / Teilbaum löschen“ aus der Symbolleiste auszuwählen. Alternativ kann die Funktion „Löschen“ auch über das Kontextmenü (rechte Maustaste) aufgerufen werden. 
 
-.. image:: ../../img_ige/ige_symbolleiste/ige-symbolleiste_loeschen.png
+.. image:: ../../img_ige//metaver_ige/ige_symbolleiste/ige-symbolleiste_loeschen.png
+
+Abb.: Symbolleiste - Icon Löschen
 
 Wichtig ist, dass zuvor das Objekt bzw. die Adresse markiert wird, welche(s) gelöscht werden soll. Erst wenn das betreffende Objekt rechts in der Erfassungsmaske des Editors zu sehen ist, darf der Befehl aufgerufen werden. 
 Es öffnet sich daraufhin ein Fenster mit einer Sicherheitsabfrage, ob das Objekt bzw. die Adresse tatsächlich gelöscht werden soll. Mit einem Klick auf „Ok“ werden die Daten endgültig gelöscht. 
 
-.. image:: ../../img_ige/ige_dialogbox/ige-dialog_loeschen.png
+.. image:: ../../img_ige/metaver_ige/ige_box_dialog/ige-dialog_loeschen.png
+
+Abb.: Dialogbox - Löschen
 
 Im Strukturbaum können auch mehrere Objekte bzw. Adressen gleichzeitig markiert werden. Dazu wird beim Markieren eines Objektes per Mausklick zusätzlich die „Strg“-Taste gedrückt. Auf diese Weise sind die Operationen „verschieben“, „löschen“ und „kopieren“ auf mehrere Objekte gleichzeitig anwendbar. 
 
@@ -268,13 +272,17 @@ Ein markiertes Objekt oder eine markierte Adresse kann mit der Funktion „Kopie
 
 Zum Kopieren eines Objektes / einer Adresse markieren Sie bitte das Objekt/die Adresse und wählen anschließend das Icon „Objekt/Adresse kopieren“ aus der Toolbar aus. 
 
-[Grafik]
+.. image:: ../../img_ige//metaver_ige/ige_symbolleiste/ige-symbolleiste_kopieren.png
+
+Abb.:
 
 Alternativ können Sie nach dem Markieren des Objektes / der Adresse den Befehl auch über das Kontextmenü (rechte Maustaste) auswählen. 
 
 Es öffnet sich daraufhin ein Fenster mit einem Warnhinweis. Diese Warnung macht den Nutzer darauf aufmerksam, dass mit dem Vorgang des Kopierens und Einfügens der Metadatensatz eine neue Objekt-ID (UUID) zugeteilt bekommt und unter der alten Objekt-ID (UUID) nicht mehr auffindbar sein wird. 
 
-[Grafik]
+.. image:: ../../img_ige//metaver_ige/ige_kontextmenue/ige-symbolleiste_kopieren.png
+
+Abb.: 
 
 Dieser Dialog kann vom Nutzer für künftige Kopiervorgänge unterdrückt werden, indem die Checkbox Nicht mehr anzeigen markiert wird. Dieser Hinweis ist wichtig, da die UUID eine entscheidende Eigenschaft eines Metadatensatzes ist und eine Änderung derselben weitreichenden Konsequenzen hat. (z.B. Daten-Dienste-Kopplung, INSPIRE-Monitoring-Prozess der GDI-DE).
 
