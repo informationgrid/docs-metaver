@@ -22,7 +22,7 @@ Abb.: Symbolleiste - Befehl ISO-XML-Anzeigen
 
 Mit dem Befehl „Änderungen anzeigen“ haben Sie die Möglichkeit, sich das Objekt bzw. die Adresse einmal vor und einmal nach dem Editieren anzusehen und zu vergleichen. 
 
-.. image:: ../../img_ige/metaver_ige/ige_symbolleiste/ige-symbolleiste_aenderungen-anzeigen
+.. image:: ../../img_ige/metaver_ige/ige_symbolleiste/ige-symbolleiste_aenderungen-anzeigen.png
 
 Abb.: Symbolleiste - Befehl Änderungen anzeigen
 
@@ -40,7 +40,9 @@ Vorschau und Druckansicht
 
 Man kann aus dem InGrid Editor heraus Objekte oder Adressen drucken. Aufgerufen wird der Druckdialog entweder über den Befehl „Vorschau und Druckansicht“ in der Symbolleiste.
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_symbolleiste/ige-vorschau-druckansicht.png
+
+Abb.: Symbolleiste - Befehl Vorschau und Druckansicht
 
 oder über den gleichen Befehl innerhalb des Kontextmenüs (rechte Maustaste). 
 
