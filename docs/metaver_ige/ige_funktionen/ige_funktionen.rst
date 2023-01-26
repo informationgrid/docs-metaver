@@ -7,6 +7,20 @@ ISO-XML-Anzeigen
 ----------------
 
 
+Änderungen anzeigen
+-------------------
+
+Mit dem Befehl „Änderungen anzeigen“ haben Sie die Möglichkeit, sich das Objekt bzw. die Adresse einmal vor und einmal nach dem Editieren anzusehen und zu vergleichen. 
+
+[Grafik]
+
+Es öffnet sich ein Dialog-Fenster „Vergleichsansicht“, welches die Informationen vor der Bearbeitung eines Objektes bzw. einer Adresse anzeigt (Ausgangsversion) und nach der Bearbeitung (Bearbeitungsversion). In der Differenz-Ansicht sind die gelöschten Daten in Rot dargestellt, die neu eingefügten Daten werden dagegen grün angezeigt. 
+
+[Grafik]
+
+Hilfreich ist diese Ansicht beispielsweise, wenn ein Objekt bzw. eine Adresse vor längerer Zeit nur zwischengespeichert wurde. Mit einem Blick auf die Vergleichsansicht kann schnell festgestellt werden, was geändert wurde und ob das Objekte bzw. die Adresse abschließend gespeichert werden kann oder die Änderungen eventuell verworfen werden müssen. 
+
+
 Vorschau und Druckansicht
 --------------------------
 

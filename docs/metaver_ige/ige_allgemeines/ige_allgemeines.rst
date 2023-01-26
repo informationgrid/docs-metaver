@@ -362,21 +362,7 @@ b) Im Hierarchiebaum die Adresse auswählen, die in die nachgeordneten Adressen 
 
 .. image:: ../../img_ige/metaver_ige/ige_kontextmenue/ige-adressangaben_uebernehmen.png
 
-Abb.: Adressangaben übernehmen
-
-
-Änderungen anzeigen
-'''''''''''''''''''
-
-Mit dem Befehl „Änderungen anzeigen“ haben Sie die Möglichkeit, sich das Objekt bzw. die Adresse einmal vor und einmal nach dem Editieren anzusehen und zu vergleichen. 
-
-[Grafik]
-
-Es öffnet sich ein Dialog-Fenster „Vergleichsansicht“, welches die Informationen vor der Bearbeitung eines Objektes bzw. einer Adresse anzeigt (Ausgangsversion) und nach der Bearbeitung (Bearbeitungsversion). In der Differenz-Ansicht sind die gelöschten Daten in Rot dargestellt, die neu eingefügten Daten werden dagegen grün angezeigt. 
-
-[Grafik]
-
-Hilfreich ist diese Ansicht beispielsweise, wenn ein Objekt bzw. eine Adresse vor längerer Zeit nur zwischengespeichert wurde. Mit einem Blick auf die Vergleichsansicht kann schnell festgestellt werden, was geändert wurde und ob das Objekte bzw. die Adresse abschließend gespeichert werden kann oder die Änderungen eventuell verworfen werden müssen. 
+Abb.: Adressangaben übernehmen 
 
 
 Rückgängig
@@ -384,12 +370,14 @@ Rückgängig
 
 Mit dem Befehl „Rückgängig“ können Ihre Änderungen seit dem letzten Zwischenspeichern verworfen werden. Die Funktion „Rückgängig“ ist immer dann aktiv, wenn in einem Feld eine Veränderung vorgenommen und das Feld verlassen wurde. 
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_symbolleiste/ige-symbolleiste_rueckgaengig.png
+
+Abb.: Befehl Rückgängig machen
 
 Klickt man auf das „Rückgängig“ Symbol, so öffnet sich ein kleines Fenster, in dem bestätigt werden muss, dass die aktuellen Änderungen tatsächlich verworfen werden sollen. 
 
 "Ja" bewirkt, dass alle Bearbeitungen seit dem letzten Zwischenspeichern gelöscht werden - nicht nur die Änderungen, die im letzten bearbeiteten Feld vorgenommen wurden. 
-Um das Objekt bzw. die Adresse auf die Version der letzten Veröffentlichung zurückzusetzen nutzen Sie bitte die Funktion „Änderungen am aktuellen Objekt/Adresse verwerfen“. 
+Um das Objekt bzw. die Adresse auf die Version der letzten Veröffentlichung zurückzusetzen nutzen Sie bitte die Funktion „Änderungen am aktuellen Objekt/Adresse verwerfen“.
 
 
 Änderungen am aktuellen Objekt/Adresse verwerfen
