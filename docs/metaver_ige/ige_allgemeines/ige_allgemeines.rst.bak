@@ -249,7 +249,7 @@ Soll ein Objekt oder eine Adresse komplett gelöscht werden, ist der Befehl „A
 Wichtig ist, dass zuvor das Objekt bzw. die Adresse markiert wird, welche(s) gelöscht werden soll. Erst wenn das betreffende Objekt rechts in der Erfassungsmaske des Editors zu sehen ist, darf der Befehl aufgerufen werden. 
 Es öffnet sich daraufhin ein Fenster mit einer Sicherheitsabfrage, ob das Objekt bzw. die Adresse tatsächlich gelöscht werden soll. Mit einem Klick auf „Ok“ werden die Daten endgültig gelöscht. 
 
-[Grafik]
+.. image:: ../../img_ige/ige_dialogbox/ige-dialog_loeschen.png
 
 Im Strukturbaum können auch mehrere Objekte bzw. Adressen gleichzeitig markiert werden. Dazu wird beim Markieren eines Objektes per Mausklick zusätzlich die „Strg“-Taste gedrückt. Auf diese Weise sind die Operationen „verschieben“, „löschen“ und „kopieren“ auf mehrere Objekte gleichzeitig anwendbar. 
 

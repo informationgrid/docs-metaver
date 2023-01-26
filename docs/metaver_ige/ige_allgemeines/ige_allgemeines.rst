@@ -244,12 +244,12 @@ Objekt / Adresse löschen
 
 Soll ein Objekt oder eine Adresse komplett gelöscht werden, ist der Befehl „Ausgewähltes Objekt / Teilbaum löschen“ aus der Toolbar auszuwählen. Alternativ kann die Funktion „Löschen“ auch über das Kontextmenü (rechte Maustaste) aufgerufen werden. 
 
-.. image:: ../../img_ige/ige_symbolleiste/ige-symbolleiste_loeschen.png
+.. image:: ../../img_ige//metaver_ige/ige_symbolleiste/ige-symbolleiste_loeschen.png
 
 Wichtig ist, dass zuvor das Objekt bzw. die Adresse markiert wird, welche(s) gelöscht werden soll. Erst wenn das betreffende Objekt rechts in der Erfassungsmaske des Editors zu sehen ist, darf der Befehl aufgerufen werden. 
 Es öffnet sich daraufhin ein Fenster mit einer Sicherheitsabfrage, ob das Objekt bzw. die Adresse tatsächlich gelöscht werden soll. Mit einem Klick auf „Ok“ werden die Daten endgültig gelöscht. 
 
-.. image:: ../../img_ige/ige_dialogbox/ige-dialog_loeschen.png
+.. image:: ../../img_ige/metaver_ige/ige_dialogbox/ige-dialog_loeschen.png
 
 Im Strukturbaum können auch mehrere Objekte bzw. Adressen gleichzeitig markiert werden. Dazu wird beim Markieren eines Objektes per Mausklick zusätzlich die „Strg“-Taste gedrückt. Auf diese Weise sind die Operationen „verschieben“, „löschen“ und „kopieren“ auf mehrere Objekte gleichzeitig anwendbar. 
 
