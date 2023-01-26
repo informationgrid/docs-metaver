@@ -3,7 +3,7 @@
    :width: 300
 
 
-Bedienungsanleitung InGrid Editor / METAVER
+Bedienungsanleitung InGrid Editor (IGE)/ METAVER
 ==========================================
 
 Version der Bedienungsanleitung
@@ -36,7 +36,7 @@ Version der Bedienungsanleitung
 
 .. toctree::
    :maxdepth: 3
-   :caption: Erfassung der Objektklassen
+   :caption: Objektklassen im IGE
    
    metaver_ige/ige_objektklassen/objektklasse-geodatensatz.rst
    metaver_ige/ige_objektklassen/objektklasse-geodatendienst.rst
@@ -49,7 +49,7 @@ Version der Bedienungsanleitung
    
 .. toctree::
    :maxdepth: 3
-   :caption: Funktionen im InGrid-Editor
+   :caption: Funktionen im IGE
    
    metaver_ige/ige_funktionen/ige_iso-xml-anzeigen.rst
    metaver_ige/ige_funktionen/ige_vorschau-drucken.rst
