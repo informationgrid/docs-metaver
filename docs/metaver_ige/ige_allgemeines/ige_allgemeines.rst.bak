@@ -311,10 +311,8 @@ Vor dem abschließenden Speichern müssen Sie nun noch die Änderungen gegenübe
 
 .. hint::
 
-**Hinweis:**
-
+ .. topic:: Hinweis
 *Wichtig ist, dass der Objektname bzw. der Adresstitel geändert werden. Geschieht dieses nicht, so existieren im Metadatenkatalog zwei Objekte/Adressen mit dem gleichen Namen. Dieses sollte unbedingt vermieden werden!* 
-
 *Die Ordnung innerhalb einer Hierarchiestufe erfolgt im Übrigen alphabetisch nach Objektname bzw. Adresstitel und kann durch Verschieben oder Einfügen nicht geändert werden.*
 
 
@@ -390,44 +388,6 @@ Mit dieser Funktion können Objekte und Adressen, die schon veröffentlicht wurd
 Das Icon ist immer dann auswählbar, wenn Änderungen vorgenommen, und das Objekt bzw. die Adresse zwischengespeichert wurden. Klickt man auf das Symbol, so kommt eine Sicherheitsabfrage. 
 
 Wird an dieser Stelle mit „Ja“ geantwortet, so werden alle Änderungen verworfen und das Objekt bzw. die Adresse wird auf die Version der letzten Veröffentlichung zurückgesetzt. 
-
-[Grafik]
-
-
-Drucken von Teilbäumen und Suchergebnissen
-------------------------------------------
-
-Man kann aus dem InGrid Editor heraus Objekte oder Adressen drucken. Aufgerufen wird der Druckdialog entweder über den Befehl „Vorschau und Druckansicht“ in der Symbolleiste.
-
-[Grafik]
-
-oder über den gleichen Befehl innerhalb des Kontextmenüs (rechte Maustaste). 
-
-[Grafik]
-
-Je nachdem, ob der Befehl über die Menüleiste oder aber über das Kontextmenü aufgerufen wird, variiert der Inhalt ein wenig. Beim Aufruf über das Kontextmenü werden die gespeicherten Metadaten angezeigt. Ruft man dagegen die Druckansicht über die Menüleiste auf, so wird der aktuelle Stand gezeigt, auch, wenn die Änderungen noch nicht gespeichert wurden. 
-
-
-**Vorschau und Druckansicht**
-
-Für die Druckansicht Optionen enthält das Fenster die Optionen:
- - Detailansicht und
- - Untergeordnete Objekte mit einbeziehen.
-
-[Grafik]
-
-
-**Detailansich**
-
-Es besteht die Möglichkeit, nur den Namen der Objekte (bzw. der Adressen) zu drucken, oder aber zusätzlich sämtliche Detailinformationen. 
-
-[Grafik]
-
-**Untergeordnete Objekte/Adressen mit einbeziehen**
-
-Es kann entweder ein einzelnes im Hierarchiebaum ausgewähltes Objekt (bzw. Adresse) dargestellt werden, oder aber ein Teilbaum mit zusätzlich allen untergeordneten Objekten/Adressen. 
-
-Gesteuert wird dieses über die Auswahl „Untergeordnete Adressen mit einbeziehen“. Ohne Haken wird nur das ausgewählte Objekt/Adresse angezeigt und gedruckt. Wird dagegen ein Haken gesetzt, so werden alle untergeordneten Adressen/Objekte ebenfalls gedruckt – jedoch nur jeweils die Namen der Objekte/Adressen. Soll zusätzlich die gesamte Beschreibung des Objektes/der Adresse gedruckt werden, so ist ein Haken für die „Detailansicht“ zu setzen. 
 
 [Grafik]
 
