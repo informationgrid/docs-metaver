@@ -97,8 +97,12 @@ Hilfe
 **Allgemeine Hilfe**
 
 .. image:: ../../img_ige/metaver_ige/ige_funktionen/ige_hilfe/ige-hilfe-allgemein.png
+    :name: Hilfe
+    :alt:  Hilfe im Menü
+    :align: left
+    :width: 400
 
-Abb.: Hilfe im Nenü
+Abb.: Hilfe im Menü
 
 Eine allgemeine Hilfe zum InGrid Editor kann durch einen Klick auf das Fragezeichensymbol (ganz rechts in der Toolbar) aufgerufen werden. Sie enthält Hinweise und Ratschläge für die Nutzung des InGrid Editors.
 
