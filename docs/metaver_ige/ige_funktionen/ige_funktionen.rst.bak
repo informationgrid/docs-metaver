@@ -14,7 +14,7 @@ Zeigt das erstellte Metadatenobjekt als ISO-XML an.
 
 .. image:: ../../img_ige/metaver_ige/ige_funktionen/ige_iso-xml/ige-iso-xml.png
 
-Abb.: Symbolleiste - Befehl ISO-XML-Anzeigen
+Abb.: ISO-XML Ansicht
 
 
 Änderungen anzeigen
@@ -30,7 +30,7 @@ Es öffnet sich ein Dialog-Fenster „Vergleichsansicht“, welches die Informat
 
 .. image:: ../../img_ige/metaver_ige/ige_funktionen/ige_vergleichsansicht/ige-vergleichsansicht.png
 
-Abb.: Symbolleiste - Befehl ISO-XML-Anzeigen
+Abb.: Vergleichsansicht
 
 Hilfreich ist diese Ansicht beispielsweise, wenn ein Objekt bzw. eine Adresse vor längerer Zeit nur zwischengespeichert wurde. Mit einem Blick auf die Vergleichsansicht kann schnell festgestellt werden, was geändert wurde und ob das Objekte bzw. die Adresse abschließend gespeichert werden kann oder die Änderungen eventuell verworfen werden müssen. 
 
@@ -40,13 +40,15 @@ Vorschau und Druckansicht
 
 Man kann aus dem InGrid Editor heraus Objekte oder Adressen drucken. Aufgerufen wird der Druckdialog entweder über den Befehl „Vorschau und Druckansicht“ in der Symbolleiste.
 
-.. image:: ../../img_ige/metaver_ige/ige_symbolleiste/ige-vorschau-druckansicht.png
+.. image:: ../../img_ige/metaver_ige/ige_symbolleiste/ige-symbolleiste_drucken.png
 
 Abb.: Symbolleiste - Befehl Vorschau und Druckansicht
 
 oder über den gleichen Befehl innerhalb des Kontextmenüs (rechte Maustaste). 
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_kontextmenue/ige-kontextmenue_vorschau-druckansicht.png
+
+Abb.: Kontextmenü - Befehl Vorschau und Druckansicht 
 
 Je nachdem, ob der Befehl über die Menüleiste oder aber über das Kontextmenü aufgerufen wird, variiert der Inhalt ein wenig. Beim Aufruf über das Kontextmenü werden die gespeicherten Metadaten angezeigt. Ruft man dagegen die Druckansicht über die Menüleiste auf, so wird der aktuelle Stand gezeigt, auch, wenn die Änderungen noch nicht gespeichert wurden. 
 
@@ -57,14 +59,18 @@ Für die Druckansicht Optionen enthält das Fenster die Optionen:
  - Detailansicht und
  - Untergeordnete Objekte mit einbeziehen.
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_funktionen/ige_vorschau-drucken/ige-vorschau-druckansicht_detailansicht.png
+
+Abb.: Vorschau und Druckansicht - Auswahl
 
 
 **Detailansich**
 
 Es besteht die Möglichkeit, nur den Namen der Objekte (bzw. der Adressen) zu drucken, oder aber zusätzlich sämtliche Detailinformationen. 
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_funktionen/ige_vorschau-drucken/ige-vorschau-druckansicht_detailansicht-anzeigen.png
+
+Abb.: Vorschau und Druckansicht - Auswahl - Detailansicht
 
 **Untergeordnete Objekte/Adressen mit einbeziehen**
 
@@ -72,7 +78,9 @@ Es kann entweder ein einzelnes im Hierarchiebaum ausgewähltes Objekt (bzw. Adre
 
 Gesteuert wird dieses über die Auswahl „Untergeordnete Adressen mit einbeziehen“. Ohne Haken wird nur das ausgewählte Objekt/Adresse angezeigt und gedruckt. Wird dagegen ein Haken gesetzt, so werden alle untergeordneten Adressen/Objekte ebenfalls gedruckt – jedoch nur jeweils die Namen der Objekte/Adressen. Soll zusätzlich die gesamte Beschreibung des Objektes/der Adresse gedruckt werden, so ist ein Haken für die „Detailansicht“ zu setzen. 
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_funktionen/ige_vorschau-drucken/ige-vorschau-druckansicht_untergeordente-objekte.png
+
+Abb.: Vorschau und Druckansicht - Auswahl - Untergeordnete Objekte mit einbeziehen
 
 
 
@@ -90,7 +98,9 @@ Hilfe
 
 Eine allgemeine Hilfe zum InGrid Editor kann durch einen Klick auf das Fragezeichensymbol (ganz rechts in der Toolbar) aufgerufen werden. Sie enthält Hinweise und Ratschläge für die Nutzung des InGrid Editors.
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_funktionen/ige_hilfe/ige-hilfe.png
+
+Abb.: Hilfe [?]
 
 **Hilfe in den Dialogfenstern**
 
