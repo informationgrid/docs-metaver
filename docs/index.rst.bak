@@ -52,9 +52,7 @@ Version der Bedienungsanleitung
    :maxdepth: 3
    :caption: Fragen und Antworten
    
-   metaver_informationen/faq/metaver_allgemeines.rst
-   metaver_informationen/faq/ige_faq.rst
-   metaver_informationen/glossar/glossar.rst
+   metaver_informationen/faq/faq.rst
    metaver_informationen/kontakt/metaver_kontakt.rst
 
 
