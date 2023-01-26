@@ -289,7 +289,9 @@ Dieser Dialog kann vom Nutzer für künftige Kopiervorgänge unterdrückt werden
 Zum Einfügen markieren Sie bitte das Objekt bzw. die Adresse, die hierarchisch über dem einzufügenden Objekt bzw. der einzufügenden Adresse steht. 
 Ist die entsprechende Adresse bzw. das entsprechende Objekt markiert, so kann mit dem Icon „Einfügen“ (aus der Symbolleiste) die Kopie eingefügt werden. 
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_box_dialog/ige-dialog_information.png
+
+Abb.: Dialogbox - Information
 
 Alternativ ist der Befehl „Einfügen“ auch über das Kontextmenü (rechte Maustaste) aufzurufen. 
 

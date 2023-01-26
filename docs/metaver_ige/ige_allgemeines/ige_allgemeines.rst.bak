@@ -274,15 +274,15 @@ Zum Kopieren eines Objektes / einer Adresse markieren Sie bitte das Objekt/die A
 
 .. image:: ../../img_ige//metaver_ige/ige_symbolleiste/ige-symbolleiste_kopieren.png
 
-Abb.:
+Abb.: Symbolleiste - Kopieren
 
 Alternativ können Sie nach dem Markieren des Objektes / der Adresse den Befehl auch über das Kontextmenü (rechte Maustaste) auswählen. 
 
 Es öffnet sich daraufhin ein Fenster mit einem Warnhinweis. Diese Warnung macht den Nutzer darauf aufmerksam, dass mit dem Vorgang des Kopierens und Einfügens der Metadatensatz eine neue Objekt-ID (UUID) zugeteilt bekommt und unter der alten Objekt-ID (UUID) nicht mehr auffindbar sein wird. 
 
-.. image:: ../../img_ige//metaver_ige/ige_kontextmenue/ige-symbolleiste_kopieren.png
+.. image:: ../../img_ige//metaver_ige/ige_kontextmenue/ige-kontextmenue-kopieren.png
 
-Abb.: 
+Abb.: Kontextmenü - Objekte/Adressen kopieren
 
 Dieser Dialog kann vom Nutzer für künftige Kopiervorgänge unterdrückt werden, indem die Checkbox Nicht mehr anzeigen markiert wird. Dieser Hinweis ist wichtig, da die UUID eine entscheidende Eigenschaft eines Metadatensatzes ist und eine Änderung derselben weitreichenden Konsequenzen hat. (z.B. Daten-Dienste-Kopplung, INSPIRE-Monitoring-Prozess der GDI-DE).
 
