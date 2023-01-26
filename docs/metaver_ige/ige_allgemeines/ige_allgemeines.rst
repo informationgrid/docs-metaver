@@ -284,7 +284,7 @@ Dieser Dialog kann vom Nutzer für künftige Kopiervorgänge unterdrückt werden
 Zum Einfügen markieren Sie bitte das Objekt bzw. die Adresse, die hierarchisch über dem einzufügenden Objekt bzw. der einzufügenden Adresse steht. 
 Ist die entsprechende Adresse bzw. das entsprechende Objekt markiert, so kann mit dem Icon „Einfügen“ (aus der Symbolleiste) die Kopie eingefügt werden. 
 
-.. image:: ../../img_ige//metaver_ige/ige_symbolleiste/ige-symbolleiste_einfügen.png
+.. image:: ../../img_ige//metaver_ige/ige_symbolleiste/ige-symbolleiste_einfuegen.png
 
 Abb.: Symbolleiste - Einfügen
 
