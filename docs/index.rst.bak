@@ -32,12 +32,6 @@ Version der Bedienungsanleitung
    metaver_ige/ige_erfassung/erfassung-adressen.rst
    metaver_ige/ige_erfassung/erfassung-metadaten.rst
    metaver_ige/ige_erfassung/bearbeitung-metadaten.rst
-
-
-.. toctree::
-   :maxdepth: 3
-   :caption: Objektklassen
-   
    metaver_ige/ige_objektklassen/objektklassen.rst
 
    
