@@ -243,7 +243,7 @@ Objekt/Adresse löschen
 
 Soll ein Objekt oder eine Adresse komplett gelöscht werden, ist der Befehl „Ausgewähltes Objekt / Teilbaum löschen“ aus der Symbolleiste auszuwählen. Alternativ kann die Funktion „Löschen“ auch über das Kontextmenü (rechte Maustaste) aufgerufen werden. 
 
-.. image:: ../../img_ige//metaver_ige/ige_symbolleiste/ige-symbolleiste_loeschen.png
+.. image:: ../../img_ige/metaver_ige/ige_symbolleiste/ige-symbolleiste_loeschen.png
 
 Abb.: Symbolleiste - Icon Löschen
 
@@ -271,13 +271,13 @@ Ein markiertes Objekt oder eine markierte Adresse kann mit der Funktion „Kopie
 
 Zum Kopieren eines Objektes / einer Adresse markieren Sie bitte das Objekt/die Adresse und wählen anschließend das Icon „Objekt/Adresse kopieren“ aus der Symbolleiste aus. 
 
-.. image:: ../../img_ige//metaver_ige/ige_symbolleiste/ige-symbolleiste_kopieren.png
+.. image:: ../../img_ige/metaver_ige/ige_symbolleiste/ige-symbolleiste_kopieren.png
 
 Abb.: Symbolleiste - Kopieren
 
 Alternativ können Sie nach dem Markieren des Objektes / der Adresse den Befehl auch über das Kontextmenü (rechte Maustaste) auswählen. 
 
-.. image:: ../../img_ige//metaver_ige/ige_kontextmenue/ige-kontextmenue-kopieren.png
+.. image:: ../../img_ige/metaver_ige/ige_kontextmenue/ige-kontextmenue-kopieren.png
 
 Abb.: Kontextmenü - Objekte/Adressen kopieren
 
@@ -292,7 +292,7 @@ Dieser Dialog kann vom Nutzer für künftige Kopiervorgänge unterdrückt werden
 Zum Einfügen markieren Sie bitte das Objekt bzw. die Adresse, die hierarchisch über dem einzufügenden Objekt bzw. der einzufügenden Adresse steht. 
 Ist die entsprechende Adresse bzw. das entsprechende Objekt markiert, so kann mit dem Icon „Einfügen“ (aus der Symbolleiste) die Kopie eingefügt werden. 
 
-.. image:: ../../img_ige//metaver_ige/ige_symbolleiste/ige-symbolleiste_einfuegen.png
+.. image:: ../../img_ige/metaver_ige/ige_symbolleiste/ige-symbolleiste_einfuegen.png
 
 Abb.: Symbolleiste - Einfügen
 
@@ -303,7 +303,7 @@ Im Strukturbaum können auch mehrere Objekte bzw. Adressen gleichzeitig selektie
 Nach dem Einfügen wird das Symbol der kopierten Adresse bzw. des kopierten Objektes im 
 Strukturbaum rot dargestellt. Es befindet sich somit im Bearbeitungszustand. 
 
-.. image:: ../../img_ige//metaver_ige/ige_strukturbaum/ige-strukturbaum_bearbeitungszustand.png
+.. image:: ../../img_ige/metaver_ige/ige_strukturbaum/ige-strukturbaum_bearbeitungszustand.png
 
 Abb.: Strukturbaum - Symbol erscheint rot
 
@@ -327,19 +327,19 @@ Um ein Objekt, eine Adresse oder einen Teilbaum zu verschieben, markieren Sie di
 
 Nach dem Markieren wird über das Kontextmenü (rechte Maustaste) der Befehl „Objekt / Adresse ausschneiden / Teilbaum ausschneiden“ ausgewählt. Alternativ kann der Befehl auch über das Icon der Symbolleiste aufgerufen werden. 
 
-.. image:: ../../img_ige//metaver_ige/ige_symbolleiste/ige-symbolleiste_ausschneiden.png
+.. image:: ../../img_ige/metaver_ige/ige_symbolleiste/ige-symbolleiste_ausschneiden.png
 
 Abb.: Symbolleiste - Ausschneiden
 
 Das Objekt, die Adresse oder der Teilbaum befinden sich nun im Zwischenspeicher. Zu erkennen ist dieses im Strukturbaum. Das ausgeschnittene Objekt wird dort nur noch grau dargestellt. 
 
-.. image:: ../../img_ige//metaver_ige/ige_strukturbaum/ige-symbolleiste_ausschneiden-grau.png
+.. image:: ../../img_ige/metaver_ige/ige_strukturbaum/ige-symbolleiste_ausschneiden-grau.png
 
 Abb.: Strukturbaum - Schrift grau
 
 Mit dem Befehl „Einfügen“ können die Daten wieder in den Strukturbaum eingefügt werden. Markieren Sie hierzu das Objekt bzw. die Adresse, die hierarchisch über dem einzufügenden Objekt oder Teilbaum bzw. der einzufügenden Adresse steht. Anschließend ist der Befehl „Einfügen“ über das Kontextmenü oder über die Symbolleiste auszuwählen. 
 
-.. image:: ../../img_ige//metaver_ige/ige_symbolleiste/ige-symbolleiste_einfuegen.png
+.. image:: ../../img_ige/metaver_ige/ige_symbolleiste/ige-symbolleiste_einfuegen.png
 
 Abb.: Symbolleiste - Einfügen
 
@@ -353,9 +353,15 @@ Auf zwei Wegen können Adressangaben einer übergeordneten Adresse in eine nachg
 
 a)	Im Hierarchiebaum die Adresse auswählen, die in die nachgeordnete Adresse übernommen werden soll. Über das Kontextmenu (rechter Mausklick) die Option „Neu anlegen“ auswählen. Die Adressangabe der gewählten Adresse wird in der neuen nachgeordneten Adresse übernommen.
 
+
+
 [Grafik]
 
+
+
 b) Im Hierarchiebaum die Adresse auswählen, die in die nachgeordneten Adressen übernommen werden sollen. Über das Kontextmenu (rechter Mausklick) die Option „Adressangaben in nachgeordnete Adressen übernehmen“ auswählen. Die Adressangaben der gewählten Adresse werden in alle nachgeordneten Adressen übernommen. 
+
+
 
 [Grafik]
 

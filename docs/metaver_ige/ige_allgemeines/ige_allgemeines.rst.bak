@@ -5,7 +5,7 @@ Allgemeines zum InGrid Editor
 Aufbau der Benutzeroberfläche
 -----------------------------
 
-  .. image:: ../../img_ige/metaver_ige/ige_benutzeroberflaeche/ige-benutzeroberflaeche.png
+  .. image:: ../../img_ige/metaver_ige/ige_ausgangszustand/ige-benutzeroberflaeche.png
 	
 Abb.: Benutzeroberfläche des InGrid Editors
 
@@ -146,7 +146,6 @@ Ausgegraute Objekte/Adressen im Strukturbaum
 Teilweise werden im Strukturbaum Objekte oder Adressen nicht schwarz, sondern nur in grau angezeigt. Dieses hängt mit der Zuweisung von Berechtigungen zusammen. Ändern kann ein Erfasser nur die Objekte/Adressen, die im Strukturbaum schwarz dargestellt sind.
 
  
-
 Das IGE-Kontextmenü
 --------------------
 
