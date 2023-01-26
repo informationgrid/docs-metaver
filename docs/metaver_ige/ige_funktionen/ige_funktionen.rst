@@ -96,7 +96,7 @@ Hilfe
 
 **Allgemeine Hilfe**
 
-.. image:: ../../img_ige/metaver_ige/ige_funktionen/ige_hilfe/ige-hilfe-allgemein.png
+.. image:: ../../img_ige/metaver_ige/ige_funktionen/ige_hilfe/ige-hilfe_allgemein.png
     :name: Hilfe
     :alt:  Hilfe im Menü
     :align: left
