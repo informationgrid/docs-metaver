@@ -12,7 +12,7 @@ Abb.: Benutzeroberfläche des InGrid Editors
 Die Benutzeroberfläche ist wie folgt aufgebaut: 
 
 1. Navigationsleiste
-2. Toolbar (Symbolleiste)
+2. Symbolleiste (Toolbar) 
 3. Strukturbaum
 4. Erfassungsmaske
 
@@ -203,7 +203,6 @@ IGE-Symbolleiste (Toolbar)
 --------------------------
   
 .. csv-table::
-
     :widths: 250 50
 
     .. image:: ../../img_ige/metaver_ige/ige_symbolleiste/ige-symbolleiste.png,  .. image:: ../../img_ige/metaver_ige/ige_symbolleiste/ige-symbolleiste_2.png
