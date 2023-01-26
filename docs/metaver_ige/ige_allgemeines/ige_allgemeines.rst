@@ -377,19 +377,27 @@ Klickt man auf das „Rückgängig“ Symbol, so öffnet sich ein kleines Fenste
 "Ja" bewirkt, dass alle Bearbeitungen seit dem letzten Zwischenspeichern gelöscht werden - nicht nur die Änderungen, die im letzten bearbeiteten Feld vorgenommen wurden. 
 Um das Objekt bzw. die Adresse auf die Version der letzten Veröffentlichung zurückzusetzen nutzen Sie bitte die Funktion „Änderungen am aktuellen Objekt/Adresse verwerfen“.
 
+.. image:: ../../img_ige/metaver_ige/ige_symbolleiste/ige-dialog_aktuelle-aenderung-verwerfen.png
+
+Abb.: Dialog aktuelle Änderung verwerfen?
+
 
 Änderungen am aktuellen Objekt/Adresse verwerfen
 ''''''''''''''''''''''''''''''''''''''''''''''''
 
 Mit dieser Funktion können Objekte und Adressen, die schon veröffentlicht wurden, auf den Stand zurückgesetzt werden, den sie bei der Veröffentlichung hatten. Die Bearbeitungen, auch die die mit der Funktion Zwischenspeichern gesichert wurden, werden zurückgesetzt und gelöscht.
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_symbolleiste/ige-symbolleiste_aenderung-verwerfen.png
+
+Abb.: Befehl Rückgängig machen
 
 Das Icon ist immer dann auswählbar, wenn Änderungen vorgenommen, und das Objekt bzw. die Adresse zwischengespeichert wurden. Klickt man auf das Symbol, so kommt eine Sicherheitsabfrage. 
 
 Wird an dieser Stelle mit „Ja“ geantwortet, so werden alle Änderungen verworfen und das Objekt bzw. die Adresse wird auf die Version der letzten Veröffentlichung zurückgesetzt. 
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_symbolleiste/ige-dialog_alle-aenderungen-verwerfen.png
+
+Abb.: Dialog alle Änderung verwerfen?
 
 
 Auf- und Zuklappen der optionalen Felder
