@@ -64,7 +64,7 @@ Für die Druckansicht Optionen enthält das Fenster die Optionen:
 Abb.: Vorschau und Druckansicht - Auswahl
 
 
-**Detailansich**
+**Detailansicht**
 
 Es besteht die Möglichkeit, nur den Namen der Objekte (bzw. der Adressen) zu drucken, oder aber zusätzlich sämtliche Detailinformationen. 
 
