@@ -49,7 +49,7 @@ Version der Bedienungsanleitung
    
 .. toctree::
    :maxdepth: 3
-   :caption: Funktionen im IGE
+   :caption: Funktionen
    
    metaver_ige/ige_funktionen/ige_funktionen.rst
    
