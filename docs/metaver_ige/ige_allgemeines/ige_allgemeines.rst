@@ -377,7 +377,7 @@ Klickt man auf das „Rückgängig“ Symbol, so öffnet sich ein kleines Fenste
 "Ja" bewirkt, dass alle Bearbeitungen seit dem letzten Zwischenspeichern gelöscht werden - nicht nur die Änderungen, die im letzten bearbeiteten Feld vorgenommen wurden. 
 Um das Objekt bzw. die Adresse auf die Version der letzten Veröffentlichung zurückzusetzen nutzen Sie bitte die Funktion „Änderungen am aktuellen Objekt/Adresse verwerfen“.
 
-.. image:: ../../img_ige/metaver_ige/ige_symbolleiste/ige-dialog_aktuelle-aenderung-verwerfen.png
+.. image:: ../../img_ige/metaver_ige/ige_box_dialog/ige-dialog_aktuelle-aenderung-verwerfen.png
 
 Abb.: Dialog aktuelle Änderung verwerfen?
 
@@ -395,7 +395,7 @@ Das Icon ist immer dann auswählbar, wenn Änderungen vorgenommen, und das Objek
 
 Wird an dieser Stelle mit „Ja“ geantwortet, so werden alle Änderungen verworfen und das Objekt bzw. die Adresse wird auf die Version der letzten Veröffentlichung zurückgesetzt. 
 
-.. image:: ../../img_ige/metaver_ige/ige_symbolleiste/ige-dialog_alle-aenderungen-verwerfen.png
+.. image:: ../../img_ige/metaver_ige/ige_box_dialog/ige-dialog_alle-aenderungen-verwerfen.png
 
 Abb.: Dialog alle Änderung verwerfen?
 
