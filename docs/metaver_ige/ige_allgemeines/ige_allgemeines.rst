@@ -352,19 +352,17 @@ Adressangaben in nachgeordnete Adressen übernehmen
 
 Auf zwei Wegen können Adressangaben einer übergeordneten Adresse in eine nachgeordnete (=untergeordnete) Adresse übertragen werden: 
 
-a)	Im Hierarchiebaum die Adresse auswählen, die in die nachgeordnete Adresse übernommen werden soll. Über das Kontextmenu (rechter Mausklick) die Option „Neu anlegen“ auswählen. Die Adressangabe der gewählten Adresse wird in der neuen nachgeordneten Adresse übernommen.
+a)	Im Hierarchiebaum die Adresse auswählen, die in die nachgeordnete Adresse übernommen werden soll. Über das Kontextmenü (rechter Mausklick) die Option „Neu anlegen“ auswählen. Die Adressangabe der gewählten Adresse wird in der neuen nachgeordneten Adresse übernommen.
 
+.. image:: ../../img_ige/metaver_ige/ige_adressen/ige-adressangaben.png
 
-
-[Grafik]
-
-
+Abb.: Adressangaben übernehmen
 
 b) Im Hierarchiebaum die Adresse auswählen, die in die nachgeordneten Adressen übernommen werden sollen. Über das Kontextmenu (rechter Mausklick) die Option „Adressangaben in nachgeordnete Adressen übernehmen“ auswählen. Die Adressangaben der gewählten Adresse werden in alle nachgeordneten Adressen übernommen. 
 
+.. image:: ../../img_ige/metaver_ige/ige_kontextmenue/ige-adressangaben_uebernehmen.png
 
-
-[Grafik]
+Abb.: Adressangaben übernehmen
 
 
 Änderungen anzeigen

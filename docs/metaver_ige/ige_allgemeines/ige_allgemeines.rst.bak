@@ -309,6 +309,7 @@ Abb.: Strukturbaum - Symbol erscheint rot
 
 Vor dem abschließenden Speichern müssen Sie nun noch die Änderungen gegenüber dem kopierten Objekt / der kopierten Adresse vornehmen. 
 
+.. hint::
 
 **Hinweis:**
 
