@@ -203,7 +203,7 @@ IGE-Symbolleiste (Toolbar)
 --------------------------
   
 .. csv-table::
-    :widths: 250 30 50
+    :widths: 250 10 50
 
     .. image:: ../../img_ige/metaver_ige/ige_symbolleiste/ige-symbolleiste.png,... , .. image:: ../../img_ige/metaver_ige/ige_symbolleiste/ige-symbolleiste_2.png
 
