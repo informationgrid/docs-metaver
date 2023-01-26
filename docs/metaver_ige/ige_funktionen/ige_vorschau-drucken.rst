@@ -1,3 +1,0 @@
-
-Vorschau und Drucken
-====================

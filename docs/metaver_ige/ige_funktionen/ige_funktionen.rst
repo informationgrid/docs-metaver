@@ -1,6 +1,26 @@
 
+Funktionen im InGrid Editor
+===========================
+
+
+ISO-XML-Anzeigen
+----------------
+
+
+Vorschau und Druckansicht
+--------------------------
+
+
+Suche
+-----
+
+
+Reports
+-------
+
+
 Hilfe
-=====
+-----
 
 **Allgemeine Hilfe**
 

@@ -36,7 +36,7 @@ Version der Bedienungsanleitung
 
 .. toctree::
    :maxdepth: 3
-   :caption: Objektklassen im IGE
+   :caption: Objektklassen
    
    metaver_ige/ige_objektklassen/objektklasse-geodatensatz.rst
    metaver_ige/ige_objektklassen/objektklasse-geodatendienst.rst
@@ -49,13 +49,9 @@ Version der Bedienungsanleitung
    
 .. toctree::
    :maxdepth: 3
-   :caption: Funktionen im IGE
+   :caption: Funktionen
    
-   metaver_ige/ige_funktionen/ige_iso-xml-anzeigen.rst
-   metaver_ige/ige_funktionen/ige_vorschau-drucken.rst
-   metaver_ige/ige_funktionen/ige_suche.rst
-   metaver_ige/ige_funktionen/ige_reports.rst
-   metaver_ige/ige_funktionen/ige_hilfe.rst
+   metaver_ige/ige_funktionen/ige_funktionen.rst
    
    
 .. toctree::
