@@ -21,7 +21,7 @@ Version der Bedienungsanleitung
    :caption: Allgemeine Informationen
 
    metaver_portal/metaver_registrierung-anmeldung/metaver_registrierung-anmeldung.rst
-   metaver_ige/ige_ingrid-editor/ingrid-editor.rst
+   metaver_ige/ige_allgemeines/ige_allgemeines.rst
 
 
 .. toctree::
