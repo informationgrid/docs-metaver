@@ -270,7 +270,7 @@ Objekt / Adresse kopieren und einfügen
 
 Ein markiertes Objekt oder eine markierte Adresse kann mit der Funktion „Kopieren“ in den Zwischenspeicher kopiert werden. Anschließend ist es möglich, die Kopie an einer anderen Stelle oder der gleichen Stelle im Hierarchiebaum wieder einzufügen. Sinnvoll ist dieses beispielweise, wenn Sie zwei ähnliche Objekte oder Adressen anlegen wollen. Sie brauchen dann nur ein Objekt bzw. eine Adresse anzulegen. Bei dem zweiten Metadatensatz müssen nur noch die Änderungen eingearbeitet werden. 
 
-Zum Kopieren eines Objektes / einer Adresse markieren Sie bitte das Objekt/die Adresse und wählen anschließend das Icon „Objekt/Adresse kopieren“ aus der Toolbar aus. 
+Zum Kopieren eines Objektes / einer Adresse markieren Sie bitte das Objekt/die Adresse und wählen anschließend das Icon „Objekt/Adresse kopieren“ aus der Symbolleiste aus. 
 
 .. image:: ../../img_ige//metaver_ige/ige_symbolleiste/ige-symbolleiste_kopieren.png
 
@@ -320,7 +320,7 @@ Sinnvoll ist das Verschieben, wenn beispielsweise Personen innerhalb einer Behö
 
 Um ein Objekt, eine Adresse oder einen Teilbaum zu verschieben, markieren Sie dieses. Um einen Teilbaum (d.h. ein Objekt mit allen hierarchisch darunterliegenden Objekten bzw. Adressen) auszuschneiden, muss das hierarchisch oberste Objekt markiert sein. Es ist jedoch auch möglich, im Strukturbaum mehrere Objekte bzw. Adressen gleichzeitig zu markieren. Dazu wird beim Markieren eines Objektes per Mausklick zusätzlich die „Strg“-Taste gedrückt. 
 
-Nach dem Markieren wird über das Kontextmenü (rechte Maustaste) der Befehl „Objekt / Adresse ausschneiden / Teilbaum ausschneiden“ ausgewählt. Alternativ kann der Befehl auch über das Icon der Toolbar aufgerufen werden. 
+Nach dem Markieren wird über das Kontextmenü (rechte Maustaste) der Befehl „Objekt / Adresse ausschneiden / Teilbaum ausschneiden“ ausgewählt. Alternativ kann der Befehl auch über das Icon der Symbolleiste aufgerufen werden. 
 
 [Grafik]
 
@@ -328,7 +328,7 @@ Das Objekt, die Adresse oder der Teilbaum befinden sich nun im Zwischenspeicher.
 
 [Grafik]
 
-Mit dem Befehl „Einfügen“ können die Daten wieder in den Strukturbaum eingefügt werden. Markieren Sie hierzu das Objekt bzw. die Adresse, die hierarchisch über dem einzufügenden Objekt oder Teilbaum bzw. der einzufügenden Adresse steht. Anschließend ist der Befehl „Einfügen“ über das Kontextmenü oder über die Toolbar auszuwählen. 
+Mit dem Befehl „Einfügen“ können die Daten wieder in den Strukturbaum eingefügt werden. Markieren Sie hierzu das Objekt bzw. die Adresse, die hierarchisch über dem einzufügenden Objekt oder Teilbaum bzw. der einzufügenden Adresse steht. Anschließend ist der Befehl „Einfügen“ über das Kontextmenü oder über die Symbolleiste auszuwählen. 
 
 [Grafik]
 
@@ -393,7 +393,7 @@ Wird an dieser Stelle mit „Ja“ geantwortet, so werden alle Änderungen verwo
 Drucken von Teilbäumen und Suchergebnissen
 ------------------------------------------
 
-Man kann aus dem InGrid Editor heraus Objekte oder Adressen drucken. Aufgerufen wird der Druckdialog entweder über den Befehl „Vorschau und Druckansicht“ in der Toolbar.
+Man kann aus dem InGrid Editor heraus Objekte oder Adressen drucken. Aufgerufen wird der Druckdialog entweder über den Befehl „Vorschau und Druckansicht“ in der Symbolleiste.
 
 [Grafik]
 
@@ -431,7 +431,7 @@ Gesteuert wird dieses über die Auswahl „Untergeordnete Adressen mit einbezieh
 Auf- und Zuklappen der optionalen Felder
 ----------------------------------------
 
-In der Grundeinstellung des InGrid Editors werden, in den Eingabemasken der Adressen und in den Eingabemasken der Objekte, Pflichtfelder und optionale Felder angezeigt. Durch einen Klick auf das Symbol fast ganz rechts in der Toolbar, werden weitere optionale Felder sichtbar.
+In der Grundeinstellung des InGrid Editors werden, in den Eingabemasken der Adressen und in den Eingabemasken der Objekte, Pflichtfelder und optionale Felder angezeigt. Durch einen Klick auf das Symbol fast ganz rechts in der Symbolleiste, werden weitere optionale Felder sichtbar.
 
 [Grafik]
 
