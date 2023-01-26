@@ -45,7 +45,18 @@ Version der Bedienungsanleitung
    metaver_ige/ige_objektklassen/objektklasse-dokument.rst
    metaver_ige/ige_objektklassen/objektklasse-projekt.rst
    metaver_ige/ige_objektklassen/objektklasse-organisationseinheit.rst
-
+   
+   
+.. toctree::
+   :maxdepth: 3
+   :caption: Funktionen im InGrid-Editor
+   
+   metaver_ige/ige_funktionen/ige_iso-xml-anzeigen.rst
+   metaver_ige/ige_funktionen/ige_vorschau-drucken.rst
+   metaver_ige/ige_funktionen/ige_suche.rst
+   metaver_ige/ige_funktionen/ige_reports.rst
+   metaver_ige/ige_funktionen/ige_hilfe.rst
+   
    
 .. toctree::
    :maxdepth: 3
@@ -55,15 +66,6 @@ Version der Bedienungsanleitung
    metaver_informationen/faq/ige_faq.rst
    metaver_informationen/kontakt/metaver_kontakt.rst
    metaver_informationen/glossar/glossar.rst
-   
-   
-.. toctree::
-   :maxdepth: 3
-   :caption: Funktionen im InGrid-Editor
-   
-   metaver_ige/ige_funktionen/ige_suche.rst
-   metaver_ige/ige_funktionen/ige_reports.rst
-   metaver_ige/ige_funktionen/ige_hilfe.rst
 
 
 .. toctree::
