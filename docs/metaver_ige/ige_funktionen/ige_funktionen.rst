@@ -96,11 +96,15 @@ Hilfe
 
 **Allgemeine Hilfe**
 
+.. image:: ../../img_ige/metaver_ige/ige_funktionen/ige_hilfe/ige-hilfe-allgemein.png
+
+Abb.: Hilfe im Nenü
+
 Eine allgemeine Hilfe zum InGrid Editor kann durch einen Klick auf das Fragezeichensymbol (ganz rechts in der Toolbar) aufgerufen werden. Sie enthält Hinweise und Ratschläge für die Nutzung des InGrid Editors.
 
 .. image:: ../../img_ige/metaver_ige/ige_funktionen/ige_hilfe/ige-hilfe.png
 
-Abb.: Hilfe [?]
+Abb.: Hilfe [?] in der Symbolleiste
 
 **Hilfe in den Dialogfenstern**
 
@@ -109,7 +113,7 @@ Das Symbol [?] verweist auf den Hilfetext.
 
 .. image:: ../../img_ige/metaver_ige/ige_funktionen/ige_hilfe/ige-hilfe_symbol.png
 
-Abb.: Dialogfenster - Hilfe [?]
+Abb.: Hilfe [?] in den Dialogfenstern
 
 **Hilfe hinter den Feldbezeichnungen**
 
