@@ -240,20 +240,28 @@ Geothesaurus-Raumbezug
 
 Geothesaurus oder auch Gazetteer (Ortsverzeichnis), hier soll ein Ort oder eine Region mit Koordinaten angegeben werden.
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-verschlagwortung_thesaurus-navigator.png
+
+Abb.: Tabelle Geothesaurus-Raumbezug
 
 
 Geothesaurus-Navigator
 ^^^^^^^^^^^^^^^^^^^^^^
 Über den Geothesaurus-Navigator kann nach den Koordinaten einer räumlichen Einheit gesucht werden.
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-raumbezug_geothesaurus-raumbezug.png
 
-[Grafik]
+Abb.: Geothesaurus-Navigator
+
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-raumbezug_geothesaurus-raumbezug_koordinaten.png
+
+Abb.: Tabelle Geothesaurus-Raumbezug mit Eintrag Landkreis Harz
 
 
 Abschnitt Zeitbezug
 -------------------
+
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitte/ige-abschnitt_zeitbezug.png
 
 Unter Zeitbezug werden Datumsangaben, Zeiträume, Zeitspannen, Perioden oder Intervalle der beschriebenen Daten eingetragen.
 
@@ -261,15 +269,24 @@ Unter Zeitbezug werden Datumsangaben, Zeiträume, Zeitspannen, Perioden oder Int
 Zeitbezug der Ressource
 ^^^^^^^^^^^^^^^^^^^^^^^
 
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-zeitbezug_der-ressource.png
+
+Abb.: Tabelle Zeitbezug der Ressource
+
 In dieser Tabelle wird dokumentiert, wann die beschrieben Daten erfasst, veröffentlicht oder geändert wurden.
 
 
 Erläuterungen
 ^^^^^^^^^^^^^
 
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-zeitbezug_der-ressource_erlaeuterung.png
+
+Abb.: Textfeld für Erläuterungen
+
+
 Hier können z.B. die Angaben der Periodizität eingeschränkt, weitere Zeitangaben gemacht oder Unregelmäßigkeiten erklärt werden. Im Zusammenhang mit dem Eintrag im Feld Periodizität können hier Abstände, Perioden und Intervalle eingetragen werden, die sich nicht aus dem Zusammenhang der anderen Felder des Zeitbezuges erklären, z.B. Jahreszeiten, Dekaden, Tageszeiten.
 
-**Beispiel:** Die Messungen erfolgten nur tagsüber.
+**Beispiel:** *Die Messungen erfolgten nur tagsüber.*
 
 
 Zeitspanne

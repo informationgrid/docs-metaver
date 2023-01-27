@@ -261,13 +261,17 @@ Abb.: Tabelle Geothesaurus-Raumbezug mit Eintrag Landkreis Harz
 Abschnitt Zeitbezug
 -------------------
 
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitte/ige-abschnitt_zeitbezug.png
+
 Unter Zeitbezug werden Datumsangaben, Zeiträume, Zeitspannen, Perioden oder Intervalle der beschriebenen Daten eingetragen.
 
 
 Zeitbezug der Ressource
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitte/ige-abschnitt_zeitbezug.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-zeitbezug_der-ressource.png
+
+Abb.: Tabelle Zeitbezug der Ressource
 
 In dieser Tabelle wird dokumentiert, wann die beschrieben Daten erfasst, veröffentlicht oder geändert wurden.
 
@@ -275,19 +279,28 @@ In dieser Tabelle wird dokumentiert, wann die beschrieben Daten erfasst, veröff
 Erläuterungen
 ^^^^^^^^^^^^^
 
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-zeitbezug_der-ressource_erlaeuterung.png
+
+Abb.: Textfeld für Erläuterungen
+
+
 Hier können z.B. die Angaben der Periodizität eingeschränkt, weitere Zeitangaben gemacht oder Unregelmäßigkeiten erklärt werden. Im Zusammenhang mit dem Eintrag im Feld Periodizität können hier Abstände, Perioden und Intervalle eingetragen werden, die sich nicht aus dem Zusammenhang der anderen Felder des Zeitbezuges erklären, z.B. Jahreszeiten, Dekaden, Tageszeiten.
 
-**Beispiel:** Die Messungen erfolgten nur tagsüber.
+**Beispiel:** *Die Messungen erfolgten nur tagsüber.*
 
 
 Zeitspanne
 ^^^^^^^^^^
 
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-zeitbezug_zeitspanne.png
+
+Abb.: Felder durch die Ressource abgedeckte Zeitspanne
+
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_auswahllisten/ige-auswahlliste_zeitbezug_zeitspanne_angaben.png
+
+Abb.: Auswahlliste
+
 Hier soll das Zeitspanne der Entstehung der eigentlichen Daten (z.B. Messdaten) eingetragen werden.
-
-[Grafik]
-
-[Grafik]
 
 
 Periodizität
