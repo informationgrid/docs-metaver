@@ -1,22 +1,27 @@
 
-Erfassung von Adressen
-======================
+Erfassung von Adressdaten
+=========================
 
 Für eine effiziente Adressverwaltung empfiehlt es sich, hierarchische Strukturen aufzubauen, so dass erkennbar wird, in welche Fachbereiche eine Einrichtung untergliedert ist und wer die Ansprechpartner in den Fachbereichen sind. Für Personen, die keiner Institution zugeordnet werden können, besteht die Möglichkeit, diese im Adressen-Strukturbaum unterhalb des Bereiches „Freie Adressen“ anzulegen.
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_adressen/ige-adresstrukturbaum.png
+
+Abb.: Strukturbaum - Teilbaum Adressen
 
 Zum Anlegen einer neuen Adresse muss zunächst die Adresse ausgewählt werden, unter der die neue Adresse angelegt werden soll. Dafür die entsprechende Adresse im Strukturbaum anklicken und warten, bis die Initialisierung abgeschlossen ist.
 
-[Grafik]
-
 Sobald die Eingabemaske der Adresse im rechten Fenster (Inhaltsfenster) angezeigt wird, kann die neue Adresse, über das Symbol „Neu anlegen“ aus der Symbolleiste oder über das Kontextmenü (rechte Maustaste – „Neu anlegen“), erstellt werden.
 
-[Grafik] [Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_adressen/ige-kontextmenue_neu-anlegen.png
+
+Abb.: Kontextmenü - Neu anlegen
 
 Es besteht hierbei die Wahl zwischen folgenden Adresstypen:
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_adressen/ige-adresstrukturbaum.png
+
+Abb.: Dialogfenster - Adresse anlegen
+
 
 [Grafik] Institution (z. B. Behörde)
 [Grafik] Einheit (z. B. Referat, Dezernat, Fachbereich oder Abteilung)
