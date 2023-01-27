@@ -292,24 +292,30 @@ Hier können z.B. die Angaben der Periodizität eingeschränkt, weitere Zeitanga
 Zeitspanne
 ^^^^^^^^^^
 
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-zeitbezug_zeitspanne.png
+
+Abb.: Felder durch die Ressource abgedeckte Zeitspanne
+
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_auswahllisten/ige-auswahlliste_zeitbezug_zeitspanne_angaben.png
+
+Abb.: Auswahlliste
+
 Hier soll das Zeitspanne der Entstehung der eigentlichen Daten (z.B. Messdaten) eingetragen werden.
-
-[Grafik]
-
-[Grafik]
 
 
 Periodizität
 ^^^^^^^^^^^^
 
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_auswahllisten/ige-auswahlliste_zeitbezug_periodizitaet_angaben.png
+
+Abb.: Priodizität
+
+
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_auswahllisten/ige-auswahlliste_zeitbezug_periodizitaet.png
+
+Abb.: Auswahlliste
+
 Ist die Auswahl oder die Angabe des Zeitzyklus der Datenerhebung. Der Eintrag muss aus der Auswahlliste erfolgen, die über den Pfeil am Ende des Feldes geöffnet wird.
-
-**Hinweis:**
-*Der Eintrag „unbekannt“ sollte nicht mehr verwendet und falls noch in Altdaten vorhanden durch sinnvolle Einträge ersetzt werden. Er stellt eine nicht ISO-konforme Erweiterung der Auswahlliste dar.*
-
-[Grafik]
-
-[Grafik]
 
 
 Status
