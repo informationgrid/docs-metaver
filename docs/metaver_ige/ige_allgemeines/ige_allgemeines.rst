@@ -502,6 +502,7 @@ Einige Felder können nur über Dialoge gefüllt werden.
 Abb.: Beispiel Dialogfenster öffenen
 
 .. image:: ../../img_ige/metaver_ige/ige_feldarten/ige-dialogfenster.png
+  :width: 400
 
 Abb.: Beispiel Dialogfenster
 

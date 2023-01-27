@@ -497,7 +497,7 @@ Dialog
 Einige Felder können nur über Dialoge gefüllt werden.
 Öffnen Sie für die Datenerfassung das Dialogfenster.
 
-.. image:: ../../img_ige/metaver_ige/ige_feldarten/ige-dialog.png
+.. image:: ../../img_ige/metaver_ige/ige_feldarten/ige-dialog-oeffnen.png
 
 Abb.: Beispiel Dialogfenster öffenen
 
