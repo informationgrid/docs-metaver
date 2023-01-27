@@ -1,6 +1,6 @@
 
-Objektklassen erfassen
-======================
+Erfassung der Objektklassen
+===========================
 
 .. toctree::
    :maxdepth: 1
