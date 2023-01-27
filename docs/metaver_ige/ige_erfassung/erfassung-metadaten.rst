@@ -315,7 +315,7 @@ Abb.: Feld Priodizität
 
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_auswahllisten/ige-auswahlliste_zeitbezug_periodizitaet_angaben.png
-    :width: 250
+    :width: 300
 
 Abb.: Auswahlliste - Priodizität
 
@@ -331,7 +331,7 @@ Status
 Abb.: Feld Status
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_auswahllisten/ige-auswahlliste_zeitbezug_status_angaben.png
-    :width: 200
+    :width: 250
 
 Abb.: Auswahlliste - Status
 
