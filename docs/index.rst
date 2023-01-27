@@ -18,7 +18,7 @@ Version der Bedienungsanleitung
 
 .. toctree::
    :maxdepth: 2
-   :caption: Allgemeine Informationen
+   :caption: Erläuterungen
 
    metaver_portal/metaver_registrierung-anmeldung/metaver_registrierung-anmeldung.rst
    metaver_ige/ige_allgemeines/ige_allgemeines.rst
