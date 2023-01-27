@@ -511,7 +511,16 @@ Speichern
 
 In der Symbolleiste des InGrid Editors werden zwei Speicherarten unterschieden:
 
-[Grafik] Zwischenspeichern
+.. csv-table::
+    :header: "Icon", "Bedeutung"
+    :widths: 50 250
+
+    .. image:: ../../img_ige/metaver_ige/ige_symbolleiste/icons/zwischenspeichern.png, Zwischenspeichern
+    .. image:: ../../img_ige/metaver_ige/ige_symbolleiste/icons/speichern-und-veroeffentlichen.png, Abschließendes Speichern & Veröffentlichen
+
+
+
+[Grafik] 
 [Grafik] Abschließendes Speichern & Veröffentlichen
 
 
