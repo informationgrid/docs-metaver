@@ -18,10 +18,17 @@ Version der Bedienungsanleitung
 
 .. toctree::
    :maxdepth: 2
-   :caption: Erläuterungen
+   :caption: Anmeldung
 
    metaver_portal/metaver_registrierung-anmeldung/metaver_registrierung-anmeldung.rst
-   metaver_ige/ige_allgemeines/ige_allgemeines.rst
+
+
+.. toctree::
+   :maxdepth: 3
+   :caption: Die Software
+   
+   metaver_ige/ige_ingrideditor/ige_ingideditor.rst
+   metaver_ige/ige_ingrideditor/ige_funktionen.rst
 
 
 .. toctree::
@@ -35,11 +42,7 @@ Version der Bedienungsanleitung
    metaver_ige/ige_objektklassen/objektklassen.rst
 
    
-.. toctree::
-   :maxdepth: 3
-   :caption: Spezielle Funktionen
-   
-   metaver_ige/ige_funktionen/ige_funktionen.rst
+
    
    
 .. toctree::

@@ -27,7 +27,7 @@ Version der Bedienungsanleitung
    :maxdepth: 3
    :caption: Die Software
    
-   metaver_ige/ige_ingrideditor/ige_ingideditor.rst
+   metaver_ige/ige_ingrideditor/ige_ingrideditor.rst
    metaver_ige/ige_ingrideditor/ige_funktionen.rst
 
 
