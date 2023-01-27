@@ -534,9 +534,11 @@ Abb.: InGrid Editor Einstellungen
 
 Einstellungen in der Katalogverwaltung.
 
+
 Autosave
 ''''''''
 Die automatische Speicherung (Zwischenspeichern), ist in der Katalogverwaltung auf zwei Minuten eingestellt und kann nur durch den Katalogadministrator geändert werden.
+
 
 Session refresh
 '''''''''''''''

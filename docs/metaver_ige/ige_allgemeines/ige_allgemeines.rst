@@ -532,8 +532,6 @@ Automatische Speicherung / Session abgelaufen
 
 Abb.: InGrid Editor Einstellungen
 
-Einstellungen in der Katalogverwaltung.
-
 
 Autosave
 ''''''''
