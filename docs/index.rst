@@ -14,8 +14,6 @@ Version der Bedienungsanleitung
    
 .. image:: img_ige/metaver_portal/ige_dashboard.png
 
-
-
 .. toctree::
    :maxdepth: 2
    :caption: Anmeldung
@@ -40,10 +38,7 @@ Version der Bedienungsanleitung
    metaver_ige/ige_erfassung/erfassung-metadaten.rst
    metaver_ige/ige_objektklassen/objektklassen.rst
 
-   
 
-   
-   
 .. toctree::
    :maxdepth: 3
    :caption: Fragen und Antworten

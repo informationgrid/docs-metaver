@@ -1,5 +1,0 @@
-
-IGE Benutzerverwaltung
-======================
-
-
