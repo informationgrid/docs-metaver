@@ -307,14 +307,15 @@ Hier soll das Zeitspanne der Entstehung der eigentlichen Daten (z.B. Messdaten) 
 Periodizität
 ^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-auswahlliste_zeitbezug_periodizitaet_angaben.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-zeitbezug_periodizitaet.png
 
 Abb.: Feld Priodizität
 
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_auswahllisten/ige-auswahlliste_zeitbezug_periodizitaet.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_auswahllisten/ige-auswahlliste_zeitbezug_periodizitaet_angaben.png
 
 Abb.: Auswahlliste - Priodizität
+
 
 Ist die Auswahl oder die Angabe des Zeitzyklus der Datenerhebung. Der Eintrag muss aus der Auswahlliste erfolgen, die über den Pfeil am Ende des Feldes geöffnet wird.
 
@@ -337,7 +338,7 @@ Der Status beschreibt den Bearbeitungsstand eines Projektes oder einer der Messu
 Im Intervall
 ^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_auswahllisten/ige-zeitbezug_intervall.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-zeitbezug_intervall.png
 
 Abb.: Feld Im Intervall
 
