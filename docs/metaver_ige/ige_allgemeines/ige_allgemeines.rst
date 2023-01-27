@@ -435,7 +435,7 @@ Im InGrid Editor gibt es eine Vielzahl von Feldern, die ausgefüllt werden könn
     :header: "Feldbezeichnung", "Hervorhebung"
     :widths: 50 100
 
-    .. image:: ../../img_ige/metaver_ige/ige_feldarten/ige-pflichtfeld.png, Pflichtfeld (fett mit Stern)
+    .. image:: ../../img_ige/metaver_ige/ige_feldarten/ige-pflichtfeld.png, Pflichtfeld (fett mit *)
     .. image:: ../../img_ige/metaver_ige/ige_feldarten/ige-optionales-feld.png, optionales Feld (normal)
 
 Pflichtfelder sind Felder, die unter anderem INSPIRE-Forderungen entsprechend der Metadatenverordnung bedienen oder die die ISO umsetzen. Optionale Felder können darüber hinaus mit weiteren Angaben zur detaillierten Beschreibung des Metadatensatzes ausgefüllt werden.
