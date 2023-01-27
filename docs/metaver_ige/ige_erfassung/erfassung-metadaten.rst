@@ -71,6 +71,11 @@ Abschnitt Kopf der Erfassungsmaske
 
 Nach dem Anlegen eines neuen Objektes stehen die Eingabefelder für das neue Objekt im rechten Inhaltsfenster zur Verfügung. Im ersten Schritt sollten die Basisinformationen in der Erfassungsmaske (Screenshot) bearbeitet werden.
 
+Hier wird automatisiert der Erfasser eingetragen, der das Objekt angelegt hat. An dieser Stelle sollte jedoch die Person stehen, die für die Aktualisierung zuständig ist. In der Regel ist der Erfasser auch die fachlich Verantwortliche Person (Standardeinstellung).
+
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-objekt_kopf.png
+
+Abb.: Kopf der Erfassungsmaske
 
 Objektname
 ^^^^^^^^^^
@@ -91,10 +96,6 @@ Verantwortlicher
 ^^^^^^^^^^^^^^^^
 
 Hier wird automatisiert der Erfasser eingetragen, der das Objekt angelegt hat. An dieser Stelle sollte jedoch die Person stehen, die für die Aktualisierung zuständig ist. In der Regel ist der Erfasser auch die fachlich Verantwortliche Person (Standardeinstellung).
-
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-objekt_kopf.png
-
-Abb.: Kopf der Erfassungsmaske
 
 Nach der Eingabe der Basisinformationen im Kopfbereich bietet es sich an, den Metadatensatz schon einmal zu speichern. Grundsätzlich empfiehlt es sich, beim Ausfüllen der Felder von Zeit zu Zeit die eingegebenen Daten zu sichern, um beispielsweise bei einer abgelaufenen Session, die eingegebenen Daten nicht zu verlieren. Das Zwischenspeichern ist jederzeit möglich, auch wenn noch nicht alle Pflichtfelder ausgefüllt sind.
 
@@ -118,25 +119,29 @@ Im Bereich „Allgemeines“ erfolgt der Eintrag von allgemeinen Informationen z
 Beschreibung
 ^^^^^^^^^^^^
 
-In dieses Feld wird eine fachliche Inhaltsangabe eingetragen. Auf Verständlichkeit für fachfremde Dritte ist zu achten.
-
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-objekt_beschreibung.png
 
 Abb.: Eingabefeld für die Beschreibung
+
+In dieses Feld wird eine fachliche Inhaltsangabe eingetragen. Auf Verständlichkeit für fachfremde Dritte ist zu achten.
 
 
 Adresse mit Objekt verknüpfen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Über den Link „Adresse hinzufügen“ wird die Adressverknüpfung angelegt. Als Auswahlmöglichkeit stehen alle im Adressstrukturbaum des Metadatenkataloges eingetragenen Adressdaten zur Verfügung.
-
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-objekt_verknuepfung-adresse.png
 
 Abb.: Verknüpfung mit den Adressen
 
+Über den Link „Adresse hinzufügen“ wird die Adressverknüpfung angelegt. Als Auswahlmöglichkeit stehen alle im Adressstrukturbaum des Metadatenkataloges eingetragenen Adressdaten zur Verfügung.
+
 
 Open Data Checkbox
 ^^^^^^^^^^^^^^^^^^
+
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-objekt_open-data-checkbox.png
+
+Abb.: Open Data Checkbox
 
 Diese Checkbox kennzeichnet den Metadatensatz als „Open Data“.
 Es sind dann zusätzlich folgende Angaben verpflichtend einzugeben:
@@ -144,9 +149,6 @@ Es sind dann zusätzlich folgende Angaben verpflichtend einzugeben:
   - Im Abschnitt „Verweise“ muss in die Tabelle „Verweise zu“ mindestens ein Verweis vom Typ „Datendownload“ eingetragen werden.
   - Im Abschnitt „Verfügbarkeit“, in der Tabelle „Nutzungsbedingung“ muss mindestens ein Eintrag zur anzugebenden Lizenz erfolgen.
   
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-objekt_open-data-checkbox.png
-
-Abb.: Open Data Checkbox
 
 **Hinweis:**
 *In Sachsen-Anhalt gibt es derzeit für Open Data keine gesetzlichen Grundlagen.*
@@ -155,11 +157,11 @@ Abb.: Open Data Checkbox
 Kategorien
 ^^^^^^^^^^
 
-Die Tabelle „Kategorien“ enthält eine Auswahlliste, die das Open-Data-Objekt näher bestimmen.
-
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-objekt_tabelle-kategorien.png
 
 Abb.: Tabelle Open Data Kategorien
+
+Die Tabelle „Kategorien“ enthält eine Auswahlliste, die das Open-Data-Objekt näher bestimmen.
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_auswahllisten/ige-auswahlliste_open-data-kategorien.png
 
@@ -169,50 +171,66 @@ Abb.: Open Data Kategorien
 Abschnitt Verschlagwortung
 --------------------------
 
-Freie Schlagworte eintragen
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitte/ige-abschnitt_verschlagwortung.png
 
-In dieses Feld werden die Schlagworte eingetragen, über die das Objekt bei einer Suche möglichst schnell gefunden werden soll. Hier sollen prägnante Begriffe verwendet werden. Dies können spezielle Fachgebiete, Mess-Methoden, Bestandteile o.ä. sein. Die Freien Suchbegriffe sind ergänzend zu den Thesaurus-Suchbegriffen anzugeben. Wenn Sie hier einen Begriff eingeben, der im Umwelt-Thesaurus des Umweltbundesamtes enthalten ist, dann wird dieser automatisch als „UMTHES“ gekennzeichnet.
 
-[Grafik]
+Freie Schlagworte erfassen
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-verschlagwortung_freie-schlagworte.png
+
+Abb.: Freie Schlagworte erfassen
+
+In dieses Feld werden die Schlagworte eingetragen, über die das Objekt bei einer Suche möglichst schnell gefunden werden soll. Hier sollen prägnante Begriffe verwendet werden. Dies können spezielle Fachgebiete, Mess-Methoden, Bestandteile o.ä. sein. Die Freien Suchbegriffe sind ergänzend zu den Thesaurus-Suchbegriffen anzugeben. Wenn Sie hier einen Begriff eingeben, der im Umwelt-Thesaurus des Umweltbundesamtes enthalten ist, dann wird dieser automatisch als "UMTHES" gekennzeichnet.
 
 
 Optionale Schlagworte
 ^^^^^^^^^^^^^^^^^^^^^
 
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-verschlagwortung_optionale-schlagworte.png
+
+Abb.: Optionale Schlagworte erfassen
+
 Die Verschlagwortung über den Thesaurus-Navigator dient dem themenbezogenen Wiederauffinden der Objekte. Dazu müssen Schlagworte aus dem Thesaurus ausgewählt werden, die das Objekt so genau wie möglich, aber auch so allgemein wie nötig beschreiben. So sollte mindestens ein Schlagwort in der Thesaurus-Hierarchie einen relativ allgemeinen Aspekt des Objektes beschreiben und mindestens ein Schlagwort das Objekt so speziell wie möglich beschreiben.
 
-
-Beispiel: Naturschutz, Schmetterling, Kartierung, Artenschutz
+**Beispiel:** *Naturschutz, Schmetterling, Kartierung, Artenschutz*
 
 
 Die Auswahl kann über den „Verschlagwortungsassistenten“ als auch über den „Thesaurus-Navigator“ erfolgen (Links über der Tabelle).
 
-[Grafik]
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-verschlagwortung_verschlagwortungsassistent.png
+
+Abb.: Verschlagwortungsassistent
+
+
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-verschlagwortung_thesaurus-navigator.png
+
+Abb.: Thesaurus-Navigator
 
 
 Abschnitt Fachbezug
 -------------------
 
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitte/ige-abschnitt_fachbezug.png
+
 Der Abschnitt Fachbezug richtet sich nach der gewählten Objektklasse, diese sind unter dem Punkt "Objektlassen" beschrieben.
 
 **Beschreibungen der Fachbezüge zu den Objektklassen**
 
- -  Geodatensatz - Beschreibung von GIS-Daten, analoge Karten oder Kartenwerke.
- -  Geodatendienst - Dienste die raumbezogenen Daten zur Verfügung stellen, insbesondere Dienste im Rahmen von INSPIRE, der GDI-DE oder der GDIs der Länder.
- -  Anwendung - zentrale Auskunftssysteme, welche in der Regel auf eine oder mehrere Datenbanken zugreifen und diese zugänglich machen.
- -  Datenbank - Analoge oder digitale Sammlung von Daten. Beispiele: Messdaten, statistische Erhebungen, Modelldaten, Daten zu Anlagen.
- -  Dokument - Broschüren, Bücher, Aufsätze, Gutachten, etc. Von Interesse sind insbesondere Dokumente, welche nicht über den Buchhandel oder über Bibliotheken erhältlich sind ('graue Literatur').
- -  Projekt - Forschungs- und Entwicklungsvorhaben, Projekte unter Beteiligung anderer Institutionen oder privater Unternehmen, Schutzprogramme, von besonderem Interesse sind Vorhaben/Projekte/Programme, in denen umweltrelevante Datenbestände entstehen.
- -  Eine Ausnahme bildet die Objektlasse Organisationseinheit, in dieser befindet sich keinen Abschnitt Fachbezug.
+ -  **Geodatensatz** - Beschreibung von GIS-Daten, analoge Karten oder Kartenwerke.
+ -  **Geodatendienst** - Dienste die raumbezogenen Daten zur Verfügung stellen, insbesondere Dienste im Rahmen von INSPIRE, der GDI-DE oder der GDIs der Länder.
+ -  **Anwendung** - zentrale Auskunftssysteme, welche in der Regel auf eine oder mehrere Datenbanken zugreifen und diese zugänglich machen.
+ -  **Datenbank** - Analoge oder digitale Sammlung von Daten. Beispiele: Messdaten, statistische Erhebungen, Modelldaten, Daten zu Anlagen.
+ -  **Dokument** - Broschüren, Bücher, Aufsätze, Gutachten, etc. Von Interesse sind insbesondere Dokumente, welche nicht über den Buchhandel oder über Bibliotheken erhältlich sind ('graue Literatur').
+ -  **Projekt** - Forschungs- und Entwicklungsvorhaben, Projekte unter Beteiligung anderer Institutionen oder privater Unternehmen, Schutzprogramme, von besonderem Interesse sind Vorhaben/Projekte/Programme, in denen umweltrelevante Datenbestände entstehen.
+ -  **Organisationseinheit** - Diese Objektklasse bildet eine Ausnahme, in dieser befindet sich keinen Abschnitt Fachbezug.
  
  
-Abschnitt Raumbezugsystem
+Abschnitt Raumbezugssystem
 -------------------------
+
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitte/ige-abschnitt_raumbezugssystem.png
 
 Im Abschnitt Raumbezugsystem werden Informationen über die räumliche Zuordnung des beschriebenen Datenbestands erfasst.
 
@@ -222,16 +240,22 @@ Geothesaurus-Raumbezug
 
 Geothesaurus oder auch Gazetteer (Ortsverzeichnis), hier soll ein Ort oder eine Region mit Koordinaten angegeben werden.
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-verschlagwortung_thesaurus-navigator.png
+
+Abb.: Tabelle Geothesaurus-Raumbezug
 
 
 Geothesaurus-Navigator
 ^^^^^^^^^^^^^^^^^^^^^^
 Über den Geothesaurus-Navigator kann nach den Koordinaten einer räumlichen Einheit gesucht werden.
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-raumbezug_geothesaurus-raumbezug.png
 
-[Grafik]
+Abb.: Geothesaurus-Navigator
+
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-raumbezug_geothesaurus-raumbezug_koordinaten.png
+
+Abb.: Tabelle Geothesaurus-Raumbezug mit Eintrag Landkreis Harz
 
 
 Abschnitt Zeitbezug
@@ -242,6 +266,8 @@ Unter Zeitbezug werden Datumsangaben, Zeiträume, Zeitspannen, Perioden oder Int
 
 Zeitbezug der Ressource
 ^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitte/ige-abschnitt_zeitbezug.png
 
 In dieser Tabelle wird dokumentiert, wann die beschrieben Daten erfasst, veröffentlicht oder geändert wurden.
 
