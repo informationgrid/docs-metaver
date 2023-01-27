@@ -22,10 +22,14 @@ Es besteht hierbei die Wahl zwischen folgenden Adresstypen:
 
 Abb.: Dialogfenster - Adresse anlegen
 
+.. csv-table::
+    :header: "Symbol", "Adresstypen"
+    :widths: 30 400
 
-[Grafik] Institution (z. B. Behörde)
-[Grafik] Einheit (z. B. Referat, Dezernat, Fachbereich oder Abteilung)
-[Grafik] Person
+    .. image:: .. image:: ../../img_ige/metaver_ige/ige_icons/adressen/ige/institution.png, Institution (z. B. Behörde)
+	.. image:: .. image:: ../../img_ige/metaver_ige/ige_icons/adressen/ige/einheit.png, Einheit (z. B. Referat, Dezernat, Fachbereich oder Abteilung)
+	.. image:: .. image:: ../../img_ige/metaver_ige/ige_icons/adressen/ige/person.png, Person
+
 
 Nach Auswahl des Adresstyps erscheint die neue Adresse rechts im Inhaltsfenster. Hier sehen Sie alle verfügbaren Felder und Informationen zur ausgewählten Adresse. Diese Felder sind je nach Adresstyp unterschiedlich.
 Standardmäßig werden zunächst nur die Pflichtfelder angezeigt. Neben den verpflichtenden Angaben können weitere Adressangaben (Anschrift, Aufgabenbereiche, usw.) zur Kontaktstelle sowie Schlagworte gespeichert werden. Sie öffnen diese optionalen Felder durch einen Klick auf das Symbol „Alle Felder aufklappen“ auf der rechten Seite in der Symbolleiste oder über das Symbol vor der Überschrift eines Themenabschnittes (dunkelblaue Balken).
@@ -34,7 +38,7 @@ Standardmäßig werden zunächst nur die Pflichtfelder angezeigt. Neben den verp
 
 *Obwohl die Adresse neu ist und gerade erst angelegt wurde, sind bestimmte Felder bereits befüllt. Diese Angaben stammen von der übergeordneten Adresse und sind als Vorschläge/Eingabehilfe zu verstehen und müssen unbedingt auf ihre Richtigkeit überprüft werden. Bitte klappen Sie daher immer alle Felder aus, um die automatisch eingefügten Daten kontrollieren zu können.*
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_adressen/ige-adresse-anlegen_automatische-befuellung.png
 
 Abb.: In dieser Abbildung sind die automatisch befüllten Felder rot umrandet.
 
@@ -57,7 +61,9 @@ Veröffentlichung (Status)
 Von besonderer Bedeutung ist das Feld „Veröffentlichung“. Wie bei Objekten kann auch bei Adressen eine Veröffentlichungsbreite eingestellt werden. Im Auswahlmenü „Veröffentlichung“ sind die Werte „amtsintern“, „Intranet“ und „Internet“ verfügbar. Nur Adressen mit der Veröffentlichungsbreite „Internet“ sind auch im MetaVer veröffentlicht.
 Dabei ist zu beachten, dass eine Adresse mindestens eine gleichwertige Veröffentlichungsbreite haben muss wie ein Objekt, dem sie zugeordnet ist. Beispielsweise kann die Adresse die Veröffentlichungsbreite „Internet“ und das Objekt die Veröffentlichungsbreite „Intranet“ haben, nicht aber umgekehrt. Wenn aufgrund unterschiedlicher Veröffentlichungsbreite bei Objekt und Adresse Probleme auftreten, so wird der Nutzer darauf hingewiesen. Konflikte müssen vom Nutzer vor der Veröffentlichung der Adresse durch Anpassung der Veröffentlichungsbreite aufgelöst werden.
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_adressen/ige-pflichtfelder-ausfuellen.png
+
+Abb.: Hinweis vor der Veröffentlichung alle Pflichtfelder ausfüllen
 
 **Hinweis:**
 

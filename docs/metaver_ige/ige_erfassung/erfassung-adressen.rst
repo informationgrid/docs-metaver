@@ -38,7 +38,7 @@ Standardmäßig werden zunächst nur die Pflichtfelder angezeigt. Neben den verp
 
 *Obwohl die Adresse neu ist und gerade erst angelegt wurde, sind bestimmte Felder bereits befüllt. Diese Angaben stammen von der übergeordneten Adresse und sind als Vorschläge/Eingabehilfe zu verstehen und müssen unbedingt auf ihre Richtigkeit überprüft werden. Bitte klappen Sie daher immer alle Felder aus, um die automatisch eingefügten Daten kontrollieren zu können.*
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_adressen/ige-adresse-anlegen_automatische-befuellung.png
 
 Abb.: In dieser Abbildung sind die automatisch befüllten Felder rot umrandet.
 
@@ -61,7 +61,9 @@ Veröffentlichung (Status)
 Von besonderer Bedeutung ist das Feld „Veröffentlichung“. Wie bei Objekten kann auch bei Adressen eine Veröffentlichungsbreite eingestellt werden. Im Auswahlmenü „Veröffentlichung“ sind die Werte „amtsintern“, „Intranet“ und „Internet“ verfügbar. Nur Adressen mit der Veröffentlichungsbreite „Internet“ sind auch im MetaVer veröffentlicht.
 Dabei ist zu beachten, dass eine Adresse mindestens eine gleichwertige Veröffentlichungsbreite haben muss wie ein Objekt, dem sie zugeordnet ist. Beispielsweise kann die Adresse die Veröffentlichungsbreite „Internet“ und das Objekt die Veröffentlichungsbreite „Intranet“ haben, nicht aber umgekehrt. Wenn aufgrund unterschiedlicher Veröffentlichungsbreite bei Objekt und Adresse Probleme auftreten, so wird der Nutzer darauf hingewiesen. Konflikte müssen vom Nutzer vor der Veröffentlichung der Adresse durch Anpassung der Veröffentlichungsbreite aufgelöst werden.
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_adressen/ige-pflichtfelder-ausfuellen.png
+
+Abb.: Hinweis vor der Veröffentlichung alle Pflichtfelder ausfüllen
 
 **Hinweis:**
 
@@ -73,7 +75,9 @@ Daten nicht anzeigen
 
 Wird die Option „Daten nicht anzeigen“ ausgewählt, so wird bei der Darstellung im Portal (auch im CSW und in OpenSearch) bei allen Metadatensätzen, denen diese Adresse zugeordnet ist, stattdessen die Adresse der übergeordneten Institution verwendet.
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_adressen/ige-adressen_daten-nicht-anzeigen.png
+
+Abb.: Option - (persönliche) Daten nicht anzeigen
 
 
 Zugeordnete Objekte
@@ -81,7 +85,9 @@ Zugeordnete Objekte
 
 Unter dem Abschnitt „Zugeordnete Objekte“ können keine Einträge per Hand vorgenommen werden. Hier sind alle Metadatenobjekte sichtbar, die mit dem Fachbereich bzw. der Person verknüpft sind. Beim Neuanlegen einer Adresse ist dieser Bereich noch leer. Wird jedoch in einem Objekt die Adresse als Kontaktadresse (Ansprechpartner, Hersteller, usw.) angegeben, so erscheint dieses Objekt automatisch in der Tabelle unter dem Abschnitt „Zugeordnete Objekte“.
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_adressen/ige-adressen_zugeordnete-objekte.png
+
+Abb.: Verknüpfungen - Zugeordnete Objekte
 
 **Hinweise:**
 *Eine Adresse kann immer nur dann gelöscht werden, wenn dieser Adresse keine Objekte mehr zugeordnet sind, d.h. die oben abgebildete Liste der zugeordneten Objekte muss leer sein.*
