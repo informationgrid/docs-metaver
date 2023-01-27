@@ -532,14 +532,12 @@ Automatische Speicherung / Session abgelaufen
 
 Abb.: InGrid Editor Einstellungen
 
-Einstellungen in der Katalogverwaltung.
-
 
 Autosave
 ''''''''
-Die automatische Speicherung (Zwischenspeichern), ist in der Katalogverwaltung auf zwei Minuten eingestellt und kann nur durch den Katalogadministrator geändert werden.
+Das Intervall der automatischen Speicherung (Zwischenspeichern) kann nur durch den Katalogadministrator geändert werden.
 
 
 Session refresh
 '''''''''''''''
-Wenn eine längere Zeit keine Interaktion mit dem Editor stattfindet, läuft die Session (Sitzung) ab, man wird aus dem InGrid Editor abgemeldet und muss sich am Editor neu anmelden. Die Session refresh – Funktion sorgt dafür, dass nach einer längeren Pause im Editor weitergearbeitet werden kann, ohne sich erneut anmelden zu müssen. Dieses Intervall kann nur durch den Katalogadministrator geändert werden.
+Wenn eine längere Zeit keine Interaktion mit dem Editor stattfindet, wird man aus dem InGrid Editor und dem Portal abgemeldet und muss sich im Portal und im Editor neu anmelden. Die Session refresh – Funktion sorgt dafür, dass nach einer längeren Pause im Editor weitergearbeitet werden kann, ohne sich erneut anmelden zu müssen. Dieses Intervall kann nur durch den Katalogadministrator geändert werden.
