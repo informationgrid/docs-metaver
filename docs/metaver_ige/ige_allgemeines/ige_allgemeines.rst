@@ -538,6 +538,6 @@ Automatische Speicherung des Editors (Autosave)
 Das Intervall der automatischen Speicherung (Zwischenspeichern) kann nur durch den Katalogadministrator geändert werden.
 
 
-Sitzung abgelaufen - Session refresh
+Sitzung abgelaufen (Timeout-Funktion) - Session refresh
 ''''''''''''''''''''''''''''''''''''
 Wenn eine längere Zeit keine Interaktion mit dem Editor stattfindet startet im Hintergrund ein Countdown für die Timeout-Funktion. Am Ende des Countdowns wird man aus dem InGrid Editor und dem Portal abgemeldet. Nach dem Abmelden muss man sich erneut im Portal und im Editor anmelden. Die Session refresh – Funktion sorgt dafür, dass nach einer längeren Pause im Editor weitergearbeitet werden kann, ohne sich erneut anmelden zu müssen. Das Intervall für Session refresh kann nur durch den Katalogadministrator für den gesamten Katalog geändert werden.
