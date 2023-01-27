@@ -322,11 +322,11 @@ Ist die Auswahl oder die Angabe des Zeitzyklus der Datenerhebung. Der Eintrag mu
 Status
 ^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-auswahlliste_zeitbezug_periodizitaet_angaben.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-zeitbezug_status.png
 
 Abb.: Feld Status
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_auswahllisten/ige-auswahlliste_zeitbezug_periodizitaet_angaben.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_auswahllisten/ige-auswahlliste_zeitbezug_status_angaben.png
 
 Abb.: Auswahlliste - Status
 
@@ -342,20 +342,18 @@ Im Intervall
 Abb.: Feld Im Intervall
 
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_auswahllisten/ige-auswahlliste_zeitbezug_periodizitaet_angaben.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_auswahllisten/ige-auswahlliste_zeitbezug_intervall_angaben.png
 
 Abb.: Auswahlliste Intervalle
 
 
 Mit Intervall wird der zeitliche Abstand (Frequenz) der Datenerhebung angegeben. Erfolgt die Datenerhebung kontinuierlich oder periodisch (siehe Feld Periodizität), so wird diese Angabe hier präzisiert. Es stehen Felder für den freien Eintrag einer Ziffer und eine Auswahlliste zur Verfügung, die zeitliche Intervalle vorgibt. Der Eintrag von „10“ und „Tage“ bedeutet, dass die beschriebenen Daten alle 10 Tage aktualisiert werden.
 
-[Grafik]
-
-[Grafik]
-
 
 Abschnitt Zusatzinformation
 ---------------------------
+
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitte/ige-abschnitt_zusatzinformation.png
 
 Der Abschnitt Zusatzinformation enthält Angaben von allgemeinen Informationen wie Sprache und Veröffentlichungsbreite des Metadatensatzes.
 
