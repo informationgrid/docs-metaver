@@ -411,6 +411,15 @@ Abb.: Optionale Felder ausklappen
 
 Zum Ausblenden aller optionalen Felder das Symbol erneut anklicken.
 
+
+.. csv-table::
+    :header: "Icon", "Bedeutung"
+    :widths: 50 100
+
+    .. image:: ../../img_ige/metaver_ige/ige_icons/pflichtfelder/ige-symbol_aufklappen_3.png, Alle Felder aufklappen
+    .. image:: ../../img_ige/metaver_ige/ige_icons/pflichtfelder/ige-symbol_zuklappen.png, Nur Pflichtfelder aufklappen
+
+
 .. image:: ../../img_ige/metaver_ige/ige_icons/pflichtfelder/ige-symbol_aufklappen_3.png
 
 Abb.: Alle Felder aufklappen
@@ -418,6 +427,9 @@ Abb.: Alle Felder aufklappen
 .. image:: ../../img_ige/metaver_ige/ige_icons/pflichtfelder/ige-symbol_zuklappen.png
 
 Abb.: Nur Pflichtfelder aufklappen
+
+
+
 
 Des weiteren besteht die Möglichkeit, nur für eine Rubrik die optionalen Felder auf- bzw. zuzuklappen. Hierfür einfach auf das entsprechende Symbol vor dem Rubriknamen klicken.
 
@@ -430,6 +442,14 @@ Pflichtfelder
 -------------
 
 Im InGrid Editor gibt es eine Vielzahl von Feldern, die ausgefüllt werden können, es müssen jedoch nicht immer alle Felder belegt werden. Für jedes Objekt bzw. jede Adresse gibt es sogenannte Pflichtfelder, die auf jeden Fall ausgefüllt werden müssen. Ohne die Befüllung dieser Pflichtfelder ist das Abschließende Speichern und Veröffentlichen nicht möglich, da eine Validierung erfolgt, welche Pflichtfelder noch nicht und/bzw. ggf. fehlerhaft befüllt sind. Zwischenspeichern ist möglich. Gekennzeichnet sind diese Pflichtfelder durch fett gedruckte Überschriften sowie durch ein Sternchen.
+
+.. csv-table::
+    :header: "Icon", "Bedeutung"
+    :widths: 50 100
+
+    .. image:: ../../img_ige/metaver_ige/ige_feldarten/ige-pflichtfeld.png, Alle Felder aufklappen
+    .. image:: ../../img_ige/metaver_ige/ige_feldarten/ige-optionales-feld.png, optionales Feld
+
 
 .. image:: ../../img_ige/metaver_ige/ige_feldarten/ige-pflichtfeld.png
 
@@ -491,7 +511,16 @@ Speichern
 
 In der Symbolleiste des InGrid Editors werden zwei Speicherarten unterschieden:
 
-[Grafik] Zwischenspeichern
+.. csv-table::
+    :header: "Icon", "Bedeutung"
+    :widths: 50 250
+
+    .. image:: ../../img_ige/metaver_ige/ige_symbolleiste/icons/zwischenspeichern.png, Zwischenspeichern
+    .. image:: ../../img_ige/metaver_ige/ige_symbolleiste/icons/speichern-und-veroeffentlichen.png, Abschließendes Speichern & Veröffentlichen
+
+
+
+[Grafik] 
 [Grafik] Abschließendes Speichern & Veröffentlichen
 
 
