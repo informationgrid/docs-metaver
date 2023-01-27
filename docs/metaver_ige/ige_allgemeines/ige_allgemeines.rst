@@ -1,6 +1,6 @@
 
-Allgemeines zum InGrid Editor
-=============================
+Der InGrid Editor
+=================
 
 Aufbau der Benutzeroberfläche
 -----------------------------
