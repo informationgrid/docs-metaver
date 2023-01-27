@@ -405,23 +405,23 @@ Auf- und Zuklappen der optionalen Felder
 
 In der Grundeinstellung des InGrid Editors werden, in den Eingabemasken der Adressen und in den Eingabemasken der Objekte, Pflichtfelder und optionale Felder angezeigt. Durch einen Klick auf das Symbol fast ganz rechts in der Symbolleiste, werden weitere optionale Felder sichtbar.
 
-.. image:: ../../img_ige/metaver_ige/ige_icons/ige-symbol_aufklappen_1.png
+.. image:: ../../img_ige/metaver_ige/ige_icons/pflichtfelder/ige-symbol_aufklappen_1.png
 
 Abb.: Optionale Felder ausklappen
 
 Zum Ausblenden aller optionalen Felder das Symbol erneut anklicken.
 
-.. image:: ../../img_ige/metaver_ige/ige_icons/ige-symbol_aufklappen_3.png
+.. image:: ../../img_ige/metaver_ige/ige_icons/pflichtfelder/ige-symbol_aufklappen_3.png
 
 Abb.: Alle Felder aufklappen
 
-.. image:: ../../img_ige/metaver_ige/ige_icons/ige-symbol_zuklappen.png
+.. image:: ../../img_ige/metaver_ige/ige_icons/pflichtfelder/ige-symbol_zuklappen.png
 
 Abb.: Nur Pflichtfelder aufklappen
 
 Des weiteren besteht die Möglichkeit, nur für eine Rubrik die optionalen Felder auf- bzw. zuzuklappen. Hierfür einfach auf das entsprechende Symbol vor dem Rubriknamen klicken.
 
-.. image:: ../../img_ige/metaver_ige/ige_icons/ige-symbol_aufklappen_2.png
+.. image:: ../../img_ige/metaver_ige/ige_icons/pflichtfelder/ige-symbol_aufklappen_2.png
 
 Abb.: In einer Rubrik optionale Felder aufklappen
 
@@ -431,8 +431,13 @@ Pflichtfelder
 
 Im InGrid Editor gibt es eine Vielzahl von Feldern, die ausgefüllt werden können, es müssen jedoch nicht immer alle Felder belegt werden. Für jedes Objekt bzw. jede Adresse gibt es sogenannte Pflichtfelder, die auf jeden Fall ausgefüllt werden müssen. Ohne die Befüllung dieser Pflichtfelder ist das Abschließende Speichern und Veröffentlichen nicht möglich, da eine Validierung erfolgt, welche Pflichtfelder noch nicht und/bzw. ggf. fehlerhaft befüllt sind. Zwischenspeichern ist möglich. Gekennzeichnet sind diese Pflichtfelder durch fett gedruckte Überschriften sowie durch ein Sternchen.
 
-[Grafik] Pflichtfeld
-[Grafik] Optionales Feld
+.. image:: ../../img_ige/metaver_ige/ige_icons/pflichtfelder/ige-symbol_aufklappen_2.png
+
+Abb.: Pflichtfeld
+
+.. image:: ../../img_ige/metaver_ige/ige_icons/pflichtfelder/ige-symbol_aufklappen_2.png
+
+Abb.: optionales Feld
 
 Pflichtfelder sind Felder, die unter anderem INSPIRE-Forderungen entsprechend der Metadatenverordnung bedienen oder die die ISO umsetzen. Optionale Felder können darüber hinaus mit weiteren Angaben zur detaillierten Beschreibung des Metadatensatzes ausgefüllt werden.
 
