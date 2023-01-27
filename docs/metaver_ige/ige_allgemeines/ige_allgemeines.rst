@@ -405,16 +405,25 @@ Auf- und Zuklappen der optionalen Felder
 
 In der Grundeinstellung des InGrid Editors werden, in den Eingabemasken der Adressen und in den Eingabemasken der Objekte, Pflichtfelder und optionale Felder angezeigt. Durch einen Klick auf das Symbol fast ganz rechts in der Symbolleiste, werden weitere optionale Felder sichtbar.
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_icons/ige-symbol_aufklappen_1.png
+
+Abb.: Optionale Felder ausklappen
 
 Zum Ausblenden aller optionalen Felder das Symbol erneut anklicken.
 
-[Grafik] Alle Felder aufklappen
-[Grafik] nur Pflichtfelder aufklappen
+.. image:: ../../img_ige/metaver_ige/ige_icons/ige-symbol_aufklappen_3.png
 
-Desweitern gibt es die Möglichkeit, nur für eine Rubrik die optionalen Felder auf- bzw. zuzuklappen. Hierfür einfach auf das entsprechende Symbol vor dem Rubriknamen klicken.
+Abb.: Alle Felder aufklappen
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_icons/ige-symbol_zuklappen.png
+
+Abb.: Nur Pflichtfelder aufklappen
+
+Des weiteren besteht die Möglichkeit, nur für eine Rubrik die optionalen Felder auf- bzw. zuzuklappen. Hierfür einfach auf das entsprechende Symbol vor dem Rubriknamen klicken.
+
+.. image:: ../../img_ige/metaver_ige/ige_icons/ige-symbol_aufklappen_2.png
+
+Abb.: In einer Rubrik optionale Felder aufklappen
 
 
 Pflichtfelder
