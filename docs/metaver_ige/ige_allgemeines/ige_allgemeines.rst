@@ -525,7 +525,7 @@ Abb.: Rot gekennzeichnete Eingabefelder
 Über die Schaltfläche „Zeige nächsten Fehler“, kann die Erfassungsmaske nach fehlenden Einträgen durchsucht werden.
 
 
-Automatische Speicherung / Session abgelaufen
+Automatische Speicherung / Sitzung abgelaufen
 '''''''''''''''''''''''''''''''''''''''''''''
 
 .. image:: ../../img_ige/metaver_ige/ige_administration/einstellungen/ige-automatische-speicherung.png
@@ -533,11 +533,11 @@ Automatische Speicherung / Session abgelaufen
 Abb.: InGrid Editor Einstellungen
 
 
-Autosave
-''''''''
+Automatische Speicherung des Editors (Autosave)
+'''''''''''''''''''''''''''''''''''''''''''''''
 Das Intervall der automatischen Speicherung (Zwischenspeichern) kann nur durch den Katalogadministrator geändert werden.
 
 
-Session refresh
-'''''''''''''''
-Wenn eine längere Zeit keine Interaktion mit dem Editor stattfindet, wird man aus dem InGrid Editor und dem Portal abgemeldet und muss sich im Portal und im Editor neu anmelden. Die Session refresh – Funktion sorgt dafür, dass nach einer längeren Pause im Editor weitergearbeitet werden kann, ohne sich erneut anmelden zu müssen. Das Intervall für Session refresh kann nur durch den Katalogadministrator geändert werden.
+Sitzung abgelaufen - Session refresh
+''''''''''''''''''''''''''''''''''''
+Wenn eine längere Zeit keine Interaktion mit dem Editor stattfindet startet im Hintergrund ein Countdown und man wird am Ende aus dem InGrid Editor und dem Portal abgemeldet. Nach dem Abmelden muss man sich erneut im Portal und im Editor anmelden. Die Session refresh – Funktion sorgt dafür, dass nach einer längeren Pause im Editor weitergearbeitet werden kann, ohne sich erneut anmelden zu müssen. Das Intervall für Session refresh kann nur durch den Katalogadministrator für den gesamten Katalog geändert werden.

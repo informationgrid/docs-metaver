@@ -540,4 +540,4 @@ Das Intervall der automatischen Speicherung (Zwischenspeichern) kann nur durch d
 
 Session refresh
 '''''''''''''''
-Wenn eine längere Zeit keine Interaktion mit dem Editor stattfindet, wird man aus dem InGrid Editor und dem Portal abgemeldet und muss sich im Portal und im Editor neu anmelden. Die Session refresh – Funktion sorgt dafür, dass nach einer längeren Pause im Editor weitergearbeitet werden kann, ohne sich erneut anmelden zu müssen. Dieses Intervall kann nur durch den Katalogadministrator geändert werden.
+Wenn eine längere Zeit keine Interaktion mit dem Editor stattfindet, wird man aus dem InGrid Editor und dem Portal abgemeldet und muss sich im Portal und im Editor neu anmelden. Die Session refresh – Funktion sorgt dafür, dass nach einer längeren Pause im Editor weitergearbeitet werden kann, ohne sich erneut anmelden zu müssen. Das Intervall für Session refresh kann nur durch den Katalogadministrator geändert werden.
