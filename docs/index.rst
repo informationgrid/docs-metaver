@@ -35,10 +35,9 @@ Version der Bedienungsanleitung
    :maxdepth: 3
    :caption: Erfassung von Metadaten
 
-   metaver_ige/ige_erfassung/erfassung.rst
+   metaver_ige/ige_erfassung/erfassung-allgemeines.rst
    metaver_ige/ige_erfassung/erfassung-adressen.rst
    metaver_ige/ige_erfassung/erfassung-metadaten.rst
-   metaver_ige/ige_erfassung/bearbeitung-metadaten.rst
    metaver_ige/ige_objektklassen/objektklassen.rst
 
    
@@ -56,6 +55,6 @@ Version der Bedienungsanleitung
    :maxdepth: 2
    :caption: Historie (Software)
    
-   metaver_allgemeines/ige-metaver_versionen.rst
+   metaver_informationen/historie/ige-metaver_versionen.rst
 
 
