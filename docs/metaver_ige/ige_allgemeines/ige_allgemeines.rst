@@ -450,13 +450,17 @@ Textfelder
 Zum Füllen von Textfeldern klicken Sie in das Feld.
 Zum vergrößern des Textfeldes, klicken Sie mit der Maus auf die rechte untere Ecke des Feldes, halten die Maustaste gedrückt, und ziehen das Feld auf die gewünschte Größe.
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_feldarten/ige-textfeld.png
+
+Abb.: Beispiel Textfeld
 
 Auswahllisten
 '''''''''''''
 Nach einem einfachen Klick in die auszufüllende Zeile, kann die vorgegebene Auswahlliste über den Pfeil an der rechten Seite des Feldes aufgeklappt werden.
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_feldarten/ige-auswahllisten.png
+
+Abb.: Beispiel Auswahllisten
 
 Tabellen
 ''''''''
@@ -464,14 +468,22 @@ Um in den Editiermodus eines Feldes innerhalb einer Tabelle zu gelangen, müssen
 Mit einem einfachen Klick können Sie befüllte Zeilen, in der der Mauszeiger steht, markieren. Sie können mehrere Zeilen markieren, in dem sie die Shift-Taste oder die Strg-Taste gleichzeitig mit einem einfachen Klick der linken Maustaste verwenden. Ein gleichzeitiges Drücken der Strg-Taste markiert eine Zeile, ohne die Markierung der bereits vorher markierten Zeilen aufzuheben. Ein gleichzeitiges Drücken der Shift-Taste markiert alle Zeilen zwischen der zuletzt markierten bis zu der angeklickten Zeile.
 Mit der rechten Maustaste lässt sich ein Kontextmenü öffnen, über das Sie die markierten Zeilen bearbeiten (z.B. löschen) können.
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_feldarten/ige-tabellen.png
+
+Abb.: Beispiel Tabellen
 
 Dialog
 ''''''
 Einige Felder können nur über Dialoge gefüllt werden.
 Öffnen Sie für die Datenerfassung das Dialogfenster.
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_feldarten/ige-dialog.png
+
+Abb.: Beispiel Dialogfenster öffenen
+
+.. image:: ../../img_ige/metaver_ige/ige_feldarten/ige-dialogfenster.png
+
+Abb.: Beispiel Dialogfenster
 
 
 Speichern
