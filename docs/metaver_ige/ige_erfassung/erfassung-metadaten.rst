@@ -42,6 +42,9 @@ Der Erfassungsassistent
 
 Wird ein neues Objekt angelegt, öffnet sich ein Dialogfenster. Darin muss ausgewählt werden, welcher Assistent oder welcher Objekttyp verwendet werden soll.
 
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-objekt-anlegen_assistent.png
+
+Abb.: Erfassungsassistent
 
 Allgemeiner Erfassungsassistent
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -55,10 +58,6 @@ getCapabilities Assistent
 Zur Erfassung von Diensten (WMS, WFS, WCS, WCTS, WMTS und CSW) kann der getCapabilities-Assistent genutzt werden. Auf Grundlage der Informationen der getCapability-URL befüllt der Assistent hierbei insbesondere die komplexen technischen Felder zur Beschreibung des Dienstes automatisch, so dass die Erfassung von OGC konformen Diensten erheblich vereinfacht wird. Die Ergebnisse der Analyse werden in das neue Metadatenobjekt übernommen. Anschließend kann das Objekt im InGrid Editor weiterbearbeitet und gespeichert werden.
 
 Soll kein Assistent verwendet werden, wird auf der rechten Seite die erforderliche Objektklasse ausgewählt und über „Erstellen“ angelegt.
-
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-objekt-anlegen_assistent.png
-
-Abb.: Erfassungsassistent
 
 
 Objekte ausfüllen
@@ -121,19 +120,23 @@ Beschreibung
 
 In dieses Feld wird eine fachliche Inhaltsangabe eingetragen. Auf Verständlichkeit für fachfremde Dritte ist zu achten.
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-objekt_beschreibung.png
+
+Abb.: Eingabefeld für die Beschreibung
 
 
-Link „Adresse hinzufügen“
-^^^^^^^^^^^^^^^^^^^^^^^^^
+Adresse mit Objekt verknüpfen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Über den Link „Adresse hinzufügen“ wird die Adressverknüpfung angelegt. Als Auswahlmöglichkeit stehen alle im Adressstrukturbaum des Metadatenkataloges eingetragenen Adressdaten zur Verfügung.
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-objekt_verknuepfung-adresse.png
+
+Abb.: Verknüpfung mit den Adressen
 
 
-Open Data
-^^^^^^^^^
+Open Data Checkbox
+^^^^^^^^^^^^^^^^^^
 
 Diese Checkbox kennzeichnet den Metadatensatz als „Open Data“.
 Es sind dann zusätzlich folgende Angaben verpflichtend einzugeben:
@@ -141,7 +144,9 @@ Es sind dann zusätzlich folgende Angaben verpflichtend einzugeben:
   - Im Abschnitt „Verweise“ muss in die Tabelle „Verweise zu“ mindestens ein Verweis vom Typ „Datendownload“ eingetragen werden.
   - Im Abschnitt „Verfügbarkeit“, in der Tabelle „Nutzungsbedingung“ muss mindestens ein Eintrag zur anzugebenden Lizenz erfolgen.
   
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-objekt_open-data-checkbox.png
+
+Abb.: Open Data Checkbox
 
 **Hinweis:**
 *In Sachsen-Anhalt gibt es derzeit für Open Data keine gesetzlichen Grundlagen.*
@@ -152,9 +157,13 @@ Kategorien
 
 Die Tabelle „Kategorien“ enthält eine Auswahlliste, die das Open-Data-Objekt näher bestimmen.
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-objekt_tabelle-kategorien.png
 
-[Grafik]
+Abb.: Tabelle Open Data Kategorien
+
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_auswahllisten/ige-auswahlliste_open-data-kategorien.png
+
+Abb.: Open Data Kategorien
 
 
 Abschnitt Verschlagwortung

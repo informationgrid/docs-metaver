@@ -42,6 +42,9 @@ Der Erfassungsassistent
 
 Wird ein neues Objekt angelegt, öffnet sich ein Dialogfenster. Darin muss ausgewählt werden, welcher Assistent oder welcher Objekttyp verwendet werden soll.
 
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-objekt-anlegen_assistent.png
+
+Abb.: Erfassungsassistent
 
 Allgemeiner Erfassungsassistent
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -55,10 +58,6 @@ getCapabilities Assistent
 Zur Erfassung von Diensten (WMS, WFS, WCS, WCTS, WMTS und CSW) kann der getCapabilities-Assistent genutzt werden. Auf Grundlage der Informationen der getCapability-URL befüllt der Assistent hierbei insbesondere die komplexen technischen Felder zur Beschreibung des Dienstes automatisch, so dass die Erfassung von OGC konformen Diensten erheblich vereinfacht wird. Die Ergebnisse der Analyse werden in das neue Metadatenobjekt übernommen. Anschließend kann das Objekt im InGrid Editor weiterbearbeitet und gespeichert werden.
 
 Soll kein Assistent verwendet werden, wird auf der rechten Seite die erforderliche Objektklasse ausgewählt und über „Erstellen“ angelegt.
-
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-objekt-anlegen_assistent.png
-
-Abb.: Erfassungsassistent
 
 
 Objekte ausfüllen
@@ -111,6 +110,8 @@ Unter den ersten drei Feldern werden automatisiert weitere Informationen zum Obj
 Abschnitt Allgemeines
 ---------------------
 
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitte/ige-abschnitt_allgemeines.png
+
 Im Bereich „Allgemeines“ erfolgt der Eintrag von allgemeinen Informationen zum Objekt (Beschreibung, Kontaktinformation).
 
 
@@ -119,15 +120,19 @@ Beschreibung
 
 In dieses Feld wird eine fachliche Inhaltsangabe eingetragen. Auf Verständlichkeit für fachfremde Dritte ist zu achten.
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-objekt_beschreibung.png
+
+Abb.: Eingabefeld für die Beschreibung
 
 
-Link „Adresse hinzufügen“
-^^^^^^^^^^^^^^^^^^^^^^^^^
+Adresse mit Objekt verknüpfen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Über den Link „Adresse hinzufügen“ wird die Adressverknüpfung angelegt. Als Auswahlmöglichkeit stehen alle im Adressstrukturbaum des Metadatenkataloges eingetragenen Adressdaten zur Verfügung.
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-objekt_verknuepfung-adresse.png
+
+Abb.: Verknüpfung mit den Adressen
 
 
 Open Data
