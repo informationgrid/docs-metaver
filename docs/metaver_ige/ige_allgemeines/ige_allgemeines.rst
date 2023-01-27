@@ -419,18 +419,6 @@ Zum Ausblenden aller optionalen Felder das Symbol erneut anklicken.
     .. image:: ../../img_ige/metaver_ige/ige_icons/pflichtfelder/ige-symbol_aufklappen_3.png, Alle Felder aufklappen
     .. image:: ../../img_ige/metaver_ige/ige_icons/pflichtfelder/ige-symbol_zuklappen.png, Nur Pflichtfelder aufklappen
 
-
-.. image:: ../../img_ige/metaver_ige/ige_icons/pflichtfelder/ige-symbol_aufklappen_3.png
-
-Abb.: Alle Felder aufklappen
-
-.. image:: ../../img_ige/metaver_ige/ige_icons/pflichtfelder/ige-symbol_zuklappen.png
-
-Abb.: Nur Pflichtfelder aufklappen
-
-
-
-
 Des weiteren besteht die Möglichkeit, nur für eine Rubrik die optionalen Felder auf- bzw. zuzuklappen. Hierfür einfach auf das entsprechende Symbol vor dem Rubriknamen klicken.
 
 .. image:: ../../img_ige/metaver_ige/ige_icons/pflichtfelder/ige-symbol_aufklappen_2.png
@@ -450,15 +438,6 @@ Im InGrid Editor gibt es eine Vielzahl von Feldern, die ausgefüllt werden könn
     .. image:: ../../img_ige/metaver_ige/ige_feldarten/ige-pflichtfeld.png, Alle Felder aufklappen
     .. image:: ../../img_ige/metaver_ige/ige_feldarten/ige-optionales-feld.png, optionales Feld
 
-
-.. image:: ../../img_ige/metaver_ige/ige_feldarten/ige-pflichtfeld.png
-
-Abb.: Pflichtfeld
-
-.. image:: ../../img_ige/metaver_ige/ige_feldarten/ige-optionales-feld.png
-
-Abb.: optionales Feld
-
 Pflichtfelder sind Felder, die unter anderem INSPIRE-Forderungen entsprechend der Metadatenverordnung bedienen oder die die ISO umsetzen. Optionale Felder können darüber hinaus mit weiteren Angaben zur detaillierten Beschreibung des Metadatensatzes ausgefüllt werden.
 
 
@@ -474,6 +453,7 @@ Zum vergrößern des Textfeldes, klicken Sie mit der Maus auf die rechte untere 
 
 Abb.: Beispiel Textfeld
 
+
 Auswahllisten
 '''''''''''''
 Nach einem einfachen Klick in die auszufüllende Zeile, kann die vorgegebene Auswahlliste über den Pfeil an der rechten Seite des Feldes aufgeklappt werden.
@@ -481,6 +461,7 @@ Nach einem einfachen Klick in die auszufüllende Zeile, kann die vorgegebene Aus
 .. image:: ../../img_ige/metaver_ige/ige_feldarten/ige-auswahllisten.png
 
 Abb.: Beispiel Auswahllisten
+
 
 Tabellen
 ''''''''
@@ -491,6 +472,7 @@ Mit der rechten Maustaste lässt sich ein Kontextmenü öffnen, über das Sie di
 .. image:: ../../img_ige/metaver_ige/ige_feldarten/ige-tabellen.png
 
 Abb.: Beispiel Tabellen
+
 
 Dialog
 ''''''
@@ -518,11 +500,6 @@ In der Symbolleiste des InGrid Editors werden zwei Speicherarten unterschieden:
 
     .. image:: ../../img_ige/metaver_ige/ige_symbolleiste/icons/zwischenspeichern.png, Zwischenspeichern
     .. image:: ../../img_ige/metaver_ige/ige_symbolleiste/icons/speichern-und-veroeffentlichen.png, Abschließendes Speichern & Veröffentlichen
-
-
-
-[Grafik] 
-[Grafik] Abschließendes Speichern & Veröffentlichen
 
 
 Zwischenspeichern
