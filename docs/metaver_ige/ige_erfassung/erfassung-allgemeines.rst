@@ -16,5 +16,4 @@ Die Adressangaben der Ansprechpartner werden als separater Adressdatensatz gespe
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_allgemeines/ige-strukturbaum.png
 
-Abb.: Der InGrid Editor unterscheidet zwischen „Objekte“ und „Adressen“.
-Beide werden in separaten Teilbäumen des Kataloges gepflegt.
+Abb.: Strukturbaum - Teilbaum Objekte und Teilbaum Adressen
