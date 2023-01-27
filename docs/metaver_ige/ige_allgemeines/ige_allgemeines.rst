@@ -512,11 +512,15 @@ Abschließenden Speichern & Veröffentlichen
 Anders ist es beim Abschließenden Speichern & Veröffentlichen. Durch diese Art der Speicherung werden die Daten automatisch gemäß ihrer Veröffentlichungsbreite (Internet, Intranet oder amtsintern) publiziert und erscheinen nach der automatischen Indexierung im Internet.
 Voraussetzung für das abschließende Speichern ist die Befüllung sämtlicher Pflichtfelder. Fehlen entsprechende Angaben, erscheint bei der Betätigung des Buttons „Abschließendes Speichern“ eine Fehlermeldung und die Überschriften der entsprechenden Felder werden rot eingefärbt.
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_box_hinweis/ige-dialog_hinweis_alle-pflichtfelder-ausfuellen.png
+
+Abb.: Hinweisfenster - Alle Pflichtfelder ausfüllen
 
 Um trotz der Fehlermeldung die Bearbeitung sichern zu können, wählen Sie die Funktion Zwischenspeichern.
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_box_hinweis/ige-dialog_hinweis_zeige-naechsten-fehler.png
+
+Abb.: Rot gekennzeichnete Eingabefelder
 
 Über die Schaltfläche „Zeige nächsten Fehler“, kann die Erfassungsmaske nach fehlenden Einträgen durchsucht werden.
 
@@ -524,13 +528,17 @@ Um trotz der Fehlermeldung die Bearbeitung sichern zu können, wählen Sie die F
 Automatische Speicherung / Session abgelaufen
 '''''''''''''''''''''''''''''''''''''''''''''
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_administration/einstellungen/ige-automatische-speicherung.png
+
+Abb.: InGrid Editor Einstellungen
 
 Einstellungen in der Katalogverwaltung.
+
 
 Autosave
 ''''''''
 Die automatische Speicherung (Zwischenspeichern), ist in der Katalogverwaltung auf zwei Minuten eingestellt und kann nur durch den Katalogadministrator geändert werden.
+
 
 Session refresh
 '''''''''''''''
