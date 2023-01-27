@@ -164,7 +164,7 @@ Abb.: Tabelle Open Data Kategorien
 Die Tabelle „Kategorien“ enthält eine Auswahlliste, die das Open-Data-Objekt näher bestimmen.
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_auswahllisten/ige-auswahlliste_open-data-kategorien.png
-    :width: 200
+    :width: 350
 
 Abb.: Open Data Kategorien
 
@@ -299,6 +299,7 @@ Zeitspanne
 Abb.: Felder durch die Ressource abgedeckte Zeitspanne
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_auswahllisten/ige-auswahlliste_zeitbezug_zeitspanne_angaben.png
+    :width: 150
 
 Abb.: Auswahlliste der Zeitspanne
 
@@ -314,7 +315,7 @@ Abb.: Feld Priodizität
 
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_auswahllisten/ige-auswahlliste_zeitbezug_periodizitaet_angaben.png
-    :width: 50
+    :width: 150
 
 Abb.: Auswahlliste - Priodizität
 
@@ -330,7 +331,7 @@ Status
 Abb.: Feld Status
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_auswahllisten/ige-auswahlliste_zeitbezug_status_angaben.png
-    :width: 100
+    :width: 150
 
 Abb.: Auswahlliste - Status
 
@@ -347,7 +348,7 @@ Abb.: Feld Im Intervall
 
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_auswahllisten/ige-auswahlliste_zeitbezug_intervall_angaben.png
-    :width: 50
+    :width: 150
 
 Abb.: Auswahlliste Intervalle
 
