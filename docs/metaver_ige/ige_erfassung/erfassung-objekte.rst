@@ -665,7 +665,7 @@ Auf diese Weise kann der Metadatensatz abschließend gespeichert werden. Sobald 
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis-zu_tabelle.png
 
-Abb.: Tabelle - Verweise zu ...
+Abb.: Tabelle Verweise zu - Symbol | Bezeichnung des Verweises | Verweistyp
 
 **Hinweis:**
 *In der Tabelle „Verweise zu“ werden in der ersten Spalte durch entsprechende Symbole die Verweisziele und in der letzten Spalte die ausgewählten Verweistypen dargestellt.*
