@@ -435,6 +435,7 @@ Angabe der rechtlichen Grundlage, die die Erhebung der beschriebenen Daten veran
 
 Herstellungszweck
 ^^^^^^^^^^^^^^^^^
+
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-08_zusatzinformation/ige-zusatzinformation_herstellungszweck.png
 
 Abb.: Textfeld - Herstellungszweck
@@ -446,6 +447,7 @@ Beispiel: Apfelbaum#locale-eng:apple tree
 
 Eignung/Nutzung
 ^^^^^^^^^^^^^^^
+
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-08_zusatzinformation/ige-zusatzinformation_eignung-nutzung.png
 
 Abb.: Textfeld - Eignung/Nutzung
