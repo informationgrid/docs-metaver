@@ -486,7 +486,9 @@ In dieser Tabellenspalte wird das Copyright des Datenbreitstellers angegeben und
 
 **Beispiel:** © GeoBasis-DE / BKG (Jahr des letzten Datenbezugs)
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-verfuegbarkeit_nutzungsbedingungen-zugriffsbeschraenkungen.png
+
+Abb.: Auswahlfelder - Zugriffsbeschränkungen, Nutzungsbedingungen mit Quellvermerk
 
 
 Abschnitt Verweise
@@ -496,22 +498,26 @@ Abschnitt Verweise
 
 Im Abschnitt Verweise können Verlinkungen zu anderen Objekten innerhalb des Kataloges angelegt, oder es können Verweise mit URLs angelegt werden. Bereits angelegte Verweise lassen sich erneut bearbeiten.
 
-[Grafik]
-
-
 Verweise zu
 ^^^^^^^^^^^
+
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis-zu_tabelle.png
+
+Abb.: Tabelle - Verweise zu ...
+
 
 Es besteht die Möglichkeit, Verweise von einem Objekt zu einem anderen Objekt oder zu einer Internetadresse (URL) zu erstellen. In dieser Tabelle werden alle Verweise zusammenfassend aufgeführt, welche im aktuellen Objekt angelegt wurden. Über dem Link „Verweis anlegen“ öffnet sich ein Dialog, mit dem weitere Einzelheiten zu den Verweisen eingesehen und editiert werden können. Es ist möglich, weitere Verweise über das Dialogfenster „Verweis bearbeiten“ hinzuzufügen (siehe 2. Verweise anlegen).
 
 **Hinweis:**
 *Wenn Open Data ausgewählt ist, muss mindestens ein Verweis vom Typ „Datendownload“ vorhanden sein, bevor das Objekt veröffentlicht werden kann!*
 
-[Grafik]
-
 
 Verweise von
 ^^^^^^^^^^^^
+
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis-von_tabelle.png
+
+Abb.: Tabelle - Verweise von ...
 
 In Tabelle „Verweise von“ werden alle Verweise von denjenigen Objekten aufgeführt, welche auf das aktuelle Objekt verweisen.
 
@@ -521,47 +527,65 @@ Das Editieren oder Hinzufügen ist an dieser Stelle nicht möglich. Sollen die V
 Verweise anlegen
 ----------------
 
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis-zu_tabelle.png
+
+Abb.: Tabelle - Verweise zu ...
+
 Im Abschnitt „Verweise“ besteht die Möglichkeit, Verweise von einem MDK-Objekt auf ein anderes MDK-Objekt oder zu einer Internetadresse (URL) zu erstellen. Alle eingegebenen Verweise werden in der Tabelle „Verweise zu“ aufgelistet.
-
-[Grafik]
-
 
 Über den Link „Verweis anlegen“ öffnet sich ein Dialogfenster.
 Es gibt zwei mögliche Verweisziele:
  - Verweisziel Objekt: Querverweise zwischen Objekten innerhalb des MDK
  - Verweisziel URL: Verweis auf Informationen im Internet
  
-[Grafik]
- 
  
 Verweistyp
 ^^^^^^^^^^
 
-Angabe des fachlichen Bezuges, der zwischen dem aktuellen Objekt und dem Verweisobjekt besteht. Wird das Dialogfenster im Abschnitt Verweise geöffnet, so kann über das Dropdown-Menu (ausklappbar über den Pfeil an der rechten Seite des Feldes) aus einer Auswahlliste ein Eintrag gewählt werden. Es sind dann auch freie Einträge für den Verweistyp möglich.
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis_bearbeiten.png
+
+Abb.: Dialogfenster - Verweis bearbeiten - Verweistyp
+
+Angabe des fachlichen Bezuges, der zwischen dem aktuellen Objekt und dem Verweisobjekt besteht. Wird das Dialogfenster im Abschnitt Verweise geöffnet, so kann über das Dropdown-Menü (ausklappbar über den Pfeil an der rechten Seite des Feldes) aus einer Auswahlliste ein Eintrag gewählt werden. Es sind dann auch freie Einträge für den Verweistyp möglich.
 
 Wurde der Dialog von einem Feld in einer anderen Rubrik (z.B. Objektklasse Anwendung, Rubrik Fachbezug, Feld: Basisdaten, Verweise) geöffnet, so wird automatisch der betreffende Feldname eingetragen und angezeigt.
 
-[Grafik]
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis-anlegen.png
 
-Beispiel: Objektklasse Anwendung / Verweistyp: Basisdaten
+Abb.: Erfassungsmaske - Eingabefelder mit Verweisen
 
-[Grafik]
 
-Beispiel: Objektklasse Datenbank / Verweistyp: Methode / Datengrundlage
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweistyp_basisdaten.png
 
-Die angebotenen Eintragungen der Dropdown-Liste hängen von dem gewählten Objekttyp ab. Es kann daher auch vorkommen, dass weniger Listeneinträge im Dropdownmenü angezeigt werden.
+Abb.: Dialogfenster - Verweistyp - Basisdaten
 
-[Grafik]
+
+**Beispiel:** *Objektklasse Anwendung / Verweistyp: Basisdaten*
+
+
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweistyp_datengrundlage.png
+
+Abb.: Dialogfenster - Verweistyp - Methode / Datengrundlage
+
+
+**Beispiel:** *Objektklasse Datenbank / Verweistyp: Methode / Datengrundlage*
+
+Die angebotenen Eintragungen der Dropdown-Liste hängen von dem gewählten Objekttyp ab. Es kann daher auch vorkommen, dass weniger Listeneinträge im Dropdown-Menü angezeigt werden.
 
 
 Verweisziel: „Objekt“
 ^^^^^^^^^^^^^^^^^^^^^
 
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweisziel_objekt.png
+
+Abb.: Verweisziel Objekt
+
 Über dieses Verweisziel werden Querverweise zwischen den Objekten des MDK definiert. Das Dialogfenster zeigt die entsprechenden Eingabefelder an.
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweisziel_objekt-auswaehlen.png
+
+Abb.: Verweisziel: Objekt
 
 
 Objekt auswählen
@@ -581,12 +605,17 @@ Hinzufügen
 ^^^^^^^^^^
 
 Sind alle Pflichtfelder und die gewünschten optionalen Felder gefüllt, kann der Verweis mit der Schaltfläche „Hinzufügen“ in der Tabelle angelegt werden.
-^
-[Grafik]
+
+
 
 
 Verweisziel "URL"
 ^^^^^^^^^^^^^^^^^^
+
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweisziel_url.png
+
+Abb.: Verweisziel: URL
+
 
 Soll auf eine Internetseite oder eine externe Datenquelle im Internet verwiesen werden, so ist das Verweisziel „URL“ auszuwählen. Das Dialogfenster zeigt die entsprechenden Eingabefelder an.
 
@@ -594,7 +623,10 @@ Die Auswahl erfolgt wie im Abschnitt „Verweistyp“ beschrieben.
 
 Weitere Pflichtfelder sind die „Bezeichnung des Verweises“ sowie „Internet-Adresse (URL)“.
 
-[Grafik]
+
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis_bearbeiten.png
+
+Abb.: Verweis bearbeiten
 
 
 Bezeichnung des Verweises
@@ -614,6 +646,9 @@ Dateiformat
 Es sind verschiedene Dateiformat-Einträge möglich, die angezeigten Dateiformate richten sich nach der gewählten Objektklasse.
 
 
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_dateiformate.png
+
+
 URL-Typ
 ^^^^^^^^
 
@@ -622,7 +657,7 @@ Bei URL-Verweisen für ein Objekt wird unterschieden ob diese URL für das Inter
 **Empfehlung:**
 Sollte die URL (noch) nicht bekannt sein, weil erst noch der entsprechende Dienst erstellt werden muss, für den Dienst soll aber bereits ein Metadatensatz angelegt werden („Henne-Ei-Problem“), dann bitte wie folgt verfahren:
 
- - Für den Downloadverweis folgende Dummy-Download-Ressource eintragen: https://www.mwu.sachsen-anhalt.de/downloads/download.html
+ - Für den Downloadverweis folgende Dummy-Download-Ressource eintragen: https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_download/ige_download-dummy.html
  - die Veröffentlichungsbreite auf „amtsintern“ ändern
  
 Auf diese Weise kann der Metadatensatz abschließend gespeichert werden. Sobald der Dienst zur Verfügung steht, wird die richtige Download-URL im Metadatensatz eingetragen und die Veröffentlichungsbreite auf „Internet“ gesetzt. Durch einen Klick auf die Schaltfläche „Hinzufügen“ wird der Internet-Verweis in die Tabelle aufgenommen.
