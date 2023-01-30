@@ -662,12 +662,16 @@ Sollte die URL (noch) nicht bekannt sein, weil erst noch der entsprechende Diens
  
 Auf diese Weise kann der Metadatensatz abschließend gespeichert werden. Sobald der Dienst zur Verfügung steht, wird die richtige Download-URL im Metadatensatz eingetragen und die Veröffentlichungsbreite auf „Internet“ gesetzt. Durch einen Klick auf die Schaltfläche „Hinzufügen“ wird der Internet-Verweis in die Tabelle aufgenommen.
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis-zu_tabelle.png
+
+Abb.: Tabelle - Verweise zu ...
 
 **Hinweis:**
 *In der Tabelle „Verweise zu“ werden in der ersten Spalte (durch entsprechende Symbole) die Verweisziele und in der letzten Spalte die ausgewählten Verweistypen dargestellt.*
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis-zu_filter.png
+
+Abb.: Tabelle Verweise - Filter
 
 
 Filter für Verweistypen
@@ -675,7 +679,9 @@ Filter für Verweistypen
 
 Es besteht die Möglichkeit die Verweistypen zu filtern. Die Einträge für die Filterfunktion können über ein Dropdown-Menu geöffnet und ausgewählt werden. Es werden dann nur Verweise eines bestimmten Typs gelistet: z.B. nur Verweise vom Typ „unspezifischer Verweis“.
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis-zu_zeile-bearbeiten.png
+
+Abb.: Tabelle Verweise - Zeile löschen / bearbeiten
 
 
 Zeile löschen / bearbeiten
@@ -688,4 +694,12 @@ Der Befehl „Zeile bearbeiten“ öffnet wieder das bekannte Dialogfenster mit 
 
 **Hinweis:** *Es erfolgt keine Sicherheitsabfrage, ob der Verweis wirklich gelöscht werden soll!*
 
-[Grafik]
+
+Verweise erben
+^^^^^^^^^^^^^^
+
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis-zu_erben.png
+
+Abb.: Tabelle Verweise - erben
+
+Über den Link „erben“ können die Inhalte der Tabelle „Verweise zu“ vom übergeordneten Objekt übernommen werden. 

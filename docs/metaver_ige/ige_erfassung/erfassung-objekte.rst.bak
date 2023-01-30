@@ -657,17 +657,22 @@ Bei URL-Verweisen für ein Objekt wird unterschieden ob diese URL für das Inter
 **Empfehlung:**
 Sollte die URL (noch) nicht bekannt sein, weil erst noch der entsprechende Dienst erstellt werden muss, für den Dienst soll aber bereits ein Metadatensatz angelegt werden („Henne-Ei-Problem“), dann bitte wie folgt verfahren:
 
- - Für den Downloadverweis folgende Dummy-Download-Ressource eintragen: https://www.mwu.sachsen-anhalt.de/downloads/download.html
+ - Für den Downloadverweis folgende Dummy-Download-Ressource eintragen: https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_download/ige_download-dummy.html
  - die Veröffentlichungsbreite auf „amtsintern“ ändern
  
 Auf diese Weise kann der Metadatensatz abschließend gespeichert werden. Sobald der Dienst zur Verfügung steht, wird die richtige Download-URL im Metadatensatz eingetragen und die Veröffentlichungsbreite auf „Internet“ gesetzt. Durch einen Klick auf die Schaltfläche „Hinzufügen“ wird der Internet-Verweis in die Tabelle aufgenommen.
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis-zu_tabelle.png
+
+Abb.: Tabelle - Verweise zu ...
 
 **Hinweis:**
 *In der Tabelle „Verweise zu“ werden in der ersten Spalte (durch entsprechende Symbole) die Verweisziele und in der letzten Spalte die ausgewählten Verweistypen dargestellt.*
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis-zu_filter.png
+
+Abb.: Tabelle - Verweise - Filter
+
 
 
 Filter für Verweistypen
