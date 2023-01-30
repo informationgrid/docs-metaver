@@ -679,13 +679,12 @@ Filter für Verweistypen
 
 Es besteht die Möglichkeit die Verweistypen zu filtern. Die Einträge für die Filterfunktion können über ein Dropdown-Menu geöffnet und ausgewählt werden. Es werden dann nur Verweise eines bestimmten Typs gelistet: z.B. nur Verweise vom Typ „unspezifischer Verweis“.
 
+Zeile löschen / bearbeiten
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis-zu_zeile-bearbeiten.png
 
 Abb.: Tabelle Verweise - Zeile löschen / bearbeiten
-
-
-Zeile löschen / bearbeiten
-^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Möchten Sie einen bestehenden Verweis löschen oder ändern, so klicken Sie bitte in der Tabelle mit der rechten Maustaste auf den Verweis, der geändert oder gelöscht werden soll. Es öffnet sich eine Liste zur Auswahl des passenden Befehls.
 
