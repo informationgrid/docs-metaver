@@ -86,7 +86,13 @@ Angabe einer kurzen prägnanten Bezeichnung. Soweit ein gängiges Kürzel vorhan
 Objektklasse
 ^^^^^^^^^^^^
 
-Die Objektklasse richtet sich danach, welche Klasse im Dialogfenster, vor der Erstellung des Metadatensatzes, siehe Abbildung in Abschnitt 1.2.5, ausgewählt wurde.
+Die Objektklasse richtet sich danach, welche Auswahl im Erfassungsassistenten getroffen wurde.
+
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_assistenten/ige-objekt-anlegen_assistent.png
+
+Abb.: Erfassungsassistent
+
+https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/objektklassen.html
 
 **Hinweis:**
 *Ein Wechsel der Objektklasse ist an dieser Stelle nicht mehr möglich.*

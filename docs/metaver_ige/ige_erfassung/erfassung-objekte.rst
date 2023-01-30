@@ -92,7 +92,9 @@ Die Objektklasse richtet sich danach, welche Auswahl im Erfassungsassistenten ge
 
 Abb.: Erfassungsassistent
 
-https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/objektklassen.html
+Zu den `Objektklassen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/objektklassen.html>`_.
+
+
 
 **Hinweis:**
 *Ein Wechsel der Objektklasse ist an dieser Stelle nicht mehr möglich.*
