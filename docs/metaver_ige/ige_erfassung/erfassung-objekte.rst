@@ -515,7 +515,7 @@ Es besteht die Möglichkeit, Verweise von einem Objekt zu einem anderen Objekt o
 Verweise von
 ^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis-von_tabelle.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis-von.png
 
 Abb.: Tabelle - Verweise von ...
 
