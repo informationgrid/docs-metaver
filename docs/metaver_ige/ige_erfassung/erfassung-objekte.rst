@@ -94,8 +94,6 @@ Abb.: Erfassungsassistent
 
 Zu den `Objektklassen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/objektklassen.html>`_.
 
-
-
 **Hinweis:**
 *Ein Wechsel der Objektklasse ist an dieser Stelle nicht mehr möglich.*
 
@@ -165,13 +163,13 @@ Es sind dann zusätzlich folgende Angaben verpflichtend einzugeben:
 Kategorien
 ^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_tabelle-kategorien.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_open-data_tabelle-kategorien.png
 
 Abb.: Tabelle Open Data Kategorien
 
 Die Tabelle „Kategorien“ enthält eine Auswahlliste, die das Open-Data-Objekt näher bestimmen.
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_tabelle-kategorien_auswahlliste.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_open-data_tabelle-kategorien_auswahlliste.png
     :width: 350
 
 Abb.: Auswahlliste - Open Data Kategorien
@@ -208,7 +206,7 @@ Die Verschlagwortung über den Thesaurus-Navigator dient dem themenbezogenen Wie
 Die Auswahl kann über den „Verschlagwortungsassistenten“ als auch über den „Thesaurus-Navigator“ erfolgen (Links über der Tabelle).
 
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_assistenten/ige-verschlagwortung_verschlagwortungsassistent.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-03_verschlagwortung/ige-verschlagwortung_verschlagwortungsassistent.png
 
 Abb.: Verschlagwortungsassistent
 
@@ -241,9 +239,9 @@ Abschnitt Datenqualität
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/ige-abschnitt_datenqualitaet.png
 
-Dieser Abschnitt wird nur in der Objektklasse Geodatensatz angezeigt und wir darunter beschrieben.
+Dieser Abschnitt wird nur in der `Objektklasse Geodatensatz <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/objektklasse-geodatensatz.html>`_ angezeigt und wir darunter beschrieben.
 
- 
+
 Abschnitt Raumbezugssystem
 --------------------------
 
@@ -257,7 +255,7 @@ Geothesaurus-Raumbezug
 
 Geothesaurus oder auch Gazetteer (Ortsverzeichnis), hier soll ein Ort oder eine Region mit Koordinaten angegeben werden.
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-verschlagwortung_thesaurus-navigator.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_geothesaurus-navigator.png
 
 Abb.: Tabelle Geothesaurus-Raumbezug
 
@@ -346,7 +344,7 @@ Status
 
 Abb.: Feld Status
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-zeitbezug_zeitbezug_status_auswahlliste.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-zeitbezug_status_auswahlliste.png
     :width: 250
 
 Abb.: Auswahlliste - Status
