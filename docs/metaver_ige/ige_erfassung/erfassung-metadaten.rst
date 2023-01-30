@@ -375,7 +375,9 @@ Veröffentlichung
 
 Das Feld Veröffentlichung gibt an, welche Veröffentlichungsmöglichkeiten für das Objekt freigegeben sind. Die Liste der Möglichkeiten ist nach Freigabestufen hierarchisch geordnet. Wird einem Objekt eine niedrigere Freigabestufe zugeordnet (z.B. von Internet auf Intranet), werden automatisch auch alle untergeordneten Objekte dieser Stufe zugeordnet. Soll einem Objekt eine höhere Freigabestufe zugeordnet werden als die des übergeordneten Objektes, wird die Zuordnung verweigert. Wird einem Objekt eine höhere Freigabestufe zugeordnet (z.B. von amtsintern auf Intranet), kann auch allen untergeordneten Objekten die höhere Freigabestufe zugeordnet werden.
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-zusatzinformation_datensatz-sprache.png
+
+Abb.: Auswahlfelder - Sprache des Metadatensatzes und Veröffentlichung
 
 Die Einstellung haben folgende Bedeutung:
 
@@ -385,6 +387,64 @@ Die Einstellung haben folgende Bedeutung:
  
 **Hinweis:** 
 *Die Option Intranet wird für Sachsen-Anhalt nicht verwendet, da das System im Internet bereitgestellt wird.*
+
+
+Sprache der Ressource
+^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-zusatzinformation_datensatz-sprache.png
+
+Abb.: Auswahlfeld - Sprache der Ressource
+
+Es erfolgt die Angabe der Sprache des beschriebenen Datensatzes, als Standard ist Deutsch voreingestellt.
+
+
+XML-Export-Kriterium
+^^^^^^^^^^^^^^^^^^^^
+
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-zusatzinformation_xml-export-kriterium.png
+- 
+Abb.: Auswahlfeld - XML-Export-Kriterium
+
+Eintrag eines Selektionskriteriums zur Steuerung des Exports der Daten. Um eine Teilmenge von Objekten exportieren zu können, kann in diesem Feld ein diese Teilmenge identifizierendes Schlagwort eingegeben werden. In der Exportfunktion kann dann eines der Schlagworte aus diesem Feld angegeben werden und alle Objekte exportiert werden, für die in diesem Feld das entsprechende Schlagwort vergeben wurde. Die Eingabe mehrerer Schlagworte ist möglich. Die Schlagworte können frei eingegeben werden. Zur Verhinderung von Schreibfehlern sollte jedoch der Eintrag aus der Auswahlliste vorgezogen werden.
+
+
+Weitere Rechtliche Grundlagen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-zusatzinformation_weitere-rechtliche-grundlagen.png
+
+Abb.: Auswahlfeld - weitere rechtliche Grundlagen
+
+Angabe der rechtlichen Grundlage, die die Erhebung der beschriebenen Daten veranlasst hat. Hier können Kürzel von Gesetzen, Erlassen, Verordnungen usw. eingetragen werden, in denen z. B. die Methode oder die Form der Erhebung der im Objekt beschriebenen Daten festgelegt oder beschrieben wird. Es ist bei Bedarf der Eintrag mehrerer Angaben möglich.
+
+
+Herstellungszweck
+^^^^^^^^^^^^^^^^^
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-zusatzinformation_herstellungszweck.png
+
+Abb.: Textfeld - Herstellungszweck
+
+Zusammenfassung, für welchen Zweck oder mit welcher Absicht die Ressource erstellt wurde.
+Bei gewünschter Mehrsprachigkeit muss dieses Feld nach dem Schema "Deutscher Text#locale-eng:English text" gefüllt werden. 
+Beispiel: Apfelbaum#locale-eng:apple tree
+
+
+Eignung/Nutzung
+^^^^^^^^^^^^^^^
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-zusatzinformation_eignung-nutzung.png
+
+Abb.: Textfeld - Eignung/Nutzung
+
+Spezifische Nutzung: kurze Beschreibung zur Verwendung der Ressource.
+Angaben über die Verwendungsmöglichkeiten, die diese Daten in Verbindung mit weiteren Informationen erfüllen können.
+
+
+
+
+
+
+
 
 
 Abschnitt Verfügbarkeit
