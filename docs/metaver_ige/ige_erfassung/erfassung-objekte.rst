@@ -233,14 +233,7 @@ Abschnitt Datenqualität
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/ige-abschnitt_datenqualitaet.png
 
-
-
-
-
-
-
-
-
+Dieser Abschnitt wird nur in der Objektklasse Geodatensatz angezeigt und wir darunter beschrieben.
 
  
 Abschnitt Raumbezugssystem
