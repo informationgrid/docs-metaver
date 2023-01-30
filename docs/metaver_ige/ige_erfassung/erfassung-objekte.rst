@@ -648,6 +648,7 @@ Es sind verschiedene Dateiformat-Einträge möglich, die angezeigten Dateiformat
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_dateiformate.png
 
+Abb.: Beispiel - Dateiformate für die Objektklasse Datensatz
 
 URL-Typ
 ^^^^^^^^
@@ -667,17 +668,18 @@ Auf diese Weise kann der Metadatensatz abschließend gespeichert werden. Sobald 
 Abb.: Tabelle - Verweise zu ...
 
 **Hinweis:**
-*In der Tabelle „Verweise zu“ werden in der ersten Spalte (durch entsprechende Symbole) die Verweisziele und in der letzten Spalte die ausgewählten Verweistypen dargestellt.*
-
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis-zu_filter.png
-
-Abb.: Tabelle Verweise - Filter
+*In der Tabelle „Verweise zu“ werden in der ersten Spalte durch entsprechende Symbole die Verweisziele und in der letzten Spalte die ausgewählten Verweistypen dargestellt.*
 
 
 Filter für Verweistypen
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis-zu_filter.png
+
+Abb.: Tabelle Verweise - Filter
+
 Es besteht die Möglichkeit die Verweistypen zu filtern. Die Einträge für die Filterfunktion können über ein Dropdown-Menu geöffnet und ausgewählt werden. Es werden dann nur Verweise eines bestimmten Typs gelistet: z.B. nur Verweise vom Typ „unspezifischer Verweis“.
+
 
 Zeile löschen / bearbeiten
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
