@@ -73,7 +73,7 @@ Nach dem Anlegen eines neuen Objektes stehen die Eingabefelder für das neue Obj
 
 Hier wird automatisiert der Erfasser eingetragen, der das Objekt angelegt hat. An dieser Stelle sollte jedoch die Person stehen, die für die Aktualisierung zuständig ist. In der Regel ist der Erfasser auch die fachlich Verantwortliche Person (Standardeinstellung).
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-objekt_kopf.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-01_kopf/ige_ige-objekt_kopf.png
 
 Abb.: Kopf der Erfassungsmaske
 
@@ -213,7 +213,7 @@ Abb.: Thesaurus-Navigator
 Abschnitt Fachbezug
 -------------------
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitte/ige-abschnitt_fachbezug.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-04_fachbezug/ige-abschnitt_fachbezug.png
 
 Der Abschnitt Fachbezug richtet sich nach der gewählten Objektklasse, diese sind unter dem Punkt "Objektlassen" beschrieben.
 

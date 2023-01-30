@@ -35,8 +35,8 @@ Version der Bedienungsanleitung
 
    metaver_ige/ige_erfassung/erfassung-allgemeines.rst
    metaver_ige/ige_erfassung/erfassung-adressen.rst
-   metaver_ige/ige_erfassung/erfassung-metadaten.rst
-   metaver_ige/ige_objektklassen/objektklassen.rst
+   metaver_ige/ige_erfassung/erfassung-objekte.rst
+   metaver_ige/ige_erfassung/ige_objektklassen/objektklassen.rst
 
 
 .. toctree::

@@ -19,7 +19,7 @@ Neues Objekt anlegen
 
 Zum Anlegen eines neuen Objektes muss zunächst der Ordner im Strukturbaum ausgewählt werden, unter dem das neue Objekt angelegt werden soll. „Neu anlegen“ (aus der Symbolleiste) oder über das Kontextmenü (rechte Maustaste – „Neu anlegen“) wählen, es erscheint der Erfassungsassistent.
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-objekt-anlegen.png
+.. image:: ../../img_ige/metaver_ige/ige_strukturbaum/ige-objekt-anlegen.png
 
 Abb.: Teilstrukturbaum für Objekte - Strukturierung mit Ordnern
 
@@ -42,7 +42,7 @@ Der Erfassungsassistent
 
 Wird ein neues Objekt angelegt, öffnet sich ein Dialogfenster. Darin muss ausgewählt werden, welcher Assistent oder welcher Objekttyp verwendet werden soll.
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-objekt-anlegen_assistent.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_assistenten/ige-objekt-anlegen_assistent.png
 
 Abb.: Erfassungsassistent
 
@@ -73,7 +73,7 @@ Nach dem Anlegen eines neuen Objektes stehen die Eingabefelder für das neue Obj
 
 Hier wird automatisiert der Erfasser eingetragen, der das Objekt angelegt hat. An dieser Stelle sollte jedoch die Person stehen, die für die Aktualisierung zuständig ist. In der Regel ist der Erfasser auch die fachlich Verantwortliche Person (Standardeinstellung).
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-objekt_kopf.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-01_kopf/ige_ige-objekt_kopf.png
 
 Abb.: Kopf der Erfassungsmaske
 
@@ -111,7 +111,7 @@ Unter den ersten drei Feldern werden automatisiert weitere Informationen zum Obj
 Abschnitt Allgemeines
 ---------------------
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitte/ige-abschnitt_allgemeines.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-abschnitt_allgemeines.png
 
 Im Bereich „Allgemeines“ erfolgt der Eintrag von allgemeinen Informationen zum Objekt (Beschreibung, Kontaktinformation).
 
@@ -119,7 +119,7 @@ Im Bereich „Allgemeines“ erfolgt der Eintrag von allgemeinen Informationen z
 Beschreibung
 ^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-objekt_beschreibung.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_beschreibung.png
 
 Abb.: Eingabefeld für die Beschreibung
 
@@ -129,7 +129,7 @@ In dieses Feld wird eine fachliche Inhaltsangabe eingetragen. Auf Verständlichk
 Adresse mit Objekt verknüpfen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-objekt_verknuepfung-adresse.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_verknuepfung-adresse.png
 
 Abb.: Verknüpfung mit den Adressen
 
@@ -139,7 +139,7 @@ Abb.: Verknüpfung mit den Adressen
 Open Data Checkbox
 ^^^^^^^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-objekt_open-data-checkbox.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_open-data-checkbox.png
 
 Abb.: Open Data Checkbox
 
@@ -157,28 +157,28 @@ Es sind dann zusätzlich folgende Angaben verpflichtend einzugeben:
 Kategorien
 ^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-objekt_tabelle-kategorien.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_tabelle-kategorien.png
 
 Abb.: Tabelle Open Data Kategorien
 
 Die Tabelle „Kategorien“ enthält eine Auswahlliste, die das Open-Data-Objekt näher bestimmen.
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_auswahllisten/ige-auswahlliste_open-data-kategorien.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_tabelle-kategorien_auswahlliste.png
     :width: 350
 
-Abb.: Open Data Kategorien
+Abb.: Auswahlliste - Open Data Kategorien
 
 
 Abschnitt Verschlagwortung
 --------------------------
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitte/ige-abschnitt_verschlagwortung.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-03_verschlagwortung/ige-abschnitt_verschlagwortung.png
 
 
 Freie Schlagworte erfassen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-verschlagwortung_freie-schlagworte.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-03_verschlagwortung/ige-verschlagwortung_freie-schlagworte.png
 
 Abb.: Freie Schlagworte erfassen
 
@@ -188,7 +188,7 @@ In dieses Feld werden die Schlagworte eingetragen, über die das Objekt bei eine
 Optionale Schlagworte
 ^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-verschlagwortung_optionale-schlagworte.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-03_verschlagwortung/ige-verschlagwortung_optionale-schlagworte.png
 
 Abb.: Optionale Schlagworte erfassen
 
@@ -200,12 +200,12 @@ Die Verschlagwortung über den Thesaurus-Navigator dient dem themenbezogenen Wie
 Die Auswahl kann über den „Verschlagwortungsassistenten“ als auch über den „Thesaurus-Navigator“ erfolgen (Links über der Tabelle).
 
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-verschlagwortung_verschlagwortungsassistent.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_assistenten/ige-verschlagwortung_verschlagwortungsassistent.png
 
 Abb.: Verschlagwortungsassistent
 
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-verschlagwortung_thesaurus-navigator.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-03_verschlagwortung/ige-verschlagwortung_thesaurus-navigator.png
 
 Abb.: Thesaurus-Navigator
 
@@ -213,7 +213,7 @@ Abb.: Thesaurus-Navigator
 Abschnitt Fachbezug
 -------------------
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitte/ige-abschnitt_fachbezug.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-04_fachbezug/ige-abschnitt_fachbezug.png
 
 Der Abschnitt Fachbezug richtet sich nach der gewählten Objektklasse, diese sind unter dem Punkt "Objektlassen" beschrieben.
 
@@ -226,12 +226,27 @@ Der Abschnitt Fachbezug richtet sich nach der gewählten Objektklasse, diese sin
  -  **Dokument** - Broschüren, Bücher, Aufsätze, Gutachten, etc. Von Interesse sind insbesondere Dokumente, welche nicht über den Buchhandel oder über Bibliotheken erhältlich sind ('graue Literatur').
  -  **Projekt** - Forschungs- und Entwicklungsvorhaben, Projekte unter Beteiligung anderer Institutionen oder privater Unternehmen, Schutzprogramme, von besonderem Interesse sind Vorhaben/Projekte/Programme, in denen umweltrelevante Datenbestände entstehen.
  -  **Organisationseinheit** - Diese Objektklasse bildet eine Ausnahme, in dieser befindet sich keinen Abschnitt Fachbezug.
- 
+
+
+Abschnitt Datenqualität
+-----------------------
+
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/ige-abschnitt_datenqualitaet.png
+
+
+
+
+
+
+
+
+
+
  
 Abschnitt Raumbezugssystem
--------------------------
+--------------------------
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitte/ige-abschnitt_raumbezugssystem.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-abschnitt_raumbezugssystem.png
 
 Im Abschnitt Raumbezugsystem werden Informationen über die räumliche Zuordnung des beschriebenen Datenbestands erfasst.
 
@@ -241,7 +256,7 @@ Geothesaurus-Raumbezug
 
 Geothesaurus oder auch Gazetteer (Ortsverzeichnis), hier soll ein Ort oder eine Region mit Koordinaten angegeben werden.
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-verschlagwortung_thesaurus-navigator.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-verschlagwortung_thesaurus-navigator.png
 
 Abb.: Tabelle Geothesaurus-Raumbezug
 
@@ -250,12 +265,12 @@ Geothesaurus-Navigator
 ^^^^^^^^^^^^^^^^^^^^^^
 Über den Geothesaurus-Navigator kann nach den Koordinaten einer räumlichen Einheit gesucht werden.
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-raumbezug_geothesaurus-raumbezug.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_geothesaurus-raumbezug.png
 
 Abb.: Geothesaurus-Navigator
 
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-raumbezug_geothesaurus-raumbezug_koordinaten.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_geothesaurus-raumbezug_koordinaten.png
 
 Abb.: Tabelle Geothesaurus-Raumbezug mit Eintrag Landkreis Harz
 
@@ -263,7 +278,7 @@ Abb.: Tabelle Geothesaurus-Raumbezug mit Eintrag Landkreis Harz
 Abschnitt Zeitbezug
 -------------------
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitte/ige-abschnitt_zeitbezug.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-abschnitt_zeitbezug.png
 
 Unter Zeitbezug werden Datumsangaben, Zeiträume, Zeitspannen, Perioden oder Intervalle der beschriebenen Daten eingetragen.
 
@@ -271,7 +286,7 @@ Unter Zeitbezug werden Datumsangaben, Zeiträume, Zeitspannen, Perioden oder Int
 Zeitbezug der Ressource
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-zeitbezug_der-ressource.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-zeitbezug_der-ressource.png
 
 Abb.: Tabelle Zeitbezug der Ressource
 
@@ -281,7 +296,7 @@ In dieser Tabelle wird dokumentiert, wann die beschrieben Daten erfasst, veröff
 Erläuterungen
 ^^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-zeitbezug_der-ressource_erlaeuterung.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-zeitbezug_der-ressource_erlaeuterung.png
 
 Abb.: Textfeld für Erläuterungen
 
@@ -294,11 +309,11 @@ Hier können z.B. die Angaben der Periodizität eingeschränkt, weitere Zeitanga
 Zeitspanne
 ^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-zeitbezug_zeitspanne.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-zeitbezug_zeitspanne.png
 
 Abb.: Felder durch die Ressource abgedeckte Zeitspanne
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_auswahllisten/ige-auswahlliste_zeitbezug_zeitspanne_angaben.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-zeitbezug_zeitspanne_auswahlliste.png
     :width: 150
 
 Abb.: Auswahlliste der Zeitspanne
@@ -309,12 +324,12 @@ Hier soll das Zeitspanne der Entstehung der eigentlichen Daten (z.B. Messdaten) 
 Periodizität
 ^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-zeitbezug_periodizitaet.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-zeitbezug_periodizitaet.png
 
 Abb.: Feld Priodizität
 
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_auswahllisten/ige-auswahlliste_zeitbezug_periodizitaet_angaben.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-zeitbezug_periodizitaet_auswahlliste.png
     :width: 300
 
 Abb.: Auswahlliste - Priodizität
@@ -326,11 +341,11 @@ Ist die Auswahl oder die Angabe des Zeitzyklus der Datenerhebung. Der Eintrag mu
 Status
 ^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-zeitbezug_status.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-zeitbezug_status.png
 
 Abb.: Feld Status
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_auswahllisten/ige-auswahlliste_zeitbezug_status_angaben.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-zeitbezug_zeitbezug_status_auswahlliste.png
     :width: 250
 
 Abb.: Auswahlliste - Status
@@ -342,12 +357,12 @@ Der Status beschreibt den Bearbeitungsstand eines Projektes oder einer der Messu
 Im Intervall
 ^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-zeitbezug_intervall.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-zeitbezug_intervall.png
 
 Abb.: Feld Im Intervall
 
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_auswahllisten/ige-auswahlliste_zeitbezug_intervall_angaben.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-zeitbezug_intervall_auswahlliste.png
     :width: 150
 
 Abb.: Auswahlliste Intervalle
@@ -359,7 +374,7 @@ Mit Intervall wird der zeitliche Abstand (Frequenz) der Datenerhebung angegeben.
 Abschnitt Zusatzinformation
 ---------------------------
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitte/ige-abschnitt_zusatzinformation.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-08_zusatzinformation/ige-abschnitt_zusatzinformation.png
 
 Der Abschnitt Zusatzinformation enthält Angaben von allgemeinen Informationen wie Sprache und Veröffentlichungsbreite des Metadatensatzes.
 
@@ -375,7 +390,7 @@ Veröffentlichung
 
 Das Feld Veröffentlichung gibt an, welche Veröffentlichungsmöglichkeiten für das Objekt freigegeben sind. Die Liste der Möglichkeiten ist nach Freigabestufen hierarchisch geordnet. Wird einem Objekt eine niedrigere Freigabestufe zugeordnet (z.B. von Internet auf Intranet), werden automatisch auch alle untergeordneten Objekte dieser Stufe zugeordnet. Soll einem Objekt eine höhere Freigabestufe zugeordnet werden als die des übergeordneten Objektes, wird die Zuordnung verweigert. Wird einem Objekt eine höhere Freigabestufe zugeordnet (z.B. von amtsintern auf Intranet), kann auch allen untergeordneten Objekten die höhere Freigabestufe zugeordnet werden.
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-zusatzinformation_datensatz-sprache.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-08_zusatzinformation/ige-zusatzinformation_datensatz-sprache.png
 
 Abb.: Auswahlfelder - Sprache des Metadatensatzes und Veröffentlichung
 
@@ -392,7 +407,7 @@ Die Einstellung haben folgende Bedeutung:
 Sprache der Ressource
 ^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-zusatzinformation_datensatz-sprache.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-08_zusatzinformation/ige-zusatzinformation_datensatz-sprache.png
 
 Abb.: Auswahlfeld - Sprache der Ressource
 
@@ -402,7 +417,7 @@ Es erfolgt die Angabe der Sprache des beschriebenen Datensatzes, als Standard is
 XML-Export-Kriterium
 ^^^^^^^^^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-zusatzinformation_xml-export-kriterium.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-08_zusatzinformation/ige-zusatzinformation_xml-export-kriterium.png
 
 Abb.: Auswahlfeld - XML-Export-Kriterium
 
@@ -412,7 +427,7 @@ Eintrag eines Selektionskriteriums zur Steuerung des Exports der Daten. Um eine 
 Weitere Rechtliche Grundlagen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-zusatzinformation_weitere-rechtliche-grundlagen.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-08_zusatzinformation/ige-zusatzinformation_weitere-rechtliche-grundlagen.png
 
 Abb.: Auswahlfeld - weitere rechtliche Grundlagen
 
@@ -421,7 +436,7 @@ Angabe der rechtlichen Grundlage, die die Erhebung der beschriebenen Daten veran
 
 Herstellungszweck
 ^^^^^^^^^^^^^^^^^
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-zusatzinformation_herstellungszweck.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-08_zusatzinformation/ige-zusatzinformation_herstellungszweck.png
 
 Abb.: Textfeld - Herstellungszweck
 
@@ -432,7 +447,7 @@ Beispiel: Apfelbaum#locale-eng:apple tree
 
 Eignung/Nutzung
 ^^^^^^^^^^^^^^^
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-zusatzinformation_eignung-nutzung.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-08_zusatzinformation/ige-zusatzinformation_eignung-nutzung.png
 
 Abb.: Textfeld - Eignung/Nutzung
 
@@ -443,7 +458,7 @@ Angaben über die Verwendungsmöglichkeiten, die diese Daten in Verbindung mit w
 Abschnitt Verfügbarkeit
 -----------------------
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitte/ige-abschnitt_verfuegbarkeit.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-abschnitt_verfuegbarkeit.png
 
 Im Abschnitt Verfügbarkeit wird angegeben, ob die zu beschreibenden Daten einer Zugriffsbeschränkung unterliegen und welche Nutzungsbedingungen für diese Daten gelten.
 
@@ -476,7 +491,7 @@ In dieser Tabellenspalte wird das Copyright des Datenbreitstellers angegeben und
 Abschnitt Verweise
 ------------------
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitte/ige-abschnitt_verweise.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-abschnitt_verweise.png
 
 Im Abschnitt Verweise können Verlinkungen zu anderen Objekten innerhalb des Kataloges angelegt, oder es können Verweise mit URLs angelegt werden. Bereits angelegte Verweise lassen sich erneut bearbeiten.
 
