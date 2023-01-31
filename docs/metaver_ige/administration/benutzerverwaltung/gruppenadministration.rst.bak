@@ -5,7 +5,7 @@ Gruppenadministration
 
 In der Gruppenadministration können Sie:
 
- • Eine Gruppe bearbeiten: Klicken Sie auf den Namen der Gruppe in der Liste links oben im Fenster. Sie können nun den Namen der Gruppe ändern sowie die Rechte für die Gruppe. Änderungen müssen mit Speichern abgeschlossen werden und stehen dann sofort zur Verfügung.
+Eine Gruppe bearbeiten: Klicken Sie auf den Namen der Gruppe in der Liste links oben im Fenster. Sie können nun den Namen der Gruppe ändern sowie die Rechte für die Gruppe. Änderungen müssen mit Speichern abgeschlossen werden und stehen dann sofort zur Verfügung.
 
 .. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_gruppenverwaltung.png
 
@@ -13,7 +13,7 @@ In der Gruppenadministration können Sie:
 Abb.: Gruppenadministration
 
 
- • **Eine Gruppe neu anlegen:** Klicken Sie auf die Schaltfläche Neue Gruppe anlegen. Sie müssen den Gruppennamen angeben und den Vorgang mit Speichern abschließen. Sie können nun die Rechte für die Gruppe angeben.
+**Eine Gruppe neu anlegen:** Klicken Sie auf die Schaltfläche Neue Gruppe anlegen. Sie müssen den Gruppennamen angeben und den Vorgang mit Speichern abschließen. Sie können nun die Rechte für die Gruppe angeben.
 
 .. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_gruppe-anlegen.png
 
@@ -21,7 +21,7 @@ Abb.: Gruppenadministration
 Abb.: Gruppe anlegen
 
 
- • **Eine Gruppe löschen:** Klicken Sie mit der rechten Maustaste auf den Namen der Gruppe, die Sie löschen wollen. Wählen Sie Zeile löschen aus dem Kontextmenü und bestätigen Sie den Vorgang in dem sich öffnenden Dialog.
+**Eine Gruppe löschen:** Klicken Sie mit der rechten Maustaste auf den Namen der Gruppe, die Sie löschen wollen. Wählen Sie Zeile löschen aus dem Kontextmenü und bestätigen Sie den Vorgang in dem sich öffnenden Dialog.
 
 .. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_gruppe-zeile-loeschen.png
    :width: 300
@@ -45,11 +45,11 @@ Sie haben drei Einstellungsmöglichkeiten für die Berechtigung pro Ordner/Vorha
 Abb.: Berechtigungen für Objekte
 
  
- •**Teilbaum:** Dies ist die Standardeinstellung. Sie haben für dieses und alle nachgeordneten Objekte eine Schreibberechtigung. Sie können unterhalb dieses Objektes und allen nachgeordneten Objekte neue Objekte anlegen.
+**Teilbaum:** Dies ist die Standardeinstellung. Sie haben für dieses und alle nachgeordneten Objekte eine Schreibberechtigung. Sie können unterhalb dieses Objektes und allen nachgeordneten Objekte neue Objekte anlegen.
 
- •**Unter-Objekte:** Sie können direkt unterhalb dieses Objektes ein neues Objekte anlegen, für das Sie dann den vollen Zugriff bekommen (Teilbaum Recht auf neuem Unter-Objekte). Alle Benutzer Ihrer Gruppe bekommen damit ebenfalls vollen Zugriff (alle Benutzer der Gruppe, die das Unter-Objektesrecht beinhaltet).
+**Unter-Objekte:** Sie können direkt unterhalb dieses Objektes ein neues Objekte anlegen, für das Sie dann den vollen Zugriff bekommen (Teilbaum Recht auf neuem Unter-Objekte). Alle Benutzer Ihrer Gruppe bekommen damit ebenfalls vollen Zugriff (alle Benutzer der Gruppe, die das Unter-Objektesrecht beinhaltet).
 
- •**Einzelobjekt:** Sie haben nur auf diesem Objekte eine Schreibberechtigung, auf nachgeordnete Objekte nicht. Sie können keine neuen Objekte unterhalb dieses Objektes anlegen.
+**Einzelobjekt:** Sie haben nur auf diesem Objekte eine Schreibberechtigung, auf nachgeordnete Objekte nicht. Sie können keine neuen Objekte unterhalb dieses Objektes anlegen.
 
 **Hinweis:** *Sie können keine Schreibrechte auf den Strukturbaumknoten Objekte vergeben. Alle Teilbäume des Kataloges, auf die ein Schreibrecht bestehen soll, müssen einzeln ausgewählt werden.*
 
@@ -64,11 +64,11 @@ Sie haben drei Einstellungsmöglichkeiten für die Berechtigung pro Adresse:
 Abb.: Berechtigungen für Adressen
 
  
- •**Teilbaum:** Dies ist die Standardeinstellung. Sie haben für diese Adresse und alle nachgeordneten Adressen eine Schreibberechtigung. Sie können unterhalb dieser und allen nachgeordneten Adressen neue Adressen anlegen.
+**Teilbaum:** Dies ist die Standardeinstellung. Sie haben für diese Adresse und alle nachgeordneten Adressen eine Schreibberechtigung. Sie können unterhalb dieser und allen nachgeordneten Adressen neue Adressen anlegen.
 
- •**Unteradressen:** Sie können direkt unterhalb dieser Adresse eine neue Adresse anlegen, für die Sie dann den vollen Zugriff bekommen (Teilbaum Recht auf neuer Unteradresse). Alle Benutzer Ihrer Gruppe bekommen damit ebenfalls vollen Zugriff (alle Benutzer der Gruppe, die das Unteradressenrecht beinhaltet).
+**Unteradressen:** Sie können direkt unterhalb dieser Adresse eine neue Adresse anlegen, für die Sie dann den vollen Zugriff bekommen (Teilbaum Recht auf neuer Unteradresse). Alle Benutzer Ihrer Gruppe bekommen damit ebenfalls vollen Zugriff (alle Benutzer der Gruppe, die das Unteradressenrecht beinhaltet).
 
- •**Einzeladresse:** Sie haben nur auf diese Adresse eine Schreibberechtigung, auf nachgeordnete Adressen nicht. Sie können keine neuen Adressen unterhalb dieser Adresse anlegen.
+**Einzeladresse:** Sie haben nur auf diese Adresse eine Schreibberechtigung, auf nachgeordnete Adressen nicht. Sie können keine neuen Adressen unterhalb dieser Adresse anlegen.
  
 **Hinweis:** *Sie können keine Schreibrechte auf die Strukturbaumknoten Adressen und freie Adressen vergeben. Alle Teilbäume des Kataloges, auf die ein Schreibrecht bestehen soll, müssen einzeln ausgewählt werden.*
 
