@@ -7,12 +7,12 @@ Neuen Portal-Nutzer anlegen
 Der Benutzer muss als Portal-Benutzer registriert sein. Er kann sich selbst unter der URL: https://metaver.de/log-in. Zur Bestätigung seiner Anmeldung erhält der Benutzer eine E-Mail mit einem Link. Mit der Bestätigung dieses Links wird die Anmeldung im Portal aktiviert.
 
 .. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_registrieren.png
-   :width: 300
+   :width: 500
 
 Abb.: Portal-Anmeldung - Registrieren
 
 .. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_anmeldung.png
-   :width: 300
+   :width: 400
 
 Abb.: Portal-Anmeldung - Anmeldeformular
 
