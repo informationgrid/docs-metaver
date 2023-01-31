@@ -1,4 +1,4 @@
-Anzeige der Verantwortlichkeiten eines IGE-Nutzers
+Anzeige der Verantwortlichkeiten eines IGE-Benutzers
 ==================================================
 
 Über den Reiter *Verfahren / Adressen* (Benutzeradministration) werden zwei Tabellen angezeigt,
@@ -8,4 +8,4 @@ Es ist möglich direkt aus diesen Tabellen-Zeilen auf ein Verfahren bzw. Adresse
 .. image:: ../img/nutzerverwaltung/ige-uvp_nutzer-verantwortung.png
    :width: 500
 
-Abb.: Nutzer bearbeiten
+Abb.: Benutzer bearbeiten
