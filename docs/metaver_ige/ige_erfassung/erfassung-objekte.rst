@@ -221,7 +221,7 @@ Abschnitt Fachbezug
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-04_fachbezug/ige-abschnitt_fachbezug.png
 
-Der Abschnitt Fachbezug richtet sich nach der gewählten Objektklasse, diese sind unter dem Punkt `"Erfassung der Objektlassen" https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/objektklassen.html>`_ beschrieben.
+Der Abschnitt Fachbezug richtet sich nach der gewählten Objektklasse, diese sind unter dem Punkt `"Erfassung der Objektlassen" <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/objektklassen.html>`_ beschrieben.
 
 **Beschreibungen der Fachbezüge zu den Objektklassen**
 
