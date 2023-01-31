@@ -12,4 +12,4 @@ Zum Löschen eines Benutzers klicken Sie auf die Schaltfläche "Nutzer löschen"
 .. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_nutzer-löschen.png
    :width: 500
 
-Abb.: Benutzer bearbeiten
+Abb.: Benutzer löschen
