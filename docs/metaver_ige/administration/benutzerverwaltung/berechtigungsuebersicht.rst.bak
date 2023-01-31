@@ -10,6 +10,6 @@ Abb.: Berechtigungsübersicht
 
  
 Klicken Sie auf ein beliebiges Verfahren unter Berechtigung für Verfahren oder auf eine beliebige Adresse unter Berechtigung für Adressen. Das ausgewählte Objekt bzw. die ausgewählte Adresse werden blau markiert. Es werden die Benutzernamen und die Rollen aller Benutzer angezeigt, die auf das Objekt bzw. die Adresse mindestens eines der folgenden Rechte haben:
- • Schreibrecht auf das Einzelobjekt bzw. die Einzeladresse
+ • Schreibrecht auf das Einzelverfahren bzw. die Einzeladresse
  • Schreibrecht auf den Teilbaum
  • Recht zur Erstellung direkter Unter-Objekte bzw. Unteradressen
