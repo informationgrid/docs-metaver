@@ -13,7 +13,7 @@ In der Gruppenadministration können Sie:
 Abb.: Gruppenadministration
 
 
- • Eine Gruppe neu anlegen: Klicken Sie auf die Schaltfläche Neue Gruppe anlegen. Sie müssen den Gruppennamen angeben und den Vorgang mit Speichern abschließen. Sie können nun die Rechte für die Gruppe angeben.
+ • **Eine Gruppe neu anlegen:** Klicken Sie auf die Schaltfläche Neue Gruppe anlegen. Sie müssen den Gruppennamen angeben und den Vorgang mit Speichern abschließen. Sie können nun die Rechte für die Gruppe angeben.
 
 .. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_gruppe-anlegen.png
 
@@ -21,7 +21,7 @@ Abb.: Gruppenadministration
 Abb.: Gruppe anlegen
 
 
- • Eine Gruppe löschen: Klicken Sie mit der rechten Maustaste auf den Namen der Gruppe, die Sie löschen wollen. Wählen Sie Zeile löschen aus dem Kontextmenü und bestätigen Sie den Vorgang in dem sich öffnenden Dialog.
+ • **Eine Gruppe löschen:** Klicken Sie mit der rechten Maustaste auf den Namen der Gruppe, die Sie löschen wollen. Wählen Sie Zeile löschen aus dem Kontextmenü und bestätigen Sie den Vorgang in dem sich öffnenden Dialog.
 
 .. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_gruppe-zeile-loeschen.png
    :width: 300
@@ -34,6 +34,7 @@ Abb.: Gruppe löschen
 Sie können folgende Berechtigungen für eine Gruppe vergeben:
 
 **Berechtigungen für Objekte**
+
 Sie können Schreibberechtigungen für Objekte vergeben. Wählen sie dazu den Ordner oder das Objekte unter Berechtigungen für Objekte aus dem Hierarchiebaum aus, für das Sie oder ab dem Sie die Schreibberechtigung vergeben wollen. Ein Klick auf das Symbol färbt den Hintergrund blau. Über die Schaltfläche > können Sie das markierte Symbol in die Liste der Berechtigungen übernehmen.
 
 Sie haben drei Einstellungsmöglichkeiten für die Berechtigung pro Ordner/Vorhaben:
@@ -72,6 +73,7 @@ Abb.: Berechtigungen für Adressen
 **Hinweis:** *Sie können keine Schreibrechte auf die Strukturbaumknoten Adressen und freie Adressen vergeben. Alle Teilbäume des Kataloges, auf die ein Schreibrecht bestehen soll, müssen einzeln ausgewählt werden.*
 
 **Root-Objekte und -Adressen anlegen**
+
 Dies ist ein gesondertes Schreibrecht. Wird es für eine Gruppe vergeben, haben die Mitglieder dieser Gruppe das Recht, neue Objekte und Adressen auf der obersten Ebene des Kataloges anzulegen. Sie erhalten dann automatisch die Schreibrechte auf den ganzen Teilbaum des neu angelegten Objektes bzw. der neu angelegten Adresse.
 
 .. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_root-objekte.png
@@ -83,6 +85,7 @@ Abb.: Root-Objekte und -Adressen anlegen
 **Wichtig:** *Durch dieses Recht hat die Gruppe nicht automatisch das Schreibrecht auf schon vorhandene Teilbäume, für die ihr nicht explizit Schreibrechte eingeräumt wurden.*
 
 **Qualitätssichernder**
+
 Über die Berechtigung Qualitätssichernder werden die Nutzer der Gruppe für alle Objekte und Adressen, für die Sie ein Schreibrecht besitzen, zu Qualitätssichernden. Sie haben also das Recht (und auch die Pflicht), an Sie überwiesene Objekte und Adressen zur Veröffentlichung freizugeben bzw. endgültig zu löschen oder bei Qualitätsmängeln die Objekte bzw. Adressen an den Zuständigen zurück zu überweisen.
 
 .. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_qs.png
@@ -94,6 +97,7 @@ Abb.: Qualitätssichernder
 **Hinweis:** *Dieses Recht wird nur im Zusammenhang mit der eingeschalteten Workflow-Kontrolle in den Katalogeinstellungen wirksam.
 
 **Zugeordnete Nutzer**
+
 Auf dem dritten Reiter werden alle Benutzer aufgelistet, welche der gewählten Gruppe zugeordnet wurden.
 
 .. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_zugeordnete-benutzer.png

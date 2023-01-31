@@ -75,7 +75,7 @@ Abb.: Berechtigungen für Adressen
 Dies ist ein gesondertes Schreibrecht. Wird es für eine Gruppe vergeben, haben die Mitglieder dieser Gruppe das Recht, neue Objekte und Adressen auf der obersten Ebene des Kataloges anzulegen. Sie erhalten dann automatisch die Schreibrechte auf den ganzen Teilbaum des neu angelegten Objektes bzw. der neu angelegten Adresse.
 
 .. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_root-objekte.png
-   :width: 500
+   :width: 200
 
 Abb.: Root-Objekte und -Adressen anlegen
 
@@ -86,7 +86,7 @@ Abb.: Root-Objekte und -Adressen anlegen
 Über die Berechtigung Qualitätssichernder werden die Nutzer der Gruppe für alle Objekte und Adressen, für die Sie ein Schreibrecht besitzen, zu Qualitätssichernden. Sie haben also das Recht (und auch die Pflicht), an Sie überwiesene Objekte und Adressen zur Veröffentlichung freizugeben bzw. endgültig zu löschen oder bei Qualitätsmängeln die Objekte bzw. Adressen an den Zuständigen zurück zu überweisen.
 
 .. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_qs.png
-   :width: 500
+   :width: 200
 
 Abb.: Qualitätssichernder
 
