@@ -5,7 +5,7 @@ In der Berechtigungsübersicht werden alle Benutzer angezeigt, die auf ein Verfa
 
 
 .. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_berechtigungsuebersicht.png
-   :width: 500
+
 
 Abb.: Berechtigungsübersicht
 
