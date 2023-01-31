@@ -54,6 +54,7 @@ Abb.: Berechtigungen für Objekte
 **Hinweis:** *Sie können keine Schreibrechte auf den Strukturbaumknoten Objekte vergeben. Alle Teilbäume des Kataloges, auf die ein Schreibrecht bestehen soll, müssen einzeln ausgewählt werden.*
 
 **Berechtigungen für Adressen**
+
 Sie können Schreibberechtigungen für Adressen vergeben. Wählen Sie dazu die Adresse unter Berechtigungen für Adressen aus dem Hierarchiebaum aus, für die Sie oder ab der Sie die Schreibberechtigung vergeben wollen. Ein Klick auf die Adresse färbt sie blau ein. Über die Schaltfläche > können Sie die markierte Adresse in die Liste der Berechtigungen übernehmen.
 
 Sie haben drei Einstellungsmöglichkeiten für die Berechtigung pro Adresse:
