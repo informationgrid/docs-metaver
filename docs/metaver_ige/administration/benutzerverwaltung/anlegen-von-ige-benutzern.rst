@@ -49,7 +49,7 @@ Abb.: Portalbenutzer importieren
 2. Weisen Sie dem neuen Benutzer eine oder mehrere Gruppen zu. In der Auswahlliste werden alle in der Gruppenadministration definierten Gruppen angezeigt für die Sie die Berechtigung zur Administration besitzen.
 
 .. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_gruppen-zuweisen.png
-   :width: 200
+   :width: 500
 
 Abb.: Benutzergruppen zuweisen
  
