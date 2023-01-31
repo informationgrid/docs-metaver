@@ -1,5 +1,5 @@
-Konzept der Nutzerverwaltung
-============================
+Konzept der Benutzerverwaltung
+==============================
 
 Der InGrid-Editor ist eine Komponente der Portal-Software InGrid. Durch die Verknüpfung der Benutzverwaltungen von METAVER und des InGrid-Editors ergibt sich der Vorteil, dass sich ein Benutzer nur einmal zentral im Portal anmelden muss.
 
