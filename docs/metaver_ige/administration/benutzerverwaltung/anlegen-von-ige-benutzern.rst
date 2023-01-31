@@ -6,7 +6,7 @@ Vorbereitende Schritte:
 Neuen Portal-Nutzer anlegen
 Der Nutzer muss als Portal-Nutzer registriert sein. Er kann sich selbst unter der URL: https://www.uvp-verbund.de/log-in registrieren. Zur Bestätigung seiner Anmeldung erhält der Nutzer eine E-Mail mit einem Link. Mit der Bestätigung dieses Links wird die Anmeldung im Portal aktiviert.
 
-.. image:: ../img/nutzerverwaltung/ige-uvp_registrieren.png
+.. image:: ../../../img_ige/metaver_ige/administration/benutzerverwaltung/ige_registrieren.png
    :width: 300
 
 Abb.: Portal-Anmeldung - Registrieren

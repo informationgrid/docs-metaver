@@ -50,7 +50,7 @@ Version der Bedienungsanleitung
    :maxdepth: 2
    :caption: Administration
 
-   metaver_ige/ige_administration/ige_benutzerverwaltung/ige-benutzerverwaltung.rst
+   metaver_ige/administration/benutzerverwaltung/ige-benutzerverwaltung.rst
 
 
 .. toctree::
