@@ -1,6 +1,6 @@
 
-IGE Benutzerverwaltung
-========================================
+Benutzerverwaltung
+==================
 
 .. toctree::
    :maxdepth: 2

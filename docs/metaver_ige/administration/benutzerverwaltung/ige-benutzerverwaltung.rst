@@ -4,7 +4,7 @@ Benutzerverwaltung
 
 .. toctree::
    :maxdepth: 2
-   :caption: Benutzerverwaltung
+   :caption: InGrid Editor (IGE) Benutzerverwaltung
 
    konzept-der-nutzerverwaltung.rst
    anlegen-von-ige-benutzern.rst
