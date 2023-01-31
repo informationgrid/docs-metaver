@@ -5,7 +5,7 @@ Anzeige der Verantwortlichkeiten eines IGE-Benutzers
 die die Verfahren und Adressen auflisten, in denen der ausgewählte Benutzer als Verantwortlicher eingetragen ist.
 Es ist möglich direkt aus diesen Tabellen-Zeilen auf ein Verfahren bzw. Adresse zu springen.
  
-.. image:: ../img/nutzerverwaltung/ige-uvp_nutzer-verantwortung.png
+.. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_nutzer-verantwortung.png
    :width: 500
 
 Abb.: Benutzer bearbeiten

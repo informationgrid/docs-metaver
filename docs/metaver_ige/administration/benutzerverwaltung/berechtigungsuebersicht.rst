@@ -3,7 +3,7 @@ Berechtigungsübersicht
 
 In der Berechtigungsübersicht werden alle Benutzer angezeigt, die auf ein Verfahren, eine Adresse oder einen Teilbaum Schreibrechte oder das Recht für Unter-Verfahren/Unteradressen oder zur Qualitätssicherung haben.
 
-.. image:: ../img/nutzerverwaltung/ige-uvp_berechtigungsübersicht.png
+.. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_berechtigungsübersicht.png
    :width: 500
 
 Abb.: Berechtigungsübersicht

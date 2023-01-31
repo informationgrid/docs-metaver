@@ -9,7 +9,7 @@ Hinweis: Dem Katalog-Administrator ist immer automatisch die Gruppe administrato
 
 Zum Löschen eines Benutzers klicken Sie auf die Schaltfläche "Nutzer löschen" und bestätigen den Vorgang in dem sich öffnenden Dialog.
 
-.. image:: ../img/nutzerverwaltung/ige-uvp_nutzer-löschen.png
+.. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_nutzer-löschen.png
    :width: 500
 
 Abb.: Benutzer bearbeiten

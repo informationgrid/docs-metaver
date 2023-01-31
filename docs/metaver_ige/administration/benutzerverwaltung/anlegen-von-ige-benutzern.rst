@@ -11,7 +11,7 @@ Der Benutzer muss als Portal-Benutzer registriert sein. Er kann sich selbst unte
 
 Abb.: Portal-Anmeldung - Registrieren
 
-.. image:: ../img/nutzerverwaltung/ige-_anmeldung.png
+.. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_anmeldung.png
    :width: 300
 
 Abb.: Portal-Anmeldung - Anmeldeformular
@@ -19,7 +19,7 @@ Abb.: Portal-Anmeldung - Anmeldeformular
 
 Um dem neuen Benutzer passende Rechte für den InGrid-Editor zuordnen zu können, muss in der „Gruppenadministration“ der Benutzerverwaltung geprüft werden, ob bereits eine oder mehrere Gruppen existieren, die mit entsprechenden Rechten ausgestattet sind. Ist dies nicht der Fall, müssen eine oder mehrere neue Gruppen angelegt werden.
 
-.. image:: ../img/benutzerverwaltung/ige-_gruppen-zuweisen.png
+.. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_gruppen-zuweisen.png
    :width: 500
 
 Abb.: Nutzer Gruppenberechtigung zuordnen
@@ -36,7 +36,7 @@ Klicken Sie auf die Schalfläche "Nutzer anlegen" (unterhalb des Hierarchiebaums
 **Hinweis:**
 *Namen, die mit großen Anfangsbuchstaben beginnen, werden in der Auswahlliste zuerst gelistet.*
 
-.. image:: ../img/benutzerverwaltung/ige-_nutzer-importieren.png
+.. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_nutzer-importieren.png
    :width: 200
 
 Abb.: Portalbenutzer importieren
@@ -48,7 +48,7 @@ Abb.: Portalbenutzer importieren
 
 2. Weisen Sie dem neuen Benutzer eine oder mehrere Gruppen zu. In der Auswahlliste werden alle in der Gruppenadministration definierten Gruppen angezeigt für die Sie die Berechtigung zur Administration besitzen.
 
-.. image:: ../img/benutzerverwaltung/ige-_gruppen-zuweisen.png
+.. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_gruppen-zuweisen.png
    :width: 200
 
 Abb.: Benutzergruppen zuweisen
