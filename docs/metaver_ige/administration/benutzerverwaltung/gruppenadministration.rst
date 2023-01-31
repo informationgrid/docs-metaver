@@ -85,7 +85,7 @@ Abb.: Root-Objekte und -Adressen anlegen
 **Qualitätssichernder**
 Über die Berechtigung Qualitätssichernder werden die Nutzer der Gruppe für alle Objekte und Adressen, für die Sie ein Schreibrecht besitzen, zu Qualitätssichernden. Sie haben also das Recht (und auch die Pflicht), an Sie überwiesene Objekte und Adressen zur Veröffentlichung freizugeben bzw. endgültig zu löschen oder bei Qualitätsmängeln die Objekte bzw. Adressen an den Zuständigen zurück zu überweisen.
 
-.. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige-uvp_qs.png
+.. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_qs.png
    :width: 500
 
 Abb.: Qualitätssichernder

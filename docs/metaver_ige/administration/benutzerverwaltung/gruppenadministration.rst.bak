@@ -7,7 +7,7 @@ In der Gruppenadministration können Sie:
 
  • Eine Gruppe bearbeiten: Klicken Sie auf den Namen der Gruppe in der Liste links oben im Fenster. Sie können nun den Namen der Gruppe ändern sowie die Rechte für die Gruppe. Änderungen müssen mit Speichern abgeschlossen werden und stehen dann sofort zur Verfügung.
 
-.. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige-uvp_gruppenverwaltung.png
+.. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_gruppenverwaltung.png
    :width: 500
 
 Abb.: Gruppenadministration
@@ -15,7 +15,7 @@ Abb.: Gruppenadministration
 
  • Eine Gruppe neu anlegen: Klicken Sie auf die Schaltfläche Neue Gruppe anlegen. Sie müssen den Gruppennamen angeben und den Vorgang mit Speichern abschließen. Sie können nun die Rechte für die Gruppe angeben.
 
-.. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige-uvp_gruppe-anlegen.png
+.. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_gruppe-anlegen.png
    :width: 500
 
 Abb.: Gruppe anlegen
@@ -23,7 +23,7 @@ Abb.: Gruppe anlegen
 
  • Eine Gruppe löschen: Klicken Sie mit der rechten Maustaste auf den Namen der Gruppe, die Sie löschen wollen. Wählen Sie Zeile löschen aus dem Kontextmenü und bestätigen Sie den Vorgang in dem sich öffnenden Dialog.
 
-.. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige-uvp_gruppe-zeile-löschen.png
+.. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_gruppe-zeile-löschen.png
    :width: 500
 
 Abb.: Gruppe löschen
@@ -38,7 +38,7 @@ Sie können Schreibberechtigungen für Objekte vergeben. Wählen sie dazu den Or
 
 Sie haben drei Einstellungsmöglichkeiten für die Berechtigung pro Ordner/Vorhaben:
 
-.. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige-uvp_gruppen-berechtigung-Objekte.png
+.. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_gruppen-berechtigung-Objekte.png
    :width: 500
 
 Abb.: Berechtigungen für Objekte
@@ -57,7 +57,7 @@ Sie können Schreibberechtigungen für Adressen vergeben. Wählen Sie dazu die A
 
 Sie haben drei Einstellungsmöglichkeiten für die Berechtigung pro Adresse:
 
-.. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige-uvp_gruppen-berechtigung-adressen.png
+.. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_gruppen-berechtigung-adressen.png
    :width: 500
 
 Abb.: Berechtigungen für Adressen
@@ -74,7 +74,7 @@ Abb.: Berechtigungen für Adressen
 **Root-Objekte und -Adressen anlegen**
 Dies ist ein gesondertes Schreibrecht. Wird es für eine Gruppe vergeben, haben die Mitglieder dieser Gruppe das Recht, neue Objekte und Adressen auf der obersten Ebene des Kataloges anzulegen. Sie erhalten dann automatisch die Schreibrechte auf den ganzen Teilbaum des neu angelegten Objektes bzw. der neu angelegten Adresse.
 
-.. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige-uvp_root-Objekte.png
+.. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_root-Objekte.png
    :width: 500
 
 Abb.: Root-Objekte und -Adressen anlegen
@@ -96,7 +96,7 @@ Abb.: Qualitätssichernder
 **Zugeordnete Nutzer**
 Auf dem dritten Reiter werden alle Benutzer aufgelistet, welche der gewählten Gruppe zugeordnet wurden.
 
-.. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige-uvp_zugeordnete-nutzer.png
+.. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_zugeordnete-nutzer.png
    :width: 500
 
 Abb.: Zugeordnete Nutzer
