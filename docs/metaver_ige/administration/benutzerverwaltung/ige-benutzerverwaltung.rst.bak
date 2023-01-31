@@ -4,13 +4,13 @@ Benutzerverwaltung
 
 .. toctree::
    :maxdepth: 2
-   :caption: Benutzerverwaltung
+   :caption: InGrid Editor (IGE) Benutzerverwaltung
 
    konzept-der-nutzerverwaltung.rst
+   gruppenadministration.rst
    anlegen-von-ige-benutzern.rst
    bearbeiten-und-loeschen-eines-nutzers.rst
    anzeige-der-verantwortlichkeiten.rst
-   gruppenadministration.rst
    berechtigungsuebersicht.rst
 
 
