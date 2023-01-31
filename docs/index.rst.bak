@@ -48,6 +48,13 @@ Version der Bedienungsanleitung
 
 .. toctree::
    :maxdepth: 2
+   :caption: Administration
+
+   ige_benutzerverwaltung/ige-benutzerverwaltung.rst
+
+
+.. toctree::
+   :maxdepth: 2
    :caption: Historie (Software)
    
    metaver_informationen/historie/ige-metaver_versionen.rst
