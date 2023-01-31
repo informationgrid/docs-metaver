@@ -38,7 +38,7 @@ Sie können Schreibberechtigungen für Objekte vergeben. Wählen sie dazu den Or
 
 Sie haben drei Einstellungsmöglichkeiten für die Berechtigung pro Ordner/Vorhaben:
 
-.. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_gruppen-berechtigung-Objekte.png
+.. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_gruppen-berechtigung-objekte.png
    :width: 500
 
 Abb.: Berechtigungen für Objekte
