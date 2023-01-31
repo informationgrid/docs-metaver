@@ -96,7 +96,7 @@ Abb.: Qualitätssichernder
 **Zugeordnete Nutzer**
 Auf dem dritten Reiter werden alle Benutzer aufgelistet, welche der gewählten Gruppe zugeordnet wurden.
 
-.. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_zugeordnete-nutzer.png
+.. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_zugeordnete-benutzer.png
    :width: 500
 
 Abb.: Zugeordnete Nutzer
