@@ -16,6 +16,5 @@ In dieser Objektklasse können z.B. Verweise auf Internetseiten angelegt werden.
 Erfassung
 ---------
 
-Die Erfassung dieser Objektklasse erfolgt wie unter Erfassung von Objekten beschrieben.
+Die Erfassung dieser Objektklasse erfolgt wie unter `"Erfassung von Objekten" <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html>`_ beschrieben.
 
-https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html
