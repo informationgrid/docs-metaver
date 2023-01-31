@@ -10,11 +10,12 @@ Organisationseinheit
 
 In dieser Objektklasse können z.B. Verweise auf Internetseiten angelegt werden.
 
-Hinweis: In dieser Objektklasse fehlt der Abschnitt Fachbezug.
+**Hinweis:** *In dieser Objektklasse fehlt der Abschnitt Fachbezug.*
 
-
-Beispiel:
 
 Erfassung
 ---------
 
+Die Erfassung dieser Objektklasse erfolgt wie unter Erfassung von Objekten beschrieben.
+
+https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html
