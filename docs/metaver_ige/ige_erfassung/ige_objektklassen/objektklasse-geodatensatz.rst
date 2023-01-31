@@ -6,7 +6,7 @@ Geodatensatz
     :header: "Portal", "Editor"
     :widths: 30 30
 
-    .. image:: ../../img_ige/metaver_ige/ige_icons/objekte/portal/geodatensatz.png, .. image:: ../../img_ige/metaver_ige/ige_icons/objekte/ige/geodatensatz.png
+    .. image:: ../../../img_ige/metaver_ige/ige_icons/objekte/portal/geodatensatz.png, .. image:: ../../../img_ige/metaver_ige/ige_icons/objekte/ige/geodatensatz.png
 
 Die Objektklasse Geodatensatz dient der Beschreibung von Daten mit direktem oder indirektem Raumbezug (digital oder analog). Beispiele: GIS-Daten, analoge Karten oder Kartenwerke
 
