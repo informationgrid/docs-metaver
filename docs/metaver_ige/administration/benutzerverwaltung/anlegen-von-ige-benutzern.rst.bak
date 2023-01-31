@@ -37,7 +37,7 @@ Klicken Sie auf die Schalfläche "Nutzer anlegen" (unterhalb des Hierarchiebaums
 *Namen, die mit großen Anfangsbuchstaben beginnen, werden in der Auswahlliste zuerst gelistet.*
 
 .. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_nutzer-importieren.png
-
+   :width: 300
 
 Abb.: Portalbenutzer importieren
  
