@@ -8,7 +8,7 @@ In der Gruppenadministration können Sie:
  • Eine Gruppe bearbeiten: Klicken Sie auf den Namen der Gruppe in der Liste links oben im Fenster. Sie können nun den Namen der Gruppe ändern sowie die Rechte für die Gruppe. Änderungen müssen mit Speichern abgeschlossen werden und stehen dann sofort zur Verfügung.
 
 .. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_gruppenverwaltung.png
-   :width: 500
+
 
 Abb.: Gruppenadministration
 
@@ -16,7 +16,7 @@ Abb.: Gruppenadministration
  • Eine Gruppe neu anlegen: Klicken Sie auf die Schaltfläche Neue Gruppe anlegen. Sie müssen den Gruppennamen angeben und den Vorgang mit Speichern abschließen. Sie können nun die Rechte für die Gruppe angeben.
 
 .. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_gruppe-anlegen.png
-   :width: 500
+
 
 Abb.: Gruppe anlegen
 
@@ -24,7 +24,7 @@ Abb.: Gruppe anlegen
  • Eine Gruppe löschen: Klicken Sie mit der rechten Maustaste auf den Namen der Gruppe, die Sie löschen wollen. Wählen Sie Zeile löschen aus dem Kontextmenü und bestätigen Sie den Vorgang in dem sich öffnenden Dialog.
 
 .. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_gruppe-zeile-loeschen.png
-   :width: 500
+   :width: 300
 
 Abb.: Gruppe löschen
 
