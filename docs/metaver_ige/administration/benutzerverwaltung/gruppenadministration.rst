@@ -74,7 +74,7 @@ Abb.: Berechtigungen für Adressen
 **Root-Objekte und -Adressen anlegen**
 Dies ist ein gesondertes Schreibrecht. Wird es für eine Gruppe vergeben, haben die Mitglieder dieser Gruppe das Recht, neue Objekte und Adressen auf der obersten Ebene des Kataloges anzulegen. Sie erhalten dann automatisch die Schreibrechte auf den ganzen Teilbaum des neu angelegten Objektes bzw. der neu angelegten Adresse.
 
-.. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_root-Objekte.png
+.. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_root-objekte.png
    :width: 500
 
 Abb.: Root-Objekte und -Adressen anlegen
