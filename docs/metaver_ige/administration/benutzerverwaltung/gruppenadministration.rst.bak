@@ -39,7 +39,7 @@ Sie können Schreibberechtigungen für Objekte vergeben. Wählen sie dazu den Or
 Sie haben drei Einstellungsmöglichkeiten für die Berechtigung pro Ordner/Vorhaben:
 
 .. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_gruppen-berechtigung-objekte.png
-   :width: 500
+
 
 Abb.: Berechtigungen für Objekte
 
@@ -58,7 +58,7 @@ Sie können Schreibberechtigungen für Adressen vergeben. Wählen Sie dazu die A
 Sie haben drei Einstellungsmöglichkeiten für die Berechtigung pro Adresse:
 
 .. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_gruppen-berechtigung-adressen.png
-   :width: 500
+
 
 Abb.: Berechtigungen für Adressen
 

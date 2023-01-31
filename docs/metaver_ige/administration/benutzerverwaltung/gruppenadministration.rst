@@ -23,7 +23,7 @@ Abb.: Gruppe anlegen
 
  • Eine Gruppe löschen: Klicken Sie mit der rechten Maustaste auf den Namen der Gruppe, die Sie löschen wollen. Wählen Sie Zeile löschen aus dem Kontextmenü und bestätigen Sie den Vorgang in dem sich öffnenden Dialog.
 
-.. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_gruppe-zeile-löschen.png
+.. image:: ../../../img_ige/metaver_ige/ige_administration/benutzerverwaltung/ige_gruppe-zeile-loeschen.png
    :width: 500
 
 Abb.: Gruppe löschen
