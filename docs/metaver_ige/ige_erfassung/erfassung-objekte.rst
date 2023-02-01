@@ -87,7 +87,7 @@ Objektklasse
 
 Der die Objektklasse (bzw. der Objekt-Typ) richtet sich danach, welche Auswahl im Erfassungsassistenten getroffen wurde.
 
-Beschreibung: `Objektklassen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/objektklassen.html>`_.
+Beschreibung: `Objektklassen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/objektklassen.html>`_
 
 **Hinweis:**
 *Ein Wechsel der Objektklasse ist an dieser Stelle nicht mehr möglich.*
@@ -195,26 +195,17 @@ Es sind dann zusätzlich folgende Angaben verpflichtend einzugeben:
   - In der (nur für Open Data) erscheinenden Tabelle „Kategorien“ muss mindestens ein Wert ausgewählt und eingetragen werden.
   - Im Abschnitt „Verweise“ muss in die Tabelle „Verweise zu“ mindestens ein Verweis vom Typ „Datendownload“ eingetragen werden.
   - Im Abschnitt „Verfügbarkeit“, in der Tabelle „Nutzungsbedingung“ muss mindestens ein Eintrag zur anzugebenden Lizenz erfolgen.
-  
-
-**Hinweis:**
-*In Sachsen-Anhalt gibt es derzeit für Open Data keine gesetzlichen Grundlagen.*
 
 
 Kategorien
 ^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_open-data_tabelle-kategorien.png
-  :width: 350
-
-Abb.: Tabelle Open Data Kategorien
-
-Die Tabelle „Kategorien“ enthält eine Auswahlliste, die das Open-Data-Objekt näher bestimmen.
-
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_open-data_tabelle-kategorien_auswahlliste.png
   :width: 350
 
 Abb.: Auswahlliste - Open Data Kategorien
+
+Die Tabelle „Kategorien“ enthält eine Auswahlliste, die das Open-Data-Objekt näher bestimmen.
 
 
 Abschnitt Verschlagwortung
