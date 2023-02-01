@@ -188,11 +188,20 @@ Checkboxen
 
 INSPIRE-relevant
 ''''''''''''''''
-  - konform
-  - nicht konform
+
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_checkbox-inspire-relevant.png
+  :width: 350
+
+Abb.: Checkbox INSPIRE-relevant (konform, nichtkonform)
+
   
 AdV kompatibel
 ''''''''''''''
+
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_checkbox-adv-kompatibel.png
+  :width: 150
+
+Abb.: Checkbox AdV kompatibel
 
 Diese Checkboxen sind unter der `Objektklasse Geodatensatz <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/objektklasse-geodatensatz.html>`_ beschrieben.
 
@@ -200,9 +209,10 @@ Diese Checkboxen sind unter der `Objektklasse Geodatensatz <https://metaver-bedi
 Open Data Checkbox
 ''''''''''''''''''
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_open-data-checkbox.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_checkbox-open-data.png
+  :width: 150
 
-Abb.: Open Data Checkbox
+Abb.: Checkbox Open Data
 
 Diese Checkbox kennzeichnet den Metadatensatz als „Open Data“.
 Es sind dann zusätzlich folgende Angaben verpflichtend einzugeben:
@@ -214,7 +224,7 @@ Es sind dann zusätzlich folgende Angaben verpflichtend einzugeben:
 Kategorien
 ''''''''''
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_open-data_tabelle-kategorien_auswahlliste.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_open-data-kategorien_auswahlliste.png
   :width: 350
 
 Abb.: Auswahlliste - Open Data Kategorien
