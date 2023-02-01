@@ -85,7 +85,7 @@ Angabe einer kurzen prägnanten Bezeichnung. Soweit ein gängiges Kürzel vorhan
 Objekt-Typ
 ^^^^^^^^^^
 
-Die Objektklasse richtet sich danach, welche Auswahl im Erfassungsassistenten getroffen wurde.
+Der Objekt-Typ (bzw. die Objektklasse) richtet sich danach, welche Auswahl im Erfassungsassistenten getroffen wurde.
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_assistenten/ige-objekt-anlegen_assistent.png
 

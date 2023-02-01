@@ -82,8 +82,8 @@ Objektname
 Angabe einer kurzen prägnanten Bezeichnung. Soweit ein gängiges Kürzel vorhanden ist, ist dieses Kürzel mit anzugeben. Der Eintrag in dieses Feld ist obligatorisch.
 
 
-Objektklasse
-^^^^^^^^^^^^
+Objekt-Typ
+^^^^^^^^^^
 
 Die Objektklasse richtet sich danach, welche Auswahl im Erfassungsassistenten getroffen wurde.
 
