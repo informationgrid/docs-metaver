@@ -211,13 +211,14 @@ Kategorien
 ^^^^^^^^^^
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_open-data_tabelle-kategorien.png
+  :width: 350
 
 Abb.: Tabelle Open Data Kategorien
 
 Die Tabelle „Kategorien“ enthält eine Auswahlliste, die das Open-Data-Objekt näher bestimmen.
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_open-data_tabelle-kategorien_auswahlliste.png
-    :width: 350
+  :width: 350
 
 Abb.: Auswahlliste - Open Data Kategorien
 
