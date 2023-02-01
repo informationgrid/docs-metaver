@@ -214,12 +214,12 @@ Open Data Checkbox
 
 Abb.: Checkbox Open Data
 
-Diese Checkbox kennzeichnet den Metadatensatz als „Open Data“.
+Diese Checkbox kennzeichnet den Metadatensatz als "Open Data".
 Es sind dann zusätzlich folgende Angaben verpflichtend einzugeben:
-  - In der (nur für Open Data) erscheinenden Tabelle „Kategorien“ muss mindestens ein Wert ausgewählt und eingetragen werden.
-  - Im Abschnitt „Verweise“ muss in die Tabelle „Verweise zu“ mindestens ein Verweis vom Typ „Datendownload“ eingetragen werden.
-  - Im Abschnitt „Verfügbarkeit“, in der Tabelle „Nutzungsbedingung“ muss mindestens ein Eintrag zur anzugebenden Lizenz erfolgen.
-
+  - In der (nur für Open Data) erscheinenden Tabelle '"Kategorien" <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html#kategorien>`_ muss mindestens ein Wert ausgewählt und eingetragen werden.
+  - Im Abschnitt „Verweise“ muss in die Tabelle '"Verweise zu" <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html#verweise-zu>`_ mindestens ein Verweis vom Typ "Datendownload" eingetragen werden.
+  - Im Abschnitt „Verfügbarkeit“, in der Tabelle '"Nutzungsbedingung" <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html#nutzungsbedingungen>`_ muss mindestens ein Eintrag zur anzugebenden Lizenz erfolgen.
+  
 
 Kategorien
 ''''''''''
