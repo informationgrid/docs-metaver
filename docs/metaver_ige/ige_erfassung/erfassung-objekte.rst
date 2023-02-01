@@ -73,7 +73,7 @@ Nach dem Anlegen eines neuen Objektes stehen die Eingabefelder für das neue Obj
 
 Hier wird automatisiert der Erfasser eingetragen, der das Objekt angelegt hat. An dieser Stelle sollte jedoch die Person stehen, die für die Aktualisierung zuständig ist. In der Regel ist der Erfasser auch die fachlich Verantwortliche Person (Standardeinstellung).
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige_ige-objekt_kopf.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-01_kopf/ige_ige-objekt_kopf.png
 
 Abb.: Kopf der Erfassungsmaske
 
@@ -120,17 +120,32 @@ Abschnitt Allgemeines
 Identifikator des übergeordneten Metadatensatzes
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_identifikator-des-uebergeordneten-datensatzes.png
+  :width: 350
+
+Abb.: Identifikator des übergeordneten Metadatensatzes
+
 Für Datensätze in der obersten Ebene oder direkt unter einem Ordner, kann eine zusätzliche Referenz auf einen übergeordneten Metadatensatz vergeben werden. Dadurch ist es möglich, auch auf externe Datensätze zu verweisen.
 
 
 Metadaten-Datum der veröffentlichten Version
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_metadaten-datum.png
+  :width: 350
+
+Abb.: Identifikator des übergeordneten Metadatensatzes
+
 Datum, zu dem der Metadatensatz veröffentlicht wurde. Dieses Datum wird immer dann aktualisiert, wenn ein Metadatensatz veröffentlicht wird und dieser sich geändert hat. Die Änderung eines Metadatensatzes wird anhand der Änderung von Inhalt und Struktur erkannt. Dazu wird ein Fingerabdruck der ISO 19139 XML Daten erstellt und gespeichert. Das Metadaten-Datum wird nur aktualisiert, wenn sich bei einer Veröffentlichung auch der Fingerabdruck ändert. Dadurch wird sichergestellt, dass das Metadaten-Datum auch nicht-inhaltliche Änderungen reflektiert, die sich z.B. durch eine Anpassung der Struktur des Metadatensatzes ergibt. Dies ist wichtig, weil nachfolgende Systeme sich auf dieses Datum beziehen, um z.B. geänderte Metadatensätze zu ermitteln.
 
 
 Dateibeschreibung der Vorschaugrafik
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_vorschaugrafik.png
+  :width: 500
+
+Abb.: Identifikator des übergeordneten Metadatensatzes
 
 Textliche Beschreibung des Inhalts der Grafik. Die Dateibeschreibung kann manuell geändert werden.
 Grafik, die die Ressource darstellt (möglichst einschließlich Legende)
@@ -139,9 +154,12 @@ Grafik, die die Ressource darstellt (möglichst einschließlich Legende)
 Kurzbezeichnung
 ^^^^^^^^^^^^^^^
 
-Angabe einer Kurzbezeichnung für ein Objekt. (Wird insbesondere von GeoMIS.Bund unterstützt.)
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_beschreibung.png
+  :width: 500
 
-Bei gewünschter Mehrsprachigkeit muss dieses Feld nach dem Schema "Deutscher Text#locale-eng:English text" gefüllt werden. Beispiel: Apfelbaum#locale-eng:apple tree
+Abb.: Identifikator des übergeordneten Metadatensatzes
+
+Angabe einer Kurzbezeichnung für ein Objekt. (Wird insbesondere von GeoMIS.Bund unterstützt.) Bei gewünschter Mehrsprachigkeit muss dieses Feld nach dem Schema "Deutscher Text#locale-eng:English text" gefüllt werden. Beispiel: Apfelbaum#locale-eng:apple tree
 
 **Beispiel:** *DTK25 digitale topographische Karte GK25 - Grundkarte*
 
