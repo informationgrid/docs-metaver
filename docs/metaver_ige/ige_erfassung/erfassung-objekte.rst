@@ -183,6 +183,9 @@ Abb.: Verknüpfung mit den Adressen
 Über den Link „Adresse hinzufügen“ wird die Adressverknüpfung angelegt. Als Auswahlmöglichkeit stehen alle im Adressstrukturbaum des Metadatenkataloges eingetragenen Adressdaten zur Verfügung.
 
 
+Open Data
+--------
+
 Open Data Checkbox
 ^^^^^^^^^^^^^^^^^^
 
