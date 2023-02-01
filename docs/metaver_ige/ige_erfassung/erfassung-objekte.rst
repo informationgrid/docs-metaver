@@ -82,14 +82,10 @@ Objektname
 Angabe einer kurzen prägnanten Bezeichnung. Soweit ein gängiges Kürzel vorhanden ist, ist dieses Kürzel mit anzugeben. Der Eintrag in dieses Feld ist obligatorisch.
 
 
-Objekt-Typ
-''''''''''
+Objektklasse 
+''''''''''''
 
-Der Objekt-Typ (bzw. die Objektklasse) richtet sich danach, welche Auswahl im Erfassungsassistenten getroffen wurde.
-
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_assistenten/ige-objekt-anlegen_assistent.png
-
-Abb.: Erfassungsassistent
+Der die Objektklasse (bzw. der Objekt-Typ) richtet sich danach, welche Auswahl im Erfassungsassistenten getroffen wurde.
 
 Zu den `Objektklassen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/objektklassen.html>`_.
 
