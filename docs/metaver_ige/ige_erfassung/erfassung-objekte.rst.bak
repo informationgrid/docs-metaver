@@ -47,13 +47,13 @@ Wird ein neues Objekt angelegt, öffnet sich ein Dialogfenster. Darin muss ausge
 Abb.: Erfassungsassistent
 
 Allgemeiner Erfassungsassistent
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+'''''''''''''''''''''''''''''''
 
 Sind die zu beschreibenden Informationen bereits im Internet veröffentlicht, kann der Allgemeine Erfassungsassistent genutzt werden. Die entsprechende Internetseite wird hierbei vom Semantic Network Service (SNS, Umweltbundesamt) analysiert. Soweit ausreichend Informationen auf der jeweiligen Internetseite vorhanden sind, werden die Felder Titel, Beschreibung, Schlagworte, Raum- und Zeitbezug automatisch gefüllt.
 
 
 getCapabilities Assistent
-^^^^^^^^^^^^^^^^^^^^^^^^^
+'''''''''''''''''''''''''
 
 Zur Erfassung von Diensten (WMS, WFS, WCS, WCTS, WMTS und CSW) kann der getCapabilities-Assistent genutzt werden. Auf Grundlage der Informationen der getCapability-URL befüllt der Assistent hierbei insbesondere die komplexen technischen Felder zur Beschreibung des Dienstes automatisch, so dass die Erfassung von OGC konformen Diensten erheblich vereinfacht wird. Die Ergebnisse der Analyse werden in das neue Metadatenobjekt übernommen. Anschließend kann das Objekt im InGrid Editor weiterbearbeitet und gespeichert werden.
 
@@ -77,13 +77,13 @@ Nach dem Anlegen eines neuen Objektes stehen die Eingabefelder für das neue Obj
 
 
 Objektname
-^^^^^^^^^^
+''''''''''
 
 Angabe einer kurzen prägnanten Bezeichnung. Soweit ein gängiges Kürzel vorhanden ist, ist dieses Kürzel mit anzugeben. Der Eintrag in dieses Feld ist obligatorisch.
 
 
 Objekt-Typ
-^^^^^^^^^^
+''''''''''
 
 Der Objekt-Typ (bzw. die Objektklasse) richtet sich danach, welche Auswahl im Erfassungsassistenten getroffen wurde.
 
@@ -98,7 +98,7 @@ Zu den `Objektklassen <https://metaver-bedienungsanleitung.readthedocs.io/de/lat
 
 
 Verantwortlicher
-^^^^^^^^^^^^^^^^
+''''''''''''''''
 
 Hier wird automatisiert der Erfasser eingetragen, der das Objekt angelegt hat. An dieser Stelle sollte jedoch die Person stehen, die für die Aktualisierung zuständig ist. In der Regel ist der Erfasser auch die fachlich Verantwortliche Person (Standardeinstellung).
 

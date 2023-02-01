@@ -69,7 +69,7 @@ Die nachfolgenden Felder der Erfassungsmaske wurden in diesem Dokument allgemein
 Kopf der Erfassungsmaske
 ------------------------
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-01_kopf/ige_ige-objekt_kopf.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-01_kopf/ige-objekt_kopf.png
 
 Abb.: Kopf der Erfassungsmaske
 
