@@ -199,7 +199,7 @@ AdV kompatibel
 ''''''''''''''
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_checkbox-adv-kompatibel.png
-  :width: 100
+  :width: 150
 
 Abb.: Checkbox AdV kompatibel
 
@@ -210,7 +210,7 @@ Open Data Checkbox
 ''''''''''''''''''
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_checkbox-open-data.png
-  :width: 100
+  :width: 150
 
 Abb.: Checkbox Open Data
 
