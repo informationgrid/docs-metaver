@@ -153,7 +153,6 @@ Kurzbezeichnung
 ^^^^^^^^^^^^^^^
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_kurzbezeichnung.png
-  :width: 500
 
 Abb.: Kurzbezeichnung
 
