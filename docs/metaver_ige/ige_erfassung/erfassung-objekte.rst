@@ -183,11 +183,22 @@ Abb.: Verknüpfung mit den Adressen
 Über den Link „Adresse hinzufügen“ wird die Adressverknüpfung angelegt. Als Auswahlmöglichkeit stehen alle im Adressstrukturbaum des Metadatenkataloges eingetragenen Adressdaten zur Verfügung.
 
 
-Open Data
---------
+Checkboxen
+^^^^^^^^^^^
+
+INSPIRE-relevant
+''''''''''''''''
+  - konform
+  - nicht konform
+  
+AdV kompatibel
+''''''''''''''
+
+Diese Checkboxen sind unter der `Objektklasse Geodatensatz <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/objektklasse-geodatensatz.html>`_ beschrieben.
+
 
 Open Data Checkbox
-^^^^^^^^^^^^^^^^^^
+''''''''''''''''''
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_open-data-checkbox.png
 
@@ -201,7 +212,7 @@ Es sind dann zusätzlich folgende Angaben verpflichtend einzugeben:
 
 
 Kategorien
-^^^^^^^^^^
+''''''''''
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_open-data_tabelle-kategorien_auswahlliste.png
   :width: 350
