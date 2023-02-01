@@ -8,7 +8,7 @@ Bedienungsanleitung InGrid Editor (IGE)/ METAVER
 
 Version der Bedienungsanleitung
    - InGrid-Version: 5.14.2
-   - letzte Änderung: 31.01.2023
+   - letzte Änderung: 01.02.2023
    - Status: in Bearbeitung
    
    
