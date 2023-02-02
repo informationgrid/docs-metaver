@@ -131,13 +131,14 @@ Beispiele: FND (steht für: Flächennaturdenkmale),  DTK25 (steht für: Digitale
 Vorschaugrafik
 ''''''''''''''
 
-In dieses Feld kann ein Vorschaubild geladen werden. Weiterhin kann ein WMS-Dienst URL oder eine URL zu einer Grafik angegeben werden. Wenn eine Vorschaugrafik oder ein Dienst eingetragen wurde, so wird diese(r) im Portal, in der Detailansicht angezeigt. 
+In dieses Feld kann ein Vorschaubild geladen werden. Weiterhin kann ein WMS-Dienst URL oder eine URL zu einer Grafik angegeben werden. Wenn eine Vorschaugrafik oder ein Dienst eingetragen wurde, so wird diese/r im Portal, in der Detailansicht angezeigt. 
 
 
 Dateibeschreibung
 Geben Sie eine Beschreibung zu der gewählten Grafik ein. Diese Angabe ist für die barrierefreie Darstellung der Grafik auf der Portalseite wichtig.
 
-Beispiel: Karte Schutzgebiete Sachsen-Anhalt
+Beispiel: Digitale Orthophotos Hamburg
+
 
 [Grafik]
 

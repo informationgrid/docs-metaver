@@ -87,29 +87,26 @@ Beispiele: FND (steht für: Flächennaturdenkmale), DTK25 (steht für: Digitale 
 Vorschaugrafik
 ''''''''''''''
 
-In dieses Feld kann eine WMS-Dienst URL oder eine URL zu einer Grafik angegeben werden. Wenn in den Metadatensatz eine Vorschaugrafik/Grafik eingetragen wurde, so wird diese in der Suchergebnisliste und in der Detailansicht unter "Allgemeines" dargestellt. 
+In dieses Feld kann ein Vorschaubild geladen werden. Weiterhin kann ein WMS-Dienst URL oder eine URL zu einer Grafik angegeben werden. Wenn eine Vorschaugrafik oder ein Dienst eingetragen wurde, so wird diese/r im Portal, in der Detailansicht angezeigt. 
 
-
-Beispiel WMS-Request + Parameter: https://www.URL.de/../../../..?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetMap&FORMAT=image/png&BBOX=600280,5880886,791921,5649149&HEIGHT=200&WIDTH=200&BGCOLOR=0xFFFFFF&EXCEPTIONS=application/vnd.ogc.se_inimage&TRANSPARENT=TRUE&STYLES=&CRS=EPSG:25832&LAYERS=%20lau_br_lsa
-
-Beispiel Grafik-URL: https://www.URL.de/images/schutzgebiet.png
 
 Dateibeschreibung
-'''''''''''''''''
-
 Geben Sie eine Beschreibung zu der gewählten Grafik ein. Diese Angabe ist für die barrierefreie Darstellung der Grafik auf der Portalseite wichtig.
 
-**Beispiel:** *Karte Landschaftsschutzgebiete Sachsen-Anhalt*
+Beispiel: Digitale Orthophotos Hamburg
 
 
 [Grafik]
 
-Abb.: Anzeige der Vorschaugrafik (WMS) in der Suchergebnisliste auf der Portaloberfläche. Im Geodatensatz wird der Button "Karte", für den Aufruf des Kartenviewers, angezeigt. Die Metadaten lassen sich über den Button "XML" im Browser als XML-File anzeigen.
-
+Abb.: 
 
 [Grafik]
 
-Abb.: Anzeige der Vorschaugrafik in der Detailansicht des Datensatzes - Über den Button "Zeige Karte" wird der Kartenviewer aufgerufen.
+Abb.: 
+
+[Grafik]
+
+Abb.: 
 
  
 

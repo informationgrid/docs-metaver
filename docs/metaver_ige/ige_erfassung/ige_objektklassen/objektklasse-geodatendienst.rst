@@ -137,20 +137,20 @@ In dieses Feld kann ein Vorschaubild geladen werden. Weiterhin kann ein WMS-Dien
 Dateibeschreibung
 Geben Sie eine Beschreibung zu der gewählten Grafik ein. Diese Angabe ist für die barrierefreie Darstellung der Grafik auf der Portalseite wichtig.
 
-Beispiel: Karte Schutzgebiete Sachsen-Anhalt
+Beispiel: Digitale Orthophotos Hamburg
+
 
 [Grafik]
 
-Abb.: Anzeige der Vorschaugrafik (WMS) in der Suchergebnisliste auf der Portaloberfläche. Im WMS wird der Button "Karte", für den Aufruf des Kartenviewers, angezeigt. Die Metadaten lassen sich über den Button "XML" im Browser als XML-File anzeigen.
+Abb.: 
 
 [Grafik]
 
-Abb.: Anzeige der Vorschaugrafik (WFS) in der Suchergebnisliste auf der Portaloberfläche. Im WFS fehlt der Button "Karte". Die Metadaten lassen sich über den Button "XML" im Browser als XML-File anzeigen.
+Abb.: 
 
 [Grafik]
 
-Abb.: Anzeige der Vorschaugrafik in der Detailansicht des WMS-Dienstes - Über den Butten "Zeige Karte" wird der Kartenviewer aufgerufen. Für den WFS-Dienst fehlt diese Ansicht.
- 
+Abb.: 
 
 Beschreibung
 ''''''''''''
