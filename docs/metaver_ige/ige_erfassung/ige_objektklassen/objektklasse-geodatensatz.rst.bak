@@ -27,16 +27,24 @@ Beispiele:
 Erfassung
 ---------
 
+Kopf der Erfassungsmaske
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+[Grafik]
 
 Nach dem Anlegen eines neuen Objektes stehen die Eingabefelder für das neue Objekt im rechten Inhaltsfenster zur Verfügung. Als erster Schritt sollten die Basisinformationen im Inhaltsfenster (siehe Screenshot) bearbeitet werden.
 
 Objektname
+''''''''''
+
 Hier erfolgt die Angabe einer kurzen prägnanten Bezeichnung des beschriebenen Datensatzes. Der Objektname kann z.B. identisch mit dem Namen des Geodatendienstes sein, sofern dieser ausreichend kurz und aussagekräftig ist. Soweit ein gängiges Kürzel vorhanden ist, ist dieses Kürzel mit anzugeben. Der Eintrag für dieses Feld ist zwingend.
 
 Beispiel: Digitales Landschaftsmodell 50 (DLM50)
 
 
 Objektklasse
+''''''''''''
+
 Je nachdem, welche Objektklasse bei der Erstellung des Metadatensatzes im Assistenten gewählt wurde, so werden im Inhaltsbereich entsprechende Eingabefelder angezeigt.
 
 Hinweis:
@@ -44,6 +52,8 @@ Ein Wechsel der Objektklasse ist an dieser Stelle nicht mehr möglich.
 
 
 Verantwortlicher
+''''''''''''''''
+
 Hier ist standardmäßig der Erfasser eingetragen, der das Objekt angelegt hat (z.B. Max Mustermann). An dieser Stelle sollte die Person stehen, die sich für dieses Objekt verantwortlich fühlt und dafür sorgt, dass das Objekt aktuell gehalten wird. Meistens ist daher der Erfasser zugleich auch der richtige Verantwortliche. (Nähere Informationen zur Qualitätssicherung finden Sie unter der Rubrik Metadaten im Leitfaden der GDI-LSA "Qualitativ hochwertige Metadaten erfassen und pflegen – Hinweise für Metadatenerfasser" bzw. in der „Anleitung für die Erfassung von Metadaten“). 
 
 Hinweis:
@@ -63,15 +73,20 @@ Die Objekt-ID erscheint im Frontend-Metadatensatz in der Rubrik „Zusätzliche 
 sie ist nicht zu verwechseln mit dem Identifikator der Datenquelle!
 
 
-1.2	Abschnitt Allgemeines
+Abschnitt Allgemeines
+^^^^^^^^^^^^^^^^^^^^^
 
 Kurzbezeichnung
+'''''''''''''''
+
 Angabe einer Abkürzung (Kurzbezeichnung) für den zu beschreibenden Geodatensatz.
 
 Beispiele: FND (steht für: Flächennaturdenkmale), DTK25 (steht für: Digitale Topographische Karte im Maßstab 1: 25.000)
 
 
 Vorschaugrafik
+''''''''''''''
+
 In dieses Feld kann eine WMS-Dienst URL oder eine URL zu einer Grafik angegeben werden. Wenn in den Metadatensatz eine Vorschaugrafik/Grafik eingetragen wurde, so wird diese in der Suchergebnisliste und in der Detailansicht unter "Allgemeines" dargestellt. 
 
 
@@ -80,33 +95,39 @@ Beispiel WMS-Request + Parameter: https://www.URL.de/../../../..?SERVICE=WMS&VER
 Beispiel Grafik-URL: https://www.URL.de/images/schutzgebiet.png
 
 Dateibeschreibung
+'''''''''''''''''
+
 Geben Sie eine Beschreibung zu der gewählten Grafik ein. Diese Angabe ist für die barrierefreie Darstellung der Grafik auf der Portalseite wichtig.
 
-Beispiel: Karte Landschaftsschutzgebiete Sachsen-Anhalt
+**Beispiel:** *Karte Landschaftsschutzgebiete Sachsen-Anhalt*
 
 
- 
+[Grafik]
 
 Abb.: Anzeige der Vorschaugrafik (WMS) in der Suchergebnisliste auf der Portaloberfläche. Im Geodatensatz wird der Button "Karte", für den Aufruf des Kartenviewers, angezeigt. Die Metadaten lassen sich über den Button "XML" im Browser als XML-File anzeigen.
 
 
- 
+[Grafik]
 
 Abb.: Anzeige der Vorschaugrafik in der Detailansicht des Datensatzes - Über den Button "Zeige Karte" wird der Kartenviewer aufgerufen.
 
  
 
 Beschreibung
+''''''''''''
+
 Eintrag einer Aussagekräftigen fachlichen Inhaltsangabe zum beschreibenden Geodatensatz. Auf Verständlichkeit für fachfremde Dritte ist zu achten. Technische Einzelheiten in Verbindung mit der Datenverarbeitung sollten auf das Wesentliche beschränkt sein. Das Feld Beschreibungen muss ausgefüllt werden, es ist ein Pflichtfeld, sonst lässt sich der Metadatensatz nicht freigeben.
 
-Hinweis: Empfohlen ist ein Absatz. Je mehr Inhalte eingegeben werden, umso mehr Schlüsselwörter sind auch für die Suche vorhanden. Kurze Sätze werden besser verstanden.
+**Hinweis:** *Empfohlen ist ein Absatz. Je mehr Inhalte eingegeben werden, umso mehr Schlüsselwörter sind auch für die Suche vorhanden. Kurze Sätze werden besser verstanden.*
 
  
-
 Adressen
+''''''''
+
 An dieser Stelle sind Personen, Fachbereiche oder Institutionen anzugeben, die weitere Auskünfte zum aktuellen Objekt/Datensatz geben können. Es besteht dabei keine Verpflichtung zur Veröffentlichung von Personenbezogenen Daten (siehe Erfassungsanleitung Teil 2, Punkt: 1.1 Anlegen von Adressen, Feld: "Daten nicht anzeigen"). Die Angabe einer Institution oder eines Fachbereiches ist ausreichend. Bei Bedarf können diese Verweise geändert werden. In der linken Spalte ist kein freier Eintrag möglich, die Auswahl erfolgt über eine Dropdown-Liste. Zum Öffnen des Dropdownmenüs die entsprechende freie Zelle der Tabelle markieren und anschließend auf das kleine Dreieck am rechten Rand klicken. Es öffnet sich daraufhin die Dropdown-Liste mit den Auswahlmöglichkeiten:
 
 Auswahlliste Art des Verweises
+
  - Anbieter 
  - Ansprechpartner 
  - Autor 
@@ -120,17 +141,21 @@ Auswahlliste Art des Verweises
 
 
 Link Adresse hinzufügen
+'''''''''''''''''''''''
+
 Über den Link "Adresse hinzufügen" wird der Verweis selbst angelegt. Als Auswahlmöglichkeit stehen alle in der Adressverwaltung des aktuellen Kataloges bereits eingetragenen Adressdaten zur Verfügung. 
 
 Über das Kontextmenü (rechte Maustaste) ist es möglich Adressen aus einer Zeile zu kopieren und in eine weitere Zeile einzufügen.
 
-Beispiel: 
-Ansprechpartner: Max Mustermann 
-Verwalter: Lieschen Müller
+**Beispiel:**
+*Ansprechpartner: Max Mustermann*
+*Verwalter: Lieschen Müller*
 
  
 
 Adresse hinzufügen
+'''''''''''''''''''
+
 In der Direkten Suche können Sie entweder nach der Einheit bzw. Institution, den Nachnamen, den Vornamen oder einer Kombination aus den Feldern suchen. Es wird immer eine Suche nach einer Teilzeichenkette durchgeführt. Werden Zeichenketten in mehreren Feldern angegeben, wird eine Adresse nur dann gefunden, wenn alle Zeichenketten übereinstimmen (UND-Verknüpfung).
 Die gefundenen Adressen werden in der Trefferliste angezeigt. Durch ein einfaches Klicken auf einen Eintrag wird dieser markiert. Durch ein anschließendes Klicken auf "Übernehmen" wird die markierte Referenz auf die Adresse in das Objekt übernommen. 
 Im Hierarchiebaum können Sie in der üblichen Weise navigieren. Ein einfacher Klick auf eine Adresse markiert diese. Durch ein anschließendes Klicken auf "Übernehmen" wird die markierte Referenz auf die Adresse in das Objekt übernommen.
@@ -138,10 +163,14 @@ Hinweis:
 Die Adresszeilen sind auch zwischen verschiedenen Objekten und (Adress-) Elementen kopierbar. 
 
 Adressen Kopieren und Einfügen
+''''''''''''''''''''''''''''''
+
 Eine Adresse wird kopiert, indem mit der rechten Maustaste eine Adresszeile angeklickt und die Option „Adresse kopieren“ gewählt wird. Die kopierte Adresse kann nun in einem beliebigen Objekt in einer leeren oder auch in einer befüllten Adresszeile eingetragen werden. Beim Einfügen in eine leere Zeile wird eine Kopie der Adresse samt Rolle eingetragen. Wird in einem bestehenden Eintrag eingefügt, so wird nur die Adresse ausgetauscht, die Rolle bleibt erhalten. 
  
 
 INSPIRE-relevant
+''''''''''''''''
+
 Dieses Feld definiert, wenn aktiviert, dass ein Metadatensatz für das INSPIRE-Monitoring vorgesehen ist.
 
 Folgende Eigenschaften ändern sich bei der Aktivierung der Checkbox:
@@ -151,21 +180,28 @@ Folgende Eigenschaften ändern sich bei der Aktivierung der Checkbox:
 Die als INSPIRE-relevant markierten Datensätze werden im INSPIRE GeoPortal (https://inspire-geoportal.ec.europa.eu/) veröffentlicht.
 
 konform
+''''''''
+
 Geodatensatz wird an INSPIRE gemeldet und liegt im INSPIRE-DatenSchema vor. Der Grad der Konformität (im Abschnitt: "Zusatzinformation", Tabelle: Konformität) zur Spezifikation (VO 1089/2010) wird auf "true" gesetzt.
 
 Hinweis: 
 Dieses Feld erscheint nur, wenn in der Objektklasse "Geodatensatz" das Häkchen in das Feld "INSPIRE-relevant" gesetzt wurde.
 
 nicht konform
+'''''''''''''
+
 Geodatensatz wird an INSPIRE gemeldet, liegt aber nicht im INSPIRE-DatenSchema vor. Der Grad der Konformität zur Spezifikation (VO 1089/2010) kann durch den Anwender (im Abschnitt: "Zusatzinformation", Tabelle: Konformität) nur auf "false" oder "nicht evaluiert" gesetzt werden.
 
-Achtung:
-Dieses Feld erscheint nur, wenn in der Objektklasse "Geodatensatz" das Häkchen in das Feld "INSPIRE-relevant" gesetzt wurde.
+**Achtung!**
+*Dieses Feld erscheint nur, wenn in der Objektklasse "Geodatensatz" das Häkchen in das Feld "INSPIRE-relevant" gesetzt wurde.*
 
 AdV kompatibel
+''''''''''''''
+
 Beim Anhaken der Checkbox "AdV kompatibel" werden die Anforderungen des AdV-Metadatenprofils umgesetzt (z.B. Automatisiertes Setzen des Schlüsselwortes "AdVMIS" in der Datenbank).
 
 Open Data
+'''''''''
 Diese Checkbox kennzeichnet den Metadatensatz als "Open Data"-Objekt.
 Es sind dann zusätzlich folgende Angaben verpflichtend:
 
@@ -176,34 +212,34 @@ Es sind dann zusätzlich folgende Angaben verpflichtend:
 Hinweis:
 Die Checkbox „Open Data“ ist derzeit für Sachsen-Anhalt nicht relevant, da für Open Data noch keine gesetzlichen Grundlagen existieren. 
 
-1.3	Abschnitt Verschlagwortung
 
- 
 
- 
+Abschnitt Verschlagwortung
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 AdV Produktgruppe
+'''''''''''''''''
 Auswahl einer Produktgruppe bzw. eines Fachthemas der AdV.
 
-Hinweis: 
-Dieses Feld ist nur ein Pflichtfeld, wenn in das Feld "AdV kompatibel" ein Häkchen gesetzt wurde.
-
- 
+**Hinweis:**
+*Dieses Feld ist nur ein Pflichtfeld, wenn in das Feld "AdV kompatibel" ein Häkchen gesetzt wurde.*
 
 INSPIRE-Themen
+''''''''''''''
 Auswahl eines INSPIRE Themengebiets für die Verschlagwortung des Geodatensatzes (INSPIRE-Pflichtfeld).
 
 Bei Eintragung oder Löschen eines INSPIRE-Themas werden im Pflichtfeld Spezifikation der Konformität automatisch Einträge vorgenommen bzw. entfernt.
 
-Beispiel: Boden
-(automatischer Eintrag im Abschnitt "Zusatzinformation", Feld: "Konformität": "VERORDNUNG (EG) Nr. 1089/2010 - INSPIRE Durchführungsbestimmung Interoperabilität von Geodatensätzen und -diensten: konform / nicht konform")
+**Beispiel:** *Boden*
+*(automatischer Eintrag im Abschnitt "Zusatzinformation", Feld: "Konformität": "VERORDNUNG (EG) Nr. 1089/2010 - INSPIRE Durchführungsbestimmung Interoperabilität von Geodatensätzen und -diensten: konform / nicht konform")*
 
-Achtung:
-Dieses Feld ist nur ein Pflichtfeld, wenn in das Feld "INSPIRE-relevant" ein Häkchen gesetzt wurde.
+**Achtung!**
+*Dieses Feld ist nur ein Pflichtfeld, wenn in das Feld "INSPIRE-relevant" ein Häkchen gesetzt wurde.*
 
 Über ein Dropdownmenü öffnet sich die Liste aller INSPIRE-Themengebiete, aus der das zutreffende Thema auszuwählen ist. Handelt es sich bei den beschriebenen Daten um keinen INSPIRE-relevanten Geodatensatz, so ist "kein INSPIRE-Thema" aus der Liste auszuwählen. 
 
 Auswahlliste INSPIRE-Themen
+
 1.	Kein INSPIRE-Thema
 2.	Adressen
 3.	Atmosphärische Bedingungen
@@ -243,20 +279,24 @@ Schutzgebiete/geregelte Gebiete und Berichterstattungseinheiten
  
 
 INSPIRE - priority data set (optionales Feld)
+'''''''''''''''''''''''''''''''''''''''''''''
+
 Priority Data Sets sind jene Geodatensätze, die für die Berichterstattung im Rahmen der EU-Umwelt-Richtlinien bereitgestellt werden (Berichtsdatensätze). Dazu ist je nach Betroffenheit von den Umweltberichterstattungspflichten die entsprechende/-n Rechtsschrift/-en aus der Liste auszuwählen.
 
 Auszug aus der Auswahlliste INSPIRE - priority data set
+
 1.	Lärmbelastung durch Hauptverkehrsstraßen - Tag-Abend-Nacht-Lärmindex (Umgebungslärmrichtlinie) {en: Major roads noise exposure delineation day-evening-night (Noise Directive)}
 2.	Lärmbelastung in Ballungsräumen - Tag-Abend-Nacht-Lärmindex (Umgebungslärmrichtlinie) {en: Agglomerations - noise exposure delineation day-evening-night (Noise Directive)}
 3.	Location of boreholes {en: Location of boreholes}
 4.	Kommunale Abwasserbehandlungsanlagen (Kommunalabwasserrichtlinie) {en: Urban waste-water treatment plants (Urban Waste Water Treatment Directive)}
 5.	Schadstofffreisetzungen (Europäisches Schadstofffreisetzungs- und -verbringungsregister) {en: Actual pollutant 
 
-Hinweis: Die vollständige Liste finden Sie als Anlage am Ende dieses Dokumentes.
+**Hinweis:** *Die vollständige Liste finden Sie als Anlage am Ende dieses Dokumentes.*
 
  
 
 INSPIRE - Räumlicher Anwendungsbereich (INSPIRE-Pflichtfeld)
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Das Schlagwort "Räumlicher Anwendungsbereich" wird im Rahmen des INSPIRE-Monitorings verwendet, um die flächenmäßige Abdeckung der INSPIRE-relevanten Geodatensätze auszuwerten. INSPIRE-relevante Geodatensätze müssen aus den zur Auswahl stehenden Werten entweder mit "National", "Regional" oder "Lokal" beschrieben werden.
 
@@ -266,21 +306,23 @@ Auswahlfeld INSPIRE - Räumlicher Anwendungsbereich
  - National	 - Regional
 
 
- 
-
 ISO-Themenkategorie
+'''''''''''''''''''
+
 Dieses Feld verlangt die Angabe der Hauptthemen, welche die Metadaten beschreiben.
 Die Auswahl erfolgt über die vorgegebene Auswahlliste.
 
 Für INSPIRE-konforme Metadaten über Daten ist die Angabe einer ISO-Themenkategorie notwendig. Um eine sachrichtige inhaltliche Zuordnung von INSPIRE-Themen zu ISO-Themenkategorien zu gewährleisten und es dem Erfasser möglichst einfach zu machen, übernimmt die InGrid Software die Zuordnung. Bei Auswahl eines INSPIRE Themas wird die entsprechende ISO-Kategorie automatisch hinzugefügt. Der Nutzer wird per Tooltip über den Automatismus informiert.
-Beispiel:
-Wird das INSPIRE-Thema "Adressen" ausgewählt, so wird automatisch die passende ISO-Themenkategorie "Ortsangaben" hinzugefügt.
+
+**Beispiel:**
+*Wird das INSPIRE-Thema "Adressen" ausgewählt, so wird automatisch die passende ISO-Themenkategorie "Ortsangaben" hinzugefügt.*
 
 Wird versucht eine ISO-Kategorie zu löschen, die an ein INSPIRE-Thema geknüpft ist, so wird dies verhindert und der Nutzer über einen Tooltip darüber informiert.
 
 Umgekehrt gilt der Automatismus nicht: Beim Hinzufügen einer ISO Kategorie wird kein INSPIRE Thema gesetzt.
 
 Auswahlliste ISO 19115 Themenkategorien
+
  - Atmosphäre
  - Bauwerke
  - Binnengewässer
@@ -300,43 +342,44 @@ Auswahlliste ISO 19115 Themenkategorien
  - Verkehrswesen
  - Wirtschaft
 
-Hinweis: Der Inhalt der Themen-Auswahlliste stammt aus der ISO 19115 und kann nicht erweitert werden. 
+**Hinweis:** *Der Inhalt der Themen-Auswahlliste stammt aus der ISO 19115 und kann nicht erweitert werden.*
 
-
- 
 
 Optionale Schlagworte
+''''''''''''''''''''''
 Eingabe von mindestens drei Schlagworten, die im Thesaurus verzeichnet sind. Die Verschlagwortung dient dem themenbezogenen Wiederauffinden (Retrieval) der Objekte über den Thesaurus-Navigator. Dazu müssen Schlagworte aus dem Thesaurus ausgewählt werden, die das Objekt so genau wie möglich, aber auch so allgemein wie nötig beschreiben. So sollte mindestens ein Schlagwort in der Thesaurus-Hierarchie einen relativ allgemeinen Aspekt des Objektes beschreiben und mindestens ein Schlagwort das Objekt so speziell wie möglich beschreiben. Die Auswahl kann über den "Verschlagwortungsassistent" oder den "Thesaurus-Navigator" vorgenommen werden - siehe Verlinkung.
 
- 
+[Grafik]
 
 Abb.: Beispiel für eine Verschlagwortung
 
-Hinweis: Die optionalen Schlagworte sind nur sichtbar, wenn der Abschnitt Verschlagwortung weiter ausgeklappt wird.
+**Hinweis:** *Die optionalen Schlagworte sind nur sichtbar, wenn der Abschnitt Verschlagwortung weiter ausgeklappt wird.*
 
 Umwelt-Thesaurus (UMTHES)
+'''''''''''''''''''''''''
 Die Verschlagwortung über den Umwelt-Thesaurus dient dem themenbezogenen Wiederauffinden der Objekte über den Thesaurus-Navigator. Dazu müssen Schlagworte aus dem Thesaurus (UMTHES) ausgewählt werden, die das Objekt so genau wie möglich, aber auch so allgemein wie nötig beschreiben. So sollte mindestens ein Schlagwort in der Thesaurus-Hierarchie einen relativ allgemeinen Aspekt des Objektes beschreiben und mindestens ein Schlagwort das Objekt so speziell wie möglich beschreiben. Die Auswahl kann über den "Verschlagwortungsassistent" oder den "Thesaurus-Navigator" vorgenommen werden (siehe Verlinkung).
 
 Die Eingabe von mindestens drei Schlagworten, die im Umwelt-Thesaurus verzeichnet sind wird empfohlen.
 
-Beispiel für "UMTHES": Luftbild, Bildflug, Orthophoto
+**Beispiel für "UMTHES":** *Luftbild, Bildflug, Orthophoto*
 
 
 Freie Schlagworte eintragen
+'''''''''''''''''''''''''''
+
 Hier erfolgt die Eingabe von Schlagworten die nicht im Thesaurus vorhanden sind.
 Es sollen prägnante Begriffe und Termini, die in engem Zusammenhang mit dem Objekt stehen und die nicht im Thesaurus vorhanden sind, eingetragen werden. Dies können spezielle Fachgebiete, (Mess-Methoden, Bestandteile o.ä. sein. Die Freien Suchbegriffe sind ergänzend zu den Thesaurus-Suchbegriffen anzugeben. Wenn Sie hier einen Thesaurusbegriff eingeben, wird dieser automatisch als Thesaurusbegriff (UMTHES) erkannt und gekennzeichnet. Abschließend den Button "Hinzufügen" betätigen.
 Das eingegebene Schlagwort wird dadurch automatisch in die obere Tabelle übernommen. Ein Hinweis in der rechten Tabellenspalte zeigt an, ob das Schlagwort bereits im Umweltthesaurus (UMTHES) enthalten ist, oder ob das Schlagwort ein „freies Schlagwort“ (FREE) ist.
 
-Beispiel für "FREE": DOP Sachsen-Anhalt, Befliegung
+**Beispiel für "FREE":** *DOP Sachsen-Anhalt, Befliegung*
 
-Hinweis:
-Mehrere Schlagworte können in das Textfeld, durch Komma getrennt, angegeben werden, Zusammengehörige Worte werden in Anführungszeichen gesetzt.
+**Hinweis:**
+*Mehrere Schlagworte können in das Textfeld, durch Komma getrennt, angegeben werden, Zusammengehörige Worte werden in Anführungszeichen gesetzt.*
 
- 
-
- 
 
 Verschlagwortungsassistent
+''''''''''''''''''''''''''
+
 Mit STRG+Mausklick können Sie einen oder mehrere Schlagwörter markieren.
  
 Über die Schaltfläche ">" werden die ausgewählten Schlüsselwörter aus der "Vorschlagsliste" in die Liste "Übernehmen" transportiert. Durch Betätigen der Schaltfläche ">>" können alle Begriffe mit einmal in die rechte Liste übernommen werden. 
@@ -345,9 +388,11 @@ Die Schaltfläche "<" verschiebt die markierten Begriffe wieder aus der rechten 
 
 Mit einem Klick auf die Schaltfläche "Übernehmen" werden alle Begriffe aus der Liste "Übernehmen" dem Metadatensatz als Schlagworte hinzugefügt. 
 
-
+[Grafik]
  
 Abb.: Link Thesaurus-Navigator
+
+[Grafik]
  
 Abb.: Thesaurus-Navigator
 
@@ -355,120 +400,124 @@ Bei der Auswahl der Schlagworte kann der „Thesaurus-Navigator“ helfen.
 
 Der "Thesaurus-Navigator" ist unterteilt in: die Suche, den Hierarchiebaum, die Ergebnisliste und die Liste der Deskriptoren.
 
- 
-
 In die Suchzeile geben Sie einen beliebigen Suchbegriff ein.
 Abschließend betätigen Sie den Button "In Thesaurus suchen".
 
 Es erscheint der gewählte Suchbegriff in der Ergebnisliste. Betätigt man das blaue Symbol vor dem Suchbegriff, wechselt die Ansicht in den Hierarchiebaum (an die Stelle, an der dieser Suchbegriff eingeordnet ist). 
-
- 
 
 Im Strukturbaum können weitere Suchbegriffe ausgewählt werden. Durch Betätigen des Buttons „Hinzufügen“, werden die Schlagworte in die Liste der Deskriptoren übernommen. 
 
 Abschließend betätigen Sie den Button „Übernehmen“. Die gewählten Begriffe werden jetzt in die Tabelle "Optionalen Schlagworte" eingetragen.
 
 
-1.4	Abschnitt Fachbezug
-
- 
-
- 
+Abschnitt Fachbezug
+^^^^^^^^^^^^^^^^^^^
 
 Fachliche Grundlage
+'''''''''''''''''''
+
 Im Feld „fachliche Grundlage“ sollte auf Dokumente verwiesen werden, die Grundlage der fachlichen Inhalte der Karte oder Datensammlung sind. Außerdem können Regeln für die Erfassung (Geo-Information) bzw. Darstellung (Karte) angegeben werden. Dieses Dokument kann eine Erläuterung der gesetzlichen Grundlagen darstellen, jedoch auch selbständigen Charakters sein. Möglich ist eine Eintragung in Textform, indem die Karteikarte "Text" ausgewählt wird. Außerdem ist es möglich, durch Auswahl der Registerkarte "Verweise", ein Verweis zu einem anderen Objekt im aktuellen Katalog herzustellen.
 
 
- 
-
 Identifikator der Datenquelle
+'''''''''''''''''''''''''''''
+
 Hier muss ein eindeutiger Name (Identifikator) für die im Geodatensatz beschriebene Datenquelle (z.B. eine Karte) vergeben/eingetragen werden. Der Identifikator soll aus einem Namensraum (=codespace), sowie einem Code bestehen. (INSPIRE-Pflichtfeld).
 Wenn der Identifikator keinen Namensraum enthält, so wird dem Identifikator bei der Abgabe der Metadaten derjenige Wert vorangestellt, welcher im Bereich Katalogverwaltung/Katalogeinstellungen unter "Namensraum des Katalogs" eingetragen ist.
 Der Identifikator kann von Hand eingetragen werden oder mit Hilfe des Buttons "Erzeuge ID". Bei der automatischen Erzeugung wird eine UUID als Identifikator in dieses Feld eingetragen. Da diese UUID keinen Namespace enthält, wird bei dieser Variante immer der Namensraum aus der Katalogverwaltung hinzugefügt.
-Beispiele:
+
+**Beispiele:**
+ 
+
+[Grafik]
  
 Abb.: Beispiel: ID aus MetaVer
 
+[Grafik]
  
 Abb.: Beispiel: ID aus der Registry
 
-Datensatz/Datenserie
-Bei Daten dieser Klasse ist zwischen einem "Datensatz" und einer "Datenserie" zu unterscheiden. Katalogintern ist stets der Datensatz vorausgewählt.
 
- 
+Datensatz/Datenserie
+''''''''''''''''''''
+
+Bei Daten dieser Klasse ist zwischen einem "Datensatz" und einer "Datenserie" zu unterscheiden. Katalogintern ist stets der Datensatz vorausgewählt.
 
 
 Datensatz
+'''''''''
+
 Als Datensatz wird eine in sich abgeschlossene Sammlung von Geodaten (Daten mit Raumbezug) bezeichnet, z.B. ein digitaler Bestand zu einem bestimmten fachlichen Thema.
 
-Beispiel:
-Stadtplanwerk, bestehend aus 8 Einzelblättern: Das Stadtplanwerk als solches ist eine Datenserie. Jedes einzelne der 8 Blätter hingegen kann als Datensatz beschrieben werden.
+**Beispiel:**
+*Stadtplanwerk, bestehend aus 8 Einzelblättern: Das Stadtplanwerk als solches ist eine Datenserie. Jedes einzelne der 8 Blätter hingegen kann als Datensatz beschrieben werden.*
 
 
-Datenserie
-Eine Datenserie stellt eine Folge oder Gruppierung von gleichartigen Datenbeständen dar, die sich z.B. im abgedeckten räumlichen Bereich oder in der zeitlichen Aussage zum Gültigkeitszeitraum unterscheiden.
+**Datenserie**
+*Eine Datenserie stellt eine Folge oder Gruppierung von gleichartigen Datenbeständen dar, die sich z.B. im abgedeckten räumlichen Bereich oder in der zeitlichen Aussage zum Gültigkeitszeitraum unterscheiden.*
 
-Beispiel:
-Komplexe Darstellung der städtischen Verwaltungsstruktur aus unterschiedlichen dargestellten Grenzen: Es werden die Grenzen der Müllabfuhrbezirke, die Grenzen der Wahlbezirke, der Stadteile, der Schuleinzugsgebiete usw. inhaltlich gezeigt. Alle diese Grenzen für sich genommen könnten als Datensatz beschrieben werden. Die komplexe aufbereitete Darstellung, die diese unterschiedlichen Grenzen vereint, also der Geodatensatz "Komplexe Darstellung der städtischen Verwaltungsstruktur" an sich, wäre in diesem Falle jedoch eine Datenserie.
-
- 
+**Beispiel:**
+*Komplexe Darstellung der städtischen Verwaltungsstruktur aus unterschiedlichen dargestellten Grenzen: Es werden die Grenzen der Müllabfuhrbezirke, die Grenzen der Wahlbezirke, der Stadteile, der Schuleinzugsgebiete usw. inhaltlich gezeigt. Alle diese Grenzen für sich genommen könnten als Datensatz beschrieben werden. Die komplexe aufbereitete Darstellung, die diese unterschiedlichen Grenzen vereint, also der Geodatensatz "Komplexe Darstellung der städtischen Verwaltungsstruktur" an sich, wäre in diesem Falle jedoch eine Datenserie.*
 
 
 Digitale Repräsentation
+''''''''''''''''''''''''
 Angabe der Methode, räumliche Daten zu präsentieren. Die Auswahl erfolgt über eine vorgegebene Liste.
 
-Beispiele: Raster, Gitter, Stereomodell, Text, Tabelle, TIN, Vektor, Video
+**Beispiele:** *Raster, Gitter, Stereomodell, Text, Tabelle, TIN, Vektor, Video*
 
-
- 
 
 Vektorformat
+''''''''''''
+
 Es können hier Topologie Informationen, Geometrietyp (Angabe der geometrischen Objekte, zur Beschreibung der geometrischen Lage) und Elementanzahl (Angaben der Anzahl der Punkt- oder Vektortypelemente) angegeben werden.
 
-Achtung: Dieses Feld ist nur aktiv nach Auswahl von "Vektor" im Feld "Digitale Repräsentation". 
+**Achtung!** *Dieses Feld ist nur aktiv nach Auswahl von "Vektor" im Feld "Digitale Repräsentation".* 
 
  
-
 Erstellungsmaßstab
+''''''''''''''''''
+
 Angabe des Erstellungsmaßstabes, der sich auf die erstellte Karte und/oder Digitalisiergrundlage bei Geodaten bezieht. 
  - Maßstab 1:x: Maßstab der Karte, z.B. 1:12 
  - Bodenauflösung (m): Einheit geteilt durch Auflösung multipliziert mit dem Maßstab (Angabe in Meter, Fließkommazahl) 
  - Scanauflösung (DPI): Auflösung z.B. einer eingescannten Karte, z.B. 120dpi (Angabe in dpi, Integerzahl)
 
-Beispiel:
-Bodenauflösung: Auflösungseinheit in Linien/cm; Einheit: z.B. 1 cm geteilt durch 400 Linien multipliziert mit dem Maßstab 1:25.000 ergibt 62,5 cm als Bodenauflösung
+**Beispiel:**
+*Bodenauflösung: Auflösungseinheit in Linien/cm; Einheit: z.B. 1 cm geteilt durch 400 Linien multipliziert mit dem Maßstab 1:25.000 ergibt 62,5 cm als Bodenauflösung*
 
  
-
 Symbolkatalog
+'''''''''''''
+
 Für die Präsentation genormter Objekte und Sachverhalte können für die Nutzer der Daten zur Herstellung von Karten abgestimmte Symbole vorgegeben werden. Die Angabe eines oder mehrerer analoger oder digitaler Symbolpaletten mit zugehörigem Datum (Pflichteintrag) und Version (Optional) ist hier möglich.
 
-Beispiel: Planzeichenverordnung, Datum 01.01.1998, Version 1.0
+**Beispiel:** *Planzeichenverordnung, Datum 01.01.1998, Version 1.0*
 
  
-
 Schlüsselkatalog
+'''''''''''''''''
+
 An dieser Stelle besteht die Möglichkeit, den Daten zugrunde liegende Klassifizierungs-schlüssel zu benennen. Dabei ist die Eingabe mehrerer Kataloge mit zugehörigem Datum (Pflichteintrag) und Version (Optional) möglich. 
 
-Beispiel: Biotoptypenschlüssel, Datum 01.01.2016, Version 2.0
+**Beispiel:** *Biotoptypenschlüssel, Datum 01.01.2016, Version 2.0*
 
-Achtung:
-Das Feld Schüsselkatalog wird zum Pflichtfeld, wenn in der Tabelle Sachdaten/Attributinformationen ein Eintrag vorgenommen wurde.
+**Achtung!**
+*Das Feld Schüsselkatalog wird zum Pflichtfeld, wenn in der Tabelle Sachdaten/Attributinformationen ein Eintrag vorgenommen wurde.*
 
 Um die Verpflichtung wieder zu entfernen, muss die beschriebene Zeile in der Tabelle "Sachdaten" komplett gelöscht werden (Zeile markieren, rechte Maustaste – Kontextmenü "Zeile löschen"). Es reicht nicht aus, einfach den Text in der Zelle zu löschen.
 
- 
-
 Angabe der mit der Geo-Information/Karte verbundenen Sachdaten. Bei Bedarf kann hier eine Auflistung der Attribute des Datenbestandes erfolgen. Die hauptsächliche Nutzung dieses Feldes ist für digitale Geo-Informationen vorgesehen.
 
-Beispiel: Baumkartei
+**Beispiel:** *Baumkartei*
 
-Achtung: 
-Mit einem Eintrag unter Sachdaten/Attributinformation wird die Tabelle Schlüsselkatalog zum Pflichtfeld. Bitte geben Sie dort den Schlüsselkatalog an, welcher das eingetragene Attribut verzeichnet.
+**Achtung!** 
+*Mit einem Eintrag unter Sachdaten/Attributinformation wird die Tabelle Schlüsselkatalog zum Pflichtfeld. Bitte geben Sie dort den Schlüsselkatalog an, welcher das eingetragene Attribut verzeichnet.*
 
  
-
 Darstellender Dienst
+''''''''''''''''''''
+
 Georeferenzierte Daten, die Basisdaten eines OGC Web-Dienstes sind, können über dieses Feld einen Verweis auf einen beschriebenen OGC Web-Dienst erhalten. Diese Geodaten sind in der Regel eng mit dem Dienst verknüpft ("tightly coupled") und über den verknüpften OGC Web Service direkt erreichbar.
 
 Werden beispielsweise die fachlichen Inhalte eines WMS-Dienstes beschrieben, sollte an dieser Stelle unbedingt ein Verweis zu dem WMS-Dienst vorgenommen werden. Durch diese Verknüpfung kann sich der Nutzer die Daten direkt in der Kartenkomponente des MDK über den WMS-Dienst anzeigen lassen (siehe Daten-Dienste-Kopplung). 
@@ -487,129 +536,126 @@ Sowohl beim Metadatenobjekt der Daten als auch beim Objekt des Dienstes ist nun 
 
  
 
-Beispiel: Eintrag im Geodatendienst
-Verweis auf Datensatz: „ATKIS-DGM1 Sachsen-Anhalt“: 
+**Beispiel:** *Eintrag im Geodatendienst*
+Verweis auf Datensatz: „ATKIS-DGM1 Sachsen-Anhalt“
 
- 
-
-Beispiel: Eintrag im Geodatensatz
+**Beispiel:** *Eintrag im Geodatensatz*
 Verweis auf Geodatendienst: „ATKIS-DGM1 Sachsen-Anhalt (ATOM-Downloaddienst)“
 Verweis auf Geodatendienst: „ATKIS-DGM1 Sachsen-Anhalt (WMS 1.3)“
 
-Hinweis: Um eine Kopplungs-Beziehung wieder zu entfernen, muss diese im Dienste-Objekt gelöscht werden.
-
-
- 
+**Hinweis:** *Um eine Kopplungs-Beziehung wieder zu entfernen, muss diese im Dienste-Objekt gelöscht werden.*
 
 Datengrundlage
+^^^^^^^^^^^^^^
+
 Angabe der Unterlagen (Luftbilder, Karten, Datensammlungen), die bei der Erstellung der Karte oder der Geo-Information (des digitalen Datenbestandes) Verwendung finden. Der Eintrag kann in Textform erfolgen, indem die Karteikarte "Text" ausgewählt wird. Außerdem kann durch Auswahl der Registerkarte "Verweise" ein Verweis zu einem anderen Objekt im aktuellen Katalog erstellt werden.
 
-Beispiel: Kartieroriginale der Pflanzenerfassung
-
-
- 
+**Beispiel:** *Kartieroriginale der Pflanzenerfassung*
 
 Herstellungsprozess
+'''''''''''''''''''
 Angabe der Methode, die zur Erstellung des Datenobjektes geführt hat. Der Eintrag kann in Textform erfolgen, indem die Registerkarte "Text" ausgewählt wird. Außerdem kann durch Auswahl der Registerkarte "Verweise" ein Verweis erstellt werden.
 
-Beispiel: Feldkartierung
+**Beispiel:** *Feldkartierung*
 
-1.5	Abschnitt Datenqualität
 
- 
-
- 
+Abschnitt Datenqualität
+^^^^^^^^^^^^^^^^^^^^^^^
 
 Datendefizit
+''''''''''''
+
 Eingabe einer Prozentangabe zum Anteil der Daten, die im Vergleich zum beschriebenen Geltungsbereich fehlen. Diese kann sich auf die Anzahl der Kartenblätter aber auch auf das Datendefizit einer Gesamtkarte beziehen.
 
-Beispiel: 55
+**Beispiel:** *55*
 Wenn der Erfassungsgrad bei 100% liegt, ist in dem Feld Datendefizit 0% einzutragen. (Datendefizit = 100 – Erfassungsgrad) 
 
 
- 
-
 Höhengenauigkeit
+''''''''''''''''
+
 Angabe über die Genauigkeit der Höhe z.B. in einem Geländemodell.
 
-Beispiel: 3 (m)
+**Beispiel:** 3 (m)
+
 
 Lagegenauigkeit
+'''''''''''''''
+
 Angabe über die Genauigkeit z.B. in einer Karte.
 
-Beispiel: 3 (m)
+**Beispiel:** 3 (m)
 
-Hinweis:
-Die folgenden Eingabefelder erscheinen bei der Auswahl (Verschlagwortung) der INSPIRE-Themen: Adressen, Gewässernetz, Schutzgebiete, Verwaltungseinheiten und Verkehrsnetze.
+**Hinweis:**
+*Die folgenden Eingabefelder erscheinen bei der Auswahl (Verschlagwortung) der INSPIRE-Themen: Adressen, Gewässernetz, Schutzgebiete, Verwaltungseinheiten und Verkehrsnetze.*
 
- 
 
 Datenüberschuss
+'''''''''''''''
+
 Angaben zu den überschüssigen Features, Attributen oder ihren Relationen.
 
-Beispiel: Anzahl der überflüssigen Elemente zur Anzahl der gesamten Elemente: 11,2% 
+**Beispiel:** *Anzahl der überflüssigen Elemente zur Anzahl der gesamten Elemente: 11,2%*
 
-Hinweis: Es wird nur eine Zahl angegeben; kein %-Zeichen.
+**Hinweis:** *Es wird nur eine Zahl angegeben; kein %-Zeichen.*
 
-
- 
 
 Konzeptionelle Konsistenz
+'''''''''''''''''''''''''
+
 Angaben zu Fehlern bezüglich der Verletzung der Regeln des konzeptionellen Schemas
 
-Beispiel: Anzahl der überlappenden Oberflächen innerhalb des Datensatzes: 23
+**Beispiel:** *Anzahl der überlappenden Oberflächen innerhalb des Datensatzes: 23*
 
-
- 
 
 Konsistenz des Wertebereichs
+''''''''''''''''''''''''''''
+
 Angaben zur Übereinstimmung des Wertebereichs - Angegeben wird die Anzahl der Übereinstimmungen im Verhältnis zur Gesamtmenge der Elemente.
 
 
- 
-
 Formatkonsistenz
+''''''''''''''''
+
 Angaben darüber, wie viele Elemente sich im Konflikt zu der physikalischen Struktur des Datensatzes befinden.
 
  
-
 Zeitliche Genauigkeit
+'''''''''''''''''''''
+
 Angabe der Anzahl der zeitlich korrekt zugeordneten Elemente zur Gesamtzahl der Elemente.
 
 
- 
-
 Topologische Konsistenz
+'''''''''''''''''''''''
+
 Angaben zu topologischen Fehlern, die zwischen verschiedenen Unterelementen des Datensatzes auftreten.
 
-Beispiel: Anzahl fehlender Verbindungen zwischen Unterelementen aufgrund von Undershoots/Overshoots.
+**Beispiel:** *Anzahl fehlender Verbindungen zwischen Unterelementen aufgrund von Undershoots/Overshoots.*
 
-
- 
 
 Korrektheit der thematischen Klassifizierung
+''''''''''''''''''''''''''''''''''''''''''''
+
 Angabe der Anzahl der thematisch falsch klassifizierten Elemente zur Gesamtanzahl der Elemente.
 
 
- 
-
 Genauigkeit nicht-quantitativer Attribute
+'''''''''''''''''''''''''''''''''''''''''
+
 Angabe der Anzahl der inkorrekten nicht-quantitativen Attributwerte im Verhältnis zur Gesamtzahl der Attribute.
 
 
- 
-
 Genauigkeit quantitativer Attribute
+'''''''''''''''''''''''''''''''''''
+
 Angabe der Anzahl der quantitativen Attribute, die inkorrekt sind.
 
-Beispiel: Anzahl aller quantitativen Werte, die nicht mit 95% Wahrscheinlichkeit dem wahren Wert entsprechen.
+**Beispiel:** *Anzahl aller quantitativen Werte, die nicht mit 95% Wahrscheinlichkeit dem wahren Wert entsprechen.*
 
 
-1.6	Abschnitt Raumbezugsystem
-
- 
-
- 
+Abschnitt Raumbezugsystem
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Geothesaurus Raumbezug
 Im Abschnitt Geothesaurus-Raumbezug wird die räumliche Ausdehnung des betreffenden Objektes angezeigt. Es wird ein Begrenzungsrechteck (Bounding Box) aus geografischen Koordinaten ("Min" und "Max") angegeben, in dem die Ressource liegt.
