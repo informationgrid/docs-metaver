@@ -662,6 +662,7 @@ Die Namen der Operationen, die vor dem Ausführen der aktuellen Operation ausgef
 
 Durch das Anklicken der Schaltfläche "Hinzufügen" übernehmen Sie die geänderten Daten in die Tabelle "Operationen". Zum Löschen einer Operation aus der Tabelle wählen Sie die Funktion "Zeile Löschen" aus dem Kontextmenü (rechte Maustaste). 
 
+
 Aktualisieren von Operationen und Metadaten
 '''''''''''''''''''''''''''''''''''''''''''
 
@@ -679,7 +680,6 @@ Sollen nur die Operationen aktualisiert werden, dürfen keine Metadaten im GetCa
 Abb.: Dieser Hinweis kann bei der Aktualisierung einer Operation erscheinen.
 
 
-
 Erstellungsmaßstab
 ''''''''''''''''''
 
@@ -688,60 +688,61 @@ Angabe des Erstellungsmaßstabes, der sich auf die erstellte Karte und/oder Digi
 **Beispiel:**
 *Bodenauflösung: Auflösungseinheit in Linien/cm; Einheit: z.B. 1 cm geteilt durch 400 Linien multipliziert mit dem Maßstab 1:25.000 ergibt 62,5 cm als Bodenauflösung*
 
+
 Systemumgebung
 '''''''''''''''
 Angaben zum Betriebssystem und der Software, ggf. auch Hardware, die zur Implementierung des Dienstes eingesetzt wird.
+
 
 Historie
 ''''''''
 Angaben zur Implementierungsgeschichte des Dienstes.
 
-Beispiel: 11.12.03: Installation des UMN Mapserver 3.0 auf Linux 2.2.005.04.04: Upgrade Linux 2.2.0 auf Linux 2.6.0 Modellversuch beim Gewerbeaufsichtsamt Osnabrück 1991; Einführung 1993
+**Beispiel:** *11.12.03: Installation des UMN Mapserver 3.0 auf Linux 2.2.005.04.04: Upgrade Linux 2.2.0 auf Linux 2.6.0 Modellversuch beim Gewerbeaufsichtsamt Osnabrück 1991; Einführung 1993*
 
-
- 
 
 Erläuterungen
+'''''''''''''
+
 Zusätzliche Anmerkungen zu dem beschriebenen Dienst. Hier können weitergehende Angaben z. B. technischer Art gemacht werden, die zum Verständnis des Dienstes notwendig sind.
 
 Beispiel: Der Datensatz ist eine Shape-Datei, die alle Grundwassermessstellen in Sachsen-Anhalt mit Lage und Kennung beinhaltet.
 
-Daten-Dienstekopplung
 
- 
+Daten-Dienstekopplung
+'''''''''''''''''''''
 
 Dargestellte Daten
+''''''''''''''''''
 Das Metadatenfeld „Dargestellte Daten“ bzw. „Gekoppelte Daten auswählen“ ist für den Objekttyp „Geodatendienst“ von besonderer Bedeutung. Ziel ist es, hier alle Metadatensätze zu Geodaten aufzulisten, die Bestandteil des Geodatendienstes sind. Auf diese Weise erfolgt eine Kopplung der Daten und Dienste und dieses wiederum hat den nutzerfreundlichen Vorteil, dass sich der User gefundene Daten sofort über einen Link (im Datensatz) im Kartenviewer ansehen kann (siehe Daten-Dienste-Kopplung). 
 
  
 Datenkopplung
+'''''''''''''
 Zum Eintragen von verknüpften Daten kann nun unterhalb der Tabelle auf den Button „Gekoppelte Daten auswählen“ geklickt werden. In dem daraufhin erscheinenden Dialog aus dem Hierarchiebaum bitte den Datensatz auswählen, der mit dem Dienst gekoppelt werden soll.
 
 Mit einem Klick auf den Button „Zuweisen“ wird die gekoppelte Datensatz beim Dienst-Objekt eingetragen. Zeitgleich erhält der Datensatz automatisch einen Eintrag zum gekoppelten Dienst (Feld: "Darstellender Dienst"). 
 
 
- 
-
 Kopplungstyp
+''''''''''''
 Die Art der Kopplung vom Dienst (Service) zu den Daten. Der Typ "tight" bewirkt, dass ein Verweis zu einem Datensatz existieren muss.
 
 Mögliche Kopplungstypen: loose, mixed, tight
 
- 
 
 Zugang geschützt
+''''''''''''''''
 Das Kontrollkästchen  Zugang geschützt soll aktiviert werden, wenn der Zugang zu dem Dienst z.B. durch ein Passwort geschützt ist. Bei aktiviertem Kontrollkästchen wird kein direkter Link ( Zeige Karte) aus dem Portal zu dem Dienst generiert.
 
 
 Katalog-übergreifende Daten-Dienste-Kopplung
+''''''''''''''''''''''''''''''''''''''''''''
 Daten eines externen Metadatenkatalogs können mit Diensten der Objektklasse "Geodatendienst" gekoppelt werden. Die Kopplung ist bislang jedoch nur mit Datensätzen möglich, bei denen die Daten über einen Verweis vom Typ Datendownload zum Download bereitgestellt werden.
 
  
-
 Die Kopplung wird für den Geodatendienst im InGrid-Editor in der Rubrik Fachbezug unter dem Punkt Dargestellte Daten eingetragen.
 
- 
- 
  
 Nach einem Klick auf den Button „Gekoppelte Daten auswählen“ öffnet sich ein Dialogfenster. Liegt der Datensatz, mit dem der Dienst gekoppelt werden soll, in einem externen Metadatenkatalog vor, so ist die zweite Registerkarte „Externer Datensatz“ auszuwählen.
 
@@ -752,18 +753,15 @@ https://www.host.de/csw?REQUEST=GetRecordById&SERVICE=CSW&VERSION=2.0.2&id=FD218
 
 Über die Angabe dieses Requests wird die katalogübergreifende Daten-Dienste-Kopplung ermöglicht. Nach Eingabe der URL und Klick auf „Analysieren“ erfolgt eine Auswertung des XML-Dokumentes. Mit dem Button „Zuweisen“ wird der externe Datensatz mit dem Dienst gekoppelt.
 
- 
+[Grafik]
 
 Abb.: Detailansicht einer erfolgreichen Daten-Dienste-Kopplung im Portal am Beispiel des INSPIRE.WMS ST Schutzgebite Naturschutz.
 
 1.6 Abschnitt Raumbezugsystem
 
- 
-
-
- 
 
 Geothesaurus Raumbezug
+''''''''''''''''''''''
 Im Bereich Geothesaurus-Raumbezug wird die räumliche Ausdehnung des betreffenden Objekts angezeigt. Es wird ein Begrenzungsrechteck (Bounding Box) aus geografischen Koordinaten („Min“ und „Max“) angegeben, in dem die Ressource liegt.
 
 Als Ausdehnung wird bei neuen Objekten automatisch standardmäßig das Bundesland Sachsen-Anhalt eingetragen. Diesen Eintrag können Sie bei Bedarf löschen (Zeile markieren, rechte Maustaste, „Zeile löschen“). 
@@ -772,27 +770,25 @@ Zur Eingabe eines anderen geografischen Bereichs wählen Sie den Geothesaurus-Na
 Über den Geothesaurus-Navigator kann nach den Koordinaten der räumlichen Einheit gesucht werden.
 
 
- 
-
 Geothesaurus-Navigator
+''''''''''''''''''''''
 Eingabe der Räumlichen Einheit, deren Koordinaten gesucht werden sollen. 
 
 Geben Sie in das Suchfeld den geografischen Begriff (oder einen Teil des Begriffs) ein den Sie suchen. Nach dem Klicken auf die Schaltfläche „In Geo-Thesaurus suchen“ wird nach diesem Begriff im SNS (Semantic Network Service des Umweltbundesamtes) gesucht und die Ergebnisse werden unter Auswahl aufgelistet. Sie können einen oder mehrere Begriffe dieser Liste markieren und über die Schaltfläche "Übernehmen" als Raumbezug dem Objekt hinzufügen. Neben den geografischen Begriffen werden damit automatisch auch die Koordinaten des geografischen Bereiches in das Objekt übernommen. 
 
 Sollte der gewünschte geografische Begriff nicht vorhanden sein, besteht die Möglichkeit, diesen zusammen mit den Koordinaten manuell einzutragen. Wählen Sie unter "Freier Raumbezug" den Link "Raumbezug hinzufügen" z.B. Magdeburg.
 
-Hinweise:
-Der Link "Raumbezug hinzufügen" ist nur sichtbar, wenn die optionalen Felder eingeblendet sind. Für eine breitere Suche können Sie Wildcards verwenden, z.B. Harz* oder *Talsperre.
+**Hinweise:**
+*Der Link "Raumbezug hinzufügen" ist nur sichtbar, wenn die optionalen Felder eingeblendet sind. Für eine breitere Suche können Sie Wildcards verwenden, z.B. Harz* oder *Talsperre.*
 
-
- 
 
 Umgerechnete Koordinaten
+''''''''''''''''''''''''
 Umrechnung der unter Geothesaurus-Raumbezug ausgewählten Daten in die in der Auswahlbox zur Verfügung stehenden Koordinatensysteme.
 
 
-
 Freier Raumbezug
+''''''''''''''''
 Informationen über die räumliche Zuordnung des in dem Objekt beschriebenen Datenbestand. Es können frei wählbare Raumbezugs-Koordinaten hinzugefügt werden. Der Wertebereich im WGS ist folgendermaßen definiert:
 
 - Breite (Latitude): -90 bis 90
@@ -800,26 +796,29 @@ Informationen über die räumliche Zuordnung des in dem Objekt beschriebenen Dat
 
 
  
-
 Raumbezug hinzufügen
+''''''''''''''''''''
 In dem sich öffnenden Dialog können Sie einen freien Raumbezug in dem Koordinatensystem angeben, welches Sie (im Dialogfester unten) ausgewählt haben. 
 
 Mit einem Klick auf die Schaltfläche „Hinzufügen“ werden die Angaben in das Feld „Freier Raumbezug“ des Objektes übernommen. 
 
 
 erben
+'''''
 Über den Link "erben" können alle freien Raumbezüge des übergeordneten Objektes übernommen werden. Dabei werden nur neue Raumbezüge übernommen.
 
 
-
 Raumbezugsystem
+''''''''''''''''
 Über ein Dropdownmenü erfolgt an dieser Stelle die Auswahl des Raumbezugssystems, welches in der Ressource verwendet wurde. 
 
-Anmerkung:
-Die Arbeitsgemeinschaft der Vermessungsverwaltungen der Länder der Bundesrepublik Deutschland (AdV) hat 1991 die Einführung des ETRS89 als Bezugssystem Lage und 1995 die Einführung von UTM als ebenes Koordinatensystem für ETRS89 beschlossen. Dies geschieht im Einklang mit den Empfehlungen der EU zur Realisierung eines europaweiten Raumbezuges und somit zur Schaffung einer einheitlichen Basis für die zukunftsfähige Geodateninfrastruktur in Europa. 
+**Anmerkung:**
+*Die Arbeitsgemeinschaft der Vermessungsverwaltungen der Länder der Bundesrepublik Deutschland (AdV) hat 1991 die Einführung des ETRS89 als Bezugssystem Lage und 1995 die Einführung von UTM als ebenes Koordinatensystem für ETRS89 beschlossen. Dies geschieht im Einklang mit den Empfehlungen der EU zur Realisierung eines europaweiten Raumbezuges und somit zur Schaffung einer einheitlichen Basis für die zukunftsfähige Geodateninfrastruktur in Europa.*
 
-Beispiel: EPSG:4326 / WGS 84 / geographisch
+**Beispiel:** *EPSG:4326 / WGS 84 / geographisch*
+
 Auswahlliste Raumbezugssystem
+
  - CRS 84: CRS 84 / mathematisch
  - DE_42/83 / GK_3
  - DE_DHDN / GK_3
@@ -886,63 +885,64 @@ Auswahlliste Raumbezugssystem
 
 
 
-
- 
-
 Höhe
+''''
 
 Minimum / Maximum
+'''''''''''''''''
 Angabe der Werte für die Höhe über einem Punkt (siehe Pegel) eingegeben. Ist eine vertikale Ausdehnung vorhanden, so kann für das Maximum ein größerer Wert eingegeben werden. Sollte dies nicht der Fall sein, so ist die Eingabe eines Minimalwerts ausreichend, dieser Wert wird dann automatisch ebenso für den Maximalwert übernommen.
 
-Beispiel: Minimum 100, Maximum 110
+**Beispiel:** *Minimum 100, Maximum 110*
 
 
 Maßeinheit
+''''''''''
 Angabe der Maßeinheit, in der die Höhe gemessen wird.
 
-Beispiel: Meter
+**Beispiel:** *Meter*
 
 Vertikaldatum
 Angabe des Referenzpegels, zu dem die Höhe relativ gemessen wird. In Deutschland ist dies i.A. der Pegel Amsterdam.
 
-Beispiel: Pegel Amsterdam
+**Beispiel:** *Pegel Amsterdam*
 
 Erläuterungen
+''''''''''''''
 Zusätzliche Angaben zum Raumbezug.
 
-Beispiel: Die Koordinaten für die Fachliche Gebietseinheit sind ungefähre Angaben.
+**Beispiel:** Die Koordinaten für die Fachliche Gebietseinheit sind ungefähre Angaben.
 
 
-1.7 Abschnitt Zeitbezug
-
- 
-
- 
+Abschnitt Zeitbezug
+^^^^^^^^^^^^^^^^^^^^
 
 Zeitbezug der Ressource
+''''''''''''''''''''''''
+
 In dieser Tabelle wird angegeben, wann die Ressource erstmalig erstellt, publiziert oder/und letztmalig geändert/aktualisiert wurde. Die Datumsangaben beziehen sich dabei nicht auf den Metadatensatz, sondern direkt auf die beschriebene Ressource. Es ist mindestens ein Eintrag erforderlich, es können jedoch auch alle drei Typen gleichzeitig angeben werden.
 
-Beispiel: 22.01.2019 Erstellung
+**Beispiel:** *22.01.2019 Erstellung*
 
  
-
 Erläuterung
+''''''''''''
+
 Hier können z.B. die Angaben der Periodizität eingeschränkt, weitere Zeitangaben gemacht oder Unregelmäßigkeiten erklärt werden. Im Zusammenhang mit dem Eintrag im Feld Periodizität können hier Abstände, Perioden und Intervalle eingetragen werden, die sich nicht aus dem Zusammenhang der anderen Felder des Zeitbezuges erklären, z.B. Jahreszeiten, Dekaden, Tageszeiten.
 
-Beispiel: Die Messungen erfolgten nur tagsüber.
+**Beispiel:** *Die Messungen erfolgten nur tagsüber.*
 
  
-
 Zeitspanne
+''''''''''
 Hier soll das Zeitspanne der Entstehung der eigentlichen Daten (z.B. Messdaten) eingetragen werden.
 
 
- 
-
 Periodizität
+''''''''''''
 Auswahl/Angabe des Zeitzyklus der Datenerhebung. Der Eintrag muss aus der Auswahlliste erfolgen, die über den Pfeil am Ende des Feldes geöffnet wird. Wichtig: Der Eintrag "unbekannt" sollte nicht mehr verwendet und falls noch in Altdaten vorhanden durch sinnvolle Einträge ersetzt werden. Er stellt eine nicht ISO-konforme Erweiterung der Auswahlliste dar.
 
 Auswahlliste der Periodizität
+
  - bei Bedarf
  - einmalig
  - halbjährlich	 - jährlich
@@ -953,14 +953,17 @@ Auswahlliste der Periodizität
  - wöchentlich
  - zweiwöchentlich
 
-Beispiel: täglich
+**Beispiel:** *täglich*
 
  
 
 Status
+''''''
+
 Stand der Ausführung des Projektes, der Messung etc. Der Editor nimmt alle bekannten Daten auf, diese können sich in unterschiedlichen Stadien ihrer Lebenszeit befinden, d.h. Projekte, Programme oder Messungen können in konkreter Planung sein, derzeit durchgeführt werden oder schon abgeschlossen sein.
 
 Auswalliste Status
+
  - abgeschlossen
  - erforderlich
  - geplant
@@ -969,43 +972,49 @@ Auswalliste Status
  - kontinuierliche Aktualisierung
  - veraltet
 
-Beispiel: abgeschlossen
+**Beispiel:** *abgeschlossen*
 
 
  
 
 Im Intervall
+''''''''''''
+
 Angabe des zeitlichen Abstands (Frequenz) der Datenerhebung. Erfolgt die Datenerhebung kontinuierlich oder periodisch (siehe Feld Periodizität), so soll diese Angabe hier präzisiert werden. Es stehen Felder für den freien Eintrag einer Ziffer und eine Auswahlliste zur Verfügung, die zeitliche Intervalle vorgibt. Der Eintrag von 10 und Tage bedeutet: Die beschriebenen Daten werden bzw. wurden alle 10 Tage erhoben.
 
 Auswahlliste der Intervalle
+
  - Jahre
- - Monate	 - Tage
- - Stunden	 - Minuten
+ - Monate
+ - Tage
+ - Stunden
+ - Minuten
  - Sekunden
 
-Beispiel: Alle 6 Monate
+**Beispiel:** *Alle 6 Monate*
 
 
-1.8 Abschnitt Zusatzinformation
+Abschnitt Zusatzinformation
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
- 
-
- 
 
 Sprache des Metadatensatzes
+'''''''''''''''''''''''''''
+
 An dieser Stelle soll die Sprache ausgewählt werden, die bei der Beschreibung der Metadaten verwendet wurde. Es ist hier nicht die Sprache der eigentlichen Ressource gemeint! 
 
 Standardeinstellung ist: Deutsch
 
 
- 
-
 Sprache der Ressource
+'''''''''''''''''''''
+
 Hier ist die Sprache anzugeben, die in der Ressource verwendet wird. Es ist an dieser Stelle nicht die Sprache der Metadaten gemeint! 
 
  
-
 Veröffentlichung
+''''''''''''''''
+
 Das Feld "Veröffentlichung" ist sehr wichtig, denn es gibt den Status der Veröffentlichungsbreite an. Möglich sind folgende Werte, die über ein Dropdown-Menü ausgewählt werden können:
  
  - Internet
@@ -1020,77 +1029,62 @@ Hinweis: Diese Option trifft derzeit für Sachsen-Anhalt nicht zu, da die Portal
 Das Objekt ist nur im Strukturbaum der Erfassungssoftware sichtbar, aber nicht im Intranet und auch nicht im Internet.
 
  
-
 Es ist nicht möglich, einem Objekt eine höhere Freigabestufe zuzuordnen, als die des übergeordneten Objektes. Die abschließende Speicherung wird mit folgender Fehlermeldung verweigert.
 
 
- 
-
 Ebenfalls erscheint ein Warnhinweis, wenn die Veröffentlichungsbreite eines bereits abschließend gespeicherten Objektes, welches noch untergeordnete Objekte der gleichen Veröffentlichungsbreite besitzt, reduziert werden soll. 
 
+**Beispiel:**
+*Das Objekt „Geodatendienste“ hat zurzeit die Veröffentlichungsbreite „Internet“. Alle untergeordneten Objekte sind ebenfalls für das Internet freigegeben. Wird nun „Geodatendienste“ auf die Veröffentlichung „amtsintern“ reduziert und der obige Warnhinweis mit „Speichern“ bestätigt, so werden automatisch auch alle untergeordneten Objekte auf die Veröffentlichungsbreite „amtsintern“ herabgesetzt.*
 
-
-
- 
-
-
-Beispiel: 
-Das Objekt „Geodatendienste“ hat zurzeit die Veröffentlichungsbreite „Internet“. Alle untergeordneten Objekte sind ebenfalls für das Internet freigegeben. Wird nun „Geodatendienste“ auf die Veröffentlichung „amtsintern“ reduziert und der obige Warnhinweis mit „Speichern“ bestätigt, so werden automatisch auch alle untergeordneten Objekte auf die Veröffentlichungsbreite „amtsintern“ herabgesetzt. 
-
-
-
- 
 
 Konformität
+'''''''''''
 Hier muss angegeben werden, zu welcher Durchführungsbestimmung der INSPIRE-Richtlinie bzw. zu welcher anderweitigen Spezifikation die beschriebenen Daten konform sind. (INSPIRE-Pflichtfeld)
 
 Dieses Feld wird bei der Auswahl der "INSPIRE-Themen" oder der "Art des Dienstes" automatisch befüllt. Es muss dann nur der Grad der Konformität manuell eingetragen werden.
 
-Achtung:
-Bitte entsprechend den Empfehlungen des AdV-Metadatenprofils nur die Werte "konform" und "nicht konform" im Feld "Grad der Konformität" verwenden. Für alle nicht INSPIRE-Objekte, sollte hier die „INSPIRE-Richtlinie“ mit dem Wert „nicht evaluiert“ ausgewählt werden. 
+**Achtung!**
+*Bitte entsprechend den Empfehlungen des AdV-Metadatenprofils nur die Werte "konform" und "nicht konform" im Feld "Grad der Konformität" verwenden. Für alle nicht INSPIRE-Objekte, sollte hier die „INSPIRE-Richtlinie“ mit dem Wert „nicht evaluiert“ ausgewählt werden.*
 
-
-
- 
 
 XML-Export-Kriterium
+''''''''''''''''''''
+
 Eintrag eines Selektionskriteriums zur Steuerung des Exports der Daten. Um eine Teilmenge von Objekten exportieren zu können, kann in diesem Feld ein diese Teilmenge identifizierendes Schlagwort eingegeben werden. In der Exportfunktion kann dann eines der Schlagworte aus diesem Feld angegeben werden und alle Objekte exportiert werden, für die in diesem Feld das entsprechende Schlagwort vergeben wurde. Die Eingabe mehrerer Schlagworte ist möglich. Die Schlagworte können frei eingegeben werden. Zur Verhinderung von Schreibfehlern sollte jedoch der Eintrag aus der Auswahlliste vorgezogen werden.
 
-Beispiel: CDS
+**Beispiel:** *CDS*
 
-
- 
 
 Rechtliche Grundlage
+'''''''''''''''''''''
 Angabe der rechtlichen Grundlage, die die Erhebung der beschriebenen Daten veranlasst hat. Hier können Kürzel von Gesetzen, Erlassen, Verordnungen usw. eingetragen werden, in denen z. B. die Methode oder die Form der Erhebung der im Objekt beschriebenen Daten festgelegt oder beschrieben wird. Es ist bei Bedarf der Eintrag mehrerer Angaben möglich.
 
-Beispiel: Umweltinformationsgesetz des Landes Sachsen-Anhalt
+**Beispiel:** *Umweltinformationsgesetz des Landes Sachsen-Anhalt*
 
-
- 
 
 Herstellungszweck
+'''''''''''''''''
 Angabe eines Grundes für die Datenerhebung.
 
  
-
 Eignung/Nutzung
+'''''''''''''''
 Angaben über die Verwendungsmöglichkeiten, die diese Daten in Verbindung mit weiteren Informationen erfüllen können.
 
-Beispiel: 
-Präsentation des Raumordnungsprogramms auf Basis der topografischen Kartenwerke.
+**Beispiel:**
+*Präsentation des Raumordnungsprogramms auf Basis der topografischen Kartenwerke.*
 
 
-1.9 Abschnitt Verfügbarkeit
-
- 
-
- 
+Abschnitt Verfügbarkeit
+^^^^^^^^^^^^^^^^^^^^^^^
 
 Zugriffsbeschränkungen
+''''''''''''''''''''''
+
 Das Feld Zugriffsbeschränkungen beschreibt, die Art der Zugriffsbeschränkung. Bei frei nutzbaren Daten bzw. Services soll der Eintrag "Es gelten keine Zugriffsbeschränkungen" ausgewählt werden (ISO: accessConstraints).
 
-Beispiel: aufgrund der Rechte des geistigen Eigentums
+**Beispiel:** *aufgrund der Rechte des geistigen Eigentums*
 
 Auswahlliste Zugriffsbeschränkungen
  - aufgrund der Rechte des geistigen Eigentums
@@ -1104,19 +1098,20 @@ Auswahlliste Zugriffsbeschränkungen
  - Es gelten keine Zugriffsbeschränkungen
 
 
- 
-
 Nutzungsbedingungen
+'''''''''''''''''''
+
 Einschränkungen zum Schutz der Privatsphäre oder des geistigen Eigentums sowie andere besondere Einschränkungen oder Warnungen bezüglich der Nutzung der Ressource oder der Metadaten (ISO: useConstraints).
 
 In das Feld Nutzungsbedingungen sollen die Bedingungen zur Nutzung des beschriebenen Datensatzes bzw. des Dienstes eingetragen werden. In die entsprechende Zeile kann ein beliebiger Text geschrieben werden.
 
-Beispiel: Nutzungsbedingungen für das amtliche Vermessungswesen Sachsen-Anhalt
+**Beispiel:** *Nutzungsbedingungen für das amtliche Vermessungswesen Sachsen-Anhalt*
 
 Es ist auch möglich, vordefinierten Text aus einer Liste auszuwählen. 
 
 
 Auswahlliste Nutzungsbedingungen
+
  - Es gelten keine Bedingungen
  - Amtliches Werk, lizenzfrei nach §5 Abs. 1 UrhG
  - Andere Freeware Lizenz
@@ -1155,32 +1150,33 @@ Bei frei nutzbaren Daten bzw. Diensten ist beispielsweise "Es gelten keine Bedin
 Haben Sie immer wiederkehrende Nutzungsbedingungen, die nicht in der Liste auftauchen, so wenden Sie sich bitte direkt an die Koordinierungsstelle Metadaten im Ministerium für Umwelt, Landwirtschaft und Energie (metadaten@mule.sachsen-anhalt.de). Wir erweitern die Liste gern um Ihren Eintrag. 
 
 
- 
-
 Anwendungseinschränkungen
+'''''''''''''''''''''''''
 Das Feld Anwendungseinschränkungen dient der Beschreibung, welche Einschränkung oder Eignung auf die Ressourcen oder Metadaten zutreffen (ISO: useLimitation).
 
-Beispiel: Registrierung erforderlich
+**Beispiel:** *Registrierung erforderlich*
 
-
- 
 
 Datenformat
+'''''''''''
+
 Angabe des Formats der Daten in DV-technischer Hinsicht, in welchem diese verfügbar sind. Das Format wird durch 4 unterschiedliche Eingaben spezifiziert. Wenn die erste Spalte befüllt wird, müssen auch die anderen Eintragungen vorgenommen werden. 
 
 Name: Angabe des Formatnamens, wie z.B. "Date" 
 Version: Version der verfügbaren Daten (z.B. "Version 8" oder "Version vom 26.06.2019") Kompressionstechnik: Kompression, in welcher die Daten geliefert werden (z.B. "WinZip", "keine") 
 Bildpunkttiefe: BitsPerSample.
 
-Beispiel: Formatkürzel: tif, Version: 8.0, Kompression: LZW, Bildpunkttiefe: 8 Bit
+**Beispiel:** *Formatkürzel: tif, Version: 8.0, Kompression: LZW, Bildpunkttiefe: 8 Bit*
 
 
- 
 
 Medienoptionen
+'''''''''''''''
+
 Angabe, auf welchen Medien die Daten zur Verfügung gestellt werden können. Hier können elektronische Datenträger als auch Medien in Papierform angegeben werden, auf denen die im Objekt beschriebenen Daten dem Nutzer zur Verfügung stehen. Es können mehrere Medien eingetragen werden. Medium: Angabe der Medien, auf denen der Datensatz bereitgestellt werden kann (ISO-Auswahlliste) Datenvolumen: Umfang des Datenvolumens in MB (Fließkommazahl) Speicherort: Ort der Datenspeicherung im Intranet/Internet, Angabe als Verweis.
 
 Auswahlliste Medium
+
  - 0,5-Zoll Kassette
  - 3,5-Zoll Diskette
  - analoge Fotografie
@@ -1198,37 +1194,41 @@ Auswahlliste Medium
  - Videotext
  - ZIP-Laufwerk
 
-Beispiel: Medium: CD-ROM Datenvolumen: 700 MB Speicherort: Explorer Z:/Bereich_51/Metainformation/20040423_Hilfetexte.doc
+**Beispiel:** *Medium: CD-ROM Datenvolumen: 700 MB Speicherort: Explorer Z:/Bereich_51/Metainformation/20040423_Hilfetexte.doc*
 
-
- 
 
 Bestellinformation
+''''''''''''''''''
+
 Angabe von generellen Informationen wie Bedingungen oder Konditionen zur Bestellung.
 
-Beispiel: Lieferzeit beträgt 3 Wochen
+**Beispiel:** *Lieferzeit beträgt 3 Wochen*
 
 
-1.9 Abschnitt Verweise
-
- 
-
- 
+Abschnitt Verweise
+^^^^^^^^^^^^^^^^^^
 
 Verweis zu
+'''''''''''
+
 Es gibt die Möglichkeit, Verweise von einem Objekt zu einem anderen Objekt oder zu einer Internetadresse (URL) zu erstellen. In dieser Tabelle werden alle Verweise zusammenfassend aufgeführt, welche im aktuellen Objekt angelegt wurden. Über dem Link "Verweise anlegen/bearbeiten" öffnet sich ein Dialog, mit dem weitere Einzelheiten zu den Verweisen eingesehen und editiert werden können. Es ist ferner möglich, weitere Verweise über diesen Dialog hinzuzufügen. Wenn Open-Data ausgewählt ist, muss mindestens ein Verweis vom Typ "Datendownload" vorhanden sein, bevor das Objekt veröffentlicht werden kann!
 
  
-
 Verweis von
+''''''''''''
+
 In dieser Tabelle werden alle Verweise von denjenigen Objekten aufgeführt, welche auf das aktuelle Objekt verweisen. Das Editieren oder Hinzufügen ist nicht möglich. Sollen die Verweise geändert oder ergänzt werden, so muss (über die Verlinkung) zu dem entsprechenden Objekt gewechselt werden.
 
-Hinweis:
-Das Anlegen von Verweisen ist im Teil 2 der Erfassungsanleitung unter 2. ausführlich beschrieben.
+**Hinweis:**
+*Das Anlegen von Verweisen ist im Teil 2 der Erfassungsanleitung unter 2. ausführlich beschrieben.*
 
-2 Download-Dienste als ATOM-Feed bereitstellen
+
+Download-Dienste als ATOM-Feed bereitstellen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  
 ASF - Atom Syndication Format - Atom-Feed
+'''''''''''''''''''''''''''''''''''''''''
+
 Dieses XML-Format, ermöglicht den plattformunabhängigen Austausch von Informationen z. B. für Web-Feeds.
 
 INSPIRE-relevante Daten, welche durch Daten-Metadaten beschrieben sind, müssen über Download-Dienste verfügbar gemacht werden. Zu den möglichen Download-Diensten zählen auch die sogenannten ATOM-Feeds. 
@@ -1241,74 +1241,93 @@ Alle an dieses Service-Metadatenobjekt gekoppelten Daten-Metadaten werden im Ser
 Folgende Voraussetzungen müssen durch den Metadaten-Erfasser erfüllt sein, damit automatisiert ATOM-Feeds erstellt werden können. 
 
 
-
 Art des Dienstes
+''''''''''''''''
+
 Neben den üblichen Pflichtfeldern ist darauf zu achten, dass bei "Art des Dienstes" der Wert "Download-Dienste" ausgewählt und die darunter liegende Checkbox "Als ATOM-Download-Dienst bereitstellen" gesetzt wird. 
 
 Als ATOM-Download Dienst bereitstellen
+'''''''''''''''''''''''''''''''''''''''
+
 Bei aktivierter Option, wird dieser Datensatz im Portal als Download angeboten. Zusätzlich wird die in den Katalogeinstellungen hinterlegte "ATOM-Downloadservice-URL" automatisch in das ISO-Format unter "distributionInfo/*/linkage" abgebildet.
 
  
-
 Version des Dienstes
+'''''''''''''''''''''
+
 Angaben zu Version der dem Dienst zugrunde liegenden Spezifikation.
 
 Eintrag: predefineted ATOM
 
  
-
 Name der Operation
+'''''''''''''''''''
+
 Bei ATOM-Downloaddiensten, die nicht über den InGrid Editor generiert und die im Rahmen von INSPIRE bereitgestellt werden, ist als Name der Operation "Get Download Service Metadata" auszuwählen.
+
 Zugriffsadresse
+''''''''''''''''
+
 Eindeutige URL über die die Operation aufgerufen werden kann.
-Beispiel: https://www.host.de/.../downloads/name_der_datei.zip
+
+**Beispiel:** https://www.host.de/.../downloads/name_der_datei.zip
+
+
 Unterstützte Plattformen
+''''''''''''''''''''''''
 Angaben zur Art der Plattform bzw. Schnittstelle über die der Dienst angesprochen werden kann.
 Auswahl: WebService
 
-2.1 Download-URL 
+
+Download-URL
+''''''''''''
 
 Die Daten, welche für den Download bereitgestellt werden sollen, müssen über das Internet verfügbar sein und über eine URL direkt abrufbar sein. Dabei ist es egal, ob die Daten gezippt oder ungezipt bereitgestellt werden.
 
  
-Beispiel: Formate für den Daten-Download: .shp, .zip
+**Beispiel:** *Formate für den Daten-Download: .shp, .zip*
 
 GetFeature-Request werden dagegen nicht ausgewertet. Der Service-Feed enthält hierbei zwar den Verweis zum Daten-Feed, ruft man aber den Daten-Feed auf, so fehlt der Link zum Download. 
 
-Beispiel: GetFeature-Request: https://www.geodatenportal.sachsen-anhalt.de/wss/service/INSPIRE_LAU_Schutzgebiete_WFS/guest? 
+**Beispiel:** GetFeature-Request: https://www.geodatenportal.sachsen-anhalt.de/wss/service/INSPIRE_LAU_Schutzgebiete_WFS/guest? 
 
 
-2.2 Der InGrid ATOM-Feed Client
+Der InGrid ATOM-Feed Client
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Da die Webbrowser Atom-Feeds kaum noch direkt unterstützen, wurde als Alternative der InGrid Atom-Feed Client bereitgestellt. Die Übernahme der Atom-Dienste aus dem InGrid Editor in den Atom-Feed Client erfolgt im InGrid Editor durch das Aktivieren des Feldes "Als ATOM-Download Dienst bereitstellen".
 
+**Beispiel URL:** https://metaver.de/search/dls/#?partner=st 
+
+**Hinweis:** *Änderungen in der URL mit der Taste F5 (Seite neu laden) abschließen.*
+
+**Beispiel:** https://metaver.de/search/dls/#?serviceId=F3B1E711-7F7F-4E16-A15F-5C39ED0CF9F9&partner=st 
+
+**Beispiel:** https://metaver.de/search/dls/#?serviceId=F3B1E711-7F7F-4E16-A15F-5C39ED0CF9F9&datasetId=E7222818-65AB-4482-9850-73A4744C2BFE&partner=st
  
-
-URL: https://metaver.de/search/dls/#?partner=st 
-
-Hinweis: Änderungen in der URL mit der Taste F5 (Seite neu laden) abschließen.
-
- 
-
-Beispiel: https://metaver.de/search/dls/#?serviceId=F3B1E711-7F7F-4E16-A15F-5C39ED0CF9F9&partner=st 
-
- 
-
-Beispiel: https://metaver.de/search/dls/#?serviceId=F3B1E711-7F7F-4E16-A15F-5C39ED0CF9F9&datasetId=E7222818-65AB-4482-9850-73A4744C2BFE&partner=st 
 Folgende Bedingungen müssen erfüllt sein, so dass ein Dienst mit seinen Download-Referenzen angezeigt wird:
-Kopplung mit Geodatensatz
+
+
+**Kopplung mit Geodatensatz**
+
 1.	Der anzuzeigende Service muss von der Art “Download-Dienste” sein.
 2.	Es muss die Option “Als ATOM-Download Dienst bereitstellen” aktiviert sein.
 3.	Es muss mindestens eine Referenz auf ein Objekt vom Typ “Geodatensatz” vorhanden sein.
 4.	Dieser Geodatensatz muss mindestens einen Verweis vom Typ “Download” besitzen.
 5.	Ein angeschlossenes iPlug-DSC muss die Daten des IGC indexiert haben.
-Kopplung mit externem Datensatz
+
+
+**Kopplung mit externem Datensatz**
+
 1.	Der anzuzeigende Service muss von der Art “Download-Dienste” sein.
 2.	Es muss die Option “Als ATOM-Download Dienst bereitstellen” aktiviert sein.
 3.	Es muss mindestens ein externer Datensatz in den “gekoppelten Daten” hinzugefügt werden.
 4.	Dieser Datensatz muss als URL die Zeichenkette “REQUEST=GetRecordById” enthalten.
 5.	Ein angeschlossenes iPlug-DSC muss die Daten des IGC indexiert haben.
-Direkter Verweis auf externem Datensatz
+
+
+**Direkter Verweis auf externem Datensatz**
+
 1.	Der anzuzeigende Service muss von der Art “Download-Dienste” sein.
 2.	Es muss die Option “Als ATOM-Download Dienst bereitstellen” aktiviert sein.
 3.	Es muss mindestens ein Verweis vom Typ “Datendownload” hinzugefügt werden.
