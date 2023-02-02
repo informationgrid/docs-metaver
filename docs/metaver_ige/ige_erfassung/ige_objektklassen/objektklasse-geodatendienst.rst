@@ -14,19 +14,19 @@ Ein Dienst stellt immer bereits vorhandene Daten vom Typ „Geodatensatz“ zur 
 
 Zu den Geodatendiensten zählen:
 
- - WMS (Web Map Service)
+  - WMS (Web Map Service)
 
- - WFS (Web Feature Service)
+  - WFS (Web Feature Service)
 
- - WCS (Web Coverage Service)
+  - WCS (Web Coverage Service)
 
- - WCTS (Web Coordinate Transformation Service)
+  - WCTS (Web Coordinate Transformation Service)
 
- - WMTS (Web Map Tile Service)
+  - WMTS (Web Map Tile Service)
 
- - CSW (Catalogue Service Web)
+  - CSW (Catalogue Service Web)
 
-Alle im Rahmen von INSPIRE zu erfassenden Geodatendienste müssen auch als Objektklasse „Geodatendienst“ angelegt werden.
+Alle im Rahmen von INSPIRE zu erfassenden Geodatendienste müssen auch als Objektklasse "Geodatendienst" angelegt werden.
 
 
 Erfassung
@@ -171,15 +171,15 @@ An dieser Stelle sind Personen, Fachbereiche oder Institutionen anzugeben, die w
 
 Auswahlliste Art des Verweises
 
- - Anbieter 
- - Ansprechpartner 
- - Autor 
- - Bearbeiter 	 - Eigentümer 
- - Herausgeber
- - Nutzer
- - Projektleitung	 - Urheber
- - Vertrieb
- - Verwalter
+  - Anbieter 
+  - Ansprechpartner 
+  - Autor 
+  - Bearbeiter 	 - Eigentümer 
+  - Herausgeber
+  - Nutzer
+  - Projektleitung	 - Urheber
+  - Vertrieb
+  - Verwalter
 
 
 Link Adresse hinzufügen
@@ -220,8 +220,8 @@ INSPIRE-relevant
 Dieses Feld definiert, wenn aktiviert, dass ein Metadatensatz für das INSPIRE-Monitoring vorgesehen ist.
 
 Folgende Eigenschaften ändern sich bei der Aktivierung der Checkbox:
- - Hinzufügen des Schlagwortes "inspireidentifiziert" während der ISO-XML Generierung
- - Verpflichtende Angabe eines INSPIRE-Themas im Abschnitt "Verschlagwortung"
+  - Hinzufügen des Schlagwortes "inspireidentifiziert" während der ISO-XML Generierung
+  - Verpflichtende Angabe eines INSPIRE-Themas im Abschnitt "Verschlagwortung"
 
 Die als INSPIRE-relevant markierten Datensätze werden im INSPIRE GeoPortal (https://inspire-geoportal.ec.europa.eu/) veröffentlicht.
 
@@ -237,9 +237,9 @@ Open Data
 Diese Checkbox kennzeichnet den Metadatensatz als "Open Data"-Objekt.
 Es sind dann zusätzlich folgende Angaben verpflichtend:
 
- - In der (nur für OpenData) erscheinenden Tabelle "Kategorien" muss mindestens ein Wert eingetragen werden.
- - Unter Verweisen muss mindestens ein Verweis vom Typ "Datendownload" eingetragen werden.
- - Unter "Nutzungsbedingung" muss mindestens ein Eintrag vorhanden sein.
+  - In der (nur für OpenData) erscheinenden Tabelle "Kategorien" muss mindestens ein Wert eingetragen werden.
+  - Unter Verweisen muss mindestens ein Verweis vom Typ "Datendownload" eingetragen werden.
+  - Unter "Nutzungsbedingung" muss mindestens ein Eintrag vorhanden sein.
 
 
 Abschnitt Verschlagwortung
@@ -270,41 +270,40 @@ Bei Eintragung oder Löschen eines INSPIRE-Themas werden im Pflichtfeld Spezifik
 
 Auswahlliste INSPIRE-Themen
 
-1.	Kein INSPIRE-Thema
-2.	Adressen
-3.	Atmosphärische Bedingungen
-4.	Bewirtschaftungsgebiete/
-Schutzgebiete/geregelte Gebiete und Berichterstattungseinheiten
-5.	Biogeografische Regionen
-6.	Boden
-7.	Bodenbedeckung
-8.	Bodennutzung
-9.	Energiequellen
-10.	Flurstücke/Grundstücke (Katasterparzellen)
-11.	Gebäude
-12.	Gebiete mit naturbedingten Risiken
-13.	Geografische Bezeichnungen
-14.	Geografische Gittersysteme
-15.	Geologie
-16.	Gesundheit und Sicherheit
-17.	Gewässernetz	18.	Höhe
-19.	Koordinatenreferenzsysteme
-20.	Landwirtschaftliche Anlagen und Aquakulturanlagen
-21.	Lebensräume und Biotope
-22.	Meeresregionen
-23.	Meteorologisch-geografische Kennwerte
-24.	Mineralische Bodenschätze
-25.	Orthofotografie
-26.	Ozeanografisch-geografische Kennwerte
-27.	Produktions- und Industrieanlagen
-28.	Schutzgebiete
-29.	Statistische Einheiten
-30.	Umweltüberwachung
-31.	Verkehrsnetze
-32.	Versorgungswirtschaft und staatliche Dienste
-33.	Verteilung der Arten
-34.	Verteilung der Bevölkerung - Demografie
-35.	Verwaltungseinheiten
+  1.	Kein INSPIRE-Thema
+  2.	Adressen
+  3.	Atmosphärische Bedingungen
+  4.	Bewirtschaftungsgebiete/Schutzgebiete/geregelte Gebiete und Berichterstattungseinheiten
+  5.	Biogeografische Regionen
+  6.	Boden
+  7.	Bodenbedeckung
+  8.	Bodennutzung
+  9.	Energiequellen
+  10.	Flurstücke/Grundstücke (Katasterparzellen)
+  11.	Gebäude
+  12.	Gebiete mit naturbedingten Risiken
+  13.	Geografische Bezeichnungen
+  14.	Geografische Gittersysteme
+  15.	Geologie
+  16.	Gesundheit und Sicherheit
+  17.	Gewässernetz	18.	Höhe
+  19.	Koordinatenreferenzsysteme
+  20.	Landwirtschaftliche Anlagen und Aquakulturanlagen
+  21.	Lebensräume und Biotope
+  22.	Meeresregionen
+  23.	Meteorologisch-geografische Kennwerte
+  24.	Mineralische Bodenschätze
+  25.	Orthofotografie
+  26.	Ozeanografisch-geografische Kennwerte
+  27.	Produktions- und Industrieanlagen
+  28.	Schutzgebiete
+  29.	Statistische Einheiten
+  30.	Umweltüberwachung
+  31.	Verkehrsnetze
+  32.	Versorgungswirtschaft und staatliche Dienste
+  33.	Verteilung der Arten
+  34.	Verteilung der Bevölkerung - Demografie
+  35.	Verwaltungseinheiten
 
 
  
@@ -314,11 +313,11 @@ Priority Data Sets sind jene Geodatensätze, die für die Berichterstattung im R
 
 Auszug aus der Auswahlliste INSPIRE - priority data set
 
-1.	Lärmbelastung durch Hauptverkehrsstraßen - Tag-Abend-Nacht-Lärmindex (Umgebungslärmrichtlinie) {en: Major roads noise exposure delineation day-evening-night (Noise Directive)}
-2.	Lärmbelastung in Ballungsräumen - Tag-Abend-Nacht-Lärmindex (Umgebungslärmrichtlinie) {en: Agglomerations - noise exposure delineation day-evening-night (Noise Directive)}
-3.	Location of boreholes {en: Location of boreholes}
-4.	Kommunale Abwasserbehandlungsanlagen (Kommunalabwasserrichtlinie) {en: Urban waste-water treatment plants (Urban Waste Water Treatment Directive)}
-5.	Schadstofffreisetzungen (Europäisches Schadstofffreisetzungs- und -verbringungsregister) {en: Actual pollutant 
+  1.	Lärmbelastung durch Hauptverkehrsstraßen - Tag-Abend-Nacht-Lärmindex (Umgebungslärmrichtlinie) {en: Major roads noise exposure delineation day-evening-night (Noise Directive)}
+  2.	Lärmbelastung in Ballungsräumen - Tag-Abend-Nacht-Lärmindex (Umgebungslärmrichtlinie) {en: Agglomerations - noise exposure delineation day-evening-night (Noise Directive)}
+  3.	Location of boreholes {en: Location of boreholes}
+  4.	Kommunale Abwasserbehandlungsanlagen (Kommunalabwasserrichtlinie) {en: Urban waste-water treatment plants (Urban Waste Water Treatment Directive)}
+  5.	Schadstofffreisetzungen (Europäisches Schadstofffreisetzungs- und -verbringungsregister) {en: Actual pollutant 
 
 
 INSPIRE - Räumlicher Anwendungsbereich (optionales Feld)
@@ -327,9 +326,9 @@ INSPIRE - Räumlicher Anwendungsbereich (optionales Feld)
 Das Schlagwort "Räumlicher Anwendungsbereich" wird im Rahmen des INSPIRE-Monitorings verwendet, um die flächenmäßige Abdeckung der INSPIRE-relevanten Geodatensätze auszuwerten. INSPIRE-relevante Geodatensätze müssen aus den zur Auswahl stehenden Werten entweder mit "National", "Regional" oder "Lokal" beschrieben werden.
 
 Auswahlfeld INSPIRE - Räumlicher Anwendungsbereich
- - Europäisch
- - Global	 - Lokal
- - National	 - Regional
+  - Europäisch
+  - Global	 - Lokal
+  - National	 - Regional
 
 
 Optionale Schlagworte
@@ -409,75 +408,75 @@ Aus der vorgegebenen Auswahlliste ist der Eintrag zu wählen, der auf den Dienst
 
 Auswahlliste Klassifikation des Dienstes
 
- - Abonnementdienst
- - Analysedienst für räumliche Nachbarschaftsbeziehungen
- - Analysedienst für zeitbezogene Nachbarschaftsbeziehungen
- - Auflösungsreduzierungsdienst
- - Aufrufprogramm für Bearbeitungsketten
- - Auftragsdienst
- - Auszugsdienste für geografische Informationen
- - Berechnungsdienst für Geoparameter
- - Betrachter für geografische Datenstrukturen
- - Bildbearbeitungsdienste
- - Bildsynthesedienste
- - Codierungsdienst
- - Dauerauftragsdienst
- - Dienst für den Zugriff auf externe Daten und Programme (Atom)
- - Dienst für den Zugriff auf grafische Darstellungen (WMS)
- - Dienst für den Zugriff auf Objektarten (Atom)
- - Dienst für den Zugriff auf Objekte (WFS)
- - Dienst für den Zugriff auf Produkte
- - Dienst für den Zugriff auf Rasterdaten
- - Dienst für die Ausführung von Bearbeitungsketten
- - Dienst für die Beschreibung von Sensoren
- - Dienst für die Definition von Bearbeitungsketten
- - Dienst für die Justierung von Geometriemodellen von Sensoren
- - Dienst für die Konversion von Bildkoordinaten
- - Dienst für die Konversion von Geometriemodellen
- - Dienst für die Konversion von Koordinaten
- - Dienst für die thematische Klassifizierung
- - Dienst für die Transformation von Koordinaten
- - Dienst für die Umwandlung zwischen Raster- und Vektordaten	 - Dienst für geografische Tabellenkalkulation
- - Dienst für geografische Visualisierung
- - Dienst für statistische Berechnungen
- - Editor für die Definition von Bearbeitungsketten
- - Editor für die Objektgeneralisierung
- - Editor für geografische Objekte
- - Editor für geografische Symbole
- - Editor für Verarbeitungsdienste
- - Entzerrungsdienst
- - Ergänzungsdienste für Geodaten
- - Erkennungsdienst für Veränderungen
- - Gazetteerdienst
- - Generalisierungsdienst
- - Generalisierungsdienst für Objektarten
- - Geocodierungsdienst
- - Geografischer Ausschnittsdienst
- - Geoparserdienst
- - Interpretationsdienste für Bilder
- - Kachelungsdienst
- - Katalogdienst (Service)
- - Katalogdienst (Viewer)
- - Kompressionsdienst für Geodaten
- - Messungsdienst
- - Multiband-Bildbearbeitung
- - Nachrichtenübermittlungsdienst
- - Objektbearbeitungsdienste
- - Objekterkennungsdienst
- - Ortho-Entzerrungsdienst
- - Positionierungsdienst
- - Raumbezogener Auswahldienst
- - Registerdienst
- - Routensuchdienst
- - Themenbezogener Ausschnittsdienst
- - Themenbezogener Bildverarbeitungsdienst
- - Transformationsdienst für den Zeitbezug
- - Übertragungsdienst
- - Umformatierungsdienst für Geodaten
- - Vergleichsdienst
- - Zähldienst
- - Zeitbezogener Ausschnittsdienst
- - Zeitbezogener Auswahldienst
+  - Abonnementdienst
+  - Analysedienst für räumliche Nachbarschaftsbeziehungen
+  - Analysedienst für zeitbezogene Nachbarschaftsbeziehungen
+  - Auflösungsreduzierungsdienst
+  - Aufrufprogramm für Bearbeitungsketten
+  - Auftragsdienst
+  - Auszugsdienste für geografische Informationen
+  - Berechnungsdienst für Geoparameter
+  - Betrachter für geografische Datenstrukturen
+  - Bildbearbeitungsdienste
+  - Bildsynthesedienste
+  - Codierungsdienst
+  - Dauerauftragsdienst
+  - Dienst für den Zugriff auf externe Daten und Programme (Atom)
+  - Dienst für den Zugriff auf grafische Darstellungen (WMS)
+  - Dienst für den Zugriff auf Objektarten (Atom)
+  - Dienst für den Zugriff auf Objekte (WFS)
+  - Dienst für den Zugriff auf Produkte
+  - Dienst für den Zugriff auf Rasterdaten
+  - Dienst für die Ausführung von Bearbeitungsketten
+  - Dienst für die Beschreibung von Sensoren
+  - Dienst für die Definition von Bearbeitungsketten
+  - Dienst für die Justierung von Geometriemodellen von Sensoren
+  - Dienst für die Konversion von Bildkoordinaten
+  - Dienst für die Konversion von Geometriemodellen
+  - Dienst für die Konversion von Koordinaten
+  - Dienst für die thematische Klassifizierung
+  - Dienst für die Transformation von Koordinaten
+  - Dienst für die Umwandlung zwischen Raster- und Vektordaten	 - Dienst für geografische Tabellenkalkulation
+  - Dienst für geografische Visualisierung
+  - Dienst für statistische Berechnungen
+  - Editor für die Definition von Bearbeitungsketten
+  - Editor für die Objektgeneralisierung
+  - Editor für geografische Objekte
+  - Editor für geografische Symbole
+  - Editor für Verarbeitungsdienste
+  - Entzerrungsdienst
+  - Ergänzungsdienste für Geodaten
+  - Erkennungsdienst für Veränderungen
+  - Gazetteerdienst
+  - Generalisierungsdienst
+  - Generalisierungsdienst für Objektarten
+  - Geocodierungsdienst
+  - Geografischer Ausschnittsdienst
+  - Geoparserdienst
+  - Interpretationsdienste für Bilder
+  - Kachelungsdienst
+  - Katalogdienst (Service)
+  - Katalogdienst (Viewer)
+  - Kompressionsdienst für Geodaten
+  - Messungsdienst
+  - Multiband-Bildbearbeitung
+  - Nachrichtenübermittlungsdienst
+  - Objektbearbeitungsdienste
+  - Objekterkennungsdienst
+  - Ortho-Entzerrungsdienst
+  - Positionierungsdienst
+  - Raumbezogener Auswahldienst
+  - Registerdienst
+  - Routensuchdienst
+  - Themenbezogener Ausschnittsdienst
+  - Themenbezogener Bildverarbeitungsdienst
+  - Transformationsdienst für den Zeitbezug
+  - Übertragungsdienst
+  - Umformatierungsdienst für Geodaten
+  - Vergleichsdienst
+  - Zähldienst
+  - Zeitbezogener Ausschnittsdienst
+  - Zeitbezogener Auswahldienst
 
  
 
@@ -488,11 +487,11 @@ Art des Dienstes
 
 Auswahlliste Art des Dienstes
 
- - Darstellungsdienste (WMS) 
- - Dienste zum Abrufen von Geodatendiensten 
- - Download-Dienste (WFS/Atom)  	 - Sonstige Dienste 
- - Suchdienste 
- - Transformationsdienste
+  - Darstellungsdienste (WMS) 
+  - Dienste zum Abrufen von Geodatendiensten 
+  - Download-Dienste (WFS/Atom)  	 - Sonstige Dienste 
+  - Suchdienste 
+  - Transformationsdienste
 
 In diesem Pflichtfeld kann die Art des Dienstes ausgewählt werden. Über das Feld werden die zur weiteren Befüllung auszuwählenden Angaben zu Operationen gesteuert (siehe Tabelle unter Punkt: Name der Operation).
 
@@ -513,20 +512,28 @@ Bei aktivierter Option, wird dieser Datensatz im Portal als Download angeboten. 
 *Bei ATOM-Download Diensten, die im Rahmen von INSPIRE bereitgestellt und nicht über den InGrid Editor generiert werden, ist für das Feld "Name der Operation" -  "Get Download Service Metadata" auszuwählen.*
 
 
-Auswahllisten
+Auswahllisten:
 	
-Darstellungsdienste	Downloaddienste	Suchdienste
+Darstellungsdienste
 
- - OGC:WMS 1.1.1
- - OGC:WMS 1.3.0
- - OGC:WMTS 1.0.0	 
- - OGC:WFS 1.1.0
- - OGC:WFS 2.0
- - predefined ATOM	 
- - OGC:CSW 2.0.2
+  - OGC:WMS 1.1.1
+  - OGC:WMS 1.3.0
+  - OGC:WMTS 1.0.0	
+
+Downloaddienste	
+
+  - OGC:WFS 1.1.0
+  - OGC:WFS 2.0
+  - predefined ATOM	
+
+Suchdienste
+
+  - OGC:CSW 2.0.2
 
 Transformationsdienste
-- OGC:CSW 2.0.2
+
+  - OGC:CSW 2.0.2
+
 
 Version des Dienstes
 ''''''''''''''''''''
@@ -555,29 +562,29 @@ Name der Operation
 Name der von einem Dienst bereitgestellten Funktion/Operation. Hier muss ein eindeutiger Bezeichner für die beschriebene Operation eingegeben werden.
 
 Art des Dienstes	Name der Operation
- - Darstellungsdienste	 - GetCapabilities (WMS)
- - GetFeatureInfo (WMS)
- - GetMap (WMS)
- - Dienste zum Abrufen von Geodatendiensten	
- - Download-Dienste	 - DescripeFeatureType (WFS)
- - GetDownloadMetadata (Atom)
- - GetCapabilities (WFS)
- - GetFeature (WFS)
- - LockFeature
- - Transaction
- - Sonstige Dienste	
- - Suchdienste	 - DescribeRecord
- - GetCapabilities
- - GetDomain
- - GetRecordById
- - GetRecords
- - Harvest
- - Transaction
- - Transformationsdienste	 - GetCapabilities
- - GetRecourceById
- - GetTransformation	
- - IsTransformable
- - Transform
+  - Darstellungsdienste	 - GetCapabilities (WMS)
+  - GetFeatureInfo (WMS)
+  - GetMap (WMS)
+  - Dienste zum Abrufen von Geodatendiensten	
+  - Download-Dienste	 - DescripeFeatureType (WFS)
+  - GetDownloadMetadata (Atom)
+  - GetCapabilities (WFS)
+  - GetFeature (WFS)
+  - LockFeature
+  - Transaction
+  - Sonstige Dienste	
+  - Suchdienste	 - DescribeRecord
+  - GetCapabilities
+  - GetDomain
+  - GetRecordById
+  - GetRecords
+  - Harvest
+  - Transaction
+  - Transformationsdienste	 - GetCapabilities
+  - GetRecourceById
+  - GetTransformation	
+  - IsTransformable
+  - Transform
 
 
 Zugriffsadresse
@@ -594,14 +601,14 @@ Unterstützte Plattformen
 Angaben zur Art der Plattform bzw. Schnittstelle über die der Dienst angesprochen werden kann.
 
 Auswahlliste Unterstützte Plattformen
- - COM
- - CORBA
- - HTTPGet
- - HTTPPost
- - JAVA	 - SOAP
- - SQL
- - WebServices (WMS, WFS, Atom)
- - XML
+  - COM
+  - CORBA
+  - HTTPGet
+  - HTTPPost
+  - JAVA	 - SOAP
+  - SQL
+  - WebServices (WMS, WFS, Atom)
+  - XML
 
 **Beispiel:** *HTTPGet oder WebServices (WMS, WFS, Atom)*
 
@@ -610,11 +617,11 @@ Parameter
 
 Mögliche Parameter, die bei einem Aufruf der Operation übergeben werden können:
 
- - Parametername und gegebenenfalls Zuweisung eines Wertes (in der Form Name=Wert, siehe Beispiel unten)
- - Richtung des Datenflusses, der durch diesen Parameter erzeugt wird.
- - Textliche Beschreibung des Parameters.
- - Optionalität: Angabe, ob der Parameter angegeben werden muss oder nicht.
- - Angabe, ob eine Mehrfacheingabe des Parameters möglich ist.
+  - Parametername und gegebenenfalls Zuweisung eines Wertes (in der Form Name=Wert, siehe Beispiel unten)
+  - Richtung des Datenflusses, der durch diesen Parameter erzeugt wird.
+  - Textliche Beschreibung des Parameters.
+  - Optionalität: Angabe, ob der Parameter angegeben werden muss oder nicht.
+  - Angabe, ob eine Mehrfacheingabe des Parameters möglich ist.
 
 
 **Beispiel:**
@@ -649,7 +656,6 @@ Beschreibung
 Textliche Beschreibung der Funktionalität der Operation.
 
  
-
 **Beispiel:** *Die GetMap Operation des WMS gibt eine Raster-Repräsentation der in "Basisdaten" beschriebenen digitalen Karte zurück.*
 
 
@@ -748,8 +754,7 @@ Nach einem Klick auf den Button „Gekoppelte Daten auswählen“ öffnet sich e
 
 Im Feld "GetRecordById URL" muss der GetRecordById-Request zum Aufruf des externen Datensatzes (XML-Dokument) angegeben werden.
 
-Beispiel für GetRecordById-Requests:
-https://www.host.de/csw?REQUEST=GetRecordById&SERVICE=CSW&VERSION=2.0.2&id=FD218F68-D2B4-11D5-88C8-000102DCCF41&elementSetName=full
+Beispiel für GetRecordById-Requests: https://www.host.de/csw?request=getrecordbyid&service=csw&version=2.0.2&id=fd218f68-d2b4-11d5-88c8-000102dccf41&elementsetname=full
 
 Über die Angabe dieses Requests wird die katalogübergreifende Daten-Dienste-Kopplung ermöglicht. Nach Eingabe der URL und Klick auf „Analysieren“ erfolgt eine Auswertung des XML-Dokumentes. Mit dem Button „Zuweisen“ wird der externe Datensatz mit dem Dienst gekoppelt.
 
@@ -757,8 +762,9 @@ https://www.host.de/csw?REQUEST=GetRecordById&SERVICE=CSW&VERSION=2.0.2&id=FD218
 
 Abb.: Detailansicht einer erfolgreichen Daten-Dienste-Kopplung im Portal am Beispiel des INSPIRE.WMS ST Schutzgebite Naturschutz.
 
-1.6 Abschnitt Raumbezugsystem
 
+Abschnitt Raumbezugsystem
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Geothesaurus Raumbezug
 ''''''''''''''''''''''
@@ -819,69 +825,69 @@ Raumbezugsystem
 
 Auswahlliste Raumbezugssystem
 
- - CRS 84: CRS 84 / mathematisch
- - DE_42/83 / GK_3
- - DE_DHDN / GK_3
- - DE_DHDN / GK_3_BW100
- - DE_DHDN / GK_3_HE100
- - DE_DHDN / GK_3_NW177
- - DE_DHDN / GK_3_RDN
- - DE_DHDN / GK_3_RP101
- - DE_DHDN / GK_3_RP180
- - DE_ETRS89 / UTM
- - DE_PD/83 / GK_3
- - DE_PD/83 / GK_9-15, Bezug 12. Meridian (BY)
- - DE_RD/83 / GK_3
- - EPSG 2176: ETRS89 / Poland CS2000 zone 5
- - EPSG 23031: ED50 / UTM Zone 31N
- - EPSG 23032: ED50 / UTM Zone 32N
- - EPSG 23033: ED50 / UTM Zone 33N
- - EPSG 2397: Pulkovo 1942(83) / Gauss-Kruger zone 3
- - EPSG 2398: Pulkovo 1942(83) / Gauss-Kruger zone 4
- - EPSG 2399: Pulkovo 1942(83) / Gauss-Kruger zone 5
- - EPSG 25831: ETRS89 / UTM Zone 31N (INSPIRE)
- - EPSG 25832: ETRS89 / UTM Zone 32N (INSPIRE)
- - EPSG 25833: ETRS89 / UTM Zone 33N (INSPIRE)
- - EPSG 25834: ETRS89 / UTM Zone 34N (INSPIRE)
- - EPSG 28462: Pulkovo 1942 / Gauss-Krüger 2N
- - EPSG 28463: Pulkovo 1942 / Gauss-Krüger 3N
- - EPSG 3034: ETRS89 / LCC Europa (INSPIRE)
- - EPSG 3035: ETRS89 / LAEA Europa (INSPIRE)
- - EPSG 3038: ETRS89 / ETRS-TM26
- - EPSG 3039: ETRS89 / ETRS-TM27
- - EPSG 3040: ETRS89 / ETRS-TM28
- - EPSG 3041: ETRS89 / ETRS-TM29
- - EPSG 3042: ETRS89 / ETRS-TM30
- - EPSG 3043: ETRS89 / ETRS-TM31
- - EPSG 3044: ETRS89 / UTM Zone 32N (N-E) (INSPIRE)
- - EPSG 3045: ETRS89 / UTM Zone 33N (N-E) (INSPIRE)
- - EPSG 3046: ETRS89 / ETRS-TM34
- - EPSG 3047: ETRS89 / ETRS-TM35
- - EPSG 3068: DHDN / Soldner Berlin
- - EPSG 31466: DHDN / Gauss-Krüger Zone 2
- - EPSG 31467: DHDN / Gauss-Krüger Zone 3
- - EPSG 31468: DHDN / Gauss-Krüger Zone 4
- - EPSG 31469: DHDN / Gauss-Krüger Zone 5
- - EPSG 32631: WGS 84 / UTM Zone 31N
- - EPSG 32632: WGS 84 / UTM Zone 32N
- - EPSG 32633: WGS 84 / UTM Zone 33N
- - EPSG 35832: ETRS89 / UTM zone 32N 8d
- - EPSG 35833: ETRS89 / UTM zone 33N 8d
- - EPSG 3857: WGS 84 / Pseudo-Mercator
- - EPSG 4178: Pulkovo 1942(83) / geographisch
- - EPSG 4230: ED50 / geographisch
- - EPSG 4258: ETRS89 / geographisch (INSPIRE)
- - EPSG 4284: Pulkovo 1942 / geographisch
- - EPSG 4314: DHDN / geographisch
- - EPSG 4326: WGS 84 / geographisch
- - EPSG 4647: ETRS89 / UTM Zone 32N (zE-N)
- - EPSG 4839: ETRS89 / LCC Deutschland (N-E)
- - EPSG 5650: ETRS89 / UTM Zone 33N (zE-N)
- - EPSG 5676: DHDN / Gauss-Krüger Zone 2 (E-N)
- - EPSG 5677: DHDN / Gauss-Krüger Zone 3 (E-N)
- - EPSG 5678: DHDN / Gauss-Krüger Zone 4 (E-N)
- - EPSG 5679: DHDN / Gauss-Krüger Zone 5 (E-N)
- - EPSG 8395: ETRS89 / Gauss-Krüger (CM 9E)
+  - CRS 84: CRS 84 / mathematisch
+  - DE_42/83 / GK_3
+  - DE_DHDN / GK_3
+  - DE_DHDN / GK_3_BW100
+  - DE_DHDN / GK_3_HE100
+  - DE_DHDN / GK_3_NW177
+  - DE_DHDN / GK_3_RDN
+  - DE_DHDN / GK_3_RP101
+  - DE_DHDN / GK_3_RP180
+  - DE_ETRS89 / UTM
+  - DE_PD/83 / GK_3
+  - DE_PD/83 / GK_9-15, Bezug 12. Meridian (BY)
+  - DE_RD/83 / GK_3
+  - EPSG 2176: ETRS89 / Poland CS2000 zone 5
+  - EPSG 23031: ED50 / UTM Zone 31N
+  - EPSG 23032: ED50 / UTM Zone 32N
+  - EPSG 23033: ED50 / UTM Zone 33N
+  - EPSG 2397: Pulkovo 1942(83) / Gauss-Kruger zone 3
+  - EPSG 2398: Pulkovo 1942(83) / Gauss-Kruger zone 4
+  - EPSG 2399: Pulkovo 1942(83) / Gauss-Kruger zone 5
+  - EPSG 25831: ETRS89 / UTM Zone 31N (INSPIRE)
+  - EPSG 25832: ETRS89 / UTM Zone 32N (INSPIRE)
+  - EPSG 25833: ETRS89 / UTM Zone 33N (INSPIRE)
+  - EPSG 25834: ETRS89 / UTM Zone 34N (INSPIRE)
+  - EPSG 28462: Pulkovo 1942 / Gauss-Krüger 2N
+  - EPSG 28463: Pulkovo 1942 / Gauss-Krüger 3N
+  - EPSG 3034: ETRS89 / LCC Europa (INSPIRE)
+  - EPSG 3035: ETRS89 / LAEA Europa (INSPIRE)
+  - EPSG 3038: ETRS89 / ETRS-TM26
+  - EPSG 3039: ETRS89 / ETRS-TM27
+  - EPSG 3040: ETRS89 / ETRS-TM28
+  - EPSG 3041: ETRS89 / ETRS-TM29
+  - EPSG 3042: ETRS89 / ETRS-TM30
+  - EPSG 3043: ETRS89 / ETRS-TM31
+  - EPSG 3044: ETRS89 / UTM Zone 32N (N-E) (INSPIRE)
+  - EPSG 3045: ETRS89 / UTM Zone 33N (N-E) (INSPIRE)
+  - EPSG 3046: ETRS89 / ETRS-TM34
+  - EPSG 3047: ETRS89 / ETRS-TM35
+  - EPSG 3068: DHDN / Soldner Berlin
+  - EPSG 31466: DHDN / Gauss-Krüger Zone 2
+  - EPSG 31467: DHDN / Gauss-Krüger Zone 3
+  - EPSG 31468: DHDN / Gauss-Krüger Zone 4
+  - EPSG 31469: DHDN / Gauss-Krüger Zone 5
+  - EPSG 32631: WGS 84 / UTM Zone 31N
+  - EPSG 32632: WGS 84 / UTM Zone 32N
+  - EPSG 32633: WGS 84 / UTM Zone 33N
+  - EPSG 35832: ETRS89 / UTM zone 32N 8d
+  - EPSG 35833: ETRS89 / UTM zone 33N 8d
+  - EPSG 3857: WGS 84 / Pseudo-Mercator
+  - EPSG 4178: Pulkovo 1942(83) / geographisch
+  - EPSG 4230: ED50 / geographisch
+  - EPSG 4258: ETRS89 / geographisch (INSPIRE)
+  - EPSG 4284: Pulkovo 1942 / geographisch
+  - EPSG 4314: DHDN / geographisch
+  - EPSG 4326: WGS 84 / geographisch
+  - EPSG 4647: ETRS89 / UTM Zone 32N (zE-N)
+  - EPSG 4839: ETRS89 / LCC Deutschland (N-E)
+  - EPSG 5650: ETRS89 / UTM Zone 33N (zE-N)
+  - EPSG 5676: DHDN / Gauss-Krüger Zone 2 (E-N)
+  - EPSG 5677: DHDN / Gauss-Krüger Zone 3 (E-N)
+  - EPSG 5678: DHDN / Gauss-Krüger Zone 4 (E-N)
+  - EPSG 5679: DHDN / Gauss-Krüger Zone 5 (E-N)
+  - EPSG 8395: ETRS89 / Gauss-Krüger (CM 9E)
 
 
 
@@ -943,20 +949,19 @@ Auswahl/Angabe des Zeitzyklus der Datenerhebung. Der Eintrag muss aus der Auswah
 
 Auswahlliste der Periodizität
 
- - bei Bedarf
- - einmalig
- - halbjährlich	 - jährlich
- - kontinuierlich
- - monatlich	 - täglich
- - unbekannt
- - unregelmäßig	 - vierteljährlich
- - wöchentlich
- - zweiwöchentlich
+  - bei Bedarf
+  - einmalig
+  - halbjährlich	 - jährlich
+  - kontinuierlich
+  - monatlich	 - täglich
+  - unbekannt
+  - unregelmäßig	 - vierteljährlich
+  - wöchentlich
+  - zweiwöchentlich
 
 **Beispiel:** *täglich*
 
  
-
 Status
 ''''''
 
@@ -964,13 +969,13 @@ Stand der Ausführung des Projektes, der Messung etc. Der Editor nimmt alle beka
 
 Auswalliste Status
 
- - abgeschlossen
- - erforderlich
- - geplant
- - historisches Archiv	 - in Erstellung
- - in Produktion
- - kontinuierliche Aktualisierung
- - veraltet
+  - abgeschlossen
+  - erforderlich
+  - geplant
+  - historisches Archiv	 - in Erstellung
+  - in Produktion
+  - kontinuierliche Aktualisierung
+  - veraltet
 
 **Beispiel:** *abgeschlossen*
 
@@ -984,12 +989,12 @@ Angabe des zeitlichen Abstands (Frequenz) der Datenerhebung. Erfolgt die Datener
 
 Auswahlliste der Intervalle
 
- - Jahre
- - Monate
- - Tage
- - Stunden
- - Minuten
- - Sekunden
+  - Jahre
+  - Monate
+  - Tage
+  - Stunden
+  - Minuten
+  - Sekunden
 
 **Beispiel:** *Alle 6 Monate*
 
@@ -1017,15 +1022,15 @@ Veröffentlichung
 
 Das Feld "Veröffentlichung" ist sehr wichtig, denn es gibt den Status der Veröffentlichungsbreite an. Möglich sind folgende Werte, die über ein Dropdown-Menü ausgewählt werden können:
  
- - Internet
+  - Internet
 Das Objekt wird für das Internet veröffentlicht. 
 
- - Intranet
+  - Intranet
 Das Objekt wird nur für das Intranet veröffentlicht, aber nicht für das Internet. 
 
 Hinweis: Diese Option trifft derzeit für Sachsen-Anhalt nicht zu, da die Portal-/Erfassungssoftware nicht im Landesdatennetz installiert ist.
 
- - amtsintern
+  - amtsintern
 Das Objekt ist nur im Strukturbaum der Erfassungssoftware sichtbar, aber nicht im Intranet und auch nicht im Internet.
 
  
@@ -1087,15 +1092,15 @@ Das Feld Zugriffsbeschränkungen beschreibt, die Art der Zugriffsbeschränkung. 
 **Beispiel:** *aufgrund der Rechte des geistigen Eigentums*
 
 Auswahlliste Zugriffsbeschränkungen
- - aufgrund der Rechte des geistigen Eigentums
- - aufgrund der Vertraulichkeit der Verfahren von Behörden
- - aufgrund der Vertraulichkeit personenbezogener Daten
- - aufgrund der Vertraulichkeit von Geschäfts- oder Betriebsinformationen
- - aufgrund des Schutzes einer Person
- - aufgrund des Schutzes von Umweltbereichen
- - aufgrund internationaler Beziehungen, der öffentliche Sicherheit oder der Landesverteidigung
- - aufgrund laufender Gerichtsverfahren
- - Es gelten keine Zugriffsbeschränkungen
+  - aufgrund der Rechte des geistigen Eigentums
+  - aufgrund der Vertraulichkeit der Verfahren von Behörden
+  - aufgrund der Vertraulichkeit personenbezogener Daten
+  - aufgrund der Vertraulichkeit von Geschäfts- oder Betriebsinformationen
+  - aufgrund des Schutzes einer Person
+  - aufgrund des Schutzes von Umweltbereichen
+  - aufgrund internationaler Beziehungen, der öffentliche Sicherheit oder der Landesverteidigung
+  - aufgrund laufender Gerichtsverfahren
+  - Es gelten keine Zugriffsbeschränkungen
 
 
 Nutzungsbedingungen
@@ -1112,39 +1117,39 @@ Es ist auch möglich, vordefinierten Text aus einer Liste auszuwählen.
 
 Auswahlliste Nutzungsbedingungen
 
- - Es gelten keine Bedingungen
- - Amtliches Werk, lizenzfrei nach §5 Abs. 1 UrhG
- - Andere Freeware Lizenz
- - Andere geschlossene Lizenz
- - Andere kommerzielle Lizenz
- - Andere offene Lizenz
- - Andere Open Source Lizenz
- - BSD Lizenz
- - Creative Commons CC Zero License (cc-zero)
- - Creative Commons Namensnennung (CC-BY)
- - Creative Commons Namensnennung - - Keine Bearbeitung 4.0 International (CC BY-ND 4.0)
- - Creative Commons Namensnennung - Nicht kommerziell (CC BY-NC)
- - Creative Commons Namensnennung - Nicht kommerziell 4.0 International (CC BY-NC 4.0)
- - Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen (CC-BY-SA)
- - Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International (CC-BY-SA 4.0)
- - Creative Commons Namensnennung -- Keine Bearbeitung 3.0 Unported (CC BY-ND 3.0)
- - Creative Commons Namensnennung – 4.0 International (CC BY 4.0)
- - Datenlizenz Deutschland Namensnennung 1.0
- - Datenlizenz Deutschland Namensnennung 2.0
- - Datenlizenz Deutschland Namensnennung nicht-kommerziell 1.0
- - Datenlizenz Deutschland – Zero – Version 2.0
- - eingeschränkte Geolizenz
- - Freie Softwarelizenz der Apache Software Foundation
- - Geolizenz Ia Namensnennung
- - GNU Free Documentation License (GFDL)
- - GNU General Public License version 3.0 (GPLv3)
- - Mozilla Public License 2.0 (MPL)
- - Nutzung der Daten nur nach Rücksprache mit dem Dateneigentümer
- - Nutzungsbestimmungen für die Bereitstellung von Geodaten des Bundes
- - Open Data Commons Attribution License (ODC-BY 1.0)
- - Open Data Commons Open Database License (ODbL)
- - Open Data Commons Public Domain Dedication and Licence (ODC PDDL)
- - Public Domain Mark 1.0 (PDM)
+  - Es gelten keine Bedingungen
+  - Amtliches Werk, lizenzfrei nach §5 Abs. 1 UrhG
+  - Andere Freeware Lizenz
+  - Andere geschlossene Lizenz
+  - Andere kommerzielle Lizenz
+  - Andere offene Lizenz
+  - Andere Open Source Lizenz
+  - BSD Lizenz
+  - Creative Commons CC Zero License (cc-zero)
+  - Creative Commons Namensnennung (CC-BY)
+  - Creative Commons Namensnennung - - Keine Bearbeitung 4.0 International (CC BY-ND 4.0)
+  - Creative Commons Namensnennung - Nicht kommerziell (CC BY-NC)
+  - Creative Commons Namensnennung - Nicht kommerziell 4.0 International (CC BY-NC 4.0)
+  - Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen (CC-BY-SA)
+  - Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International (CC-BY-SA 4.0)
+  - Creative Commons Namensnennung -- Keine Bearbeitung 3.0 Unported (CC BY-ND 3.0)
+  - Creative Commons Namensnennung – 4.0 International (CC BY 4.0)
+  - Datenlizenz Deutschland Namensnennung 1.0
+  - Datenlizenz Deutschland Namensnennung 2.0
+  - Datenlizenz Deutschland Namensnennung nicht-kommerziell 1.0
+  - Datenlizenz Deutschland – Zero – Version 2.0
+  - eingeschränkte Geolizenz
+  - Freie Softwarelizenz der Apache Software Foundation
+  - Geolizenz Ia Namensnennung
+  - GNU Free Documentation License (GFDL)
+  - GNU General Public License version 3.0 (GPLv3)
+  - Mozilla Public License 2.0 (MPL)
+  - Nutzung der Daten nur nach Rücksprache mit dem Dateneigentümer
+  - Nutzungsbestimmungen für die Bereitstellung von Geodaten des Bundes
+  - Open Data Commons Attribution License (ODC-BY 1.0)
+  - Open Data Commons Open Database License (ODbL)
+  - Open Data Commons Public Domain Dedication and Licence (ODC PDDL)
+  - Public Domain Mark 1.0 (PDM)
 
 Bei frei nutzbaren Daten bzw. Diensten ist beispielsweise "Es gelten keine Bedingungen" aus der Liste zu verwenden. Aber auch die Lizenzen für Open Data-Objekte finden Sie in dieser Liste (Datenlizenz Deutschland). 
 Haben Sie immer wiederkehrende Nutzungsbedingungen, die nicht in der Liste auftauchen, so wenden Sie sich bitte direkt an die Koordinierungsstelle Metadaten im Ministerium für Umwelt, Landwirtschaft und Energie (metadaten@mule.sachsen-anhalt.de). Wir erweitern die Liste gern um Ihren Eintrag. 
@@ -1177,22 +1182,22 @@ Angabe, auf welchen Medien die Daten zur Verfügung gestellt werden können. Hie
 
 Auswahlliste Medium
 
- - 0,5-Zoll Kassette
- - 3,5-Zoll Diskette
- - analoge Fotografie
- - Ausdruck
- - CD-ROM
- - DVD	 - DVD-ROM
- - E-Mail
- - Faxabruf
- - Infokiosk
- - Mikrofilm
- - Mobilfunk	 - Online Link
- - Rundfunk
- - Telefonverbindung
- - unbekannt (*)
- - Videotext
- - ZIP-Laufwerk
+  - 0,5-Zoll Kassette
+  - 3,5-Zoll Diskette
+  - analoge Fotografie
+  - Ausdruck
+  - CD-ROM
+  - DVD	 - DVD-ROM
+  - E-Mail
+  - Faxabruf
+  - Infokiosk
+  - Mikrofilm
+  - Mobilfunk	 - Online Link
+  - Rundfunk
+  - Telefonverbindung
+  - unbekannt (*)
+  - Videotext
+  - ZIP-Laufwerk
 
 **Beispiel:** *Medium: CD-ROM Datenvolumen: 700 MB Speicherort: Explorer Z:/Bereich_51/Metainformation/20040423_Hilfetexte.doc*
 
@@ -1310,29 +1315,29 @@ Folgende Bedingungen müssen erfüllt sein, so dass ein Dienst mit seinen Downlo
 
 **Kopplung mit Geodatensatz**
 
-1.	Der anzuzeigende Service muss von der Art “Download-Dienste” sein.
-2.	Es muss die Option “Als ATOM-Download Dienst bereitstellen” aktiviert sein.
-3.	Es muss mindestens eine Referenz auf ein Objekt vom Typ “Geodatensatz” vorhanden sein.
-4.	Dieser Geodatensatz muss mindestens einen Verweis vom Typ “Download” besitzen.
-5.	Ein angeschlossenes iPlug-DSC muss die Daten des IGC indexiert haben.
+  1. Der anzuzeigende Service muss von der Art “Download-Dienste” sein.
+  2. Es muss die Option “Als ATOM-Download Dienst bereitstellen” aktiviert sein.
+  3. Es muss mindestens eine Referenz auf ein Objekt vom Typ “Geodatensatz” vorhanden sein.
+  4. Dieser Geodatensatz muss mindestens einen Verweis vom Typ “Download” besitzen.
+  5. Ein angeschlossenes iPlug-DSC muss die Daten des IGC indexiert haben.
 
 
 **Kopplung mit externem Datensatz**
 
-1.	Der anzuzeigende Service muss von der Art “Download-Dienste” sein.
-2.	Es muss die Option “Als ATOM-Download Dienst bereitstellen” aktiviert sein.
-3.	Es muss mindestens ein externer Datensatz in den “gekoppelten Daten” hinzugefügt werden.
-4.	Dieser Datensatz muss als URL die Zeichenkette “REQUEST=GetRecordById” enthalten.
-5.	Ein angeschlossenes iPlug-DSC muss die Daten des IGC indexiert haben.
+  1. Der anzuzeigende Service muss von der Art “Download-Dienste” sein.
+  2. Es muss die Option “Als ATOM-Download Dienst bereitstellen” aktiviert sein.
+  3. Es muss mindestens ein externer Datensatz in den “gekoppelten Daten” hinzugefügt werden.
+  4. Dieser Datensatz muss als URL die Zeichenkette “REQUEST=GetRecordById” enthalten.
+  5. Ein angeschlossenes iPlug-DSC muss die Daten des IGC indexiert haben.
 
 
 **Direkter Verweis auf externem Datensatz**
 
-1.	Der anzuzeigende Service muss von der Art “Download-Dienste” sein.
-2.	Es muss die Option “Als ATOM-Download Dienst bereitstellen” aktiviert sein.
-3.	Es muss mindestens ein Verweis vom Typ “Datendownload” hinzugefügt werden.
-4.	Dieser Verweis muss als URL die Zeichenkette “REQUEST=GetRecordById” enthalten.
-5.	Ein angeschlossenes iPlug-DSC muss die Daten des IGC indexiert haben.
+  1. Der anzuzeigende Service muss von der Art “Download-Dienste” sein.
+  2. Es muss die Option “Als ATOM-Download Dienst bereitstellen” aktiviert sein.
+  3. Es muss mindestens ein Verweis vom Typ “Datendownload” hinzugefügt werden.
+  4. Dieser Verweis muss als URL die Zeichenkette “REQUEST=GetRecordById” enthalten.
+  5. Ein angeschlossenes iPlug-DSC muss die Daten des IGC indexiert haben.
 
 
 
