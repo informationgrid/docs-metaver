@@ -30,7 +30,7 @@ Version der Bedienungsanleitung
 
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 4
    :caption: Erfassung von Metadaten
 
    metaver_ige/ige_erfassung/erfassung-allgemeines.rst
