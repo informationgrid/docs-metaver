@@ -270,40 +270,41 @@ Bei Eintragung oder Löschen eines INSPIRE-Themas werden im Pflichtfeld Spezifik
 
 Auswahlliste INSPIRE-Themen
 
-  1.	Kein INSPIRE-Thema
-  2.	Adressen
-  3.	Atmosphärische Bedingungen
-  4.	Bewirtschaftungsgebiete/Schutzgebiete/geregelte Gebiete und Berichterstattungseinheiten
-  5.	Biogeografische Regionen
-  6.	Boden
-  7.	Bodenbedeckung
-  8.	Bodennutzung
-  9.	Energiequellen
-  10.	Flurstücke/Grundstücke (Katasterparzellen)
-  11.	Gebäude
-  12.	Gebiete mit naturbedingten Risiken
-  13.	Geografische Bezeichnungen
-  14.	Geografische Gittersysteme
-  15.	Geologie
-  16.	Gesundheit und Sicherheit
-  17.	Gewässernetz	18.	Höhe
-  19.	Koordinatenreferenzsysteme
-  20.	Landwirtschaftliche Anlagen und Aquakulturanlagen
-  21.	Lebensräume und Biotope
-  22.	Meeresregionen
-  23.	Meteorologisch-geografische Kennwerte
-  24.	Mineralische Bodenschätze
-  25.	Orthofotografie
-  26.	Ozeanografisch-geografische Kennwerte
-  27.	Produktions- und Industrieanlagen
-  28.	Schutzgebiete
-  29.	Statistische Einheiten
-  30.	Umweltüberwachung
-  31.	Verkehrsnetze
-  32.	Versorgungswirtschaft und staatliche Dienste
-  33.	Verteilung der Arten
-  34.	Verteilung der Bevölkerung - Demografie
-  35.	Verwaltungseinheiten
+  1.  Kein INSPIRE-Thema
+  2.  Adressen
+  3.  Atmosphärische Bedingungen
+  4.  Bewirtschaftungsgebiete/Schutzgebiete/geregelte Gebiete und Berichterstattungseinheiten
+  5.  Biogeografische Regionen
+  6.  Boden
+  7.  Bodenbedeckung
+  8.  Bodennutzung
+  9.  Energiequellen
+  10. Flurstücke/Grundstücke (Katasterparzellen)
+  11. Gebäude
+  12. Gebiete mit naturbedingten Risiken
+  13. Geografische Bezeichnungen
+  14. Geografische Gittersysteme
+  15. Geologie
+  16. Gesundheit und Sicherheit
+  17. Gewässernetz
+  18. Höhe
+  19. Koordinatenreferenzsysteme
+  20. Landwirtschaftliche Anlagen und Aquakulturanlagen
+  21. Lebensräume und Biotope
+  22. Meeresregionen
+  23. Meteorologisch-geografische Kennwerte
+  24. Mineralische Bodenschätze
+  25. Orthofotografie
+  26. Ozeanografisch-geografische Kennwerte
+  27. Produktions- und Industrieanlagen
+  28. Schutzgebiete
+  29. Statistische Einheiten
+  30. Umweltüberwachung
+  31. Verkehrsnetze
+  32. Versorgungswirtschaft und staatliche Dienste
+  33. Verteilung der Arten
+  34. Verteilung der Bevölkerung - Demografie
+  35. Verwaltungseinheiten
 
 
  
@@ -313,11 +314,11 @@ Priority Data Sets sind jene Geodatensätze, die für die Berichterstattung im R
 
 Auszug aus der Auswahlliste INSPIRE - priority data set
 
-  1.	Lärmbelastung durch Hauptverkehrsstraßen - Tag-Abend-Nacht-Lärmindex (Umgebungslärmrichtlinie) {en: Major roads noise exposure delineation day-evening-night (Noise Directive)}
-  2.	Lärmbelastung in Ballungsräumen - Tag-Abend-Nacht-Lärmindex (Umgebungslärmrichtlinie) {en: Agglomerations - noise exposure delineation day-evening-night (Noise Directive)}
-  3.	Location of boreholes {en: Location of boreholes}
-  4.	Kommunale Abwasserbehandlungsanlagen (Kommunalabwasserrichtlinie) {en: Urban waste-water treatment plants (Urban Waste Water Treatment Directive)}
-  5.	Schadstofffreisetzungen (Europäisches Schadstofffreisetzungs- und -verbringungsregister) {en: Actual pollutant 
+  1. Lärmbelastung durch Hauptverkehrsstraßen - Tag-Abend-Nacht-Lärmindex (Umgebungslärmrichtlinie) {en: Major roads noise exposure delineation day-evening-night (Noise Directive)}
+  2. Lärmbelastung in Ballungsräumen - Tag-Abend-Nacht-Lärmindex (Umgebungslärmrichtlinie) {en: Agglomerations - noise exposure delineation day-evening-night (Noise Directive)}
+  3. Location of boreholes {en: Location of boreholes}
+  4. Kommunale Abwasserbehandlungsanlagen (Kommunalabwasserrichtlinie) {en: Urban waste-water treatment plants (Urban Waste Water Treatment Directive)}
+  5. Schadstofffreisetzungen (Europäisches Schadstofffreisetzungs- und -verbringungsregister) {en: Actual pollutant 
 
 
 INSPIRE - Räumlicher Anwendungsbereich (optionales Feld)
@@ -562,6 +563,7 @@ Name der Operation
 Name der von einem Dienst bereitgestellten Funktion/Operation. Hier muss ein eindeutiger Bezeichner für die beschriebene Operation eingegeben werden.
 
 Art des Dienstes	Name der Operation
+
   - Darstellungsdienste	 - GetCapabilities (WMS)
   - GetFeatureInfo (WMS)
   - GetMap (WMS)
