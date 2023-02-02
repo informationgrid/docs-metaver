@@ -286,7 +286,8 @@ Auswahlliste INSPIRE-Themen
   14.	Geografische Gittersysteme
   15.	Geologie
   16.	Gesundheit und Sicherheit
-  17.	Gewässernetz	18.	Höhe
+  17.	Gewässernetz
+  18.	Höhe
   19.	Koordinatenreferenzsysteme
   20.	Landwirtschaftliche Anlagen und Aquakulturanlagen
   21.	Lebensräume und Biotope
@@ -562,6 +563,7 @@ Name der Operation
 Name der von einem Dienst bereitgestellten Funktion/Operation. Hier muss ein eindeutiger Bezeichner für die beschriebene Operation eingegeben werden.
 
 Art des Dienstes	Name der Operation
+
   - Darstellungsdienste	 - GetCapabilities (WMS)
   - GetFeatureInfo (WMS)
   - GetMap (WMS)
