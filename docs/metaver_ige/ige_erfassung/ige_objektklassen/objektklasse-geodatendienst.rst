@@ -32,7 +32,8 @@ Alle im Rahmen von INSPIRE zu erfassenden Geodatendienste müssen auch als Objek
 Erfassung
 ---------
 
-1.1 Der getCapabilities-Assistent
+Der getCapabilities-Assistent
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Der getCapabilties Assistent unterstützt die Erfassung von Services in der Objektklasse Geodatendienst.
  
@@ -45,6 +46,7 @@ Der "getCapabilities Assistent" unterstützt folgende Dienste-Typen:
 
 
 Darstellungsdienste
+'''''''''''''''''''
 
 WMS - Web Map Service
 WMS-Server kann angeforderte Karten aus Rasterdaten oder Vektordaten visualisieren.
@@ -54,6 +56,7 @@ Webservice, um digitale Karten kachelbasiert anbieten und abrufen zu können.
 
 
 Downloaddienste
+''''''''''''''''
 
 WFS - Web Feature Service
 Internet-gestützter Zugriff auf Geodaten (Vektordaten).
@@ -66,35 +69,40 @@ Definiert, wie neue Coverages (Vektordatenformate) auf einen Server hochgeladen 
 
 
 Katalogdienst
+''''''''''''''
 
 CSW - Catalogue Service for the Web
 Internet-gestützte Veröffentlichung von Informationen über Geoanwendungen, Geodienste und Geodaten (Metadaten) in einer Geodateninfrastruktur. 
 
 
-1.2 Kopf der Erfassungsmaske
-
- 
+Kopf der Erfassungsmaske
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 Nach dem Anlegen eines neuen Objektes stehen die Eingabefelder für das neue Objekt im rechten Inhaltsfenster zur Verfügung. Als erster Schritt sollten die Basisinformationen im Inhaltsfenster (siehe Screenshot) überprüft bzw. bearbeitet werden.
 
 Objektname
+''''''''''
+
 Hier erfolgt die Angabe einer kurzen prägnanten Bezeichnung des beschriebenen Datensatzes. Der Objektname kann z.B. identisch mit dem Namen des Geodatendienstes sein, sofern dieser ausreichend kurz und aussagekräftig ist. Soweit ein gängiges Kürzel vorhanden ist, ist dieses Kürzel mit anzugeben. Der Eintrag für dieses Feld ist zwingend.
 
-Beispiel: Digitales Landschaftsmodell 50 (DLM50)
+**Beispiel:** *Digitales Landschaftsmodell 50 (DLM50)*
 
 
 Objektklasse
+''''''''''''
+
 Je nachdem, welche Objektklasse bei der Erstellung des Metadatensatzes im Assistenten gewählt wurde, so werden im Inhaltsbereich entsprechende Eingabefelder angezeigt.
 
-Hinweis:
-Ein Wechsel der Objektklasse ist an dieser Stelle seit InGrid 4.2.1 nicht mehr möglich.
+**Hinweis:**
+*Ein Wechsel der Objektklasse ist an dieser Stelle seit InGrid 4.2.1 nicht mehr möglich.*
 
 
 Verantwortlicher
+''''''''''''''''
 Hier ist standardmäßig der Erfasser eingetragen, der das Objekt angelegt hat (z.B. Max Mustermann). An dieser Stelle sollte die Person stehen, die sich für dieses Objekt verantwortlich fühlt und dafür sorgt, dass das Objekt aktuell gehalten wird. Meistens ist daher der Erfasser zugleich auch der richtige Verantwortliche. (Nähere Informationen zur Qualitätssicherung finden Sie im Leitfaden der GDI-LSA „Qualitativ hochwertige Metadaten erfassen und pflegen“ bzw. in der „Anleitung für die Erfassung von Metadaten“). 
 
-Hinweis:
-Wird bei eingeschalteter Qualitätssicherung das Verfallsdatum eines Objektes erreicht, so erhält der Verantwortliche eine E-Mail Benachrichtigung mit der Bitte, dieses Objekt zu aktualisieren.
+**Hinweis:**
+*Wird bei eingeschalteter Qualitätssicherung das Verfallsdatum eines Objektes erreicht, so erhält der Verantwortliche eine E-Mail Benachrichtigung mit der Bitte, dieses Objekt zu aktualisieren.*
 
 Nach der Eingabe der Basisinformationen im Kopfbereich bietet es sich an, den Metadatensatz zwischen zu speichern. Grundsätzlich empfiehlt es sich, beim Ausfüllen der Felder von Zeit zu Zeit die eingegebenen Daten zu sichern, um beispielsweise bei einer abgelaufenen Session (Sitzung) die eingegeben Daten nicht zu verlieren. Das Zwischenspeichern ist jederzeit möglich, auch wenn noch nicht alle Pflichtfelder ausgefüllt sind.
 
@@ -105,23 +113,24 @@ Geändert am: Änderungsdatum
 Objekt-ID: Die Objekt-ID wird nach dem ersten Speichern automatisch vergeben.
 Von: Max Mustermann (Bearbeiter)
 
-Hinweis:
-Die Objekt-ID erscheint im Frontend-Metadatensatz in der Rubrik „Zusätzliche Info“, 
-sie ist nicht zu verwechseln mit dem Identifikator der Datenquelle!
+**Hinweis:**
+*Die Objekt-ID erscheint im Frontend-Metadatensatz in der Rubrik „Zusätzliche Info“,  sie ist nicht zu verwechseln mit dem Identifikator der Datenquelle!*
 
-1.3 Abschnitt Allgemeines
 
- 
-
- 
+Abschnitt Allgemeines
+^^^^^^^^^^^^^^^^^^^^^
 
 Kurzbezeichnung
+'''''''''''''''
+
 Angabe einer Abkürzung (Kurzbezeichnung) für den zu beschreibenden Datensatz.
 
 Beispiele: FND (steht für: Flächennaturdenkmale),  DTK25 (steht für: Digitale Topographische Karte im Maßstab 1: 25.000)
 
 
 Vorschaugrafik
+''''''''''''''
+
 In dieses Feld kann eine WMS-Dienst URL oder eine URL zu einer Grafik angegeben werden. Wenn in den Metadatensatz eine Vorschaugrafik/Grafik eingetragen wurde, so wird diese in der Suchergebnisliste und in der Detailansicht unter "Allgemeines" dargestellt. 
 
 
@@ -134,30 +143,34 @@ Geben Sie eine Beschreibung zu der gewählten Grafik ein. Diese Angabe ist für 
 
 Beispiel: Karte Schutzgebiete Sachsen-Anhalt
 
- 
+[Grafik]
 
 Abb.: Anzeige der Vorschaugrafik (WMS) in der Suchergebnisliste auf der Portaloberfläche. Im WMS wird der Button "Karte", für den Aufruf des Kartenviewers, angezeigt. Die Metadaten lassen sich über den Button "XML" im Browser als XML-File anzeigen.
 
- 
+[Grafik]
 
 Abb.: Anzeige der Vorschaugrafik (WFS) in der Suchergebnisliste auf der Portaloberfläche. Im WFS fehlt der Button "Karte". Die Metadaten lassen sich über den Button "XML" im Browser als XML-File anzeigen.
 
- 
+[Grafik]
 
 Abb.: Anzeige der Vorschaugrafik in der Detailansicht des WMS-Dienstes - Über den Butten "Zeige Karte" wird der Kartenviewer aufgerufen. Für den WFS-Dienst fehlt diese Ansicht.
  
 
 Beschreibung
+''''''''''''
+
 Eintrag einer Aussagekräftigen fachlichen Inhaltsangabe zum beschreibenden Geodatendienst. Auf Verständlichkeit für fachfremde Dritte ist zu achten. Technische Einzelheiten in Verbindung mit der Datenverarbeitung sollten auf das Wesentliche beschränkt sein. Das Feld Beschreibungen muss ausgefüllt werden, es ist ein Pflichtfeld, sonst lässt sich der Metadatensatz nicht freigeben.
 
-Hinweis: Empfohlen ist ein Absatz. Je mehr Inhalte eingegeben werden, umso mehr Schlüsselwörter sind auch für die Suche vorhanden. Kurze Sätze werden besser verstanden
+**Hinweis:** *Empfohlen ist ein Absatz. Je mehr Inhalte eingegeben werden, umso mehr Schlüsselwörter sind auch für die Suche vorhanden. Kurze Sätze werden besser verstanden.*
 
- 
 
 Adressen
+''''''''
+
 An dieser Stelle sind Personen, Fachbereiche oder Institutionen anzugeben, die weitere Auskünfte zum aktuellen Objekt/Geodatendienst geben können. Es besteht dabei keine Verpflichtung zur Veröffentlichung von Personenbezogenen Daten (siehe Erfassungsanleitung Teil 2, Punkt: 1.1 Anlegen von Adressen, Feld: "Daten nicht anzeigen"). Die Angabe einer Institution oder eines Fachbereiches ist ausreichend. Bei Bedarf können diese Verweise geändert werden. In der linken Spalte ist kein freier Eintrag möglich, die Auswahl erfolgt über eine Dropdown-Liste. Zum Öffnen des Dropdownmenüs die entsprechende freie Zelle der Tabelle markieren und anschließend auf das kleine Dreieck am rechten Rand klicken. Es öffnet sich daraufhin die Dropdown-Liste mit den Auswahlmöglichkeiten:
 
 Auswahlliste Art des Verweises
+
  - Anbieter 
  - Ansprechpartner 
  - Autor 
@@ -169,22 +182,23 @@ Auswahlliste Art des Verweises
  - Verwalter
 
 
- 
-
 Link Adresse hinzufügen
+'''''''''''''''''''''''
 Über den Link "Adresse hinzufügen" wird der Verweis selbst angelegt. Als Auswahlmöglichkeit stehen alle in der Adressverwaltung des aktuellen Kataloges bereits eingetragenen Adressdaten zur Verfügung. 
 
 
 
 Über das Kontextmenü (rechte Maustaste) ist es möglich Adressen aus einer Zeile zu kopieren und in eine weitere Zeile einzufügen.
 
-Beispiel: 
-Ansprechpartner: Max Mustermann 
-Verwalter: Lieschen Müller
+**Beispiel:**
+*Ansprechpartner: Max Mustermann*
+*Verwalter: Lieschen Müller*
 
  
 
 Adresse hinzufügen
+''''''''''''''''''
+
 In der Direkten Suche können Sie entweder nach der Einheit bzw. Institution, den Nachnamen, den Vornamen oder einer Kombination aus den Feldern suchen. Es wird immer eine Suche nach einer Teilzeichenkette durchgeführt. Werden Zeichenketten in mehreren Feldern angegeben, wird eine Adresse nur dann gefunden, wenn alle Zeichenketten übereinstimmen (UND-Verknüpfung).
 Die gefundenen Adressen werden in der Trefferliste angezeigt. Durch einfaches Klicken auf einen Eintrag wird dieser markiert. Durch ein anschließendes Klicken auf Übernehmen wird die markierte Referenz auf die Adresse in das Objekt übernommen. 
 Im Hierarchiebaum können Sie in der üblichen Weise navigieren. Ein einfacher Klick auf eine Adresse markiert diese. Durch ein anschließendes Klicken auf Übernehmen wird die markierte Referenz auf die Adresse in das Objekt übernommen.
@@ -193,12 +207,16 @@ Die Adresszeilen sind auch zwischen verschiedenen Objekten und (Adress-) Element
 
 
 Adressen Kopieren und Einfügen
+'''''''''''''''''''''''''''''''
+
 Eine Adresse wird kopiert, indem mit der rechten Maustaste eine Adresszeile angeklickt und die Option „Adresse kopieren“ gewählt wird. Die kopierte Adresse kann nun in einem beliebigen Objekt in einer leeren oder auch in einer befüllten Adresszeile eingetragen werden. Beim Einfügen in eine leere Zeile wird eine Kopie der Adresse samt Rolle eingetragen. Wird in einem bestehenden Eintrag eingefügt, so wird nur die Adresse ausgetauscht, die Rolle bleibt erhalten.
 
 
  
 
 INSPIRE-relevant
+''''''''''''''''
+
 Dieses Feld definiert, wenn aktiviert, dass ein Metadatensatz für das INSPIRE-Monitoring vorgesehen ist.
 
 Folgende Eigenschaften ändern sich bei der Aktivierung der Checkbox:
@@ -209,9 +227,13 @@ Die als INSPIRE-relevant markierten Datensätze werden im INSPIRE GeoPortal (htt
 
 
 AdV kompatibel
+''''''''''''''
+
 Beim Anhaken der Checkbox "AdV kompatibel" werden die Anforderungen des AdV-Metadatenprofils umgesetzt (z.B. Automatisiertes Setzen des Schlüsselwortes "AdVMIS" in der Datenbank).
 
 Open Data
+'''''''''
+
 Diese Checkbox kennzeichnet den Metadatensatz als "Open Data"-Objekt.
 Es sind dann zusätzlich folgende Angaben verpflichtend:
 
@@ -219,37 +241,35 @@ Es sind dann zusätzlich folgende Angaben verpflichtend:
  - Unter Verweisen muss mindestens ein Verweis vom Typ "Datendownload" eingetragen werden.
  - Unter "Nutzungsbedingung" muss mindestens ein Eintrag vorhanden sein.
 
-Hinweis:
-Die Checkbox „Open Data“ ist derzeit für Sachsen-Anhalt nicht relevant, da für Open Data noch keine gesetzlichen Grundlagen existieren. 
 
-1.4 Abschnitt Verschlagwortung
-
- 
-
-
- 
+Abschnitt Verschlagwortung
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 AdV Produktgruppe
+'''''''''''''''''
+
 Auswahl einer Produktgruppe bzw. eines Fachthemas der AdV.
 
-Hinweis: 
-Dieses Feld ist nur ein Pflichtfeld, wenn in das Feld "AdV kompatibel" ein Häkchen gesetzt wurde.
+**Hinweis:**
+*Dieses Feld ist nur ein Pflichtfeld, wenn in das Feld "AdV kompatibel" ein Häkchen gesetzt wurde.*
 
  
-
 INSPIRE-Themen
+''''''''''''''
+
 Auswahl eines INSPIRE Themengebiets für die Verschlagwortung des Datensatzes (INSPIRE-Pflichtfeld).
 
 Bei Eintragung oder Löschen eines INSPIRE-Themas werden im Pflichtfeld Spezifikation der Konformität automatisch Einträge vorgenommen bzw. entfernt.
 
-Beispiel: Boden
-(automatischer Eintrag im Abschnitt "Zusatzinformation", Feld: "Konformität": "VERORDNUNG (EG) Nr. 1089/2010 - INSPIRE Durchführungsbestimmung Interoperabilität von Geodatensätzen und -diensten: konform / nicht konform")
+**Beispiel: Boden**
+*(automatischer Eintrag im Abschnitt "Zusatzinformation", Feld: "Konformität": "VERORDNUNG (EG) Nr. 1089/2010 - INSPIRE Durchführungsbestimmung Interoperabilität von Geodatensätzen und -diensten: konform / nicht konform")*
 
-Achtung:
-Dieses Feld ist nur ein Pflichtfeld, wenn in das Feld "INSPIRE-relevant" ein Häkchen gesetzt wurde.
+**Achtung!**
+*Dieses Feld ist nur ein Pflichtfeld, wenn in das Feld "INSPIRE-relevant" ein Häkchen gesetzt wurde.*
  
 
 Auswahlliste INSPIRE-Themen
+
 1.	Kein INSPIRE-Thema
 2.	Adressen
 3.	Atmosphärische Bedingungen
@@ -293,18 +313,16 @@ INSPIRE - priority data set (optionales Feld)
 Priority Data Sets sind jene Geodatensätze, die für die Berichterstattung im Rahmen der EU-Umwelt-Richtlinien bereitgestellt werden (Berichtsdatensätze). Dazu ist je nach Betroffenheit von den Umweltberichterstattungspflichten die entsprechende/-n Rechtsschrift/-en aus der Liste auszuwählen.
 
 Auszug aus der Auswahlliste INSPIRE - priority data set
+
 1.	Lärmbelastung durch Hauptverkehrsstraßen - Tag-Abend-Nacht-Lärmindex (Umgebungslärmrichtlinie) {en: Major roads noise exposure delineation day-evening-night (Noise Directive)}
 2.	Lärmbelastung in Ballungsräumen - Tag-Abend-Nacht-Lärmindex (Umgebungslärmrichtlinie) {en: Agglomerations - noise exposure delineation day-evening-night (Noise Directive)}
 3.	Location of boreholes {en: Location of boreholes}
 4.	Kommunale Abwasserbehandlungsanlagen (Kommunalabwasserrichtlinie) {en: Urban waste-water treatment plants (Urban Waste Water Treatment Directive)}
 5.	Schadstofffreisetzungen (Europäisches Schadstofffreisetzungs- und -verbringungsregister) {en: Actual pollutant 
 
-Hinweis: Die vollständige Liste finden Sie als Anlage am Ende des Dokumentes EA_MDK-LSA_2020-06-15_Teil-2_Anhang-1_Objektklasse-Geodatensatz.docx.
-
- 
-
 
 INSPIRE - Räumlicher Anwendungsbereich (optionales Feld)
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Das Schlagwort "Räumlicher Anwendungsbereich" wird im Rahmen des INSPIRE-Monitorings verwendet, um die flächenmäßige Abdeckung der INSPIRE-relevanten Geodatensätze auszuwerten. INSPIRE-relevante Geodatensätze müssen aus den zur Auswahl stehenden Werten entweder mit "National", "Regional" oder "Lokal" beschrieben werden.
 
@@ -314,41 +332,45 @@ Auswahlfeld INSPIRE - Räumlicher Anwendungsbereich
  - National	 - Regional
 
 
- 
-
 Optionale Schlagworte
+'''''''''''''''''''''
+
 Eingabe von mindestens drei Schlagworten, die im Thesaurus verzeichnet sind. Die Verschlagwortung dient dem themenbezogenen Wiederauffinden (Retrieval) der Objekte über den Thesaurus-Navigator. Dazu müssen Schlagworte aus dem Thesaurus ausgewählt werden, die das Objekt so genau wie möglich, aber auch so allgemein wie nötig beschreiben. So sollte mindestens ein Schlagwort in der Thesaurus-Hierarchie einen relativ allgemeinen Aspekt des Objektes beschreiben und mindestens ein Schlagwort das Objekt so speziell wie möglich beschreiben. Die Auswahl kann über den "Verschlagwortungs-assistenten" oder den "Thesaurus-Navigator" vorgenommen werden - siehe Verlinkung.
 
- 
+[Grafik]
 
 Abb.: Beispiel für eine Verschlagwortung
 
-Hinweis: Die optionalen Schlagworte sind nur sichtbar, wenn der Abschnitt Verschlagwortung weiter ausgeklappt wird.
+**Hinweis:** *Die optionalen Schlagworte sind nur sichtbar, wenn der Abschnitt Verschlagwortung weiter ausgeklappt wird.*
+
 
 Umwelt-Thesaurus (UMTHES)
+'''''''''''''''''''''''''
+
 Die Verschlagwortung über den Umwelt-Thesaurus dient dem themenbezogenen Wiederauffinden der Objekte über den Thesaurus-Navigator. Dazu müssen Schlagworte aus dem Thesaurus (UMTHES) ausgewählt werden, die das Objekt so genau wie möglich, aber auch so allgemein wie nötig beschreiben. So sollte mindestens ein Schlagwort in der Thesaurus-Hierarchie einen relativ allgemeinen Aspekt des Objektes beschreiben und mindestens ein Schlagwort das Objekt so speziell wie möglich beschreiben. Die Auswahl kann über den "Verschlagwortungsassistenten" oder den "Thesaurus-Navigator" vorgenommen werden (siehe Verlinkung).
 
 Die Eingabe von mindestens drei Schlagworten, die im Umwelt-Thesaurus verzeichnet sind wird empfohlen.
 
-Beispiel für "UMTHES": Luftbild, Bild-Flug, Orthophoto
+**Beispiel für "UMTHES":** *Luftbild, Bild-Flug, Orthophoto*
 
 
 Freie Schlagworte eintragen
+''''''''''''''''''''''''''''
+
 Hier erfolgt die Eingabe von Schlagworten die nicht im Thesaurus vorhanden sind.
 Es sollen prägnante Begriffe und Termini, die in engem Zusammenhang mit dem Objekt stehen und die nicht im Thesaurus vorhanden sind, eingetragen werden. Dies können spezielle Fachgebiete, (Mess-Methoden, Bestandteile o.ä. sein. Die Freien Suchbegriffe sind ergänzend zu den Thesaurus-Suchbegriffen anzugeben. Wenn Sie hier einen Thesaurus-Begriff eingeben, wird dieser automatisch als Thesaurus-Begriff (UMTHES) erkannt und gekennzeichnet. Abschließend den Button "Hinzufügen" betätigen.
 Das eingegebene Schlagwort wird dadurch automatisch in die obere Tabelle übernommen. Ein Hinweis in der rechten Tabellenspalte zeigt an, ob das Schlagwort bereits im Umweltthesaurus (UMTHES) enthalten ist, oder ob das Schlagwort ein „freies Schlagwort“ (FREE) ist.
 
-Beispiel für "FREE": DOP Sachsen-Anhalt, Befliegung
+**Beispiel für "FREE":** *DOP Sachsen-Anhalt, Befliegung*
 
-Hinweis:
-Mehrere Schlagworte können in das Textfeld, durch Komma getrennt, angegeben werden, Zusammengehörige Worte werden in Anführungszeichen gesetzt.
+**Hinweis:**
+*Mehrere Schlagworte können in das Textfeld, durch Komma getrennt, angegeben werden, Zusammengehörige Worte werden in Anführungszeichen gesetzt.*
 
- 
-
- 
 
 
 Verschlagwortungsassistent
+''''''''''''''''''''''''''
+
 Mit STRG+Mausklick können Sie einen oder mehrere Schlagwörter markieren.
  
 Über die Schaltfläche ">" werden die ausgewählten Schlüsselwörter aus der "Vorschlagsliste" in die Liste "Übernehmen" transportiert. Durch Betätigen der Schaltfläche ">>" können alle Begriffe mit einmal in die rechte Liste übernommen werden. 
@@ -358,17 +380,13 @@ Die Schaltfläche "<" verschiebt die markierten Begriffe wieder aus der rechten 
 Mit einem Klick auf die Schaltfläche "Übernehmen" werden alle Begriffe aus der Liste "Übernehmen" dem Metadatensatz als Schlagworte hinzugefügt. 
 
 
- 
-
 Thesaurus-Navigator
+'''''''''''''''''''
 Bei der Auswahl der Schlagworte kann der „Thesaurus-Navigator“ helfen.
 
- 
 
 Der "Thesaurus-Navigator" ist unterteilt in: die Suche, den Hierarchiebaum, die Ergebnisliste und die Liste der Deskriptoren.
 
-
- 
 
 In die Suchzeile geben Sie einen beliebigen Suchbegriff ein.
 Abschließend betätigen Sie den Button "In Thesaurus suchen".
@@ -381,16 +399,16 @@ Im Strukturbaum können weitere Suchbegriffe ausgewählt werden. Durch Betätige
 Abschließend betätigen Sie den Button „Übernehmen“. Die gewählten Begriffe werden jetzt in die Tabelle "Optionalen Schlagworte" eingetragen.
 
 
-1.5 Abschnitt Fachbezug 
-
- 
-
- 
+Abschnitt Fachbezug
+^^^^^^^^^^^^^^^^^^^
 
 Klassifikation des Dienstes
+'''''''''''''''''''''''''''
+
 Aus der vorgegebenen Auswahlliste ist der Eintrag zu wählen, der auf den Dienst zutrifft. Bei WebMapDiensten (WMS) kann beispielsweise „Dienst für den Zugriff auf grafische Darstellungen ausgewählt werden. Dieses Feld dient in erster Linie der Identifikation eines Dienstes durch den recherchierenden Nutzer. 
 
 Auswahlliste Klassifikation des Dienstes
+
  - Abonnementdienst
  - Analysedienst für räumliche Nachbarschaftsbeziehungen
  - Analysedienst für zeitbezogene Nachbarschaftsbeziehungen
@@ -464,9 +482,12 @@ Auswahlliste Klassifikation des Dienstes
  
 
 Art des Dienstes
+''''''''''''''''
+
 Über das Dropdownmenü kann zwischen folgenden Dienstarten gewählt werden: 
 
-Auswahlliste Art des Dienstes	
+Auswahlliste Art des Dienstes
+
  - Darstellungsdienste (WMS) 
  - Dienste zum Abrufen von Geodatendiensten 
  - Download-Dienste (WFS/Atom)  	 - Sonstige Dienste 
@@ -477,52 +498,60 @@ In diesem Pflichtfeld kann die Art des Dienstes ausgewählt werden. Über das Fe
 
 Bei Eintragungen bzw. Änderungen dieses Feldes werden in der Tabelle Konformität die Einträge für die zugehörige Spezifikation automatisch gesetzt (gilt nicht für alle Dienstarten).
 
-Beispiel:
-Darstellungsdienst (automatischer Eintrag "Technical Guidance for the implementation of INSPIRE View Services" in Konformität/Spezifikation)
+**Beispiel:**
+*Darstellungsdienst (automatischer Eintrag "Technical Guidance for the implementation of INSPIRE View Services" in Konformität/Spezifikation)*
 
 Die Auswahl der Dienstart hat Auswirkungen auf das Feld Konformität. Je nach gewählter Art des Dienstes wird das Feld Konformität schon vorbelegt. 
 
 
- 
-
 Als ATOM-Download Dienst bereitstellen
+'''''''''''''''''''''''''''''''''''''''
+
 Bei aktivierter Option, wird dieser Datensatz im Portal als Download angeboten. Zusätzlich wird die in den Katalogeinstellungen hinterlegte "ATOM-Downloadservice-URL" automatisch in das ISO-Format unter "distributionInfo/*/linkage" abgebildet.
  
-Hinweis:
-Bei ATOM-Download Diensten, die im Rahmen von INSPIRE bereitgestellt und nicht über den InGrid Editor generiert werden, ist für das Feld "Name der Operation" -  "Get Download Service Metadata" auszuwählen.
+**Hinweis:**
+*Bei ATOM-Download Diensten, die im Rahmen von INSPIRE bereitgestellt und nicht über den InGrid Editor generiert werden, ist für das Feld "Name der Operation" -  "Get Download Service Metadata" auszuwählen.*
 
-  
 
-Auswahllisten	
+Auswahllisten
+	
 Darstellungsdienste	Downloaddienste	Suchdienste
+
  - OGC:WMS 1.1.1
  - OGC:WMS 1.3.0
- - OGC:WMTS 1.0.0	 - OGC:WFS 1.1.0
+ - OGC:WMTS 1.0.0	 
+ - OGC:WFS 1.1.0
  - OGC:WFS 2.0
- - predefined ATOM	 - OGC:CSW 2.0.2
-		Transformationsdienste
-		 - OGC:CSW 2.0.2
+ - predefined ATOM	 
+ - OGC:CSW 2.0.2
+
+Transformationsdienste
+- OGC:CSW 2.0.2
 
 Version des Dienstes
+''''''''''''''''''''
+
 Angaben zu Version der dem Dienst zugrunde liegenden Spezifikation.
 Bitte alle Versionen eintragen, die vom Dienst unterstützt werden.
 
-Beispiel: "OGC:WMS 1.3.0" 
+**Beispiel:** *"OGC:WMS 1.3.0"*
 
-
-
- 
 
 Operationen
+'''''''''''
+
 Angabe von Operationen bezüglich Webdiensten wie GetMap, GetCapabilities und getFeatureInfo. Neue Operationen können entweder über den GetCapabilities-Assistenten beim Neuanlegen des Objektes eingetragen werden, oder aber manuell über den Link "Operation hinzufügen". 
 
  
-
 Operation bearbeiten
+'''''''''''''''''''''
+
 Bestehende Operation können bearbeitet werden, indem der entsprechende Eintrag in der Liste mit der rechten Maustaste angeklickt und die Funktion „Zeile bearbeiten“ aus dem Kontextmenü ausgewählt wird. (rechte Maustaste). Es öffnet sich ein separater Dialog mit folgenden Feldern.
 
 
 Name der Operation
+'''''''''''''''''''
+
 Name der von einem Dienst bereitgestellten Funktion/Operation. Hier muss ein eindeutiger Bezeichner für die beschriebene Operation eingegeben werden.
 
 Art des Dienstes	Name der Operation
@@ -550,13 +579,18 @@ Art des Dienstes	Name der Operation
  - IsTransformable
  - Transform
 
+
 Zugriffsadresse
+'''''''''''''''
+
 Eindeutige URL über die die Operation aufgerufen werden kann.
 
-Beispiel: https://my.host.com/cgi-bin/mapserv?map=mywms.map&
+**Beispiel:** https://my.host.com/cgi-bin/mapserv?map=mywms.map&
 
 
 Unterstützte Plattformen
+''''''''''''''''''''''''
+
 Angaben zur Art der Plattform bzw. Schnittstelle über die der Dienst angesprochen werden kann.
 
 Auswahlliste Unterstützte Plattformen
@@ -569,17 +603,22 @@ Auswahlliste Unterstützte Plattformen
  - WebServices (WMS, WFS, Atom)
  - XML
 
-Beispiel: HTTPGet oder WebServices (WMS, WFS, Atom)
+**Beispiel:** *HTTPGet oder WebServices (WMS, WFS, Atom)*
 
 Parameter
+'''''''''
+
 Mögliche Parameter, die bei einem Aufruf der Operation übergeben werden können:
+
  - Parametername und gegebenenfalls Zuweisung eines Wertes (in der Form Name=Wert, siehe Beispiel unten)
  - Richtung des Datenflusses, der durch diesen Parameter erzeugt wird.
  - Textliche Beschreibung des Parameters.
  - Optionalität: Angabe, ob der Parameter angegeben werden muss oder nicht.
  - Angabe, ob eine Mehrfacheingabe des Parameters möglich ist.
 
-Beispiel:
+
+**Beispiel:**
+
 Name: REQUEST=GetCapabilities
 Richtung:
 Beschreibung: Name of request
@@ -587,6 +626,8 @@ Optional: Nein
 Mehrfacheingabe: Nein
 
 GetCapabilities-Request-Parameter weglassen
+'''''''''''''''''''''''''''''''''''''''''''
+
 Der GetCapabilities-Assistent füllt für Objekte des Typs Geodatendienst u.a. auch die Tabelle „Operationen“ aus. Die Zugriffsadresse endet mit: „?“. 
 Dies ist eine Forderung der ISO. 
 
@@ -595,62 +636,64 @@ Die Request-Parameter (z.B. REQUEST=GetCapabilities&SERVICE=WMS) sollen daher au
 Sollten die Parameter noch in Geodatendiensten, Tabelle "Operationen" vorhanden sein, so sind diese zu löschen. Streng genommen sind die Objekte, bei denen die Parameter in der Zugriffsadresse enthalten sind, nicht ISO-konform.
 
 Aufruf
+''''''
+
 Eindeutiger Funktionsname über den die Operation aufgerufen werden kann. Bei OGC Web-Diensten sind die jeweiligen spezifizierten REQUEST-Aufrufe zu verwenden.
 
-Beispiel: GetMap oder GetCapabilities oder GetFeatureInfo
+**Beispiel:** *GetMap oder GetCapabilities oder GetFeatureInfo*
 
 
 Beschreibung
+''''''''''''
+
 Textliche Beschreibung der Funktionalität der Operation.
 
  
 
-Beispiel: Die GetMap Operation des WMS gibt eine Raster-Repräsentation der in "Basisdaten" beschriebenen digitalen Karte zurück.
+**Beispiel:** *Die GetMap Operation des WMS gibt eine Raster-Repräsentation der in "Basisdaten" beschriebenen digitalen Karte zurück.*
 
 
 Abhängigkeiten
+'''''''''''''''
+
 Die Namen der Operationen, die vor dem Ausführen der aktuellen Operation ausgeführt werden müssen, wenn die Operation als Teil einer Service Chain genutzt werden soll.
 
-Beispiel: Die Operation "GetMap" ist abhängig von der Operation "GetCapabilities".
-
+**Beispiel:** *Die Operation "GetMap" ist abhängig von der Operation "GetCapabilities".*
 
 Durch das Anklicken der Schaltfläche "Hinzufügen" übernehmen Sie die geänderten Daten in die Tabelle "Operationen". Zum Löschen einer Operation aus der Tabelle wählen Sie die Funktion "Zeile Löschen" aus dem Kontextmenü (rechte Maustaste). 
 
-
- 
-
 Aktualisieren von Operationen und Metadaten
+'''''''''''''''''''''''''''''''''''''''''''
+
 Unter der Tabelle Operationen befindet sich der Button "Aktualisieren". 
 Dieser bewirkt, dass die Informationen in dem Metadatenobjekt aus dem Capabilities-Dokument des Dienstes auf den neuesten Stand gebracht werden. Die Aktualisierung erfolgt genau wie die Initialisierung eines neuen Objektes mit dem GetCapabilities-Assistenten. 
 
-Achtung: Alle im Assistenten ausgewählten Felder werden bei der Aktualisierung ohne Ausnahme überschrieben. Wenn im Vorfeld an einem der im Folgenden genannten Felder manuell Änderungen hinzugefügt wurden, so gehen diese verloren und müssen gegebenenfalls neu eingetragen werden! 
+**Achtung:** *Alle im Assistenten ausgewählten Felder werden bei der Aktualisierung ohne Ausnahme überschrieben. Wenn im Vorfeld an einem der im Folgenden genannten Felder manuell Änderungen hinzugefügt wurden, so gehen diese verloren und müssen gegebenenfalls neu eingetragen werden!*
 
-Hinweis: Eine Aktualisierung über den Assistenten ist nur möglich, wenn der Dienst nicht geschützt ist.
-Sollen nur die Operationen aktualisiert werden, dürfen keine Metadaten im GetCapabilities-Assistenten ausgewählt werden!
+**Hinweis:** *Eine Aktualisierung über den Assistenten ist nur möglich, wenn der Dienst nicht geschützt ist.
+Sollen nur die Operationen aktualisiert werden, dürfen keine Metadaten im GetCapabilities-Assistenten ausgewählt werden!*
  
+ 
+[Grafik]
  
 Abb.: Dieser Hinweis kann bei der Aktualisierung einer Operation erscheinen.
 
 
 
- 
-
 Erstellungsmaßstab
+''''''''''''''''''
+
 Angabe des Erstellungsmaßstabes, der sich auf die erstellte Karte und/oder Digitalisiergrundlage bei Geodaten bezieht. Maßstab: Maßstab der Karte, z.B 1:12 Bodenauflösung: Einheit geteilt durch Auflösung multipliziert mit dem Maßstab (Angabe in Meter, Fließkommazahl) Scanauflösung: Auflösung z.B. einer eingescannten Karte, z.B. 120dpi (Angabe in dpi, Integerzahl). Es handelt sich um ein optionales INSPIRE-Feld.
 
-Beispiel:
-Bodenauflösung: Auflösungseinheit in Linien/cm; Einheit: z.B. 1 cm geteilt durch 400 Linien multipliziert mit dem Maßstab 1:25.000 ergibt 62,5 cm als Bodenauflösung
-
-
- 
+**Beispiel:**
+*Bodenauflösung: Auflösungseinheit in Linien/cm; Einheit: z.B. 1 cm geteilt durch 400 Linien multipliziert mit dem Maßstab 1:25.000 ergibt 62,5 cm als Bodenauflösung*
 
 Systemumgebung
+'''''''''''''''
 Angaben zum Betriebssystem und der Software, ggf. auch Hardware, die zur Implementierung des Dienstes eingesetzt wird.
 
-
- 
-
 Historie
+''''''''
 Angaben zur Implementierungsgeschichte des Dienstes.
 
 Beispiel: 11.12.03: Installation des UMN Mapserver 3.0 auf Linux 2.2.005.04.04: Upgrade Linux 2.2.0 auf Linux 2.6.0 Modellversuch beim Gewerbeaufsichtsamt Osnabrück 1991; Einführung 1993
