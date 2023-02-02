@@ -546,7 +546,7 @@ Verweis auf Geodatendienst: „ATKIS-DGM1 Sachsen-Anhalt (WMS 1.3)“
 **Hinweis:** *Um eine Kopplungs-Beziehung wieder zu entfernen, muss diese im Dienste-Objekt gelöscht werden.*
 
 Datengrundlage
-^^^^^^^^^^^^^^
+''''''''''''''
 
 Angabe der Unterlagen (Luftbilder, Karten, Datensammlungen), die bei der Erstellung der Karte oder der Geo-Information (des digitalen Datenbestandes) Verwendung finden. Der Eintrag kann in Textform erfolgen, indem die Karteikarte "Text" ausgewählt wird. Außerdem kann durch Auswahl der Registerkarte "Verweise" ein Verweis zu einem anderen Objekt im aktuellen Katalog erstellt werden.
 

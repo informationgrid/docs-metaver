@@ -658,6 +658,8 @@ Abschnitt Raumbezugsystem
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Geothesaurus Raumbezug
+''''''''''''''''''''''
+
 Im Abschnitt Geothesaurus-Raumbezug wird die räumliche Ausdehnung des betreffenden Objektes angezeigt. Es wird ein Begrenzungsrechteck (Bounding Box) aus geografischen Koordinaten ("Min" und "Max") angegeben, in dem die Ressource liegt.
 
 Als Ausdehnung wird bei neuen Objekten automatisch standardmäßig das Bundesland Sachsen-Anhalt eingetragen. Diesen Eintrag können Sie bei Bedarf löschen (Zeile markieren, rechte Maustaste, "Zeile löschen"). 
@@ -667,25 +669,29 @@ Zur Eingabe eines anderen geografischen Bereichs wählen Sie den "Geothesaurus-N
 Über den Geothesaurus-Navigator kann nach den Koordinaten der räumlichen Einheit gesucht werden.
  
 Geothesaurus-Navigator
+''''''''''''''''''''''
+
 Eingabe der Räumlichen Einheit, deren Koordinaten gesucht werden sollen.
 
 Geben Sie in das Suchfeld den geografischen Begriff (oder einen Teil des Begriffs) ein den Sie suchen. Nach dem Klicken auf die Schaltfläche „In Geo-Thesaurus suchen“ wird nach diesem Begriff im SNS (Semantic Network Service des Umweltbundesamtes) gesucht und die Ergebnisse werden unter Auswahl aufgelistet. Sie können einen oder mehrere Begriffe dieser Liste markieren und über die Schaltfläche "Übernehmen" als Raumbezug dem Objekt hinzufügen. Neben den geografischen Begriffen werden damit automatisch auch die Koordinaten des geografischen Bereiches in das Objekt übernommen. 
 
-Hinweis: Für eine breitere Suche können Sie Wildcards verwenden, z.B. Harz* oder *Talsperre.
+**Hinweis:** *Für eine breitere Suche können Sie Wildcards verwenden, z.B. *Harz oder *Talsperre.*
 
 Sollte der gewünschte geografische Begriff nicht vorhanden sein, besteht die Möglichkeit, diesen zusammen mit den Koordinaten manuell einzutragen. Wählen Sie unter der Tabelle "Freier Raumbezug" den Link "Raumbezug hinzufügen".
 
-Hinweise:
-Der Link "Raumbezug hinzufügen" ist nur sichtbar, wenn die optionalen Felder eingeblendet sind.
+**Hinweise:**
+*Der Link "Raumbezug hinzufügen" ist nur sichtbar, wenn die optionalen Felder eingeblendet sind.*
 
-
- 
 
 Umgerechnete Koordinaten
+''''''''''''''''''''''''
+
 Umrechnung der unter Geothesaurus-Raumbezug ausgewählten Daten in die in der Auswahllist zur Verfügung stehenden Koordinatensysteme.
 
 
 Freier Raumbezug
+''''''''''''''''
+
 Informationen über die räumliche Zuordnung des in dem Objekt beschriebenen Datenbestand. Es können frei wählbare Raumbezugs-Koordinaten hinzugefügt werden. Der Wertebereich im WGS ist folgendermaßen definiert:
 
 - Breite (Latitude): -90 bis 90
@@ -693,25 +699,31 @@ Informationen über die räumliche Zuordnung des in dem Objekt beschriebenen Dat
 
  
 Raumbezug hinzufügen
+'''''''''''''''''''''
+
 In dem sich öffnenden Dialog können Sie einen freien Raumbezug in dem Koordinatensystem angeben, welches Sie (im Dialogfester unten) ausgewählt haben. 
 
 Mit einem Klick auf die Schaltfläche „Hinzufügen“ werden die Angaben in das Feld „Freier Raumbezug“ des Objektes übernommen. 
  
 
 erben
+'''''
+
 Über den Link "erben" können alle freien Raumbezüge des übergeordneten Objektes übernommen werden. Dabei werden nur neue Raumbezüge übernommen.
 
 
-
 Raumbezugsystem
+'''''''''''''''
+
 Über ein Dropdownmenü erfolgt an dieser Stelle die Auswahl des Raumbezugssystems, welches in der Ressource verwendet wurde. 
 
-Anmerkung:
-Die Arbeitsgemeinschaft der Vermessungsverwaltungen der Länder der Bundesrepublik Deutschland (AdV) hat 1991 die Einführung des ETRS89 als Bezugssystem Lage und 1995 die Einführung von UTM als ebenes Koordinatensystem für ETRS89 beschlossen. Dies geschieht im Einklang mit den Empfehlungen der EU zur Realisierung eines europaweiten Raumbezuges und somit zur Schaffung einer einheitlichen Basis für die zukunftsfähige Geodateninfrastruktur in Europa. 
+**Anmerkung:**
+*Die Arbeitsgemeinschaft der Vermessungsverwaltungen der Länder der Bundesrepublik Deutschland (AdV) hat 1991 die Einführung des ETRS89 als Bezugssystem Lage und 1995 die Einführung von UTM als ebenes Koordinatensystem für ETRS89 beschlossen. Dies geschieht im Einklang mit den Empfehlungen der EU zur Realisierung eines europaweiten Raumbezuges und somit zur Schaffung einer einheitlichen Basis für die zukunftsfähige Geodateninfrastruktur in Europa.*
 
-Beispiel: EPSG:4326 / WGS 84 / geographisch
+**Beispiel:** *EPSG:4326 / WGS 84 / geographisch*
 
 Auswahlliste der Raumbezugssysteme
+
  - CRS 84: CRS 84 / mathematisch
  - DE_42/83 / GK_3
  - DE_DHDN / GK_3
@@ -778,63 +790,74 @@ Auswahlliste der Raumbezugssysteme
  
 
 Höhe
+'''''
 
 Minimum / Maximum
+'''''''''''''''''
+
 Angabe der Werte für die Höhe über einem Punkt (siehe Pegel) eingegeben. Ist eine vertikale Ausdehnung vorhanden, so kann für das Maximum ein größerer Wert eingegeben werden. Sollte dies nicht der Fall sein, so ist die Eingabe eines Minimalwerts ausreichend, dieser Wert wird dann automatisch ebenso für den Maximalwert übernommen.
 
-Beispiel: Minimum 100, Maximum 110
+**Beispiel:** *Minimum 100, Maximum 110*
 
 
 Maßeinheit
+'''''''''''
+
 Angabe der Maßeinheit, in der die Höhe gemessen wird.
 
-Beispiel: Meter
+**Beispiel:** *Meter*
 
 
 Vertikaldatum
+''''''''''''''
+
 Angabe des Referenzpegels, zu dem die Höhe relativ gemessen wird. In Deutschland ist dies i.A. der Pegel Amsterdam.
 
-Beispiel: Pegel Amsterdam
+**Beispiel:** *Pegel Amsterdam*
 
 Erläuterungen
+'''''''''''''
+
 Zusätzliche Angaben zum Raumbezug.
 
-Beispiel: Die Koordinaten für die Fachliche Gebietseinheit sind ungefähre Angaben.
+**Beispiel:** *Die Koordinaten für die Fachliche Gebietseinheit sind ungefähre Angaben.*
 
 
-1.7	Abschnitt Zeitbezug
+Abschnitt Zeitbezug
+^^^^^^^^^^^^^^^^^^^
 
- 
-
- 
 
 Zeitbezug der Ressource
+''''''''''''''''''''''''
+
 In dieser Tabelle wird angegeben, wann die Ressource erstmalig erstellt, publiziert oder/und letztmalig geändert/aktualisiert wurde. Die Datumsangaben beziehen sich dabei nicht auf den Metadatensatz, sondern direkt auf die beschriebene Ressource. Es ist mindestens ein Eintrag erforderlich, es können jedoch auch alle drei Typen gleichzeitig angeben werden.
 
-Beispiel: 22.01.2019 Erstellung
+**Beispiel:** *22.01.2019 Erstellung*
  
 
 Erläuterung
+'''''''''''
+
 Hier können z.B. die Angaben der Periodizität eingeschränkt, weitere Zeitangaben gemacht oder Unregelmäßigkeiten erklärt werden. Im Zusammenhang mit dem Eintrag im Feld Periodizität können hier Abstände, Perioden und Intervalle eingetragen werden, die sich nicht aus dem Zusammenhang der anderen Felder des Zeitbezuges erklären, z.B. Jahreszeiten, Dekaden, Tageszeiten.
 
-Beispiel: Die Messungen erfolgten nur tagsüber.
+**Beispiel:** *Die Messungen erfolgten nur tagsüber.*
 
-
- 
 
 Zeitspanne
+'''''''''''
+
 Hier soll das Zeitspanne der Entstehung der eigentlichen Daten (z.B. Messdaten) eingetragen werden.
 
 
- 
-
 Periodizität
+'''''''''''''
+
 Auswahl/Angabe des Zeitzyklus der Datenerhebung. Der Eintrag muss aus der Auswahlliste erfolgen, die über den Pfeil am Ende des Feldes geöffnet wird. 
 
-Achtung: Der Eintrag "unbekannt" sollte nicht mehr verwendet werden. 
-Falls noch in Altdaten vorhanden, sollte dieses Wort durch sinnvolle Einträge ersetzt werden. Er stellt eine nicht ISO-konforme Erweiterung der Auswahlliste dar.
+**Achtung!** *Der Eintrag "unbekannt" sollte nicht mehr verwendet werden. Falls noch in Altdaten vorhanden, sollte dieses Wort durch sinnvolle Einträge ersetzt werden. Er stellt eine nicht ISO-konforme Erweiterung der Auswahlliste dar.*
 
 Auswahlliste der Periodizität
+
  - bei Bedarf
  - einmalig
  - halbjährlich	 - jährlich
@@ -845,14 +868,16 @@ Auswahlliste der Periodizität
  - wöchentlich
  - zweiwöchentlich
 
-Beispiel: täglich
+**Beispiel:** *täglich*
 
-
- 
 
 Status
+'''''''
+
 Stand der Ausführung des Projektes, der Messung etc. Der Editor nimmt alle bekannten Daten auf, diese können sich in unterschiedlichen Stadien ihrer Lebenszeit befinden, d.h. Projekte, Programme oder Messungen können in konkreter Planung sein, derzeit durchgeführt werden oder schon abgeschlossen sein.
+
 Auswalliste Status
+
  - abgeschlossen
  - erforderlich
  - geplant
@@ -861,39 +886,40 @@ Auswalliste Status
  - kontinuierliche Aktualisierung
  - veraltet
 
-Beispiel: abgeschlossen
+**Beispiel:** *abgeschlossen*
 
 
- 
 
 Im Intervall
+''''''''''''
+
 Angabe des zeitlichen Abstands (Frequenz) der Datenerhebung. Erfolgt die Datenerhebung kontinuierlich oder periodisch (siehe Feld Periodizität), so soll diese Angabe hier präzisiert werden. Es stehen Felder für den freien Eintrag einer Ziffer und eine Auswahlliste zur Verfügung, die zeitliche Intervalle vorgibt. Der Eintrag von 10 und Tage bedeutet: Die beschriebenen Daten werden bzw. wurden alle 10 Tage erhoben.
 
 Auswahlliste der Intervalle
+
  - Jahre
- - Monate	 - Tage
- - Stunden	 - Minuten
+ - Monate
+ - Tage
+ - Stunden
+ - Minuten
  - Sekunden
 
-Beispiel: Alle 6 Monate
+**Beispiel:** *Alle 6 Monate*
 
 
-1.8	Abschnitt Zusatzinformation
-
+Abschnitt Zusatzinformation
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
  
-
-
- 
-
 Sprache des Metadatensatzes
+'''''''''''''''''''''''''''
+
 An dieser Stelle soll die Sprache ausgewählt werden, die bei der Beschreibung der Metadaten verwendet wurde. Es ist hier nicht die Sprache der eigentlichen Ressource gemeint! 
 
 Standardeinstellung ist: Deutsch
 
-
- 
-
 Sprache der Ressource
+'''''''''''''''''''''
+
 Hier ist die Sprache anzugeben, die in der Ressource verwendet wird. Es ist an dieser Stelle nicht die Sprache der Metadaten gemeint! 
 
 Standardeinstellung ist: Deutsch
@@ -901,6 +927,8 @@ Standardeinstellung ist: Deutsch
  
 
 Veröffentlichung
+''''''''''''''''
+
 Das Feld "Veröffentlichung" ist sehr wichtig, denn es gibt den Status der Veröffentlichungsbreite an. Möglich sind folgende Werte, die über ein Dropdown-Menü ausgewählt werden können:
  
  - Internet
@@ -914,26 +942,21 @@ Hinweis: Diese Option trifft derzeit für Sachsen-Anhalt nicht zu, da die Portal
  - amtsintern
 Das Objekt ist nur im Strukturbaum der Erfassungssoftware sichtbar, aber nicht im Intranet und auch nicht im Internet.
 
-
-
- 
-
 Es ist nicht möglich, einem Objekt eine höhere Freigabestufe zuzuordnen, als die des übergeordneten Objektes. Die abschließende Speicherung wird mit folgender Fehlermeldung verweigert.
-
-
- 
 
 Ebenfalls erscheint ein Warnhinweis, wenn die Veröffentlichungsbreite eines bereits abschließend gespeicherten Objektes, welches noch untergeordnete Objekte der gleichen Veröffentlichungsbreite besitzt, reduziert werden soll. 
 
  
 
-Beispiel:
-Das Objekt "Geodatensätze" hat im Screenshot die Veröffentlichungsbreite "Internet". Alle untergeordneten Objekte sind ebenfalls für das Internet freigegeben. Wird nun "Geodatensätze" auf die Veröffentlichung „amtsintern“ reduziert und der obige Warnhinweis mit "Speichern" bestätigt, so werden automatisch auch alle untergeordneten Objekte auf die Veröffentlichungsbreite "amtsintern" herabgesetzt. 
+**Beispiel:**
+*Das Objekt "Geodatensätze" hat im Screenshot die Veröffentlichungsbreite "Internet". Alle untergeordneten Objekte sind ebenfalls für das Internet freigegeben. Wird nun "Geodatensätze" auf die Veröffentlichung „amtsintern“ reduziert und der obige Warnhinweis mit "Speichern" bestätigt, so werden automatisch auch alle untergeordneten Objekte auf die Veröffentlichungsbreite "amtsintern" herabgesetzt.*
 
 
  
 
 Zeichensatz des Datensatzes
+'''''''''''''''''''''''''''
+
 Angaben zu dem im beschriebenen Datensatz benutzten Zeichensatz z.B. UTF-8.
 
 Auswahlliste Zeichensatz des Datensatzes
@@ -967,53 +990,61 @@ Auswahlliste Zeichensatz des Datensatzes
  
 
 Konformität
+'''''''''''
+
 Hier muss angegeben werden, zu welcher Durchführungsbestimmung der INSPIRE-Richtlinie bzw. zu welcher anderweitigen Spezifikation die beschriebenen Daten konform sind. (INSPIRE-Pflichtfeld)
 
 Dieses Feld wird bei der Auswahl der "INSPIRE-Themen" oder der "Art des Dienstes" automatisch befüllt. Es muss dann nur der Grad der Konformität manuell eingetragen werden.
 
 
-Achtung:
-Bitte entsprechend den Empfehlungen des AdV-Metadatenprofils nur die Werte "konform" und "nicht konform" im Feld "Grad der Konformität" verwenden. Für alle nicht INSPIRE-Objekte, sollte hier die „INSPIRE-Richtlinie“ mit dem Wert „nicht evaluiert“ ausgewählt werden. 
+**Achtung!**
+*Bitte entsprechend den Empfehlungen des AdV-Metadatenprofils nur die Werte "konform" und "nicht konform" im Feld "Grad der Konformität" verwenden. Für alle nicht INSPIRE-Objekte, sollte hier die „INSPIRE-Richtlinie“ mit dem Wert „nicht evaluiert“ ausgewählt werden.* 
 
  
 
 XML-Export-Kriterium
+'''''''''''''''''''''
+
 Eintrag eines Selektionskriteriums zur Steuerung des Exports der Daten. Um eine Teilmenge von Objekten exportieren zu können, kann in diesem Feld ein diese Teilmenge identifizierendes Schlagwort eingegeben werden. In der Exportfunktion kann dann eines der Schlagworte aus diesem Feld angegeben werden und alle Objekte exportiert werden, für die in diesem Feld das entsprechende Schlagwort vergeben wurde. Die Eingabe mehrerer Schlagworte ist möglich. Die Schlagworte können frei eingegeben werden. Zur Verhinderung von Schreibfehlern sollte jedoch der Eintrag aus der Auswahlliste vorgezogen werden.
 
-Beispiel: CDS
+**Beispiel:** *CDS*
 
  
 
 Rechtliche Grundlage
+''''''''''''''''''''
+
 Angabe der rechtlichen Grundlage, die die Erhebung der beschriebenen Daten veranlasst hat. Hier können Kürzel von Gesetzen, Erlassen, Verordnungen usw. eingetragen werden, in denen z. B. die Methode oder die Form der Erhebung der im Objekt beschriebenen Daten festgelegt oder beschrieben wird. Es sind bei Bedarf mehrere Angaben möglich.
 
-Beispiel: Umweltinformationsgesetz des Landes Sachsen-Anhalt
+**Beispiel:** *Umweltinformationsgesetz des Landes Sachsen-Anhalt*
 
  
-
 Herstellungszweck
+'''''''''''''''''
 Angabe eines Grundes für die Datenerhebung.
 
- 
 
 Eignung/Nutzung
+'''''''''''''''
 Angaben über die Verwendungsmöglichkeiten, die diese Daten in Verbindung mit weiteren Informationen erfüllen können.
 
-Beispiel: 
-Präsentation des Raumordnungsprogramms auf Basis der topografischen Kartenwerke.
+**Beispiel:** 
+*Präsentation des Raumordnungsprogramms auf Basis der topografischen Kartenwerke.*
 
-1.9	Abschnitt Verfügbarkeit
 
- 
+Abschnitt Verfügbarkeit
+^^^^^^^^^^^^^^^^^^^^^^^
 
- 
 
 Zugriffsbeschränkungen
+'''''''''''''''''''''''
+
 Das Feld Zugriffsbeschränkungen ist ein Feld, welches im Zusammenhang mit INSPIRE steht. Es beschreibt die Art der Zugriffsbeschränkung. Bei frei nutzbaren Daten bzw. Services soll der Eintrag "Es gelten keine Zugriffsbeschränkungen" ausgewählt werden (ISO: accessConstraints).
 
-Beispiel: aufgrund der Rechte des geistigen Eigentums
+**Beispiel:** *aufgrund der Rechte des geistigen Eigentums*
 
 Auswahlliste Zugriffsbeschränkungen
+
  - aufgrund der Rechte des geistigen Eigentums
  - aufgrund der Vertraulichkeit der Verfahren von Behörden
  - aufgrund der Vertraulichkeit personenbezogener Daten
@@ -1025,18 +1056,19 @@ Auswahlliste Zugriffsbeschränkungen
  - Es gelten keine Zugriffsbeschränkungen
 
 
- 
-
 Nutzungsbedingungen
+''''''''''''''''''''
+
 Einschränkungen zum Schutz der Privatsphäre oder des geistigen Eigentums sowie andere besondere Einschränkungen oder Warnungen bezüglich der Nutzung der Ressource oder der Metadaten (ISO: useConstraints).
 
 In das Feld Nutzungsbedingungen sollen die Bedingungen zur Nutzung des beschriebenen Datensatzes bzw. des Dienstes eingetragen werden. In die entsprechende Zeile kann ein beliebiger Text geschrieben werden.
 
-Beispiel: Nutzungsbedingungen für das amtliche Vermessungswesen Sachsen-Anhalt
+**Beispiel:** *Nutzungsbedingungen für das amtliche Vermessungswesen Sachsen-Anhalt*
 
 Es ist auch möglich, vordefinierten Text aus einer Liste auszuwählen. 
 
 Auswahlliste Nutzungsbedingungen
+
  - Es gelten keine Bedingungen
  - Amtliches Werk, lizenzfrei nach §5 Abs. 1 UrhG
  - Andere Freeware Lizenz
@@ -1079,31 +1111,36 @@ Wir erweitern die Liste gern um Ihren Eintrag.
  
 
 Anwendungseinschränkungen
+'''''''''''''''''''''''''
+
 Das Feld Anwendungseinschränkungen dient der Beschreibung, welche Einschränkung oder Eignung auf die Ressourcen oder Metadaten zutreffen (ISO: useLimitation).
 
-Beispiel: Registrierung erforderlich
+**Beispiel:** *Registrierung erforderlich*
 
  
 
 Datenformat
+'''''''''''
+
 Angabe des Formats der Daten in DV-technischer Hinsicht, in welchem diese verfügbar sind. Das Format wird durch 4 unterschiedliche Eingaben spezifiziert. Wenn die erste Spalte befüllt wird, müssen auch die anderen Eintragungen vorgenommen werden. 
 
 Name: Angabe des Formatnamens, wie z.B. "Date" 
 Version: Version der verfügbaren Daten (z.B. "Version 8" oder "Version vom 26.02.2020") Kompressionstechnik: Kompression, in welcher die Daten geliefert werden (z.B. "WinZip", "keine") 
 Bildpunkttiefe: BitsPerSample.
 
-Beispiel: Formatkürzel: tif, Version: 8.0, Kompression: LZW, Bildpunkttiefe: 8 Bit
+**Beispiel:** *Formatkürzel: tif, Version: 8.0, Kompression: LZW, Bildpunkttiefe: 8 Bit*
 
- 
 
 Bei der Auswahl des INSPIRE-Datenformates GML muss die Version eingetragen werden.
 
- 
 
 Medienoptionen
+'''''''''''''''
+
 Angabe, auf welchen Medien die Daten zur Verfügung gestellt werden können. Hier können elektronische Datenträger als auch Medien in Papierform angegeben werden, auf denen die im Objekt beschriebenen Daten dem Nutzer zur Verfügung stehen. Es können mehrere Medien eingetragen werden. Medium: Angabe der Medien, auf denen der Datensatz bereitgestellt werden kann (ISO-Auswahlliste) Datenvolumen: Umfang des Datenvolumens in MB (Fließkommazahl) Speicherort: Ort der Datenspeicherung im Intranet/Internet, Angabe als Verweis.
 
 Auswahlliste Medium
+
  - 0,5-Zoll Kassette
  - 3,5-Zoll Diskette
  - analoge Fotografie
@@ -1121,34 +1158,33 @@ Auswahlliste Medium
  - Videotext
  - ZIP-Laufwerk
 
-Beispiel: Medium: CD-ROM Datenvolumen: 700 MB Speicherort: Explorer Z:/Bereich_51/Metainformation/2020-02-26_Hilfetexte.doc
-
-
- 
+**Beispiel:** *Medium: CD-ROM Datenvolumen: 700 MB Speicherort: Explorer Z:/Bereich_51/Metainformation/2020-02-26_Hilfetexte.doc*
 
 Bestellinformation
+''''''''''''''''''
+
 Angabe von generellen Informationen wie Bedingungen oder Konditionen zur Bestellung.
 
 Beispiel: Die Lieferzeit beträgt 3 Wochen
 
 
-1.10	Abschnitt Verweise
-
- 
-
- 
+Abschnitt Verweise
+^^^^^^^^^^^^^^^^^^
 
 Verweis zu
+''''''''''
+
 Es gibt die Möglichkeit, Verweise von einem Objekt zu einem anderen Objekt oder zu einer Internetadresse (URL) zu erstellen. In dieser Tabelle werden alle Verweise zusammenfassend aufgeführt, welche im aktuellen Objekt angelegt wurden. Über dem Link "Verweise anlegen/bearbeiten" öffnet sich ein Dialog, mit dem weitere Einzelheiten zu den Verweisen eingesehen und editiert werden können. Es ist ferner möglich, weitere Verweise über diesen Dialog hinzuzufügen. Wenn Open-Data ausgewählt ist, muss mindestens ein Verweis vom Typ "Datendownload" vorhanden sein, bevor das Objekt veröffentlicht werden kann!
 
- 
 
 Verweis von
+'''''''''''
+
 In dieser Tabelle werden alle Verweise von denjenigen Objekten aufgeführt, welche auf das aktuelle Objekt verweisen. Das Editieren oder Hinzufügen ist nicht möglich. Sollen die Verweise geändert oder ergänzt werden, so muss zu dem entsprechenden Objekt gewechselt werden.
 
 
-Hinweis:
-Das Anlegen von Verweisen ist im Teil 2 der Erfassungsanleitung unter 2. ausführlich beschrieben.
+**Hinweis:**
+*Das Anlegen von Verweisen ist im Teil 2 der Erfassungsanleitung unter 2. ausführlich beschrieben.*
 
 
 
