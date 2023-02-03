@@ -19,8 +19,8 @@ Erfassung
 Abschnitt Fachbezug
 ^^^^^^^^^^^^^^^^^^^^
 
-
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-04_fachbezug/ige-abschnitt_fachbezug.png
+   :width: 700
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_projekt/projekt_kopf.png
    :width: 500
