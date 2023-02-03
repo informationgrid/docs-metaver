@@ -16,7 +16,7 @@ In dieser Objektklasse können z.B. Verweise auf Internetseiten angelegt werden.
 Erfassung
 ---------
 
-.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse-organisationseinheit/organisationseinheit_kopf.png
+.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objektklassen/objektklasse-organisationseinheit/organisationseinheit_kopf.png
    :width: 500
 
 Abb.: Objektklasse Organisationseinheit - Kopf der Erfassungsmaske
