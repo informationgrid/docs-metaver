@@ -174,52 +174,34 @@ Angabe der Art des Dokumentes. Es ist eine Kurzcharakteristik über die Art der 
 Weitere bibliographische Angaben
 ''''''''''''''''''''''''''''''''
 
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_dokument/dokument_weitere-bibliographische-angaben.png
 
-[Grafik]
-
-Abb.:
-
+Abb.: Textfeld - Weitere bibliographische Angaben
 
 Hier können bibliographische Angaben gemacht werden, für die kein Feld explizit vorgesehen ist. Dies können z.B. Angaben zu Abbildungen oder zum Format sein. Wichtig ist auch ein Hinweis, wenn dem Dokument eine Diskette oder eine CD-ROM beiliegt bzw. es identisch auf CD-ROM erschienen ist.
-Beispiel:
 
-Das Kartenwerk ist im DIN A3-Format erschienen.
-ISO Abbildung
-
-Information, welche für eine vollständige Ressourcenbeschreibung benötig wird und in keinem anderen Metadatenelement erfasst wurde
+**Beispiel:** *Das Kartenwerk ist im DIN A3-Format erschienen. (Information, welche für eine vollständige Ressourcenbeschreibung benötigt wird und in keinem anderen Metadatenelement erfasst wurde.)*
 
 
 Basisdaten
 ''''''''''
 
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_dokument/dokument_basisdaten.png
 
-[Grafik]
-
-Abb.:
-
+Abb.: Textfeld - Basisdaten
 
 Verweis auf zugrunde liegende Daten. Hier sollen Verweise zu anderen Objekten dieses Katalogs gelegt werden, die Auskunft über Herkunft und Art der zugrunde liegenden Daten geben. Es kann über den Link (Verweis anlegen/bearbeiten) ein neuer Verweis angelegt werden.
-Beispiel:
 
-Deponieüberwachung Berlin-Tegel, Statistikauswertungen seit 1974
-ISO Abbildung
-
-detaillierte Beschreibung der Ebene der Quelldaten
+**Beispiel:** *Deponieüberwachung Berlin-Tegel, Statistikauswertungen seit 1974 (detaillierte Beschreibung der Ebene der Quelldaten)*
 
 
 Erläuterung
 '''''''''''
 
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_dokument/dokument_erlaeuterungen.png
 
-[Grafik]
-
-Abb.:
-
+Abb.: Textfeld - Erläuterungen
 
 Zusätzliche Anmerkungen zur beschriebenen Literatur.
-Beispiel:
 
-Der Artikel beruht auf der Diplomarbeit des Autors aus dem Jahr 1995 an der Universität
-ISO Abbildung
-
-Zusatzinformation: ergänzende, den Datenbestand beschreibende Information
+**Beispiel:** *Der Artikel beruht auf der Diplomarbeit des Autors aus dem Jahr 1995 an der Universität (Ergänzende, den Datenbestand beschreibende Information.)*
