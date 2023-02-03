@@ -32,7 +32,7 @@ Art des Dienstes
 ''''''''''''''''
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_anwendung/fachbezug_art-des-dienstes.png
-   :width: 300
+
 
 Abb.: Auswahlfeld - Art des Dienstes
 
@@ -47,7 +47,7 @@ Version
 '''''''
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_anwendung/fachbezug_version.png
-   :width: 500
+
 
 Abb.: Eingabezeile - Version
 
@@ -58,7 +58,7 @@ Systemumgebung
 ''''''''''''''
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_anwendung/fachbezug_systemumgebung.png
-   :width: 500
+
 
 Abb.: Textfeld - Systemumgebung
 
@@ -73,7 +73,7 @@ Historie
 '''''''''
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_anwendung/fachbezug_historie.png
-   :width: 500
+
 
 Abb.: Textfeld -. Systemumgebung
 
@@ -89,7 +89,7 @@ Basisdaten
 ''''''''''
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_anwendung/fachbezug_basisdaten.png
-   :width: 500
+
 
 Abb.: Textfeld - Basisdaten
 
@@ -103,7 +103,7 @@ Erläuterungen
 '''''''''''''
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_anwendung/fachbezug_erlaeuterungen.png
-   :width: 500
+
 
 Abb.: Textfeld - Erläuterungen
 
