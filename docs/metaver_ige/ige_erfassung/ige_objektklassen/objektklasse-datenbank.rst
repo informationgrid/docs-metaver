@@ -22,39 +22,31 @@ Abschnitt Fachbezug
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-04_fachbezug/ige-abschnitt_fachbezug.png
 
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_projekt/projekt_kopf.png
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_datenbank/datenbank_kopf.png
    :width: 500
 
-Abb.: Objektklasse Projekt - Kopf der Erfassungsmaske
-
-
-Beteiligte
-''''''''''
-
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_projekt/fachbezug_beteiligte.png
+Abb.: Objektklasse Datenbank - Kopf der Erfassungsmaske
 
 
 Objektartenkatalog
 ''''''''''''''''''
 
-[Grafik]
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_datenbank/fachbezug_objektartenkatalog.png
 
-Abb.:
-
+Abb.: Tabelle - Objektartenkatalog
 
 An dieser Stelle besteht die Möglichkeit, den Daten zugrunde liegende Klassifizierungsschlüssel zu benennen. Dabei ist die Eingabe mehrerer Kataloge mit zugehörigem Datum (Pflichteintrag) und Version (Optional) möglich.
 Beispiel:
 
 Beispiel: Biotoptypenschlüssel, Datum 01.01.1998, Version 1.1
 
+
 Inhalte der Datensammlung
 '''''''''''''''''''''''''
 
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_datenbank/fachbezug_inhalte-datensammlung.png
 
-[Grafik]
-
-Abb.:
-
+Abb.: Tabelle - Inhalte der Datensammlung
 
 Angabe der wichtigsten Parameter der Datenbank bzw. der Datensammlung. Um einen qualifizierten Einblick in die beschriebene Datensammlung bzw. Datenbank zu bekommen, sollen hier die aussagekräftigen Parameter der vorgehaltenen Daten genannt werden. In der linken Spalte werden diese Parameter eingetragen. Beispiele für Parameter: im Falle von Messdaten werden die wichtigsten Messparameter (z.B. NOx, SO2, Windgeschwindigkeit, pH-Wert), im Falle von statistischen Erhebungen werden die Erhebungsgrößen (z.B. Wasserverbrauch pro Kopf, Bevölkerungsdichte), im Falle von Modelldaten werden die Modellparameter (z.B. Meeresspiegel, CO2-Gehalt der Luft, Welttemperatur) angegeben In der rechten Spalte können pro Parameter ergänzende Angaben gemacht werden. Beispielsweise kommen Angaben zur Maßeinheit, Genauigkeit, Nachweisgrenze, Probematrix oder parameterspezifische Angaben zur Meßmethode in Frage.
 Beispiel:
@@ -65,11 +57,9 @@ Beispiel: Blei / in Trinkwasser, Nachweisgrenze: 10 ppb Cadmium / in Schlacke, N
 Methode / Datengrundlage
 ''''''''''''''''''''''''
 
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_datenbank/fachbezug_methode-datengrundlage.png
 
-[Grafik]
-
-Abb.:
-
+Abb.: Tabelle - Methode/Datengrundlage
 
 Angabe der verwendeten Methoden und der Datenherkunft. Hier sollen die angewandten Methoden der Datengewinnung (z.B. Meßmethode, Erhebungsmethode) benannt und beschrieben werden. Außerdem können Angaben z. B. zu Qualität oder Umfang der Datengrundlage eingetragen werden. Der Eintrag kann direkt erfolgen, wenn die Registerkarte "Text" gewählt wurde, oder als Verweis über die Registerkarte "Verweise".
 Beispiel:
@@ -80,11 +70,9 @@ Beispiel: Ionenchromatographie nach DIN 38405-D20 (Sept. 91)
 Erläuterung
 '''''''''''
 
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_datenbank/fachbezug_erlaeuterungen.png
 
-[Grafik]
-
-Abb.:
-
+Abb.: Textfeld - Erläuterung
 
 Zusätzliche Angaben zur Datensammlung bzw. zur Datenbank
 
