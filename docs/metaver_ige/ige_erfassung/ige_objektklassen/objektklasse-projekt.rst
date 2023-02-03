@@ -12,6 +12,55 @@ Die Objektklasse Projekt wird verwendet, wenn laufende oder abgeschlossene Vorha
 
 Beispiel:
 
+
 Erfassung
 ---------
 
+Abschnitt Fachbezug
+^^^^^^^^^^^^^^^^^^^^
+
+
+[Grafik]
+
+Abb.:
+
+
+Beteiligte
+''''''''''
+
+
+[Grafik]
+
+Abb.:
+
+
+Angabe von Personen oder Institutionen, die am Projekt bzw. am Programm oder Vorhaben beteiligt sind. Der Eintrag soll Hinweise auf wichtige Institutionen oder Personen geben, die beteiligt waren bzw. sind und über die evtl. weitere genauere Informationen zu erfahren sind. Der Eintrag kann direkt über die Auswahl der Registerkarte "Text" erfolgen oder es können Adressverweise eingetragen werden, indem die Registerkarte "Verweise" aktiviert wird. Über "Adresse hinzufügen" kann nach Adressen und Institutionen gesucht werden oder man kann diese über den Hierarchiebaum ausgewählten.
+
+Beispiel: MULE Sachsen-Anhalt
+
+
+Projektleiter
+'''''''''''''
+
+
+[Grafik]
+
+Abb.:
+
+
+Angabe des Projektleiters. Der Eintrag kann direkt über die Auswahl der Registerkarte "Text" erfolgen oder es können Adressverweise ausgewählt werden, in dem die Registerkarte "Verweise" aktiviert wird. Über den Link "Adresse hinzufügen" kann nach Adressen gesucht werden oder es können diese mit Hilfe des Hierachiebaums ausgewählt werden.
+Beispiel: Lieschen Müller oder Max Mustermann
+
+ 
+Erläuterungen
+'''''''''''''
+
+
+[Grafik]
+
+Abb.:
+
+
+Weitere Angaben zum Projekt bzw. Programm oder Vorhaben. Hier können zusätzliche wichtige Angaben eingetragen werden, z.B. Finanzierung, Förderkennzeichen, Bearbeitungsstatus.
+Beispiel: Finanzierung anteilig über Königsteiner Schlüssel
+ 
