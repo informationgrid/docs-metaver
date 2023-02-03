@@ -32,6 +32,9 @@ Alle im Rahmen von INSPIRE zu erfassenden Geodatendienste müssen auch als Objek
 Erfassung
 ---------
 
+
+
+
 Der getCapabilities-Assistent
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -397,6 +400,8 @@ Abschließend betätigen Sie den Button „Übernehmen“. Die gewählten Begrif
 
 Abschnitt Fachbezug
 ^^^^^^^^^^^^^^^^^^^
+
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-04_fachbezug/ige-abschnitt_fachbezug.png
 
 Klassifikation des Dienstes
 '''''''''''''''''''''''''''

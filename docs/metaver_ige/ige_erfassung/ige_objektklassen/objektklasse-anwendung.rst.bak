@@ -72,18 +72,30 @@ Angaben zum Betriebssystem und der Software, ggf. auch Hardware, die zur Impleme
  
 Historie
 '''''''''
+
+
+[Grafik]
+
+Abb.:
+
+
 Angabe zur Entwicklungsgeschichte. Hier können Vorläufer und Folgedienste bzw. -anwendungen oder -systeme genannt werden. Ebenso sind Angaben zu initiierenden Forschungsvorhaben oder -programmen von Interesse.
 
 **Beispiel:**
 *Version 2.9 veröffentlicht am 01.03.2018*
 *Neue Funktionen: In-App-Notification, scollbare Objektinfo, Speicherung Kontaktdaten, Umkreissuche für Flächen - UMO-Dienst (die Abkürzung steht für Umweltobjekte z.B. Geotope, Naturdenkmäler, Natura 2000-Gebiete oder auch Badegewässer)*
 
-   
-
 Beispiel: Messdaten, Sensordaten, Umweltdaten, POIs, Klimadaten (Zeitreihen), GPS
 
 Basisdaten
 ''''''''''
+
+
+[Grafik]
+
+Abb.:
+
+
 Herkunft und Art der zugrundeliegenden Daten.
 Im Allgemeinen sind dies die Datensätze, auf die der Dienst aufgesetzt ist. Allgemein sollen die Herkunft oder die Ausgangsdaten der Daten beschrieben werden, die in dem Dienst / der Anwendung bzw. dem Informationssystem benutzt, gespeichert, angezeigt oder weiterverarbeitet werden. Zusätzlich kann die Art der Daten (z. B. digital, automatisch ermittelt oder aus Umfrageergebnissen, Primärdaten, fehlerbereinigte Daten) angegeben werden.
 
@@ -93,6 +105,13 @@ Der Eintrag kann hier direkt über die Auswahl der Registerkarte "Text" erfolgen
 
 Erläuterungen
 '''''''''''''
+
+
+[Grafik]
+
+Abb.:
+
+
 Zusätzliche Anmerkungen zu dem beschriebenen Dienst, der Anwendung oder dem Informationssystem. Hier können weitergehende Angaben z. B. technischer Art gemacht werden, die zum Verständnis des Dienstes, der Anwendung, des Informationssystems notwendig sind.
 
 **Beispiel:**

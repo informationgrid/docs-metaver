@@ -17,3 +17,67 @@ Beispiel:
 Erfassung
 ---------
 
+Abschnitt Fachbezug
+^^^^^^^^^^^^^^^^^^^^
+
+[Grafik]
+
+Abb.:
+
+
+Objektartenkatalog
+''''''''''''''''''
+
+[Grafik]
+
+Abb.:
+
+
+An dieser Stelle besteht die Möglichkeit, den Daten zugrunde liegende Klassifizierungsschlüssel zu benennen. Dabei ist die Eingabe mehrerer Kataloge mit zugehörigem Datum (Pflichteintrag) und Version (Optional) möglich.
+Beispiel:
+
+Beispiel: Biotoptypenschlüssel, Datum 01.01.1998, Version 1.1
+
+Inhalte der Datensammlung
+'''''''''''''''''''''''''
+
+
+[Grafik]
+
+Abb.:
+
+
+Angabe der wichtigsten Parameter der Datenbank bzw. der Datensammlung. Um einen qualifizierten Einblick in die beschriebene Datensammlung bzw. Datenbank zu bekommen, sollen hier die aussagekräftigen Parameter der vorgehaltenen Daten genannt werden. In der linken Spalte werden diese Parameter eingetragen. Beispiele für Parameter: im Falle von Messdaten werden die wichtigsten Messparameter (z.B. NOx, SO2, Windgeschwindigkeit, pH-Wert), im Falle von statistischen Erhebungen werden die Erhebungsgrößen (z.B. Wasserverbrauch pro Kopf, Bevölkerungsdichte), im Falle von Modelldaten werden die Modellparameter (z.B. Meeresspiegel, CO2-Gehalt der Luft, Welttemperatur) angegeben In der rechten Spalte können pro Parameter ergänzende Angaben gemacht werden. Beispielsweise kommen Angaben zur Maßeinheit, Genauigkeit, Nachweisgrenze, Probematrix oder parameterspezifische Angaben zur Meßmethode in Frage.
+Beispiel:
+
+Beispiel: Blei / in Trinkwasser, Nachweisgrenze: 10 ppb Cadmium / in Schlacke, Nachweisgrenze: 3 ppm
+
+
+Methode / Datengrundlage
+''''''''''''''''''''''''
+
+
+[Grafik]
+
+Abb.:
+
+
+Angabe der verwendeten Methoden und der Datenherkunft. Hier sollen die angewandten Methoden der Datengewinnung (z.B. Meßmethode, Erhebungsmethode) benannt und beschrieben werden. Außerdem können Angaben z. B. zu Qualität oder Umfang der Datengrundlage eingetragen werden. Der Eintrag kann direkt erfolgen, wenn die Registerkarte "Text" gewählt wurde, oder als Verweis über die Registerkarte "Verweise".
+Beispiel:
+
+Beispiel: Ionenchromatographie nach DIN 38405-D20 (Sept. 91)
+ 
+
+Erläuterung
+'''''''''''
+
+
+[Grafik]
+
+Abb.:
+
+
+Zusätzliche Angaben zur Datensammlung bzw. zur Datenbank
+
+Beispiel:
+Die angegebenen Inhalte der Datenbank stellen nur eine Auswahl aller gemessenen Parameter dar (insgesamt ca. 300).
