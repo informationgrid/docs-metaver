@@ -19,20 +19,16 @@ Erfassung
 Abschnitt Fachbezug
 ^^^^^^^^^^^^^^^^^^^^
 
-
-[Grafik]
-
-Abb.:
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-abschnitt_fachbezug.png
 
 
 Beteiligte
 ''''''''''
 
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse-projekt/fachbezug_beteiligte.png
+  :widths: 
 
-[Grafik]
-
-Abb.:
-
+Abb.: Textfeld - Beteiligte
 
 Angabe von Personen oder Institutionen, die am Projekt bzw. am Programm oder Vorhaben beteiligt sind. Der Eintrag soll Hinweise auf wichtige Institutionen oder Personen geben, die beteiligt waren bzw. sind und über die evtl. weitere genauere Informationen zu erfahren sind. Der Eintrag kann direkt über die Auswahl der Registerkarte "Text" erfolgen oder es können Adressverweise eingetragen werden, indem die Registerkarte "Verweise" aktiviert wird. Über "Adresse hinzufügen" kann nach Adressen und Institutionen gesucht werden oder man kann diese über den Hierarchiebaum ausgewählten.
 
@@ -42,11 +38,10 @@ Beispiel: MULE Sachsen-Anhalt
 Projektleiter
 '''''''''''''
 
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse-projekt/fachbezug_projektleiter.png
+  :widths: 
 
-[Grafik]
-
-Abb.:
-
+Abb.: Textfeld - Projektleiter
 
 Angabe des Projektleiters. Der Eintrag kann direkt über die Auswahl der Registerkarte "Text" erfolgen oder es können Adressverweise ausgewählt werden, in dem die Registerkarte "Verweise" aktiviert wird. Über den Link "Adresse hinzufügen" kann nach Adressen gesucht werden oder es können diese mit Hilfe des Hierachiebaums ausgewählt werden.
 Beispiel: Lieschen Müller oder Max Mustermann
@@ -55,11 +50,10 @@ Beispiel: Lieschen Müller oder Max Mustermann
 Erläuterungen
 '''''''''''''
 
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse-projekt/fachbezug_projektleiter.png
+  :widths: 
 
-[Grafik]
-
-Abb.:
-
+Abb.: Textfeld - Erläuterungen
 
 Weitere Angaben zum Projekt bzw. Programm oder Vorhaben. Hier können zusätzliche wichtige Angaben eingetragen werden, z.B. Finanzierung, Förderkennzeichen, Bearbeitungsstatus.
 Beispiel: Finanzierung anteilig über Königsteiner Schlüssel
