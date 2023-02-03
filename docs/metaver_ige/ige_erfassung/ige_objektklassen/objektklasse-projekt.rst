@@ -53,7 +53,7 @@ Angabe des Projektleiters. Der Eintrag kann direkt über die Auswahl der Registe
 Erläuterungen
 '''''''''''''
 
-.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse-projekt/fachbezug_projektleiter.png
+.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse-projekt/fachbezug_erlaeuterungen.png
 
 
 Abb.: Textfeld - Erläuterungen
