@@ -34,6 +34,7 @@ Autor/Verfasser
 '''''''''''''''
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_dokument/dokument_autor-verfasser.png
+   :width: 500
 
 Abb.: Textfeld - Autor/Verfasser
 
@@ -48,6 +49,7 @@ Herausgeber
 '''''''''''
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_dokument/dokument_herausgeber.png
+   :width: 500
 
 Abb.: Eingabezeile - Herausgeber
 

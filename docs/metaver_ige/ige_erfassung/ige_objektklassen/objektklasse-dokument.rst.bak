@@ -26,6 +26,9 @@ Abschnitt Fachbezug
 
 Abb.: Objektklasse Dokument - Kopf der Erfassungsmaske
 
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_datenbank/datenbank_kopf.png
+   :width: 500
+
 
 Autor/Verfasser
 '''''''''''''''
@@ -75,7 +78,7 @@ Erscheinungsort
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_dokument/dokument_erscheinungsort.png
 
-Abb.: Eingabezeile - Erschienen in
+Abb.: Eingabezeile - Erscheinungsort
 
 
 Angabe des Publikationsortes der Literatur. Diese Angabe bezieht sich auf die Literatur und nicht auf die Inhalte der Literatur. Die räumliche Zuordnung der Inhalte der Literatur erfolgt in den Angaben zum Raumbezug des aktuellen Objektes.
@@ -88,7 +91,7 @@ Band, Heft
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_dokument/dokument_band-heft.png
 
-Abb.: Eingabezeile - Erschienen in
+Abb.: Eingabezeile - Band, Heft
 
 Angabe der Zählung des betreffenden Bandes einer Reihe. Zeitschriften und Sammelwerke bzw. Reihen haben eine durchgängige Zählung seit ihrem Erscheinen oder pro Jahr. Hier ist die Zählung des Bandes anzugeben, in dem der Artikel bzw. der Bericht erschienen ist.
 
@@ -100,7 +103,7 @@ Seiten
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_dokument/dokument_seiten.png
 
-Abb.: Eingabezeile - Erschienen in
+Abb.: Eingabezeile - Seiten
 
 
 Angabe der Anzahl der Seiten der Literatur. Hier ist die Anzahl der Seiten anzugeben, wenn es sich um ein Buch handelt. Bei einem Artikel, der in einer Zeitschrift erschienen ist, sollen die Seitenzahlen des Artikelanfangs und des Endes eingegeben werden.
