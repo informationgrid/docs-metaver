@@ -57,9 +57,9 @@ Beispiel: Blei / in Trinkwasser, Nachweisgrenze: 10 ppb Cadmium / in Schlacke, N
 Methode / Datengrundlage
 ''''''''''''''''''''''''
 
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_datenbank/fachbezug_objektartenkatalog.png
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_datenbank/fachbezug_methode-datengrundlage.png
 
-Abb.: Tabelle - Objektartenkatalog
+Abb.: Tabelle - Methode/Datengrundlage
 
 Angabe der verwendeten Methoden und der Datenherkunft. Hier sollen die angewandten Methoden der Datengewinnung (z.B. Meßmethode, Erhebungsmethode) benannt und beschrieben werden. Außerdem können Angaben z. B. zu Qualität oder Umfang der Datengrundlage eingetragen werden. Der Eintrag kann direkt erfolgen, wenn die Registerkarte "Text" gewählt wurde, oder als Verweis über die Registerkarte "Verweise".
 Beispiel:
@@ -70,9 +70,9 @@ Beispiel: Ionenchromatographie nach DIN 38405-D20 (Sept. 91)
 Erläuterung
 '''''''''''
 
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_datenbank/fachbezug_objektartenkatalog.png
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_datenbank/fachbezug_erlaeuterungen.png
 
-Abb.: Tabelle - Objektartenkatalog
+Abb.: Textfeld - Erläuterung
 
 Zusätzliche Angaben zur Datensammlung bzw. zur Datenbank
 
