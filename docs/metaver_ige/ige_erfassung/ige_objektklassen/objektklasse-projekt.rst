@@ -19,9 +19,9 @@ Erfassung
 Abschnitt Fachbezug
 ^^^^^^^^^^^^^^^^^^^^
 
-.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-abschnitt_fachbezug.png
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-abschnitt_fachbezug.png
 
-.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objektklassen/objektklasse-projekt/projekt_kopf.png
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objektklassen/objektklasse-projekt/projekt_kopf.png
 
 
 Abb.: Objektklasse Projekt - Kopf der Erfassungsmaske
@@ -30,7 +30,7 @@ Abb.: Objektklasse Projekt - Kopf der Erfassungsmaske
 Beteiligte
 ''''''''''
 
-.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objektklassen/objektklasse-projekt/fachbezug_beteiligte.png
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige-objekte/ige_objektklassen/objektklasse-projekt/fachbezug_beteiligte.png
 
 
 Abb.: Textfeld - Beteiligte
@@ -42,7 +42,7 @@ Angabe von Personen oder Institutionen, die am Projekt bzw. am Programm oder Vor
 Projektleiter
 '''''''''''''
 
-.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objektklassen/objektklasse-projekt/fachbezug_projektleiter.png
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige-objekte/ige_objektklassen/objektklasse-projekt/fachbezug_projektleiter.png
  
 
 Abb.: Textfeld - Projektleiter
@@ -53,7 +53,7 @@ Angabe des Projektleiters. Der Eintrag kann direkt über die Auswahl der Registe
 Erläuterungen
 '''''''''''''
 
-.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objektklassen/objektklasse-projekt/fachbezug_erlaeuterungen.png
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige-objekte/ige_objektklassen/objektklasse-projekt/fachbezug_erlaeuterungen.png
 
 
 Abb.: Textfeld - Erläuterungen
