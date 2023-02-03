@@ -10,7 +10,7 @@ Anwendung
 
 Mit der Objektklasse Anwendung lassen sich im Metadatenkatalog Softwareprodukte, Webanwendungen oder zentrale Auskunfts- und Informationssysteme, beschreiben.
 
-Die Erfassung dieser Objektklasse erfolgt wie unter `Erfassung von Objekten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html>`_ beschrieben. Lediglich der hier beschriebene Abschnitt Zeitbezug beinhaltet für diese Objektklasse spezielle Eingabefelfer.
+Hinweis:** *Die Erfassung dieser Objektklasse erfolgt wie unter `Erfassung von Objekten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html>`_ beschrieben. Lediglich der hier beschriebene Abschnitt Zeitbezug beinhaltet für diese Objektklasse spezielle Eingabefelfer.*
 
 
 Erfassung
