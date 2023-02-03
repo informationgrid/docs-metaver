@@ -21,6 +21,11 @@ Abschnitt Fachbezug
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige-abschnitt_fachbezug.png
 
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse-projekt/projekt_kopf.png
+  :widths: 
+
+Abb.: Objektklasse Projekt - Kopf der Erfassungsmaske
+
 
 Beteiligte
 ''''''''''
