@@ -10,7 +10,7 @@ Organisationseinheit
 
 In dieser Objektklasse können z.B. Verweise auf Internetseiten angelegt werden.
 
-**Hinweis:** *In dieser Objektklasse fehlt der Abschnitt Fachbezug.*
+**Hinweis:** *Die Eingabemaske der Objektklasse Organisationseinheit enthält keinen Abschnitt Fachbezug.*
 
 
 Erfassung

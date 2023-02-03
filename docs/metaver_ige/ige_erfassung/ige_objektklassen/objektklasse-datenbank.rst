@@ -10,7 +10,7 @@ Datenbank
 
 Die Objektklasse Datenbank dient der Beschreibung von gemessenen, veredelten oder gesammelten Daten. Dazu gehören: Messdaten, statistische Erhebungen, Modelldaten oder Daten zu Anlagen (Dienste/Anwendungen/Informationssysteme: zentrale Auskunftssysteme, welche in der Regel auf eine oder mehrere Datenbanken zugreifen und diese zugänglich machen.)
 
-**Hinweis:** Die Erfassung dieser Objektklasse erfolgt wie unter `Erfassung von Objekten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html>`_ beschrieben. Lediglich der hier beschriebene Abschnitt Zeitbezug beinhaltet für diese Objektklasse spezielle Eingabefelfer.
+**Hinweis:** Die Erfassung dieser Objektklasse erfolgt wie unter `Erfassung von Objekten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html>`_ beschrieben. Lediglich der hier beschriebene Abschnitt Zeitbezug beinhaltet für diese Objektklasse spezielle Eingabefelder.
 
 
 
