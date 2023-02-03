@@ -23,5 +23,5 @@ Erfassung
 Abb.: Objektklasse Organisationseinheit - Kopf der Erfassungsmaske
 
 
-Die Erfassung dieser Objektklasse erfolgt wie unter `"Erfassung von Objekten" <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html>`_ beschrieben.
+Die Erfassung dieser Objektklasse erfolgt wie unter `Erfassung von Objekten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html>`_ beschrieben.
 
