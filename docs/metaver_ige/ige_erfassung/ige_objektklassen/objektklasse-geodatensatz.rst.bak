@@ -22,194 +22,57 @@ Beispiele:
 
  - INSPIRE ST Umweltüberwachung - Gewässerkundlicher Landesdienst
 
+**Nachfolgend werden die Felder beschrieben, die in der Erfassungsmaske speziell für diesen Metadatentyp angezeigt werden.**
 
 
-Erfassung
----------
+Abschnitt Allgemein
+^^^^^^^^^^^^^^^^^^^
 
-Kopf der Erfassungsmaske
-^^^^^^^^^^^^^^^^^^^^^^^^
+Checkbox INSPIRE-relevant
+'''''''''''''''''''''''''
 
-[Grafik]
+Wenn diese Checkbox aktiviert ist, werden die Metadaten an das INSPIRE Geoportal der EU (https://inspire-geoportal.ec.europa.eu/) weitergeleitet und veröffentlicht. Die Daten und die Metadaten unterliegen in dem Fall der INSPIRE-Richtlinie.
 
-Nach dem Anlegen eines neuen Objektes stehen die Eingabefelder für das neue Objekt im rechten Inhaltsfenster zur Verfügung. Als erster Schritt sollten die Basisinformationen im Inhaltsfenster (siehe Screenshot) bearbeitet werden.
-
-Objektname
-''''''''''
-
-Hier erfolgt die Angabe einer kurzen prägnanten Bezeichnung des beschriebenen Datensatzes. Der Objektname kann z.B. identisch mit dem Namen des Geodatendienstes sein, sofern dieser ausreichend kurz und aussagekräftig ist. Soweit ein gängiges Kürzel vorhanden ist, ist dieses Kürzel mit anzugeben. Der Eintrag für dieses Feld ist zwingend.
-
-Beispiel: Digitales Landschaftsmodell 50 (DLM50)
-
-
-Objektklasse
-''''''''''''
-
-Je nachdem, welche Objektklasse bei der Erstellung des Metadatensatzes im Assistenten gewählt wurde, so werden im Inhaltsbereich entsprechende Eingabefelder angezeigt.
-
-Hinweis:
-Ein Wechsel der Objektklasse ist an dieser Stelle nicht mehr möglich.
-
-
-Verantwortlicher
-''''''''''''''''
-
-Hier ist standardmäßig der Erfasser eingetragen, der das Objekt angelegt hat (z.B. Max Mustermann). An dieser Stelle sollte die Person stehen, die sich für dieses Objekt verantwortlich fühlt und dafür sorgt, dass das Objekt aktuell gehalten wird. Meistens ist daher der Erfasser zugleich auch der richtige Verantwortliche. (Nähere Informationen zur Qualitätssicherung finden Sie unter der Rubrik Metadaten im Leitfaden der GDI-LSA "Qualitativ hochwertige Metadaten erfassen und pflegen – Hinweise für Metadatenerfasser" bzw. in der „Anleitung für die Erfassung von Metadaten“). 
-
-Hinweis:
-Wird bei eingeschalteter Qualitätssicherung das Verfallsdatum eines Objektes erreicht, so erhält der Verantwortliche eine E-Mail Benachrichtigung mit der Bitte, dieses Objekt zu aktualisieren.
-
-Nach der Eingabe der Basisinformationen im Kopfbereich bietet es sich an, den Metadatensatz zwischen zu speichern. Grundsätzlich empfiehlt es sich, beim Ausfüllen der Felder von Zeit zu Zeit die eingegebenen Daten zu sichern, um beispielsweise bei einer abgelaufenen Session (Sitzung) die eingegeben Daten nicht zu verlieren. Das Zwischenspeichern ist jederzeit möglich, auch wenn noch nicht alle Pflichtfelder ausgefüllt sind.
-
-Unter den ersten drei Eingabefeldern im Kopf werden automatisiert weitere Informationen zum Objekt angezeigt.
-
-Erstellt am: Erstellungsdatum
-Geändert am: Änderungsdatum
-Objekt-ID: Die Objekt-ID wird nach dem ersten Speichern automatisch vergeben.
-Von: Max Mustermann (Bearbeiter)
-
-Hinweis:
-Die Objekt-ID erscheint im Frontend-Metadatensatz in der Rubrik „Zusätzliche Info“, 
-sie ist nicht zu verwechseln mit dem Identifikator der Datenquelle!
-
-
-Abschnitt Allgemeines
-^^^^^^^^^^^^^^^^^^^^^
-
-Kurzbezeichnung
-'''''''''''''''
-
-Angabe einer Abkürzung (Kurzbezeichnung) für den zu beschreibenden Geodatensatz.
-
-Beispiele: FND (steht für: Flächennaturdenkmale), DTK25 (steht für: Digitale Topographische Karte im Maßstab 1: 25.000)
-
-
-Vorschaugrafik
-''''''''''''''
-
-In dieses Feld kann ein Vorschaubild geladen werden. Weiterhin kann ein WMS-Dienst URL oder eine URL zu einer Grafik angegeben werden. Wenn eine Vorschaugrafik oder ein Dienst eingetragen wurde, so wird diese/r im Portal, in der Detailansicht angezeigt. 
-
-
-Dateibeschreibung
-Geben Sie eine Beschreibung zu der gewählten Grafik ein. Diese Angabe ist für die barrierefreie Darstellung der Grafik auf der Portalseite wichtig.
-
-Beispiel: Digitale Orthophotos Hamburg
-
-
-[Grafik]
-
-Abb.: 
-
-[Grafik]
-
-Abb.: 
-
-[Grafik]
-
-Abb.: 
-
- 
-
-Beschreibung
-''''''''''''
-
-Eintrag einer Aussagekräftigen fachlichen Inhaltsangabe zum beschreibenden Geodatensatz. Auf Verständlichkeit für fachfremde Dritte ist zu achten. Technische Einzelheiten in Verbindung mit der Datenverarbeitung sollten auf das Wesentliche beschränkt sein. Das Feld Beschreibungen muss ausgefüllt werden, es ist ein Pflichtfeld, sonst lässt sich der Metadatensatz nicht freigeben.
-
-**Hinweis:** *Empfohlen ist ein Absatz. Je mehr Inhalte eingegeben werden, umso mehr Schlüsselwörter sind auch für die Suche vorhanden. Kurze Sätze werden besser verstanden.*
-
- 
-Adressen
-''''''''
-
-An dieser Stelle sind Personen, Fachbereiche oder Institutionen anzugeben, die weitere Auskünfte zum aktuellen Objekt/Datensatz geben können. Es besteht dabei keine Verpflichtung zur Veröffentlichung von Personenbezogenen Daten (siehe Erfassungsanleitung Teil 2, Punkt: 1.1 Anlegen von Adressen, Feld: "Daten nicht anzeigen"). Die Angabe einer Institution oder eines Fachbereiches ist ausreichend. Bei Bedarf können diese Verweise geändert werden. In der linken Spalte ist kein freier Eintrag möglich, die Auswahl erfolgt über eine Dropdown-Liste. Zum Öffnen des Dropdownmenüs die entsprechende freie Zelle der Tabelle markieren und anschließend auf das kleine Dreieck am rechten Rand klicken. Es öffnet sich daraufhin die Dropdown-Liste mit den Auswahlmöglichkeiten:
-
-Auswahlliste Art des Verweises
-
- - Anbieter 
- - Ansprechpartner 
- - Autor 
- - Bearbeiter 
- - Eigentümer 
- - Herausgeber	 - Nutzer
- - Projektleitung
- - Urheber
- - Vertrieb
- - Verwalter
-
-
-Link Adresse hinzufügen
-'''''''''''''''''''''''
-
-Über den Link "Adresse hinzufügen" wird der Verweis selbst angelegt. Als Auswahlmöglichkeit stehen alle in der Adressverwaltung des aktuellen Kataloges bereits eingetragenen Adressdaten zur Verfügung. 
-
-Über das Kontextmenü (rechte Maustaste) ist es möglich Adressen aus einer Zeile zu kopieren und in eine weitere Zeile einzufügen.
-
-**Beispiel:**
-*Ansprechpartner: Max Mustermann*
-*Verwalter: Lieschen Müller*
-
- 
-
-Adresse hinzufügen
-'''''''''''''''''''
-
-In der Direkten Suche können Sie entweder nach der Einheit bzw. Institution, den Nachnamen, den Vornamen oder einer Kombination aus den Feldern suchen. Es wird immer eine Suche nach einer Teilzeichenkette durchgeführt. Werden Zeichenketten in mehreren Feldern angegeben, wird eine Adresse nur dann gefunden, wenn alle Zeichenketten übereinstimmen (UND-Verknüpfung).
-Die gefundenen Adressen werden in der Trefferliste angezeigt. Durch ein einfaches Klicken auf einen Eintrag wird dieser markiert. Durch ein anschließendes Klicken auf "Übernehmen" wird die markierte Referenz auf die Adresse in das Objekt übernommen. 
-Im Hierarchiebaum können Sie in der üblichen Weise navigieren. Ein einfacher Klick auf eine Adresse markiert diese. Durch ein anschließendes Klicken auf "Übernehmen" wird die markierte Referenz auf die Adresse in das Objekt übernommen.
-Hinweis:
-Die Adresszeilen sind auch zwischen verschiedenen Objekten und (Adress-) Elementen kopierbar. 
-
-Adressen Kopieren und Einfügen
-''''''''''''''''''''''''''''''
-
-Eine Adresse wird kopiert, indem mit der rechten Maustaste eine Adresszeile angeklickt und die Option „Adresse kopieren“ gewählt wird. Die kopierte Adresse kann nun in einem beliebigen Objekt in einer leeren oder auch in einer befüllten Adresszeile eingetragen werden. Beim Einfügen in eine leere Zeile wird eine Kopie der Adresse samt Rolle eingetragen. Wird in einem bestehenden Eintrag eingefügt, so wird nur die Adresse ausgetauscht, die Rolle bleibt erhalten. 
- 
-
-INSPIRE-relevant
-''''''''''''''''
-
-Dieses Feld definiert, wenn aktiviert, dass ein Metadatensatz für das INSPIRE-Monitoring vorgesehen ist.
+Der Geodatensatz wird über die Registry an die EU gemeldet und in einem Monitoringprozess überwacht.
 
 Folgende Eigenschaften ändern sich bei der Aktivierung der Checkbox:
- - Hinzufügen des Schlagwortes "inspireidentifiziert" während der ISO-XML Generierung
+ - Aktivierung des Schlagwortes "inspireidentifiziert" während der ISO-XML Generierung
  - Verpflichtende Angabe eines INSPIRE-Themas im Abschnitt "Verschlagwortung"
 
-Die als INSPIRE-relevant markierten Datensätze werden im INSPIRE GeoPortal (https://inspire-geoportal.ec.europa.eu/) veröffentlicht.
 
-konform
-''''''''
+Checkbox konform
+''''''''''''''''
 
-Geodatensatz wird an INSPIRE gemeldet und liegt im INSPIRE-DatenSchema vor. Der Grad der Konformität (im Abschnitt: "Zusatzinformation", Tabelle: Konformität) zur Spezifikation (VO 1089/2010) wird auf "true" gesetzt.
+[Grafik]
 
-Hinweis: 
-Dieses Feld erscheint nur, wenn in der Objektklasse "Geodatensatz" das Häkchen in das Feld "INSPIRE-relevant" gesetzt wurde.
+Der Geodatensatz wird an INSPIRE gemeldet und liegt im INSPIRE-DatenSchema vor. Der Grad der Konformität (im Abschnitt: "Zusatzinformation", Tabelle: Konformität) zur Spezifikation (VO 1089/2010) wird auf "true" gesetzt.
 
-nicht konform
-'''''''''''''
+**Hinweis:** 
+Dieses Feld erscheint nur, wenn vorher die Checkbox "INSPIRE-relevant" aktiviert wurde.
+
+
+Checkbox nicht konform
+'''''''''''''''''''''''
+
+[Grafik]
 
 Geodatensatz wird an INSPIRE gemeldet, liegt aber nicht im INSPIRE-DatenSchema vor. Der Grad der Konformität zur Spezifikation (VO 1089/2010) kann durch den Anwender (im Abschnitt: "Zusatzinformation", Tabelle: Konformität) nur auf "false" oder "nicht evaluiert" gesetzt werden.
 
-**Achtung!**
-*Dieses Feld erscheint nur, wenn in der Objektklasse "Geodatensatz" das Häkchen in das Feld "INSPIRE-relevant" gesetzt wurde.*
-
-AdV kompatibel
-''''''''''''''
-
-Beim Anhaken der Checkbox "AdV kompatibel" werden die Anforderungen des AdV-Metadatenprofils umgesetzt (z.B. Automatisiertes Setzen des Schlüsselwortes "AdVMIS" in der Datenbank).
-
-Open Data
-'''''''''
-Diese Checkbox kennzeichnet den Metadatensatz als "Open Data"-Objekt.
-Es sind dann zusätzlich folgende Angaben verpflichtend:
-
- - In der (nur für OpenData) erscheinenden Tabelle "Kategorien" muss mindestens ein Wert eingetragen werden.
- - Unter Verweisen muss mindestens ein Verweis vom Typ "Datendownload" eingetragen werden.
- - Unter "Nutzungsbedingung" muss mindestens ein Eintrag vorhanden sein.
-
-Hinweis:
-Die Checkbox „Open Data“ ist derzeit für Sachsen-Anhalt nicht relevant, da für Open Data noch keine gesetzlichen Grundlagen existieren. 
+**Hinweis**
+Dieses Feld erscheint nur, wenn vorher die Checkbox "INSPIRE-relevant" aktiviert wurde.
 
 
+Checkbox AdV kompatibel
+'''''''''''''''''''''''
+
+[Grafik]
+
+Bei der Aktivierung der Checkbox "AdV kompatibel" werden die Anforderungen des AdV-Metadatenprofils umgesetzt (z.B. Automatisiertes Setzen des Schlüsselwortes "AdVMIS" in der Datenbank).
+
+
+Checkbox Open Data
+''''''''''''''''''
+Die Checkbox Open Data ist unter Erfassung von Objekten / Abschnitt Allgemeines beschrieben: <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/objektklasse-geodatensatz.html#abschnitt-allgemeines>`_ , da sie auf mehrere Metadatentypen zutrifft.
 
 Abschnitt Verschlagwortung
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -219,7 +82,7 @@ AdV Produktgruppe
 Auswahl einer Produktgruppe bzw. eines Fachthemas der AdV.
 
 **Hinweis:**
-*Dieses Feld ist nur ein Pflichtfeld, wenn in das Feld "AdV kompatibel" ein Häkchen gesetzt wurde.*
+*Dieses Feld ist nur ein Pflichtfeld, wenn die Checkbox "AdV kompatibel" aktiviert wurde.*
 
 INSPIRE-Themen
 ''''''''''''''
@@ -409,6 +272,8 @@ Abschließend betätigen Sie den Button „Übernehmen“. Die gewählten Begrif
 
 Abschnitt Fachbezug
 ^^^^^^^^^^^^^^^^^^^
+
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-04_fachbezug/ige-abschnitt_fachbezug.png
 
 Fachliche Grundlage
 '''''''''''''''''''

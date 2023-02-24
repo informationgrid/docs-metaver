@@ -186,7 +186,7 @@ Abb.: Verknüpfung mit den Adressen
 Checkboxen
 ^^^^^^^^^^^
 
-INSPIRE-relevant
+Checkbox INSPIRE-relevant
 ''''''''''''''''
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_checkbox-inspire-relevant.png
@@ -195,7 +195,7 @@ INSPIRE-relevant
 Abb.: Checkbox INSPIRE-relevant (konform, nichtkonform)
 
   
-AdV kompatibel
+Checkbox AdV kompatibel
 ''''''''''''''
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_checkbox-adv-kompatibel.png
@@ -206,7 +206,7 @@ Abb.: Checkbox AdV kompatibel
 Diese Checkboxen sind unter der `Objektklasse Geodatensatz <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/objektklasse-geodatensatz.html>`_ beschrieben.
 
 
-Open Data Checkbox
+Checkbox Open Data
 ''''''''''''''''''
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_checkbox-open-data.png
@@ -214,15 +214,16 @@ Open Data Checkbox
 
 Abb.: Checkbox Open Data
 
-Diese Checkbox kennzeichnet den Metadatensatz als "Open Data".
-Es sind dann zusätzlich folgende Angaben verpflichtend einzugeben:
+Diese Checkbox kennzeichnet den Metadatensatz als "Open Data" es wird in der ISO-XML das Schlagwort "opendata" generiert. Wenn das Bundesland der GovData-Kooperation beigetreten ist, und die DCAT-AP.de Schnittstelle des Bundeslandes im Portal GovData aktiviert ist, werden diese Metadaten in des Portal GovData (https://www.govdata.de/) übernommen. In einem weiteren Schritt werden diese Daten vom Portal data.europa.eu (https://data.europa.eu/de/trening/what-open-data) der Europäischen Kommission geharvestet (abgeerntet/abgeholt). 
 
-In der (nur für Open Data) erscheinenden Tabelle `"Kategorien" <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html#kategorien>`_ muss mindestens ein Wert ausgewählt und eingetragen werden.
+Nach der Aktivierung sind zusätzlich folgende Angaben verpflichtend:
 
-Im Abschnitt „Verweise“ muss in die Tabelle `"Verweise zu" <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html#verweise-zu>`_ mindestens ein Verweis vom Typ "Datendownload" eingetragen werden.
+ - In der (nur für Open Data) erscheinenden Tabelle `"Kategorien" <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html#kategorien>`_ muss mindestens ein Wert ausgewählt und eingetragen werden.
 
-Im Abschnitt „Verfügbarkeit“, in der Tabelle `"Nutzungsbedingung" <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html#nutzungsbedingungen>`_ muss mindestens ein Eintrag zur anzugebenden Lizenz erfolgen.
-  
+ - Im Abschnitt „Verweise“ muss in die Tabelle `"Verweise zu" <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html#verweise-zu>`_ mindestens ein Verweis vom Typ "Datendownload" eingetragen werden.
+
+ - Im Abschnitt „Verfügbarkeit“, in der Tabelle `"Nutzungsbedingung" <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html#nutzungsbedingungen>`_ muss mindestens ein Eintrag zur anzugebenden Lizenz erfolgen.
+
 
 Kategorien
 ''''''''''
