@@ -356,7 +356,7 @@ Zeitbezug der Ressource
 
 Abb.: Tabelle Zeitbezug der Ressource
 
-In dieser Tabelle wird dokumentiert, wann die beschrieben Daten erfasst, veröffentlicht oder geändert wurden.
+In dieser Tabelle wird dokumentiert, wann die beschriebenen Daten erfasst, veröffentlicht oder geändert wurden.
 
 
 Erläuterungen
