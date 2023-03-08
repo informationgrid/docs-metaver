@@ -16,27 +16,44 @@ Einem Geodatensatz können unterschiedliche Geodatendienste zugeordnet werden (z
 Wenn ein Geodatensatz einem Geodatendienst zugeordnet wird, dann werden diese Metadatensätze miteinander gekoppelt (Datenkopplung). Das bedeutet,der Geodatensatz verweist durch eine Verlinkung auf den Geodatendienst, der Geodatendienst wiederum verweist durch eine Verlinkung auf den Geodatensatz.
 
 
-Zu den Geodatendiensten zählen:
+Zu diesen Geodatendiensten zählen:
 
-  - Atom-Feed (Web-Feeds im XML-Format)
 
-  - WMS (Web Map Service)
+Darstellungsdienste
+'''''''''''''''''''
 
-  - WFS (Web Feature Service)
+ - WMS - Web Map Service
+   (Server kann angeforderte Karten aus Rasterdaten oder Vektordaten visualisieren.)
+   
+ - WMTS - Web Map Tile Service
+   (Webservice, um digitale Karten kachelbasiert anbieten und abrufen zu können.)
 
-  - WCS (Web Coverage Service)
 
-  - WCTS (Web Coordinate Transformation Service)
+Downloaddienste
+''''''''''''''''
 
-  - WMTS (Web Map Tile Service)
+ - WFS - Web Feature Service
+  (Internet-gestützter Zugriff auf Geodaten (Vektordaten).)
 
-  - CSW (Catalogue Service Web)
+ - WCS - Web Coverage Service
+  (Der WCS stellt verfügbare Daten mit detaillierten Beschreibungen (Metadaten) bereit und definiert eine reiche Syntax für Anfragen auf diese Daten und Metadaten. Er liefert multidimensionale Daten zurück.)
+
+ - WCS-T - Web Coverage Service – Transaktion
+  (Definiert, wie neue Coverages (Vektordatenformate) auf einen Server geladen werden können bzw. bereits vorhandene Coverages geändert werden können.)
+
+ - Atom-Feed - Web-Feeds im XML-Format
+
+
+Katalogdienst
+'''''''''''''
+
+ - CSW - Catalogue Service for the Web
+  (Internet-gestützte Veröffentlichung von Informationen über Geoanwendungen, Geodienste und Geodaten (Metadaten) in einer Geodateninfrastruktur.)
 
 
 
 Erfassung
 ---------
-
 
 Der getCapabilities-Assistent
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -45,35 +62,15 @@ Der getCapabilties Assistent unterstützt die Erfassung von Services (Diensten) 
 
 Der "getCapabilities Assistent" unterstützt folgende Dienste-Typen:
 
-
-Darstellungsdienste
-'''''''''''''''''''
-
-WMS - Web Map Service
-(Server kann angeforderte Karten aus Rasterdaten oder Vektordaten visualisieren.)
-
-WMTS - Web Map Tile Service
-(Webservice, um digitale Karten kachelbasiert anbieten und abrufen zu können.)
-
-
-Downloaddienste
-''''''''''''''''
-
-WFS - Web Feature Service
-(Internet-gestützter Zugriff auf Geodaten (Vektordaten).)
-
-WCS - Web Coverage Service
-(Der WCS stellt verfügbare Daten mit detaillierten Beschreibungen (Metadaten) bereit und definiert eine reiche Syntax für Anfragen auf diese Daten und Metadaten. Er liefert multidimensionale Daten zurück.
-
-WCS-T - Web Coverage Service – Transaktion
-(Definiert, wie neue Coverages (Vektordatenformate) auf einen Server geladen werden können bzw. bereits vorhandene Coverages geändert werden können.)
-
-
-Katalogdienst
-''''''''''''''
-
-CSW - Catalogue Service for the Web
-Internet-gestützte Veröffentlichung von Informationen über Geoanwendungen, Geodienste und Geodaten (Metadaten) in einer Geodateninfrastruktur. 
+ - WMS - Web Map Service
+ - WMTS - Web Map Tile Service
+ - WFS - Web Feature Service
+ - WCS - Web Coverage Service
+ - WCS-T - Web Coverage Service – Transaktion
+ - CSW - Catalogue Service for the Web
+ 
+ Eine Ausnahme ist der Atom-Feed, dieser kann nicht über den GetCapabilitie Assistent abgerufen werden.
+ 
 
 
 Kopf der Erfassungsmaske

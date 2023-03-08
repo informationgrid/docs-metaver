@@ -66,14 +66,14 @@ WCS - Web Coverage Service
 (Der WCS stellt verfügbare Daten mit detaillierten Beschreibungen (Metadaten) bereit und definiert eine reiche Syntax für Anfragen auf diese Daten und Metadaten. Er liefert multidimensionale Daten zurück.
 
 WCS-T - Web Coverage Service – Transaktion
-Definiert, wie neue Coverages (Vektordatenformate) auf einen Server geladen werden können bzw. bereits vorhandene Coverages geändert werden können.
+(Definiert, wie neue Coverages (Vektordatenformate) auf einen Server geladen werden können bzw. bereits vorhandene Coverages geändert werden können.)
 
 
 Katalogdienst
 ''''''''''''''
 
 CSW - Catalogue Service for the Web
-Internet-gestützte Veröffentlichung von Informationen über Geoanwendungen, Geodienste und Geodaten (Metadaten) in einer Geodateninfrastruktur. 
+(Internet-gestützte Veröffentlichung von Informationen über Geoanwendungen, Geodienste und Geodaten (Metadaten) in einer Geodateninfrastruktur.)
 
 
 Kopf der Erfassungsmaske
