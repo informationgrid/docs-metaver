@@ -45,6 +45,11 @@ Katalogdienst
  - CSW - Catalogue Service for the Web (Internet-gestützte Veröffentlichung von Informationen über Geoanwendungen, Geodienste und Geodaten (Metadaten) in einer Geodateninfrastruktur.)
 
 
+Neben den Allgemeinen Metadaten, wie sie auch in den anderen Objektklassen unter `Erfassung von Objekten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html>`_ erfasst werden, sind in der Objektkasse Geodatendienst folgende weitere Metadaten zu erfassen.
+
+
+`Erfassung von Objekten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html>`_ 
+
 
 Erfassung
 ---------
@@ -64,29 +69,6 @@ Der "getCapabilities Assistent" unterstützt folgende Dienste-Typen:
  - CSW - Catalogue Service for the Web
  
 Eine Ausnahme ist der Atom-Feed, dieser kann nicht über den GetCapabilitie Assistent abgerufen werden.
- 
-
-
-Kopf der Erfassungsmaske
-^^^^^^^^^^^^^^^^^^^^^^^^
-
-Nach dem Anlegen eines neuen Objektes stehen die Eingabefelder für das neue Objekt im rechten Inhaltsfenster zur Verfügung. Als erster Schritt sollten die Basisinformationen im Inhaltsfenster (siehe Screenshot) überprüft bzw. bearbeitet werden.
-
-Objektname
-''''''''''
-
-Hier erfolgt die Angabe einer kurzen prägnanten Bezeichnung des beschriebenen Datensatzes. Der Objektname kann z.B. identisch mit dem Namen des Geodatendienstes sein, sofern dieser ausreichend kurz und aussagekräftig ist. Soweit ein gängiges Kürzel vorhanden ist, ist dieses Kürzel mit anzugeben. Der Eintrag für dieses Feld ist zwingend.
-
-**Beispiel:** *Digitales Landschaftsmodell 50 (DLM50)*
-
-
-Objektklasse
-''''''''''''
-
-Je nachdem, welche Objektklasse bei der Erstellung des Metadatensatzes im Assistenten gewählt wurde, so werden im Inhaltsbereich entsprechende Eingabefelder angezeigt.
-
-**Hinweis:**
-*Ein Wechsel der Objektklasse ist an dieser Stelle seit InGrid 4.2.1 nicht mehr möglich.*
 
 
 Verantwortlicher
@@ -109,98 +91,6 @@ Von: Max Mustermann (Bearbeiter)
 *Die Objekt-ID erscheint im Frontend-Metadatensatz in der Rubrik „Zusätzliche Info“,  sie ist nicht zu verwechseln mit dem Identifikator der Datenquelle!*
 
 
-Abschnitt Allgemeines
-^^^^^^^^^^^^^^^^^^^^^
-
-Kurzbezeichnung
-'''''''''''''''
-
-Angabe einer Abkürzung (Kurzbezeichnung) für den zu beschreibenden Datensatz.
-
-Beispiele: FND (steht für: Flächennaturdenkmale),  DTK25 (steht für: Digitale Topographische Karte im Maßstab 1: 25.000)
-
-
-Vorschaugrafik
-''''''''''''''
-
-In dieses Feld kann ein Vorschaubild geladen werden. Weiterhin kann ein WMS-Dienst URL oder eine URL zu einer Grafik angegeben werden. Wenn eine Vorschaugrafik oder ein Dienst eingetragen wurde, so wird diese/r im Portal, in der Detailansicht angezeigt. 
-
-
-Dateibeschreibung
-Geben Sie eine Beschreibung zu der gewählten Grafik ein. Diese Angabe ist für die barrierefreie Darstellung der Grafik auf der Portalseite wichtig.
-
-Beispiel: Digitale Orthophotos Hamburg
-
-
-[Grafik]
-
-Abb.: 
-
-[Grafik]
-
-Abb.: 
-
-[Grafik]
-
-Abb.: 
-
-Beschreibung
-''''''''''''
-
-Eintrag einer Aussagekräftigen fachlichen Inhaltsangabe zum beschreibenden Geodatendienst. Auf Verständlichkeit für fachfremde Dritte ist zu achten. Technische Einzelheiten in Verbindung mit der Datenverarbeitung sollten auf das Wesentliche beschränkt sein. Das Feld Beschreibungen muss ausgefüllt werden, es ist ein Pflichtfeld, sonst lässt sich der Metadatensatz nicht freigeben.
-
-**Hinweis:** *Empfohlen ist ein Absatz. Je mehr Inhalte eingegeben werden, umso mehr Schlüsselwörter sind auch für die Suche vorhanden. Kurze Sätze werden besser verstanden.*
-
-
-Adressen
-''''''''
-
-An dieser Stelle sind Personen, Fachbereiche oder Institutionen anzugeben, die weitere Auskünfte zum aktuellen Objekt/Geodatendienst geben können. Es besteht dabei keine Verpflichtung zur Veröffentlichung von Personenbezogenen Daten (siehe Erfassungsanleitung Teil 2, Punkt: 1.1 Anlegen von Adressen, Feld: "Daten nicht anzeigen"). Die Angabe einer Institution oder eines Fachbereiches ist ausreichend. Bei Bedarf können diese Verweise geändert werden. In der linken Spalte ist kein freier Eintrag möglich, die Auswahl erfolgt über eine Dropdown-Liste. Zum Öffnen des Dropdownmenüs die entsprechende freie Zelle der Tabelle markieren und anschließend auf das kleine Dreieck am rechten Rand klicken. Es öffnet sich daraufhin die Dropdown-Liste mit den Auswahlmöglichkeiten:
-
-Auswahlliste Art des Verweises
-
-  - Anbieter 
-  - Ansprechpartner 
-  - Autor 
-  - Bearbeiter 	 - Eigentümer 
-  - Herausgeber
-  - Nutzer
-  - Projektleitung	 - Urheber
-  - Vertrieb
-  - Verwalter
-
-
-Link Adresse hinzufügen
-'''''''''''''''''''''''
-Über den Link "Adresse hinzufügen" wird der Verweis selbst angelegt. Als Auswahlmöglichkeit stehen alle in der Adressverwaltung des aktuellen Kataloges bereits eingetragenen Adressdaten zur Verfügung. 
-
-
-
-Über das Kontextmenü (rechte Maustaste) ist es möglich Adressen aus einer Zeile zu kopieren und in eine weitere Zeile einzufügen.
-
-**Beispiel:**
-*Ansprechpartner: Max Mustermann*
-*Verwalter: Lieschen Müller*
-
- 
-
-Adresse hinzufügen
-''''''''''''''''''
-
-In der Direkten Suche können Sie entweder nach der Einheit bzw. Institution, den Nachnamen, den Vornamen oder einer Kombination aus den Feldern suchen. Es wird immer eine Suche nach einer Teilzeichenkette durchgeführt. Werden Zeichenketten in mehreren Feldern angegeben, wird eine Adresse nur dann gefunden, wenn alle Zeichenketten übereinstimmen (UND-Verknüpfung).
-Die gefundenen Adressen werden in der Trefferliste angezeigt. Durch einfaches Klicken auf einen Eintrag wird dieser markiert. Durch ein anschließendes Klicken auf Übernehmen wird die markierte Referenz auf die Adresse in das Objekt übernommen. 
-Im Hierarchiebaum können Sie in der üblichen Weise navigieren. Ein einfacher Klick auf eine Adresse markiert diese. Durch ein anschließendes Klicken auf Übernehmen wird die markierte Referenz auf die Adresse in das Objekt übernommen.
-Hinweis:
-Die Adresszeilen sind auch zwischen verschiedenen Objekten und (Adress-) Elementen kopierbar. 
-
-
-Adressen Kopieren und Einfügen
-'''''''''''''''''''''''''''''''
-
-Eine Adresse wird kopiert, indem mit der rechten Maustaste eine Adresszeile angeklickt und die Option „Adresse kopieren“ gewählt wird. Die kopierte Adresse kann nun in einem beliebigen Objekt in einer leeren oder auch in einer befüllten Adresszeile eingetragen werden. Beim Einfügen in eine leere Zeile wird eine Kopie der Adresse samt Rolle eingetragen. Wird in einem bestehenden Eintrag eingefügt, so wird nur die Adresse ausgetauscht, die Rolle bleibt erhalten.
-
-
- 
 
 INSPIRE-relevant
 ''''''''''''''''
@@ -319,72 +209,6 @@ Auswahlfeld INSPIRE - Räumlicher Anwendungsbereich
   - Global	 - Lokal
   - National	 - Regional
 
-
-Optionale Schlagworte
-'''''''''''''''''''''
-
-Eingabe von mindestens drei Schlagworten, die im Thesaurus verzeichnet sind. Die Verschlagwortung dient dem themenbezogenen Wiederauffinden (Retrieval) der Objekte über den Thesaurus-Navigator. Dazu müssen Schlagworte aus dem Thesaurus ausgewählt werden, die das Objekt so genau wie möglich, aber auch so allgemein wie nötig beschreiben. So sollte mindestens ein Schlagwort in der Thesaurus-Hierarchie einen relativ allgemeinen Aspekt des Objektes beschreiben und mindestens ein Schlagwort das Objekt so speziell wie möglich beschreiben. Die Auswahl kann über den "Verschlagwortungs-assistenten" oder den "Thesaurus-Navigator" vorgenommen werden - siehe Verlinkung.
-
-[Grafik]
-
-Abb.: Beispiel für eine Verschlagwortung
-
-**Hinweis:** *Die optionalen Schlagworte sind nur sichtbar, wenn der Abschnitt Verschlagwortung weiter ausgeklappt wird.*
-
-
-Umwelt-Thesaurus (UMTHES)
-'''''''''''''''''''''''''
-
-Die Verschlagwortung über den Umwelt-Thesaurus dient dem themenbezogenen Wiederauffinden der Objekte über den Thesaurus-Navigator. Dazu müssen Schlagworte aus dem Thesaurus (UMTHES) ausgewählt werden, die das Objekt so genau wie möglich, aber auch so allgemein wie nötig beschreiben. So sollte mindestens ein Schlagwort in der Thesaurus-Hierarchie einen relativ allgemeinen Aspekt des Objektes beschreiben und mindestens ein Schlagwort das Objekt so speziell wie möglich beschreiben. Die Auswahl kann über den "Verschlagwortungsassistenten" oder den "Thesaurus-Navigator" vorgenommen werden (siehe Verlinkung).
-
-Die Eingabe von mindestens drei Schlagworten, die im Umwelt-Thesaurus verzeichnet sind wird empfohlen.
-
-**Beispiel für "UMTHES":** *Luftbild, Bild-Flug, Orthophoto*
-
-
-Freie Schlagworte eintragen
-''''''''''''''''''''''''''''
-
-Hier erfolgt die Eingabe von Schlagworten die nicht im Thesaurus vorhanden sind.
-Es sollen prägnante Begriffe und Termini, die in engem Zusammenhang mit dem Objekt stehen und die nicht im Thesaurus vorhanden sind, eingetragen werden. Dies können spezielle Fachgebiete, (Mess-Methoden, Bestandteile o.ä. sein. Die Freien Suchbegriffe sind ergänzend zu den Thesaurus-Suchbegriffen anzugeben. Wenn Sie hier einen Thesaurus-Begriff eingeben, wird dieser automatisch als Thesaurus-Begriff (UMTHES) erkannt und gekennzeichnet. Abschließend den Button "Hinzufügen" betätigen.
-Das eingegebene Schlagwort wird dadurch automatisch in die obere Tabelle übernommen. Ein Hinweis in der rechten Tabellenspalte zeigt an, ob das Schlagwort bereits im Umweltthesaurus (UMTHES) enthalten ist, oder ob das Schlagwort ein „freies Schlagwort“ (FREE) ist.
-
-**Beispiel für "FREE":** *DOP Sachsen-Anhalt, Befliegung*
-
-**Hinweis:**
-*Mehrere Schlagworte können in das Textfeld, durch Komma getrennt, angegeben werden, Zusammengehörige Worte werden in Anführungszeichen gesetzt.*
-
-
-
-Verschlagwortungsassistent
-''''''''''''''''''''''''''
-
-Mit STRG+Mausklick können Sie einen oder mehrere Schlagwörter markieren.
- 
-Über die Schaltfläche ">" werden die ausgewählten Schlüsselwörter aus der "Vorschlagsliste" in die Liste "Übernehmen" transportiert. Durch Betätigen der Schaltfläche ">>" können alle Begriffe mit einmal in die rechte Liste übernommen werden. 
-
-Die Schaltfläche "<" verschiebt die markierten Begriffe wieder aus der rechten Liste in die linke Liste. Die Schaltfläche "<<" verschiebt alle Begriffe aus der rechten Liste auf die linke Seite. 
-
-Mit einem Klick auf die Schaltfläche "Übernehmen" werden alle Begriffe aus der Liste "Übernehmen" dem Metadatensatz als Schlagworte hinzugefügt. 
-
-
-Thesaurus-Navigator
-'''''''''''''''''''
-Bei der Auswahl der Schlagworte kann der „Thesaurus-Navigator“ helfen.
-
-
-Der "Thesaurus-Navigator" ist unterteilt in: die Suche, den Hierarchiebaum, die Ergebnisliste und die Liste der Deskriptoren.
-
-
-In die Suchzeile geben Sie einen beliebigen Suchbegriff ein.
-Abschließend betätigen Sie den Button "In Thesaurus suchen".
-
-Es erscheint der gewählte Suchbegriff in der Ergebnisliste. Betätigt man das blaue Symbol vor dem Suchbegriff, wechselt die Ansicht in den Hierarchiebaum (an die Stelle, an der dieser Suchbegriff eingeordnet ist). 
- 
-
-Im Strukturbaum können weitere Suchbegriffe ausgewählt werden. Durch Betätigen des Buttons „Hinzufügen“, werden die Schlagworte in die Liste der Deskriptoren übernommen. 
-
-Abschließend betätigen Sie den Button „Übernehmen“. Die gewählten Begriffe werden jetzt in die Tabelle "Optionalen Schlagworte" eingetragen.
 
 
 Abschnitt Fachbezug
@@ -911,129 +735,6 @@ Zusätzliche Angaben zum Raumbezug.
 **Beispiel:** Die Koordinaten für die Fachliche Gebietseinheit sind ungefähre Angaben.
 
 
-Abschnitt Zeitbezug
-^^^^^^^^^^^^^^^^^^^^
-
-Zeitbezug der Ressource
-''''''''''''''''''''''''
-
-In dieser Tabelle wird angegeben, wann die Ressource erstmalig erstellt, publiziert oder/und letztmalig geändert/aktualisiert wurde. Die Datumsangaben beziehen sich dabei nicht auf den Metadatensatz, sondern direkt auf die beschriebene Ressource. Es ist mindestens ein Eintrag erforderlich, es können jedoch auch alle drei Typen gleichzeitig angeben werden.
-
-**Beispiel:** *22.01.2019 Erstellung*
-
- 
-Erläuterung
-''''''''''''
-
-Hier können z.B. die Angaben der Periodizität eingeschränkt, weitere Zeitangaben gemacht oder Unregelmäßigkeiten erklärt werden. Im Zusammenhang mit dem Eintrag im Feld Periodizität können hier Abstände, Perioden und Intervalle eingetragen werden, die sich nicht aus dem Zusammenhang der anderen Felder des Zeitbezuges erklären, z.B. Jahreszeiten, Dekaden, Tageszeiten.
-
-**Beispiel:** *Die Messungen erfolgten nur tagsüber.*
-
- 
-Zeitspanne
-''''''''''
-Hier soll das Zeitspanne der Entstehung der eigentlichen Daten (z.B. Messdaten) eingetragen werden.
-
-
-Periodizität
-''''''''''''
-Auswahl/Angabe des Zeitzyklus der Datenerhebung. Der Eintrag muss aus der Auswahlliste erfolgen, die über den Pfeil am Ende des Feldes geöffnet wird. Wichtig: Der Eintrag "unbekannt" sollte nicht mehr verwendet und falls noch in Altdaten vorhanden durch sinnvolle Einträge ersetzt werden. Er stellt eine nicht ISO-konforme Erweiterung der Auswahlliste dar.
-
-Auswahlliste der Periodizität
-
-  - bei Bedarf
-  - einmalig
-  - halbjährlich	 - jährlich
-  - kontinuierlich
-  - monatlich	 - täglich
-  - unbekannt
-  - unregelmäßig	 - vierteljährlich
-  - wöchentlich
-  - zweiwöchentlich
-
-**Beispiel:** *täglich*
-
- 
-Status
-''''''
-
-Stand der Ausführung des Projektes, der Messung etc. Der Editor nimmt alle bekannten Daten auf, diese können sich in unterschiedlichen Stadien ihrer Lebenszeit befinden, d.h. Projekte, Programme oder Messungen können in konkreter Planung sein, derzeit durchgeführt werden oder schon abgeschlossen sein.
-
-Auswalliste Status
-
-  - abgeschlossen
-  - erforderlich
-  - geplant
-  - historisches Archiv	 - in Erstellung
-  - in Produktion
-  - kontinuierliche Aktualisierung
-  - veraltet
-
-**Beispiel:** *abgeschlossen*
-
-
- 
-
-Im Intervall
-''''''''''''
-
-Angabe des zeitlichen Abstands (Frequenz) der Datenerhebung. Erfolgt die Datenerhebung kontinuierlich oder periodisch (siehe Feld Periodizität), so soll diese Angabe hier präzisiert werden. Es stehen Felder für den freien Eintrag einer Ziffer und eine Auswahlliste zur Verfügung, die zeitliche Intervalle vorgibt. Der Eintrag von 10 und Tage bedeutet: Die beschriebenen Daten werden bzw. wurden alle 10 Tage erhoben.
-
-Auswahlliste der Intervalle
-
-  - Jahre
-  - Monate
-  - Tage
-  - Stunden
-  - Minuten
-  - Sekunden
-
-**Beispiel:** *Alle 6 Monate*
-
-
-Abschnitt Zusatzinformation
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-
-Sprache des Metadatensatzes
-'''''''''''''''''''''''''''
-
-An dieser Stelle soll die Sprache ausgewählt werden, die bei der Beschreibung der Metadaten verwendet wurde. Es ist hier nicht die Sprache der eigentlichen Ressource gemeint! 
-
-Standardeinstellung ist: Deutsch
-
-
-Sprache der Ressource
-'''''''''''''''''''''
-
-Hier ist die Sprache anzugeben, die in der Ressource verwendet wird. Es ist an dieser Stelle nicht die Sprache der Metadaten gemeint! 
-
- 
-Veröffentlichung
-''''''''''''''''
-
-Das Feld "Veröffentlichung" ist sehr wichtig, denn es gibt den Status der Veröffentlichungsbreite an. Möglich sind folgende Werte, die über ein Dropdown-Menü ausgewählt werden können:
- 
-  - Internet
-Das Objekt wird für das Internet veröffentlicht. 
-
-  - Intranet
-Das Objekt wird nur für das Intranet veröffentlicht, aber nicht für das Internet. 
-
-Hinweis: Diese Option trifft derzeit für Sachsen-Anhalt nicht zu, da die Portal-/Erfassungssoftware nicht im Landesdatennetz installiert ist.
-
-  - amtsintern
-Das Objekt ist nur im Strukturbaum der Erfassungssoftware sichtbar, aber nicht im Intranet und auch nicht im Internet.
-
- 
-Es ist nicht möglich, einem Objekt eine höhere Freigabestufe zuzuordnen, als die des übergeordneten Objektes. Die abschließende Speicherung wird mit folgender Fehlermeldung verweigert.
-
-
-Ebenfalls erscheint ein Warnhinweis, wenn die Veröffentlichungsbreite eines bereits abschließend gespeicherten Objektes, welches noch untergeordnete Objekte der gleichen Veröffentlichungsbreite besitzt, reduziert werden soll. 
-
-**Beispiel:**
-*Das Objekt „Geodatendienste“ hat zurzeit die Veröffentlichungsbreite „Internet“. Alle untergeordneten Objekte sind ebenfalls für das Internet freigegeben. Wird nun „Geodatendienste“ auf die Veröffentlichung „amtsintern“ reduziert und der obige Warnhinweis mit „Speichern“ bestätigt, so werden automatisch auch alle untergeordneten Objekte auf die Veröffentlichungsbreite „amtsintern“ herabgesetzt.*
-
 
 Konformität
 '''''''''''
@@ -1167,63 +868,10 @@ Bildpunkttiefe: BitsPerSample.
 
 
 
-Medienoptionen
-'''''''''''''''
-
-Angabe, auf welchen Medien die Daten zur Verfügung gestellt werden können. Hier können elektronische Datenträger als auch Medien in Papierform angegeben werden, auf denen die im Objekt beschriebenen Daten dem Nutzer zur Verfügung stehen. Es können mehrere Medien eingetragen werden. Medium: Angabe der Medien, auf denen der Datensatz bereitgestellt werden kann (ISO-Auswahlliste) Datenvolumen: Umfang des Datenvolumens in MB (Fließkommazahl) Speicherort: Ort der Datenspeicherung im Intranet/Internet, Angabe als Verweis.
-
-Auswahlliste Medium
-
-  - 0,5-Zoll Kassette
-  - 3,5-Zoll Diskette
-  - analoge Fotografie
-  - Ausdruck
-  - CD-ROM
-  - DVD	 - DVD-ROM
-  - E-Mail
-  - Faxabruf
-  - Infokiosk
-  - Mikrofilm
-  - Mobilfunk	 - Online Link
-  - Rundfunk
-  - Telefonverbindung
-  - unbekannt (*)
-  - Videotext
-  - ZIP-Laufwerk
-
-**Beispiel:** *Medium: CD-ROM Datenvolumen: 700 MB Speicherort: Explorer Z:/Bereich_51/Metainformation/20040423_Hilfetexte.doc*
-
-
-Bestellinformation
-''''''''''''''''''
-
-Angabe von generellen Informationen wie Bedingungen oder Konditionen zur Bestellung.
-
-**Beispiel:** *Lieferzeit beträgt 3 Wochen*
-
-
-Abschnitt Verweise
-^^^^^^^^^^^^^^^^^^
-
-Verweis zu
-'''''''''''
-
-Es gibt die Möglichkeit, Verweise von einem Objekt zu einem anderen Objekt oder zu einer Internetadresse (URL) zu erstellen. In dieser Tabelle werden alle Verweise zusammenfassend aufgeführt, welche im aktuellen Objekt angelegt wurden. Über dem Link "Verweise anlegen/bearbeiten" öffnet sich ein Dialog, mit dem weitere Einzelheiten zu den Verweisen eingesehen und editiert werden können. Es ist ferner möglich, weitere Verweise über diesen Dialog hinzuzufügen. Wenn Open-Data ausgewählt ist, muss mindestens ein Verweis vom Typ "Datendownload" vorhanden sein, bevor das Objekt veröffentlicht werden kann!
-
- 
-Verweis von
-''''''''''''
-
-In dieser Tabelle werden alle Verweise von denjenigen Objekten aufgeführt, welche auf das aktuelle Objekt verweisen. Das Editieren oder Hinzufügen ist nicht möglich. Sollen die Verweise geändert oder ergänzt werden, so muss (über die Verlinkung) zu dem entsprechenden Objekt gewechselt werden.
-
-**Hinweis:**
-*Das Anlegen von Verweisen ist im Teil 2 der Erfassungsanleitung unter 2. ausführlich beschrieben.*
-
-
 Download-Dienste als ATOM-Feed bereitstellen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  
-ASF - Atom Syndication Format - Atom-Feed
+Atom-Feed - ASF - Atom Syndication Format
 '''''''''''''''''''''''''''''''''''''''''
 
 Dieses XML-Format, ermöglicht den plattformunabhängigen Austausch von Informationen z. B. für Web-Feeds.

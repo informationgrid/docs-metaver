@@ -45,6 +45,11 @@ Katalogdienst
  - CSW - Catalogue Service for the Web (Internet-gestützte Veröffentlichung von Informationen über Geoanwendungen, Geodienste und Geodaten (Metadaten) in einer Geodateninfrastruktur.)
 
 
+Neben den Allgemeinen Metadaten, wie sie auch in den anderen Objektklassen unter `Erfassung von Objekten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html>`_ beschrieben sind, kommen in der Objektkasse Geodatendienst folgende Metadaten dazu.
+
+
+`Erfassung von Objekten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html>`_ 
+
 
 Erfassung
 ---------
@@ -64,10 +69,6 @@ Der "getCapabilities Assistent" unterstützt folgende Dienste-Typen:
  - CSW - Catalogue Service for the Web
  
 Eine Ausnahme ist der Atom-Feed, dieser kann nicht über den GetCapabilitie Assistent abgerufen werden.
- 
-
-
-
 
 
 Verantwortlicher
