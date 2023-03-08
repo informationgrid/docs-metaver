@@ -10,9 +10,15 @@ Geodatendienst
 
 Ein Geodatendienst ist ein in der Regel über das Internet angebotener Dienst, mit dessen Hilfe man sich Geodaten anschauen, einbinden, bearbeiten oder abfragen kann. Geodatendienste sind Webservices, die raumbezogene Informationen verarbeiten und vom Open Geospatial Consortium (OGC) auf Basis von ISO-Normen international standardisiert wurden.
 
-Ein Dienst stellt immer bereits vorhandene Daten vom Typ „Geodatensatz“ zur Verfügung. Im Metadatensatz des Dienstes wird daher angeben, auf welche Geodaten sich dieser Dienst tatsächlich bezieht. Aus diesem Grunde werden zuerst die Metadatensätze für diejenigen Geodaten erstellt, die der Dienst umfasst. Anschließend wird auf genau diese Metadatenbeschreibung bei der Beschreibung des Dienstes verlinkt (siehe Daten-Dienste-Kopplung).
+Einem Geodatendienst kann ein Geodatensatz zu geordnet werden, dieser beschreibt dann die Daten die im Geodatendienst enthalten sind. Einem Geodatendienst können auch mehrere Geodatensätze zugeordnet werden, diese beschreiben dann die Layer, die im Geodatendienst enthalten sind. 
+Einem Geodatensatz können unterschiedliche Geodatendienste zugeordnet werden (z.B. WMS-, WFS-, Atom-Dienste), der Geodatensatz beschreibt dann die Daten, die in den Geodatendiensten enthalten sind.
+
+Wenn ein Geodatensatz einem Geodatendienst zugeordnet wird, dann werden diese Metadatensätze miteinander gekoppelt (Datenkopplung). Das bedeutet,der Geodatensatz verweist durch eine Verlinkung auf den Geodatendienst, der Geodatendienst wiederum verweist durch eine Verlinkung auf den Geodatensatz.
+
 
 Zu den Geodatendiensten zählen:
+
+  - Atom-Feed (Web-Feeds im XML-Format)
 
   - WMS (Web Map Service)
 
@@ -26,11 +32,13 @@ Zu den Geodatendiensten zählen:
 
   - CSW (Catalogue Service Web)
 
-Alle im Rahmen von INSPIRE zu erfassenden Geodatendienste müssen auch als Objektklasse "Geodatendienst" angelegt werden.
 
 
 Erfassung
 ---------
+
+
+
 
 Der getCapabilities-Assistent
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -397,6 +405,8 @@ Abschließend betätigen Sie den Button „Übernehmen“. Die gewählten Begrif
 
 Abschnitt Fachbezug
 ^^^^^^^^^^^^^^^^^^^
+
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-04_fachbezug/ige-abschnitt_fachbezug.png
 
 Klassifikation des Dienstes
 '''''''''''''''''''''''''''
