@@ -25,8 +25,8 @@ Beispiele:
 **Nachfolgend werden die Felder beschrieben, die in der Erfassungsmaske speziell für diesen Metadatentyp angezeigt werden.**
 
 
-Abschnitt Allgemein
-^^^^^^^^^^^^^^^^^^^
+Abschnitt Allgemeines
+^^^^^^^^^^^^^^^^^^^^^
 
 Checkbox INSPIRE-relevant
 '''''''''''''''''''''''''

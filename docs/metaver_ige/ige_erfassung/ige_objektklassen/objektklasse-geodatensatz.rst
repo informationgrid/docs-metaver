@@ -27,6 +27,12 @@ Beispiele:
 
 Abschnitt Allgemeines
 ^^^^^^^^^^^^^^^^^^^^^
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-abschnitt_allgemeines.png
+  :width: 300
+  
+img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst
+
+img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines
 
 Checkbox INSPIRE-relevant
 '''''''''''''''''''''''''

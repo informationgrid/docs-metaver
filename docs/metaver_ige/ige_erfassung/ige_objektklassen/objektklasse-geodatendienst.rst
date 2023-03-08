@@ -70,26 +70,6 @@ Der "getCapabilities Assistent" unterstützt folgende Dienste-Typen:
 Eine Ausnahme ist der Atom-Feed, dieser kann nicht über den GetCapabilitie Assistent abgerufen werden.
 
 
-Verantwortlicher
-''''''''''''''''
-Hier ist standardmäßig der Erfasser eingetragen, der das Objekt angelegt hat (z.B. Max Mustermann). An dieser Stelle sollte die Person stehen, die sich für dieses Objekt verantwortlich fühlt und dafür sorgt, dass das Objekt aktuell gehalten wird. Meistens ist daher der Erfasser zugleich auch der richtige Verantwortliche. (Nähere Informationen zur Qualitätssicherung finden Sie im Leitfaden der GDI-LSA „Qualitativ hochwertige Metadaten erfassen und pflegen“ bzw. in der „Anleitung für die Erfassung von Metadaten“). 
-
-**Hinweis:**
-*Wird bei eingeschalteter Qualitätssicherung das Verfallsdatum eines Objektes erreicht, so erhält der Verantwortliche eine E-Mail Benachrichtigung mit der Bitte, dieses Objekt zu aktualisieren.*
-
-Nach der Eingabe der Basisinformationen im Kopfbereich bietet es sich an, den Metadatensatz zwischen zu speichern. Grundsätzlich empfiehlt es sich, beim Ausfüllen der Felder von Zeit zu Zeit die eingegebenen Daten zu sichern, um beispielsweise bei einer abgelaufenen Session (Sitzung) die eingegeben Daten nicht zu verlieren. Das Zwischenspeichern ist jederzeit möglich, auch wenn noch nicht alle Pflichtfelder ausgefüllt sind.
-
-Unter den ersten drei Eingabefeldern im Kopf werden automatisiert weitere Informationen zum Objekt angezeigt.
-
-Erstellt am: Erstellungsdatum
-Geändert am: Änderungsdatum
-Objekt-ID: Die Objekt-ID wird nach dem ersten Speichern automatisch vergeben.
-Von: Max Mustermann (Bearbeiter)
-
-**Hinweis:**
-*Die Objekt-ID erscheint im Frontend-Metadatensatz in der Rubrik „Zusätzliche Info“,  sie ist nicht zu verwechseln mit dem Identifikator der Datenquelle!*
-
-
 
 INSPIRE-relevant
 ''''''''''''''''
