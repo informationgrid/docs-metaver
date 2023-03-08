@@ -56,7 +56,7 @@ Erfassung
 Der getCapabilities-Assistent
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Wird ein neues Objekt erstellt, öffnet sich der Assistent. Für ISO-konforme Geodatendienste kann hier der getCapabilties Assistent genutzt werden. Der getCapabilties Assistent unterstützt die Erfassung von Services (Diensten) bei der Objektklasse Geodatendienst. Geben Sie die getCapability-URL des Dienstes ein und betätigen Sie den Button "Erstellen". Der Assistent ruft den Dienst über die eingetragene URL ab und zeigt alle in der getCapability verfügbaren Informationen an. Der Erfasser kann dann die Metainformationen auswählen, die in den Metadatenkatalog übernommen werden sollen.
+Wird ein neues Objekt erstellt, öffnet sich der Erfassungsassistent. Für ISO-konforme Geodatendienste kann hier der getCapabilties Assistent genutzt werden. Der getCapabilties Assistent unterstützt die Erfassung von Services (Diensten) bei der Objektklasse Geodatendienst. Geben Sie die getCapability-URL des Dienstes ein und betätigen Sie den Button "Erstellen". Der Assistent ruft den Dienst über die eingetragene URL ab und zeigt alle in der getCapability verfügbaren Informationen an. Der Erfasser kann dann die Metainformationen auswählen, die in den Metadatenkatalog übernommen werden sollen.
 
 Der "getCapabilities Assistent" unterstützt folgende Dienste-Typen:
 
