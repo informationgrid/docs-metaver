@@ -45,7 +45,7 @@ Katalogdienst
  - CSW - Catalogue Service for the Web (Internet-gestützte Veröffentlichung von Informationen über Geoanwendungen, Geodienste und Geodaten (Metadaten) in einer Geodateninfrastruktur.)
 
 
-**Neben den Allgemeinen Metadaten, wie sie auch in den anderen Objektklassen unter `Erfassung von Objekten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html>`_ beschrieben sind, kommen in der Objektkasse Geodatendienst folgende Metadaten dazu.**
+**Neben den Allgemeinen Metadaten, wie sie auch in den anderen Objektklassen unter** `Erfassung von Objekten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html>`_ **beschrieben sind, kommen in der Objektkasse Geodatendienst folgende Metadaten dazu.**
 
 
 
@@ -56,7 +56,7 @@ Erfassung
 Der getCapabilities-Assistent
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Der getCapabilties Assistent unterstützt die Erfassung von Services (Diensten) in der Objektklasse Geodatendienst. Geben Sie die getCapability-URL des Dienstes ein und betätigen Sie den Button "Start". Der Assistent ruft den Dienst über diese URL ab und zeigt alle in der getCapability verfügbaren Informationen an. Der Erfasser kann dann die Metainformationen auswählen, die in den Metadatenkatalog übernommen werden sollen.
+Wird ein neues Objekt erstellt, öffnet sich der Assistent. Für ISO-konforme Geodatendienste kann hier der getCapabilties Assistent genutzt werden. Der getCapabilties Assistent unterstützt die Erfassung von Services (Diensten) bei der Objektklasse Geodatendienst. Geben Sie die getCapability-URL des Dienstes ein und betätigen Sie den Button "Erstellen". Der Assistent ruft den Dienst über die eingetragene URL ab und zeigt alle in der getCapability verfügbaren Informationen an. Der Erfasser kann dann die Metainformationen auswählen, die in den Metadatenkatalog übernommen werden sollen.
 
 Der "getCapabilities Assistent" unterstützt folgende Dienste-Typen:
 
@@ -69,6 +69,9 @@ Der "getCapabilities Assistent" unterstützt folgende Dienste-Typen:
  
 Eine Ausnahme ist der Atom-Feed, dieser kann nicht über den GetCapabilitie Assistent abgerufen werden.
 
+
+Abschnitt Allgemeines
+---------------------
 
 
 INSPIRE-relevant
