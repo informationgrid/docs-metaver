@@ -41,12 +41,7 @@ Erfassung
 Der getCapabilities-Assistent
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Der getCapabilties Assistent unterstützt die Erfassung von Services in der Objektklasse Geodatendienst.
- 
- 
-Hierzu geben Sie die getCapability-URL des Dienstes an und betätigen Sie "Start".
- 
-Der Assistent fragt den Dienst über diese URL ab und trägt alle in der getCapability verfügbaren Informationen in das Metadaten-Objekt ein. Dies sind Informationen wie Titel und Beschreibung aber z.B. auch die vom Dienst zur Verfügung gestellten Operationen.
+Der getCapabilties Assistent unterstützt die Erfassung von Services (Diensten) in der Objektklasse Geodatendienst. Geben Sie die getCapability-URL des Dienstes ein und betätigen Sie den Button "Start". Der Assistent ruft den Dienst über diese URL ab und zeigt alle in der getCapability verfügbaren Informationen an. Der Erfasser kann dann die Metainformationen auswählen, die in den Metadatenkatalog übernommen werden sollen.
 
 Der "getCapabilities Assistent" unterstützt folgende Dienste-Typen:
 
@@ -55,23 +50,23 @@ Darstellungsdienste
 '''''''''''''''''''
 
 WMS - Web Map Service
-WMS-Server kann angeforderte Karten aus Rasterdaten oder Vektordaten visualisieren.
+(Server kann angeforderte Karten aus Rasterdaten oder Vektordaten visualisieren.)
 
 WMTS - Web Map Tile Service
-Webservice, um digitale Karten kachelbasiert anbieten und abrufen zu können.
+(Webservice, um digitale Karten kachelbasiert anbieten und abrufen zu können.)
 
 
 Downloaddienste
 ''''''''''''''''
 
 WFS - Web Feature Service
-Internet-gestützter Zugriff auf Geodaten (Vektordaten).
+(Internet-gestützter Zugriff auf Geodaten (Vektordaten).)
 
 WCS - Web Coverage Service
-Der WCS stellt verfügbare Daten zusammen mit ihren detaillierten Beschreibungen (Metadaten) bereit und definiert eine reiche Syntax für Anfragen auf diese Daten und Metadaten. Er liefert multidimensionale Daten zurück.
+(Der WCS stellt verfügbare Daten mit detaillierten Beschreibungen (Metadaten) bereit und definiert eine reiche Syntax für Anfragen auf diese Daten und Metadaten. Er liefert multidimensionale Daten zurück.
 
 WCS-T - Web Coverage Service – Transaktion
-Definiert, wie neue Coverages (Vektordatenformate) auf einen Server hochgeladen werden können bzw. bereits vorhandene Coverages geändert werden können.
+(Definiert, wie neue Coverages (Vektordatenformate) auf einen Server geladen werden können bzw. bereits vorhandene Coverages geändert werden können.)
 
 
 Katalogdienst
