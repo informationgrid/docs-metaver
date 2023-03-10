@@ -58,7 +58,7 @@ Der getCapabilities-Assistent
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_assistenten/ige-objekt-anlegen_assistent_1.png
 	
-Abb.: Der Erfassungsassistent
+Abb.: Der Erfassungsassistent - Auswahl des getCapabilitie Assistenten
 
 	
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_assistenten/ige-objekt-anlegen_getcapabilitie-assistent.png
