@@ -88,6 +88,11 @@ Abschnitt Allgemeines
 INSPIRE-relevant
 ''''''''''''''''
 
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_checkbox-inspire-relevant-dienst.png
+
+Abb.: Checkbox INSPIRE-relevant
+
+
 Dieses Feld definiert (wenn aktiviert) dass ein Metadatensatz für das INSPIRE-Monitoring vorgesehen ist.
 
 Folgende Eigenschaften ändern sich bei der Aktivierung der Checkbox:
@@ -99,6 +104,10 @@ Die als INSPIRE-relevant markierten Datensätze werden im INSPIRE GeoPortal (htt
 
 AdV kompatibel
 ''''''''''''''
+
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_checkbox-adv-kompatibel.png
+
+Abb.: Checkbox INSPIRE-relevant
 
 Wird die Checkbox "AdV kompatibel" aktiviert, werden die Anforderungen des AdV-Metadatenprofils umgesetzt (z.B. Automatisiertes Setzen des Schlüsselwortes "AdVMIS" in der Datenbank).
 
