@@ -57,8 +57,9 @@ Der getCapabilities-Assistent
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_assistenten/ige-objekt-anlegen_assistent_1.png
-
    :width: 500
+   
+
 	
 Abb.: Der Erfassungsassistent - Auswahl des getCapabilitie Assistenten
 
@@ -86,6 +87,8 @@ Abschnitt Allgemeines
 ---------------------
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-abschnitt_allgemeines.png
+
+
 
 INSPIRE-relevant
 ''''''''''''''''
@@ -144,57 +147,17 @@ Bei Eintragung oder Löschen eines INSPIRE-Themas werden im Pflichtfeld Spezifik
 *Dieses Feld ist nur ein Pflichtfeld, wenn in das Feld "INSPIRE-relevant" ein Häkchen gesetzt wurde.*
  
 
-Auswahlliste INSPIRE-Themen
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_erfassung/ige_objekte/ige_abschnitt-03_verschlagwortung/ige-verschlagwortung_inspire-themen.png
 
-  1.  Kein INSPIRE-Thema
-  2.  Adressen
-  3.  Atmosphärische Bedingungen
-  4.  Bewirtschaftungsgebiete/Schutzgebiete/geregelte Gebiete und Berichterstattungseinheiten
-  5.  Biogeografische Regionen
-  6.  Boden
-  7.  Bodenbedeckung
-  8.  Bodennutzung
-  9.  Energiequellen
-  10. Flurstücke/Grundstücke (Katasterparzellen)
-  11. Gebäude
-  12. Gebiete mit naturbedingten Risiken
-  13. Geografische Bezeichnungen
-  14. Geografische Gittersysteme
-  15. Geologie
-  16. Gesundheit und Sicherheit
-  17. Gewässernetz
-  18. Höhe
-  19. Koordinatenreferenzsysteme
-  20. Landwirtschaftliche Anlagen und Aquakulturanlagen
-  21. Lebensräume und Biotope
-  22. Meeresregionen
-  23. Meteorologisch-geografische Kennwerte
-  24. Mineralische Bodenschätze
-  25. Orthofotografie
-  26. Ozeanografisch-geografische Kennwerte
-  27. Produktions- und Industrieanlagen
-  28. Schutzgebiete
-  29. Statistische Einheiten
-  30. Umweltüberwachung
-  31. Verkehrsnetze
-  32. Versorgungswirtschaft und staatliche Dienste
-  33. Verteilung der Arten
-  34. Verteilung der Bevölkerung - Demografie
-  35. Verwaltungseinheiten
-
+Abb.: `Auswahlliste INSPRE-Themen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_inspire_themen.html>`_
 
  
-
 INSPIRE - priority data set (optionales Feld)
 Priority Data Sets sind jene Geodatensätze, die für die Berichterstattung im Rahmen der EU-Umwelt-Richtlinien bereitgestellt werden (Berichtsdatensätze). Dazu ist je nach Betroffenheit von den Umweltberichterstattungspflichten die entsprechende/-n Rechtsschrift/-en aus der Liste auszuwählen.
 
-Auszug aus der Auswahlliste INSPIRE - priority data set
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_erfassung/ige_objekte/ige_abschnitt-03_verschlagwortung/ige-verschlagwortung_inspire-priority-data-set.png
 
-  1. Lärmbelastung durch Hauptverkehrsstraßen - Tag-Abend-Nacht-Lärmindex (Umgebungslärmrichtlinie) {en: Major roads noise exposure delineation day-evening-night (Noise Directive)}
-  2. Lärmbelastung in Ballungsräumen - Tag-Abend-Nacht-Lärmindex (Umgebungslärmrichtlinie) {en: Agglomerations - noise exposure delineation day-evening-night (Noise Directive)}
-  3. Location of boreholes {en: Location of boreholes}
-  4. Kommunale Abwasserbehandlungsanlagen (Kommunalabwasserrichtlinie) {en: Urban waste-water treatment plants (Urban Waste Water Treatment Directive)}
-  5. Schadstofffreisetzungen (Europäisches Schadstofffreisetzungs- und -verbringungsregister) {en: Actual pollutant 
+Abb.: `Auswahlliste - priority data set <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_inspire_priority-data-set.html>`_
 
 
 INSPIRE - Räumlicher Anwendungsbereich (optionales Feld)
@@ -202,11 +165,9 @@ INSPIRE - Räumlicher Anwendungsbereich (optionales Feld)
 
 Das Schlagwort "Räumlicher Anwendungsbereich" wird im Rahmen des INSPIRE-Monitorings verwendet, um die flächenmäßige Abdeckung der INSPIRE-relevanten Geodatensätze auszuwerten. INSPIRE-relevante Geodatensätze müssen aus den zur Auswahl stehenden Werten entweder mit "National", "Regional" oder "Lokal" beschrieben werden.
 
-Auswahlfeld INSPIRE - Räumlicher Anwendungsbereich
-  - Europäisch
-  - Global	 - Lokal
-  - National	 - Regional
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_erfassung/ige_objekte/ige_abschnitt-03_verschlagwortung/ige-verschlagwortung_inspire-raeumlicher-anwendungsbereich.png
 
+Abb.: `Auswahlliste - INSPIRE - Räumlicher Anwendungsbereich<https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_inspire_priority-data-set.html>`_
 
 
 Abschnitt Fachbezug
