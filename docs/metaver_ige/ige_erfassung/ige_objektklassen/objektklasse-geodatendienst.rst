@@ -124,10 +124,6 @@ AdV Produktgruppe
 
 Abb.: `Auswahlliste AdV-Produktgruppe <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_adv_produktgruppe.html>`_
 
-
-
-auswahlliste_verschlagwortung_adv_produktgruppe.rst
-
 Auswahl einer Produktgruppe bzw. eines Fachthemas der AdV.
 
 **Hinweis:**
