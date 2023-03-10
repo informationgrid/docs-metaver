@@ -57,6 +57,8 @@ Der getCapabilities-Assistent
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_assistenten/ige-objekt-anlegen_assistent_1.png
+
+   :width: 500
 	
 Abb.: Der Erfassungsassistent - Auswahl des getCapabilitie Assistenten
 
@@ -111,22 +113,16 @@ Abb.: Checkbox INSPIRE-relevant
 
 Wird die Checkbox "AdV kompatibel" aktiviert, werden die Anforderungen des AdV-Metadatenprofils umgesetzt (z.B. Automatisiertes Setzen des Schlüsselwortes "AdVMIS" in der Datenbank).
 
-Open Data
-'''''''''
-
-Diese Checkbox kennzeichnet den Metadatensatz als "Open Data"-Objekt.
-Es sind dann zusätzlich folgende Angaben verpflichtend:
-
-  - In der (nur für OpenData) erscheinenden Tabelle "Kategorien" muss mindestens ein Wert eingetragen werden.
-  - Unter Verweisen muss mindestens ein Verweis vom Typ "Datendownload" eingetragen werden.
-  - Unter "Nutzungsbedingung" muss mindestens ein Eintrag vorhanden sein.
-
 
 Abschnitt Verschlagwortung
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 AdV Produktgruppe
 '''''''''''''''''
+
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_erfassung/ige_objekte/ige_abschnitt-03_verschlagwortung/ige-verschlagwortung_adv-produktgruppe.png
+
+Abb.: Auswahlliste AdV-Produktgruppe
 
 Auswahl einer Produktgruppe bzw. eines Fachthemas der AdV.
 
