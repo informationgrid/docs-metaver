@@ -56,8 +56,14 @@ Erfassung
 Der getCapabilities-Assistent
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-	.. image:: ../../../img_ige/metaver_ige/ige_icons/objekte/portal/geodatendienst.png, .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_assistenten/ige-objekt-anlegen_assistent.png
+.. image:: ../../../img_ige/metaver_ige/ige_icons/objekte/portal/geodatendienst.png, .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_assistenten/ige-objekt-anlegen_assistent_1.png
 	
+Abb.: Der Erfassungsassistent
+
+	
+.. image:: ../../../img_ige/metaver_ige/ige_icons/objekte/portal/geodatendienst.png, .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_assistenten/ige-objekt-anlegen_getcapabilitie-assistent.png
+	
+Abb.: Der getCapabilitie Assistent
 
 Wird ein neues Objekt erstellt, öffnet sich der Erfassungsassistent. Für ISO-konforme Geodatendienste kann der darin enthaltene getCapabilties Assistent genutzt werden. Der getCapabilties Assistent holt sich die Metadaten aus der XML des Geodatendienstes. Diese können für das Befüllen der Objektklasse Geodatendienst genutzt werden. 
 
