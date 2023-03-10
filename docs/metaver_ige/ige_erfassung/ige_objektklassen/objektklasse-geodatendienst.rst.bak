@@ -161,13 +161,13 @@ Abb.: `Auswahlliste - priority data set <https://metaver-bedienungsanleitung.rea
 
 
 INSPIRE - Räumlicher Anwendungsbereich (optionales Feld)
-'''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Das Schlagwort "Räumlicher Anwendungsbereich" wird im Rahmen des INSPIRE-Monitorings verwendet, um die flächenmäßige Abdeckung der INSPIRE-relevanten Geodatensätze auszuwerten. INSPIRE-relevante Geodatensätze müssen aus den zur Auswahl stehenden Werten entweder mit "National", "Regional" oder "Lokal" beschrieben werden.
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-03_verschlagwortung/ige-verschlagwortung_inspire-raeumlicher-anwendungsbereich.png
 
-Abb.: `Auswahlliste - INSPIRE-Räumlicher Anwendungsbereich<https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_inspire_raeumlicher-anwendungsbereich.html>`_
+Abb.: `Auswahlliste - INSPIRE-Räumlicher Anwendungsbereich <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_inspire_raeumlicher-anwendungsbereich.html>`_
 
 
 Abschnitt Fachbezug
@@ -182,7 +182,7 @@ Aus der vorgegebenen Auswahlliste ist der Eintrag zu wählen, der auf den Dienst
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienstfachbezug_klassifikation-des-dienstes.png
 
-Abb.: `Auswahlliste - Klassifikation des Dienstes<https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_geodatendienst_klassifikation.html>`_
+Abb.: `Auswahlliste - Klassifikation des Dienstes <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_geodatendienst_klassifikation.html>`_
 
 
 Art des Dienstes
