@@ -266,31 +266,10 @@ Name der Operation
 
 Name der von einem Dienst bereitgestellten Funktion/Operation. Hier muss ein eindeutiger Bezeichner für die beschriebene Operation eingegeben werden.
 
-Art des Dienstes	Name der Operation
 
-  - Darstellungsdienste	 - GetCapabilities (WMS)
-  - GetFeatureInfo (WMS)
-  - GetMap (WMS)
-  - Dienste zum Abrufen von Geodatendiensten	
-  - Download-Dienste	 - DescripeFeatureType (WFS)
-  - GetDownloadMetadata (Atom)
-  - GetCapabilities (WFS)
-  - GetFeature (WFS)
-  - LockFeature
-  - Transaction
-  - Sonstige Dienste	
-  - Suchdienste	 - DescribeRecord
-  - GetCapabilities
-  - GetDomain
-  - GetRecordById
-  - GetRecords
-  - Harvest
-  - Transaction
-  - Transformationsdienste	 - GetCapabilities
-  - GetRecourceById
-  - GetTransformation	
-  - IsTransformable
-  - Transform
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/operationen/fachbezug_name-der-operation.png
+
+Abb.: `Auswahlliste - Art des Dienstes <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_operationen_name-der-operation.html>`_
 
 
 Zugriffsadresse
