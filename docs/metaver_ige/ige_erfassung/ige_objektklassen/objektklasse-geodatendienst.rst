@@ -180,79 +180,10 @@ Klassifikation des Dienstes
 
 Aus der vorgegebenen Auswahlliste ist der Eintrag zu wählen, der auf den Dienst zutrifft. Bei WebMapDiensten (WMS) kann beispielsweise „Dienst für den Zugriff auf grafische Darstellungen ausgewählt werden. Dieses Feld dient in erster Linie der Identifikation eines Dienstes durch den recherchierenden Nutzer. 
 
-Auswahlliste Klassifikation des Dienstes
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-03_verschlagwortung/fachbezug_klassifikation-des-dienstes.png
 
-  - Abonnementdienst
-  - Analysedienst für räumliche Nachbarschaftsbeziehungen
-  - Analysedienst für zeitbezogene Nachbarschaftsbeziehungen
-  - Auflösungsreduzierungsdienst
-  - Aufrufprogramm für Bearbeitungsketten
-  - Auftragsdienst
-  - Auszugsdienste für geografische Informationen
-  - Berechnungsdienst für Geoparameter
-  - Betrachter für geografische Datenstrukturen
-  - Bildbearbeitungsdienste
-  - Bildsynthesedienste
-  - Codierungsdienst
-  - Dauerauftragsdienst
-  - Dienst für den Zugriff auf externe Daten und Programme (Atom)
-  - Dienst für den Zugriff auf grafische Darstellungen (WMS)
-  - Dienst für den Zugriff auf Objektarten (Atom)
-  - Dienst für den Zugriff auf Objekte (WFS)
-  - Dienst für den Zugriff auf Produkte
-  - Dienst für den Zugriff auf Rasterdaten
-  - Dienst für die Ausführung von Bearbeitungsketten
-  - Dienst für die Beschreibung von Sensoren
-  - Dienst für die Definition von Bearbeitungsketten
-  - Dienst für die Justierung von Geometriemodellen von Sensoren
-  - Dienst für die Konversion von Bildkoordinaten
-  - Dienst für die Konversion von Geometriemodellen
-  - Dienst für die Konversion von Koordinaten
-  - Dienst für die thematische Klassifizierung
-  - Dienst für die Transformation von Koordinaten
-  - Dienst für die Umwandlung zwischen Raster- und Vektordaten	 - Dienst für geografische Tabellenkalkulation
-  - Dienst für geografische Visualisierung
-  - Dienst für statistische Berechnungen
-  - Editor für die Definition von Bearbeitungsketten
-  - Editor für die Objektgeneralisierung
-  - Editor für geografische Objekte
-  - Editor für geografische Symbole
-  - Editor für Verarbeitungsdienste
-  - Entzerrungsdienst
-  - Ergänzungsdienste für Geodaten
-  - Erkennungsdienst für Veränderungen
-  - Gazetteerdienst
-  - Generalisierungsdienst
-  - Generalisierungsdienst für Objektarten
-  - Geocodierungsdienst
-  - Geografischer Ausschnittsdienst
-  - Geoparserdienst
-  - Interpretationsdienste für Bilder
-  - Kachelungsdienst
-  - Katalogdienst (Service)
-  - Katalogdienst (Viewer)
-  - Kompressionsdienst für Geodaten
-  - Messungsdienst
-  - Multiband-Bildbearbeitung
-  - Nachrichtenübermittlungsdienst
-  - Objektbearbeitungsdienste
-  - Objekterkennungsdienst
-  - Ortho-Entzerrungsdienst
-  - Positionierungsdienst
-  - Raumbezogener Auswahldienst
-  - Registerdienst
-  - Routensuchdienst
-  - Themenbezogener Ausschnittsdienst
-  - Themenbezogener Bildverarbeitungsdienst
-  - Transformationsdienst für den Zeitbezug
-  - Übertragungsdienst
-  - Umformatierungsdienst für Geodaten
-  - Vergleichsdienst
-  - Zähldienst
-  - Zeitbezogener Ausschnittsdienst
-  - Zeitbezogener Auswahldienst
+Abb.: `Auswahlliste - Klassifikation des Dienstes<https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_geodatendienst_klassifikation.html>`_
 
- 
 
 Art des Dienstes
 ''''''''''''''''
