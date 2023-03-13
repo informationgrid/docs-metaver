@@ -23,6 +23,7 @@ Checkbox AdV kompatibel
 '''''''''''''''''''''''
 
 .. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-adv-kompatibel/checkbox-adv-kompatibel.png
+  :width: 150
 
 Abb.: Checkbox AdV kompatibel
 
