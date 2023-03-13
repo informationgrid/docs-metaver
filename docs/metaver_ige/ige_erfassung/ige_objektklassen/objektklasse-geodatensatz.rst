@@ -16,7 +16,7 @@ Werden die beschriebenen Daten über einen Webdienst (z.B. OGC Web-Mapping-Servi
 Abschnitt Allgemeines
 ^^^^^^^^^^^^^^^^^^^^^
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-abschnitt_allgemeines.png
-  :width: 300
+
 
 Checkbox INSPIRE-relevant
 '''''''''''''''''''''''''
@@ -27,6 +27,7 @@ Wenn diese Checkbox aktiviert ist, werden die Metadaten an das INSPIRE Geoportal
 
 Abb.: Checkbox INSPIRE-relevant
 
+`Checkbox INSPIRE-relevant<https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/option/inspire-relevant.html>`_
 
 .. toctree::
    :maxdepth: 1
@@ -57,95 +58,6 @@ Die Checkbox Open Data ist unter Erfassung von Objekten / Abschnitt Allgemeines 
 
 Abschnitt Verschlagwortung
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-AdV Produktgruppe
-'''''''''''''''''
-Auswahl einer Produktgruppe bzw. eines Fachthemas der AdV.
-
-**Hinweis:**
-*Dieses Feld ist nur ein Pflichtfeld, wenn die Checkbox "AdV kompatibel" aktiviert wurde.*
-
-INSPIRE-Themen
-''''''''''''''
-Auswahl eines INSPIRE Themengebiets für die Verschlagwortung des Geodatensatzes (INSPIRE-Pflichtfeld).
-
-Bei Eintragung oder Löschen eines INSPIRE-Themas werden im Pflichtfeld Spezifikation der Konformität automatisch Einträge vorgenommen bzw. entfernt.
-
-**Beispiel:** *Boden*
-*(automatischer Eintrag im Abschnitt "Zusatzinformation", Feld: "Konformität": "VERORDNUNG (EG) Nr. 1089/2010 - INSPIRE Durchführungsbestimmung Interoperabilität von Geodatensätzen und -diensten: konform / nicht konform")*
-
-**Achtung!**
-*Dieses Feld ist nur ein Pflichtfeld, wenn in das Feld "INSPIRE-relevant" ein Häkchen gesetzt wurde.*
-
-Über ein Dropdownmenü öffnet sich die Liste aller INSPIRE-Themengebiete, aus der das zutreffende Thema auszuwählen ist. Handelt es sich bei den beschriebenen Daten um keinen INSPIRE-relevanten Geodatensatz, so ist "kein INSPIRE-Thema" aus der Liste auszuwählen. 
-
-Auswahlliste INSPIRE-Themen
-
-1.	Kein INSPIRE-Thema
-2.	Adressen
-3.	Atmosphärische Bedingungen
-4.	Bewirtschaftungsgebiete/
-Schutzgebiete/geregelte Gebiete und Berichterstattungseinheiten
-5.	Biogeografische Regionen
-6.	Boden
-7.	Bodenbedeckung
-8.	Bodennutzung
-9.	Energiequellen
-10.	Flurstücke/Grundstücke (Katasterparzellen)
-11.	Gebäude
-12.	Gebiete mit naturbedingten Risiken
-13.	Geografische Bezeichnungen
-14.	Geografische Gittersysteme
-15.	Geologie
-16.	Gesundheit und Sicherheit
-17.	Gewässernetz	18.	Höhe
-19.	Koordinatenreferenzsysteme
-20.	Landwirtschaftliche Anlagen und Aquakulturanlagen
-21.	Lebensräume und Biotope
-22.	Meeresregionen
-23.	Meteorologisch-geografische Kennwerte
-24.	Mineralische Bodenschätze
-25.	Orthofotografie
-26.	Ozeanografisch-geografische Kennwerte
-27.	Produktions- und Industrieanlagen
-28.	Schutzgebiete
-29.	Statistische Einheiten
-30.	Umweltüberwachung
-31.	Verkehrsnetze
-32.	Versorgungswirtschaft und staatliche Dienste
-33.	Verteilung der Arten
-34.	Verteilung der Bevölkerung - Demografie
-35.	Verwaltungseinheiten
-
- 
-
-INSPIRE - priority data set (optionales Feld)
-'''''''''''''''''''''''''''''''''''''''''''''
-
-Priority Data Sets sind jene Geodatensätze, die für die Berichterstattung im Rahmen der EU-Umwelt-Richtlinien bereitgestellt werden (Berichtsdatensätze). Dazu ist je nach Betroffenheit von den Umweltberichterstattungspflichten die entsprechende/-n Rechtsschrift/-en aus der Liste auszuwählen.
-
-Auszug aus der Auswahlliste INSPIRE - priority data set
-
-1.	Lärmbelastung durch Hauptverkehrsstraßen - Tag-Abend-Nacht-Lärmindex (Umgebungslärmrichtlinie) {en: Major roads noise exposure delineation day-evening-night (Noise Directive)}
-2.	Lärmbelastung in Ballungsräumen - Tag-Abend-Nacht-Lärmindex (Umgebungslärmrichtlinie) {en: Agglomerations - noise exposure delineation day-evening-night (Noise Directive)}
-3.	Location of boreholes {en: Location of boreholes}
-4.	Kommunale Abwasserbehandlungsanlagen (Kommunalabwasserrichtlinie) {en: Urban waste-water treatment plants (Urban Waste Water Treatment Directive)}
-5.	Schadstofffreisetzungen (Europäisches Schadstofffreisetzungs- und -verbringungsregister) {en: Actual pollutant 
-
-**Hinweis:** *Die vollständige Liste finden Sie als Anlage am Ende dieses Dokumentes.*
-
- 
-
-INSPIRE - Räumlicher Anwendungsbereich (INSPIRE-Pflichtfeld)
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-
-Das Schlagwort "Räumlicher Anwendungsbereich" wird im Rahmen des INSPIRE-Monitorings verwendet, um die flächenmäßige Abdeckung der INSPIRE-relevanten Geodatensätze auszuwerten. INSPIRE-relevante Geodatensätze müssen aus den zur Auswahl stehenden Werten entweder mit "National", "Regional" oder "Lokal" beschrieben werden.
-
-Auswahlfeld INSPIRE - Räumlicher Anwendungsbereich
- - Europäisch
- - Global	 - Lokal
- - National	 - Regional
-
 
 ISO-Themenkategorie
 '''''''''''''''''''
