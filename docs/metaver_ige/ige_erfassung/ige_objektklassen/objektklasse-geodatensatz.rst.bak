@@ -27,39 +27,21 @@ Beispiele:
 
 Abschnitt Allgemeines
 ^^^^^^^^^^^^^^^^^^^^^
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-abschnitt_allgemeines.png
+  :width: 300
 
 Checkbox INSPIRE-relevant
 '''''''''''''''''''''''''
 
+
+
 Wenn diese Checkbox aktiviert ist, werden die Metadaten an das INSPIRE Geoportal der EU (https://inspire-geoportal.ec.europa.eu/) weitergeleitet und veröffentlicht. Die Daten und die Metadaten unterliegen in dem Fall der INSPIRE-Richtlinie.
 
-Der Geodatensatz wird über die Registry an die EU gemeldet und in einem Monitoringprozess überwacht.
 
 Folgende Eigenschaften ändern sich bei der Aktivierung der Checkbox:
  - Aktivierung des Schlagwortes "inspireidentifiziert" während der ISO-XML Generierung
  - Verpflichtende Angabe eines INSPIRE-Themas im Abschnitt "Verschlagwortung"
 
-
-Checkbox konform
-''''''''''''''''
-
-[Grafik]
-
-Der Geodatensatz wird an INSPIRE gemeldet und liegt im INSPIRE-DatenSchema vor. Der Grad der Konformität (im Abschnitt: "Zusatzinformation", Tabelle: Konformität) zur Spezifikation (VO 1089/2010) wird auf "true" gesetzt.
-
-**Hinweis:** 
-Dieses Feld erscheint nur, wenn vorher die Checkbox "INSPIRE-relevant" aktiviert wurde.
-
-
-Checkbox nicht konform
-'''''''''''''''''''''''
-
-[Grafik]
-
-Geodatensatz wird an INSPIRE gemeldet, liegt aber nicht im INSPIRE-DatenSchema vor. Der Grad der Konformität zur Spezifikation (VO 1089/2010) kann durch den Anwender (im Abschnitt: "Zusatzinformation", Tabelle: Konformität) nur auf "false" oder "nicht evaluiert" gesetzt werden.
-
-**Hinweis**
-Dieses Feld erscheint nur, wenn vorher die Checkbox "INSPIRE-relevant" aktiviert wurde.
 
 
 Checkbox AdV kompatibel
