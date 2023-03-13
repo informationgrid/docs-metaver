@@ -32,7 +32,7 @@ Abschnitt Allgemeines
 Checkbox INSPIRE-relevant
 '''''''''''''''''''''''''
 
-.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-inspire-relevant/ige-allgemeines_checkbox-inspire-relevant-dienst.png
+.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-inspire-relevant/checkbox-inspire-relevant-dienst.png
 
 Abb.: Checkbox INSPIRE relevant
 
@@ -128,18 +128,10 @@ Abschnitt Zusatzinformation
 
 Abb.: Tabelle "Konformität" - Grad der Konformität: konform
 
-.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-inspire-relevant/iso-xml-konformitaet-true.png
-
-Abb.: ISO-XML - Angabe der Konformität: true
-
 
 .. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-inspire-relevant/zusatzinformation-konformitaet-konform.png
 
 Abb.: Tabelle "Konformität" - Grad der Konformität: nicht konform
-
-.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-inspire-relevant/iso-xml-konformitaet-false.png
-
-Abb.: ISO-XML - Angabe der Konformität: false
 
 
 .. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-inspire-relevant/zusatzinformation-konformitaet-operation-bearbeiten.png
