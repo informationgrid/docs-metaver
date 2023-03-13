@@ -25,7 +25,7 @@ Checkbox INSPIRE-relevant
 
 Wenn diese Checkbox aktiviert ist, werden die Metadaten an das INSPIRE Geoportal der EU (https://inspire-geoportal.ec.europa.eu/) weitergeleitet und veröffentlicht. Die Daten und die Metadaten unterliegen in dem Fall der INSPIRE-Richtlinie.
 
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-inspire-relevant/option-konform.png
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-inspire-relevant/checkbox-inspire-relevant-dienst.png
 
 Abb.: Checkbox INSPIRE-relevant
 
@@ -41,7 +41,7 @@ Abb.: Checkbox INSPIRE-relevant
 Checkbox AdV kompatibel
 '''''''''''''''''''''''
 
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-inspire-relevant/option-konform.png
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-adv-kopatibel/checkbox-adv-kompatibel.png
 
 Abb.: Checkbox AdV kompatibel
 
@@ -51,7 +51,7 @@ Bei der Aktivierung der Checkbox "AdV kompatibel" werden die Anforderungen des A
 Checkbox Open Data
 ''''''''''''''''''
 
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-inspire-relevant/option-konform.png
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-open-data/checkbox-open-data.png
 
 Abb.: Checkbox Open Data
 

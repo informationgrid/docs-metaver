@@ -28,7 +28,7 @@ Beispiele:
 Abschnitt Allgemeines
 ''''''''''''''''''''''
 .. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-abschnitt_allgemeines.png
-  :width: 300
+
 
 
 Checkbox INSPIRE-relevant
@@ -92,7 +92,7 @@ Abschnitt Verschlagwortung
 ''''''''''''''''''''''''''
 
 .. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-abschnitt_verschlagwortung.png
-  :width: 300
+
 
 .. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-inspire-relevant/verschlagwortung_inspire-themen.png
 
@@ -119,7 +119,7 @@ Abschnitt Zusatzinformation
 '''''''''''''''''''''''''''
 
 .. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-abschnitt_zusatzinformation.png
-  :width: 300
+
 
 .. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-inspire-relevant/zusatzinformation-konformitaet-konform.png
 

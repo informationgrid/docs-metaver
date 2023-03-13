@@ -34,7 +34,7 @@ Abschnitt Allgemeines
 Checkbox INSPIRE-relevant
 '''''''''''''''''''''''''
 
-.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-inspire-relevant/option-konform.png
+.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-inspire-relevant/ige-allgemeines_checkbox-inspire-relevant-dienst.png
 
 Abb.: Checkbox INSPIRE relevant
 
