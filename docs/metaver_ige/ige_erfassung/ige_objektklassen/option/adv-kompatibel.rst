@@ -22,7 +22,7 @@ Abschnitt Allgemeines
 Checkbox AdV kompatibel
 '''''''''''''''''''''''
 
-.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-adv-kompatibel/ige-allgemeines_checkbox-adv-kompatibel.png
+.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-adv-kompatibel/checkbox-adv-kompatibel.png
 
 Abb.: Checkbox AdV kompatibel
 
@@ -36,15 +36,15 @@ Folgende Eigenschaften ändern sich bei der Aktivierung der Checkbox AdV kompati
 Abschnitt Verschlagwortung
 ''''''''''''''''''''''''''
 
-.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-abschnitt_verschlagwortung.png
+.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-03_verschlagwortung/ige-abschnitt_verschlagwortung.png
 
 
 .. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-adv-kompatibel/verschlagwortung_adv-produktgruppe.png
 
 Abb.: Tabelle "AdV-Produktgruppe" - (Pflichtangaben)
 
-`Auswahlliste - AdV-Produktgruppe<https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_adv_produktgruppe.html>`_
+`Auswahlliste - AdV-Produktgruppe <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_adv_produktgruppe.html>`_
 
-.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-inspire-relevant/iso-xml-konformitaet-false.png
+.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-adv-kompatibel/iso-xml-keyword-advmis.png
 
 Abb.: ISO-XML - Angabe des Schlüsselwortes "AdVMIS"
