@@ -54,7 +54,7 @@ Option konform
 ''''''''''''''
 
 .. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-inspire-relevant/option-konform.png
-  :width: 150
+  :width: 100
 
 Abb.: Option INSPIRE konform
 
@@ -74,7 +74,7 @@ Option nicht konform
 ''''''''''''''''''''
 
 .. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-inspire-relevant/option-nicht-konform.png
-  :width: 150
+  :width: 100
 
 Abb: Option INSPIRE konform
   
