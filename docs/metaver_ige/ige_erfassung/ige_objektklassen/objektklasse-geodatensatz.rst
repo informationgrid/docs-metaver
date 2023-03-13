@@ -8,7 +8,9 @@ Geodatensatz
 
     .. image:: ../../../img_ige/metaver_ige/ige_icons/objekte/portal/geodatensatz.png, .. image:: ../../../img_ige/metaver_ige/ige_icons/objekte/ige/geodatensatz.png
 
-Die Objektklasse Geodatensatz dient der Beschreibung von Daten mit direktem oder indirektem Raumbezug (digital oder analog). Beispiele: GIS-Daten, analoge Karten oder Kartenwerke
+Die Objektklasse Geodatensatz dient der Beschreibung von Daten mit direktem oder indirektem Raumbezug (digital oder analog).
+
+**Beispiele:** *GIS-Daten, analoge Karten oder Kartenwerke*
 
 Werden die beschriebenen Daten über einen Webdienst (z.B. OGC Web-Mapping-Service (WMS)) bereitgestellt, sollte auf diesen Dienst, welcher als eigenes Objekt des Typs „Geodatendienst“ beschrieben ist, verwiesen werden (siehe Daten-Dienste-Kopplung).
 
