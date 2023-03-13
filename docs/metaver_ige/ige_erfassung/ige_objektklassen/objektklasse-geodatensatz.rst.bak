@@ -29,7 +29,6 @@ Wenn diese Checkbox aktiviert ist, werden die Metadaten an das INSPIRE Geoportal
 
 Abb.: Checkbox INSPIRE-relevant
 
-`Checkbox INSPIRE-relevant<https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/option/inspire-relevant.html>`_
 
 .. toctree::
    :maxdepth: 1
@@ -45,6 +44,11 @@ Checkbox AdV kompatibel
 Abb.: Checkbox AdV kompatibel
 
 Bei der Aktivierung der Checkbox "AdV kompatibel" werden die Anforderungen des AdV-Metadatenprofils umgesetzt (z.B. Automatisiertes Setzen des Schlüsselwortes "AdVMIS" in der Datenbank).
+
+.. toctree::
+   :maxdepth: 1
+   
+   ../../../metaver_ige/ige_erfassung/ige_objektklassen/option/adv-kompatibel.rst
 
 
 Checkbox Open Data

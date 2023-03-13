@@ -39,7 +39,7 @@ Abb.: Checkbox INSPIRE-relevant
 Checkbox AdV kompatibel
 '''''''''''''''''''''''
 
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-adv-kopatibel/checkbox-adv-kompatibel.png
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-adv-kompatibel/checkbox-adv-kompatibel.png
 
 Abb.: Checkbox AdV kompatibel
 
