@@ -18,9 +18,7 @@ Alle im Rahmen von INSPIRE zu erfassenden Geodaten müssen auch als Objektklasse
 Beispiele:
 
  - INSPIRE ST Geografische Bezeichnungen ATKIS Basis-DLM
-
  - INSPIRE ST Gewässernetz - Gewässerkundlicher Landesdienst
-
  - INSPIRE ST Umweltüberwachung - Gewässerkundlicher Landesdienst
 
 **Nachfolgend werden die Felder beschrieben, die in der Erfassungsmaske speziell für diesen Metadatentyp angezeigt werden.**
@@ -34,7 +32,7 @@ Abschnitt Allgemeines
 Checkbox INSPIRE-relevant
 '''''''''''''''''''''''''
 
-.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-inspire-relevant/option-konform.png
+.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-inspire-relevant/ige-allgemeines_checkbox-inspire-relevant-dienst.png
 
 Abb.: Checkbox INSPIRE relevant
 
