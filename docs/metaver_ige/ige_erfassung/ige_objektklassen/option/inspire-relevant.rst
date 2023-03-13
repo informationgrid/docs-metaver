@@ -15,7 +15,7 @@ Erfassung
 
 Alle im Rahmen von INSPIRE zu erfassenden Geodaten müssen als Objektklasse „Geodatensatz“ angelegt werden.
 
-Beispiele:
+**Beispiele:**
 
  - INSPIRE ST Geografische Bezeichnungen ATKIS Basis-DLM
  - INSPIRE ST Gewässernetz - Gewässerkundlicher Landesdienst
@@ -113,6 +113,11 @@ Abb.: Tabelle - INSPIRE - priority data set - (optionale Angabe)
 `Auswahlliste - INSPIRE - priority data set<https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_inspire_priority-data-set.html>`_
 
 
+.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-inspire-relevant/iso-xml-inspireidentifiziert.png
+
+Abb.: ISO-XML - Angabe des Schlüsselwortes "inspireidentifiziert"
+
+
 Abschnitt Zusatzinformation
 '''''''''''''''''''''''''''
 
@@ -123,10 +128,18 @@ Abschnitt Zusatzinformation
 
 Abb.: Tabelle "Konformität" - Grad der Konformität: konform
 
+.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-inspire-relevant/iso-xml-konformitaet-true.png
+
+Abb.: ISO-XML - Angabe der Konformität: true
+
 
 .. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-inspire-relevant/zusatzinformation-konformitaet-konform.png
 
 Abb.: Tabelle "Konformität" - Grad der Konformität: nicht konform
+
+.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-inspire-relevant/iso-xml-konformitaet-false.png
+
+Abb.: ISO-XML - Angabe der Konformität: false
 
 
 .. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-inspire-relevant/zusatzinformation-konformitaet-operation-bearbeiten.png
