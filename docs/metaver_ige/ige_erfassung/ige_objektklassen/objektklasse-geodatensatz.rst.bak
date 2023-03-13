@@ -58,7 +58,7 @@ Checkbox Open Data
 
 Abb.: Checkbox Open Data
 
-Die Checkbox Open Data ist unter Erfassung von Objekten / Abschnitt Allgemeines beschrieben: <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/objektklasse-geodatensatz.html#abschnitt-allgemeines>`_ , da sie auf mehrere Metadatentypen zutrifft.
+Die Checkbox Open Data ist unter Erfassung von Objekten / `Abschnitt Allgemeines beschrieben: <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/objektklasse-geodatensatz.html#abschnitt-allgemeines>`_ , da sie auf mehrere Metadatentypen zutrifft.
 
 
 Abschnitt Verschlagwortung
