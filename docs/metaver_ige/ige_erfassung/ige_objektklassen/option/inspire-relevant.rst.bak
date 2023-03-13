@@ -139,11 +139,11 @@ Abb.: Tabelle "Konformität" - Grad der Konformität: nicht konform
 
 .. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-inspire-relevant/zusatzinformation-konformitaet-operation-bearbeiten.png
 
-Abb.: Tabelle "Konformität" - Operation bearbeiten
+Abb.: Tabelle "Konformität" - Konformität hinzufügen oder Operation bearbeiten / INSPIRE
 
 
 .. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-inspire-relevant/zusatzinformation-konformitaet-freier-eintrag.png
 
-Abb.: Tabelle "Konformität" - freier Eintrag
+Abb.: Tabelle "Konformität" - Konformität hinzufügen oder Operation bearbeiten / freier Eintrag
    
    
