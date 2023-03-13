@@ -13,6 +13,18 @@ Die Infrastructure for Spatial Information in the European Community (INSPIRE, d
 Erfassung
 ^^^^^^^^^
 
+Alle im Rahmen von INSPIRE zu erfassenden Geodaten müssen auch als Objektklasse „Geodatensatz“ angelegt werden.
+
+Beispiele:
+
+ - INSPIRE ST Geografische Bezeichnungen ATKIS Basis-DLM
+
+ - INSPIRE ST Gewässernetz - Gewässerkundlicher Landesdienst
+
+ - INSPIRE ST Umweltüberwachung - Gewässerkundlicher Landesdienst
+
+**Nachfolgend werden die Felder beschrieben, die in der Erfassungsmaske speziell für diesen Metadatentyp angezeigt werden.**
+
 Abschnitt Allgemeines
 ''''''''''''''''''''''
 .. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-abschnitt_allgemeines.png

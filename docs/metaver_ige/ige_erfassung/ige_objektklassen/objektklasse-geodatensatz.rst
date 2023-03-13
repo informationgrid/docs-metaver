@@ -12,18 +12,6 @@ Die Objektklasse Geodatensatz dient der Beschreibung von Daten mit direktem oder
 
 Werden die beschriebenen Daten über einen Webdienst (z.B. OGC Web-Mapping-Service (WMS)) bereitgestellt, sollte auf diesen Dienst, welcher als eigenes Objekt des Typs „Geodatendienst“ beschrieben ist, verwiesen werden (siehe Daten-Dienste-Kopplung).
 
-Alle im Rahmen von INSPIRE zu erfassenden Geodaten müssen auch als Objektklasse „Geodatensatz“ angelegt werden.
-
-Beispiele:
-
- - INSPIRE ST Geografische Bezeichnungen ATKIS Basis-DLM
-
- - INSPIRE ST Gewässernetz - Gewässerkundlicher Landesdienst
-
- - INSPIRE ST Umweltüberwachung - Gewässerkundlicher Landesdienst
-
-**Nachfolgend werden die Felder beschrieben, die in der Erfassungsmaske speziell für diesen Metadatentyp angezeigt werden.**
-
 
 Abschnitt Allgemeines
 ^^^^^^^^^^^^^^^^^^^^^
@@ -35,14 +23,24 @@ Checkbox INSPIRE-relevant
 
 Wenn diese Checkbox aktiviert ist, werden die Metadaten an das INSPIRE Geoportal der EU (https://inspire-geoportal.ec.europa.eu/) weitergeleitet und veröffentlicht. Die Daten und die Metadaten unterliegen in dem Fall der INSPIRE-Richtlinie.
 
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-inspire-relevant/option-konform.png
+
+Abb.: Checkbox INSPIRE-relevant
 
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Checkbox INSPIRE-relevant
+   
+   ../../../metaver_ige/ige_erfassung/ige_objektklassen/option/inspire-relevant.rst
 
 
 Checkbox AdV kompatibel
 '''''''''''''''''''''''
 
-[Grafik]
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-inspire-relevant/option-konform.png
+
+Abb.: Checkbox AdV kompatibel
 
 Bei der Aktivierung der Checkbox "AdV kompatibel" werden die Anforderungen des AdV-Metadatenprofils umgesetzt (z.B. Automatisiertes Setzen des Schlüsselwortes "AdVMIS" in der Datenbank).
 
@@ -50,7 +48,9 @@ Bei der Aktivierung der Checkbox "AdV kompatibel" werden die Anforderungen des A
 Checkbox Open Data
 ''''''''''''''''''
 
-[Grafik]
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-inspire-relevant/option-konform.png
+
+Abb.: Checkbox Open Data
 
 Die Checkbox Open Data ist unter Erfassung von Objekten / Abschnitt Allgemeines beschrieben: <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/objektklasse-geodatensatz.html#abschnitt-allgemeines>`_ , da sie auf mehrere Metadatentypen zutrifft.
 
