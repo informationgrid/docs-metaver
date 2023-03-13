@@ -33,7 +33,6 @@ Abb.: Checkbox INSPIRE-relevant
 
 .. toctree::
    :maxdepth: 1
-   :caption: Checkbox INSPIRE-relevant
    
    ../../../metaver_ige/ige_erfassung/ige_objektklassen/option/inspire-relevant.rst
 
@@ -41,7 +40,7 @@ Abb.: Checkbox INSPIRE-relevant
 Checkbox AdV kompatibel
 '''''''''''''''''''''''
 
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-inspire-relevant/option-konform.png
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-adv-kopatibel/checkbox-adv-kompatibel.png
 
 Abb.: Checkbox AdV kompatibel
 
@@ -51,7 +50,7 @@ Bei der Aktivierung der Checkbox "AdV kompatibel" werden die Anforderungen des A
 Checkbox Open Data
 ''''''''''''''''''
 
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-inspire-relevant/option-konform.png
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-open-data/checkbox-open-data.png
 
 Abb.: Checkbox Open Data
 
