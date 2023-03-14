@@ -283,18 +283,22 @@ Es wurde außerdem der Verweis zu den eigentlichen Daten im Dienste-Objekt einge
 
 Durch ein „Zwischenspeichern“ wird die Kopplung zwischen den Daten und dem Dienst übernommen, in dem automatisch beide Metadatenobjekte (Daten und Dienst) gespeichert werden. 
 
-Sowohl beim Metadatenobjekt der Daten als auch beim Objekt des Dienstes ist nun die Kopplung eingetragen. 
+Sowohl im Metadatenobjekt der Daten als auch im Objekt des Dienstes ist nun die Kopplung eingetragen. 
 
+
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/fachbezug_daten-dienste-kopplung_dargestellte-daten.png
  
+Abb.: Eintrag im Geodatendienst - Verweis auf Datensatz: "ATKIS-DGM1 Sachsen-Anhalt"
 
-**Beispiel:** *Eintrag im Geodatendienst*
-Verweis auf Datensatz: „ATKIS-DGM1 Sachsen-Anhalt“
 
-**Beispiel:** *Eintrag im Geodatensatz*
-Verweis auf Geodatendienst: „ATKIS-DGM1 Sachsen-Anhalt (ATOM-Downloaddienst)“
-Verweis auf Geodatendienst: „ATKIS-DGM1 Sachsen-Anhalt (WMS 1.3)“
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/fachbezug_daten-dienste-kopplung_darstellender-dienst.png
+ 
+Abb.: Eintrag im Geodatensatz - Verweis auf Geodatendienst: „ATKIS-DGM1 Sachsen-Anhalt (ATOM-Downloaddienst)“, Verweis auf Geodatendienst: „ATKIS-DGM1 Sachsen-Anhalt (WMS 1.3)“
 
-**Hinweis:** *Um eine Kopplungs-Beziehung wieder zu entfernen, muss diese im Dienste-Objekt gelöscht werden.*
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/fachbezug_daten-dienste-kopplung_dienst.png
+ 
+Abb.: Um eine Daten-Kopplung wieder zu entfernen, muss diese im Dienste-Objekt gelöscht werden.
+
 
 Datengrundlage
 ''''''''''''''
