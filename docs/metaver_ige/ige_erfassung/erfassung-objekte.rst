@@ -180,6 +180,8 @@ Adresse mit Objekt verknüpfen
 
 Abb.: Verknüpfung mit den Adressen
 
+`Auswahlliste Adressen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_allgemeines_adressen.html>`_
+
 Über den Link „Adresse hinzufügen“ wird die Adressverknüpfung angelegt. Als Auswahlmöglichkeit stehen alle im Adressstrukturbaum des Metadatenkataloges eingetragenen Adressdaten zur Verfügung.
 
 
@@ -228,12 +230,14 @@ Nach der Aktivierung sind zusätzlich folgende Angaben verpflichtend:
 Kategorien
 ''''''''''
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_open-data-kategorien_auswahlliste.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_open-data-kategorien.png
   :width: 350
 
-Abb.: Auswahlliste - Open Data Kategorien
+Abb.: Auswahlfeld - Open Data Kategorien
 
-Die Tabelle „Kategorien“ enthält eine Auswahlliste, die das Open-Data-Objekt näher bestimmen.
+`Auswahlliste der Open Data Kategorien <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_allgemeines_kategorien.html>`_
+
+Die Tabelle „Kategorien“ enthält eine Auswahlliste, die das OpenData-Objekt näher bestimmen.
 
 
 Abschnitt Verschlagwortung
@@ -371,7 +375,7 @@ Abschnitt Datenqualität
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/ige-abschnitt_datenqualitaet.png
 
-Dieser Abschnitt wird nur in der `Objektklasse Geodatensatz <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/objektklasse-geodatensatz.html>`_ angezeigt und wir darunter beschrieben.
+Dieser Abschnitt wird nur in der `Objektklasse Geodatensatz <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/objektklasse-geodatensatz.html>`_ angezeigt und wird auch darunter beschrieben.
 
 
 Abschnitt Raumbezugssystem
