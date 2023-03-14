@@ -235,7 +235,7 @@ Kategorien
 
 Abb.: Auswahlfeld - Open Data Kategorien
 
-`Auswahlliste der Open Data Kategorien <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_allgemeines_kategorien.html>`_
+`Auswahlliste der Open Data Kategorien <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_allgemeines_opendata-kategorien.html>`_
 
 Die Tabelle „Kategorien“ enthält eine Auswahlliste, die das OpenData-Objekt näher bestimmen.
 
