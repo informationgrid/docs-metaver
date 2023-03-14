@@ -312,12 +312,22 @@ Abb.: Um eine Daten-Kopplung wieder zu entfernen, muss diese im Dienste-Objekt g
 Datengrundlage
 ''''''''''''''
 
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/fachbezug_datengrundlage.png
+ 
+Abb.: Feld Datengrundlage
+
 Angabe der Unterlagen (Luftbilder, Karten, Datensammlungen), die bei der Erstellung der Karte oder der Geo-Information (des digitalen Datenbestandes) Verwendung finden. Der Eintrag kann in Textform erfolgen, indem die Karteikarte "Text" ausgewählt wird. Außerdem kann durch Auswahl der Registerkarte "Verweise" ein Verweis zu einem anderen Objekt im aktuellen Katalog erstellt werden.
 
 **Beispiel:** *Kartieroriginale der Pflanzenerfassung*
 
+
 Herstellungsprozess
 '''''''''''''''''''
+
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/fachbezug_herstellungsprozess.png
+ 
+Abb.: Feld Herstellungsprozess
+
 Angabe der Methode, die zur Erstellung des Datenobjektes geführt hat. Der Eintrag kann in Textform erfolgen, indem die Registerkarte "Text" ausgewählt wird. Außerdem kann durch Auswahl der Registerkarte "Verweise" ein Verweis erstellt werden.
 
 **Beispiel:** *Feldkartierung*
