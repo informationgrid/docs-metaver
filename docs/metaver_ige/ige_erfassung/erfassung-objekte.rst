@@ -227,8 +227,8 @@ Nach der Aktivierung sind zusätzlich folgende Angaben verpflichtend:
  - Im Abschnitt „Verfügbarkeit“, in der Tabelle `"Nutzungsbedingung" <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html#nutzungsbedingungen>`_ muss mindestens ein Eintrag zur anzugebenden Lizenz erfolgen.
 
 
-Kategorien
-''''''''''
+(Open Data) Kategorien
+'''''''''''''''''''''''
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_open-data-kategorien.png
   :width: 350
