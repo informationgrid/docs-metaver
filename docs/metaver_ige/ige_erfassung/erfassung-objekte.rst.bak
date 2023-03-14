@@ -615,9 +615,9 @@ In dieser Tabellenspalte wird das Copyright des Datenbreitstellers angegeben und
 Anwendungseinschränkungen
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-verfuegbarkeit_nutzungsbedingungen.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-verfuegbarkeit_anwendungseinschraenkungen.png
 
-Abb.: Auswahlfelder - Nutzungsbedingungen mit Quellvermerk
+Abb.: Textfeld Anwendungseinschränkungen
 
 Das Feld Anwendungseinschränkungen dient der Beschreibung, welche Einschränkung oder Eignung auf die Ressourcen oder Metadaten zutreffen (ISO: useLimitation).
 
@@ -659,13 +659,12 @@ Angabe, auf welchen Medien die Daten zur Verfügung gestellt werden können. Hie
 Bestellinformation
 ^^^^^^^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-verfuegbarkeit_bestellinformation.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-verfuegbarkeit_bestellinformationen.png
 
-Abb.: Textfeld Bestellinformation
+Abb.: Textfeld Bestellinformation - Die Lieferzeit beträgt 3 Wochen
 
 Angabe von generellen Informationen wie Bedingungen oder Konditionen zur Bestellung.
 
-Beispiel: Die Lieferzeit beträgt 3 Wochen
 
 
 Abschnitt Verweise

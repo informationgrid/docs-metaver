@@ -661,11 +661,10 @@ Bestellinformation
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-verfuegbarkeit_bestellinformation.png
 
-Abb.: Textfeld Bestellinformation
+Abb.: Textfeld Bestellinformation - Die Lieferzeit beträgt 3 Wochen
 
 Angabe von generellen Informationen wie Bedingungen oder Konditionen zur Bestellung.
 
-Beispiel: Die Lieferzeit beträgt 3 Wochen
 
 
 Abschnitt Verweise
