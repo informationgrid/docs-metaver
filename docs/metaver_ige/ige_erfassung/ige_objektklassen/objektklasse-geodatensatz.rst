@@ -67,13 +67,22 @@ Die Checkbox Open Data ist unter Erfassung von Objekten im `Abschnitt Allgemeine
 Abschnitt Verschlagwortung
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-03_verschlagwortung/ige-abschnitt_verschlagwortung.png
+
+
 ISO-Themenkategorie
 '''''''''''''''''''
+
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/verschlagwortung_iso-themenkategorie.png
+
+`Auswahlliste - ISO 19115 Themenkategorien <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_iso-themenkategorie.html>`_
+
+**Hinweis:** *Der Inhalt der Themen-Auswahlliste stammt aus der ISO 19115 und kann nicht erweitert werden.*
 
 Dieses Feld verlangt die Angabe der Hauptthemen, welche die Metadaten beschreiben.
 Die Auswahl erfolgt über die vorgegebene Auswahlliste.
 
-Für INSPIRE-konforme Metadaten über Daten ist die Angabe einer ISO-Themenkategorie notwendig. Um eine sachrichtige inhaltliche Zuordnung von INSPIRE-Themen zu ISO-Themenkategorien zu gewährleisten und es dem Erfasser möglichst einfach zu machen, übernimmt die InGrid Software die Zuordnung. Bei Auswahl eines INSPIRE Themas wird die entsprechende ISO-Kategorie automatisch hinzugefügt. Der Nutzer wird per Tooltip über den Automatismus informiert.
+Für INSPIRE-konforme Metadaten über Daten ist die Angabe einer ISO-Themenkategorie notwendig. Um eine korrekte inhaltliche Zuordnung von INSPIRE-Themen zu ISO-Themenkategorien zu gewährleisten und es dem Erfasser möglichst einfach zu machen, übernimmt die InGrid Software die Zuordnung. Bei Auswahl eines INSPIRE Themas wird die entsprechende ISO-Kategorie automatisch hinzugefügt. Der Nutzer wird per Tooltip über den Automatismus informiert.
 
 **Beispiel:**
 *Wird das INSPIRE-Thema "Adressen" ausgewählt, so wird automatisch die passende ISO-Themenkategorie "Ortsangaben" hinzugefügt.*
@@ -83,74 +92,12 @@ Wird versucht eine ISO-Kategorie zu löschen, die an ein INSPIRE-Thema geknüpft
 Umgekehrt gilt der Automatismus nicht: Beim Hinzufügen einer ISO Kategorie wird kein INSPIRE Thema gesetzt.
 
 
-`Auswahlliste - ISO 19115 Themenkategorien <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_iso-themenkategorie.html>`_
-
-**Hinweis:** *Der Inhalt der Themen-Auswahlliste stammt aus der ISO 19115 und kann nicht erweitert werden.*
-
-
 Optionale Schlagworte
 ''''''''''''''''''''''
-Eingabe von mindestens drei Schlagworten, die im Thesaurus verzeichnet sind. Die Verschlagwortung dient dem themenbezogenen Wiederauffinden (Retrieval) der Objekte über den Thesaurus-Navigator. Dazu müssen Schlagworte aus dem Thesaurus ausgewählt werden, die das Objekt so genau wie möglich, aber auch so allgemein wie nötig beschreiben. So sollte mindestens ein Schlagwort in der Thesaurus-Hierarchie einen relativ allgemeinen Aspekt des Objektes beschreiben und mindestens ein Schlagwort das Objekt so speziell wie möglich beschreiben. Die Auswahl kann über den "Verschlagwortungsassistent" oder den "Thesaurus-Navigator" vorgenommen werden - siehe Verlinkung.
 
-[Grafik]
-
-Abb.: Beispiel für eine Verschlagwortung
-
-**Hinweis:** *Die optionalen Schlagworte sind nur sichtbar, wenn der Abschnitt Verschlagwortung weiter ausgeklappt wird.*
-
-Umwelt-Thesaurus (UMTHES)
-'''''''''''''''''''''''''
-Die Verschlagwortung über den Umwelt-Thesaurus dient dem themenbezogenen Wiederauffinden der Objekte über den Thesaurus-Navigator. Dazu müssen Schlagworte aus dem Thesaurus (UMTHES) ausgewählt werden, die das Objekt so genau wie möglich, aber auch so allgemein wie nötig beschreiben. So sollte mindestens ein Schlagwort in der Thesaurus-Hierarchie einen relativ allgemeinen Aspekt des Objektes beschreiben und mindestens ein Schlagwort das Objekt so speziell wie möglich beschreiben. Die Auswahl kann über den "Verschlagwortungsassistent" oder den "Thesaurus-Navigator" vorgenommen werden (siehe Verlinkung).
-
-Die Eingabe von mindestens drei Schlagworten, die im Umwelt-Thesaurus verzeichnet sind wird empfohlen.
-
-**Beispiel für "UMTHES":** *Luftbild, Bildflug, Orthophoto*
+Die Erfassung von Freien bzw. Optionalen Schlagworten ist unter Erfassung von Objekten Abschnitt `Verschlagwortung <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html#freie-schlagworte-erfassen>`_ beschrieben.
 
 
-Freie Schlagworte eintragen
-'''''''''''''''''''''''''''
-
-Hier erfolgt die Eingabe von Schlagworten die nicht im Thesaurus vorhanden sind.
-Es sollen prägnante Begriffe und Termini, die in engem Zusammenhang mit dem Objekt stehen und die nicht im Thesaurus vorhanden sind, eingetragen werden. Dies können spezielle Fachgebiete, (Mess-Methoden, Bestandteile o.ä. sein. Die Freien Suchbegriffe sind ergänzend zu den Thesaurus-Suchbegriffen anzugeben. Wenn Sie hier einen Thesaurusbegriff eingeben, wird dieser automatisch als Thesaurusbegriff (UMTHES) erkannt und gekennzeichnet. Abschließend den Button "Hinzufügen" betätigen.
-Das eingegebene Schlagwort wird dadurch automatisch in die obere Tabelle übernommen. Ein Hinweis in der rechten Tabellenspalte zeigt an, ob das Schlagwort bereits im Umweltthesaurus (UMTHES) enthalten ist, oder ob das Schlagwort ein „freies Schlagwort“ (FREE) ist.
-
-**Beispiel für "FREE":** *DOP Sachsen-Anhalt, Befliegung*
-
-**Hinweis:**
-*Mehrere Schlagworte können in das Textfeld, durch Komma getrennt, angegeben werden, Zusammengehörige Worte werden in Anführungszeichen gesetzt.*
-
-
-Verschlagwortungsassistent
-''''''''''''''''''''''''''
-
-Mit STRG+Mausklick können Sie einen oder mehrere Schlagwörter markieren.
- 
-Über die Schaltfläche ">" werden die ausgewählten Schlüsselwörter aus der "Vorschlagsliste" in die Liste "Übernehmen" transportiert. Durch Betätigen der Schaltfläche ">>" können alle Begriffe mit einmal in die rechte Liste übernommen werden. 
-
-Die Schaltfläche "<" verschiebt die markierten Begriffe wieder aus der rechten Liste in die linke Liste. Die Schaltfläche "<<" verschiebt alle Begriffe aus der rechten Liste auf die linke Seite. 
-
-Mit einem Klick auf die Schaltfläche "Übernehmen" werden alle Begriffe aus der Liste "Übernehmen" dem Metadatensatz als Schlagworte hinzugefügt. 
-
-[Grafik]
- 
-Abb.: Link Thesaurus-Navigator
-
-[Grafik]
- 
-Abb.: Thesaurus-Navigator
-
-Bei der Auswahl der Schlagworte kann der „Thesaurus-Navigator“ helfen.
-
-Der "Thesaurus-Navigator" ist unterteilt in: die Suche, den Hierarchiebaum, die Ergebnisliste und die Liste der Deskriptoren.
-
-In die Suchzeile geben Sie einen beliebigen Suchbegriff ein.
-Abschließend betätigen Sie den Button "In Thesaurus suchen".
-
-Es erscheint der gewählte Suchbegriff in der Ergebnisliste. Betätigt man das blaue Symbol vor dem Suchbegriff, wechselt die Ansicht in den Hierarchiebaum (an die Stelle, an der dieser Suchbegriff eingeordnet ist). 
-
-Im Strukturbaum können weitere Suchbegriffe ausgewählt werden. Durch Betätigen des Buttons „Hinzufügen“, werden die Schlagworte in die Liste der Deskriptoren übernommen. 
-
-Abschließend betätigen Sie den Button „Übernehmen“. Die gewählten Begriffe werden jetzt in die Tabelle "Optionalen Schlagworte" eingetragen.
 
 
 Abschnitt Fachbezug
@@ -161,11 +108,24 @@ Abschnitt Fachbezug
 Fachliche Grundlage
 '''''''''''''''''''
 
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/fachbezug_fachliche-grundlage.png
+
+Abb.: Eingabefeld Fachliche Grundlage
+
 Im Feld „fachliche Grundlage“ sollte auf Dokumente verwiesen werden, die Grundlage der fachlichen Inhalte der Karte oder Datensammlung sind. Außerdem können Regeln für die Erfassung (Geo-Information) bzw. Darstellung (Karte) angegeben werden. Dieses Dokument kann eine Erläuterung der gesetzlichen Grundlagen darstellen, jedoch auch selbständigen Charakters sein. Möglich ist eine Eintragung in Textform, indem die Karteikarte "Text" ausgewählt wird. Außerdem ist es möglich, durch Auswahl der Registerkarte "Verweise", ein Verweis zu einem anderen Objekt im aktuellen Katalog herzustellen.
 
 
 Identifikator der Datenquelle
 '''''''''''''''''''''''''''''
+
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/fachbezug_identifikator_01.png
+
+Abb.: Option Erzeuge ID
+
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/fachbezug_identifikator_02.png
+
+Abb.: generierte ID aus dem InGrid Editor
+
 
 Hier muss ein eindeutiger Name (Identifikator) für die im Geodatensatz beschriebene Datenquelle (z.B. eine Karte) vergeben/eingetragen werden. Der Identifikator soll aus einem Namensraum (=codespace), sowie einem Code bestehen. (INSPIRE-Pflichtfeld).
 Wenn der Identifikator keinen Namensraum enthält, so wird dem Identifikator bei der Abgabe der Metadaten derjenige Wert vorangestellt, welcher im Bereich Katalogverwaltung/Katalogeinstellungen unter "Namensraum des Katalogs" eingetragen ist.
@@ -173,14 +133,13 @@ Der Identifikator kann von Hand eingetragen werden oder mit Hilfe des Buttons "E
 
 **Beispiele:**
  
-
-[Grafik]
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/fachbezug_identifikator_03.png
  
-Abb.: Beispiel: ID aus MetaVer
+Abb.: Portalansicht ID aus MetaVer
 
-[Grafik]
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/fachbezug_identifikator_04.png
  
-Abb.: Beispiel: ID aus der Registry
+Abb.: Portalansicht ID aus der GDI-DE Registry
 
 
 Datensatz/Datenserie

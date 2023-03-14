@@ -252,6 +252,15 @@ Abb.: Freie Schlagworte erfassen
 In dieses Feld werden die Schlagworte eingetragen, über die das Objekt bei einer Suche möglichst schnell gefunden werden soll. Hier sollen prägnante Begriffe verwendet werden. Dies können spezielle Fachgebiete, Mess-Methoden, Bestandteile o.ä. sein. Die Freien Suchbegriffe sind ergänzend zu den Thesaurus-Suchbegriffen anzugeben. Wenn Sie hier einen Begriff eingeben, der im Umwelt-Thesaurus des Umweltbundesamtes enthalten ist, dann wird dieser automatisch als "UMTHES" gekennzeichnet.
 
 
+Hier erfolgt die Eingabe von Schlagworten die nicht im Thesaurus vorhanden sind.
+Es sollen prägnante Begriffe und Termini, die in engem Zusammenhang mit dem Objekt stehen und die nicht im Thesaurus vorhanden sind, eingetragen werden. Dies können spezielle Fachgebiete, (Mess-Methoden, Bestandteile o.ä. sein. Die Freien Suchbegriffe sind ergänzend zu den Thesaurus-Suchbegriffen anzugeben. Wenn Sie hier einen Thesaurusbegriff eingeben, wird dieser automatisch als Thesaurusbegriff (UMTHES) erkannt und gekennzeichnet. Abschließend den Button "Hinzufügen" betätigen.
+Das eingegebene Schlagwort wird dadurch automatisch in die obere Tabelle übernommen. Ein Hinweis in der rechten Tabellenspalte zeigt an, ob das Schlagwort bereits im Umweltthesaurus (UMTHES) enthalten ist, oder ob das Schlagwort ein „freies Schlagwort“ (FREE) ist.
+
+**Beispiel für "FREE":** *DOP Sachsen-Anhalt, Befliegung*
+
+**Hinweis:**
+*Mehrere Schlagworte können in das Textfeld, durch Komma getrennt, angegeben werden, Zusammengehörige Worte werden in Anführungszeichen gesetzt.*
+
 Optionale Schlagworte
 ^^^^^^^^^^^^^^^^^^^^^
 
@@ -275,6 +284,72 @@ Abb.: Verschlagwortungsassistent
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-03_verschlagwortung/ige-verschlagwortung_thesaurus-navigator.png
 
 Abb.: Thesaurus-Navigator
+
+
+
+Eingabe von mindestens drei Schlagworten, die im Thesaurus verzeichnet sind. Die Verschlagwortung dient dem themenbezogenen Wiederauffinden (Retrieval) der Objekte über den Thesaurus-Navigator. Dazu müssen Schlagworte aus dem Thesaurus ausgewählt werden, die das Objekt so genau wie möglich, aber auch so allgemein wie nötig beschreiben. So sollte mindestens ein Schlagwort in der Thesaurus-Hierarchie einen relativ allgemeinen Aspekt des Objektes beschreiben und mindestens ein Schlagwort das Objekt so speziell wie möglich beschreiben. Die Auswahl kann über den "Verschlagwortungsassistent" oder den "Thesaurus-Navigator" vorgenommen werden - siehe Verlinkung.
+
+[Grafik]
+
+Abb.: Beispiel für eine Verschlagwortung
+
+**Hinweis:** *Die optionalen Schlagworte sind nur sichtbar, wenn der Abschnitt Verschlagwortung weiter ausgeklappt wird.*
+
+Umwelt-Thesaurus (UMTHES)
+'''''''''''''''''''''''''
+Die Verschlagwortung über den Umwelt-Thesaurus dient dem themenbezogenen Wiederauffinden der Objekte über den Thesaurus-Navigator. Dazu müssen Schlagworte aus dem Thesaurus (UMTHES) ausgewählt werden, die das Objekt so genau wie möglich, aber auch so allgemein wie nötig beschreiben. So sollte mindestens ein Schlagwort in der Thesaurus-Hierarchie einen relativ allgemeinen Aspekt des Objektes beschreiben und mindestens ein Schlagwort das Objekt so speziell wie möglich beschreiben. Die Auswahl kann über den "Verschlagwortungsassistent" oder den "Thesaurus-Navigator" vorgenommen werden (siehe Verlinkung).
+
+Die Eingabe von mindestens drei Schlagworten, die im Umwelt-Thesaurus verzeichnet sind wird empfohlen.
+
+**Beispiel für "UMTHES":** *Luftbild, Bildflug, Orthophoto*
+
+
+
+
+Verschlagwortungsassistent
+''''''''''''''''''''''''''
+
+Mit STRG+Mausklick können Sie einen oder mehrere Schlagwörter markieren.
+ 
+Über die Schaltfläche ">" werden die ausgewählten Schlüsselwörter aus der "Vorschlagsliste" in die Liste "Übernehmen" transportiert. Durch Betätigen der Schaltfläche ">>" können alle Begriffe mit einmal in die rechte Liste übernommen werden. 
+
+Die Schaltfläche "<" verschiebt die markierten Begriffe wieder aus der rechten Liste in die linke Liste. Die Schaltfläche "<<" verschiebt alle Begriffe aus der rechten Liste auf die linke Seite. 
+
+Mit einem Klick auf die Schaltfläche "Übernehmen" werden alle Begriffe aus der Liste "Übernehmen" dem Metadatensatz als Schlagworte hinzugefügt. 
+
+[Grafik]
+ 
+Abb.: Link Thesaurus-Navigator
+
+[Grafik]
+ 
+Abb.: Thesaurus-Navigator
+
+Bei der Auswahl der Schlagworte kann der „Thesaurus-Navigator“ helfen.
+
+Der "Thesaurus-Navigator" ist unterteilt in: die Suche, den Hierarchiebaum, die Ergebnisliste und die Liste der Deskriptoren.
+
+In die Suchzeile geben Sie einen beliebigen Suchbegriff ein.
+Abschließend betätigen Sie den Button "In Thesaurus suchen".
+
+Es erscheint der gewählte Suchbegriff in der Ergebnisliste. Betätigt man das blaue Symbol vor dem Suchbegriff, wechselt die Ansicht in den Hierarchiebaum (an die Stelle, an der dieser Suchbegriff eingeordnet ist). 
+
+Im Strukturbaum können weitere Suchbegriffe ausgewählt werden. Durch Betätigen des Buttons „Hinzufügen“, werden die Schlagworte in die Liste der Deskriptoren übernommen. 
+
+Abschließend betätigen Sie den Button „Übernehmen“. Die gewählten Begriffe werden jetzt in die Tabelle "Optionalen Schlagworte" eingetragen.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Abschnitt Fachbezug
