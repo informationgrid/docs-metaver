@@ -95,10 +95,7 @@ Umgekehrt gilt der Automatismus nicht: Beim Hinzufügen einer ISO Kategorie wird
 Optionale Schlagworte
 ''''''''''''''''''''''
 
-Die Erfassung von Freien bzw. Optionalen Schlagworten ist unter Erfassung von Objekten Abschnitt `Verschlagwortung <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html#freie-schlagworte-erfassen>`_ beschrieben.
-
-
-
+Die Erfassung von Freien bzw. Optionalen Schlagworten ist unter `Erfassung von Objekten Abschnitt Verschlagwortung <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html#freie-schlagworte-erfassen>`_ beschrieben.
 
 Abschnitt Fachbezug
 ^^^^^^^^^^^^^^^^^^^
@@ -120,11 +117,11 @@ Identifikator der Datenquelle
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/fachbezug_identifikator_01.png
 
-Abb.: Eingabefeld Identifikator der Datenquelle - Option Erzeuge ID
+Abb.: Option Erzeuge ID
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/fachbezug_identifikator_02.png
 
-Abb.: Eingabefeld Identifikator der Datenquelle - generierte ID aus dem InGrid Editor
+Abb.: generierte ID aus dem InGrid Editor
 
 
 Hier muss ein eindeutiger Name (Identifikator) für die im Geodatensatz beschriebene Datenquelle (z.B. eine Karte) vergeben/eingetragen werden. Der Identifikator soll aus einem Namensraum (=codespace), sowie einem Code bestehen. (INSPIRE-Pflichtfeld).
@@ -145,11 +142,16 @@ Abb.: Portalansicht ID aus der GDI-DE Registry
 Datensatz/Datenserie
 ''''''''''''''''''''
 
-Bei Daten dieser Klasse ist zwischen einem "Datensatz" und einer "Datenserie" zu unterscheiden. Katalogintern ist stets der Datensatz vorausgewählt.
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/fachbezug_datensatz-datenserie.png
+ 
+Abb.: Auswahlfeld Datensatz / Datenserie
+
+
+Bei Daten dieser Klasse ist zwischen einem "Datensatz" und einer "Datenserie" zu unterscheiden. Katalog-intern ist stets der Datensatz vorausgewählt.
 
 
 Datensatz
-'''''''''
+''''''''''
 
 Als Datensatz wird eine in sich abgeschlossene Sammlung von Geodaten (Daten mit Raumbezug) bezeichnet, z.B. ein digitaler Bestand zu einem bestimmten fachlichen Thema.
 
@@ -157,8 +159,10 @@ Als Datensatz wird eine in sich abgeschlossene Sammlung von Geodaten (Daten mit 
 *Stadtplanwerk, bestehend aus 8 Einzelblättern: Das Stadtplanwerk als solches ist eine Datenserie. Jedes einzelne der 8 Blätter hingegen kann als Datensatz beschrieben werden.*
 
 
-**Datenserie**
-*Eine Datenserie stellt eine Folge oder Gruppierung von gleichartigen Datenbeständen dar, die sich z.B. im abgedeckten räumlichen Bereich oder in der zeitlichen Aussage zum Gültigkeitszeitraum unterscheiden.*
+Datenserie
+'''''''''''
+
+Eine Datenserie stellt eine Folge oder Gruppierung von gleichartigen Datenbeständen dar, die sich z.B. im abgedeckten räumlichen Bereich oder in der zeitlichen Aussage zum Gültigkeitszeitraum unterscheiden.
 
 **Beispiel:**
 *Komplexe Darstellung der städtischen Verwaltungsstruktur aus unterschiedlichen dargestellten Grenzen: Es werden die Grenzen der Müllabfuhrbezirke, die Grenzen der Wahlbezirke, der Stadteile, der Schuleinzugsgebiete usw. inhaltlich gezeigt. Alle diese Grenzen für sich genommen könnten als Datensatz beschrieben werden. Die komplexe aufbereitete Darstellung, die diese unterschiedlichen Grenzen vereint, also der Geodatensatz "Komplexe Darstellung der städtischen Verwaltungsstruktur" an sich, wäre in diesem Falle jedoch eine Datenserie.*
