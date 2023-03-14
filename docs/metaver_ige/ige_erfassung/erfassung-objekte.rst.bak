@@ -596,7 +596,7 @@ Nutzungsbedingungen
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-verfuegbarkeit_nutzungsbedingungen.png
 
-Abb.: Auswahlfelder - Nutzungsbedingungen mit Quellvermerk
+Abb.: Beispiel - Nutzungsbed.: Datenlizenz Deutschland Namensnennung 2.0 / Quellvermerk: © GeoBasis-DE / BKG (Jahr des letzten Datenbezugs)
 
 `Auswahlliste der Nutzungsbedingungen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verfuegbarkeit_nutzungsbedingungen.html>`_
 
@@ -617,7 +617,7 @@ Anwendungseinschränkungen
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-verfuegbarkeit_anwendungseinschraenkungen.png
 
-Abb.: Textfeld Anwendungseinschränkungen - Nicht für Navigationszwecke geeignet oder Registrierung erforderlich
+Abb.: Beispiel - Nicht für Navigationszwecke geeignet oder Registrierung erforderlich
 
 Das Feld Anwendungseinschränkungen dient der Beschreibung, welche Einschränkung oder Eignung auf die Ressourcen oder Metadaten zutreffen (ISO: useLimitation).
 
@@ -627,7 +627,7 @@ Datenformat
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-verfuegbarkeit_datenformat.png
 
-Abb.: Beispiel - tif, Version: 8.0, Kompression: LZW, Bildpunkttiefe: 8 Bit
+Abb.: Beispiel - TIFF / Version: 6.0 / Kompression: LZW / Spezifikation: WCS
 
 Angabe des Formats der Daten in DV-technischer Hinsicht, in welchem diese verfügbar sind. Das Format wird durch 4 unterschiedliche Eingaben spezifiziert. Wenn die erste Spalte befüllt wird, müssen auch die anderen Eintragungen vorgenommen werden. 
 
@@ -656,7 +656,7 @@ Bestellinformation
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-verfuegbarkeit_bestellinformation.png
 
-Abb.: Textfeld Bestellinformation - Die Lieferzeit beträgt 3 Wochen
+Abb.: Beispiel - Die Lieferzeit beträgt 3 Wochen
 
 Angabe von generellen Informationen wie Bedingungen oder Konditionen zur Bestellung.
 
