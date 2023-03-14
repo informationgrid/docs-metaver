@@ -147,7 +147,7 @@ Datensatz/Datenserie
 Abb.: Auswahlfeld Datensatz / Datenserie
 
 
-Bei Daten dieser Klasse ist zwischen einem "Datensatz" und einer "Datenserie" zu unterscheiden. Katalog-intern ist stets der Datensatz vorausgewählt.
+Bei Daten dieser Klasse ist zwischen einem "Datensatz" und einer "Datenserie" zu unterscheiden. Katalogintern ist stets der Datensatz vorausgewählt.
 
 
 Datensatz
@@ -170,33 +170,51 @@ Eine Datenserie stellt eine Folge oder Gruppierung von gleichartigen Datenbestä
 
 Digitale Repräsentation
 ''''''''''''''''''''''''
+
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/fachbezug_digitale-repaesentation.png
+ 
+Abb.: Auswahlfeld Digitale Repräsentation
+
 Angabe der Methode, räumliche Daten zu präsentieren. Die Auswahl erfolgt über eine vorgegebene Liste.
 
-**Beispiele:** *Raster, Gitter, Stereomodell, Text, Tabelle, TIN, Vektor, Video*
+Auswahlliste: Raster, Gitter, Stereomodell, Text, Tabelle, TIN, Vektor, Video
 
 
 Vektorformat
 ''''''''''''
 
-Es können hier Topologie Informationen, Geometrietyp (Angabe der geometrischen Objekte, zur Beschreibung der geometrischen Lage) und Elementanzahl (Angaben der Anzahl der Punkt- oder Vektortypelemente) angegeben werden.
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/fachbezug_vektorformat.png
+ 
+Abb.: Feld Vektorformat
 
 **Achtung!** *Dieses Feld ist nur aktiv nach Auswahl von "Vektor" im Feld "Digitale Repräsentation".* 
 
- 
+Es können hier Topologie Informationen, Geometrietyp (Angabe der geometrischen Objekte, zur Beschreibung der geometrischen Lage) und Elementanzahl (Angaben der Anzahl der Punkt- oder Vektortypelemente) angegeben werden.
+
+Auswahlliste Topologieinformation: 3D-Oberfläche, Flächen, Flächen flächendeckend, Geometrie ohne Topologie, geschlossene Linien eben, geschlossene Linien flächendeckend, Körper, Linien, topologisches Gebilde ohne geometrischen Raum
+
+
 Erstellungsmaßstab
 ''''''''''''''''''
+
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/fachbezug_erstellungsmassstab.png
+ 
+Abb.: Feld Erstellungsmaßstab
 
 Angabe des Erstellungsmaßstabes, der sich auf die erstellte Karte und/oder Digitalisiergrundlage bei Geodaten bezieht. 
  - Maßstab 1:x: Maßstab der Karte, z.B. 1:12 
  - Bodenauflösung (m): Einheit geteilt durch Auflösung multipliziert mit dem Maßstab (Angabe in Meter, Fließkommazahl) 
  - Scanauflösung (DPI): Auflösung z.B. einer eingescannten Karte, z.B. 120dpi (Angabe in dpi, Integerzahl)
 
-**Beispiel:**
-*Bodenauflösung: Auflösungseinheit in Linien/cm; Einheit: z.B. 1 cm geteilt durch 400 Linien multipliziert mit dem Maßstab 1:25.000 ergibt 62,5 cm als Bodenauflösung*
+**Beispiel:** *Bodenauflösung: Auflösungseinheit in Linien/cm; Einheit: z.B. 1 cm geteilt durch 400 Linien multipliziert mit dem Maßstab 1:25.000 ergibt 62,5 cm als Bodenauflösung*
 
  
 Symbolkatalog
 '''''''''''''
+
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/fachbezug_symbolkatalog.png
+ 
+Abb.: Feld Symbolkatalog
 
 Für die Präsentation genormter Objekte und Sachverhalte können für die Nutzer der Daten zur Herstellung von Karten abgestimmte Symbole vorgegeben werden. Die Angabe eines oder mehrerer analoger oder digitaler Symbolpaletten mit zugehörigem Datum (Pflichteintrag) und Version (Optional) ist hier möglich.
 
@@ -205,6 +223,10 @@ Für die Präsentation genormter Objekte und Sachverhalte können für die Nutze
  
 Schlüsselkatalog
 '''''''''''''''''
+
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/fachbezug_schluesselkatalog.png
+ 
+Abb.: Feld Schlüsselkatalog
 
 An dieser Stelle besteht die Möglichkeit, den Daten zugrunde liegende Klassifizierungs-schlüssel zu benennen. Dabei ist die Eingabe mehrerer Kataloge mit zugehörigem Datum (Pflichteintrag) und Version (Optional) möglich. 
 
@@ -222,9 +244,24 @@ Angabe der mit der Geo-Information/Karte verbundenen Sachdaten. Bei Bedarf kann 
 **Achtung!** 
 *Mit einem Eintrag unter Sachdaten/Attributinformation wird die Tabelle Schlüsselkatalog zum Pflichtfeld. Bitte geben Sie dort den Schlüsselkatalog an, welcher das eingetragene Attribut verzeichnet.*
 
- 
+
+Sachdaten/Attributinformation
+''''''''''''''''''''''''''''''
+
+Angabe der mit der Geo-Information/Karte verbundenen Sachdaten. Bei Bedarf kann hier eine Auflistung der Attribute des Datenbestandes erfolgen. Die hauptsächliche Nutzung dieses Feldes ist für digitale Geo-Informationen vorgesehen.
+
+**Achtung:**
+*Mit einem Eintrag unter Sachdaten/Attributinformation wird die Tabelle Schlüsselkatalog zum Pflichtfeld. Bitte geben Sie dort den Schlüsselkatalog an, welcher das eingetragene Attribut verzeichnet.*
+
+**Beispiel:** *Baumkataster*
+
+
 Darstellender Dienst
 ''''''''''''''''''''
+
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/fachbezug_darstellender-dienst.png
+ 
+Abb.: Feld Darstellender Dienst
 
 Werden die beschriebenen Daten durch einen Webdienst (z.B. OGC Web-Mapping-Service (WMS)) im Internet bereitgestellt, dann sollte auf diesen Dienst, welcher als eigenes Objekt des Typs „Geodatendienst“ beschrieben ist, verwiesen werden (siehe Daten-Dienste-Kopplung).
 
