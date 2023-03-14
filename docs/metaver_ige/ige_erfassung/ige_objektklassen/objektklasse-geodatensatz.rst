@@ -75,6 +75,8 @@ ISO-Themenkategorie
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/verschlagwortung_iso-themenkategorie.png
 
+Abb.: Auswahlfeld ISO Themenkategorie
+
 `Auswahlliste - ISO 19115 Themenkategorien <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_iso-themenkategorie.html>`_
 
 **Hinweis:** *Der Inhalt der Themen-Auswahlliste stammt aus der ISO 19115 und kann nicht erweitert werden.*
@@ -491,73 +493,8 @@ Raumbezugsystem
 
 **Beispiel:** *EPSG:4326 / WGS 84 / geographisch*
 
-Auswahlliste der Raumbezugssysteme
-
- - CRS 84: CRS 84 / mathematisch
- - DE_42/83 / GK_3
- - DE_DHDN / GK_3
- - DE_DHDN / GK_3_BW100
- - DE_DHDN / GK_3_HE100
- - DE_DHDN / GK_3_NW177
- - DE_DHDN / GK_3_RDN
- - DE_DHDN / GK_3_RP101
- - DE_DHDN / GK_3_RP180
- - DE_ETRS89 / UTM
- - DE_PD/83 / GK_3
- - DE_PD/83 / GK_9-15, Bezug 12. Meridian (BY)
- - DE_RD/83 / GK_3
- - EPSG 2176: ETRS89 / Poland CS2000 zone 5
- - EPSG 23031: ED50 / UTM Zone 31N
- - EPSG 23032: ED50 / UTM Zone 32N
- - EPSG 23033: ED50 / UTM Zone 33N
- - EPSG 2397: Pulkovo 1942(83) / Gauss-Kruger zone 3
- - EPSG 2398: Pulkovo 1942(83) / Gauss-Kruger zone 4
- - EPSG 2399: Pulkovo 1942(83) / Gauss-Kruger zone 5
- - EPSG 25831: ETRS89 / UTM Zone 31N (INSPIRE)
- - EPSG 25832: ETRS89 / UTM Zone 32N (INSPIRE)
- - EPSG 25833: ETRS89 / UTM Zone 33N (INSPIRE)
- - EPSG 25834: ETRS89 / UTM Zone 34N (INSPIRE)
- - EPSG 28462: Pulkovo 1942 / Gauss-Krüger 2N
- - EPSG 28463: Pulkovo 1942 / Gauss-Krüger 3N
- - EPSG 3034: ETRS89 / LCC Europa (INSPIRE)
- - EPSG 3035: ETRS89 / LAEA Europa (INSPIRE)
- - EPSG 3038: ETRS89 / ETRS-TM26
- - EPSG 3039: ETRS89 / ETRS-TM27
- - EPSG 3040: ETRS89 / ETRS-TM28
- - EPSG 3041: ETRS89 / ETRS-TM29
- - EPSG 3042: ETRS89 / ETRS-TM30
- - EPSG 3043: ETRS89 / ETRS-TM31
- - EPSG 3044: ETRS89 / UTM Zone 32N (N-E) (INSPIRE)
- - EPSG 3045: ETRS89 / UTM Zone 33N (N-E) (INSPIRE)
- - EPSG 3046: ETRS89 / ETRS-TM34
- - EPSG 3047: ETRS89 / ETRS-TM35
- - EPSG 3068: DHDN / Soldner Berlin
- - EPSG 31466: DHDN / Gauss-Krüger Zone 2
- - EPSG 31467: DHDN / Gauss-Krüger Zone 3
- - EPSG 31468: DHDN / Gauss-Krüger Zone 4
- - EPSG 31469: DHDN / Gauss-Krüger Zone 5
- - EPSG 32631: WGS 84 / UTM Zone 31N
- - EPSG 32632: WGS 84 / UTM Zone 32N
- - EPSG 32633: WGS 84 / UTM Zone 33N
- - EPSG 35832: ETRS89 / UTM zone 32N 8d
- - EPSG 35833: ETRS89 / UTM zone 33N 8d
- - EPSG 3857: WGS 84 / Pseudo-Mercator
- - EPSG 4178: Pulkovo 1942(83) / geographisch
- - EPSG 4230: ED50 / geographisch
- - EPSG 4258: ETRS89 / geographisch (INSPIRE)
- - EPSG 4284: Pulkovo 1942 / geographisch
- - EPSG 4314: DHDN / geographisch
- - EPSG 4326: WGS 84 / geographisch
- - EPSG 4647: ETRS89 / UTM Zone 32N (zE-N)
- - EPSG 4839: ETRS89 / LCC Deutschland (N-E)
- - EPSG 5650: ETRS89 / UTM Zone 33N (zE-N)
- - EPSG 5676: DHDN / Gauss-Krüger Zone 2 (E-N)
- - EPSG 5677: DHDN / Gauss-Krüger Zone 3 (E-N)
- - EPSG 5678: DHDN / Gauss-Krüger Zone 4 (E-N)
- - EPSG 5679: DHDN / Gauss-Krüger Zone 5 (E-N)
- - EPSG 8395: ETRS89 / Gauss-Krüger (CM 9E)
+`Auswahlliste der Raumbezugssysteme <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_raumbezug_raumbezugsysteme.html>`_
  
-
 Höhe
 '''''
 
@@ -596,131 +533,8 @@ Abschnitt Zeitbezug
 ^^^^^^^^^^^^^^^^^^^
 
 
-Zeitbezug der Ressource
-''''''''''''''''''''''''
-
-In dieser Tabelle wird angegeben, wann die Ressource erstmalig erstellt, publiziert oder/und letztmalig geändert/aktualisiert wurde. Die Datumsangaben beziehen sich dabei nicht auf den Metadatensatz, sondern direkt auf die beschriebene Ressource. Es ist mindestens ein Eintrag erforderlich, es können jedoch auch alle drei Typen gleichzeitig angeben werden.
-
-**Beispiel:** *22.01.2019 Erstellung*
- 
-
-Erläuterung
-'''''''''''
-
-Hier können z.B. die Angaben der Periodizität eingeschränkt, weitere Zeitangaben gemacht oder Unregelmäßigkeiten erklärt werden. Im Zusammenhang mit dem Eintrag im Feld Periodizität können hier Abstände, Perioden und Intervalle eingetragen werden, die sich nicht aus dem Zusammenhang der anderen Felder des Zeitbezuges erklären, z.B. Jahreszeiten, Dekaden, Tageszeiten.
-
-**Beispiel:** *Die Messungen erfolgten nur tagsüber.*
-
-
-Zeitspanne
-'''''''''''
-
-Hier soll das Zeitspanne der Entstehung der eigentlichen Daten (z.B. Messdaten) eingetragen werden.
-
-
-Periodizität
-'''''''''''''
-
-Auswahl/Angabe des Zeitzyklus der Datenerhebung. Der Eintrag muss aus der Auswahlliste erfolgen, die über den Pfeil am Ende des Feldes geöffnet wird. 
-
-**Achtung!** *Der Eintrag "unbekannt" sollte nicht mehr verwendet werden. Falls noch in Altdaten vorhanden, sollte dieses Wort durch sinnvolle Einträge ersetzt werden. Er stellt eine nicht ISO-konforme Erweiterung der Auswahlliste dar.*
-
-Auswahlliste der Periodizität
-
- - bei Bedarf
- - einmalig
- - halbjährlich	 - jährlich
- - kontinuierlich
- - monatlich	 - täglich
- - unbekannt
- - unregelmäßig	 - vierteljährlich
- - wöchentlich
- - zweiwöchentlich
-
-**Beispiel:** *täglich*
-
-
-Status
-'''''''
-
-Stand der Ausführung des Projektes, der Messung etc. Der Editor nimmt alle bekannten Daten auf, diese können sich in unterschiedlichen Stadien ihrer Lebenszeit befinden, d.h. Projekte, Programme oder Messungen können in konkreter Planung sein, derzeit durchgeführt werden oder schon abgeschlossen sein.
-
-Auswalliste Status
-
- - abgeschlossen
- - erforderlich
- - geplant
- - historisches Archiv	 - in Erstellung
- - in Produktion
- - kontinuierliche Aktualisierung
- - veraltet
-
-**Beispiel:** *abgeschlossen*
-
-
-
-Im Intervall
-''''''''''''
-
-Angabe des zeitlichen Abstands (Frequenz) der Datenerhebung. Erfolgt die Datenerhebung kontinuierlich oder periodisch (siehe Feld Periodizität), so soll diese Angabe hier präzisiert werden. Es stehen Felder für den freien Eintrag einer Ziffer und eine Auswahlliste zur Verfügung, die zeitliche Intervalle vorgibt. Der Eintrag von 10 und Tage bedeutet: Die beschriebenen Daten werden bzw. wurden alle 10 Tage erhoben.
-
-Auswahlliste der Intervalle
-
- - Jahre
- - Monate
- - Tage
- - Stunden
- - Minuten
- - Sekunden
-
-**Beispiel:** *Alle 6 Monate*
-
-
 Abschnitt Zusatzinformation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
- 
-Sprache des Metadatensatzes
-'''''''''''''''''''''''''''
-
-An dieser Stelle soll die Sprache ausgewählt werden, die bei der Beschreibung der Metadaten verwendet wurde. Es ist hier nicht die Sprache der eigentlichen Ressource gemeint! 
-
-Standardeinstellung ist: Deutsch
-
-Sprache der Ressource
-'''''''''''''''''''''
-
-Hier ist die Sprache anzugeben, die in der Ressource verwendet wird. Es ist an dieser Stelle nicht die Sprache der Metadaten gemeint! 
-
-Standardeinstellung ist: Deutsch
-
- 
-
-Veröffentlichung
-''''''''''''''''
-
-Das Feld "Veröffentlichung" ist sehr wichtig, denn es gibt den Status der Veröffentlichungsbreite an. Möglich sind folgende Werte, die über ein Dropdown-Menü ausgewählt werden können:
- 
- - Internet
-Das Objekt wird für das Internet veröffentlicht. 
-
- - Intranet
-Das Objekt wird nur für das Intranet veröffentlicht, aber nicht für das Internet. 
-
-Hinweis: Diese Option trifft derzeit für Sachsen-Anhalt nicht zu, da die Portal-/Erfassungssoftware nicht im Landesdatennetz installiert ist.
-
- - amtsintern
-Das Objekt ist nur im Strukturbaum der Erfassungssoftware sichtbar, aber nicht im Intranet und auch nicht im Internet.
-
-Es ist nicht möglich, einem Objekt eine höhere Freigabestufe zuzuordnen, als die des übergeordneten Objektes. Die abschließende Speicherung wird mit folgender Fehlermeldung verweigert.
-
-Ebenfalls erscheint ein Warnhinweis, wenn die Veröffentlichungsbreite eines bereits abschließend gespeicherten Objektes, welches noch untergeordnete Objekte der gleichen Veröffentlichungsbreite besitzt, reduziert werden soll. 
-
- 
-
-**Beispiel:**
-*Das Objekt "Geodatensätze" hat im Screenshot die Veröffentlichungsbreite "Internet". Alle untergeordneten Objekte sind ebenfalls für das Internet freigegeben. Wird nun "Geodatensätze" auf die Veröffentlichung „amtsintern“ reduziert und der obige Warnhinweis mit "Speichern" bestätigt, so werden automatisch auch alle untergeordneten Objekte auf die Veröffentlichungsbreite "amtsintern" herabgesetzt.*
-
-
  
 
 Zeichensatz des Datensatzes
@@ -728,35 +542,8 @@ Zeichensatz des Datensatzes
 
 Angaben zu dem im beschriebenen Datensatz benutzten Zeichensatz z.B. UTF-8.
 
-Auswahlliste Zeichensatz des Datensatzes
- - 8859part1
- - 8859part2
- - 8859part3
- - 8859part4
- - 8859part5
- - 8859part6
- - 8859part7	 - 8859part8
- - 8859part9
- - 8859part10
- - 8859part11
- - 8859part12
- - 8859part13
- - 8859part14	 - 8859part15
- - big5
- - Ebcdic
- - EucJP
- - EucKR
- - GB2312
- - Jis	 - ShiftJIS
- - ucs2
- - ucs4
- - UsAscii
- - utf7
- - utf8
- - utf16
-
-
- 
+`Auswahlliste Zeichensatz des Datensatzes <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_zusatzinformation_zeichensatz.html>`_
+  
 
 Konformität
 '''''''''''
@@ -768,37 +555,6 @@ Dieses Feld wird bei der Auswahl der "INSPIRE-Themen" oder der "Art des Dienstes
 
 **Achtung!**
 *Bitte entsprechend den Empfehlungen des AdV-Metadatenprofils nur die Werte "konform" und "nicht konform" im Feld "Grad der Konformität" verwenden. Für alle nicht INSPIRE-Objekte, sollte hier die „INSPIRE-Richtlinie“ mit dem Wert „nicht evaluiert“ ausgewählt werden.* 
-
- 
-
-XML-Export-Kriterium
-'''''''''''''''''''''
-
-Eintrag eines Selektionskriteriums zur Steuerung des Exports der Daten. Um eine Teilmenge von Objekten exportieren zu können, kann in diesem Feld ein diese Teilmenge identifizierendes Schlagwort eingegeben werden. In der Exportfunktion kann dann eines der Schlagworte aus diesem Feld angegeben werden und alle Objekte exportiert werden, für die in diesem Feld das entsprechende Schlagwort vergeben wurde. Die Eingabe mehrerer Schlagworte ist möglich. Die Schlagworte können frei eingegeben werden. Zur Verhinderung von Schreibfehlern sollte jedoch der Eintrag aus der Auswahlliste vorgezogen werden.
-
-**Beispiel:** *CDS*
-
- 
-
-Rechtliche Grundlage
-''''''''''''''''''''
-
-Angabe der rechtlichen Grundlage, die die Erhebung der beschriebenen Daten veranlasst hat. Hier können Kürzel von Gesetzen, Erlassen, Verordnungen usw. eingetragen werden, in denen z. B. die Methode oder die Form der Erhebung der im Objekt beschriebenen Daten festgelegt oder beschrieben wird. Es sind bei Bedarf mehrere Angaben möglich.
-
-**Beispiel:** *Umweltinformationsgesetz des Landes Sachsen-Anhalt*
-
- 
-Herstellungszweck
-'''''''''''''''''
-Angabe eines Grundes für die Datenerhebung.
-
-
-Eignung/Nutzung
-'''''''''''''''
-Angaben über die Verwendungsmöglichkeiten, die diese Daten in Verbindung mit weiteren Informationen erfüllen können.
-
-**Beispiel:** 
-*Präsentation des Raumordnungsprogramms auf Basis der topografischen Kartenwerke.*
 
 
 Abschnitt Verfügbarkeit

@@ -261,6 +261,7 @@ Das eingegebene Schlagwort wird dadurch automatisch in die obere Tabelle überno
 **Hinweis:**
 *Mehrere Schlagworte können in das Textfeld, durch Komma getrennt, angegeben werden, Zusammengehörige Worte werden in Anführungszeichen gesetzt.*
 
+
 Optionale Schlagworte
 ^^^^^^^^^^^^^^^^^^^^^
 
@@ -337,17 +338,6 @@ Es erscheint der gewählte Suchbegriff in der Ergebnisliste. Betätigt man das b
 Im Strukturbaum können weitere Suchbegriffe ausgewählt werden. Durch Betätigen des Buttons „Hinzufügen“, werden die Schlagworte in die Liste der Deskriptoren übernommen. 
 
 Abschließend betätigen Sie den Button „Übernehmen“. Die gewählten Begriffe werden jetzt in die Tabelle "Optionalen Schlagworte" eingetragen.
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -609,13 +599,25 @@ Im Abschnitt Verfügbarkeit wird angegeben, ob die zu beschreibenden Daten einer
 Zugriffsbeschränkungen
 ^^^^^^^^^^^^^^^^^^^^^^
 
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-verfuegbarkeit_zugriffsbeschraenkungen.png
+
+Abb.: Auswahlfeld - Zugriffsbeschränkungen
+
+`Auswahlliste der Zugriffsbeschränkungen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verfuegbarkeit_zugriffsbeschraenkungen.html>`_
+
 Im Feld Zugriffsbeschränkungen kann aus einer Auswahlliste ein Grund angegeben werden, warum die Daten einer Einschränkung unterliegen. Trifft keiner dieser Gründe zu, ist der Eintrag „Es gelten keine Beschränkungen“ anzugeben.
 
 **Hinweis:** *Für INSPIRE-Daten ist dieses Feld ein Pflichtfeld.*
 
 
 Nutzungsbedingungen
-^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^
+
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-verfuegbarkeit_nutzungsbedingungen.png
+
+Abb.: Auswahlfelder - Nutzungsbedingungen mit Quellvermerk
+
+`Auswahlliste der Nutzungsbedingungen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verfuegbarkeit_auswahlliste_verfuegbarkeit_nutzungsbedingungen.html>`_
 
 Nutzungsbedingungen sind ein einseitig vorformulierter Vertrag, mit dem der Anbieter (der Datenbereitsteller) die Nutzer der Daten über ihre Rechte und Pflichten informiert.
 In der Tabellenspalte Nutzungsbedingungen ist eine Auswahlliste mit Lizenzen hinterlegt, diese beschreiben vordefinierte Nutzungsbedingungen. Weiterhin besteht die Möglichkeit Nutzungsbedingungen per Freitext in die Zeile einzutragen oder auf Nutzungsbedingungen zu verweisen.
@@ -626,11 +628,7 @@ Quellenvermerk
 
 In dieser Tabellenspalte wird das Copyright des Datenbreitstellers angegeben und die Angabe für das Jahr des Datenbezugs.
 
-**Beispiel:** © GeoBasis-DE / BKG (Jahr des letzten Datenbezugs)
-
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-verfuegbarkeit_nutzungsbedingungen-zugriffsbeschraenkungen.png
-
-Abb.: Auswahlfelder - Zugriffsbeschränkungen, Nutzungsbedingungen mit Quellvermerk
+**Beispiel:** *© GeoBasis-DE / BKG (Jahr des letzten Datenbezugs)*
 
 
 Abschnitt Verweise
