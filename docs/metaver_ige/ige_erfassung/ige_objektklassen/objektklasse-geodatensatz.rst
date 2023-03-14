@@ -561,77 +561,7 @@ Abschnitt Verfügbarkeit
 ^^^^^^^^^^^^^^^^^^^^^^^
 
 
-Zugriffsbeschränkungen
-'''''''''''''''''''''''
 
-Das Feld Zugriffsbeschränkungen ist ein Feld, welches im Zusammenhang mit INSPIRE steht. Es beschreibt die Art der Zugriffsbeschränkung. Bei frei nutzbaren Daten bzw. Services soll der Eintrag "Es gelten keine Zugriffsbeschränkungen" ausgewählt werden (ISO: accessConstraints).
-
-**Beispiel:** *aufgrund der Rechte des geistigen Eigentums*
-
-Auswahlliste Zugriffsbeschränkungen
-
- - aufgrund der Rechte des geistigen Eigentums
- - aufgrund der Vertraulichkeit der Verfahren von Behörden
- - aufgrund der Vertraulichkeit personenbezogener Daten
- - aufgrund der Vertraulichkeit von Geschäfts- oder Betriebsinformationen
- - aufgrund des Schutzes einer Person
- - aufgrund des Schutzes von Umweltbereichen
- - aufgrund internationaler Beziehungen, der öffentliche Sicherheit oder der Landesverteidigung
- - aufgrund laufender Gerichtsverfahren
- - Es gelten keine Zugriffsbeschränkungen
-
-
-Nutzungsbedingungen
-''''''''''''''''''''
-
-Einschränkungen zum Schutz der Privatsphäre oder des geistigen Eigentums sowie andere besondere Einschränkungen oder Warnungen bezüglich der Nutzung der Ressource oder der Metadaten (ISO: useConstraints).
-
-In das Feld Nutzungsbedingungen sollen die Bedingungen zur Nutzung des beschriebenen Datensatzes bzw. des Dienstes eingetragen werden. In die entsprechende Zeile kann ein beliebiger Text geschrieben werden.
-
-**Beispiel:** *Nutzungsbedingungen für das amtliche Vermessungswesen Sachsen-Anhalt*
-
-Es ist auch möglich, vordefinierten Text aus einer Liste auszuwählen. 
-
-Auswahlliste Nutzungsbedingungen
-
- - Es gelten keine Bedingungen
- - Amtliches Werk, lizenzfrei nach §5 Abs. 1 UrhG
- - Andere Freeware Lizenz
- - Andere geschlossene Lizenz
- - Andere kommerzielle Lizenz
- - Andere offene Lizenz
- - Andere Open Source Lizenz
- - BSD Lizenz
- - Creative Commons CC Zero License (cc-zero)
- - Creative Commons Namensnennung (CC-BY)
- - Creative Commons Namensnennung - - Keine Bearbeitung 4.0 International (CC BY-ND 4.0)
- - Creative Commons Namensnennung - Nicht kommerziell (CC BY-NC)
- - Creative Commons Namensnennung - Nicht kommerziell 4.0 International (CC BY-NC 4.0)
- - Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen (CC-BY-SA)
- - Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International (CC-BY-SA 4.0)
- - Creative Commons Namensnennung -- Keine Bearbeitung 3.0 Unported (CC BY-ND 3.0)
- - Creative Commons Namensnennung – 4.0 International (CC BY 4.0)
- - Datenlizenz Deutschland Namensnennung 1.0
- - Datenlizenz Deutschland Namensnennung 2.0
- - Datenlizenz Deutschland Namensnennung nicht-kommerziell 1.0
- - Datenlizenz Deutschland – Zero – Version 2.0
- - eingeschränkte Geolizenz
- - Freie Softwarelizenz der Apache Software Foundation
- - Geolizenz Ia Namensnennung
- - GNU Free Documentation License (GFDL)
- - GNU General Public License version 3.0 (GPLv3)
- - Mozilla Public License 2.0 (MPL)
- - Nutzung der Daten nur nach Rücksprache mit dem Dateneigentümer
- - Nutzungsbestimmungen für die Bereitstellung von Geodaten des Bundes
- - Open Data Commons Attribution License (ODC-BY 1.0)
- - Open Data Commons Open Database License (ODbL)
- - Open Data Commons Public Domain Dedication and Licence (ODC PDDL)
- - Public Domain Mark 1.0 (PDM)
-
-Bei frei nutzbaren Daten bzw. Diensten ist beispielsweise "Es gelten keine Bedingungen" aus der Liste zu verwenden. Aber auch die Lizenzen für Open Data-Objekte finden Sie in dieser Liste (Datenlizenz Deutschland). 
-
-Haben Sie immer wiederkehrende Nutzungsbedingungen, die nicht in der Liste auftauchen, so wenden Sie sich bitte direkt an die Koordinierungsstelle Metadaten im Ministerium für Umwelt, Landwirtschaft und Energie (metadaten@mule.sachsen-anhalt.de). 
-Wir erweitern die Liste gern um Ihren Eintrag. 
 
  
 

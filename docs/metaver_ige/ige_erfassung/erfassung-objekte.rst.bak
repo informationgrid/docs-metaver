@@ -478,9 +478,7 @@ Im Intervall
 
 Abb.: Feld Im Intervall
 
-
 `Auswahlliste - Im Intervall <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_zeitbezug_intervalle.html>`_
-
 
 Mit Intervall wird der zeitliche Abstand (Frequenz) der Datenerhebung angegeben. Erfolgt die Datenerhebung kontinuierlich oder periodisch (siehe Feld Periodizität), so wird diese Angabe hier präzisiert. Es stehen Felder für den freien Eintrag einer Ziffer und eine Auswahlliste zur Verfügung, die zeitliche Intervalle vorgibt. Der Eintrag von "10" und "Tage" bedeutet, dass die beschriebenen Daten alle 10 Tage aktualisiert werden.
 
@@ -614,6 +612,62 @@ In dieser Tabellenspalte wird das Copyright des Datenbreitstellers angegeben und
 **Beispiel:** *© GeoBasis-DE / BKG (Jahr des letzten Datenbezugs)*
 
 
+Anwendungseinschränkungen
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-verfuegbarkeit_nutzungsbedingungen.png
+
+Abb.: Auswahlfelder - Nutzungsbedingungen mit Quellvermerk
+
+Das Feld Anwendungseinschränkungen dient der Beschreibung, welche Einschränkung oder Eignung auf die Ressourcen oder Metadaten zutreffen (ISO: useLimitation).
+
+**Beispiel:** *Registrierung erforderlich*
+
+ 
+Datenformat
+^^^^^^^^^^^
+
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-verfuegbarkeit_datenformat.png
+
+Abb.: Tabelle Datenformat
+
+Angabe des Formats der Daten in DV-technischer Hinsicht, in welchem diese verfügbar sind. Das Format wird durch 4 unterschiedliche Eingaben spezifiziert. Wenn die erste Spalte befüllt wird, müssen auch die anderen Eintragungen vorgenommen werden. 
+
+Name: Angabe des Formatnamens, wie z.B. "Date" 
+Version: Version der verfügbaren Daten (z.B. "Version 8" oder "Version vom 26.02.2020") Kompressionstechnik: Kompression, in welcher die Daten geliefert werden (z.B. "WinZip", "keine") 
+Bildpunkttiefe: BitsPerSample.
+
+**Beispiel:** *Formatkürzel: tif, Version: 8.0, Kompression: LZW, Bildpunkttiefe: 8 Bit*
+
+Bei der Auswahl des INSPIRE-Datenformates GML muss die Version eingetragen werden.
+
+
+Medienoptionen
+^^^^^^^^^^^^^^
+
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-verfuegbarkeit_medienoptionen.png
+
+Abb.: Tabelle Medienoptionen
+
+Angabe, auf welchen Medien die Daten zur Verfügung gestellt werden können. Hier können elektronische Datenträger als auch Medien in Papierform angegeben werden, auf denen die im Objekt beschriebenen Daten dem Nutzer zur Verfügung stehen. Es können mehrere Medien eingetragen werden. Medium: Angabe der Medien, auf denen der Datensatz bereitgestellt werden kann (ISO-Auswahlliste) Datenvolumen: Umfang des Datenvolumens in MB (Fließkommazahl) Speicherort: Ort der Datenspeicherung im Intranet/Internet, Angabe als Verweis.
+
+`Auswahlliste Medium <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verfuegbarkeit_medienoption.html>`_
+
+**Beispiel:** *Medium: CD-ROM Datenvolumen: 700 MB Speicherort: Explorer Z:/Bereich_51/Metainformation/2020-02-26_Hilfetexte.doc*
+
+
+Bestellinformation
+^^^^^^^^^^^^^^^^^^
+
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-verfuegbarkeit_bestellinformation.png
+
+Abb.: Textfeld Bestellinformation
+
+Angabe von generellen Informationen wie Bedingungen oder Konditionen zur Bestellung.
+
+Beispiel: Die Lieferzeit beträgt 3 Wochen
+
+
 Abschnitt Verweise
 ------------------
 
@@ -679,17 +733,7 @@ Wurde der Dialog von einem Feld in einer anderen Rubrik (z.B. Objektklasse Anwen
 Abb.: Erfassungsmaske - Eingabefelder mit Verweisen
 
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweistyp_basisdaten.png
-
-Abb.: Dialogfenster - Verweistyp - Basisdaten
-
-
-**Beispiel:** *Objektklasse Anwendung / Verweistyp: Basisdaten*
-
-
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweistyp_datengrundlage.png
-
-Abb.: Dialogfenster - Verweistyp - Methode / Datengrundlage
+`Auswahlliste der Verweistypen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verweise_verweistypen.html>`_
 
 
 **Beispiel:** *Objektklasse Datenbank / Verweistyp: Methode / Datengrundlage*
@@ -767,6 +811,35 @@ Im Feld „Internet-Adresse (URL)“ wird die URL der Internetseite eingetragen,
 Dateiformat
 ^^^^^^^^^^^
 Es sind verschiedene Dateiformat-Einträge möglich, die angezeigten Dateiformate richten sich nach der gewählten Objektklasse.
+
+`Auswahlliste der Dateiformate <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verweise_dateiformate.html>`_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_dateiformate.png
