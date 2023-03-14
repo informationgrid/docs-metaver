@@ -617,7 +617,7 @@ Nutzungsbedingungen
 
 Abb.: Auswahlfelder - Nutzungsbedingungen mit Quellvermerk
 
-`Auswahlliste der Nutzungsbedingungen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verfuegbarkeit_auswahlliste_verfuegbarkeit_nutzungsbedingungen.html>`_
+`Auswahlliste der Nutzungsbedingungen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verfuegbarkeit_nutzungsbedingungen.html>`_
 
 Nutzungsbedingungen sind ein einseitig vorformulierter Vertrag, mit dem der Anbieter (der Datenbereitsteller) die Nutzer der Daten über ihre Rechte und Pflichten informiert.
 In der Tabellenspalte Nutzungsbedingungen ist eine Auswahlliste mit Lizenzen hinterlegt, diese beschreiben vordefinierte Nutzungsbedingungen. Weiterhin besteht die Möglichkeit Nutzungsbedingungen per Freitext in die Zeile einzutragen oder auf Nutzungsbedingungen zu verweisen.

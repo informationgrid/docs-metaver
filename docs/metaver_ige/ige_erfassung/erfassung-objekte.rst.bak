@@ -599,7 +599,9 @@ Im Abschnitt Verfügbarkeit wird angegeben, ob die zu beschreibenden Daten einer
 Zugriffsbeschränkungen
 ^^^^^^^^^^^^^^^^^^^^^^
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-verfuegbarkeit_zugriffsbeschraenkungen.png
+
+Abb.: Auswahlfeld - Zugriffsbeschränkungen
 
 `Auswahlliste der Zugriffsbeschränkungen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verfuegbarkeit_zugriffsbeschraenkungen.html>`_
 
@@ -611,7 +613,9 @@ Im Feld Zugriffsbeschränkungen kann aus einer Auswahlliste ein Grund angegeben 
 Nutzungsbedingungen
 ^^^^^^^^^^^^^^^^^^^
 
-[Grafik]
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-verfuegbarkeit_nutzungsbedingungen.png
+
+Abb.: Auswahlfelder - Nutzungsbedingungen mit Quellvermerk
 
 `Auswahlliste der Nutzungsbedingungen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verfuegbarkeit_auswahlliste_verfuegbarkeit_nutzungsbedingungen.html>`_
 
@@ -624,11 +628,7 @@ Quellenvermerk
 
 In dieser Tabellenspalte wird das Copyright des Datenbreitstellers angegeben und die Angabe für das Jahr des Datenbezugs.
 
-**Beispiel:** © GeoBasis-DE / BKG (Jahr des letzten Datenbezugs)
-
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-verfuegbarkeit_nutzungsbedingungen-zugriffsbeschraenkungen.png
-
-Abb.: Auswahlfelder - Zugriffsbeschränkungen, Nutzungsbedingungen mit Quellvermerk
+**Beispiel:** *© GeoBasis-DE / BKG (Jahr des letzten Datenbezugs)*
 
 
 Abschnitt Verweise
