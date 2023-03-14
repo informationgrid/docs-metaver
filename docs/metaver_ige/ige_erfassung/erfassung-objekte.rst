@@ -627,13 +627,14 @@ Datenformat
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-verfuegbarkeit_datenformat.png
 
-Abb.: Tabelle Datenformat - tif, Version: 8.0, Kompression: LZW, Bildpunkttiefe: 8 Bit
+Abb.: Beispiel - tif / Version: 8.0 / Kompression: LZW / Bildpunkttiefe: 8 Bit
 
 Angabe des Formats der Daten in DV-technischer Hinsicht, in welchem diese verfügbar sind. Das Format wird durch 4 unterschiedliche Eingaben spezifiziert. Wenn die erste Spalte befüllt wird, müssen auch die anderen Eintragungen vorgenommen werden. 
 
-Name: Angabe des Formatnamens, wie z.B. "Date" 
-Version: Version der verfügbaren Daten (z.B. "Version 8" oder "Version vom 26.02.2020") Kompressionstechnik: Kompression, in welcher die Daten geliefert werden (z.B. "WinZip", "keine") 
-Bildpunkttiefe: BitsPerSample
+ - Name: Angabe des Formatnamens, wie z.B. "Date" 
+ - Version: Version der verfügbaren Daten (z.B. "Version 8" oder "Version vom 26.02.2020") 
+ - Kompressionstechnik: Kompression, in welcher die Daten geliefert werden (z.B. "WinZip", "keine") 
+ - Bildpunkttiefe: BitsPerSample
 
 **Hinweis:** *Bei der Auswahl des INSPIRE-Datenformates GML muss die Version eingetragen werden.*
 
@@ -643,7 +644,7 @@ Medienoptionen
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-verfuegbarkeit_medienoptionen.png
 
-Abb.: Tabelle Medienoptionen - CD-ROM / 700 MB / Explorer Z:/Bereich_51/Metainformation/2020-02-26_Hilfetexte.doc
+Abb.: Beispiel - CD-ROM / 700 MB / Explorer Z:/Bereich_51/Metainformation/2020-02-26_Hilfetexte.doc
 
 Angabe, auf welchen Medien die Daten zur Verfügung gestellt werden können. Hier können elektronische Datenträger als auch Medien in Papierform angegeben werden, auf denen die im Objekt beschriebenen Daten dem Nutzer zur Verfügung stehen. Es können mehrere Medien eingetragen werden. Medium: Angabe der Medien, auf denen der Datensatz bereitgestellt werden kann (ISO-Auswahlliste) Datenvolumen: Umfang des Datenvolumens in MB (Fließkommazahl) Speicherort: Ort der Datenspeicherung im Intranet/Internet, Angabe als Verweis.
 
@@ -667,6 +668,7 @@ Abschnitt Verweise
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-abschnitt_verweise.png
 
 Im Abschnitt Verweise können Verlinkungen zu anderen Objekten innerhalb des Kataloges angelegt, oder es können Verweise mit URLs angelegt werden. Bereits angelegte Verweise lassen sich erneut bearbeiten.
+
 
 Verweise zu
 ^^^^^^^^^^^
