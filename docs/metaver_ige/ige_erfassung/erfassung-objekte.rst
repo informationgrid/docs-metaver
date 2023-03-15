@@ -367,6 +367,99 @@ Abb.: Geothesaurus-Navigator
 
 Abb.: Tabelle Geothesaurus-Raumbezug mit Eintrag Landkreis Harz
 
+Im Abschnitt Geothesaurus-Raumbezug wird die räumliche Ausdehnung des betreffenden Objektes angezeigt. Es wird ein Begrenzungsrechteck (Bounding Box) aus geografischen Koordinaten ("Min" und "Max") angegeben, in dem die Ressource liegt.
+
+Als Ausdehnung wird bei neuen Objekten automatisch standardmäßig das Bundesland Sachsen-Anhalt eingetragen. Diesen Eintrag können Sie bei Bedarf löschen (Zeile markieren, rechte Maustaste, "Zeile löschen"). 
+
+Zur Eingabe eines anderen geografischen Bereichs wählen Sie den "Geothesaurus-Navigator". Sie öffnen ihn durch einen Klick auf den Link.
+
+Über den Geothesaurus-Navigator kann nach den Koordinaten der räumlichen Einheit gesucht werden.
+ 
+Geben Sie in das Suchfeld den geografischen Begriff (oder einen Teil des Begriffs) ein den Sie suchen. Nach dem Klicken auf die Schaltfläche „In Geo-Thesaurus suchen“ wird nach diesem Begriff im SNS (Semantic Network Service des Umweltbundesamtes) gesucht und die Ergebnisse werden unter Auswahl aufgelistet. Sie können einen oder mehrere Begriffe dieser Liste markieren und über die Schaltfläche "Übernehmen" als Raumbezug dem Objekt hinzufügen. Neben den geografischen Begriffen werden damit automatisch auch die Koordinaten des geografischen Bereiches in das Objekt übernommen. 
+
+**Hinweis:** *Für eine breitere Suche können Sie Wildcards verwenden, z.B. *Harz oder *Talsperre.*
+
+Sollte der gewünschte geografische Begriff nicht vorhanden sein, besteht die Möglichkeit, diesen zusammen mit den Koordinaten manuell einzutragen. Wählen Sie unter der Tabelle "Freier Raumbezug" den Link "Raumbezug hinzufügen".
+
+**Hinweise:**
+*Der Link "Raumbezug hinzufügen" ist nur sichtbar, wenn die optionalen Felder eingeblendet sind.*
+
+
+Umgerechnete Koordinaten
+''''''''''''''''''''''''
+
+Umrechnung der unter Geothesaurus-Raumbezug ausgewählten Daten in die in der Auswahllist zur Verfügung stehenden Koordinatensysteme.
+
+
+Freier Raumbezug
+''''''''''''''''
+
+Informationen über die räumliche Zuordnung des in dem Objekt beschriebenen Datenbestand. Es können frei wählbare Raumbezugs-Koordinaten hinzugefügt werden. Der Wertebereich im WGS ist folgendermaßen definiert:
+
+- Breite (Latitude): -90 bis 90
+- Länge (Longitude): -180 bis 180
+
+ 
+Raumbezug hinzufügen
+'''''''''''''''''''''
+
+In dem sich öffnenden Dialog können Sie einen freien Raumbezug in dem Koordinatensystem angeben, welches Sie (im Dialogfester unten) ausgewählt haben. 
+
+Mit einem Klick auf die Schaltfläche „Hinzufügen“ werden die Angaben in das Feld „Freier Raumbezug“ des Objektes übernommen. 
+ 
+
+erben
+'''''
+
+Über den Link "erben" können alle freien Raumbezüge des übergeordneten Objektes übernommen werden. Dabei werden nur neue Raumbezüge übernommen.
+
+
+Raumbezugsystem
+'''''''''''''''
+
+Über ein Dropdownmenü erfolgt an dieser Stelle die Auswahl des Raumbezugssystems, welches in der Ressource verwendet wurde. 
+
+**Anmerkung:**
+*Die Arbeitsgemeinschaft der Vermessungsverwaltungen der Länder der Bundesrepublik Deutschland (AdV) hat 1991 die Einführung des ETRS89 als Bezugssystem Lage und 1995 die Einführung von UTM als ebenes Koordinatensystem für ETRS89 beschlossen. Dies geschieht im Einklang mit den Empfehlungen der EU zur Realisierung eines europaweiten Raumbezuges und somit zur Schaffung einer einheitlichen Basis für die zukunftsfähige Geodateninfrastruktur in Europa.*
+
+**Beispiel:** *EPSG:4326 / WGS 84 / geographisch*
+
+`Auswahlliste der Raumbezugssysteme <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_raumbezug_raumbezugsysteme.html>`_
+ 
+Höhe
+'''''
+
+Minimum / Maximum
+'''''''''''''''''
+
+Angabe der Werte für die Höhe über einem Punkt (siehe Pegel) eingegeben. Ist eine vertikale Ausdehnung vorhanden, so kann für das Maximum ein größerer Wert eingegeben werden. Sollte dies nicht der Fall sein, so ist die Eingabe eines Minimalwerts ausreichend, dieser Wert wird dann automatisch ebenso für den Maximalwert übernommen.
+
+**Beispiel:** *Minimum 100, Maximum 110*
+
+
+Maßeinheit
+'''''''''''
+
+Angabe der Maßeinheit, in der die Höhe gemessen wird.
+
+**Beispiel:** *Meter*
+
+
+Vertikaldatum
+''''''''''''''
+
+Angabe des Referenzpegels, zu dem die Höhe relativ gemessen wird. In Deutschland ist dies i.A. der Pegel Amsterdam.
+
+**Beispiel:** *Pegel Amsterdam*
+
+Erläuterungen
+'''''''''''''
+
+Zusätzliche Angaben zum Raumbezug.
+
+**Beispiel:** *Die Koordinaten für die Fachliche Gebietseinheit sind ungefähre Angaben.*
+
+
 
 Abschnitt Zeitbezug
 -------------------
@@ -771,34 +864,6 @@ Es sind verschiedene Dateiformat-Einträge möglich, die angezeigten Dateiformat
 
 `Auswahlliste der Dateiformate <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verweise_dateiformate.html>`_
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_dateiformate.png
 
 Abb.: Beispiel - Dateiformate für die Objektklasse Datensatz
@@ -857,3 +922,17 @@ Verweise erben
 Abb.: Tabelle Verweise - erben
 
 Über den Link „erben“ können die Inhalte der Tabelle „Verweise zu“ vom übergeordneten Objekt übernommen werden. 
+
+
+
+Verweis zu
+''''''''''
+
+Es gibt die Möglichkeit, Verweise von einem Objekt zu einem anderen Objekt oder zu einer Internetadresse (URL) zu erstellen. In dieser Tabelle werden alle Verweise zusammenfassend aufgeführt, welche im aktuellen Objekt angelegt wurden. Über dem Link "Verweise anlegen/bearbeiten" öffnet sich ein Dialog, mit dem weitere Einzelheiten zu den Verweisen eingesehen und editiert werden können. Es ist ferner möglich, weitere Verweise über diesen Dialog hinzuzufügen. Wenn Open-Data ausgewählt ist, muss mindestens ein Verweis vom Typ "Datendownload" vorhanden sein, bevor das Objekt veröffentlicht werden kann!
+
+
+Verweis von
+'''''''''''
+
+In dieser Tabelle werden alle Verweise von denjenigen Objekten aufgeführt, welche auf das aktuelle Objekt verweisen. Das Editieren oder Hinzufügen ist nicht möglich. Sollen die Verweise geändert oder ergänzt werden, so muss zu dem entsprechenden Objekt gewechselt werden.
+
