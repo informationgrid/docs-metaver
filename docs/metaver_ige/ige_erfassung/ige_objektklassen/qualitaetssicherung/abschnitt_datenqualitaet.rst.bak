@@ -2,14 +2,8 @@
 Abschnitt Datenqualität
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/ige-abschnitt_datenqualitaet.png
-
 Datendefizit
 ''''''''''''
-
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/fachbezug_datengrundlage.png
- 
-Abb.: Feld Datengrundlage - Beispiel: "Kartieroriginale der Pflanzenerfassung"
 
 Eingabe einer Prozentangabe zum Anteil der Daten, die im Vergleich zum beschriebenen Geltungsbereich fehlen. Diese kann sich auf die Anzahl der Kartenblätter aber auch auf das Datendefizit einer Gesamtkarte beziehen.
 

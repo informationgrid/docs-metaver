@@ -332,10 +332,10 @@ Angabe der Methode, die zur Erstellung des Datenobjektes geführt hat. Der Eintr
 Abschnitt Datenqualität
 ^^^^^^^^^^^^^^^^^^^^^^^
 
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/ige-abschnitt_datenqualitaet.png
+
+
 Der `Abschnitt Datenqualität <https://metaver-bedienungsanleitung.readthedocs.io/de/latest//metaver_ige/ige_erfassung/ige_objektklassen/qualitaetssicherung/ige_auswahllisten/abschnitt_datenqualitaet.html>`_ wird nur angezeigt, dieser in der Katalogverwaltung aktiviert wurde.
-
-
-
 
 
 Abschnitt Raumbezugsystem
