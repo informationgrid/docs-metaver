@@ -20,20 +20,23 @@ Installierte InGrid-Version auf test.metaver.de
 
 
 InGrid-Version von Entwicklern für die Installation breitgestellt
-   - InGrid-Version: 6.0.0
+   - InGrid Portal-Version: 6.0.0
+   - InGrid Editor-Version:
    - Release: 
 
-Update auf METAVER-Livesystem Version 6.0.0 : xx.xx.2023
+Update auf METAVER-Livesystem Version 6.0.0 : April 2023
  
  
 
 **Änderungen in den Versionen**
 
 
-Version 6.0.0 (xx.xx.2023)
+Portal Version 6.0.0 (April 2023)
+
+(InGrid Editor Version 5.18 (April 2023))
 
 
-Version 5.14.4 (24.11.2022)
+InGrid Editor Version 5.14.4 (24.11.2022)
 	
 
 Version 5.12 (12.04.2022)
