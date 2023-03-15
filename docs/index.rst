@@ -3,8 +3,8 @@
    :width: 300
 
 
-Bedienungsanleitung InGrid Editor (IGE)/ METAVER
-==========================================
+Bedienungsanleitung InGrid Editor (IGE)
+=======================================
 
 Version der Bedienungsanleitung
    - InGrid-Version: 5.14.2
