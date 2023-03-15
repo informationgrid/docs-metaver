@@ -260,9 +260,6 @@ In das Feld "Freie Schlagworte eintragen" werden die Schlagworte eingegeben, üb
 **Hinweis:** *Einzelne Schlagworte können durch ein Leerzeichen, oder durch ein Komma getrennt, angegeben werden. Zusammengehörige Worte werden in Anführungszeichen gesetzt.*
 
 
-
-
-
 Optionale Schlagworte
 ^^^^^^^^^^^^^^^^^^^^^
 
