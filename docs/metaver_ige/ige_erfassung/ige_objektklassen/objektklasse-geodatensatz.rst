@@ -63,7 +63,6 @@ Abb.: Checkbox Open Data
 
 Die Checkbox Open Data ist unter Erfassung von Objekten im `Abschnitt Allgemeines <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/objektklasse-geodatensatz.html#abschnitt-allgemeines>`_  beschrieben, da sie auf mehrere Metadatentypen zutrifft.
 
-
 Abschnitt Verschlagwortung
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -559,68 +558,6 @@ Dieses Feld wird bei der Auswahl der "INSPIRE-Themen" oder der "Art des Dienstes
 
 Abschnitt Verfügbarkeit
 ^^^^^^^^^^^^^^^^^^^^^^^
-
-
-
-
- 
-
-Anwendungseinschränkungen
-'''''''''''''''''''''''''
-
-Das Feld Anwendungseinschränkungen dient der Beschreibung, welche Einschränkung oder Eignung auf die Ressourcen oder Metadaten zutreffen (ISO: useLimitation).
-
-**Beispiel:** *Registrierung erforderlich*
-
- 
-
-Datenformat
-'''''''''''
-
-Angabe des Formats der Daten in DV-technischer Hinsicht, in welchem diese verfügbar sind. Das Format wird durch 4 unterschiedliche Eingaben spezifiziert. Wenn die erste Spalte befüllt wird, müssen auch die anderen Eintragungen vorgenommen werden. 
-
-Name: Angabe des Formatnamens, wie z.B. "Date" 
-Version: Version der verfügbaren Daten (z.B. "Version 8" oder "Version vom 26.02.2020") Kompressionstechnik: Kompression, in welcher die Daten geliefert werden (z.B. "WinZip", "keine") 
-Bildpunkttiefe: BitsPerSample.
-
-**Beispiel:** *Formatkürzel: tif, Version: 8.0, Kompression: LZW, Bildpunkttiefe: 8 Bit*
-
-
-Bei der Auswahl des INSPIRE-Datenformates GML muss die Version eingetragen werden.
-
-
-Medienoptionen
-'''''''''''''''
-
-Angabe, auf welchen Medien die Daten zur Verfügung gestellt werden können. Hier können elektronische Datenträger als auch Medien in Papierform angegeben werden, auf denen die im Objekt beschriebenen Daten dem Nutzer zur Verfügung stehen. Es können mehrere Medien eingetragen werden. Medium: Angabe der Medien, auf denen der Datensatz bereitgestellt werden kann (ISO-Auswahlliste) Datenvolumen: Umfang des Datenvolumens in MB (Fließkommazahl) Speicherort: Ort der Datenspeicherung im Intranet/Internet, Angabe als Verweis.
-
-Auswahlliste Medium
-
- - 0,5-Zoll Kassette
- - 3,5-Zoll Diskette
- - analoge Fotografie
- - Ausdruck
- - CD-ROM
- - DVD	 - DVD-ROM
- - E-Mail
- - Faxabruf
- - Infokiosk
- - Mikrofilm
- - Mobilfunk	 - Online Link
- - Rundfunk
- - Telefonverbindung
- - unbekannt (*)
- - Videotext
- - ZIP-Laufwerk
-
-**Beispiel:** *Medium: CD-ROM Datenvolumen: 700 MB Speicherort: Explorer Z:/Bereich_51/Metainformation/2020-02-26_Hilfetexte.doc*
-
-Bestellinformation
-''''''''''''''''''
-
-Angabe von generellen Informationen wie Bedingungen oder Konditionen zur Bestellung.
-
-Beispiel: Die Lieferzeit beträgt 3 Wochen
 
 
 Abschnitt Verweise
