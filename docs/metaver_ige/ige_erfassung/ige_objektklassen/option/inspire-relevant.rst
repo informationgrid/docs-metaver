@@ -122,6 +122,23 @@ Abb.: ISO-XML - Angabe des Schlüsselwortes "inspireidentifiziert"
 Abschnitt Zusatzinformation
 '''''''''''''''''''''''''''
 
+.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-03_verschlagwortung/ige-abschnitt_verschlagwortung.png
+
+
+Konformität
+'''''''''''
+
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/zusatzinformation_konformitaet.png
+ 
+Abb.: Feld Konformität
+
+Hier muss angegeben werden, zu welcher Durchführungsbestimmung der INSPIRE-Richtlinie bzw. zu welcher anderweitigen Spezifikation die beschriebenen Daten konform sind. (INSPIRE-Pflichtfeld)
+
+Dieses Feld wird bei der Auswahl der "INSPIRE-Themen" oder der "Art des Dienstes" automatisch befüllt. Es muss dann nur der Grad der Konformität manuell eingetragen werden.
+
+**Achtung!**
+*Bitte entsprechend den Empfehlungen des AdV-Metadatenprofils nur die Werte "konform" und "nicht konform" im Feld "Grad der Konformität" verwenden. Für alle nicht INSPIRE-Objekte, sollte hier die „INSPIRE-Richtlinie“ mit dem Wert „nicht evaluiert“ ausgewählt werden.* 
+
 .. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-08_zusatzinformation/ige-abschnitt_zusatzinformation.png
 
 
@@ -143,5 +160,3 @@ Abb.: Tabelle "Konformität" - Konformität hinzufügen oder Operation bearbeite
 .. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-inspire-relevant/zusatzinformation-konformitaet-freier-eintrag.png
 
 Abb.: Tabelle "Konformität" - Konformität hinzufügen oder Operation bearbeiten / freier Eintrag
-   
-   
