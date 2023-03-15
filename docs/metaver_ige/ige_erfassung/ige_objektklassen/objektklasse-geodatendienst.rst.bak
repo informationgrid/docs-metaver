@@ -403,6 +403,8 @@ Beispiel: Der Datensatz ist eine Shape-Datei, die alle Grundwassermessstellen in
 Daten-Dienstekopplung
 '''''''''''''''''''''
 
+`Datenkopplung im Datensatz <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/objektklasse-geodatensatz.html#darstellender-dienst>`_
+
 Dargestellte Daten
 ''''''''''''''''''
 Das Metadatenfeld „Dargestellte Daten“ bzw. „Gekoppelte Daten auswählen“ ist für den Objekttyp „Geodatendienst“ von besonderer Bedeutung. Ziel ist es, hier alle Metadatensätze zu Geodaten aufzulisten, die Bestandteil des Geodatendienstes sind. Auf diese Weise erfolgt eine Kopplung der Daten und Dienste und dieses wiederum hat den nutzerfreundlichen Vorteil, dass sich der User gefundene Daten sofort über einen Link (im Datensatz) im Kartenviewer ansehen kann (siehe Daten-Dienste-Kopplung). 
@@ -511,74 +513,7 @@ Raumbezugsystem
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/operationen/fachbezug_name-der-operation.png
 
-Abb.: `Auswahlliste - Auswahlliste Raumbezugssystem <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_raumbezugssystem.html>`_
-
-Auswahlliste Raumbezugssystem
-
-  - CRS 84: CRS 84 / mathematisch
-  - DE_42/83 / GK_3
-  - DE_DHDN / GK_3
-  - DE_DHDN / GK_3_BW100
-  - DE_DHDN / GK_3_HE100
-  - DE_DHDN / GK_3_NW177
-  - DE_DHDN / GK_3_RDN
-  - DE_DHDN / GK_3_RP101
-  - DE_DHDN / GK_3_RP180
-  - DE_ETRS89 / UTM
-  - DE_PD/83 / GK_3
-  - DE_PD/83 / GK_9-15, Bezug 12. Meridian (BY)
-  - DE_RD/83 / GK_3
-  - EPSG 2176: ETRS89 / Poland CS2000 zone 5
-  - EPSG 23031: ED50 / UTM Zone 31N
-  - EPSG 23032: ED50 / UTM Zone 32N
-  - EPSG 23033: ED50 / UTM Zone 33N
-  - EPSG 2397: Pulkovo 1942(83) / Gauss-Kruger zone 3
-  - EPSG 2398: Pulkovo 1942(83) / Gauss-Kruger zone 4
-  - EPSG 2399: Pulkovo 1942(83) / Gauss-Kruger zone 5
-  - EPSG 25831: ETRS89 / UTM Zone 31N (INSPIRE)
-  - EPSG 25832: ETRS89 / UTM Zone 32N (INSPIRE)
-  - EPSG 25833: ETRS89 / UTM Zone 33N (INSPIRE)
-  - EPSG 25834: ETRS89 / UTM Zone 34N (INSPIRE)
-  - EPSG 28462: Pulkovo 1942 / Gauss-Krüger 2N
-  - EPSG 28463: Pulkovo 1942 / Gauss-Krüger 3N
-  - EPSG 3034: ETRS89 / LCC Europa (INSPIRE)
-  - EPSG 3035: ETRS89 / LAEA Europa (INSPIRE)
-  - EPSG 3038: ETRS89 / ETRS-TM26
-  - EPSG 3039: ETRS89 / ETRS-TM27
-  - EPSG 3040: ETRS89 / ETRS-TM28
-  - EPSG 3041: ETRS89 / ETRS-TM29
-  - EPSG 3042: ETRS89 / ETRS-TM30
-  - EPSG 3043: ETRS89 / ETRS-TM31
-  - EPSG 3044: ETRS89 / UTM Zone 32N (N-E) (INSPIRE)
-  - EPSG 3045: ETRS89 / UTM Zone 33N (N-E) (INSPIRE)
-  - EPSG 3046: ETRS89 / ETRS-TM34
-  - EPSG 3047: ETRS89 / ETRS-TM35
-  - EPSG 3068: DHDN / Soldner Berlin
-  - EPSG 31466: DHDN / Gauss-Krüger Zone 2
-  - EPSG 31467: DHDN / Gauss-Krüger Zone 3
-  - EPSG 31468: DHDN / Gauss-Krüger Zone 4
-  - EPSG 31469: DHDN / Gauss-Krüger Zone 5
-  - EPSG 32631: WGS 84 / UTM Zone 31N
-  - EPSG 32632: WGS 84 / UTM Zone 32N
-  - EPSG 32633: WGS 84 / UTM Zone 33N
-  - EPSG 35832: ETRS89 / UTM zone 32N 8d
-  - EPSG 35833: ETRS89 / UTM zone 33N 8d
-  - EPSG 3857: WGS 84 / Pseudo-Mercator
-  - EPSG 4178: Pulkovo 1942(83) / geographisch
-  - EPSG 4230: ED50 / geographisch
-  - EPSG 4258: ETRS89 / geographisch (INSPIRE)
-  - EPSG 4284: Pulkovo 1942 / geographisch
-  - EPSG 4314: DHDN / geographisch
-  - EPSG 4326: WGS 84 / geographisch
-  - EPSG 4647: ETRS89 / UTM Zone 32N (zE-N)
-  - EPSG 4839: ETRS89 / LCC Deutschland (N-E)
-  - EPSG 5650: ETRS89 / UTM Zone 33N (zE-N)
-  - EPSG 5676: DHDN / Gauss-Krüger Zone 2 (E-N)
-  - EPSG 5677: DHDN / Gauss-Krüger Zone 3 (E-N)
-  - EPSG 5678: DHDN / Gauss-Krüger Zone 4 (E-N)
-  - EPSG 5679: DHDN / Gauss-Krüger Zone 5 (E-N)
-  - EPSG 8395: ETRS89 / Gauss-Krüger (CM 9E)
-
+Abb.: `Auswahlliste - Auswahlliste Raumbezugssystem <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_raumbezugsysteme.html>`_
 
 
 Höhe

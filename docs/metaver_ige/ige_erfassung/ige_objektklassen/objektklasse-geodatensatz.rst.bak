@@ -373,11 +373,6 @@ Dieses Feld wird bei der Auswahl der "INSPIRE-Themen" oder der "Art des Dienstes
 
 Beschreibung unter der Option `INSPIRE-relevant <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/option/inspire-relevant.html>`_.
 
-E:\GitHub_Projekte\GitHub_METAVER\docs-metaver\docs\metaver_ige\ige_erfassung\ige_objektklassen\option
-
-**Achtung!**
-*Bitte entsprechend den Empfehlungen des AdV-Metadatenprofils nur die Werte "konform" und "nicht konform" im Feld "Grad der Konformität" verwenden. Für alle nicht INSPIRE-Objekte, sollte hier die „INSPIRE-Richtlinie“ mit dem Wert „nicht evaluiert“ ausgewählt werden.* 
-
 
 
 
