@@ -403,7 +403,7 @@ Beispiel: Der Datensatz ist eine Shape-Datei, die alle Grundwassermessstellen in
 Daten-Dienstekopplung
 '''''''''''''''''''''
 
-`Datenkopplung im Datensatz <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/objektklasse-geodatensatz.html#darstellender-dienst>`_
+`Datenkopplung im Geodatensatz <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/objektklasse-geodatensatz.html#darstellender-dienst>`_
 
 Dargestellte Daten
 ''''''''''''''''''
@@ -453,97 +453,8 @@ Abb.: Detailansicht einer erfolgreichen Daten-Dienste-Kopplung im Portal am Beis
 Abschnitt Raumbezugsystem
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Geothesaurus Raumbezug
-''''''''''''''''''''''
-Im Bereich Geothesaurus-Raumbezug wird die räumliche Ausdehnung des betreffenden Objekts angezeigt. Es wird ein Begrenzungsrechteck (Bounding Box) aus geografischen Koordinaten („Min“ und „Max“) angegeben, in dem die Ressource liegt.
-
-Als Ausdehnung wird bei neuen Objekten automatisch standardmäßig das Bundesland Sachsen-Anhalt eingetragen. Diesen Eintrag können Sie bei Bedarf löschen (Zeile markieren, rechte Maustaste, „Zeile löschen“). 
-Zur Eingabe eines anderen geografischen Bereichs wählen Sie den Geothesaurus-Navigator. Sie öffnen ihn durch einen Klick auf den Link „Geothesaurus-Navigator“.
-
-Über den Geothesaurus-Navigator kann nach den Koordinaten der räumlichen Einheit gesucht werden.
-
-
-Geothesaurus-Navigator
-''''''''''''''''''''''
-Eingabe der Räumlichen Einheit, deren Koordinaten gesucht werden sollen. 
-
-Geben Sie in das Suchfeld den geografischen Begriff (oder einen Teil des Begriffs) ein den Sie suchen. Nach dem Klicken auf die Schaltfläche „In Geo-Thesaurus suchen“ wird nach diesem Begriff im SNS (Semantic Network Service des Umweltbundesamtes) gesucht und die Ergebnisse werden unter Auswahl aufgelistet. Sie können einen oder mehrere Begriffe dieser Liste markieren und über die Schaltfläche "Übernehmen" als Raumbezug dem Objekt hinzufügen. Neben den geografischen Begriffen werden damit automatisch auch die Koordinaten des geografischen Bereiches in das Objekt übernommen. 
-
-Sollte der gewünschte geografische Begriff nicht vorhanden sein, besteht die Möglichkeit, diesen zusammen mit den Koordinaten manuell einzutragen. Wählen Sie unter "Freier Raumbezug" den Link "Raumbezug hinzufügen" z.B. Magdeburg.
-
-**Hinweise:**
-*Der Link "Raumbezug hinzufügen" ist nur sichtbar, wenn die optionalen Felder eingeblendet sind. Für eine breitere Suche können Sie Wildcards verwenden, z.B. Harz* oder *Talsperre.*
-
-
-Umgerechnete Koordinaten
-''''''''''''''''''''''''
-Umrechnung der unter Geothesaurus-Raumbezug ausgewählten Daten in die in der Auswahlbox zur Verfügung stehenden Koordinatensysteme.
-
-
-Freier Raumbezug
-''''''''''''''''
-Informationen über die räumliche Zuordnung des in dem Objekt beschriebenen Datenbestand. Es können frei wählbare Raumbezugs-Koordinaten hinzugefügt werden. Der Wertebereich im WGS ist folgendermaßen definiert:
-
-- Breite (Latitude): -90 bis 90
-- Länge (Longitude): -180 bis 180
-
-
- 
-Raumbezug hinzufügen
-''''''''''''''''''''
-In dem sich öffnenden Dialog können Sie einen freien Raumbezug in dem Koordinatensystem angeben, welches Sie (im Dialogfester unten) ausgewählt haben. 
-
-Mit einem Klick auf die Schaltfläche „Hinzufügen“ werden die Angaben in das Feld „Freier Raumbezug“ des Objektes übernommen. 
-
-
-erben
-'''''
-Über den Link "erben" können alle freien Raumbezüge des übergeordneten Objektes übernommen werden. Dabei werden nur neue Raumbezüge übernommen.
-
-
-Raumbezugsystem
-''''''''''''''''
-Über ein Dropdownmenü erfolgt an dieser Stelle die Auswahl des Raumbezugssystems, welches in der Ressource verwendet wurde. 
-
-**Anmerkung:**
-*Die Arbeitsgemeinschaft der Vermessungsverwaltungen der Länder der Bundesrepublik Deutschland (AdV) hat 1991 die Einführung des ETRS89 als Bezugssystem Lage und 1995 die Einführung von UTM als ebenes Koordinatensystem für ETRS89 beschlossen. Dies geschieht im Einklang mit den Empfehlungen der EU zur Realisierung eines europaweiten Raumbezuges und somit zur Schaffung einer einheitlichen Basis für die zukunftsfähige Geodateninfrastruktur in Europa.*
-
-**Beispiel:** *EPSG:4326 / WGS 84 / geographisch*
-
-
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/operationen/fachbezug_name-der-operation.png
-
-Abb.: `Auswahlliste - Auswahlliste Raumbezugssystem <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_raumbezugsysteme.html>`_
-
-
-Höhe
-''''
-
-Minimum / Maximum
-'''''''''''''''''
-Angabe der Werte für die Höhe über einem Punkt (siehe Pegel) eingegeben. Ist eine vertikale Ausdehnung vorhanden, so kann für das Maximum ein größerer Wert eingegeben werden. Sollte dies nicht der Fall sein, so ist die Eingabe eines Minimalwerts ausreichend, dieser Wert wird dann automatisch ebenso für den Maximalwert übernommen.
-
-**Beispiel:** *Minimum 100, Maximum 110*
-
-
-Maßeinheit
-''''''''''
-Angabe der Maßeinheit, in der die Höhe gemessen wird.
-
-**Beispiel:** *Meter*
-
-Vertikaldatum
-Angabe des Referenzpegels, zu dem die Höhe relativ gemessen wird. In Deutschland ist dies i.A. der Pegel Amsterdam.
-
-**Beispiel:** *Pegel Amsterdam*
-
-Erläuterungen
-''''''''''''''
-Zusätzliche Angaben zum Raumbezug.
-
-**Beispiel:** Die Koordinaten für die Fachliche Gebietseinheit sind ungefähre Angaben.
-
-
+Abschnitt Zusatzinformation
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Konformität
 '''''''''''
@@ -555,125 +466,7 @@ Dieses Feld wird bei der Auswahl der "INSPIRE-Themen" oder der "Art des Dienstes
 *Bitte entsprechend den Empfehlungen des AdV-Metadatenprofils nur die Werte "konform" und "nicht konform" im Feld "Grad der Konformität" verwenden. Für alle nicht INSPIRE-Objekte, sollte hier die „INSPIRE-Richtlinie“ mit dem Wert „nicht evaluiert“ ausgewählt werden.*
 
 
-XML-Export-Kriterium
-''''''''''''''''''''
 
-Eintrag eines Selektionskriteriums zur Steuerung des Exports der Daten. Um eine Teilmenge von Objekten exportieren zu können, kann in diesem Feld ein diese Teilmenge identifizierendes Schlagwort eingegeben werden. In der Exportfunktion kann dann eines der Schlagworte aus diesem Feld angegeben werden und alle Objekte exportiert werden, für die in diesem Feld das entsprechende Schlagwort vergeben wurde. Die Eingabe mehrerer Schlagworte ist möglich. Die Schlagworte können frei eingegeben werden. Zur Verhinderung von Schreibfehlern sollte jedoch der Eintrag aus der Auswahlliste vorgezogen werden.
-
-**Beispiel:** *CDS*
-
-
-Rechtliche Grundlage
-'''''''''''''''''''''
-Angabe der rechtlichen Grundlage, die die Erhebung der beschriebenen Daten veranlasst hat. Hier können Kürzel von Gesetzen, Erlassen, Verordnungen usw. eingetragen werden, in denen z. B. die Methode oder die Form der Erhebung der im Objekt beschriebenen Daten festgelegt oder beschrieben wird. Es ist bei Bedarf der Eintrag mehrerer Angaben möglich.
-
-**Beispiel:** *Umweltinformationsgesetz des Landes Sachsen-Anhalt*
-
-
-Herstellungszweck
-'''''''''''''''''
-Angabe eines Grundes für die Datenerhebung.
-
- 
-Eignung/Nutzung
-'''''''''''''''
-Angaben über die Verwendungsmöglichkeiten, die diese Daten in Verbindung mit weiteren Informationen erfüllen können.
-
-**Beispiel:**
-*Präsentation des Raumordnungsprogramms auf Basis der topografischen Kartenwerke.*
-
-
-Abschnitt Verfügbarkeit
-^^^^^^^^^^^^^^^^^^^^^^^
-
-Zugriffsbeschränkungen
-''''''''''''''''''''''
-
-Das Feld Zugriffsbeschränkungen beschreibt, die Art der Zugriffsbeschränkung. Bei frei nutzbaren Daten bzw. Services soll der Eintrag "Es gelten keine Zugriffsbeschränkungen" ausgewählt werden (ISO: accessConstraints).
-
-**Beispiel:** *aufgrund der Rechte des geistigen Eigentums*
-
-Auswahlliste Zugriffsbeschränkungen
-  - aufgrund der Rechte des geistigen Eigentums
-  - aufgrund der Vertraulichkeit der Verfahren von Behörden
-  - aufgrund der Vertraulichkeit personenbezogener Daten
-  - aufgrund der Vertraulichkeit von Geschäfts- oder Betriebsinformationen
-  - aufgrund des Schutzes einer Person
-  - aufgrund des Schutzes von Umweltbereichen
-  - aufgrund internationaler Beziehungen, der öffentliche Sicherheit oder der Landesverteidigung
-  - aufgrund laufender Gerichtsverfahren
-  - Es gelten keine Zugriffsbeschränkungen
-
-
-Nutzungsbedingungen
-'''''''''''''''''''
-
-Einschränkungen zum Schutz der Privatsphäre oder des geistigen Eigentums sowie andere besondere Einschränkungen oder Warnungen bezüglich der Nutzung der Ressource oder der Metadaten (ISO: useConstraints).
-
-In das Feld Nutzungsbedingungen sollen die Bedingungen zur Nutzung des beschriebenen Datensatzes bzw. des Dienstes eingetragen werden. In die entsprechende Zeile kann ein beliebiger Text geschrieben werden.
-
-**Beispiel:** *Nutzungsbedingungen für das amtliche Vermessungswesen Sachsen-Anhalt*
-
-Es ist auch möglich, vordefinierten Text aus einer Liste auszuwählen. 
-
-
-Auswahlliste Nutzungsbedingungen
-
-  - Es gelten keine Bedingungen
-  - Amtliches Werk, lizenzfrei nach §5 Abs. 1 UrhG
-  - Andere Freeware Lizenz
-  - Andere geschlossene Lizenz
-  - Andere kommerzielle Lizenz
-  - Andere offene Lizenz
-  - Andere Open Source Lizenz
-  - BSD Lizenz
-  - Creative Commons CC Zero License (cc-zero)
-  - Creative Commons Namensnennung (CC-BY)
-  - Creative Commons Namensnennung - - Keine Bearbeitung 4.0 International (CC BY-ND 4.0)
-  - Creative Commons Namensnennung - Nicht kommerziell (CC BY-NC)
-  - Creative Commons Namensnennung - Nicht kommerziell 4.0 International (CC BY-NC 4.0)
-  - Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen (CC-BY-SA)
-  - Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International (CC-BY-SA 4.0)
-  - Creative Commons Namensnennung -- Keine Bearbeitung 3.0 Unported (CC BY-ND 3.0)
-  - Creative Commons Namensnennung – 4.0 International (CC BY 4.0)
-  - Datenlizenz Deutschland Namensnennung 1.0
-  - Datenlizenz Deutschland Namensnennung 2.0
-  - Datenlizenz Deutschland Namensnennung nicht-kommerziell 1.0
-  - Datenlizenz Deutschland – Zero – Version 2.0
-  - eingeschränkte Geolizenz
-  - Freie Softwarelizenz der Apache Software Foundation
-  - Geolizenz Ia Namensnennung
-  - GNU Free Documentation License (GFDL)
-  - GNU General Public License version 3.0 (GPLv3)
-  - Mozilla Public License 2.0 (MPL)
-  - Nutzung der Daten nur nach Rücksprache mit dem Dateneigentümer
-  - Nutzungsbestimmungen für die Bereitstellung von Geodaten des Bundes
-  - Open Data Commons Attribution License (ODC-BY 1.0)
-  - Open Data Commons Open Database License (ODbL)
-  - Open Data Commons Public Domain Dedication and Licence (ODC PDDL)
-  - Public Domain Mark 1.0 (PDM)
-
-Bei frei nutzbaren Daten bzw. Diensten ist beispielsweise "Es gelten keine Bedingungen" aus der Liste zu verwenden. Aber auch die Lizenzen für Open Data-Objekte finden Sie in dieser Liste (Datenlizenz Deutschland). 
-Haben Sie immer wiederkehrende Nutzungsbedingungen, die nicht in der Liste auftauchen, so wenden Sie sich bitte direkt an die Koordinierungsstelle Metadaten im Ministerium für Umwelt, Landwirtschaft und Energie (metadaten@mule.sachsen-anhalt.de). Wir erweitern die Liste gern um Ihren Eintrag. 
-
-
-Anwendungseinschränkungen
-'''''''''''''''''''''''''
-Das Feld Anwendungseinschränkungen dient der Beschreibung, welche Einschränkung oder Eignung auf die Ressourcen oder Metadaten zutreffen (ISO: useLimitation).
-
-**Beispiel:** *Registrierung erforderlich*
-
-
-Datenformat
-'''''''''''
-
-Angabe des Formats der Daten in DV-technischer Hinsicht, in welchem diese verfügbar sind. Das Format wird durch 4 unterschiedliche Eingaben spezifiziert. Wenn die erste Spalte befüllt wird, müssen auch die anderen Eintragungen vorgenommen werden. 
-
-Name: Angabe des Formatnamens, wie z.B. "Date" 
-Version: Version der verfügbaren Daten (z.B. "Version 8" oder "Version vom 26.06.2019") Kompressionstechnik: Kompression, in welcher die Daten geliefert werden (z.B. "WinZip", "keine") 
-Bildpunkttiefe: BitsPerSample.
-
-**Beispiel:** *Formatkürzel: tif, Version: 8.0, Kompression: LZW, Bildpunkttiefe: 8 Bit*
 
 
 
@@ -746,47 +539,6 @@ GetFeature-Request werden dagegen nicht ausgewertet. Der Service-Feed enthält h
 **Beispiel:** GetFeature-Request: https://www.geodatenportal.sachsen-anhalt.de/wss/service/INSPIRE_LAU_Schutzgebiete_WFS/guest? 
 
 
-Der InGrid ATOM-Feed Client
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Da die Webbrowser Atom-Feeds kaum noch direkt unterstützen, wurde als Alternative der InGrid Atom-Feed Client bereitgestellt. Die Übernahme der Atom-Dienste aus dem InGrid Editor in den Atom-Feed Client erfolgt im InGrid Editor durch das Aktivieren des Feldes "Als ATOM-Download Dienst bereitstellen".
-
-**Beispiel URL:** https://metaver.de/search/dls/#?partner=st 
-
-**Hinweis:** *Änderungen in der URL mit der Taste F5 (Seite neu laden) abschließen.*
-
-**Beispiel:** https://metaver.de/search/dls/#?serviceId=F3B1E711-7F7F-4E16-A15F-5C39ED0CF9F9&partner=st 
-
-**Beispiel:** https://metaver.de/search/dls/#?serviceId=F3B1E711-7F7F-4E16-A15F-5C39ED0CF9F9&datasetId=E7222818-65AB-4482-9850-73A4744C2BFE&partner=st
- 
-Folgende Bedingungen müssen erfüllt sein, so dass ein Dienst mit seinen Download-Referenzen angezeigt wird:
-
-
-**Kopplung mit Geodatensatz**
-
-  1. Der anzuzeigende Service muss von der Art “Download-Dienste” sein.
-  2. Es muss die Option “Als ATOM-Download Dienst bereitstellen” aktiviert sein.
-  3. Es muss mindestens eine Referenz auf ein Objekt vom Typ “Geodatensatz” vorhanden sein.
-  4. Dieser Geodatensatz muss mindestens einen Verweis vom Typ “Download” besitzen.
-  5. Ein angeschlossenes iPlug-DSC muss die Daten des IGC indexiert haben.
-
-
-**Kopplung mit externem Datensatz**
-
-  1. Der anzuzeigende Service muss von der Art “Download-Dienste” sein.
-  2. Es muss die Option “Als ATOM-Download Dienst bereitstellen” aktiviert sein.
-  3. Es muss mindestens ein externer Datensatz in den “gekoppelten Daten” hinzugefügt werden.
-  4. Dieser Datensatz muss als URL die Zeichenkette “REQUEST=GetRecordById” enthalten.
-  5. Ein angeschlossenes iPlug-DSC muss die Daten des IGC indexiert haben.
-
-
-**Direkter Verweis auf externem Datensatz**
-
-  1. Der anzuzeigende Service muss von der Art “Download-Dienste” sein.
-  2. Es muss die Option “Als ATOM-Download Dienst bereitstellen” aktiviert sein.
-  3. Es muss mindestens ein Verweis vom Typ “Datendownload” hinzugefügt werden.
-  4. Dieser Verweis muss als URL die Zeichenkette “REQUEST=GetRecordById” enthalten.
-  5. Ein angeschlossenes iPlug-DSC muss die Daten des IGC indexiert haben.
 
 
 

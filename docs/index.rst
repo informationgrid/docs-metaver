@@ -26,6 +26,7 @@ Version der Bedienungsanleitung
    
    metaver_ige/ige_ingrideditor/ige_ingrideditor.rst
    metaver_ige/ige_ingrideditor/ige_funktionen.rst
+   metaver_ige/ige_atom-feed-client/ige_atom-feed-client.rst
 
 
 .. toctree::

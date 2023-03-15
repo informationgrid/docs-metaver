@@ -3,8 +3,6 @@
    :width: 300
 
 
-
-
 Bedienungsanleitung InGrid Editor (IGE)
 =======================================
 Version der Bedienungsanleitung
