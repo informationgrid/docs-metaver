@@ -237,7 +237,7 @@ Abb.: Auswahlfeld - Open Data Kategorien
 
 `Auswahlliste der Open Data Kategorien <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_allgemeines_opendata-kategorien.html>`_
 
-Die Tabelle „Kategorien“ enthält eine Auswahlliste, die das OpenData-Objekt näher bestimmen.
+Die Tabelle "Kategorien" enthält eine Auswahlliste, die das OpenData-Objekt näher bestimmen.
 
 
 Abschnitt Verschlagwortung
@@ -301,7 +301,7 @@ Der "Thesaurus-Navigator" ist unterteilt in: die Suche, den Hierarchiebaum, die 
 
 In die Suchzeile geben Sie einen beliebigen Suchbegriff ein. Abschließend betätigen Sie den Button "In Thesaurus suchen". Es erscheint der gewählte Suchbegriff in der Ergebnisliste. Betätigt man das blaue Symbol vor dem Suchbegriff, wechselt die Ansicht in den Hierarchiebaum (an die Stelle, an der dieser Suchbegriff eingeordnet ist). 
 
-Im Strukturbaum können weitere Suchbegriffe ausgewählt werden. Durch Betätigen des Buttons „Hinzufügen“, werden die Schlagworte in die Liste der Deskriptoren übernommen. Abschließend betätigen Sie den Button „Übernehmen“. Die gewählten Begriffe werden jetzt in die Tabelle "Optionalen Schlagworte" eingetragen.
+Im Strukturbaum können weitere Suchbegriffe ausgewählt werden. Durch Betätigen des Buttons „Hinzufügen“, werden die Schlagworte in die Liste der Deskriptoren übernommen. Abschließend betätigen Sie den Button "Übernehmen". Die gewählten Begriffe werden jetzt in die Tabelle "Optionalen Schlagworte" eingetragen.
 
 
 Abschnitt Fachbezug
