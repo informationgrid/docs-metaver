@@ -1,6 +1,4 @@
 
-.. image:: img_ige/metaver_portal/logo-metaver.svg
-   :width: 300
 
 
 Bedienungsanleitung InGrid Editor (IGE)
