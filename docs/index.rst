@@ -60,4 +60,3 @@ Version der Bedienungsanleitung
    
    metaver_informationen/historie/ige-metaver_versionen.rst
 
-
