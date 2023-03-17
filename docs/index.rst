@@ -14,9 +14,11 @@ Version der Bedienungsanleitung
    - InGrid-Version: 5.14.2
    - letzte Änderung: 17.03.2023
    - Status: in Bearbeitung
-   
-   
-.. image:: img_ige/metaver_portal/ige_dashboard.png
+
+.. figure:: img_ige/metaver_portal/ige_dashboard.png
+   :align: left
+   :scale: 100
+   :figwidth: 100 %
 
 .. toctree::
    :maxdepth: 2

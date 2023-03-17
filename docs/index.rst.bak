@@ -1,6 +1,4 @@
 
-.. image:: img_ige/metaver_portal/logo-metaver.png
-   :width: 300
    
 .. figure:: img_ige/metaver_portal/logo-metaver.png
    :align: left
