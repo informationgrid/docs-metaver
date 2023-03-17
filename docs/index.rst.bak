@@ -17,7 +17,7 @@ Version der Bedienungsanleitung
 
 .. figure:: img_ige/metaver_portal/ige_dashboard.png
    :align: left
-   :scale: 100
+   :scale: 50
    :figwidth: 100 %
 
 .. toctree::

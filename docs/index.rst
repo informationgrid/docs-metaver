@@ -1,9 +1,7 @@
 
    
-.. figure:: img_ige/metaver_portal/logo-metaver.png
-   :align: left
-   :scale: 30
-   :figwidth: 100 %
+.. image:: img_ige/metaver_portal/logo-metaver.svg
+   :width: 300
    
 
 
@@ -15,10 +13,7 @@ Version der Bedienungsanleitung
    - letzte Änderung: 17.03.2023
    - Status: in Bearbeitung
 
-.. figure:: img_ige/metaver_portal/ige_dashboard.png
-   :align: left
-   :scale: 50
-   :figwidth: 100 %
+.. image:: img_ige/metaver_portal/ige_dashboard.png
 
 .. toctree::
    :maxdepth: 2
