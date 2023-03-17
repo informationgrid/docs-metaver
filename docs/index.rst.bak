@@ -4,8 +4,8 @@
    
 .. figure:: img_ige/metaver_portal/logo-metaver.png
    :align: center
-   :scale: 100
-   :figwidth: 100 %
+   :scale: 50
+   :figwidth: 50 %
    
 
 
