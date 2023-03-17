@@ -1,5 +1,12 @@
 
-
+.. image:: img_ige/metaver_portal/logo-metaver.png
+   :width: 300
+   
+.. figure:: img_ige/metaver_portal/logo-metaver.png
+   :align: center
+   :scale: 100
+   :figwidth: 100 %
+   
 
 
 Bedienungsanleitung InGrid Editor (IGE)
