@@ -15,6 +15,13 @@ Die Objektklasse Geodatensatz dient der Beschreibung von Daten mit direktem oder
 Die Metadaten werden nach der ISO-Norm 19115 „Geographic Information – Metadata“ erfasst.
 
 
+**Neben den Allgemeinen Metadaten, wie sie auch in den anderen Objektklassen unter** `Erfassung von Objekten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html>`_ **beschrieben sind, kommen in der Objektkasse Geodatensatz folgende Metadaten dazu.**
+
+
+
+Erfassung
+---------
+
 Abschnitt Allgemeines
 ^^^^^^^^^^^^^^^^^^^^^
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-abschnitt_allgemeines.png
