@@ -85,7 +85,7 @@ Eine Ausnahme ist der Atom-Feed, dieser kann nicht über den GetCapabilitie Assi
 Geben Sie die getCapability-URL des Dienstes ein und betätigen Sie den Button "Erstellen". Der Assistent ruft den Dienst über die eingetragene URL ab und zeigt alle in der getCapability verfügbaren Informationen an. Der Erfasser kann dann die Metainformationen auswählen, die in ddas Objekt übernommen werden sollen.
 
 Abschnitt Allgemeines
----------------------
+^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-abschnitt_allgemeines.png
 
@@ -229,7 +229,7 @@ Angaben zu Version der dem Dienst zugrunde liegenden Spezifikation. Bitte alle V
 
 
 Operationen
-^^^^^^^^^^^
+'''''''''''
 
 Angabe von Operationen bezüglich Webdiensten wie GetMap, GetCapabilities und getFeatureInfo. Neue Operationen können entweder über den GetCapabilities-Assistenten beim Neuanlegen des Objektes eingetragen werden, oder aber manuell über den Link "Operation hinzufügen". 
 
