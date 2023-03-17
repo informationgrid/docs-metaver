@@ -5,7 +5,7 @@
 .. figure:: img_ige/metaver_portal/logo-metaver.png
    :align: left
    :scale: 30
-   :figwidth: 50 %
+   :figwidth: 100 %
    
 
 
