@@ -3,8 +3,8 @@
    :width: 300
    
 .. figure:: img_ige/metaver_portal/logo-metaver.png
-   :align: center
-   :scale: 50
+   :align: left
+   :scale: 30
    :figwidth: 50 %
    
 
