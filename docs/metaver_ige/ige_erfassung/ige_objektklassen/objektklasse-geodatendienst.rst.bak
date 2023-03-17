@@ -228,7 +228,7 @@ Angaben zu Version der dem Dienst zugrunde liegenden Spezifikation. Bitte alle V
 
 
 Operationen
-'''''''''''
+^^^^^^^^^^^
 
 Angabe von Operationen bezüglich Webdiensten wie GetMap, GetCapabilities und getFeatureInfo. Neue Operationen können entweder über den GetCapabilities-Assistenten beim Neuanlegen des Objektes eingetragen werden, oder aber manuell über den Link "Operation hinzufügen". 
 
@@ -243,8 +243,7 @@ Abb.: Operation bearbeiten
 Bestehende Operation können bearbeitet werden, indem der entsprechende Eintrag in der Liste mit der rechten Maustaste angeklickt und die Funktion „Zeile bearbeiten“ aus dem Kontextmenü ausgewählt wird. (rechte Maustaste). Es öffnet sich ein separater Dialog mit folgenden Feldern.
 
 
-Name der Operation
-'''''''''''''''''''
+``Name der Operation``
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/operationen/fachbezug/fachbezug_name-der-operation.png
 
@@ -254,16 +253,16 @@ Abb.: `Auswahlliste - Name der Operation <https://metaver-bedienungsanleitung.re
 Name der von einem Dienst bereitgestellten Funktion/Operation. Hier muss ein eindeutiger Bezeichner für die beschriebene Operation eingegeben werden.
 
 
-Zugriffsadresse
-'''''''''''''''
+``Zugriffsadresse``
+
 
 Eindeutige URL über die die Operation aufgerufen werden kann.
 
 **Beispiel:** https://my.host.com/cgi-bin/mapserv?map=mywms.map&
 
 
-Unterstützte Plattformen
-'''''''''''''''''''''''''
+``Unterstützte Plattformen``
+
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/operationen/fachbezug/fachbezug_unterstuetzte-plattformen.png
 
@@ -277,8 +276,8 @@ Angaben zur Art der Plattform bzw. Schnittstelle über die der Dienst angesproch
 **Beispiel:** *HTTPGet oder WebServices (WMS, WFS, Atom)*
 
 
-Parameter
-'''''''''
+``Parameter``
+
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/operationen/fachbezug/fachbezug_parameter.png
 
@@ -302,8 +301,8 @@ Optional: Nein
 Mehrfacheingabe: Nein
 
 
-GetCapabilities-Request-Parameter weglassen
-'''''''''''''''''''''''''''''''''''''''''''
+``GetCapabilities-Request-Parameter weglassen``
+
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/operationen/fachbezug/fachbezug_parameter-weglassen.png
 
@@ -318,8 +317,8 @@ Die Request-Parameter (z.B. REQUEST=GetCapabilities&SERVICE=WMS) sollen daher au
 Sollten die Parameter noch in Geodatendiensten, Tabelle "Operationen" vorhanden sein, so sind diese zu löschen. Streng genommen sind die Objekte, bei denen die Parameter in der Zugriffsadresse enthalten sind, nicht ISO-konform.
 
 
-Aufruf
-''''''
+``Aufruf``
+
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/operationen/fachbezug/fachbezug_aufruf.png
 
@@ -330,8 +329,8 @@ Eindeutiger Funktionsname über den die Operation aufgerufen werden kann. Bei OG
 **Beispiel:** *GetMap oder GetCapabilities oder GetFeatureInfo*
 
 
-Beschreibung
-''''''''''''
+``Beschreibung``
+
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/operationen/fachbezug/fachbezug_beschreibung.png
 
@@ -343,8 +342,8 @@ Textliche Beschreibung der Funktionalität der Operation.
 **Beispiel:** *Die GetMap Operation des WMS gibt eine Raster-Repräsentation der in "Basisdaten" beschriebenen digitalen Karte zurück.*
 
 
-Abhängigkeiten
-''''''''''''''
+``Abhängigkeiten``
+
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/operationen/fachbezug/fachbezug_abhaengigkeiten.png
 

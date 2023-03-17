@@ -16,11 +16,12 @@ Einem Geodatensatz können unterschiedliche Geodatendienste zugeordnet werden (z
 Wenn ein Geodatensatz einem Geodatendienst zugeordnet wird, dann werden diese Metadatensätze miteinander gekoppelt (Datenkopplung). Das bedeutet,der Geodatensatz verweist durch eine Verlinkung auf den Geodatendienst, der Geodatendienst wiederum verweist durch eine Verlinkung auf den Geodatensatz.
 
 
-Zu den Geodatendiensten zählen:
+Dienstarten
+-----------
 
 
 Darstellungsdienste
-'''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^
 
  - WMS - Web Map Service (Server kann angeforderte Karten aus Rasterdaten oder Vektordaten visualisieren.)
    
@@ -28,7 +29,7 @@ Darstellungsdienste
 
 
 Downloaddienste
-''''''''''''''''
+^^^^^^^^^^^^^^^
 
  - WFS - Web Feature Service (Internet-gestützter Zugriff auf Geodaten (Vektordaten).)
 
@@ -40,7 +41,7 @@ Downloaddienste
 
 
 Katalogdienst
-'''''''''''''
+^^^^^^^^^^^^^
 
  - CSW - Catalogue Service for the Web (Internet-gestützte Veröffentlichung von Informationen über Geoanwendungen, Geodienste und Geodaten (Metadaten) in einer Geodateninfrastruktur.)
 
@@ -228,7 +229,7 @@ Angaben zu Version der dem Dienst zugrunde liegenden Spezifikation. Bitte alle V
 
 
 Operationen
-'''''''''''
+^^^^^^^^^^^
 
 Angabe von Operationen bezüglich Webdiensten wie GetMap, GetCapabilities und getFeatureInfo. Neue Operationen können entweder über den GetCapabilities-Assistenten beim Neuanlegen des Objektes eingetragen werden, oder aber manuell über den Link "Operation hinzufügen". 
 
