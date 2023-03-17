@@ -17,7 +17,7 @@ Erfassung
 ---------
 
 Abschnitt Fachbezug
-'''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-04_fachbezug/ige-abschnitt_fachbezug.png
 
