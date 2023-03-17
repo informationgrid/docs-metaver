@@ -206,7 +206,7 @@ Bei Eintragungen bzw. Änderungen dieses Feldes werden in der Tabelle Konformit�
 Als ATOM-Download Dienst bereitstellen
 '''''''''''''''''''''''''''''''''''''''
 
-`Der Atom-Feed Client <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/atom-feed-client/ige_atom-feed-client.html>`_
+`Der Atom-Feed Client <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/atom-feed/client.html>`_
 
 
 Bei aktivierter Option, wird dieser Datensatz im Portal als Download angeboten. Zusätzlich wird die in den Katalogeinstellungen hinterlegte "ATOM-Downloadservice-URL" automatisch in das ISO-Format unter "distributionInfo/*/linkage" abgebildet.
