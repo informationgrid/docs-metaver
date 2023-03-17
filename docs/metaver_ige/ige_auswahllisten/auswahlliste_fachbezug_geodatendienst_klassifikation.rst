@@ -29,7 +29,8 @@ Auswahlliste Klassifikation des Dienstes
  - Dienst für die Konversion von Koordinaten
  - Dienst für die thematische Klassifizierung
  - Dienst für die Transformation von Koordinaten
- - Dienst für die Umwandlung zwischen Raster- und Vektordaten	 - Dienst für geografische Tabellenkalkulation
+ - Dienst für die Umwandlung zwischen Raster- und Vektordaten
+ - Dienst für geografische Tabellenkalkulation
  - Dienst für geografische Visualisierung
  - Dienst für statistische Berechnungen
  - Editor für die Definition von Bearbeitungsketten

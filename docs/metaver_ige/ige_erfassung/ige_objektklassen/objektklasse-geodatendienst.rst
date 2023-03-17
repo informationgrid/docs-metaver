@@ -182,31 +182,25 @@ Aus der vorgegebenen Auswahlliste ist der Eintrag zu wählen, der auf den Dienst
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug_klassifikation-des-dienstes.png
 
-
 Abb.: `Auswahlliste - Klassifikation des Dienstes <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_geodatendienst_klassifikation.html>`_
 
 
 Art des Dienstes
 ''''''''''''''''
 
-Über das Dropdownmenü kann zwischen folgenden Dienstarten gewählt werden: 
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug_version-des-dienstes.png
 
-Auswahlliste Art des Dienstes
+Abb.: `Auswahlliste - Art des Dienstes <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_fachbezug_geodatendienst_art.html>`_
 
-  - Darstellungsdienste (WMS) 
-  - Dienste zum Abrufen von Geodatendiensten 
-  - Download-Dienste (WFS/Atom)  	 - Sonstige Dienste 
-  - Suchdienste 
-  - Transformationsdienste
 
 In diesem Pflichtfeld kann die Art des Dienstes ausgewählt werden. Über das Feld werden die zur weiteren Befüllung auszuwählenden Angaben zu Operationen gesteuert (siehe Tabelle unter Punkt: Name der Operation).
 
 Bei Eintragungen bzw. Änderungen dieses Feldes werden in der Tabelle Konformität die Einträge für die zugehörige Spezifikation automatisch gesetzt (gilt nicht für alle Dienstarten).
 
 **Beispiel:**
-*Darstellungsdienst (automatischer Eintrag "Technical Guidance for the implementation of INSPIRE View Services" in Konformität/Spezifikation)*
+*Darstellungsdienst (automatischer Eintrag in Konformität/Spezifikation: "Technical Guidance for the implementation of INSPIRE View Services")*
 
-Die Auswahl der Dienstart hat Auswirkungen auf das Feld Konformität. Je nach gewählter Art des Dienstes wird das Feld Konformität schon vorbelegt. 
+**Hinweis:** *Die Auswahl der Dienstart hat Auswirkungen auf das Feld Konformität. Je nach gewählter Art des Dienstes wird das Feld Konformität schon vorbelegt.*
 
 
 Als ATOM-Download Dienst bereitstellen
@@ -218,36 +212,16 @@ Bei aktivierter Option, wird dieser Datensatz im Portal als Download angeboten. 
 *Bei ATOM-Download Diensten, die im Rahmen von INSPIRE bereitgestellt und nicht über den InGrid Editor generiert werden, ist für das Feld "Name der Operation" -  "Get Download Service Metadata" auszuwählen.*
 
 
-Auswahllisten:
-	
-Darstellungsdienste
-
-  - OGC:WMS 1.1.1
-  - OGC:WMS 1.3.0
-  - OGC:WMTS 1.0.0	
-
-Downloaddienste	
-
-  - OGC:WFS 1.1.0
-  - OGC:WFS 2.0
-  - predefined ATOM	
-
-Suchdienste
-
-  - OGC:CSW 2.0.2
-
-Transformationsdienste
-
-  - OGC:CSW 2.0.2
-
-
 Version des Dienstes
 ''''''''''''''''''''
 
-Angaben zu Version der dem Dienst zugrunde liegenden Spezifikation.
-Bitte alle Versionen eintragen, die vom Dienst unterstützt werden.
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug_version-des-dienstes.png
 
-**Beispiel:** *"OGC:WMS 1.3.0"*
+Abb.: `Auswahlliste - Version des Dienstes <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_fachbezug_geodatendienst_version.html>`_
+
+Angaben zu Version der dem Dienst zugrunde liegenden Spezifikation. Bitte alle Versionen eintragen, die vom Dienst unterstützt werden.
+
+**Beispiel:** *"OGC: WMS 1.3.0"*
 
 
 Operationen
