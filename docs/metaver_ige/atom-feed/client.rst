@@ -2,17 +2,24 @@
 Der InGrid ATOM-Feed Client
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Da die Webbrowser Atom-Feeds kaum noch direkt unterstützen, wurde als Alternative der InGrid Atom-Feed Client bereitgestellt. Die Übernahme der Atom-Dienste aus dem InGrid Editor in den Atom-Feed Client erfolgt im InGrid Editor durch das Aktivieren des Feldes "Als ATOM-Download Dienst bereitstellen".
+Da die Webbrowser Atom-Feeds für den Datendownload  nur mit Erweiterungen unterstützen, wurde als Alternative der Webbasierte Atom-Feed Client bereitgestellt. Die Übernahme der Atom-Dienste aus dem InGrid Editor in den Atom-Feed Client erfolgt im InGrid Editor durch das Aktivieren des Feldes "Als ATOM-Download Dienst bereitstellen".
 
-**Beispiel URL:** https://metaver.de/search/dls/#?partner=st 
+Folgende Partner-Bundesländer verfügen über den Atom-Feed Client.
+
+ - https://metaver.de/search/dls/ - Alle
+
+ - https://metaver.de/search/dls/?partner=bb - Brandenburg
+ 
+ - https://metaver.de/search/dls/?partner=hb - Hansestadt Bremen
+ 
+ - https://metaver.de/search/dls/?partner=hh - Hansestadt Hamburg
+
+ - https://metaver.de/search/dls/?partner=st - Sachsen-Anhalt
+
 
 **Hinweis:** *Änderungen in der URL mit der Taste F5 (Seite neu laden) abschließen.*
 
-**Beispiel:** https://metaver.de/search/dls/#?serviceId=F3B1E711-7F7F-4E16-A15F-5C39ED0CF9F9&partner=st 
-
-**Beispiel:** https://metaver.de/search/dls/#?serviceId=F3B1E711-7F7F-4E16-A15F-5C39ED0CF9F9&datasetId=E7222818-65AB-4482-9850-73A4744C2BFE&partner=st
- 
-Folgende Bedingungen müssen erfüllt sein, so dass ein Dienst mit seinen Download-Referenzen angezeigt wird:
+Folgende Bedingungen müssen erfüllt sein, damit ein Atom-Feed im Atom-Feed Client erscheint:
 
 
 **Kopplung mit Geodatensatz**
@@ -40,3 +47,9 @@ Folgende Bedingungen müssen erfüllt sein, so dass ein Dienst mit seinen Downlo
   3. Es muss mindestens ein Verweis vom Typ “Datendownload” hinzugefügt werden.
   4. Dieser Verweis muss als URL die Zeichenkette “REQUEST=GetRecordById” enthalten.
   5. Ein angeschlossenes iPlug-DSC muss die Daten des IGC indexiert haben.
+  
+  
+
+
+  
+  
