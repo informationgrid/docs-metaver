@@ -131,7 +131,7 @@ Abb.: `Auswahlliste AdV-Produktgruppe <https://metaver-bedienungsanleitung.readt
 Auswahl einer Produktgruppe bzw. eines Fachthemas der AdV.
 
 
-.. important::  Dieses Feld ist nur ein Pflichtfeld, wenn in das Feld "AdV kompatibel" ein Häkchen gesetzt wurde.
+.. hint::  Dieses Feld ist nur ein Pflichtfeld, wenn in das Feld "AdV kompatibel" ein Häkchen gesetzt wurde.
 
  
 INSPIRE-Themen
