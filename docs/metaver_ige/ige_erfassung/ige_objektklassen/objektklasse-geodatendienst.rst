@@ -46,7 +46,7 @@ Katalogdienst
  - CSW - Catalogue Service for the Web (Internet-gestützte Veröffentlichung von Informationen über Geoanwendungen, Geodienste und Geodaten (Metadaten) in einer Geodateninfrastruktur.)
 
 
-**Neben den Allgemeinen Metadaten, wie sie auch in den anderen Objektklassen unter** `Erfassung von Objekten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html>`_ **beschrieben sind, kommen in der Objektkasse Geodatendienst folgende Metadaten dazu.**
+.. important:: Neben den Allgemeinen Metadaten, wie sie auch in den anderen Objektklassen unter** `Erfassung von Objekten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html>`_ **beschrieben sind, kommen in der Objektkasse Geodatendienst folgende Metadaten dazu.
 
 
 
@@ -115,7 +115,7 @@ AdV kompatibel
 
 Abb.: Checkbox INSPIRE-relevant
 
-Wird die Checkbox "AdV kompatibel" aktiviert, werden die Anforderungen des AdV-Metadatenprofils umgesetzt (z.B. Automatisiertes Setzen des Schlüsselwortes "AdVMIS" in der Datenbank).
+.. hint:: Wird die Checkbox "AdV kompatibel" aktiviert, werden die Anforderungen des AdV-Metadatenprofils umgesetzt (z.B. Automatisiertes Setzen des Schlüsselwortes "AdVMIS" in der Datenbank).
 
 
 Abschnitt Verschlagwortung
@@ -130,8 +130,8 @@ Abb.: `Auswahlliste AdV-Produktgruppe <https://metaver-bedienungsanleitung.readt
 
 Auswahl einer Produktgruppe bzw. eines Fachthemas der AdV.
 
-**Hinweis:**
-*Dieses Feld ist nur ein Pflichtfeld, wenn in das Feld "AdV kompatibel" ein Häkchen gesetzt wurde.*
+
+.. important::  Dieses Feld ist nur ein Pflichtfeld, wenn in das Feld "AdV kompatibel" ein Häkchen gesetzt wurde.
 
  
 INSPIRE-Themen
@@ -141,11 +141,14 @@ Auswahl eines INSPIRE Themengebiets für die Verschlagwortung des Datensatzes (I
 
 Bei Eintragung oder Löschen eines INSPIRE-Themas werden im Pflichtfeld Spezifikation der Konformität automatisch Einträge vorgenommen bzw. entfernt.
 
-**Beispiel: Boden**
-*(automatischer Eintrag im Abschnitt "Zusatzinformation", Feld: "Konformität": "VERORDNUNG (EG) Nr. 1089/2010 - INSPIRE Durchführungsbestimmung Interoperabilität von Geodatensätzen und -diensten: konform / nicht konform")*
 
-**Achtung!**
-*Dieses Feld ist nur ein Pflichtfeld, wenn in das Feld "INSPIRE-relevant" ein Häkchen gesetzt wurde.*
+.. important:: Dieses Feld ist nur ein Pflichtfeld, wenn in das Feld "INSPIRE-relevant" ein Häkchen gesetzt wurde.
+
+
+.. note:: **Beispiel: Boden** (automatischer Eintrag im Abschnitt "Zusatzinformation", Feld: "Konformität": "VERORDNUNG (EG) Nr. 1089/2010 - INSPIRE Durchführungsbestimmung Interoperabilität von Geodatensätzen und -diensten: konform / nicht konform")
+
+
+.. important:: Dieses Feld ist nur ein Pflichtfeld, wenn in das Feld "INSPIRE-relevant" ein Häkchen gesetzt wurde.
  
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-03_verschlagwortung/ige-verschlagwortung_inspire-themen.png
@@ -198,10 +201,11 @@ In diesem Pflichtfeld kann die Art des Dienstes ausgewählt werden. Über das Fe
 
 Bei Eintragungen bzw. Änderungen dieses Feldes werden in der Tabelle Konformität die Einträge für die zugehörige Spezifikation automatisch gesetzt (gilt nicht für alle Dienstarten).
 
-**Beispiel:**
-*Darstellungsdienst (automatischer Eintrag in Konformität/Spezifikation: "Technical Guidance for the implementation of INSPIRE View Services")*
 
-**Hinweis:** *Die Auswahl der Dienstart hat Auswirkungen auf das Feld Konformität. Je nach gewählter Art des Dienstes wird das Feld Konformität schon vorbelegt.*
+.. note:: Beispiel: Darstellungsdienst (automatischer Eintrag in Konformität/Spezifikation: "Technical Guidance for the implementation of INSPIRE View Services")
+
+
+.. hint:: Die Auswahl der Dienstart hat Auswirkungen auf das Feld Konformität. Je nach gewählter Art des Dienstes wird das Feld Konformität schon vorbelegt.
 
 
 Als ATOM-Download Dienst bereitstellen
