@@ -249,7 +249,7 @@ Beispiel: OGC: WMS 1.3.0
 Operationen
 ^^^^^^^^^^^
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/operationen/fachbezug/operationen/fachbezug_operation_aktualisieren.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/fachbezug/operationen_operation_aktualisieren.png
 
 Abb.: Feld - Operationen
 
@@ -259,7 +259,7 @@ Angabe von Operationen bezüglich Webdiensten wie GetMap, GetCapabilities und ge
 Operation bearbeiten
 '''''''''''''''''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/fachbezug_operation-bearbeiten.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug/operationen_operation-bearbeiten.png
 
 Abb.: Feld - Operation bearbeiten
 
@@ -269,7 +269,7 @@ Bestehende Operation können bearbeitet werden, indem der entsprechende Eintrag 
 Name der Operation
 ''''''''''''''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/fachbezug_name-der-operation.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug/operationen_name-der-operation.png
 
 
 Abb.: Feld - Name der Operation
@@ -282,7 +282,7 @@ Name der von einem Dienst bereitgestellten Funktion/Operation. Hier muss ein ein
 Zugriffsadresse
 '''''''''''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/fachbezug_operation.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug/operationen_operation.png
 
 Abb.: Feld - Zugriffsadresse
 
@@ -296,8 +296,7 @@ Beispiel: https://my.host.com/cgi-bin/mapserv?map=mywms.map&
 Unterstützte Plattformen
 ''''''''''''''''''''''''
 
-
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/operationen/fachbezug/fachbezug_unterstuetzte-plattformen.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug/operationen_unterstuetzte-plattformen.png
 
 
 Abb.: `Auswahlliste - Unterstützte Plattformen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_fachbezug_geodatendienst_operation_unterstuetzte-plattformen.html>`_
@@ -313,7 +312,7 @@ Parameter
 '''''''''
 
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/operationen/fachbezug/fachbezug_parameter.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug/operationen_parameter.png
 
 Abb.: Operation bearbeiten
 
@@ -326,7 +325,7 @@ Mögliche Parameter, die bei einem Aufruf der Operation übergeben werden könne
   - Angabe, ob eine Mehrfacheingabe des Parameters möglich ist.
 
 
-.. topic:: **Beispiel:**
+Beispiel:
 
 Name: REQUEST=GetCapabilities
 Richtung:
@@ -338,7 +337,7 @@ Mehrfacheingabe: Nein
 GetCapabilities-Request-Parameter weglassen
 '''''''''''''''''''''''''''''''''''''''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/operationen/fachbezug/fachbezug_parameter-weglassen.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug/operationen_parameter-weglassen.png
 
 Abb.: Parameter weglassen
 
@@ -354,7 +353,7 @@ Sollten die Parameter noch in Geodatendiensten, Tabelle "Operationen" vorhanden 
 Aufruf
 ''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/operationen/fachbezug/fachbezug_aufruf.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug/operationen_aufruf.png
 
 Abb.: Aufruf
 
@@ -368,7 +367,7 @@ Beschreibung
 ''''''''''''
 
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/operationen/fachbezug/fachbezug_beschreibung.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug/operationen_beschreibung.png
 
 Abb.: Beschreibung
 
@@ -382,7 +381,7 @@ Abhängigkeiten
 ''''''''''''''
 
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/operationen/fachbezug/fachbezug_abhaengigkeiten.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug/operationen_abhaengigkeiten.png
 
 Abb.: Abhängigkeiten
 
@@ -399,7 +398,7 @@ Durch das Anklicken der Schaltfläche "Hinzufügen" übernehmen Sie die geänder
 Aktualisieren von Operationen und Metadaten
 '''''''''''''''''''''''''''''''''''''''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/operationen/fachbezug/fachbezug_aktualisierung.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug/operationen_aktualisierung.png
 
 Abb.: Aktualisierung
 
@@ -412,7 +411,7 @@ Dieser bewirkt, dass die Informationen in dem Metadatenobjekt aus dem Capabiliti
 .. hint:: Eine Aktualisierung über den Assistenten ist nur möglich, wenn der Dienst nicht geschützt ist. Sollen nur die Operationen aktualisiert werden, dürfen keine Metadaten im GetCapabilities-Assistenten ausgewählt werden!
  
  
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/operationen/fachbezug/fachbezug_aktualisierung_hinweis.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug/operationen_aktualisierung_hinweis.png
  
 Abb.: Dieser Hinweis kann bei der Aktualisierung einer Operation erscheinen.
 
@@ -422,7 +421,7 @@ Abschnitt Fachbezug
 Erstellungsmaßstab
 ''''''''''''''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/operationen/fachbezug/fachbezug_erstellungsmassstab.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug/operationen_erstellungsmassstab.png
 
 Abb.: Erstellungsmaßstab
 
@@ -434,7 +433,7 @@ Angabe des Erstellungsmaßstabes, der sich auf die erstellte Karte und/oder Digi
 Systemumgebung
 ''''''''''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/operationen/fachbezug/fachbezug_systemumgebung.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug/operationen_systemumgebung.png
 
 Abb.: Erstellungsmaßstab
 
@@ -444,7 +443,7 @@ Angaben zum Betriebssystem und der Software, ggf. auch Hardware, die zur Impleme
 Historie
 ''''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/operationen/fachbezug/fachbezug_historie.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/fachbezug_historie.png
 
 Abb.: Historie
 
@@ -457,7 +456,7 @@ Angaben zur Implementierungsgeschichte des Dienstes.
 Erläuterungen
 '''''''''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/operationen/fachbezug/fachbezug_erlaeuterungen.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/fachbezug_erlaeuterungen.png
 
 Abb.: Erläuterungen
 
@@ -469,7 +468,7 @@ Zusätzliche Anmerkungen zu dem beschriebenen Dienst. Hier können weitergehende
 Daten-Dienstekopplung
 '''''''''''''''''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/operationen/fachbezug/fachbezug_daten-dienstekopplung.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/fachbezug_daten-dienstekopplung.png
 
 Abb.: Daten-Dienstekopplung
 
@@ -479,7 +478,7 @@ Abb.: Daten-Dienstekopplung
 Dargestellte Daten
 ''''''''''''''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/operationen/fachbezug/fachbezug_dargestellte-daten.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/fachbezug_dargestellte-daten.png
 
 Abb.: Dargestellte Daten
 
@@ -489,7 +488,7 @@ Das Metadatenfeld „Dargestellte Daten“ bzw. „Gekoppelte Daten auswählen�
 Datenkopplung
 '''''''''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/operationen/fachbezug/fachbezug_datenkopplung.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/fachbezug_datenkopplung.png
 
 Abb.: Datenkopplung
 
@@ -502,7 +501,7 @@ Mit einem Klick auf den Button „Zuweisen“ wird die gekoppelte Datensatz beim
 Kopplungstyp
 ''''''''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/operationen/fachbezug/fachbezug_kopplungstyp.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/fachbezug_kopplungstyp.png
 
 Abb.: Kopplungstyp
 
@@ -514,7 +513,7 @@ Mögliche Kopplungstypen: loose, mixed, tight
 Zugang geschützt
 ''''''''''''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/operationen/fachbezug/fachbezug_zugang-geschuetzt.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/fachbezug_zugang-geschuetzt.png
 
 Abb.: Zugang geschützt
 
@@ -524,7 +523,7 @@ Das Kontrollkästchen  Zugang geschützt soll aktiviert werden, wenn der Zugang 
 Katalog-übergreifende Daten-Dienste-Kopplung
 ''''''''''''''''''''''''''''''''''''''''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/operationen/fachbezug/fachbezug_daten-dienste-kopplung.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/fachbezug_daten-dienste-kopplung.png
 
 Abb.: Daten-Dienste-Kopplung
 
@@ -553,7 +552,7 @@ Abschnitt Zusatzinformation
 Konformität
 '''''''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/operationen/fachbezug/fachbezug_konformitaet.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/fachbezug_konformitaet.png
 
 Abb.: Konformität
 
