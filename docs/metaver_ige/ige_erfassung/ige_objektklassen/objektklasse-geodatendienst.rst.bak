@@ -137,18 +137,12 @@ Auswahl einer Produktgruppe bzw. eines Fachthemas der AdV.
 INSPIRE-Themen
 ''''''''''''''
 
-Auswahl eines INSPIRE Themengebiets für die Verschlagwortung des Datensatzes (INSPIRE-Pflichtfeld).
-
-Bei Eintragung oder Löschen eines INSPIRE-Themas werden im Pflichtfeld Spezifikation der Konformität automatisch Einträge vorgenommen bzw. entfernt.
+Auswahl eines INSPIRE Themengebiets für die Verschlagwortung des Datensatzes (INSPIRE-Pflichtfeld). Dieses Feld ist nur dann ein Pflichtfeld, wenn in das Feld "INSPIRE-relevant" ein Häkchen gesetzt wurde.
 
 
-.. important:: Dieses Feld ist nur ein Pflichtfeld, wenn in das Feld "INSPIRE-relevant" ein Häkchen gesetzt wurde.
+.. hint:: Bei Eintragung oder Löschen eines INSPIRE-Themas werden im Pflichtfeld Spezifikation der Konformität automatisch Einträge vorgenommen bzw. entfernt.
 
-
-.. note:: **Beispiel: Boden** (automatischer Eintrag im Abschnitt "Zusatzinformation", Feld: "Konformität": "VERORDNUNG (EG) Nr. 1089/2010 - INSPIRE Durchführungsbestimmung Interoperabilität von Geodatensätzen und -diensten: konform / nicht konform")
-
-
-.. important:: Dieses Feld ist nur ein Pflichtfeld, wenn in das Feld "INSPIRE-relevant" ein Häkchen gesetzt wurde.
+.. note:: Beispiel: Boden - automatischer Eintrag im Abschnitt "Zusatzinformation" - Feld "Konformität": "VERORDNUNG (EG) Nr. 1089/2010 - INSPIRE Durchführungsbestimmung Interoperabilität von Geodatensätzen und -diensten: konform / nicht konform"
  
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-03_verschlagwortung/ige-verschlagwortung_inspire-themen.png
@@ -215,9 +209,9 @@ Als ATOM-Download Dienst bereitstellen
 
 
 Bei aktivierter Option, wird dieser Datensatz im Portal als Download angeboten. Zusätzlich wird die in den Katalogeinstellungen hinterlegte "ATOM-Downloadservice-URL" automatisch in das ISO-Format unter "distributionInfo/*/linkage" abgebildet.
- 
-**Hinweis:**
-*Bei ATOM-Download Diensten, die im Rahmen von INSPIRE bereitgestellt und nicht über den InGrid Editor generiert werden, ist für das Feld "Name der Operation" -  "Get Download Service Metadata" auszuwählen.*
+
+
+.. hint:: Bei ATOM-Download Diensten, die im Rahmen von INSPIRE bereitgestellt und nicht über den InGrid Editor generiert werden, ist für das Feld "Name der Operation" -  "Get Download Service Metadata" auszuwählen.
 
 
 Version des Dienstes
@@ -229,7 +223,8 @@ Abb.: `Auswahlliste - Version des Dienstes <https://metaver-bedienungsanleitung.
 
 Angaben zu Version der dem Dienst zugrunde liegenden Spezifikation. Bitte alle Versionen eintragen, die vom Dienst unterstützt werden.
 
-**Beispiel:** *"OGC: WMS 1.3.0"*
+
+.. note:: Beispiel: OGC: WMS 1.3.0
 
 
 Operationen
@@ -265,7 +260,8 @@ Zugriffsadresse
 
 Eindeutige URL über die die Operation aufgerufen werden kann.
 
-**Beispiel:** https://my.host.com/cgi-bin/mapserv?map=mywms.map&
+
+.. note:: Beispiel: https://my.host.com/cgi-bin/mapserv?map=mywms.map&
 
 
 Unterstützte Plattformen
@@ -281,7 +277,7 @@ Abb.: `Auswahlliste - Unterstützte Plattformen <https://metaver-bedienungsanlei
 Angaben zur Art der Plattform bzw. Schnittstelle über die der Dienst angesprochen werden kann.
 
 
-**Beispiel:** *HTTPGet oder WebServices (WMS, WFS, Atom)*
+.. note:: Beispiel: HTTPGet oder WebServices (WMS, WFS, Atom)
 
 
 Parameter
@@ -301,7 +297,7 @@ Mögliche Parameter, die bei einem Aufruf der Operation übergeben werden könne
   - Angabe, ob eine Mehrfacheingabe des Parameters möglich ist.
 
 
-**Beispiel:**
+.. topic:: **Beispiel:**
 
 Name: REQUEST=GetCapabilities
 Richtung:
@@ -329,14 +325,14 @@ Sollten die Parameter noch in Geodatendiensten, Tabelle "Operationen" vorhanden 
 Aufruf
 ''''''
 
-
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/operationen/fachbezug/fachbezug_aufruf.png
 
 Abb.: Aufruf
 
 Eindeutiger Funktionsname über den die Operation aufgerufen werden kann. Bei OGC Web-Diensten sind die jeweiligen spezifizierten REQUEST-Aufrufe zu verwenden.
 
-**Beispiel:** *GetMap oder GetCapabilities oder GetFeatureInfo*
+
+.. note:: Beispiel: GetMap oder GetCapabilities oder GetFeatureInfo
 
 
 Beschreibung
@@ -350,7 +346,7 @@ Abb.: Beschreibung
 Textliche Beschreibung der Funktionalität der Operation.
 
  
-**Beispiel:** *Die GetMap Operation des WMS gibt eine Raster-Repräsentation der in "Basisdaten" beschriebenen digitalen Karte zurück.*
+.. note:: Beispiel: Die GetMap Operation des WMS gibt eine Raster-Repräsentation der in "Basisdaten" beschriebenen digitalen Karte zurück.
 
 
 Abhängigkeiten
@@ -364,7 +360,9 @@ Abb.: Abhängigkeiten
 
 Die Namen der Operationen, die vor dem Ausführen der aktuellen Operation ausgeführt werden müssen, wenn die Operation als Teil einer Service Chain genutzt werden soll.
 
-**Beispiel:** *Die Operation "GetMap" ist abhängig von der Operation "GetCapabilities".*
+
+.. note:: Beispiel: Die Operation "GetMap" ist abhängig von der Operation "GetCapabilities".
+
 
 Durch das Anklicken der Schaltfläche "Hinzufügen" übernehmen Sie die geänderten Daten in die Tabelle "Operationen". Zum Löschen einer Operation aus der Tabelle wählen Sie die Funktion "Zeile Löschen" aus dem Kontextmenü (rechte Maustaste). 
 
@@ -379,10 +377,10 @@ Abb.: Aktualisierung
 Unter der Tabelle Operationen befindet sich der Button "Aktualisieren". 
 Dieser bewirkt, dass die Informationen in dem Metadatenobjekt aus dem Capabilities-Dokument des Dienstes auf den neuesten Stand gebracht werden. Die Aktualisierung erfolgt genau wie die Initialisierung eines neuen Objektes mit dem GetCapabilities-Assistenten. 
 
-**Achtung:** *Alle im Assistenten ausgewählten Felder werden bei der Aktualisierung ohne Ausnahme überschrieben. Wenn im Vorfeld an einem der im Folgenden genannten Felder manuell Änderungen hinzugefügt wurden, so gehen diese verloren und müssen gegebenenfalls neu eingetragen werden!*
 
-**Hinweis:** *Eine Aktualisierung über den Assistenten ist nur möglich, wenn der Dienst nicht geschützt ist.
-Sollen nur die Operationen aktualisiert werden, dürfen keine Metadaten im GetCapabilities-Assistenten ausgewählt werden!*
+.. warning:: Alle im Assistenten ausgewählten Felder werden bei der Aktualisierung ohne Ausnahme überschrieben. Wenn im Vorfeld an einem der im Folgenden genannten Felder manuell Änderungen hinzugefügt wurden, so gehen diese verloren und müssen gegebenenfalls neu eingetragen werden!
+
+.. hint:: Eine Aktualisierung über den Assistenten ist nur möglich, wenn der Dienst nicht geschützt ist. Sollen nur die Operationen aktualisiert werden, dürfen keine Metadaten im GetCapabilities-Assistenten ausgewählt werden!
  
  
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/operationen/fachbezug/fachbezug_aktualisierung_hinweis.png
@@ -401,8 +399,7 @@ Abb.: Erstellungsmaßstab
 
 Angabe des Erstellungsmaßstabes, der sich auf die erstellte Karte und/oder Digitalisiergrundlage bei Geodaten bezieht. Maßstab: Maßstab der Karte, z.B 1:12 Bodenauflösung: Einheit geteilt durch Auflösung multipliziert mit dem Maßstab (Angabe in Meter, Fließkommazahl) Scanauflösung: Auflösung z.B. einer eingescannten Karte, z.B. 120dpi (Angabe in dpi, Integerzahl). Es handelt sich um ein optionales INSPIRE-Feld.
 
-**Beispiel:**
-*Bodenauflösung: Auflösungseinheit in Linien/cm; Einheit: z.B. 1 cm geteilt durch 400 Linien multipliziert mit dem Maßstab 1:25.000 ergibt 62,5 cm als Bodenauflösung*
+.. note:: Beispiel: Bodenauflösung: Auflösungseinheit in Linien/cm; Einheit: z.B. 1 cm geteilt durch 400 Linien multipliziert mit dem Maßstab 1:25.000 ergibt 62,5 cm als Bodenauflösung
 
 
 Systemumgebung
@@ -424,7 +421,8 @@ Abb.: Historie
 
 Angaben zur Implementierungsgeschichte des Dienstes.
 
-**Beispiel:** *11.12.03: Installation des UMN Mapserver 3.0 auf Linux 2.2.005.04.04: Upgrade Linux 2.2.0 auf Linux 2.6.0 Modellversuch beim Gewerbeaufsichtsamt Osnabrück 1991; Einführung 1993*
+
+.. note:: Beispiel: 11.12.03: Installation des UMN Mapserver 3.0 auf Linux 2.2.005.04.04: Upgrade Linux 2.2.0 auf Linux 2.6.0 Modellversuch beim Gewerbeaufsichtsamt Osnabrück 1991; Einführung 1993
 
 
 Erläuterungen
@@ -436,7 +434,7 @@ Abb.: Erläuterungen
 
 Zusätzliche Anmerkungen zu dem beschriebenen Dienst. Hier können weitergehende Angaben z. B. technischer Art gemacht werden, die zum Verständnis des Dienstes notwendig sind.
 
-Beispiel: Der Datensatz ist eine Shape-Datei, die alle Grundwassermessstellen in Sachsen-Anhalt mit Lage und Kennung beinhaltet.
+.. note:: Beispiel: Der Datensatz ist eine Shape-Datei, die alle Grundwassermessstellen in Sachsen-Anhalt mit Lage und Kennung beinhaltet.
 
 
 Daten-Dienstekopplung
