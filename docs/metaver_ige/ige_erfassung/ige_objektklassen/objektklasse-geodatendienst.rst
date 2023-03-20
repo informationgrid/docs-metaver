@@ -123,7 +123,7 @@ Wird die Checkbox "AdV kompatibel" aktiviert, werden die Anforderungen des AdV-M
 
 Abschnitt Verschlagwortung
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-abschnitt_verschlagwortung.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-03_verschlagwortung/ige-abschnitt_verschlagwortung.png
 
 AdV Produktgruppe
 '''''''''''''''''
