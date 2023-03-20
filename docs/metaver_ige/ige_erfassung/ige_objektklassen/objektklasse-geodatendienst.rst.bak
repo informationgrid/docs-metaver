@@ -249,7 +249,7 @@ Beispiel: OGC: WMS 1.3.0
 Operationen
 ^^^^^^^^^^^
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/operationen_operation_aktualisieren.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/fachbezug_operation_aktualisieren.png
 
 Abb.: Feld - Operationen
 
@@ -360,7 +360,7 @@ Abb.: Aufruf
 Eindeutiger Funktionsname über den die Operation aufgerufen werden kann. Bei OGC Web-Diensten sind die jeweiligen spezifizierten REQUEST-Aufrufe zu verwenden.
 
 
-.. note:: Beispiel: GetMap oder GetCapabilities oder GetFeatureInfo
+Beispiel: GetMap oder GetCapabilities oder GetFeatureInfo
 
 
 Beschreibung
@@ -374,7 +374,7 @@ Abb.: Beschreibung
 Textliche Beschreibung der Funktionalität der Operation.
 
  
-.. note:: Beispiel: Die GetMap Operation des WMS gibt eine Raster-Repräsentation der in "Basisdaten" beschriebenen digitalen Karte zurück.
+Beispiel: Die GetMap Operation des WMS gibt eine Raster-Repräsentation der in "Basisdaten" beschriebenen digitalen Karte zurück.
 
 
 Abhängigkeiten
@@ -389,7 +389,7 @@ Abb.: Abhängigkeiten
 Die Namen der Operationen, die vor dem Ausführen der aktuellen Operation ausgeführt werden müssen, wenn die Operation als Teil einer Service Chain genutzt werden soll.
 
 
-.. note:: Beispiel: Die Operation "GetMap" ist abhängig von der Operation "GetCapabilities".
+Beispiel: Die Operation "GetMap" ist abhängig von der Operation "GetCapabilities".
 
 
 Durch das Anklicken der Schaltfläche "Hinzufügen" übernehmen Sie die geänderten Daten in die Tabelle "Operationen". Zum Löschen einer Operation aus der Tabelle wählen Sie die Funktion "Zeile Löschen" aus dem Kontextmenü (rechte Maustaste). 
@@ -450,7 +450,7 @@ Abb.: Historie
 Angaben zur Implementierungsgeschichte des Dienstes.
 
 
-.. note:: Beispiel: 11.12.03: Installation des UMN Mapserver 3.0 auf Linux 2.2.005.04.04: Upgrade Linux 2.2.0 auf Linux 2.6.0 Modellversuch beim Gewerbeaufsichtsamt Osnabrück 1991; Einführung 1993
+Beispiel: 11.12.03: Installation des UMN Mapserver 3.0 auf Linux 2.2.005.04.04: Upgrade Linux 2.2.0 auf Linux 2.6.0 Modellversuch beim Gewerbeaufsichtsamt Osnabrück 1991; Einführung 1993
 
 
 Erläuterungen
