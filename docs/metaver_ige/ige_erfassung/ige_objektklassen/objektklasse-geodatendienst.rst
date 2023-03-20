@@ -95,6 +95,8 @@ INSPIRE-relevant
 ''''''''''''''''
 
 .. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_checkbox-inspire-relevant-dienst.png
+   :width: 150
+
 
 Abb.: Checkbox INSPIRE-relevant
 
@@ -112,7 +114,7 @@ AdV kompatibel
 ''''''''''''''
 
 .. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_checkbox-adv-kompatibel.png
-
+   :width: 150
 
 Abb.: Checkbox INSPIRE-relevant
 
@@ -121,6 +123,7 @@ Abb.: Checkbox INSPIRE-relevant
 
 Abschnitt Verschlagwortung
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-abschnitt_verschlagwortung.png
 
 AdV Produktgruppe
 '''''''''''''''''
