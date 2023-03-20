@@ -249,7 +249,7 @@ Beispiel: OGC: WMS 1.3.0
 Operationen
 ^^^^^^^^^^^
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/fachbezug/operationen_operation_aktualisieren.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/operationen_operation_aktualisieren.png
 
 Abb.: Feld - Operationen
 
@@ -259,7 +259,7 @@ Angabe von Operationen bezüglich Webdiensten wie GetMap, GetCapabilities und ge
 Operation bearbeiten
 '''''''''''''''''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug/operationen_operation-bearbeiten.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/operationen_operation-bearbeiten.png
 
 Abb.: Feld - Operation bearbeiten
 
@@ -269,7 +269,7 @@ Bestehende Operation können bearbeitet werden, indem der entsprechende Eintrag 
 Name der Operation
 ''''''''''''''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug/operationen_name-der-operation.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/operationen_name-der-operation.png
 
 
 Abb.: Feld - Name der Operation
@@ -282,7 +282,7 @@ Name der von einem Dienst bereitgestellten Funktion/Operation. Hier muss ein ein
 Zugriffsadresse
 '''''''''''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug/operationen_operation.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/operationen_operation.png
 
 Abb.: Feld - Zugriffsadresse
 
@@ -296,7 +296,7 @@ Beispiel: https://my.host.com/cgi-bin/mapserv?map=mywms.map&
 Unterstützte Plattformen
 ''''''''''''''''''''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug/operationen_unterstuetzte-plattformen.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/operationen_unterstuetzte-plattformen.png
 
 
 Abb.: `Auswahlliste - Unterstützte Plattformen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_fachbezug_geodatendienst_operation_unterstuetzte-plattformen.html>`_
@@ -312,7 +312,7 @@ Parameter
 '''''''''
 
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug/operationen_parameter.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/operationen_parameter.png
 
 Abb.: Operation bearbeiten
 
@@ -337,7 +337,7 @@ Mehrfacheingabe: Nein
 GetCapabilities-Request-Parameter weglassen
 '''''''''''''''''''''''''''''''''''''''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug/operationen_parameter-weglassen.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/operationen_parameter-weglassen.png
 
 Abb.: Parameter weglassen
 
@@ -353,7 +353,7 @@ Sollten die Parameter noch in Geodatendiensten, Tabelle "Operationen" vorhanden 
 Aufruf
 ''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug/operationen_aufruf.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/operationen_aufruf.png
 
 Abb.: Aufruf
 
@@ -367,7 +367,7 @@ Beschreibung
 ''''''''''''
 
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug/operationen_beschreibung.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/operationen_beschreibung.png
 
 Abb.: Beschreibung
 
@@ -381,7 +381,7 @@ Abhängigkeiten
 ''''''''''''''
 
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug/operationen_abhaengigkeiten.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/operationen_abhaengigkeiten.png
 
 Abb.: Abhängigkeiten
 
@@ -398,7 +398,7 @@ Durch das Anklicken der Schaltfläche "Hinzufügen" übernehmen Sie die geänder
 Aktualisieren von Operationen und Metadaten
 '''''''''''''''''''''''''''''''''''''''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug/operationen_aktualisierung.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/operationen_aktualisierung.png
 
 Abb.: Aktualisierung
 
@@ -421,7 +421,7 @@ Abschnitt Fachbezug
 Erstellungsmaßstab
 ''''''''''''''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug/operationen_erstellungsmassstab.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/operationen_erstellungsmassstab.png
 
 Abb.: Erstellungsmaßstab
 
@@ -433,7 +433,7 @@ Angabe des Erstellungsmaßstabes, der sich auf die erstellte Karte und/oder Digi
 Systemumgebung
 ''''''''''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug/operationen_systemumgebung.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/operationen_systemumgebung.png
 
 Abb.: Erstellungsmaßstab
 
