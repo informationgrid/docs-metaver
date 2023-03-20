@@ -95,7 +95,7 @@ INSPIRE-relevant
 ''''''''''''''''
 
 .. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_checkbox-inspire-relevant-dienst.png
-   :width: 150
+   :width: 100
 
 
 Abb.: Checkbox INSPIRE-relevant
@@ -114,11 +114,11 @@ AdV kompatibel
 ''''''''''''''
 
 .. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_checkbox-adv-kompatibel.png
-   :width: 150
+   :width: 100
 
-Abb.: Checkbox INSPIRE-relevant
+Abb.: Checkbox AdV-kompatibel
 
-.. hint:: Wird die Checkbox "AdV kompatibel" aktiviert, werden die Anforderungen des AdV-Metadatenprofils umgesetzt (z.B. Automatisiertes Setzen des Schlüsselwortes "AdVMIS" in der Datenbank).
+Wird die Checkbox "AdV kompatibel" aktiviert, werden die Anforderungen des AdV-Metadatenprofils umgesetzt (z.B. Automatisiertes Setzen des Schlüsselwortes "AdVMIS" in der Datenbank).
 
 
 Abschnitt Verschlagwortung
@@ -130,7 +130,9 @@ AdV Produktgruppe
 
 .. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-03_verschlagwortung/ige-verschlagwortung_adv-produktgruppe.png
 
-Abb.: `Auswahlliste AdV-Produktgruppe <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_adv_produktgruppe.html>`_
+Abb.: Feld AdV Produktgruppe
+
+`Auswahlliste AdV-Produktgruppe <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_adv_produktgruppe.html>`_
 
 Auswahl einer Produktgruppe bzw. eines Fachthemas der AdV.
 
@@ -141,25 +143,27 @@ Auswahl einer Produktgruppe bzw. eines Fachthemas der AdV.
 INSPIRE-Themen
 ''''''''''''''
 
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-03_verschlagwortung/ige-verschlagwortung_inspire-themen.png
+
+Abb.: Feld - INSPIRE-Themen
+
+`Auswahlliste INSPRE-Themen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_inspire_themen.html>`_
+
 Auswahl eines INSPIRE Themengebiets für die Verschlagwortung des Datensatzes (INSPIRE-Pflichtfeld). Dieses Feld ist nur dann ein Pflichtfeld, wenn in das Feld "INSPIRE-relevant" ein Häkchen gesetzt wurde.
 
 
-.. hint:: Bei Eintragung oder Löschen eines INSPIRE-Themas werden im Pflichtfeld Spezifikation der Konformität automatisch Einträge vorgenommen bzw. entfernt.
+.. hint:: Bei Eintragung oder Löschen eines INSPIRE-Themas werden im Pflichtfeld "Spezifikation der Konformität" automatisch Einträge vorgenommen bzw. entfernt.
 
 .. note:: Beispiel: Boden - automatischer Eintrag im Abschnitt "Zusatzinformation" - Feld "Konformität": "VERORDNUNG (EG) Nr. 1089/2010 - INSPIRE Durchführungsbestimmung Interoperabilität von Geodatensätzen und -diensten: konform / nicht konform"
  
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-03_verschlagwortung/ige-verschlagwortung_inspire-themen.png
-
-Abb.: `Auswahlliste INSPRE-Themen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_inspire_themen.html>`_
-
- 
-INSPIRE - priority data set (optionales Feld)
-Priority Data Sets sind jene Geodatensätze, die für die Berichterstattung im Rahmen der EU-Umwelt-Richtlinien bereitgestellt werden (Berichtsdatensätze). Dazu ist je nach Betroffenheit von den Umweltberichterstattungspflichten die entsprechende/-n Rechtsschrift/-en aus der Liste auszuwählen.
-
 .. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-03_verschlagwortung/ige-verschlagwortung_inspire-priority-data-set.png
 
-Abb.: `Auswahlliste - priority data set <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_inspire_priority-data-set.html>`_
+Abb.: Feld - INSPIRE - priority data set
+
+`Auswahlliste - priority data set <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_inspire_priority-data-set.html>`_
+
+"INSPIRE - priority data set" ist ein optionales Feld - "priority Data Sets" sind jene Geodatensätze, die für die Berichterstattung im Rahmen der EU-Umwelt-Richtlinien bereitgestellt werden (Berichtsdatensätze). Dazu sind je nach Betroffenheit von den Umweltberichterstattungspflichten die entsprechenden Rechtsschriften aus der Liste auszuwählen.
 
 
 INSPIRE - Räumlicher Anwendungsbereich (optionales Feld)
@@ -169,7 +173,9 @@ Das Schlagwort "Räumlicher Anwendungsbereich" wird im Rahmen des INSPIRE-Monito
 
 .. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-03_verschlagwortung/ige-verschlagwortung_inspire-raeumlicher-anwendungsbereich.png
 
-Abb.: `Auswahlliste - INSPIRE-Räumlicher Anwendungsbereich <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_inspire_raeumlicher-anwendungsbereich.html>`_
+Abb.: Feld - INSPIRE-Räumlicher Anwendungsbereich
+
+`Auswahlliste - INSPIRE-Räumlicher Anwendungsbereich <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_inspire_raeumlicher-anwendungsbereich.html>`_
 
 
 Abschnitt Fachbezug
