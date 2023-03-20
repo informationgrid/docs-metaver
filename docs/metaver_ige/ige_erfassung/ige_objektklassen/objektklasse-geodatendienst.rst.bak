@@ -6,7 +6,7 @@ Geodatendienst
     :header: "Portal", "Editor"
     :widths: 30 30
 
-	.. figure:: ../../../img_ige/metaver_ige/ige_icons/objekte/portal/geodatendienst.png, .. figure:: ../../../img_ige/metaver_ige/ige_icons/objekte/ige/geodatendienst.png
+.. figure:: ../../../img_ige/metaver_ige/ige_icons/objekte/portal/geodatendienst.png, .. figure:: ../../../img_ige/metaver_ige/ige_icons/objekte/ige/geodatendienst.png
 
 Ein Geodatendienst ist ein in der Regel über das Internet angebotener Dienst, mit dessen Hilfe man sich Geodaten anschauen, einbinden, bearbeiten oder abfragen kann. Geodatendienste sind Webservices, die raumbezogene Informationen verarbeiten und vom Open Geospatial Consortium (OGC) auf Basis von ISO-Normen international standardisiert wurden.
 
@@ -17,6 +17,7 @@ Wenn ein Geodatensatz einem Geodatendienst zugeordnet wird, dann werden diese Me
 
 
 `Auflistung der verschiedenen Dienstarten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_geodatendienst_dienstarten.html>`_
+
 
 
 .. important:: Neben den Allgemeinen Metadaten, wie sie auch in den anderen Objektklassen unter** `Erfassung von Objekten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html>`_ **beschrieben sind, kommen in der Objektkasse Geodatendienst folgende Metadaten dazu.
