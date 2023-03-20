@@ -16,36 +16,6 @@ Einem Geodatensatz können unterschiedliche Geodatendienste zugeordnet werden (z
 Wenn ein Geodatensatz einem Geodatendienst zugeordnet wird, dann werden diese Metadatensätze miteinander gekoppelt (Datenkopplung). Das bedeutet,der Geodatensatz verweist durch eine Verlinkung auf den Geodatendienst, der Geodatendienst wiederum verweist durch eine Verlinkung auf den Geodatensatz.
 
 
-Dienstarten
------------
-
-
-Darstellungsdienste
-^^^^^^^^^^^^^^^^^^^
-
- - WMS - Web Map Service (Server kann angeforderte Karten aus Rasterdaten oder Vektordaten visualisieren.)
-   
- - WMTS - Web Map Tile Service (Webservice, um digitale Karten kachelbasiert anbieten und abrufen zu können.)
-
-
-Downloaddienste
-^^^^^^^^^^^^^^^
-
- - WFS - Web Feature Service (Internet-gestützter Zugriff auf Geodaten (Vektordaten).)
-
- - WCS - Web Coverage Service (Der WCS stellt verfügbare Daten mit detaillierten Beschreibungen (Metadaten) bereit und definiert eine reiche Syntax für Anfragen auf diese Daten und Metadaten. Er liefert multidimensionale Daten zurück.)
-
- - WCS-T - Web Coverage Service – Transaktion (Definiert, wie neue Coverages (Vektordatenformate) auf einen Server geladen werden können bzw. bereits vorhandene Coverages geändert werden können.)
-
- - Atom-Feed - Web-Feeds im XML-Format
-
-
-Katalogdienst
-^^^^^^^^^^^^^
-
- - CSW - Catalogue Service for the Web (Internet-gestützte Veröffentlichung von Informationen über Geoanwendungen, Geodienste und Geodaten (Metadaten) in einer Geodateninfrastruktur.)
-
-
 .. important:: Neben den Allgemeinen Metadaten, wie sie auch in den anderen Objektklassen unter** `Erfassung von Objekten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html>`_ **beschrieben sind, kommen in der Objektkasse Geodatendienst folgende Metadaten dazu.
 
 
@@ -123,7 +93,7 @@ Wird die Checkbox "AdV kompatibel" aktiviert, werden die Anforderungen des AdV-M
 
 Abschnitt Verschlagwortung
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-abschnitt_verschlagwortung.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-03_verschlagwortung/ige-abschnitt_verschlagwortung.png
 
 AdV Produktgruppe
 '''''''''''''''''
