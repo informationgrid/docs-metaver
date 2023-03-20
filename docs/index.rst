@@ -64,7 +64,15 @@ Version der Bedienungsanleitung
    metaver_informationen/historie/ige-metaver_versionen.rst
    
    
-.. topic:: Test
+.. note::  This is a **note** box.
 
-Text Text Text
+
+.. warning:: note the space between the directive and the text
+
+
+.. topic:: Your Topic Title
+
+    Subsequent indented lines comprise
+    the body of the topic, and are
+    interpreted as body elements.
 
