@@ -64,15 +64,14 @@ Version der Bedienungsanleitung
    metaver_informationen/historie/ige-metaver_versionen.rst
    
    
-.. note::  This is a **note** box.
+.. note:: Dieses Feld ist nur ein Pflichtfeld, wenn in das Feld "INSPIRE-relevant" ein Häkchen gesetzt wurde.
 
+.. hint:: Dieses Feld ist nur ein Pflichtfeld, wenn in das Feld "INSPIRE-relevant" ein Häkchen gesetzt wurde.
 
-.. warning:: note the space between the directive and the text
+.. tip:: Dieses Feld ist nur ein Pflichtfeld, wenn in das Feld "INSPIRE-relevant" ein Häkchen gesetzt wurde.
 
+.. warning:: Dieses Feld ist nur ein Pflichtfeld, wenn in das Feld "INSPIRE-relevant" ein Häkchen gesetzt wurde.
 
-.. topic:: Your Topic Title
+.. error:: Dieses Feld ist nur ein Pflichtfeld, wenn in das Feld "INSPIRE-relevant" ein Häkchen gesetzt wurde.
 
-    Subsequent indented lines comprise
-    the body of the topic, and are
-    interpreted as body elements.
-
+.. important:: Dieses Feld ist nur ein Pflichtfeld, wenn in das Feld "INSPIRE-relevant" ein Häkchen gesetzt wurde.
