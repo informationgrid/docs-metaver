@@ -210,10 +210,9 @@ Bei aktivierter Option, wird dieser Datensatz im Portal als Download angeboten. 
 Der ATOM-Feed Client
 ''''''''''''''''''''
 
-.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/atom-downloaddienst/atom-feed-client/atom-feed-client.png
+.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/atom-feed-client/atom-feed-client.png
 
 Abb.: ATOM-Feed Client
-
 
 `Beschreibung des Atom-Feed Clients <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/atom-feed/client.html>`_
 
