@@ -336,7 +336,11 @@ Abb.: Kopplungstyp
 
 Die Art der Kopplung vom Dienst (Service) zu den Daten. Der Typ "tight" bewirkt, dass ein Verweis zu einem Datensatz existieren muss.
 
-Mögliche Kopplungstypen: loose, mixed, tight
+Kopplungstypen: 
+
+ - loose - 
+ - mixed - 
+ - tight - Verweis zu einem Datensatz
 
 
 
