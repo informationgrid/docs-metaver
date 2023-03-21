@@ -71,8 +71,6 @@ GetFeature-Request werden dagegen nicht ausgewertet. Der Service-Feed enthält h
 
 Beispiel: https://www.host.de/.../downloads/name_der_datei.zip
 
-.. hint:: Bei ATOM-Download Diensten, die im Rahmen von INSPIRE bereitgestellt und nicht über den InGrid Editor generiert werden, ist für das Feld "Name der Operation" -  "Get Download Service Metadata" auszuwählen.
-
 
 
 Erstellung eines ATOM-Feeds im IGE
