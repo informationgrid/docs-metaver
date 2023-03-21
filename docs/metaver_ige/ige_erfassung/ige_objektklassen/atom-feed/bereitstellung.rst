@@ -13,7 +13,7 @@ Die Grundidee dabei ist, dass vom Metadaten-Erfasser im InGrid-Editor Service-Me
 
 Alle an diesen Geodatensatz gekoppelten Geodatendienste werden im Service-Feed eingetragen. Für jeden Geodatensatz kann ein Daten-Feed abgerufen werden. Im Daten-Feed werden alle Download-Optionen für diesen Datensatz eingetragen. 
 
-Folgende Voraussetzungen müssen erfüllt sein, damit ATOM-Feeds erstellt und über den Atom-Feed Client <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/atom-feed/client.html>`_ bereitgestellt werden können. 
+Folgende Voraussetzungen müssen erfüllt sein, damit ATOM-Feeds erstellt und über den `Atom-Feed Client <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/atom-feed/client.html>`_ bereitgestellt werden können. 
 
 
 Erfassung eines Externen ATOM-Feeds
@@ -30,7 +30,7 @@ Abb.: Einbindung eines externen ATOM-Feeds
 
 Art des Dienstes
 ''''''''''''''''
-Neben den üblichen Pflichtfeldern ist darauf zu achten, dass bei "Art des Dienstes" der Wert "Download-Dienste" ausgewählt und die darunter liegende Checkbox "Als ATOM-Download-Dienst bereitstellen" gesetzt wird.
+Im Feld "Art des Dienstes" muss der Wert "Download-Dienste" ausgewählt werden.
 
 
 Operationen
@@ -80,7 +80,9 @@ Erstellung eines ATOM-Feeds im IGE
 
 .. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/atom-downloaddienst/fachbezug_atom_intern.png
 
-Abb.: 
+Abb.: Erstellung eines ATOM-Feeds im IGE
+
+
 
 Als ATOM-Download Dienst bereitstellen
 ''''''''''''''''''''''''''''''''''''''
@@ -89,7 +91,7 @@ Bei aktivierter Option, wird dieser Datensatz im Portal als Download angeboten. 
 .. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/atom-downloaddienst/fachbezug_atom_hinweis.png
   :width: 200
 
-.. hint:: Bei ATOM-Downloaddiensten die im IGE erstellt werden, muss darauf geachtet werden, dass im Geodatensatz unter "Verweise" eine Download-URL vorhanden ist.
+.. hint:: Bei ATOM-Downloaddiensten die im ATOM-Feed Client angezeigt werden sollen, muss darauf geachtet werden, dass im Geodatensatz unter "Verweise" eine Download-URL angelegt wurde.
 
 
 Operationen
