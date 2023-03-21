@@ -13,7 +13,7 @@ Die Grundidee dabei ist, dass vom Metadaten-Erfasser im InGrid-Editor Service-Me
 
 Alle an diesen Geodatensatz gekoppelten Geodatendienste werden im Service-Feed eingetragen. Für jeden Geodatensatz kann ein Daten-Feed abgerufen werden. Im Daten-Feed werden alle Download-Optionen für diesen Datensatz eingetragen. 
 
-Folgende Voraussetzungen müssen durch den Metadaten-Erfasser erfüllt sein, damit automatisiert ATOM-Feeds erstellt werden können. 
+Folgende Voraussetzungen müssen erfüllt sein, damit ATOM-Feeds erstellt und über den Atom-Feed Client <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/atom-feed/client.html>`_ bereitgestellt werden können. 
 
 Erfassung
 ^^^^^^^^^
@@ -59,8 +59,8 @@ Beispiel: https://www.host.de/.../downloads/name_der_datei.zip
 Unterstützte Plattformen
 ''''''''''''''''''''''''
 
-Angaben zur Art der Plattform bzw. Schnittstelle über die der Dienst angesprochen werden kann.
-Auswahl: WebService
+Angaben zur Art der Plattform bzw. Schnittstelle über die der Dienst angesprochen werden kann,
+Auswahl: WebService.
 
 
 Download-URL
@@ -72,7 +72,7 @@ Beispiel: Formate für den Daten-Download: .shp, .zip
 
 GetFeature-Request werden dagegen nicht ausgewertet. Der Service-Feed enthält hierbei zwar den Verweis zum Daten-Feed, ruft man aber den Daten-Feed auf, so fehlt der Link zum Download. 
 
-Beispiel: GetFeature-Request: https://www.geodatenportal.sachsen-anhalt.de/wss/service/INSPIRE_LAU_Schutzgebiete_WFS/guest?
+Beispiel: https://www.host.de/.../downloads/name_der_datei.zip
 
 .. hint:: Bei ATOM-Download Diensten, die im Rahmen von INSPIRE bereitgestellt und nicht über den InGrid Editor generiert werden, ist für das Feld "Name der Operation" -  "Get Download Service Metadata" auszuwählen.
 
@@ -80,7 +80,7 @@ Beispiel: GetFeature-Request: https://www.geodatenportal.sachsen-anhalt.de/wss/s
 
 Erstellung eines ATOM-Feeds im IGE
 ''''''''''''''''''''''''''''''''''
-.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/atom-downloaddienst/fachbezug_atom_bereitstellung-im-ige.png
+.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/atom-downloaddienst/fachbezug_atom_intern.png
 
 Abb.: 
 
@@ -94,4 +94,14 @@ Bei aktivierter Option, wird dieser Datensatz im Portal als Download angeboten. 
 Abb.: Hinweis
 
 .. hint:: Bei ATOM-Downloaddiensten die im IGE erstellt werden, muss darauf geachtet werden, dass im Geodatensatz unter "Verweise" eine Download-URL vorhanden ist.
+
+
+
+Operationen
+^^^^^^^^^^^
+.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/atom-downloaddienst/fachbezug_atom_operationen_2.png
+
+Abb.: Feld - Name der Operation
+
+Beispiel: https://www.url.de/.../topfeed=1/LVermGeo_ATOM_DTK_COL.atom
 
