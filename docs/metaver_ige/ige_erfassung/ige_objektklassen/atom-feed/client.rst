@@ -4,7 +4,8 @@ Der ATOM-Feed Client
 
 .. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/atom-feed-client/atom-feed-client.png
 
-Abb.:  https://metaver.de/search/dls/ - Alle
+Abb.: `Alle <https://metaver.de/search/dls/>`_
+
 
 Da die Webbrowser Atom-Feeds für den Datendownload  nur mit Erweiterungen unterstützen, wurde als Alternative der Webbasierte Atom-Feed Client bereitgestellt. Die Übernahme der Atom-Dienste aus dem InGrid Editor in den Atom-Feed Client erfolgt im InGrid Editor durch das Aktivieren des Feldes "Als ATOM-Download Dienst bereitstellen".
 
