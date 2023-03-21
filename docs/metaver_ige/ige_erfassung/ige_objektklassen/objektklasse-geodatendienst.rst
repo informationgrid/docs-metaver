@@ -245,8 +245,7 @@ Abb.: Feld - Operationen
 Erstellungsmaßstab
 ''''''''''''''''''
 
-.. figure:: ../../..
-/img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen_erstellungsmassstab.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen_erstellungsmassstab.png
 
 Abb.: Erstellungsmaßstab
 
