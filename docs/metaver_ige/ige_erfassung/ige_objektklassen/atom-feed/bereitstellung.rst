@@ -37,7 +37,7 @@ Neben den üblichen Pflichtfeldern ist darauf zu achten, dass bei "Art des Diens
 
 
 Operationen
-'''''''''''
+^^^^^^^^^^^
 .. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/atom-downloaddienst/fachbezug_atom_operationen.png
 
 Abb.: Feld - Name der Operation
@@ -77,6 +77,7 @@ Beispiel: GetFeature-Request: https://www.geodatenportal.sachsen-anhalt.de/wss/s
 .. hint:: Bei ATOM-Download Diensten, die im Rahmen von INSPIRE bereitgestellt und nicht über den InGrid Editor generiert werden, ist für das Feld "Name der Operation" -  "Get Download Service Metadata" auszuwählen.
 
 
+
 Erstellung eines ATOM-Feeds im IGE
 ''''''''''''''''''''''''''''''''''
 .. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/atom-downloaddienst/fachbezug_atom_bereitstellung-im-ige.png
@@ -88,6 +89,7 @@ Als ATOM-Download Dienst bereitstellen
 Bei aktivierter Option, wird dieser Datensatz im Portal als Download angeboten. Zusätzlich wird die in den Katalogeinstellungen hinterlegte "ATOM-Downloadservice-URL" automatisch in das ISO-Format unter "distributionInfo/*/linkage" abgebildet.
 
 .. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/atom-downloaddienst/fachbezug_atom_hinweis.png
+  :width: 200
 
 Abb.: Hinweis
 
