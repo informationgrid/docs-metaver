@@ -245,7 +245,7 @@ Abb.: Feld - Operationen
 Erstellungsmaßstab
 ''''''''''''''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen_erstellungsmassstab.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug_erstellungsmassstab.png
 
 Abb.: Erstellungsmaßstab
 
@@ -257,7 +257,7 @@ Beispiel: Bodenauflösung: Auflösungseinheit in Linien/cm; Einheit: z.B. 1 cm g
 Systemumgebung
 ''''''''''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen_systemumgebung.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug_systemumgebung.png
 
 Abb.: Erstellungsmaßstab
 
@@ -338,7 +338,7 @@ Mögliche Kopplungstypen: loose, mixed, tight
 Katalog-übergreifende Daten-Dienste-Kopplung
 ''''''''''''''''''''''''''''''''''''''''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/datenkopplungfachbezug_daten-dienste-kopplung.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/datenkopplung/fachbezug_daten-dienste-kopplung.png
 
 Abb.: Daten-Dienste-Kopplung
 
@@ -356,7 +356,7 @@ Beispiel für GetRecordById-Requests: https://www.host.de/csw?request=getrecordb
 
 Über die Angabe dieses Requests wird die katalogübergreifende Daten-Dienste-Kopplung ermöglicht. Nach Eingabe der URL und Klick auf „Analysieren“ erfolgt eine Auswertung des XML-Dokumentes. Mit dem Button „Zuweisen“ wird der externe Datensatz mit dem Dienst gekoppelt.
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug_daten-dienste-kopplung.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/datenkopplung/fachbezug_daten-dienste-kopplung.png
 
 Abb.: Detailansicht einer erfolgreichen Daten-Dienste-Kopplung im Portal am Beispiel des INSPIRE.WMS ST Schutzgebite Naturschutz.
 
