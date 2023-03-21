@@ -15,16 +15,13 @@ Alle an diesen Geodatensatz gekoppelten Geodatendienste werden im Service-Feed e
 
 Folgende Voraussetzungen müssen erfüllt sein, damit ATOM-Feeds erstellt und über den Atom-Feed Client <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/atom-feed/client.html>`_ bereitgestellt werden können. 
 
-Erfassung
-^^^^^^^^^
+
+Erfassung eines Externen ATOM-Feeds
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Abschnitt Fachbezug
 '''''''''''''''''''
 .. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-04_fachbezug/ige-abschnitt_fachbezug.png
-
-
-Erfassung eines Externen ATOM-Feeds
-''''''''''''''''''''''''''''''''''
 
 .. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/atom-downloaddienst/fachbezug_atom_extern.png
 
@@ -79,7 +76,8 @@ Beispiel: https://www.host.de/.../downloads/name_der_datei.zip
 
 
 Erstellung eines ATOM-Feeds im IGE
-''''''''''''''''''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 .. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/atom-downloaddienst/fachbezug_atom_intern.png
 
 Abb.: 
@@ -93,10 +91,6 @@ Bei aktivierter Option, wird dieser Datensatz im Portal als Download angeboten. 
 
 Abb.: Hinweis
 
-.. hint:: Bei ATOM-Downloaddiensten die im IGE erstellt werden, muss darauf geachtet werden, dass im Geodatensatz unter "Verweise" eine Download-URL vorhanden ist.
-
-
-
 Operationen
 ^^^^^^^^^^^
 .. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/atom-downloaddienst/fachbezug_atom_operationen_2.png
@@ -105,3 +99,4 @@ Abb.: Feld - Name der Operation
 
 Beispiel: https://www.url.de/.../topfeed=1/LVermGeo_ATOM_DTK_COL.atom
 
+.. hint:: Bei ATOM-Downloaddiensten die im IGE erstellt werden, muss darauf geachtet werden, dass im Geodatensatz unter "Verweise" eine Download-URL vorhanden ist.
