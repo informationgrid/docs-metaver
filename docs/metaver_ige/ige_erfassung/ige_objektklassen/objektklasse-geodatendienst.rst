@@ -223,13 +223,12 @@ Beispiel: OGC: WMS 1.3.0
 
 
 Operationen
-^^^^^^^^^^^
-
-Hier werden die Operationen ausführlich beschrieben.
+'''''''''''
 
 
-Abschnitt Fachbezug
-^^^^^^^^^^^^^^^^^^^
+`Hier werden die Operationen ausführlich beschrieben. <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/operationen/operationen_beschreibung.html>`_
+
+
 
 Erstellungsmaßstab
 ''''''''''''''''''
