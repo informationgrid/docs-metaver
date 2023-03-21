@@ -16,7 +16,7 @@ Alle an diesen Geodatensatz gekoppelten Geodatendienste werden im Service-Feed e
 Folgende Voraussetzungen müssen erfüllt sein, damit ATOM-Feeds erstellt und über den `Atom-Feed Client <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/atom-feed/client.html>`_ bereitgestellt werden können. 
 
 
-Erfassung eines Externen ATOM-Feeds
+Erfassung eines externen ATOM-Feeds
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Abschnitt Fachbezug
