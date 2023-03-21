@@ -20,7 +20,7 @@ Wenn ein Geodatensatz einem Geodatendienst zugeordnet wird, dann werden diese Me
 
 
 
-.. important:: Neben den Allgemeinen Metadaten, wie sie auch in den anderen Objektklassen unter** `Erfassung von Objekten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html>`_ **beschrieben sind, kommen in der Objektkasse Geodatendienst folgende Metadaten dazu.
+.. important:: Neben den Allgemeinen Metadaten, wie sie auch in den anderen Objektklassen unter `Erfassung von Objekten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html>`_ beschrieben sind, kommen in der Objektkasse Geodatendienst folgende Metadaten dazu.
 
 
 
@@ -203,9 +203,6 @@ Bei aktivierter Option, wird dieser Datensatz im Portal als Download angeboten. 
 `Ausführliche Beschreibung - Bereitstellung als ATOM-Download Dienst <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/atom-feed/bereitstellung.html>`_
 
 
-.. hint:: Bei ATOM-Download Diensten, die im Rahmen von INSPIRE bereitgestellt und nicht über den InGrid Editor generiert werden, ist für das Feld "Name der Operation" -  "Get Download Service Metadata" auszuwählen.
-
-
 
 Der ATOM-Feed Client
 ''''''''''''''''''''
@@ -248,7 +245,8 @@ Abb.: Feld - Operationen
 Erstellungsmaßstab
 ''''''''''''''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/operationen_erstellungsmassstab.png
+.. figure:: ../../..
+/img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen_erstellungsmassstab.png
 
 Abb.: Erstellungsmaßstab
 
@@ -260,7 +258,7 @@ Beispiel: Bodenauflösung: Auflösungseinheit in Linien/cm; Einheit: z.B. 1 cm g
 Systemumgebung
 ''''''''''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/operationen_systemumgebung.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen_systemumgebung.png
 
 Abb.: Erstellungsmaßstab
 
@@ -270,7 +268,7 @@ Angaben zum Betriebssystem und der Software, ggf. auch Hardware, die zur Impleme
 Historie
 ''''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/fachbezug_historie.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug_historie.png
 
 Abb.: Historie
 
@@ -283,7 +281,7 @@ Beispiel: 11.12.03: Installation des UMN Mapserver 3.0 auf Linux 2.2.005.04.04: 
 Erläuterungen
 '''''''''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/fachbezug_erlaeuterungen.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug_erlaeuterungen.png
 
 Abb.: Erläuterungen
 
@@ -295,7 +293,7 @@ Zusätzliche Anmerkungen zu dem beschriebenen Dienst. Hier können weitergehende
 Daten-Dienstekopplung
 '''''''''''''''''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/fachbezug_daten-dienstekopplung.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug_daten-dienstekopplung.png
 
 Abb.: Daten-Dienstekopplung
 
@@ -305,7 +303,7 @@ Abb.: Daten-Dienstekopplung
 Dargestellte Daten
 ''''''''''''''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/fachbezug_dargestellte-daten.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug_dargestellte-daten.png
 
 Abb.: Dargestellte Daten
 
@@ -315,7 +313,7 @@ Das Metadatenfeld „Dargestellte Daten“ bzw. „Gekoppelte Daten auswählen�
 Datenkopplung
 '''''''''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/fachbezug_datenkopplung.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug_datenkopplung.png
 
 Abb.: Datenkopplung
 
@@ -328,7 +326,7 @@ Mit einem Klick auf den Button „Zuweisen“ wird die gekoppelte Datensatz beim
 Kopplungstyp
 ''''''''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/fachbezug_kopplungstyp.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug_kopplungstyp.png
 
 Abb.: Kopplungstyp
 
@@ -340,7 +338,7 @@ Mögliche Kopplungstypen: loose, mixed, tight
 Zugang geschützt
 ''''''''''''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/fachbezug_zugang-geschuetzt.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug_zugang-geschuetzt.png
 
 Abb.: Zugang geschützt
 
@@ -350,7 +348,7 @@ Das Kontrollkästchen  Zugang geschützt soll aktiviert werden, wenn der Zugang 
 Katalog-übergreifende Daten-Dienste-Kopplung
 ''''''''''''''''''''''''''''''''''''''''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/fachbezug_daten-dienste-kopplung.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug_daten-dienste-kopplung.png
 
 Abb.: Daten-Dienste-Kopplung
 
@@ -379,7 +377,7 @@ Abschnitt Zusatzinformation
 Konformität
 '''''''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/fachbezug_konformitaet.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug_konformitaet.png
 
 Abb.: Konformität
 
