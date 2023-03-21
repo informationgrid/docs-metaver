@@ -96,7 +96,7 @@ Abb.: Katalogeinstellung - hinterlegte URL
 .. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/atom-downloaddienst/fachbezug_atom_hinweis.png
   :width: 200
 
-  Abb: Hinweis
+Abb: Hinweis
 
 .. hint:: Bei ATOM-Downloaddiensten die im ATOM-Feed Client angezeigt werden sollen, muss darauf geachtet werden, dass im Geodatensatz unter "Verweise" eine Download-URL angelegt wurde.
 
