@@ -89,7 +89,8 @@ Bei aktivierter Option, wird dieser Datensatz im Portal als Download angeboten. 
 .. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/atom-downloaddienst/fachbezug_atom_hinweis.png
   :width: 200
 
-Abb.: Hinweis
+.. hint:: Bei ATOM-Downloaddiensten die im IGE erstellt werden, muss darauf geachtet werden, dass im Geodatensatz unter "Verweise" eine Download-URL vorhanden ist.
+
 
 Operationen
 ^^^^^^^^^^^
@@ -97,6 +98,5 @@ Operationen
 
 Abb.: Feld - Name der Operation
 
-Beispiel: https://www.url.de/.../topfeed=1/LVermGeo_ATOM_DTK_COL.atom
+Beispiel: https://www.url.de/ ... /topfeed=1/LVermGeo_ATOM_DTK_COL.atom
 
-.. hint:: Bei ATOM-Downloaddiensten die im IGE erstellt werden, muss darauf geachtet werden, dass im Geodatensatz unter "Verweise" eine Download-URL vorhanden ist.
