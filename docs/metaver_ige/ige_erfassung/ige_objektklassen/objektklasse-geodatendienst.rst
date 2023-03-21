@@ -370,10 +370,12 @@ Checkbox "Zugang geschützt"
 '''''''''''''''''''''''''''
 
 .. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug_zugang-geschuetzt.png
+   :width: 200
 
 Abb.: Zugang geschützt
 
 .. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug_zugang-geschuetzt-portal.png
+   :width: 300
 
 Abb.: Zugang geschützt - Portalansicht
 
