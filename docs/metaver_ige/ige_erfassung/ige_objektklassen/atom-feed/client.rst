@@ -2,7 +2,7 @@
 Der ATOM-Feed Client
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/atom-downloaddienst/atom-feed-client/atom-feed-client.png
+.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/atom-feed-client/atom-feed-client.png
 
 Abb.:  https://metaver.de/search/dls/ - Alle
 
@@ -10,22 +10,22 @@ Da die Webbrowser Atom-Feeds für den Datendownload  nur mit Erweiterungen unter
 
 Folgende Partner-Bundesländer verfügen über den ATOM-Feed Client.
 
-.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/atom-downloaddienst/atom-feed-client/atom-feed-client_bb.png
+.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/atom-feed-client/atom-feed-client_bb.png
 
   Abb.: `ATOM-Feed Client Brandenburg <https://metaver.de/search/dls/?partner=bb>`_
 
 
- .. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/atom-downloaddienst/atom-feed-client/atom-feed-client_hb.png
+ .. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/atom-feed-client/atom-feed-client_hb.png
  
  Abb.: `ATOM-Feed Client Hansestadt Bremen <https://metaver.de/search/dls/?partner=hb>`_
 
 
- .. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/atom-downloaddienst/atom-feed-client/atom-feed-client_hh.png
+ .. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/atom-feed-client/atom-feed-client_hh.png
 
  Abb.: `ATOM-Feed Client Hansestadt Hamburg <https://metaver.de/search/dls/?partner=hh>`_
 
 
- .. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/atom-downloaddienst/atom-feed-client/atom-feed-client_st.png
+ .. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/atom-feed-client/atom-feed-client_st.png
 
  Abb.: `ATOM-Feed Client Sachsen-Anhalt <https://metaver.de/search/dls/?partner=st>`_
 
