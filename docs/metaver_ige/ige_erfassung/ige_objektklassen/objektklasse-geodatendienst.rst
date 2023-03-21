@@ -302,11 +302,20 @@ Abb.: Daten-Dienstekopplung
 Dargestellte Daten
 ''''''''''''''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/datenkopplung/fachbezug_dargestellte-daten.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/datenkopplung/fachbezug_daten-dienste-kopplung_dargestellte-daten.png
 
 Abb.: Dargestellte Daten
 
-Das Metadatenfeld „Dargestellte Daten“ bzw. „Gekoppelte Daten auswählen“ ist für den Objekttyp „Geodatendienst“ von besonderer Bedeutung. Ziel ist es, hier alle Metadatensätze zu Geodaten aufzulisten, die Bestandteil des Geodatendienstes sind. Auf diese Weise erfolgt eine Kopplung der Daten und Dienste und dieses wiederum hat den nutzerfreundlichen Vorteil, dass sich der User gefundene Daten sofort über einen Link (im Datensatz) im Kartenviewer ansehen kann (siehe Daten-Dienste-Kopplung). 
+
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/datenkopplung/fachbezug_daten-dienste-kopplung_objekt-auswaehlen.png
+
+Abb.: Gekoppelte Daten auswählen
+
+Das Metadatenfeld „Dargestellte Daten“ bzw. „Gekoppelte Daten auswählen“ ist für den Objekttyp „Geodatendienst“ von besonderer Bedeutung. Ziel ist es, hier alle Metadatensätze zu Geodaten aufzulisten, die Bestandteil des Geodatendienstes sind. Auf diese Weise erfolgt eine Kopplung der Daten und Dienste und dieses wiederum hat den nutzerfreundlichen Vorteil, dass sich der User gefundene Daten sofort über einen Link (im Datensatz) im Kartenviewer ansehen kann (siehe Daten-Dienste-Kopplung).
+
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/datenkopplung/fachbezug_daten-dienste-kopplung_portalansicht.png
+
+Abb.: Datenkopplung in der Portalansicht
 
  
 Datenkopplung
@@ -325,7 +334,7 @@ Mit einem Klick auf den Button „Zuweisen“ wird die gekoppelte Datensatz beim
 Kopplungstyp
 ''''''''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/datenkopplung/fachbezug_kopplungstyp.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/datenkopplung/fachbezug_daten-dienste-kopplung_kopplungstyp.png
 
 Abb.: Kopplungstyp
 
@@ -338,7 +347,7 @@ Mögliche Kopplungstypen: loose, mixed, tight
 Katalog-übergreifende Daten-Dienste-Kopplung
 ''''''''''''''''''''''''''''''''''''''''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/datenkopplung/fachbezug_daten-dienste-kopplung.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/datenkopplung/fachbezug_daten-dienste-kopplung_externer-datensatz.png
 
 Abb.: Daten-Dienste-Kopplung
 
@@ -356,7 +365,7 @@ Beispiel für GetRecordById-Requests: https://www.host.de/csw?request=getrecordb
 
 Über die Angabe dieses Requests wird die katalogübergreifende Daten-Dienste-Kopplung ermöglicht. Nach Eingabe der URL und Klick auf „Analysieren“ erfolgt eine Auswertung des XML-Dokumentes. Mit dem Button „Zuweisen“ wird der externe Datensatz mit dem Dienst gekoppelt.
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/datenkopplung/fachbezug_daten-dienste-kopplung.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/datenkopplung/fachbezug_daten-dienste-kopplung_externer-datensatz.png
 
 Abb.: Detailansicht einer erfolgreichen Daten-Dienste-Kopplung im Portal am Beispiel des INSPIRE.WMS ST Schutzgebite Naturschutz.
 
