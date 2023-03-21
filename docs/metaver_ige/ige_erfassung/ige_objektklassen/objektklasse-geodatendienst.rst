@@ -290,11 +290,7 @@ Zusätzliche Anmerkungen zu dem beschriebenen Dienst. Hier können weitergehende
 
 
 Daten-Dienstekopplung
-'''''''''''''''''''''
-
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/datenkopplung/fachbezug_daten-dienstekopplung.png
-
-Abb.: Daten-Dienstekopplung
+^^^^^^^^^^^^^^^^^^^^^
 
 `Datenkopplung im Geodatensatz <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/objektklasse-geodatensatz.html#darstellender-dienst>`_
 
@@ -370,14 +366,18 @@ Beispiel für GetRecordById-Requests: https://www.host.de/csw?request=getrecordb
 Abb.: Detailansicht einer erfolgreichen Daten-Dienste-Kopplung im Portal am Beispiel des INSPIRE.WMS ST Schutzgebite Naturschutz.
 
 
-Zugang geschützt
-''''''''''''''''
+Checkbox "Zugang geschützt"
+'''''''''''''''''''''''''''
 
 .. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug_zugang-geschuetzt.png
 
 Abb.: Zugang geschützt
 
-Das Kontrollkästchen  Zugang geschützt soll aktiviert werden, wenn der Zugang zu dem Dienst z.B. durch ein Passwort geschützt ist. Bei aktiviertem Kontrollkästchen wird kein direkter Link ( Zeige Karte) aus dem Portal zu dem Dienst generiert.
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug_zugang-geschuetzt-portal.png
+
+Abb.: Zugang geschützt - Portalansicht
+
+Die Checkbox "Zugang geschützt" sollte aktiviert werden, wenn der Zugang zu dem Dienst z.B. durch ein Passwort geschützt ist. Bei aktiviertem Kontrollkästchen wird kein direkter Link (Zeige Karte) aus dem Portal zu dem Dienst generiert. In der Portalansicht erscheint am Dienst eine Grafik als Vorhängeschloss.
 
 
 
