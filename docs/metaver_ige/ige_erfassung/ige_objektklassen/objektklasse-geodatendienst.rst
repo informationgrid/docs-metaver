@@ -192,22 +192,29 @@ Beispiel: Darstellungsdienst (automatischer Eintrag in Konformität/Spezifikatio
 
 
 Als ATOM-Download Dienst bereitstellen
-'''''''''''''''''''''''''''''''''''''''
+''''''''''''''''''''''''''''''''''''''
 
 .. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/atom-downloaddienst/fachbezug_atom-downloaddienst-bereitstellen.png
 
 Abb.: Checkbox - Als ATOM-Download Dienst bereitstellen 
 
+Bei aktivierter Option, wird dieser Datensatz im Portal als Download angeboten. Zusätzlich wird die in den Katalogeinstellungen hinterlegte "ATOM-Downloadservice-URL" automatisch in das ISO-Format unter "distributionInfo/*/linkage" abgebildet.
 
 `Ausführliche Beschreibung - Bereitstellung als ATOM-Download Dienst <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/atom-feed/bereitstellung.html>`_
+
+
+.. hint:: Bei ATOM-Download Diensten, die im Rahmen von INSPIRE bereitgestellt und nicht über den InGrid Editor generiert werden, ist für das Feld "Name der Operation" -  "Get Download Service Metadata" auszuwählen.
+
+
+
+Der ATOM-Feed Client
+''''''''''''''''''''
+
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/atom-downloaddienst/atom-feed-client/atom-feed-client.png
 
 `Beschreibung des Atom-Feed Clients <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/atom-feed/client.html>`_
 
 
-Bei aktivierter Option, wird dieser Datensatz im Portal als Download angeboten. Zusätzlich wird die in den Katalogeinstellungen hinterlegte "ATOM-Downloadservice-URL" automatisch in das ISO-Format unter "distributionInfo/*/linkage" abgebildet.
-
-
-.. hint:: Bei ATOM-Download Diensten, die im Rahmen von INSPIRE bereitgestellt und nicht über den InGrid Editor generiert werden, ist für das Feld "Name der Operation" -  "Get Download Service Metadata" auszuwählen.
 
 
 Version des Dienstes
