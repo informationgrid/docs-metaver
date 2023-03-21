@@ -225,6 +225,9 @@ Beispiel: OGC: WMS 1.3.0
 Operationen
 '''''''''''
 
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/fachbezug_operation_aktualisieren.png
+
+Abb.: Feld - Operationen
 
 `Hier werden die Operationen ausführlich beschrieben. <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/operationen/operationen_beschreibung.html>`_
 
