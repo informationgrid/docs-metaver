@@ -33,9 +33,7 @@ Folgende Partner-Bundesländer verfügen über den ATOM-Feed Client.
 .. hint:: Änderungen in der URL des ATOM-Feed Clients mit der Taste F5 (Seite neu laden) abschließen.
 
 
-Der ATOM-Feed Client wurde an die Besonderheiten der Bundesländer und der Downloadserver angepasst.
-
-Folgende Bedingungen müssen erfüllt sein, damit ein Atom-Feed im Atom-Feed Client erscheint:
+Der ATOM-Feed Client wurde an die Besonderheiten der Bundesländer und der Downloadserver angepasst. Folgende Bedingungen müssen erfüllt sein, damit ein Atom-Feed im Atom-Feed Client erscheint:
 
 
 **Kopplung mit Geodatensatz**
