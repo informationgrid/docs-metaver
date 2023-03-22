@@ -300,10 +300,6 @@ Dargestellte Daten
 Abb.: Dargestellte Daten
 
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/datenkopplung/fachbezug_daten-dienste-kopplung_objekt-auswaehlen.png
-
-Abb.: Gekoppelte Daten auswählen
-
 `Datenkopplung im Geodatensatz <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/objektklasse-geodatensatz.html#darstellender-dienst>`_
 
 
@@ -317,9 +313,13 @@ Abb.: Datenkopplung in der Portalansicht
 Datenkopplung
 '''''''''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/datenkopplung/fachbezug_datenkopplung.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/datenkopplung/fachbezug_daten-dienste-kopplung_dargestellte-daten.png
 
 Abb.: Datenkopplung
+
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/datenkopplung/fachbezug_daten-dienste-kopplung_objekt-auswaehlen.png
+
+Abb.: Gekoppelte Daten auswählen
 
 
 Zum Eintragen von verknüpften Daten kann nun unterhalb der Tabelle auf den Button „Gekoppelte Daten auswählen“ geklickt werden. In dem daraufhin erscheinenden Dialog aus dem Hierarchiebaum bitte den Datensatz auswählen, der mit dem Dienst gekoppelt werden soll.
