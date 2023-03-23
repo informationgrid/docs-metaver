@@ -497,9 +497,9 @@ Durch die Ressource abgedeckte Zeitspanne
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-zeitbezug_zeitspanne.png
 
-Abb.: Felder durch die Ressource abgedeckte Zeitspanne - Optionen: seit, bis, von - bis
+Abb.: Angabe von Zeitpunkten, Zeiträumen / Zeitspannen
 
-Hier soll ein Zeitpunkt oder eine Zeitspanne eingetragen werden. 
+Hier soll ein, durch die mit Metadaten beschriebenen Daten, festgelegter Zeitpunkt oder eine Zeitspanne eingetragen werden. 
 
 Ein Zeitpunkt wird mit "am" im Auswahlmenü angegeben. Die Zeitspanne kann auf unterschiedliche Weise ausgedrückt werden.
 
