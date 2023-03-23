@@ -499,9 +499,6 @@ Durch die Ressource abgedeckte Zeitspanne
 
 Abb.: Felder durch die Ressource abgedeckte Zeitspanne - Optionen: seit, bis, von - bis
 
-Hier soll das Zeitspanne der Entstehung der eigentlichen Daten (z.B. Messdaten) eingetragen werden.
-
-
 Hier soll ein Zeitpunkt oder eine Zeitspanne eingetragen werden. 
 
 Ein Zeitpunkt wird mit "am" im Auswahlmenü angegeben. Die Zeitspanne kann auf unterschiedliche Weise ausgedrückt werden.
