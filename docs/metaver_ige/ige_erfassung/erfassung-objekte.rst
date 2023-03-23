@@ -539,7 +539,7 @@ Nur das Ende der Zeitspanne ist bekannt. Anstelle einer konkreten Datumsangabe f
 In der Portalansicht wird ausgegeben: bis tt.mm.jjjj
 
 
-**am** Angabe des Datums
+**am:** Angabe des Datums
 
 In der Portalansicht wird ausgegeben: tt.mm.jjjj
 
