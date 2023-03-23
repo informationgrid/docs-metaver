@@ -532,14 +532,14 @@ Beginn und Ende der Zeitspanne sind bekannt.
 In der Portalansicht wird ausgegeben: tt.mm.jjjj - tt.mm.jjjj
 
 
-**bis:** Angabe des Datums
+**bis:** genaues Datum
 
 Nur das Ende der Zeitspanne ist bekannt. Anstelle einer konkreten Datumsangabe für den Beginn der Zeitpanne erfolgt der Eintrag "unknown".
 
 In der Portalansicht wird ausgegeben: bis tt.mm.jjjj
 
 
-**am:** Angabe des Datums
+**am:** genaues Datum
 
 In der Portalansicht wird ausgegeben: tt.mm.jjjj
 
