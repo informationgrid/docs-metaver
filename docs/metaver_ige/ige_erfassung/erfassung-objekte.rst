@@ -541,7 +541,7 @@ In der Portalansicht wird ausgegeben: bis tt.mm.jjjj
 
 **am** Angabe des Datums
 
-In der Portalansicht wird ausgegeben: bis tt.mm.jjjj
+In der Portalansicht wird ausgegeben: tt.mm.jjjj
 
 
 Periodizität
