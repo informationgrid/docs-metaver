@@ -499,7 +499,7 @@ Durch die Ressource abgedeckte Zeitspanne
 
 Abb.: Angabe von Zeitpunkten, Zeiträumen / Zeitspannen
 
-Hier soll ein, durch die mit Metadaten beschriebenen Daten, festgelegter Zeitpunkt oder ein Zeitraum bzw. eine Zeitspanne eingetragen werden. 
+Hier soll für die (mit Metadaten beschriebenen) Daten, ein Zeitpunkt, ein Zeitraum bzw. eine Zeitspanne eingetragen werden. 
 
 Ein Zeitpunkt wird mit "am" im Auswahlmenü angegeben. Die Zeitspanne kann auf unterschiedliche Weise ausgedrückt werden.
 
