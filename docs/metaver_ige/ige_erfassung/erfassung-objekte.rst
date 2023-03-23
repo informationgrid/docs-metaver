@@ -501,6 +501,8 @@ Abb.: Felder durch die Ressource abgedeckte Zeitspanne - Optionen: seit, bis, vo
 
 Hier soll das Zeitspanne der Entstehung der eigentlichen Daten (z.B. Messdaten) eingetragen werden.
 
+`Auswahlliste der Priodizität <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_zeitbezug_zeitspanne.html>`_
+
 
 Periodizität
 ^^^^^^^^^^^^
