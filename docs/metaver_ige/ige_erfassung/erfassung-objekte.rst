@@ -509,21 +509,21 @@ Beispiele für Zeitspannen: Zeitraum einer Erhebung von Messdaten, Entwicklungsz
 Auswahlmöglichkeiten und deren Bedeutung
 ''''''''''''''''''''''''''''''''''''''''
 
-**von: bis: Zeitpunkt des Abrufs**
+**von:  bis: Zeitpunkt des Abrufs**
 
 Für Ressourcen, deren Datenbestand fortlaufend in kurzen regelmäßigen Zeitabschnitten aktualisiert oder angereichert wird. Das Ende der Zeitspanne entspricht dem Zeitpunkt des Abrufs der Ressource. Anstelle einer konkreten Datumsangabe für des Ende der Zeitpanne erfolgt der Eintrag "now".
 
 In der Portalansicht wird ausgegeben: seit tt.mm.jjjj, gegenwärtig aktuell
 
 
-**von: bis: unbekannter Zeitpunkt**
+**von:  bis: unbekannter Zeitpunkt**
 
 Nur der Beginn der Zeitspanne ist bekannt. Das Ende der Zeitspanne ist unbekannt und kann in der Vergangenheit, Gegenwart oder Zukunft liegen. Anstelle einer konkreten Datumsangabe für das Ende der Zeitpanne erfolgt der Eintrag "unknown".
 
 In der Portalansicht wird ausgegeben: seit tt.mm.jjjj, gegenwärtige Aktualität unklar
 
 
-**von: bis: genaues Datum**
+**von:  bis: genaues Datum**
 
 Beginn und Ende der Zeitspanne sind bekannt.
 
