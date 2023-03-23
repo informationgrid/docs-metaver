@@ -338,9 +338,16 @@ Die Art der Kopplung vom Dienst (Service) zu den Daten. Der Typ "tight" bewirkt,
 
 Kopplungstypen: 
 
- - loose - 
- - mixed - 
+ - loose - Suchdienste
+ - mixed - Suchdienste, kaskadierende Dienste
  - tight - Verweis zu einem Datensatz
+
+
+Bedingung für das Gelten dieser Konvention: Es besteht eine Verbindung zu einer ebenfalls mit Metadaten beschriebenen Datenquelle. In den Dienst-Metadaten ist neben den verknüpften Daten-Metadaten auch die Art der Kopplung anzugeben (ISO 19119, SV_CouplingType). Dabei sind die Werte „eng“ (tight), „gemischt“ (mixed) und „lose“ (loose) zulässig.
+
+Es ist davon auszugehen, dass in der Regel ein WMS „eng“ (tight), kaskadierende Dienste „gemischt“ (mixed) und Downloaddienste ebenfalls „eng“ (tight) gekoppelt sind. Je nach Struktur der Katalogtopologie können Suchdienste sowohl „lose“, „eng“ oder „gemischt“ gekoppelt sein
+
+*Quelle: GDI-DE, Konventionen zu Metadaten, Arbeitskreis Metadaten, 05.02.2020, Version: 2.0.3*
 
 
 
