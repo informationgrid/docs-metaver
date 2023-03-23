@@ -473,6 +473,7 @@ Zeitbezug der Ressource
 ^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-zeitbezug_der-ressource.png
+   :width: 300
 
 Abb.: Tabelle Zeitbezug der Ressource
 
@@ -483,6 +484,7 @@ Erläuterungen
 ^^^^^^^^^^^^^
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-zeitbezug_der-ressource_erlaeuterung.png
+   :width: 300
 
 Abb.: Textfeld für Erläuterungen
 
