@@ -503,7 +503,7 @@ Hier soll für die (mit Metadaten beschriebenen) Daten, ein Zeitpunkt, ein Zeitr
 
 Ein Zeitpunkt wird mit "am" im Auswahlmenü angegeben. Ein Zeitraum / eine Zeitspanne kann auf unterschiedliche Weise ausgedrückt werden.
 
-Beispiele für Zeitspannen: Zeitraum einer Erhebung von Messdaten, Entwicklungszeitraum einer Anwendung, Laufzeit eines Projektes, Laufzeit einer Studie, Zeitraum für die Erstellung einer Basiskarte, Zeitraum einer Befliegung
+Beispiele: Zeitraum einer Erhebung von Messdaten, Entwicklungszeitraum einer Anwendung, Laufzeit eines Projektes, Laufzeit einer Studie, Zeitraum für die Erstellung einer Basiskarte, Zeitraum einer Befliegung
 
 
 Auswahlmöglichkeiten und deren Bedeutung
