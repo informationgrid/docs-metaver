@@ -492,8 +492,8 @@ Hier können z.B. die Angaben der Periodizität eingeschränkt, weitere Zeitanga
 **Beispiel:** *Die Messungen erfolgten nur tagsüber.*
 
 
-Zeitspanne
-^^^^^^^^^^
+Durch die Ressource abgedeckte Zeitspanne
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-zeitbezug_zeitspanne.png
 
@@ -502,10 +502,11 @@ Abb.: Felder durch die Ressource abgedeckte Zeitspanne - Optionen: seit, bis, vo
 Hier soll das Zeitspanne der Entstehung der eigentlichen Daten (z.B. Messdaten) eingetragen werden.
 
 
-Zeitbezug des Dateninhalts
-''''''''''''''''''''''''''
+Hier soll ein Zeitpunkt oder eine Zeitspanne eingetragen werden. 
 
-Hier soll die Zeitspanne oder der Zeitpunkt der Erhebung der eigentlichen Daten (z.B. Messdaten) eingetragen werden. Ein Zeitpunkt wird mit "am" im Auswahlmenü angegeben. Die Zeitspanne kann auf unterschiedliche Weise ausgedrückt werden. 
+Ein Zeitpunkt wird mit "am" im Auswahlmenü angegeben. Die Zeitspanne kann auf unterschiedliche Weise ausgedrückt werden.
+
+Beispiele für Zeitspannen: Zeitraum einer Erhebung von Messdaten, Entwicklungszeitraum einer Anwendung, Laufzeit eines Projektes, Laufzeit einer Studie, Zeitraum für die Erstellung einer Basiskarte, Zeitraum einer Befliegung
 
 
 Auswahlmöglichkeiten und deren Bedeutung
