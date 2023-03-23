@@ -526,10 +526,13 @@ In der Portalansicht wird ausgegeben: seit 30.08.2013, gegenwärtige Aktualität
 **von - bis**
 Beginn und Ende der Zeitspanne sind bekannt.
 
+In der Portalansicht wird ausgegeben: 30.08.2013 - 23.03.2023
+
 
 **bis**
 Nur das Ende der Zeitspanne ist bekannt. Anstelle einer konkreten Datumsangabe für den Beginn der Zeitpanne erfolgt der Eintrag "unknown".
 
+In der Portalansicht wird ausgegeben: bis 23.03.2023
 
 
 Periodizität
