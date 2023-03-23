@@ -501,7 +501,7 @@ Abb.: Angabe von Zeitpunkten, Zeiträumen / Zeitspannen
 
 Hier soll für die (mit Metadaten beschriebenen) Daten, ein Zeitpunkt, ein Zeitraum bzw. eine Zeitspanne eingetragen werden. 
 
-Ein Zeitpunkt wird mit "am" im Auswahlmenü angegeben. Die Zeitspanne kann auf unterschiedliche Weise ausgedrückt werden.
+Ein Zeitpunkt wird mit "am" im Auswahlmenü angegeben. Ein Zeitraum / eine Zeitspanne kann auf unterschiedliche Weise ausgedrückt werden.
 
 Beispiele für Zeitspannen: Zeitraum einer Erhebung von Messdaten, Entwicklungszeitraum einer Anwendung, Laufzeit eines Projektes, Laufzeit einer Studie, Zeitraum für die Erstellung einer Basiskarte, Zeitraum einer Befliegung
 
