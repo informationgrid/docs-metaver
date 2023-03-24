@@ -34,9 +34,7 @@ Abb.: Dialogfenster - Adresse anlegen
 Nach Auswahl des Adresstyps erscheint die neue Adresse rechts im Inhaltsfenster. Hier sehen Sie alle verfügbaren Felder und Informationen zur ausgewählten Adresse. Diese Felder sind je nach Adresstyp unterschiedlich.
 Standardmäßig werden zunächst nur die Pflichtfelder angezeigt. Neben den verpflichtenden Angaben können weitere Adressangaben (Anschrift, Aufgabenbereiche, usw.) zur Kontaktstelle sowie Schlagworte gespeichert werden. Sie öffnen diese optionalen Felder durch einen Klick auf das Symbol „Alle Felder aufklappen“ auf der rechten Seite in der Symbolleiste oder über das Symbol vor der Überschrift eines Themenabschnittes (dunkelblaue Balken).
 
-**Hinweis:** 
-
-*Obwohl die Adresse neu ist und gerade erst angelegt wurde, sind bestimmte Felder bereits befüllt. Diese Angaben stammen von der übergeordneten Adresse und sind als Vorschläge/Eingabehilfe zu verstehen und müssen unbedingt auf ihre Richtigkeit überprüft werden. Bitte klappen Sie daher immer alle Felder aus, um die automatisch eingefügten Daten kontrollieren zu können.*
+.. hint:: Obwohl die Adresse neu ist und gerade erst angelegt wurde, sind bestimmte Felder bereits befüllt. Diese Angaben stammen von der übergeordneten Adresse und sind als Vorschläge/Eingabehilfe zu verstehen und müssen unbedingt auf ihre Richtigkeit überprüft werden. Bitte klappen Sie daher immer alle Felder aus, um die automatisch eingefügten Daten kontrollieren zu können.
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_adressen/ige-adresse-anlegen_automatische-befuellung.png
 
@@ -65,9 +63,7 @@ Dabei ist zu beachten, dass eine Adresse mindestens eine gleichwertige Veröffen
 
 Abb.: Hinweis vor der Veröffentlichung alle Pflichtfelder ausfüllen
 
-**Hinweis:**
-
-*Die Angabe der E-Mail-Adresse im Abschnitt „Kommunikation“ ist ein Pflichtfeld und muss stets eingetragen werden. Fehlt die E-Mail-Adresse kann der Adressdatensatz nicht abschließend gespeichert und für das Internet veröffentlicht werden. Es kommt dann zu einer Fehlermeldung.*
+.. hint:: Die Angabe der E-Mail-Adresse im Abschnitt „Kommunikation“ ist ein Pflichtfeld und muss stets eingetragen werden. Fehlt die E-Mail-Adresse kann der Adressdatensatz nicht abschließend gespeichert und für das Internet veröffentlicht werden. Es kommt dann zu einer Fehlermeldung.
 
 
 Daten nicht anzeigen
@@ -89,9 +85,4 @@ Unter dem Abschnitt „Zugeordnete Objekte“ können keine Einträge per Hand v
 
 Abb.: Verknüpfungen - Zugeordnete Objekte
 
-**Hinweise:**
-*Eine Adresse kann immer nur dann gelöscht werden, wenn dieser Adresse keine Objekte mehr zugeordnet sind, d.h. die oben abgebildete Liste der zugeordneten Objekte muss leer sein.*
-
-*Sind alle Pflichtfelder und die aus Nutzersicht notwendigen optionalen Felder gefüllt, kann die Adresse über das Symbol „Abschließendes Speichern & Veröffentlichen“ in der Symbolleiste für das Internet freigegeben werden.*
-
-*Es besteht keine Verpflichtung zur Veröffentlichung von persönlichen Adressen. Die Angabe einer Institution ist ausreichend und wird empfohlen.*
+.. hint:: Eine Adresse kann immer nur dann gelöscht werden, wenn dieser Adresse keine Objekte mehr zugeordnet sind, d.h. die oben abgebildete Liste der zugeordneten Objekte muss leer sein. Sind alle Pflichtfelder und die aus Nutzersicht notwendigen optionalen Felder gefüllt, kann die Adresse über das Symbol „Abschließendes Speichern & Veröffentlichen“ in der Symbolleiste für das Internet freigegeben werden. Es besteht keine Verpflichtung zur Veröffentlichung von persönlichen Adressen. Die Angabe einer Institution ist ausreichend und wird empfohlen.
