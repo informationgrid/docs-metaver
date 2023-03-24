@@ -10,7 +10,7 @@ Geodatensatz
 
 Die Objektklasse Geodatensatz dient der Beschreibung von Daten mit direktem oder indirektem Raumbezug (digital oder analog).
 
-**Beispiele:** *GIS-Daten, analoge Karten oder Kartenwerke*
+Beispiele: GIS-Daten, analoge Karten oder Kartenwerke
 
 Die Metadaten werden nach der ISO-Norm 19115 „Geographic Information – Metadata“ erfasst.
 
@@ -85,15 +85,15 @@ Abb.: Auswahlfeld ISO Themenkategorie
 
 `Auswahlliste - ISO 19115 Themenkategorien <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_iso-themenkategorie.html>`_
 
-**Hinweis:** *Der Inhalt der Themen-Auswahlliste stammt aus der ISO 19115 und kann nicht erweitert werden.*
+.. hint:: Der Inhalt der Themen-Auswahlliste stammt aus der ISO 19115 und kann nicht erweitert werden.
 
 Dieses Feld verlangt die Angabe der Hauptthemen, welche die Metadaten beschreiben.
 Die Auswahl erfolgt über die vorgegebene Auswahlliste.
 
 Für INSPIRE-konforme Metadaten über Daten ist die Angabe einer ISO-Themenkategorie notwendig. Um eine korrekte inhaltliche Zuordnung von INSPIRE-Themen zu ISO-Themenkategorien zu gewährleisten und es dem Erfasser möglichst einfach zu machen, übernimmt die InGrid Software die Zuordnung. Bei Auswahl eines INSPIRE Themas wird die entsprechende ISO-Kategorie automatisch hinzugefügt. Der Nutzer wird per Tooltip über den Automatismus informiert.
 
-**Beispiel:**
-*Wird das INSPIRE-Thema "Adressen" ausgewählt, so wird automatisch die passende ISO-Themenkategorie "Ortsangaben" hinzugefügt.*
+Beispiel: 
+Wird das INSPIRE-Thema "Adressen" ausgewählt, so wird automatisch die passende ISO-Themenkategorie "Ortsangaben" hinzugefügt.
 
 Wird versucht eine ISO-Kategorie zu löschen, die an ein INSPIRE-Thema geknüpft ist, so wird dies verhindert und der Nutzer über einen Tooltip darüber informiert.
 
@@ -136,7 +136,7 @@ Hier muss ein eindeutiger Name (Identifikator) für die im Geodatensatz beschrie
 Wenn der Identifikator keinen Namensraum enthält, so wird dem Identifikator bei der Abgabe der Metadaten derjenige Wert vorangestellt, welcher im Bereich Katalogverwaltung/Katalogeinstellungen unter "Namensraum des Katalogs" eingetragen ist.
 Der Identifikator kann von Hand eingetragen werden oder mit Hilfe des Buttons "Erzeuge ID". Bei der automatischen Erzeugung wird eine UUID als Identifikator in dieses Feld eingetragen. Da diese UUID keinen Namespace enthält, wird bei dieser Variante immer der Namensraum aus der Katalogverwaltung hinzugefügt.
 
-**Beispiele:**
+Beispiele:
  
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/fachbezug_identifikator_03.png
  
@@ -163,8 +163,8 @@ Datensatz
 
 Als Datensatz wird eine in sich abgeschlossene Sammlung von Geodaten (Daten mit Raumbezug) bezeichnet, z.B. ein digitaler Bestand zu einem bestimmten fachlichen Thema.
 
-**Beispiel:**
-*Stadtplanwerk, bestehend aus 8 Einzelblättern: Das Stadtplanwerk als solches ist eine Datenserie. Jedes einzelne der 8 Blätter hingegen kann als Datensatz beschrieben werden.*
+Beispiel:
+Stadtplanwerk, bestehend aus 8 Einzelblättern: Das Stadtplanwerk als solches ist eine Datenserie. Jedes einzelne der 8 Blätter hingegen kann als Datensatz beschrieben werden.
 
 
 Datenserie
@@ -172,8 +172,9 @@ Datenserie
 
 Eine Datenserie stellt eine Folge oder Gruppierung von gleichartigen Datenbeständen dar, die sich z.B. im abgedeckten räumlichen Bereich oder in der zeitlichen Aussage zum Gültigkeitszeitraum unterscheiden.
 
-**Beispiel:**
-*Komplexe Darstellung der städtischen Verwaltungsstruktur aus unterschiedlichen dargestellten Grenzen: Es werden die Grenzen der Müllabfuhrbezirke, die Grenzen der Wahlbezirke, der Stadteile, der Schuleinzugsgebiete usw. inhaltlich gezeigt. Alle diese Grenzen für sich genommen könnten als Datensatz beschrieben werden. Die komplexe aufbereitete Darstellung, die diese unterschiedlichen Grenzen vereint, also der Geodatensatz "Komplexe Darstellung der städtischen Verwaltungsstruktur" an sich, wäre in diesem Falle jedoch eine Datenserie.*
+Beispiel:
+
+Komplexe Darstellung der städtischen Verwaltungsstruktur aus unterschiedlichen dargestellten Grenzen: Es werden die Grenzen der Müllabfuhrbezirke, die Grenzen der Wahlbezirke, der Stadteile, der Schuleinzugsgebiete usw. inhaltlich gezeigt. Alle diese Grenzen für sich genommen könnten als Datensatz beschrieben werden. Die komplexe aufbereitete Darstellung, die diese unterschiedlichen Grenzen vereint, also der Geodatensatz "Komplexe Darstellung der städtischen Verwaltungsstruktur" an sich, wäre in diesem Falle jedoch eine Datenserie.
 
 
 Digitale Repräsentation
@@ -195,7 +196,7 @@ Vektorformat
  
 Abb.: Feld Vektorformat
 
-**Achtung!** *Dieses Feld ist nur aktiv nach Auswahl von "Vektor" im Feld "Digitale Repräsentation".* 
+.. hint:: Dieses Feld ist nur aktiv nach Auswahl von "Vektor" im Feld "Digitale Repräsentation".
 
 Es können hier Topologie Informationen, Geometrietyp (Angabe der geometrischen Objekte, zur Beschreibung der geometrischen Lage) und Elementanzahl (Angaben der Anzahl der Punkt- oder Vektortypelemente) angegeben werden.
 
@@ -214,7 +215,7 @@ Angabe des Erstellungsmaßstabes, der sich auf die erstellte Karte und/oder Digi
  - Bodenauflösung (m): Einheit geteilt durch Auflösung multipliziert mit dem Maßstab (Angabe in Meter, Fließkommazahl) 
  - Scanauflösung (DPI): Auflösung z.B. einer eingescannten Karte, z.B. 120dpi (Angabe in dpi, Integerzahl)
 
-**Beispiel:** *Bodenauflösung: Auflösungseinheit in Linien/cm; Einheit: z.B. 1 cm geteilt durch 400 Linien multipliziert mit dem Maßstab 1:25.000 ergibt 62,5 cm als Bodenauflösung*
+Beispiel: Bodenauflösung: Auflösungseinheit in Linien/cm; Einheit: z.B. 1 cm geteilt durch 400 Linien multipliziert mit dem Maßstab 1:25.000 ergibt 62,5 cm als Bodenauflösung
 
  
 Symbolkatalog
@@ -226,7 +227,7 @@ Abb.: Feld Symbolkatalog
 
 Für die Präsentation genormter Objekte und Sachverhalte können für die Nutzer der Daten zur Herstellung von Karten abgestimmte Symbole vorgegeben werden. Die Angabe eines oder mehrerer analoger oder digitaler Symbolpaletten mit zugehörigem Datum (Pflichteintrag) und Version (Optional) ist hier möglich.
 
-**Beispiel:** *Planzeichenverordnung, Datum 01.01.1998, Version 1.0*
+Beispiel: Planzeichenverordnung, Datum 01.01.1998, Version 1.0
 
  
 Schlüsselkatalog
@@ -238,19 +239,17 @@ Abb.: Feld Schlüsselkatalog
 
 An dieser Stelle besteht die Möglichkeit, den Daten zugrunde liegende Klassifizierungs-schlüssel zu benennen. Dabei ist die Eingabe mehrerer Kataloge mit zugehörigem Datum (Pflichteintrag) und Version (Optional) möglich. 
 
-**Beispiel:** *Biotoptypenschlüssel, Datum 01.01.2016, Version 2.0*
+Beispiel: Biotoptypenschlüssel, Datum 01.01.2016, Version 2.0
 
-**Achtung!**
-*Das Feld Schüsselkatalog wird zum Pflichtfeld, wenn in der Tabelle Sachdaten/Attributinformationen ein Eintrag vorgenommen wurde.*
+.. hint:: Das Feld Schüsselkatalog wird zum Pflichtfeld, wenn in der Tabelle Sachdaten/Attributinformationen ein Eintrag vorgenommen wurde.
 
 Um die Verpflichtung wieder zu entfernen, muss die beschriebene Zeile in der Tabelle "Sachdaten" komplett gelöscht werden (Zeile markieren, rechte Maustaste – Kontextmenü "Zeile löschen"). Es reicht nicht aus, einfach den Text in der Zelle zu löschen.
 
 Angabe der mit der Geo-Information/Karte verbundenen Sachdaten. Bei Bedarf kann hier eine Auflistung der Attribute des Datenbestandes erfolgen. Die hauptsächliche Nutzung dieses Feldes ist für digitale Geo-Informationen vorgesehen.
 
-**Beispiel:** *Baumkartei*
+Beispiel: Baumkartei
 
-**Achtung!** 
-*Mit einem Eintrag unter Sachdaten/Attributinformation wird die Tabelle Schlüsselkatalog zum Pflichtfeld. Bitte geben Sie dort den Schlüsselkatalog an, welcher das eingetragene Attribut verzeichnet.*
+.. hint:: Mit einem Eintrag unter Sachdaten/Attributinformation wird die Tabelle Schlüsselkatalog zum Pflichtfeld. Bitte geben Sie dort den Schlüsselkatalog an, welcher das eingetragene Attribut verzeichnet.
 
 
 Sachdaten/Attributinformation
