@@ -505,7 +505,7 @@ Zwischenspeichern
 Das Zwischenspeichern speichert den geänderten bzw. neu erfassten Metadatensatz, die Daten werden allerdings noch nicht für die Veröffentlichung im Internet freigegeben, d.h. sie bleiben weiterhin nur im Strukturbaum des InGrid Editors sichtbar. Das Zwischenspeichern ist jederzeit möglich, auch wenn noch nicht alle Pflichtfelder ausgefüllt wurden. Zusätzlich erfolgt alle 2 Minuten eine automatische Speicherung (Einstellung in der Katalogverwaltung).
 
 
-Abschließenden Speichern & Veröffentlichen
+Abschließendes Speichern & Veröffentlichen
 ''''''''''''''''''''''''''''''''''''''''''
 Anders ist es beim Abschließenden Speichern & Veröffentlichen. Durch diese Art der Speicherung werden die Daten automatisch gemäß ihrer Veröffentlichungsbreite (Internet, Intranet oder amtsintern) publiziert und erscheinen nach der automatischen Indexierung im Internet.
 Voraussetzung für das abschließende Speichern ist die Befüllung sämtlicher Pflichtfelder. Fehlen entsprechende Angaben, erscheint bei der Betätigung des Buttons „Abschließendes Speichern“ eine Fehlermeldung und die Überschriften der entsprechenden Felder werden rot eingefärbt.
@@ -527,7 +527,7 @@ Automatische Speicherung / Sitzung abgelaufen
 '''''''''''''''''''''''''''''''''''''''''''''
 
 .. image:: ../../img_ige/metaver_ige/ige_administration/katalogeinstellungen/ige-automatische-speicherung.png
-   :width:300
+   :width: 300
 
 Abb.: InGrid Editor Einstellungen
 
