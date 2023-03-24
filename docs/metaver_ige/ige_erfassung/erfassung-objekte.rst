@@ -326,14 +326,6 @@ Der Abschnitt Fachbezug richtet sich nach der gewählten Objektklasse, diese sin
 `Organisationseinheit <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/objektklasse-organisationseinheit.html>`_ - Diese Objektklasse bildet eine Ausnahme, in dieser befindet sich keinen Abschnitt Fachbezug.
 
 
-Abschnitt Datenqualität
------------------------
-
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/ige-abschnitt_datenqualitaet.png
-
-Dieser Abschnitt wird nur in der `Objektklasse Geodatensatz <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/objektklasse-geodatensatz.html>`_ angezeigt und wird auch darunter beschrieben.
-
-
 Abschnitt Raumbezugssystem
 --------------------------
 
