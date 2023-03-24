@@ -527,7 +527,7 @@ Automatische Speicherung / Sitzung abgelaufen
 '''''''''''''''''''''''''''''''''''''''''''''
 
 .. image:: ../../img_ige/metaver_ige/ige_administration/katalogeinstellungen/ige-automatische-speicherung.png
-   width:300
+   :width:300
 
 Abb.: InGrid Editor Einstellungen
 
