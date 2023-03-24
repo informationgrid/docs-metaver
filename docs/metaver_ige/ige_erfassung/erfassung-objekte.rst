@@ -33,8 +33,7 @@ Pflichtfelder und optionale Felder
 
 Je nach Auswahl der Objektklasse, werden im Inhaltsfenster des InGrid Editors unterschiedliche Felder angeboten. Die Pflichtfelder unterscheiden sich zwischen den einzelnen Objektklassen. Am umfangreichsten ist die Objektklasse „Geodatensatz“, die Klasse „Organisationseinheit“ ist dagegen am schnellsten zu befüllen.
 
-**Hinweis:**
-*Grundsätzlich wird empfohlen, nicht nur die Pflichtfelder auszufüllen, sondern auch die optionalen Felder (soweit möglich) mit Einträgen zu versehen, um einen Mehrwert zu erzielen.*
+.. hint:: Grundsätzlich wird empfohlen, nicht nur die Pflichtfelder auszufüllen, sondern auch die optionalen Felder (soweit möglich) mit Einträgen zu versehen, um einen Mehrwert zu erzielen.
 
 
 Der Erfassungsassistent
@@ -89,8 +88,7 @@ Der die Objektklasse (bzw. der Objekt-Typ) richtet sich danach, welche Auswahl i
 
 Beschreibung: `Objektklassen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/objektklassen.html>`_
 
-**Hinweis:**
-*Ein Wechsel der Objektklasse ist an dieser Stelle nicht mehr möglich.*
+.. hint:: Ein Wechsel der Objektklasse ist an dieser Stelle nicht mehr möglich.
 
 
 Verantwortlicher
@@ -154,7 +152,7 @@ Abb.: Kurzbezeichnung
 
 Angabe einer Kurzbezeichnung für ein Objekt. (Wird insbesondere von GeoMIS.Bund unterstützt.) Bei gewünschter Mehrsprachigkeit muss dieses Feld nach dem Schema "Deutscher Text#locale-eng:English text" gefüllt werden. Beispiel: Apfelbaum#locale-eng:apple tree
 
-**Beispiel:** *DTK25 digitale topographische Karte GK25 - Grundkarte*
+Beispiel: DTK25 digitale topographische Karte GK25 - Grundkarte
 
 
 
@@ -189,7 +187,7 @@ Checkboxen
 ^^^^^^^^^^^
 
 Checkbox INSPIRE-relevant
-''''''''''''''''
+'''''''''''''''''''''''''
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_checkbox-inspire-relevant.png
   :width: 350
@@ -198,7 +196,7 @@ Abb.: Checkbox INSPIRE-relevant (konform, nichtkonform)
 
   
 Checkbox AdV kompatibel
-''''''''''''''
+'''''''''''''''''''''''
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_checkbox-adv-kompatibel.png
   :width: 150
@@ -255,9 +253,9 @@ Abb.: Freie Schlagworte eintagen
 
 In das Feld "Freie Schlagworte eintragen" werden die Schlagworte eingegeben, über die das Objekt schnell gefunden werden soll. Hier sollten prägnante Begriffe verwendet werden. Dies können spezielle Fachbegriffe, Mess-Methoden, Bestandteile o.ä. sein. Die Freien Suchbegriffe sind ergänzend zu den Thesaurus-Suchbegriffen anzugeben. Wenn Sie hier einen Begriff eingeben, der im Umwelt-Thesaurus des Umweltbundesamtes enthalten ist, dann wird dieser automatisch als "UMTHES" gekennzeichnet, ist es nicht im UMTHES enthalten, wird das Schlagwort mit "FREE" gekennzeichnet.
 
-**Beispiel für "FREE":** *DOP Sachsen-Anhalt, Befliegung*
+Beispiel für "FREE": DOP Sachsen-Anhalt, Befliegung
 
-**Hinweis:** *Einzelne Schlagworte können durch ein Leerzeichen, oder durch ein Komma getrennt, angegeben werden. Zusammengehörige Worte werden in Anführungszeichen gesetzt.*
+.. hint:: Einzelne Schlagworte können durch ein Leerzeichen, oder durch ein Komma getrennt, angegeben werden. Zusammengehörige Worte werden in Anführungszeichen gesetzt.
 
 
 Optionale Schlagworte
@@ -267,7 +265,7 @@ Optionale Schlagworte
 
 Abb.: Optionale Schlagworte erfassen
 
-**Hinweis:** *Die optionalen Schlagworte sind nur sichtbar, wenn der Abschnitt Verschlagwortung weiter ausgeklappt wird.*
+.. hint:: Die optionalen Schlagworte sind nur sichtbar, wenn der Abschnitt Verschlagwortung weiter ausgeklappt wird.
 
 
 Verschlagwortungsassistent
@@ -295,7 +293,7 @@ Abb.: Thesaurus-Navigator
 
 Die Verschlagwortung über den Thesaurus-Navigator dient der themenbezogenen Suche der Objekte. Dafür müssen Schlagworte aus dem Thesaurus ausgewählt werden, die das Objekt so genau wie möglich, aber auch so allgemein wie nötig beschreiben.
 
-**Beispiele:** *Naturschutz, Schmetterling, Kartierung, Artenschutz*
+.. hint:: Naturschutz, Schmetterling, Kartierung, Artenschutz
 
 Der "Thesaurus-Navigator" ist unterteilt in: die Suche, den Hierarchiebaum, die Ergebnisliste und die Liste der Deskriptoren.
 
@@ -377,12 +375,11 @@ Zur Eingabe eines anderen geografischen Bereichs wählen Sie den "Geothesaurus-N
  
 Geben Sie in das Suchfeld den geografischen Begriff (oder einen Teil des Begriffs) ein den Sie suchen. Nach dem Klicken auf die Schaltfläche „In Geo-Thesaurus suchen“ wird nach diesem Begriff im SNS (Semantic Network Service des Umweltbundesamtes) gesucht und die Ergebnisse werden unter Auswahl aufgelistet. Sie können einen oder mehrere Begriffe dieser Liste markieren und über die Schaltfläche "Übernehmen" als Raumbezug dem Objekt hinzufügen. Neben den geografischen Begriffen werden damit automatisch auch die Koordinaten des geografischen Bereiches in das Objekt übernommen. 
 
-**Hinweis:** *Für eine breitere Suche können Sie Wildcards verwenden, z.B. *Harz oder *Talsperre.*
+..hint:: Für eine breitere Suche können Sie Wildcards verwenden, z.B. *Harz oder *Talsperre.
 
 Sollte der gewünschte geografische Begriff nicht vorhanden sein, besteht die Möglichkeit, diesen zusammen mit den Koordinaten manuell einzutragen. Wählen Sie unter der Tabelle "Freier Raumbezug" den Link "Raumbezug hinzufügen".
 
-**Hinweise:**
-*Der Link "Raumbezug hinzufügen" ist nur sichtbar, wenn die optionalen Felder eingeblendet sind.*
+.. hint:: Der Link "Raumbezug hinzufügen" ist nur sichtbar, wenn die optionalen Felder eingeblendet sind.
 
 
 Umgerechnete Koordinaten
@@ -419,10 +416,9 @@ Raumbezugsystem
 
 Über ein Dropdownmenü erfolgt an dieser Stelle die Auswahl des Raumbezugssystems, welches in der Ressource verwendet wurde. 
 
-**Anmerkung:**
-*Die Arbeitsgemeinschaft der Vermessungsverwaltungen der Länder der Bundesrepublik Deutschland (AdV) hat 1991 die Einführung des ETRS89 als Bezugssystem Lage und 1995 die Einführung von UTM als ebenes Koordinatensystem für ETRS89 beschlossen. Dies geschieht im Einklang mit den Empfehlungen der EU zur Realisierung eines europaweiten Raumbezuges und somit zur Schaffung einer einheitlichen Basis für die zukunftsfähige Geodateninfrastruktur in Europa.*
+.. hint:: Die Arbeitsgemeinschaft der Vermessungsverwaltungen der Länder der Bundesrepublik Deutschland (AdV) hat 1991 die Einführung des ETRS89 als Bezugssystem Lage und 1995 die Einführung von UTM als ebenes Koordinatensystem für ETRS89 beschlossen. Dies geschieht im Einklang mit den Empfehlungen der EU zur Realisierung eines europaweiten Raumbezuges und somit zur Schaffung einer einheitlichen Basis für die zukunftsfähige Geodateninfrastruktur in Europa.
 
-**Beispiel:** *EPSG:4326 / WGS 84 / geographisch*
+Beispiel: EPSG:4326 / WGS 84 / geographisch
 
 `Auswahlliste der Raumbezugssysteme <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_raumbezug_raumbezugsysteme.html>`_
  
@@ -434,7 +430,7 @@ Minimum / Maximum
 
 Angabe der Werte für die Höhe über einem Punkt (siehe Pegel) eingegeben. Ist eine vertikale Ausdehnung vorhanden, so kann für das Maximum ein größerer Wert eingegeben werden. Sollte dies nicht der Fall sein, so ist die Eingabe eines Minimalwerts ausreichend, dieser Wert wird dann automatisch ebenso für den Maximalwert übernommen.
 
-**Beispiel:** *Minimum 100, Maximum 110*
+Beispiel: Minimum 100, Maximum 110
 
 
 Maßeinheit
@@ -442,7 +438,7 @@ Maßeinheit
 
 Angabe der Maßeinheit, in der die Höhe gemessen wird.
 
-**Beispiel:** *Meter*
+Beispiel: Meter
 
 
 Vertikaldatum
@@ -450,14 +446,14 @@ Vertikaldatum
 
 Angabe des Referenzpegels, zu dem die Höhe relativ gemessen wird. In Deutschland ist dies i.A. der Pegel Amsterdam.
 
-**Beispiel:** *Pegel Amsterdam*
+Beispiel: Pegel Amsterdam
 
 Erläuterungen
 '''''''''''''
 
 Zusätzliche Angaben zum Raumbezug.
 
-**Beispiel:** *Die Koordinaten für die Fachliche Gebietseinheit sind ungefähre Angaben.*
+Beispiel: Die Koordinaten für die Fachliche Gebietseinheit sind ungefähre Angaben.
 
 
 
@@ -613,8 +609,7 @@ Die Einstellung haben folgende Bedeutung:
  - Intranet: Das Objekt darf nur im Intranet veröffentlicht werden, aber nicht im Internet.
  - amtsintern: Das Objekt ist nur im internen Strukturbaum des Metadatenkataloges sichtbar. Es ist nicht für das Internet oder dem Intranet freigegeben.
  
-**Hinweis:** 
-*Die Option Intranet wird für Sachsen-Anhalt nicht verwendet, da das System im Internet bereitgestellt wird.*
+.. hint:: Die Option Intranet wird für Sachsen-Anhalt nicht verwendet, da das System im Internet bereitgestellt wird.
 
 
 Sprache der Ressource
@@ -689,7 +684,7 @@ Abb.: Auswahlfeld - Zugriffsbeschränkungen
 
 Im Feld Zugriffsbeschränkungen kann aus einer Auswahlliste ein Grund angegeben werden, warum die Daten einer Einschränkung unterliegen. Trifft keiner dieser Gründe zu, ist der Eintrag „Es gelten keine Beschränkungen“ anzugeben.
 
-**Hinweis:** *Für INSPIRE-Daten ist dieses Feld ein Pflichtfeld.*
+.. hint:: Für INSPIRE-Daten ist dieses Feld ein Pflichtfeld.
 
 
 Nutzungsbedingungen
@@ -710,7 +705,7 @@ Quellenvermerk
 
 In dieser Tabellenspalte wird das Copyright des Datenbreitstellers angegeben und die Angabe für das Jahr des Datenbezugs.
 
-**Beispiel:** *© GeoBasis-DE / BKG (Jahr des letzten Datenbezugs)*
+Beispiel: © GeoBasis-DE / BKG (Jahr des letzten Datenbezugs)
 
 
 Anwendungseinschränkungen
@@ -737,7 +732,7 @@ Angabe des Formats der Daten in DV-technischer Hinsicht, in welchem diese verfü
  - Kompressionstechnik: Kompression, in welcher die Daten geliefert werden (z.B. "WinZip", "keine") 
  - Bildpunkttiefe: BitsPerSample
 
-**Hinweis:** *Bei der Auswahl des INSPIRE-Datenformates GML muss die Version eingetragen werden.*
+.. hint:: Bei der Auswahl des INSPIRE-Datenformates GML muss die Version eingetragen werden.
 
 
 Medienoptionen
@@ -781,8 +776,7 @@ Abb.: Tabelle - Verweise zu ...
 
 Es besteht die Möglichkeit, Verweise von einem Objekt zu einem anderen Objekt oder zu einer Internetadresse (URL) zu erstellen. In dieser Tabelle werden alle Verweise zusammenfassend aufgeführt, welche im aktuellen Objekt angelegt wurden. Über dem Link „Verweis anlegen“ öffnet sich ein Dialog, mit dem weitere Einzelheiten zu den Verweisen eingesehen und editiert werden können. Es ist möglich, weitere Verweise über das Dialogfenster „Verweis bearbeiten“ hinzuzufügen (siehe 2. Verweise anlegen).
 
-**Hinweis:**
-*Wenn Open Data ausgewählt ist, muss mindestens ein Verweis vom Typ „Datendownload“ vorhanden sein, bevor das Objekt veröffentlicht werden kann!*
+.. hint:: Wenn Open Data ausgewählt ist, muss mindestens ein Verweis vom Typ „Datendownload“ vorhanden sein, bevor das Objekt veröffentlicht werden kann!
 
 
 Verweise von
@@ -832,7 +826,7 @@ Abb.: Erfassungsmaske - Eingabefelder mit Verweisen
 `Auswahlliste der Verweistypen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verweise_verweistypen.html>`_
 
 
-**Beispiel:** *Objektklasse Datenbank / Verweistyp: Methode / Datengrundlage*
+Beispiel: Objektklasse Datenbank / Verweistyp: Methode / Datengrundlage
 
 Die angebotenen Eintragungen der Dropdown-Liste hängen von dem gewählten Objekttyp ab. Es kann daher auch vorkommen, dass weniger Listeneinträge im Dropdown-Menü angezeigt werden.
 
@@ -919,20 +913,19 @@ URL-Typ
 
 Bei URL-Verweisen für ein Objekt wird unterschieden ob diese URL für das Internet oder für das Intranet gilt.
 
-**Empfehlung:**
 Sollte die URL (noch) nicht bekannt sein, weil erst noch der entsprechende Dienst erstellt werden muss, für den Dienst soll aber bereits ein Metadatensatz angelegt werden („Henne-Ei-Problem“), dann bitte wie folgt verfahren:
 
- - Für den Downloadverweis folgende Dummy-Download-Ressource eintragen: https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_download/ige_download-dummy.html
+ - Für den Downloadverweis folgende Dummy-Download-Ressource eintragen: 
+   - https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_download/ige_download-dummy.html
  - die Veröffentlichungsbreite auf „amtsintern“ ändern
  
 Auf diese Weise kann der Metadatensatz abschließend gespeichert werden. Sobald der Dienst zur Verfügung steht, wird die richtige Download-URL im Metadatensatz eingetragen und die Veröffentlichungsbreite auf „Internet“ gesetzt. Durch einen Klick auf die Schaltfläche „Hinzufügen“ wird der Internet-Verweis in die Tabelle aufgenommen.
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis-zu_tabelle.png
 
-Abb.: Tabelle Verweise zu - Symbol | Bezeichnung des Verweises | Verweistyp
+Abb.: Tabelle Verweise zu
 
-**Hinweis:**
-*In der Tabelle „Verweise zu“ werden in der ersten Spalte durch entsprechende Symbole die Verweisziele und in der letzten Spalte die ausgewählten Verweistypen dargestellt.*
+In der Tabelle „Verweise zu“ werden in der ersten Spalte durch entsprechende Symbole die Verweisziele und in der letzten Spalte die ausgewählten Verweistypen dargestellt.
 
 
 Filter für Verweistypen
