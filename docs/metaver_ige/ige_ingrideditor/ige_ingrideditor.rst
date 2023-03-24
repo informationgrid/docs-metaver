@@ -88,8 +88,7 @@ Ordner
 Abb.: Strukturierung der Metadaten mit Ordnern
 
 
-**Hinweis:**
-In einer zukünftigen neuen Version der Software kann die Struktur nur noch mit Ordnern angelegt werden. Die Möglichkeit eine Struktur mit Objektklassen aufzubauen entfällt.
+.. important:: In einer zukünftigen neuen Version der Software kann die Struktur nur noch mit Ordnern angelegt werden. Die Möglichkeit eine Struktur mit Objektklassen aufzubauen entfällt.
 
 
 Bearbeitungsstand
@@ -132,8 +131,7 @@ Das Objekt/die Adresse wird im Internet im MetadatenVerbund (MetaVer) unter www.
 
 Das Objekt/die Adresse darf nicht im Internet, sondern nur im Intranet veröffentlicht werden. 
 
-**Hinweis:**
-*Die Funktion „Intranet“ ist für den Metadatenkatalog Sachsen-Anhalt nicht relevant, da der Metadatenkatalog nicht über das Intranet erreichbar ist.*
+.. hint:: Die Funktion „Intranet“ ist für den Metadatenkatalog Sachsen-Anhalt nicht relevant, da der Metadatenkatalog nicht über das Intranet erreichbar ist.
 
 **amtsintern**
 
