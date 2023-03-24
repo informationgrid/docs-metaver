@@ -10,7 +10,7 @@ Organisationseinheit
 
 In dieser Objektklasse können z.B. Verweise auf Internetseiten angelegt werden.
 
-**Hinweis:** *Die Eingabemaske der Objektklasse Organisationseinheit enthält keinen Abschnitt Fachbezug.*
+.. important:: Die Eingabemaske der Objektklasse Organisationseinheit enthält keinen Abschnitt Fachbezug. Die Erfassung dieser Objektklasse erfolgt wie unter `Erfassung von Objekten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html>`_ beschrieben.
 
 
 Erfassung
@@ -21,7 +21,4 @@ Erfassung
    :width: 500
 
 Abb.: Objektklasse Organisationseinheit - Kopf der Erfassungsmaske
-
-
-Die Erfassung dieser Objektklasse erfolgt wie unter `Erfassung von Objekten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html>`_ beschrieben.
 

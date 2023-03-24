@@ -10,7 +10,7 @@ Projekt
 
 Die Objektklasse Projekt wird verwendet, wenn laufende oder abgeschlossene Vorhaben, Projekte bzw. Programme beschrieben werden sollen. Dazu gehören: Forschungs- und Entwicklungsvorhaben, Projekte unter Beteiligung anderer Institutionen oder privater Unternehmen, Schutzprogramme, von besonderem Interesse sind Vorhaben/Projekte/Programme, in denen umweltrelevante Datenbestände entstehen.
 
-**Hinweis:** Die Erfassung dieser Objektklasse erfolgt wie unter `Erfassung von Objekten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html>`_ beschrieben. Lediglich der hier beschriebene Abschnitt Zeitbezug beinhaltet für diese Objektklasse spezielle Eingabefelder.
+..important:: Die Erfassung dieser Objektklasse erfolgt wie unter `Erfassung von Objekten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html>`_ beschrieben. Lediglich der hier beschriebene Abschnitt Zeitbezug beinhaltet für diese Objektklasse spezielle Eingabefelder.
 
 
 Erfassung

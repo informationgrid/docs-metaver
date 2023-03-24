@@ -13,7 +13,8 @@ Abb.: Feld Datendefizit
 
 Eingabe einer Prozentangabe zum Anteil der Daten, die im Vergleich zum beschriebenen Geltungsbereich fehlen. Diese kann sich auf die Anzahl der Kartenblätter aber auch auf das Datendefizit einer Gesamtkarte beziehen.
 
-**Beispiel:** *55*
+Beispiel: 55
+
 Wenn der Erfassungsgrad bei 100% liegt, ist in dem Feld Datendefizit 0% einzutragen. (Datendefizit = 100 – Erfassungsgrad) 
 
 
@@ -26,7 +27,7 @@ Abb.: Feld Höhengenauigkeit
 
 Angabe über die Genauigkeit der Höhe z.B. in einem Geländemodell.
 
-**Beispiel:** 3 (m)
+Beispiel: 3 (m)
 
 
 Lagegenauigkeit
@@ -38,10 +39,9 @@ Abb.: Feld Lagegenauigkeit
 
 Angabe über die Genauigkeit z.B. in einer Karte.
 
-**Beispiel:** 3 (m)
+Beispiel: 3 (m)
 
-**Hinweis:**
-*Die folgenden Eingabefelder erscheinen bei der Auswahl (Verschlagwortung) der INSPIRE-Themen: Adressen, Gewässernetz, Schutzgebiete, Verwaltungseinheiten und Verkehrsnetze.*
+.. hint:: Die folgenden Eingabefelder erscheinen bei der Auswahl (Verschlagwortung) der INSPIRE-Themen: Adressen, Gewässernetz, Schutzgebiete, Verwaltungseinheiten und Verkehrsnetze.
 
 
 Datenüberschuss
@@ -53,9 +53,9 @@ Abb.: Feld Datenüberschuss
 
 Angaben zu den überschüssigen Features, Attributen oder ihren Relationen.
 
-**Beispiel:** *Anzahl der überflüssigen Elemente zur Anzahl der gesamten Elemente: 11,2%*
+Beispiel: Anzahl der überflüssigen Elemente zur Anzahl der gesamten Elemente: 11,2%
 
-**Hinweis:** *Es wird nur eine Zahl angegeben; kein %-Zeichen.*
+..hint:: Es wird nur eine Zahl angegeben; kein %-Zeichen.
 
 
 Konzeptionelle Konsistenz
@@ -67,7 +67,7 @@ Abb.: Feld Konzeptionelle Konsistenz
 
 Angaben zu Fehlern bezüglich der Verletzung der Regeln des konzeptionellen Schemas
 
-**Beispiel:** *Anzahl der überlappenden Oberflächen innerhalb des Datensatzes: 23*
+Beispiel: Anzahl der überlappenden Oberflächen innerhalb des Datensatzes: 23
 
 
 Konsistenz des Wertebereichs
@@ -109,7 +109,7 @@ Abb.: Feld Topologische Konsistenz
 
 Angaben zu topologischen Fehlern, die zwischen verschiedenen Unterelementen des Datensatzes auftreten.
 
-**Beispiel:** *Anzahl fehlender Verbindungen zwischen Unterelementen aufgrund von Undershoots/Overshoots.*
+Beispiel: Anzahl fehlender Verbindungen zwischen Unterelementen aufgrund von Undershoots/Overshoots.
 
 
 Korrektheit der thematischen Klassifizierung
@@ -141,4 +141,4 @@ Abb.: Feld Genauigkeit quantitativer Attribute
 
 Angabe der Anzahl der quantitativen Attribute, die inkorrekt sind.
 
-**Beispiel:** *Anzahl aller quantitativen Werte, die nicht mit 95% Wahrscheinlichkeit dem wahren Wert entsprechen.*
+Beispiel: Anzahl aller quantitativen Werte, die nicht mit 95% Wahrscheinlichkeit dem wahren Wert entsprechen.*

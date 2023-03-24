@@ -9,19 +9,19 @@ Die Infrastructure for Spatial Information in the European Community (INSPIRE, d
 
 (Quelle: `Wikipedia <https://de.wikipedia.org/wiki/Infrastructure_for_Spatial_Information_in_the_European_Community>`_)
 
+.. important:: Nachfolgend werden die Felder beschrieben, die in der Erfassungsmaske speziell für diese Option angezeigt werden.
 
 Erfassung
 ^^^^^^^^^
 
 Alle im Rahmen von INSPIRE zu erfassenden Geodaten müssen als Objektklasse „Geodatensatz“ angelegt werden.
 
-**Beispiele:**
+Beispiele:
 
  - INSPIRE ST Geografische Bezeichnungen ATKIS Basis-DLM
  - INSPIRE ST Gewässernetz - Gewässerkundlicher Landesdienst
  - INSPIRE ST Umweltüberwachung - Gewässerkundlicher Landesdienst
 
-**Nachfolgend werden die Felder beschrieben, die in der Erfassungsmaske speziell für diesen Metadatentyp angezeigt werden.**
 
 Abschnitt Allgemeines
 ''''''''''''''''''''''
@@ -80,7 +80,7 @@ Abb: Option INSPIRE konform
   
 Geodatensatz wird an INSPIRE gemeldet, liegt aber nicht im INSPIRE-DatenSchema vor. Der Grad der Konformität zur Spezifikation (VO 1089/2010) kann durch den Anwender (im Abschnitt: "Zusatzinformation", Tabelle: Konformität) nur auf "false" oder "nicht evaluiert" gesetzt werden.
 
-**Hinweis:** *Diese Option erscheint nur, wenn vorher die Checkbox "INSPIRE-relevant" aktiviert wurde.*
+.. hint:: Diese Option erscheint nur, wenn vorher die Checkbox "INSPIRE-relevant" aktiviert wurde.
 
 .. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-inspire-relevant/iso-xml-konformitaet-false.png
 
@@ -136,8 +136,7 @@ Hier muss angegeben werden, zu welcher Durchführungsbestimmung der INSPIRE-Rich
 
 Dieses Feld wird bei der Auswahl der "INSPIRE-Themen" oder der "Art des Dienstes" automatisch befüllt. Es muss dann nur der Grad der Konformität manuell eingetragen werden.
 
-**Achtung!**
-*Bitte entsprechend den Empfehlungen des AdV-Metadatenprofils nur die Werte "konform" und "nicht konform" im Feld "Grad der Konformität" verwenden. Für alle nicht INSPIRE-Objekte, sollte hier die „INSPIRE-Richtlinie“ mit dem Wert „nicht evaluiert“ ausgewählt werden.* 
+.. important:: Bitte entsprechend den Empfehlungen des AdV-Metadatenprofils nur die Werte "konform" und "nicht konform" im Feld "Grad der Konformität" verwenden. Für alle nicht INSPIRE-Objekte, sollte hier die „INSPIRE-Richtlinie“ mit dem Wert „nicht evaluiert“ ausgewählt werden. 
 
 .. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-08_zusatzinformation/ige-abschnitt_zusatzinformation.png
 

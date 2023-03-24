@@ -8,11 +8,10 @@ Grundlage
 Kompatibilität der Metadaten mit dem Metadatenprofil der Arbeitsgemeinschaft der Vermessungsverwaltungen (AdV)
 
 
+.. important:: Nachfolgend werden die Felder beschrieben, die in der Erfassungsmaske speziell für diese Option angezeigt werden.
+
 Erfassung
 ^^^^^^^^^
-
-**Nachfolgend werden die Felder beschrieben, die in der Erfassungsmaske speziell für diesen Metadatentyp angezeigt werden.**
-
 
 Abschnitt Allgemeines
 ''''''''''''''''''''''
