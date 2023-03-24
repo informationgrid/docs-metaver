@@ -293,7 +293,7 @@ Abb.: Thesaurus-Navigator
 
 Die Verschlagwortung über den Thesaurus-Navigator dient der themenbezogenen Suche der Objekte. Dafür müssen Schlagworte aus dem Thesaurus ausgewählt werden, die das Objekt so genau wie möglich, aber auch so allgemein wie nötig beschreiben.
 
-.. hint:: Naturschutz, Schmetterling, Kartierung, Artenschutz
+Beispiel: Naturschutz, Schmetterling, Kartierung, Artenschutz
 
 Der "Thesaurus-Navigator" ist unterteilt in: die Suche, den Hierarchiebaum, die Ergebnisliste und die Liste der Deskriptoren.
 
