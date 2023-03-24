@@ -58,6 +58,12 @@ Eine Ausnahme ist der Atom-Feed, dieser kann nicht über den GetCapabilitie Assi
 
 Geben Sie die getCapability-URL des Dienstes ein und betätigen Sie den Button "Erstellen". Der Assistent ruft den Dienst über die eingetragene URL ab und zeigt alle in der getCapability verfügbaren Informationen an. Der Erfasser kann dann die Metainformationen auswählen, die in ddas Objekt übernommen werden sollen.
 
+Für die automatische Erzeugung von Geodatensätzen aus den Layern der WMS Dienste müssen diese einen Identifier unter dem Pfad /wms:WMS_Capabilities/wms:Capability/wms:Layer/.../wms:Identifier bei WMS Version 1.3.0, beziehungsweise unter /WMT_MS_Capabilities/Capability/Layer/.../Identifier bei WMS Version 1.1.1 haben.
+
+Mit Start wird der Assistent gestartet, die Informationen vom Service abgerufen und ein neues Objekt mit den erhaltenen Informationen erstellt.
+
+Mit der Funktion Abbrechen am Ende der Seite schließen Sie den Assistenten und starten mit einem leeren Objekt.
+
 Abschnitt Allgemeines
 ^^^^^^^^^^^^^^^^^^^^^
 
