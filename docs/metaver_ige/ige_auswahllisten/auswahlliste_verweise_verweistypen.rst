@@ -2,11 +2,5 @@
 Verweistypen
 ============
 
-
-
-
-
-
-
-
-
+- Internet
+- Intranet
