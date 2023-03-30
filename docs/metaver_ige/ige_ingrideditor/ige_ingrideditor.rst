@@ -163,7 +163,7 @@ Mit Ordner erstellen kann im Strukturbaum eine Hierarchie aufgebaut werden. Unte
 
 **Vorschau und Druckansicht**
 
-Die Druckfunktion ist unter dem Punkt „Drucken von Teilbäumen und Suchergebnissen“ ausführlich beschrieben.
+Die Druckfunktion ist unter dem Punkt `„Drucken von Teilbäumen und Suchergebnissen“ <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_ingrideditor/ige_funktionen.html#vorschau-und-druckansicht>`_  ausführlich beschrieben.
 
 **Objekte/Adressen/Teilbäume ausschneiden**
 
