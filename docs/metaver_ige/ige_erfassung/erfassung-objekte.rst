@@ -892,13 +892,16 @@ Im Feld „Internet-Adresse (URL)“ wird die URL der Internetseite eingetragen,
 
 Dateiformat
 ^^^^^^^^^^^
-Es sind verschiedene Dateiformat-Einträge möglich, die angezeigten Dateiformate richten sich nach der gewählten Objektklasse.
-
-`Auswahlliste der Dateiformate <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verweise_dateiformate.html>`_
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_dateiformat.png
 
 Abb.: Beispiel - Dateiformat für die Objektklasse Datensatz
+
+Es sind verschiedene Dateiformat-Einträge möglich, die angezeigten Dateiformate richten sich nach der gewählten Objektklasse.
+
+`Auswahlliste der Dateiformate <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verweise_dateiformate.html>`_
+
+
 
 URL-Typ
 ^^^^^^^^
