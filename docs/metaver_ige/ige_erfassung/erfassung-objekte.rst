@@ -203,7 +203,7 @@ Checkbox AdV kompatibel
 
 Abb.: Checkbox AdV kompatibel
 
-Diese Checkboxen sind unter der `Objektklasse Geodatensatz <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/objektklasse-geodatensatz.html>`_ beschrieben.
+Diese Checkboxen sind unter der `Objektklasse Geodatensatz im Abschnitt Allgemeines <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/objektklasse-geodatensatz.html#abschnitt-allgemeines>`_ beschrieben.
 
 
 Checkbox Open Data
@@ -909,7 +909,7 @@ Sollte die URL (noch) nicht bekannt sein, weil erst noch der entsprechende Diens
 
  - Für den Downloadverweis folgende Dummy-Download-Ressource eintragen: 
    - https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_download/ige_download-dummy.html
-                                                             
+
  - die Veröffentlichungsbreite auf „amtsintern“ ändern
  
 Auf diese Weise kann der Metadatensatz abschließend gespeichert werden. Sobald der Dienst zur Verfügung steht, wird die richtige Download-URL im Metadatensatz eingetragen und die Veröffentlichungsbreite auf „Internet“ gesetzt. Durch einen Klick auf die Schaltfläche „Hinzufügen“ wird der Internet-Verweis in die Tabelle aufgenommen.
