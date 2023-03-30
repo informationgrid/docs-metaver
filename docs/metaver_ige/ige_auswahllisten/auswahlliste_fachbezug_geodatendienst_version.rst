@@ -21,6 +21,3 @@ Suchdienste
 Transformationsdienste
 
   - OGC:CSW 2.0.2
-
-
-

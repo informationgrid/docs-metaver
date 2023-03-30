@@ -467,6 +467,3 @@ Diese Liste unterliegt einer ständigen Aktualisierung.
 
 152.	Weniger empfindliche Gebiete (Kommunalabwasserrichtlinie)
 {en: Less sensitive areas (Urban Waste-Water Treatment Directive)}
-
-
-

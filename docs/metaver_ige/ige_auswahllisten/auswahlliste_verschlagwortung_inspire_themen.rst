@@ -36,10 +36,3 @@ INSPIRE-Themen
 32.	Verteilung der Arten
 33.	Verteilung der Bevölkerung - Demografie
 34.	Verwaltungseinheiten
-
-
-
-
-
-
-

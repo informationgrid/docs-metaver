@@ -20,5 +20,3 @@ Medienoption
  - unbekannt (*)
  - Videotext
  - ZIP-Laufwerk
-
-

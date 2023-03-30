@@ -35,4 +35,3 @@ Nutzungsbedingungen (Lizenzen)
  -	Open Data Commons Open Database License (ODbL)
  -	Open Data Commons Public Domain Dedication and Licence (ODC PDDL)
  -	Public Domain Mark 1.0 (PDM)
-

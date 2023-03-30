@@ -85,12 +85,6 @@ Geodatenformate
  
  - SQLite - ist eine gemeinfreie Programmbibliothek, die ein relationales Datenbanksystem enthält. SQLite wird in Mobiltelefonen, in Browsern, Skype und vielen anderen Anwendungen eingesetzt.
  
- 
-
-
  - GSV (Google Street View?)
  
- - SDB - SDB Dateien gehören meistens zu Windows von Microsoft. Die Dateinamenerweiterung SDB wird typischerweise mit Dateien assoziiert, die 3D-Modelle enthalten, die mit SAP2000, einer Software zur Strukturanalyse, erstellt wurden. 
-
-
- 
+ - SDB - SDB Dateien gehören meistens zu Windows von Microsoft. Die Dateinamenerweiterung SDB wird typischerweise mit Dateien assoziiert, die 3D-Modelle enthalten, die mit SAP2000, einer Software zur Strukturanalyse, erstellt wurden.

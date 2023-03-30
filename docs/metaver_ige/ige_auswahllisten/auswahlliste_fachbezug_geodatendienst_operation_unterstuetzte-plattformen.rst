@@ -14,9 +14,3 @@ Operationen - Unterstützte Plattformen
  - XML
  
 *Kennzeichnet die gängigsten Plattformen für Geodatendienste
-
-
-
-
-
-

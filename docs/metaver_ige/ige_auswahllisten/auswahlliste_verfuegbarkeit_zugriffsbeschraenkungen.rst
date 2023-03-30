@@ -11,4 +11,3 @@ Zugriffsbeschränkungen
  - aufgrund internationaler Beziehungen, der öffentlichen Sicherheit oder der Landesverteidigung
  - aufgrund laufender Gerichtsverfahren
  - Es gelten keine Zugriffsbeschränkungen
-

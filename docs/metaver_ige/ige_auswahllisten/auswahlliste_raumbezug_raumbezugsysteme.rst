@@ -65,10 +65,3 @@ Raumbezugsysteme
 61.	EPSG 5678: DHDN / Gauss-Krüger Zone 4 (E-N)
 62.	EPSG 5679: DHDN / Gauss-Krüger Zone 5 (E-N)
 63.	EPSG 8395: ETRS89 / Gauss-Krüger (CM 9E)
-
-
-
-
-
-
-
