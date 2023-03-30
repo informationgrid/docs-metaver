@@ -585,12 +585,11 @@ Keyword AdVMIS
       </gmd:descriptiveKeywords>
 
 
-
+Nutzungsbedigungen
+''''''''''''''''''  
       <gmd:resourceConstraints>
         <gmd:MD_LegalConstraints>
 
-Nutzungsbedigungen
-''''''''''''''''''  
           <gmd:useConstraints>
             <gmd:MD_RestrictionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions"/>
           </gmd:useConstraints>
@@ -608,14 +607,14 @@ Nutzungsbedigungen
       </gmd:resourceConstraints>
 
 
+Zugriffsbeschränkungen
+''''''''''''''''''''''    
       <gmd:resourceConstraints>
         <gmd:MD_LegalConstraints>
           <gmd:accessConstraints>
             <gmd:MD_RestrictionCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions">otherRestrictions</gmd:MD_RestrictionCode>
           </gmd:accessConstraints>
-
-Zugriffsbeschränkungen
-''''''''''''''''''''''          
+      
           <gmd:otherConstraints>
             <gmx:Anchor xlink:href="http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations">Es gelten keine Zugriffsbeschränkungen</gmx:Anchor>
           </gmd:otherConstraints>
@@ -711,6 +710,9 @@ Boundingbox
   <gmd:distributionInfo>
     <gmd:MD_Distribution>
 
+
+Datenformat
+'''''''''''
       <gmd:distributionFormat>
         <gmd:MD_Format>
           <gmd:name>
@@ -811,7 +813,9 @@ Boundingbox
           </gmd:level>
         </gmd:DQ_Scope>
       </gmd:scope>
-      
+
+ Konformität
+ '''''''''''
       <gmd:report>
         <gmd:DQ_DomainConsistency>
           <gmd:result>
@@ -825,14 +829,18 @@ Boundingbox
 
                   <gmd:date>
                     <gmd:CI_Date>
+
                       <gmd:date>
                         <gco:Date>2010-12-08</gco:Date>
                       </gmd:date>
+
                       <gmd:dateType>
                         <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
                       </gmd:dateType>
+
                     </gmd:CI_Date>
                   </gmd:date>
+                  
                 </gmd:CI_Citation>
               </gmd:specification>
 
