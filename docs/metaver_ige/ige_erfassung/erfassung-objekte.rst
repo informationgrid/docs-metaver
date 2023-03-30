@@ -192,7 +192,7 @@ Checkbox INSPIRE-relevant
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_checkbox-inspire-relevant.png
   :width: 350
 
-Abb.: Checkbox INSPIRE-relevant (konform, nichtkonform)
+Abb.: Checkbox INSPIRE-relevant (konform, nicht konform)
 
   
 Checkbox AdV kompatibel
@@ -896,9 +896,9 @@ Es sind verschiedene Dateiformat-Einträge möglich, die angezeigten Dateiformat
 
 `Auswahlliste der Dateiformate <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verweise_dateiformate.html>`_
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_dateiformate.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_dateiformat.png
 
-Abb.: Beispiel - Dateiformate für die Objektklasse Datensatz
+Abb.: Beispiel - Dateiformat für die Objektklasse Datensatz
 
 URL-Typ
 ^^^^^^^^
