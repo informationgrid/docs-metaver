@@ -19,7 +19,7 @@ Version der Bedienungsanleitung
 
 .. toctree::
    :maxdepth: 2
-   :caption: Anmeldung
+   :caption: Portaloberfläche
 
    metaver_portal/metaver_registrierung-anmeldung/metaver_registrierung-anmeldung.rst
    metaver_portal/metaver_startseite/metaver_feld-ankuendigungen.rst
