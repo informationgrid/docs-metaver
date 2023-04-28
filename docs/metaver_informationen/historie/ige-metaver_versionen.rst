@@ -28,7 +28,7 @@ Update auf METAVER-Livesystem Version 6.1.0 : Mai 2023
  
 
 
-**Änderungen in den InGrid Versionen**
+**Änderungen in den InGrid Versionen (IGE Classic)**
 
 (Ausfühliche Informationen auf GitHub: https://www.ingrid-oss.eu/latest/about/history.html)
 
