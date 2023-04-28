@@ -504,7 +504,7 @@ Abb.: Tabelle für die Angaben von Zeitspannen
 
 
 +----------------------------+-------------------------------------------------+
-| Angabe im Editor           | Ausgabe im Portal                               |
+| *Angabe im Editor*         | *Ausgabe im Portal*                             |
 +----------------------------+-------------------------------------------------+
 | bis: Zeitpunkt des Abrufs  | seit tt.mm.jjjj, gegenwärtig aktuell            |
 +----------------------------+-------------------------------------------------+
