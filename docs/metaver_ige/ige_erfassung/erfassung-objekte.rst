@@ -503,13 +503,13 @@ Zur Auswahl stehen:
 Abb.: Tabelle für die Angaben von Zeitspannen
 
 
-+----------------------------+-------------------------------------------------+
-| **Angabe im Editor**       | **Ausgabe im Portal**                           |
-+----------------------------+-------------------------------------------------+
-| bis: unbekannter Zeitpunkt | seit tt.mm.jjjj, gegenwärtige Aktualität unklar |
-+----------------------------+-------------------------------------------------+
-| bis: Zeitpunkt des Abrufs  | seit tt.mm.jjjj, gegenwärtig aktuell            |
-+----------------------------+-------------------------------------------------+
++----------------------------------------+-------------------------------------------------+
+| **Auswahl 2 - Angabe im Editor**       | **Ausgabe im Portal**                           |
++----------------------------------------+-------------------------------------------------+
+| bis: unbekannter Zeitpunkt             | seit tt.mm.jjjj, gegenwärtige Aktualität unklar |
++----------------------------------------+-------------------------------------------------+
+| bis: Zeitpunkt des Abrufs              | seit tt.mm.jjjj, gegenwärtig aktuell            |
++----------------------------------------+-------------------------------------------------+
 
 
 
