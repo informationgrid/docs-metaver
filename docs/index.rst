@@ -27,7 +27,7 @@ Version der Bedienungsanleitung
 
 .. toctree::
    :maxdepth: 3
-   :caption: Die Software
+   :caption: Der Editor
    
    metaver_ige/ige_ingrideditor/ige_ingrideditor.rst
    metaver_ige/ige_ingrideditor/ige_funktionen.rst
