@@ -35,9 +35,7 @@ Update auf METAVER-Livesystem Version 6.1.0 : Mai 2023
 
 Version 6.0.1.1, Release 02.03.2023
 
-   - CODELIST-REPOSITORY: Zentrale Codelist anpassen
    - IGE: Korrektur Regionalschlüssel erfassen - Minimallösung
-   - PORTAL: AdV-MIS: Kontakt des Vertriebs aus distributionInfo als “Vertrieb” ausgeben
 
 Version 6.0.0, Release 13.01.2023
 
