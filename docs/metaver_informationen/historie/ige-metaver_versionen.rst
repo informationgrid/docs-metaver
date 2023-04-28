@@ -45,16 +45,15 @@ Version 6.0.0, Release 13.01.2023
 Liste der Änderungen
 
    - IGE: AdV-Checkbox nur in Objektarten Geodatendienst, Geodatensatz und Anwendung sichtbar machen
-   - IGE: Hilfetext zum Feld “Durch die Ressource abgedeckte Zeitspanne” anpassen
+   - IGE: Hilfetext zum Feld "Durch die Ressource abgedeckte Zeitspanne" anpassen
    - IGE: Regionalschlüssel erfassen - Minimallösung
-   - MAPCLIENT: Admin-GUI - Einbindung WMTS mit anderer Projektion
    - PORTAL: Portalanzeige Koordinatensysteme
 
 
 Profil MetaVer
 
-    - MAPCLIENT: Kartenclient METAVER - Webatlas farbe/grau ersetzen durch basemap.de Web Raster farbe/grau (REDMINE-4230)
-    - PORTAL: Verbesserung Startseite MetaVer - Feld für Wartungsarbeiten einfügen (REDMINE-4421)
+    - MAPCLIENT: Kartenclient METAVER - Webatlas farbe/grau ersetzen durch basemap.de Web Raster farbe/grau
+    - PORTAL: Verbesserung Startseite MetaVer - Feld für Wartungsarbeiten einfügen
 
 
 InGrid Editor Version 5.14.4 (24.11.2022)
