@@ -504,7 +504,7 @@ Zur Auswahl stehen:
 Abb.: Tabelle für die Angaben von Zeitspannen
 
 
-**Spalte Auswahl 2**
+**Spalte: Auswahl 2**
 
 +----------------------------+-------------------------------------------------+
 | **Angabe im Editor**       | **Ausgabe im Portal**                           |
