@@ -22,6 +22,7 @@ Version der Bedienungsanleitung
    :caption: Anmeldung
 
    metaver_portal/metaver_registrierung-anmeldung/metaver_registrierung-anmeldung.rst
+   metaver_portal/metaver_startseite/metaver_feld-ankuendigungen.rst
 
 
 .. toctree::
