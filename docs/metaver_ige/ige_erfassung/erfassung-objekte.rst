@@ -510,8 +510,6 @@ Abb.: Tabelle für die Angaben von Zeitspannen
 +----------------------------+-------------------------------------------------+
 | bis: unbekannter Zeitpunkt | seit tt.mm.jjjj, gegenwärtige Aktualität unklar |
 +----------------------------+-------------------------------------------------+
-| Im Intervall               | Intervall der Erhebung                          |
-+----------------------------+-------------------------------------------------+
 
 
 
