@@ -503,6 +503,15 @@ Zur Auswahl stehen:
 Abb.: Tabelle für die Angaben von Zeitspannen
 
 
+Ausgabe im Portal:
+
+| im Editor | im Portal |
+| bis: Zeitpunkt des Abrufs| seit tt.mm.jjjj, gegenwärtig aktuell |
+| bis: unbekannter Zeitpunkt| seit tt.mm.jjjj, gegenwärtige Aktualität unklar |
+| Im Intervall | Intervall der Erhebung |
+
+
+
 Periodizität
 ^^^^^^^^^^^^
 
