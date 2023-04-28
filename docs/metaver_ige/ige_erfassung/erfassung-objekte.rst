@@ -491,7 +491,9 @@ Zeitbezug des Dateninhalts
 
 Abb.: Angabe von Zeitpunkten, Zeiträumen / Zeitspannen
 
-Hier soll die Zeitspanne oder der Zeitpunkt der Erhebung der eigentlichen Daten (z.B. Messdaten) eingetragen werden. Ein Zeitpunkt wird mit "am" im Auswahlmenü angegeben. Die Zeitspanne kann auf unterschiedliche Weise ausgedrückt werden. 
+Hier soll die Zeitspanne oder der Zeitpunkt der Erhebung der eigentlichen Daten eingetragen werden. Ein Zeitpunkt wird mit "am" im Auswahlmenü angegeben. Die Zeitspanne kann auf unterschiedliche Weise ausgedrückt werden.
+
+Beispiele: Zeitraum einer Erhebung von Messdaten, Entwicklungszeitraum einer Anwendung, Laufzeit eines Projektes, Laufzeit einer Studie, Zeitraum für die Erstellung einer Basiskarte, Zeitraum einer Befliegung
 
 Zur Auswahl stehen:
 
@@ -500,48 +502,6 @@ Zur Auswahl stehen:
    :width: 500
 
 Abb.: Tabelle für die Angaben von Zeitspannen
-
-Beispiele: Zeitraum einer Erhebung von Messdaten, Entwicklungszeitraum einer Anwendung, Laufzeit eines Projektes, Laufzeit einer Studie, Zeitraum für die Erstellung einer Basiskarte, Zeitraum einer Befliegung
-
-
-Auswahlmöglichkeiten und deren Bedeutung
-''''''''''''''''''''''''''''''''''''''''
-
-**von:  bis: Zeitpunkt des Abrufs**
-
-Für Ressourcen, deren Datenbestand fortlaufend in kurzen regelmäßigen Zeitabschnitten aktualisiert oder angereichert wird. Das Ende der Zeitspanne entspricht dem Zeitpunkt des Abrufs der Ressource.
-
-Anstelle einer konkreten Datumsangabe für des Ende der Zeitpanne erfolgt in der ISO-XML der Eintrag "now".
-
-In der Portalansicht wird ausgegeben: seit tt.mm.jjjj, gegenwärtig aktuell
-
-
-**von:  bis: unbekannter Zeitpunkt**
-
-Nur der Beginn der Zeitspanne ist bekannt. Das Ende der Zeitspanne ist unbekannt und kann in der Vergangenheit, Gegenwart oder Zukunft liegen. 
-
-Anstelle einer konkreten Datumsangabe für das Ende der Zeitpanne erfolgt in der ISO-XML der Eintrag "unknown".
-
-In der Portalansicht wird ausgegeben: seit tt.mm.jjjj, gegenwärtige Aktualität unklar
-
-
-**von:  bis: genaues Datum**
-
-Beginn und Ende der Zeitspanne sind bekannt.
-
-In der Portalansicht wird ausgegeben: tt.mm.jjjj - tt.mm.jjjj
-
-
-**bis:** genaues Datum
-
-Nur das Ende der Zeitspanne ist bekannt. Anstelle einer konkreten Datumsangabe für den Beginn der Zeitpanne erfolgt der Eintrag "unknown".
-
-In der Portalansicht wird ausgegeben: bis tt.mm.jjjj
-
-
-**am:** genaues Datum
-
-In der Portalansicht wird ausgegeben: tt.mm.jjjj
 
 
 Periodizität
