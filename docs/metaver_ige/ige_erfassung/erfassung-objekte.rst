@@ -498,7 +498,6 @@ Beispiele: Zeitraum einer Erhebung von Messdaten, Entwicklungszeitraum einer Anw
 Zur Auswahl stehen:
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ ige-zeitbezug_zeitspanne-tabelle.png
-
    :width: 500
 
 Abb.: Tabelle für die Angaben von Zeitspannen
