@@ -485,6 +485,26 @@ Beispiel: Die Messungen erfolgten nur am Tag.
 Durch die Ressource abgedeckte Zeitspanne
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Zeitbezug des Dateninhalts
+
+Hier soll die Zeitspanne oder der Zeitpunkt der Erhebung der eigentlichen Daten (z.B. Messdaten) eingetragen werden. Ein Zeitpunkt wird mit "am" im Auswahlmenü angegeben. Die Zeitspanne kann auf unterschiedliche Weise ausgedrückt werden. Zur Auswahl stehen:
+
++----------------+--------------------+------------------------+
+| Auswahl 1      | Auswahl 2          | Bedeutung              |
++----------------+--------------------+------------------------+
+| am             |                    | Angabe eine Zeitpunktes|
++----------------+--------------------+------------------------+
+| bis            |                    | Nur das Ende der Zeitspanne ist bekannt. Anstelle einer konkreten Datumsangabe für den Beginn der Zeitspanne erfolgt "unknown". |
++----------------+--------------------+------------------------+
+|von bis:        |                    | unbekannter Zeitpunkt  Nur der Beginn der Zeitspanne ist bekannt. Das Ende der Zeitspanne ist unbekannt und kann in der Vergangenheit, Gegenwart oder Zukunft liegen. Anstelle einer konkreten Datumsangabe für das Ende der Zeitpanne erfolgt der Eintrag "unknown".
+ 
+   
+   
+von bis: unbekannter Zeitpunkt  Nur der Beginn der Zeitspanne ist bekannt. Das Ende der Zeitspanne ist unbekannt und kann in der Vergangenheit, Gegenwart oder Zukunft liegen. Anstelle einer konkreten Datumsangabe für das Ende der Zeitpanne erfolgt der Eintrag "unknown".
+von bis: Zeitpunkt des Abrufs Für Ressourcen, deren Datenbestand fortlaufend in kurzen regelmäßigen Zeitabschnitten aktualisiert oder angereichert wird. Das Ende der Zeitspanne entspricht dem Zeitpunkt des Abrufs der Ressource. Anstelle einer konkreten Datumsangabe für des Ende der Zeitpanne erfolgt der Eintrag "now".
+von bis: genaues Datum  Beginn und Ende der Zeitspanne sind bekannt.
+ISO Abbildung
+
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-zeitbezug_zeitspanne.png
 
 Abb.: Angabe von Zeitpunkten, Zeiträumen / Zeitspannen
