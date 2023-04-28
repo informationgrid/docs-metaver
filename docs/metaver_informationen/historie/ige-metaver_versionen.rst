@@ -14,26 +14,49 @@ Installierte InGrid-Version auf metaver.de
 
 
 Installierte InGrid-Version auf test.metaver.de
-   - InGrid-Version: 5.14.4
-   - Update wurde installiert am: 03.01.2023
+   - InGrid-Version: 6.1.0
+   - Update wurde installiert am: 19.04.2023
    - Datenbestand vom: 04.10.2022
 
 
 InGrid-Version von Entwicklern für die Installation breitgestellt
-   - InGrid Portal-Version: 6.0.0
-   - InGrid Editor-Version: 5.18
+   - InGrid Portal-Version: 6.1.0
+   - InGrid Editor-Version: 6.1.0
    - Release: 
 
-Update auf METAVER-Livesystem Version 6.0.0 : April 2023
+Update auf METAVER-Livesystem Version 6.1.0 : Mai 2023
  
- 
-
-**Änderungen in den Versionen**
 
 
-Portal Version 6.0.0 (April 2023)
+**Änderungen in den InGrid Versionen**
 
-(InGrid Editor Version 5.18 (April 2023))
+(Ausfühliche Informationen auf GitHub: https://www.ingrid-oss.eu/latest/about/history.html)
+
+
+Version 6.0.1.1, Release 02.03.2023
+
+   - CODELIST-REPOSITORY: Zentrale Codelist anpassen
+   - IGE: Korrektur Regionalschlüssel erfassen - Minimallösung
+   - PORTAL: AdV-MIS: Kontakt des Vertriebs aus distributionInfo als “Vertrieb” ausgeben
+
+Version 6.0.0, Release 13.01.2023
+
+   - Upgrade von JAVA 8 auf JAVA 17
+   - Aktualisierung der verwendeten Elasticsearch Version
+
+Liste der Änderungen
+
+   - IGE: AdV-Checkbox nur in Objektarten Geodatendienst, Geodatensatz und Anwendung sichtbar machen
+   - IGE: Hilfetext zum Feld “Durch die Ressource abgedeckte Zeitspanne” anpassen
+   - IGE: Regionalschlüssel erfassen - Minimallösung
+   - MAPCLIENT: Admin-GUI - Einbindung WMTS mit anderer Projektion
+   - PORTAL: Portalanzeige Koordinatensysteme
+
+
+Profil MetaVer
+
+    - MAPCLIENT: Kartenclient METAVER - Webatlas farbe/grau ersetzen durch basemap.de Web Raster farbe/grau (REDMINE-4230)
+    - PORTAL: Verbesserung Startseite MetaVer - Feld für Wartungsarbeiten einfügen (REDMINE-4421)
 
 
 InGrid Editor Version 5.14.4 (24.11.2022)
