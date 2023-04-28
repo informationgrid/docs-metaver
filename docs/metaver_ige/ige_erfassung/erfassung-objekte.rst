@@ -503,10 +503,8 @@ Zur Auswahl stehen:
 Abb.: Tabelle für die Angaben von Zeitspannen
 
 
-Ausgabe im Portal:
-
 +----------------------------+-------------------------------------------------+
-| im Editor                  | im Portal                                       |
+| im Editor                  | Ausgabe im Portal                                      |
 +----------------------------+-------------------------------------------------+
 | bis: Zeitpunkt des Abrufs  | seit tt.mm.jjjj, gegenwärtig aktuell            |
 +----------------------------+-------------------------------------------------+
