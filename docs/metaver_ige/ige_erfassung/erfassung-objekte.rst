@@ -488,7 +488,7 @@ Durch die Ressource abgedeckte Zeitspanne
 Zeitbezug des Dateninhalts
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-zeitbezug_zeitspanne.png
-   :width: 300
+   :width: 400
 
 Abb.: Angabe von Zeitpunkten, Zeiträumen / Zeitspannen
 
