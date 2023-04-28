@@ -11,12 +11,10 @@ Der Metaver-Kartenclient enthält eine Auswahl an unterschiedlichen Basiskarten.
   - basemap.de grau (AdV) - Abdeckung Bundesrepublik Deutschland
   - basemap.de farbig (AdV) - Abdeckung Bundesrepublik Deutschland
 
-BKG - Bundesamt für Kartographie und Geodäsie
-AdV - Arbeitsgemeinschaft der Vermessungsverwaltungen
+- BKG - Bundesamt für Kartographie und Geodäsie
+- AdV - Arbeitsgemeinschaft der Vermessungsverwaltungen
 
 
 .. image:: ../../img_ige/metaver_kartenclient/metaver_verfuegbare-kartendienste.png
 
 Abb.: METAVER-Kartenclient - Verfügbare Basiskarten
-
-
