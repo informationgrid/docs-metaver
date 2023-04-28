@@ -1,6 +1,6 @@
 
-Startseite - Feld für Ankuendigungen
-====================================
+Feld für Ankündigungen
+=======================
 
 Auf der Startseite können Ankündigungen angezeigt werden z.B. für Wartungsarbeiten.
 
