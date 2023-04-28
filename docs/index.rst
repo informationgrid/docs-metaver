@@ -23,7 +23,7 @@ Version der Bedienungsanleitung
 
    metaver_portal/metaver_registrierung-anmeldung/metaver_registrierung-anmeldung.rst
    metaver_portal/metaver_startseite/metaver_feld-ankuendigungen.rst
-
+   metaver_portal/metaver_kartenclient/metaver_verfuegbare-kartendienste.rst
 
 .. toctree::
    :maxdepth: 3
