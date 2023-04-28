@@ -1,6 +1,6 @@
 
-Feld für Ankündigungen
-=======================
+Ankündigungen
+=============
 
 Auf der Startseite können Ankündigungen angezeigt werden z.B. für Wartungsarbeiten.
 
