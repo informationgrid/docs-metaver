@@ -518,6 +518,8 @@ Angabe des Referenzpegels, zu dem die Höhe relativ gemessen wird. In Deutschlan
 
 Beispiel: Pegel Amsterdam
 
+`Auswahlliste Vertikaldatum <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_raumbezug_vertikaldatum.html>`_
+
 Erläuterungen
 '''''''''''''
 
