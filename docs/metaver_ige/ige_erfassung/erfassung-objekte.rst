@@ -397,6 +397,11 @@ Informationen über die räumliche Zuordnung des in dem Objekt beschriebenen Dat
 Raumbezug hinzufügen
 '''''''''''''''''''''
 
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-abschnitt_raumbezugssystem_raumbezug-hinzufuegen.png
+
+Abb.: Dialogfenster Raumbezug hinzufügen
+
+
 In dem sich öffnenden Dialog können Sie einen freien Raumbezug in dem Koordinatensystem angeben, welches Sie (im Dialogfester unten) ausgewählt haben. 
 
 Mit einem Klick auf die Schaltfläche „Hinzufügen“ werden die Angaben in das Feld „Freier Raumbezug“ des Objektes übernommen. 
