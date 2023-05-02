@@ -472,8 +472,14 @@ Obwohl das ISO-Element Polygon heißt, können in diesem Feld auch andere Geomet
 .. hint:: Die Koordinaten müssen zwingend im WGS84 Koordinatenreferenzsystem angegeben werden.
 
 
-Raumbezugsystem
-'''''''''''''''
+Raumbezugssystem
+^^^^^^^^^^^^^^^^
+
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_raumbezugssystem-liste.png
+
+Abb.: Feld Raumbezugssystem
+
+`Auswahlliste der Raumbezugssysteme <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_raumbezug_raumbezugsysteme.html>`_
 
 Über ein Dropdownmenü erfolgt an dieser Stelle die Auswahl des Raumbezugssystems, welches in der Ressource verwendet wurde. 
 
@@ -481,10 +487,13 @@ Raumbezugsystem
 
 Beispiel: EPSG:4326 / WGS 84 / geographisch
 
-`Auswahlliste der Raumbezugssysteme <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_raumbezug_raumbezugsysteme.html>`_
- 
+
 Höhe
-'''''
+^^^^
+
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_hoehe.png
+
+Abb.: Feld Höhe
 
 Minimum / Maximum
 '''''''''''''''''
