@@ -367,7 +367,7 @@ Zur Eingabe eines anderen geografischen Bereichs wählen Sie den "Geothesaurus-N
  
 Geben Sie in das Suchfeld den geografischen Begriff (oder einen Teil des Begriffs) ein den Sie suchen. Nach dem Klicken auf die Schaltfläche „In Geo-Thesaurus suchen“ wird nach diesem Begriff im SNS (Semantic Network Service des Umweltbundesamtes) gesucht und die Ergebnisse werden unter Auswahl aufgelistet. Sie können einen oder mehrere Begriffe dieser Liste markieren und über die Schaltfläche "Übernehmen" als Raumbezug dem Objekt hinzufügen. Neben den geografischen Begriffen werden damit automatisch auch die Koordinaten des geografischen Bereiches in das Objekt übernommen. 
 
-..hint:: Für eine breitere Suche können Sie Wildcards verwenden, z.B. *Harz oder *Talsperre.
+..hint:: Für eine breitere Suche können Sie Wildcards (Stern+Ort) verwenden, z.B. Harz oder Talsperre.
 
 Sollte der gewünschte geografische Begriff nicht vorhanden sein, besteht die Möglichkeit, diesen zusammen mit den Koordinaten manuell einzutragen. Wählen Sie unter der Tabelle "Freier Raumbezug" den Link "Raumbezug hinzufügen".
 
