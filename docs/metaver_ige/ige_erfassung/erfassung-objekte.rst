@@ -459,10 +459,7 @@ Obwohl das ISO-Element Polygon heißt, können in diesem Feld auch andere Geomet
 | **MULTIPOLYGON:** Eine Sammlung der Polygone
 | Beisiel: MULTIPOLYGON(((0 0, 0 10, 10 10, 10 0, 0 0),(5 5, 5 7, 7 7, 7 5, 5 5)), (15 20, 25 30, 33 25, 15 20)))
 | **GEOMETRYCOLLECTION:** Eine Sammlung von o.g. Geometrien
-| Beispiel:
-| GEOMETRYCOLLECTION(POINT(10 10), 
-| LINESTRING(10 10, 20 20, 10 40),
-| POLYGON((0 0, 0 10, 10 10, 10 0, 0 0)))
+| Beispiel: GEOMETRYCOLLECTION(POINT(10 10), LINESTRING(10 10, 20 20, 10 40), POLYGON((0 0, 0 10, 10 10, 10 0, 0 0)))
 
 
 .. hint:: Die Koordinaten müssen zwingend im WGS84 Koordinatenreferenzsystem angegeben werden.
