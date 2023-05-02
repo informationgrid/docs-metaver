@@ -383,6 +383,11 @@ Umrechnung der unter Geothesaurus-Raumbezug ausgewählten Daten in die in der Au
 Freier Raumbezug
 ''''''''''''''''
 
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-abschnitt_raumbezugssystem_freier-raumbezug.png
+
+Abb.: Tabelle Freier Raumbezug
+
+
 Informationen über die räumliche Zuordnung des in dem Objekt beschriebenen Datenbestand. Es können frei wählbare Raumbezugs-Koordinaten hinzugefügt werden. Der Wertebereich im WGS ist folgendermaßen definiert:
 
 - Breite (Latitude): -90 bis 90
