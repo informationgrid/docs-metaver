@@ -403,6 +403,65 @@ erben
 Über den Link "erben" können alle freien Raumbezüge des übergeordneten Objektes übernommen werden. Dabei werden nur neue Raumbezüge übernommen.
 
 
+Amtlicher Regionalschlüssel (ARS)
+'''''''''''''''''''''''''''''''''
+
+In den Objektklassen Geodatensatz und Geodatendienst kann ab der InGrid-Version 6.0.0 der Regionalschlüssel erfasst werden.
+
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_regionalschluessel.png
+
+    :width: 300
+
+Abb.: Feld Regionalschlüssel
+
+Der zwölfstellige `Amtliche Regionalschlüssels (ARS) <https://de.wikipedia.org/wiki/Amtlicher_Gemeindeschl%C3%BCssel#Regionalschl%C3%BCssel>`_ löst den `Amtlichen Gemeindeschlüssel (AGS) <https://de.wikipedia.org/wiki/Amtlicher_Gemeindeschl%C3%BCssel>`_ ab und erweitert ihn um einen Verbandsschlüssel.
+
+.. line-block::
+
+Der ARS ist wie folgt aufgebaut:
+
+1.–2. Stelle   = Kennzahl des Bundeslandes
+3. Stelle      = Kennzahl des Regierungsbezirks; wenn nicht vorhanden: 0
+4.–5. Stelle   = Kennzahl des Landkreises oder der kreisfreien Stadt
+6.–9. Stelle   = Verbandsschlüssel
+10.–12. Stelle = Gemeindekennzahl
+
+.. hint:: Eine interaktive Suche nach Amtlichen Regionalschlüsseln ermöglicht das `ARS-Tool <https://opengovtech.de/ars/>'_ (externer Dienst).
+
+**Beispiel:** Mit der Angabe des zwölfstelligen ARS 081150045045 kann die Stadt Sindelfingen eindeutig adressiert werden:
+
+Werden nicht alle zwölf Stellen des ARS angegeben, sondern nur ein Prefix des ARS, so können statt einer spezifischen Gemeinde auch darüberliegende Kreise, Regierungsbezirke oder Bundesländer abgebildet werden. Wird ein solcher Prefix eines ARS angegeben, schließt dieser alle sich darin befindlichen Gliederungen mit ein.
+
+**Beispiel:** Der ARS 081 steht für den Regierungsbezirk Stuttgart und schließt den darunterliegenden Stadtkreis Stuttgart (08111) sowie weitere Landkreise, Städte und Gemeinden, wie z.B. die Stadt Böblingen (ARS: 081150003003), im Regierungsbezirk mit ein.
+
+Eine Einschränkung auf konkrete Verwaltungsebenen ist durch das Auffüllen des ARS auf zwölf Stellen mit Nullen möglich.
+
+**Beispiel:** Der Schlüssel 081150000000 referenziert explizit nur den Kreis Böblingen, nicht jedoch beispielsweise die Stadt Leonberg (ARS: 081150028028), die im Kreis Böblingen liegt. Hierdurch ist bei FIT-Connect eine Suche nach Zustellpunkten möglich, die von der Kreisverwaltung Böblingen betrieben werden, ohne gleichzeitig auch Zustellpunkte der Stadt Leonberg zu ermitteln.
+
+
+Berenzungspolygon als WKT
+'''''''''''''''''''''''''
+
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_geothesaurus-raumbezug.png
+
+    :width: 300
+
+Abb.: Geothesaurus-Navigator
+
+Obwohl das ISO-Element Polygon heißt, können in diesem Feld auch andere Geometrietypen angegeben werden. Genauer gesagt, werden diese WKT-Klassen unterstützt:
+
+    - **POINT:** Ein einziger Punkt z.B. POINT(10 10)
+    - **MULTIPOINT:** Eine Punktsammlung z.B. MULTIPOINT((0 0), (10 10), (1.3 9.5))
+    - **LINESTRING:** Eine einzige Linie z.B. LINESTRING(10 10, 20 20, 10 40)
+    - **MULTILINE:** Eine Liniensammlung z.B. MULTILINE((10 10, 20 20, 10 40), (5.1 9.3, 3.6 -1.8), (0 0, 1 0, 1 1, 0 1))
+    - **POLYGON:** Ein einziges Polygon z.B. POLYGON((0 0, 0 10, 10 10, 10 0, 0 0), (5 5, 5 7, 7 7, 7 5, 5 5))
+    - **MULTIPOLYGON:** Eine Sammlung der Polygone z.B. MULTIPOLYGON(((0 0, 0 10, 10 10, 10 0, 0 0),(5 5, 5 7, 7 7, 7 5, 5 5)), (15 20, 25 30, 33 25, 15 20)))
+    - **GEOMETRYCOLLECTION:** Eine Sammlung von o.g. Geometrien z.B. GEOMETRYCOLLECTION(POINT(10 10), LINESTRING(10 10, 20 20, 10 40), POLYGON((0 0, 0 10, 10 10, 10 0, 0 0)))
+
+
+.. hint:: Die Koordinaten müssen zwingend im WGS84 Koordinatenreferenzsystem angegeben werden.
+
+
 Raumbezugsystem
 '''''''''''''''
 
