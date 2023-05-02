@@ -377,11 +377,20 @@ Sollte der gewünschte geografische Begriff nicht vorhanden sein, besteht die M�
 Umgerechnete Koordinaten
 ''''''''''''''''''''''''
 
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-abschnitt_raumbezugssystem_umgerechnete-koordinaten.png
+
+Abb.: Feld Umgerechnete Koordinaten
+
+
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-abschnitt_raumbezugssystem_liste-koordinatensysteme.png
+
+Abb.: Liste der Koordinatensysteme
+
 Umrechnung der unter Geothesaurus-Raumbezug ausgewählten Daten in die in der Auswahllist zur Verfügung stehenden Koordinatensysteme.
 
 
 Freier Raumbezug
-''''''''''''''''
+^^^^^^^^^^^^^^^^
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-abschnitt_raumbezugssystem_freier-raumbezug.png
 
