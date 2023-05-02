@@ -4,7 +4,7 @@ InGrid Versionen
 
 Version der Bedienungsanleitung
    - InGrid-Version: 5.14.2
-   - letzte Änderung: 28.04.2023
+   - letzte Änderung: 02.05.2023
    - Status: in Bearbeitung
  
  
