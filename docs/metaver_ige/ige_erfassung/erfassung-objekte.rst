@@ -444,8 +444,7 @@ Berenzungspolygon als WKT
 '''''''''''''''''''''''''
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_geothesaurus-raumbezug.png
-
-    :width: 300
+   :width: 300
 
 Abb.: Geothesaurus-Navigator
 
