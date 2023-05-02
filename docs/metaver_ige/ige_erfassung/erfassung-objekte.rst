@@ -443,7 +443,7 @@ Eine Einschränkung auf konkrete Verwaltungsebenen ist durch das Auffüllen des 
 Berenzungspolygon als WKT
 '''''''''''''''''''''''''
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_geothesaurus-raumbezug.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_begrenzungspolygon-als-wkt.png
    :width: 300
 
 Abb.: Feld Berenzungspolygon als WKT
