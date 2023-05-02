@@ -421,11 +421,11 @@ Der zwölfstellige `Amtliche Regionalschlüssels (ARS) <https://de.wikipedia.org
 
 Der ARS ist wie folgt aufgebaut:
 
-|1.–2. Stelle   = Kennzahl des Bundeslandes
-|3. Stelle      = Kennzahl des Regierungsbezirks; wenn nicht vorhanden: 0
-|4.–5. Stelle   = Kennzahl des Landkreises oder der kreisfreien Stadt
-|6.–9. Stelle   = Verbandsschlüssel
-|10.–12. Stelle = Gemeindekennzahl
+*|1.–2. Stelle   = Kennzahl des Bundeslandes
+ |3. Stelle      = Kennzahl des Regierungsbezirks; wenn nicht vorhanden: 0
+ |4.–5. Stelle   = Kennzahl des Landkreises oder der kreisfreien Stadt
+ |6.–9. Stelle   = Verbandsschlüssel
+ |10.–12. Stelle = Gemeindekennzahl
 
 .. hint:: Eine interaktive Suche nach Amtlichen Regionalschlüsseln ermöglicht das `ARS-Tool <https://opengovtech.de/ars/>`_ (externer Dienst).
 
