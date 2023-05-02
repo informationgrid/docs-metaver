@@ -508,7 +508,7 @@ Maßeinheit
 
 Angabe der Maßeinheit, in der die Höhe gemessen wird.
 
-Beispiel: Meter
+Beispiel: Fuss, Kilometer, Meter, Zoll
 
 
 Vertikaldatum
