@@ -348,12 +348,11 @@ Geothesaurus-Navigator
 ^^^^^^^^^^^^^^^^^^^^^^
 Über den Geothesaurus-Navigator kann nach den Koordinaten einer räumlichen Einheit gesucht werden.
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_geothesaurus-raumbezug.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_geothesaurus-raumbezug_koordinaten.png
 
 Abb.: Geothesaurus-Navigator
 
-
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_geothesaurus-raumbezug_koordinaten.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_geothesaurus-raumbezug.png
 
 Abb.: Tabelle Geothesaurus-Raumbezug mit Eintrag Landkreis Harz
 
