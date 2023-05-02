@@ -447,18 +447,25 @@ Abb.: Feld Berenzungspolygon als WKT
 
 Obwohl das ISO-Element Polygon heißt, können in diesem Feld auch andere Geometrietypen angegeben werden. Genauer gesagt, werden diese WKT-Klassen unterstützt:
 
-| **POINT:** Ein einziger Punkt Beispiel: POINT(10 10)
-| **MULTIPOINT:** Eine Punktsammlung 
+|**POINT: Ein einziger Punkt**
+| Beispiel: POINT(10 10)
+
+| **MULTIPOINT: Eine Punktsammlung**
 | Beispiel: MULTIPOINT((0 0), (10 10), (1.3 9.5))
-| **LINESTRING:** Eine einzige Linie
+
+| **LINESTRING: Eine einzige Linie**
 | Beispiel: LINESTRING(10 10, 20 20, 10 40)
-| **MULTILINE:** Eine Liniensammlung
+
+| **MULTILINE: Eine Liniensammlung**
 | Beispiel: MULTILINE((10 10, 20 20, 10 40), (5.1 9.3, 3.6 -1.8), (0 0, 1 0, 1 1, 0 1))
-| **POLYGON:** Ein einziges Polygon
+
+| **POLYGON: Ein einziges Polygon**
 | Beispiel: POLYGON((0 0, 0 10, 10 10, 10 0, 0 0), (5 5, 5 7, 7 7, 7 5, 5 5))
-| **MULTIPOLYGON:** Eine Sammlung der Polygone
+
+| **MULTIPOLYGON: Eine Sammlung der Polygone**
 | Beisiel: MULTIPOLYGON(((0 0, 0 10, 10 10, 10 0, 0 0),(5 5, 5 7, 7 7, 7 5, 5 5)), (15 20, 25 30, 33 25, 15 20)))
-| **GEOMETRYCOLLECTION:** Eine Sammlung von o.g. Geometrien
+
+| **GEOMETRYCOLLECTION: Eine Sammlung von o.g. Geometrien**
 | Beispiel: GEOMETRYCOLLECTION(POINT(10 10), LINESTRING(10 10, 20 20, 10 40), POLYGON((0 0, 0 10, 10 10, 10 0, 0 0)))
 
 
