@@ -339,7 +339,7 @@ Geothesaurus-Raumbezug
 
 Geothesaurus oder auch Gazetteer (Ortsverzeichnis), hier soll ein Ort oder eine Region mit Koordinaten angegeben werden.
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_geothesaurus-navigator.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_geothesaurus-raumbezug_koordinaten.png
 
 Abb.: Tabelle Geothesaurus-Raumbezug
 
@@ -348,7 +348,7 @@ Geothesaurus-Navigator
 ^^^^^^^^^^^^^^^^^^^^^^
 Über den Geothesaurus-Navigator kann nach den Koordinaten einer räumlichen Einheit gesucht werden.
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_geothesaurus-raumbezug_koordinaten.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_geothesaurus-navigator.png
 
 Abb.: Geothesaurus-Navigator
 
