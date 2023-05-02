@@ -446,7 +446,7 @@ Berenzungspolygon als WKT
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_geothesaurus-raumbezug.png
    :width: 300
 
-Abb.: Geothesaurus-Navigator
+Abb.: Feld Berenzungspolygon als WKT
 
 Obwohl das ISO-Element Polygon heißt, können in diesem Feld auch andere Geometrietypen angegeben werden. Genauer gesagt, werden diese WKT-Klassen unterstützt:
 
