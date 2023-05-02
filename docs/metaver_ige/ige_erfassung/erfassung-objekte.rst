@@ -409,14 +409,15 @@ Amtlicher Regionalschlüssel (ARS)
 In den Objektklassen Geodatensatz und Geodatendienst kann ab der InGrid-Version 6.0.0 der Regionalschlüssel erfasst werden.
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_regionalschluessel.png
-
-    :width: 300
+   :width: 300
 
 Abb.: Feld Regionalschlüssel
 
+
+.. note::
+
 Der zwölfstellige `Amtliche Regionalschlüssels (ARS) <https://de.wikipedia.org/wiki/Amtlicher_Gemeindeschl%C3%BCssel#Regionalschl%C3%BCssel>`_ löst den `Amtlichen Gemeindeschlüssel (AGS) <https://de.wikipedia.org/wiki/Amtlicher_Gemeindeschl%C3%BCssel>`_ ab und erweitert ihn um einen Verbandsschlüssel.
 
-.. line-block::
 
 Der ARS ist wie folgt aufgebaut:
 
@@ -436,7 +437,7 @@ Werden nicht alle zwölf Stellen des ARS angegeben, sondern nur ein Prefix des A
 
 Eine Einschränkung auf konkrete Verwaltungsebenen ist durch das Auffüllen des ARS auf zwölf Stellen mit Nullen möglich.
 
-**Beispiel:** Der Schlüssel 081150000000 referenziert explizit nur den Kreis Böblingen, nicht jedoch beispielsweise die Stadt Leonberg (ARS: 081150028028), die im Kreis Böblingen liegt. Hierdurch ist bei FIT-Connect eine Suche nach Zustellpunkten möglich, die von der Kreisverwaltung Böblingen betrieben werden, ohne gleichzeitig auch Zustellpunkte der Stadt Leonberg zu ermitteln.
+**Beispiel:** Der Schlüssel 081150000000 referenziert explizit nur den Kreis Böblingen, nicht jedoch beispielsweise die Stadt Leonberg (ARS: 081150028028), die im Kreis Böblingen liegt.
 
 
 Berenzungspolygon als WKT
