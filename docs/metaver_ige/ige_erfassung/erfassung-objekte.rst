@@ -379,7 +379,7 @@ Abb.: Feld Umgerechnete Koordinaten
 
 `Auswahlliste Koordinatensysteme <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_raumbezug_koordinatensysteme.html>`_
 
-Umrechnung der unter Geothesaurus-Raumbezug ausgewählten Daten in die in der Auswahllist zur Verfügung stehenden Koordinatensysteme.
+Umrechnung, der unter Geothesaurus-Raumbezug ausgewählten Daten, in die in der Auswahllist zur Verfügung stehenden Koordinatensysteme.
 
 
 Freier Raumbezug
