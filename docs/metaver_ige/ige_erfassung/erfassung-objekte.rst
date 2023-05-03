@@ -370,9 +370,6 @@ Geben Sie in das Suchfeld den geografischen Begriff (oder einen Teil des Begriff
 
 Sollte der gewünschte geografische Begriff nicht vorhanden sein, besteht die Möglichkeit, diesen zusammen mit den Koordinaten manuell einzutragen. Wählen Sie unter der Tabelle "Freier Raumbezug" den Link "Raumbezug hinzufügen".
 
-.. hint:: Der Link "Raumbezug hinzufügen" ist nur sichtbar, wenn die optionalen Felder eingeblendet sind.
-
-
 Umgerechnete Koordinaten
 ''''''''''''''''''''''''
 
@@ -391,6 +388,8 @@ Freier Raumbezug
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-abschnitt_raumbezugssystem_freier-raumbezug.png
 
 Abb.: Tabelle Freier Raumbezug
+
+Beispiel: LSG Aland-Elbe-Niederung (BoundingBox) L1: 52.820884° B1: 11.600189° L2: 53.056760° B2: 12.058868°
 
 
 Informationen über die räumliche Zuordnung des in dem Objekt beschriebenen Datenbestand. Es können frei wählbare Raumbezugs-Koordinaten hinzugefügt werden. Der Wertebereich im WGS ist folgendermaßen definiert:
