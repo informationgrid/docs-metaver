@@ -451,14 +451,16 @@ Der ARS ist wie folgt aufgebaut:
 
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_regionalschluessel_ars.png
+   :width: 400
 
-Abb.: ARS-Tool Regionalschlüssel
+Abb.: ARS-Tool - Regionalschlüssel
 
 
 **Beispiel:** Mit der Angabe des zwölfstelligen ARS 081150045045 kann die Stadt Sindelfingen eindeutig adressiert werden:
 
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_regionalschluessel_ars-sindelfingen.png
+   :width: 400
 
 Abb.: ARS-Tool - ARS 081150045045 Stadt Sindelfingen
 
@@ -467,6 +469,7 @@ Werden nicht alle zwölf Stellen des ARS angegeben, sondern nur ein Prefix des A
 
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_regionalschluessel_ars-rb-stuttgart.png
+   :width: 400
 
 Abb.: ARS-Tool - ARS 081 Regierungsbezirk Stuttgart
 
