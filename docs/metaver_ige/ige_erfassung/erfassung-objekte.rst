@@ -433,7 +433,7 @@ In den Objektklassen Geodatensatz und Geodatendienst kann ab der InGrid-Version 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_regionalschluessel.png
    :width: 300
 
-Abb.: Feld Regionalschlüssel
+Abb.: Feld Regionalschlüssel - 150030000000 (Stadt Magdeburg)
 
 
 .. note:: Der zwölfstellige `Amtliche Regionalschlüssels (ARS) <https://de.wikipedia.org/wiki/Amtlicher_Gemeindeschl%C3%BCssel#Regionalschl%C3%BCssel>`_ löst den `Amtlichen Gemeindeschlüssel (AGS) <https://de.wikipedia.org/wiki/Amtlicher_Gemeindeschl%C3%BCssel>`_ ab und erweitert ihn um einen Verbandsschlüssel.
