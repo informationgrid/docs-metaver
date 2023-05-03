@@ -449,6 +449,12 @@ Der ARS ist wie folgt aufgebaut:
 
 .. tip:: Eine Suche nach Amtlichen Regionalschlüsseln ermöglicht das `ARS-Tool <https://opengovtech.de/ars/>`_ (externer Dienst).
 
+
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_regionalschluessel.png
+
+Abb.: ARS-Tool Regionalschlüssel
+
+
 **Beispiel:** Mit der Angabe des zwölfstelligen ARS 081150045045 kann die Stadt Sindelfingen eindeutig adressiert werden:
 
 Werden nicht alle zwölf Stellen des ARS angegeben, sondern nur ein Prefix des ARS, so können statt einer spezifischen Gemeinde auch darüberliegende Kreise, Regierungsbezirke oder Bundesländer abgebildet werden. Wird ein solcher Prefix eines ARS angegeben, schließt dieser alle sich darin befindlichen Gliederungen mit ein.
