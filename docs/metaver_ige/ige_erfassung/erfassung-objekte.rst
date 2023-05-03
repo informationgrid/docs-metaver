@@ -430,19 +430,21 @@ Amtlicher Regionalschlüssel (ARS)
 
 In den Objektklassen Geodatensatz und Geodatendienst kann ab der InGrid-Version 6.0.0 der Regionalschlüssel erfasst werden.
 
+.. note:: Der zwölfstellige `Amtliche Regionalschlüssels (ARS) <https://de.wikipedia.org/wiki/Amtlicher_Gemeindeschl%C3%BCssel#Regionalschl%C3%BCssel>`_ löst den `Amtlichen Gemeindeschlüssel (AGS) <https://de.wikipedia.org/wiki/Amtlicher_Gemeindeschl%C3%BCssel>`_ ab und erweitert ihn um einen Verbandsschlüssel.
+
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_regionalschluessel.png
    :width: 300
 
 Abb.: Feld Regionalschlüssel - 150030000000 (Stadt Magdeburg)
 
 
+.. tip:: Eine Suche nach Amtlichen Regionalschlüsseln ermöglicht das `ARS-Tool <https://opengovtech.de/ars/>`_ (externer Dienst).
+
+
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_regionalschluessel_ars-magdeburg.png
    :width: 400
 
 Abb.: Regionalschlüssel - Stadt Magdeburg
-
-
-.. note:: Der zwölfstellige `Amtliche Regionalschlüssels (ARS) <https://de.wikipedia.org/wiki/Amtlicher_Gemeindeschl%C3%BCssel#Regionalschl%C3%BCssel>`_ löst den `Amtlichen Gemeindeschlüssel (AGS) <https://de.wikipedia.org/wiki/Amtlicher_Gemeindeschl%C3%BCssel>`_ ab und erweitert ihn um einen Verbandsschlüssel.
 
 
 Der ARS ist wie folgt aufgebaut:
@@ -452,8 +454,6 @@ Der ARS ist wie folgt aufgebaut:
 | 4.–5. Stelle   = Kennzahl des Landkreises oder der kreisfreien Stadt
 | 6.–9. Stelle   = Verbandsschlüssel
 | 10.–12. Stelle = Gemeindekennzahl
-
-.. tip:: Eine Suche nach Amtlichen Regionalschlüsseln ermöglicht das `ARS-Tool <https://opengovtech.de/ars/>`_ (externer Dienst).
 
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_regionalschluessel_ars.png
