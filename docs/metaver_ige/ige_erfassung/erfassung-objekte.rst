@@ -444,7 +444,7 @@ Abb.: Feld Regionalschlüssel - 150030000000 (Stadt Magdeburg)
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_regionalschluessel_ars-magdeburg.png
    :width: 400
 
-Abb.: Regionalschlüssel - Stadt Magdeburg
+Abb.: ARS-Tool - Regionalschlüssel - Stadt Magdeburg
 
 
 Der ARS ist wie folgt aufgebaut:
@@ -454,12 +454,6 @@ Der ARS ist wie folgt aufgebaut:
 | 4.–5. Stelle   = Kennzahl des Landkreises oder der kreisfreien Stadt
 | 6.–9. Stelle   = Verbandsschlüssel
 | 10.–12. Stelle = Gemeindekennzahl
-
-
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_regionalschluessel_ars.png
-   :width: 400
-
-Abb.: ARS-Tool - Regionalschlüssel
 
 
 **Beispiel:** Mit der Angabe des zwölfstelligen ARS 081150045045 kann die Stadt Sindelfingen eindeutig adressiert werden:
