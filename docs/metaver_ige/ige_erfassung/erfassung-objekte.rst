@@ -380,10 +380,7 @@ Umgerechnete Koordinaten
 
 Abb.: Feld Umgerechnete Koordinaten
 
-
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-abschnitt_raumbezugssystem_liste-koordinatensysteme.png
-
-Abb.: Liste der Koordinatensysteme
+`Auswahlliste Koordinatensysteme <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_raumbezug_koordinatensysteme.html>`_
 
 Umrechnung der unter Geothesaurus-Raumbezug ausgewählten Daten in die in der Auswahllist zur Verfügung stehenden Koordinatensysteme.
 
@@ -409,6 +406,7 @@ Raumbezug hinzufügen
 
 Abb.: Dialogfenster Raumbezug hinzufügen
 
+`Auswahlliste Koordinatensysteme <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_raumbezug_koordinatensysteme.html>`_
 
 In dem sich öffnenden Dialog können Sie einen freien Raumbezug in dem Koordinatensystem angeben, welches Sie (im Dialogfester unten) ausgewählt haben. 
 
