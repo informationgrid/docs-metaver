@@ -392,7 +392,9 @@ Abb.: Tabelle Freier Raumbezug
 Beispiel: LSG Aland-Elbe-Niederung (BoundingBox) L1: 52.820884° B1: 11.600189° L2: 53.056760° B2: 12.058868°
 
 
-Informationen über die räumliche Zuordnung des in dem Objekt beschriebenen Datenbestand. Es können frei wählbare Raumbezugs-Koordinaten hinzugefügt werden. Der Wertebereich im WGS ist folgendermaßen definiert:
+Informationen über die räumliche Zuordnung des im Objekt beschriebenen Datenbestandes. Es können frei wählbare Raumbezugs-Koordinaten hinzugefügt werden.
+
+Der Wertebereich im WGS ist folgendermaßen definiert:
 
 - Breite (Latitude): -90 bis 90
 - Länge (Longitude): -180 bis 180
