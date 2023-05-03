@@ -389,7 +389,7 @@ Freier Raumbezug
 
 Abb.: Tabelle Freier Raumbezug
 
-| Beispiel: 
+| Beispiel: Landschaftsschutzgebiet
 | LSG Aland-Elbe-Niederung (BoundingBox) 
 | L1: 52.820884° B1: 11.600189° L2: 53.056760° B2: 12.058868°
 
