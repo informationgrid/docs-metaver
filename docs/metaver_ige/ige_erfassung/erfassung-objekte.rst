@@ -396,7 +396,7 @@ Abb.: Tabelle Freier Raumbezug
 
 Informationen über die räumliche Zuordnung des im Objekt beschriebenen Datenbestandes. Es können frei wählbare Raumbezugs-Koordinaten hinzugefügt werden.
 
-Der Wertebereich im WGS ist folgendermaßen definiert:
+Der Wertebereich im WGS (World Geodetic System) ist folgendermaßen definiert:
 
 | Breite (Latitude): -90 bis 90
 | Länge (Longitude): -180 bis 180
