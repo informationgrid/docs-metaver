@@ -394,6 +394,9 @@ Abb.: Tabelle Freier Raumbezug
 | L1: 52.820884° B1: 11.600189° L2: 53.056760° B2: 12.058868°
 
 
+.. hint:: Die Eingabe der Werte muss mit Komma erfolgen, sonst erscheint eine Fehlermeldung.
+
+
 Informationen über die räumliche Zuordnung des im Objekt beschriebenen Datenbestandes. Es können frei wählbare Raumbezugs-Koordinaten hinzugefügt werden.
 
 Der Wertebereich im WGS (World Geodetic System) ist folgendermaßen definiert:
