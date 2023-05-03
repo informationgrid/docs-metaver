@@ -450,7 +450,7 @@ Der ARS ist wie folgt aufgebaut:
 .. tip:: Eine Suche nach Amtlichen Regionalschlüsseln ermöglicht das `ARS-Tool <https://opengovtech.de/ars/>`_ (externer Dienst).
 
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_regionalschluessel.png
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_regionalschluessel-ars.png
 
 Abb.: ARS-Tool Regionalschlüssel
 
