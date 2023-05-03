@@ -457,7 +457,19 @@ Abb.: ARS-Tool Regionalschlüssel
 
 **Beispiel:** Mit der Angabe des zwölfstelligen ARS 081150045045 kann die Stadt Sindelfingen eindeutig adressiert werden:
 
+
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_regionalschluessel_ars-sindelfingen.png
+
+Abb.: ARS-Tool - ARS 081150045045 Stadt Sindelfingen
+
+
 Werden nicht alle zwölf Stellen des ARS angegeben, sondern nur ein Prefix des ARS, so können statt einer spezifischen Gemeinde auch darüberliegende Kreise, Regierungsbezirke oder Bundesländer abgebildet werden. Wird ein solcher Prefix eines ARS angegeben, schließt dieser alle sich darin befindlichen Gliederungen mit ein.
+
+
+.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_regionalschluessel_ars-rb-stuttgart.png
+
+Abb.: ARS-Tool - ARS 081 Regierungsbezirk Stuttgart
+
 
 **Beispiel:** Der ARS 081 steht für den Regierungsbezirk Stuttgart und schließt den darunterliegenden Stadtkreis Stuttgart (08111) sowie weitere Landkreise, Städte und Gemeinden, wie z.B. die Stadt Böblingen (ARS: 081150003003), im Regierungsbezirk mit ein.
 
