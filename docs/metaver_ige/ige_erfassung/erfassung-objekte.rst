@@ -536,6 +536,7 @@ Höhe
 ^^^^
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_hoehe.png
+   :width: 500
 
 Abb.: Feld Höhe
 
