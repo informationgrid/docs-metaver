@@ -447,7 +447,7 @@ Der ARS ist wie folgt aufgebaut:
 | 6.–9. Stelle   = Verbandsschlüssel
 | 10.–12. Stelle = Gemeindekennzahl
 
-.. hint:: Eine Suche nach Amtlichen Regionalschlüsseln ermöglicht das `ARS-Tool <https://opengovtech.de/ars/>`_ (externer Dienst).
+.. tip:: Eine Suche nach Amtlichen Regionalschlüsseln ermöglicht das `ARS-Tool <https://opengovtech.de/ars/>`_ (externer Dienst).
 
 **Beispiel:** Mit der Angabe des zwölfstelligen ARS 081150045045 kann die Stadt Sindelfingen eindeutig adressiert werden:
 
