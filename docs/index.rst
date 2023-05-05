@@ -12,7 +12,7 @@ Bedienungsanleitung InGrid Editor (IGE)
 
 Version der Bedienungsanleitung
    - InGrid-Version: 5.14.2
-   - letzte Änderung: 02.05.2023
+   - letzte Änderung: 05.05.2023
    - Status: in Bearbeitung
 
 .. image:: img_ige/metaver_portal/ige_dashboard.png
