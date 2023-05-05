@@ -591,6 +591,21 @@ Abschnitt Zeitbezug
 Zeitbezug der Ressource
 ^^^^^^^^^^^^^^^^^^^^^^^
 
+Mit Ressource ist das eigentliche Objekt gemeint, welches mit Metadaten beschrieben wird.
+
+Mit "Zeitbezug der Ressource" sind die Datumsangaben gemeint, die sich auf das beschriebene Objekt beziehen.
+
+Den Recherchierenden soll mit diesen Angaben die Aktualität der beschriebenen Daten mitgeteilt werden.
+
+.. Beispiele: 
+
+.. |**Geodatensatz / Geodatendienst:** Erstellung, Publikation, Änderung der beschriebenen Geodaten
+.. |**Anwendung:** Installation, Publikation (Zugänglichkeit), Änderung (Versionen)
+.. |**Datenbank:** Erstellung, Publikation, Änderung der Datenbank
+.. |**Literatur (digital/analog):** Erstellung des Dokumentes, Publikation, Änderung der Literatur
+.. |**Projekt- (beschreibung):** Beginn, Publikation, Änderung
+
+
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-zeitbezug_der-ressource.png
    :width: 300
 
@@ -616,6 +631,13 @@ Beispiel: Die Messungen erfolgten nur am Tag.
 Durch die Ressource abgedeckte Zeitspanne
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Mit Ressource ist das eigentliche Objekt gemeint, welches mit Metadaten beschrieben wird.
+
+Mit "Durch die Ressource abgedeckte Zeitspanne" sind die Datumsangaben (Zeiträume) gemeint, die sich auf das beschriebene Objekt beziehen.
+
+Den Recherchierenden soll mit diesen Angaben der Zeitraum für eine Datenerhebung / einer Datenerfassung, einer Projektlaufzeit mitgeteilt werden.
+
+
 Zeitbezug des Dateninhalts
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-zeitbezug_zeitspanne.png
@@ -623,7 +645,7 @@ Zeitbezug des Dateninhalts
 
 Abb.: Angabe von Zeitpunkten, Zeiträumen / Zeitspannen
 
-Hier soll die Zeitspanne oder der Zeitpunkt der Erhebung der eigentlichen Daten eingetragen werden. Ein Zeitpunkt wird mit "am" im Auswahlmenü angegeben. Die Zeitspanne kann auf unterschiedliche Weise ausgedrückt werden.
+Es soll die Zeitspanne oder der Zeitpunkt der Erhebung der eigentlichen Daten eingetragen werden. Ein Zeitpunkt wird mit "am" im Auswahlmenü angegeben. Die Zeitspanne kann auf unterschiedliche Weise ausgedrückt werden.
 
 Beispiele: Zeitraum einer Erhebung von Messdaten, Entwicklungszeitraum einer Anwendung, Laufzeit eines Projektes, Laufzeit einer Studie, Zeitraum für die Erstellung einer Basiskarte, Zeitraum einer Befliegung
 
