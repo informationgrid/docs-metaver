@@ -597,15 +597,6 @@ Mit "Zeitbezug der Ressource" sind die Datumsangaben gemeint, die sich auf das b
 
 Den Recherchierenden soll mit diesen Angaben die Aktualität der beschriebenen Daten mitgeteilt werden.
 
-.. Beispiele: 
-
-.. |**Geodatensatz / Geodatendienst:** Erstellung, Publikation, Änderung der beschriebenen Geodaten
-.. |**Anwendung:** Installation, Publikation (Zugänglichkeit), Änderung (Versionen)
-.. |**Datenbank:** Erstellung, Publikation, Änderung der Datenbank
-.. |**Literatur (digital/analog):** Erstellung des Dokumentes, Publikation, Änderung der Literatur
-.. |**Projekt- (beschreibung):** Beginn, Publikation, Änderung
-
-
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-zeitbezug_der-ressource.png
    :width: 300
 
