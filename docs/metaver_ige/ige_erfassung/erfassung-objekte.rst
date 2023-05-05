@@ -611,8 +611,6 @@ Den Recherchierenden soll mit diesen Angaben die Aktualität der beschriebenen D
 
 Abb.: Tabelle Zeitbezug der Ressource
 
-In dieser Tabelle wird dokumentiert, wann die beschriebenen Daten erfasst, veröffentlicht oder geändert wurden.
-
 
 Erläuterungen
 ^^^^^^^^^^^^^
