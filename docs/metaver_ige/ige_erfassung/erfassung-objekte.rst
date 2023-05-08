@@ -453,7 +453,7 @@ Der ARS ist wie folgt aufgebaut:
 | 3. Stelle      = Kennzahl des Regierungsbezirks; wenn nicht vorhanden: 0
 | 4.–5. Stelle   = Kennzahl des Landkreises oder der kreisfreien Stadt
 | 6.–9. Stelle   = Verbandsschlüssel
-| 10.–12. Stelle = Gemeindekennzahl
+| 10.–12. Stelle = Gemeindekennzahl1
 
 
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_regionalschluessel_ars.png
