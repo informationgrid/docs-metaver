@@ -1,8 +1,8 @@
 
-.. meta::
-   :description: Der InGrid-OS Metadateneditor
-   :keywords: Metadaten, Editor, Geodatensätze, Geodatendienste, Webdienste, Anwendungen, Informationssysteme, Datenbanken, Datensammlungen, Dokumente, Literatur, Projekte, Fachinformationen, Umweltdaten, Geodaten, Erfassung, Beschreibung, Dokumentation
-   :keywords lang=de: Geodatensatz, Geodatendienst, Webdienst, Anwendung, Informationssystem, Datenbank, Datensammlung, Dokument, Literatur, Projekt, Fachinformation
+  .. meta::
+     :description: Der InGrid-OS Metadateneditor
+     :keywords: Metadaten, Editor, Geodatensätze, Geodatendienste, Webdienste, Anwendungen, Informationssysteme, Datenbanken, Datensammlungen, Dokumente, Literatur, Projekte, Fachinformationen, Umweltdaten, Geodaten, Erfassung, Beschreibung, Dokumentation
+     :keywords lang=de: Geodatensatz, Geodatendienst, Webdienst, Anwendung, Informationssystem, Datenbank, Datensammlung, Dokument, Literatur, Projekt, Fachinformation
 
 
 .. figure:: img_ige/metaver_portal/logo-metaver.png
