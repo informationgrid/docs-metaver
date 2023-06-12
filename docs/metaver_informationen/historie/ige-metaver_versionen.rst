@@ -15,17 +15,15 @@ Installierte InGrid-Version auf metaver.de
 
 Installierte InGrid-Version auf test.metaver.de
    - InGrid-Version: 6.1.1
-   - Update wurde installiert am: 19.04.2023
+   - Update wurde installiert am: 10.05.2023
    - Datenbestand vom: 04.10.2022
 
 
 InGrid-Version von Entwicklern für die Installation breitgestellt
-   - InGrid Portal-Version: 6.1.0
-   - InGrid Editor-Version: 6.1.0
+   - InGrid Portal-Version: 6.1.1
+   - InGrid Editor-Version: 6.1.1
    - Release: 
 
-Update auf METAVER-Livesystem Version 6.1.0 : Mai 2023
- 
 
 
 **Änderungen in den InGrid Versionen (IGE Classic)**
