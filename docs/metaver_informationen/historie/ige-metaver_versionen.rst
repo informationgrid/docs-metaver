@@ -43,6 +43,7 @@ Version 6.0.0, Release 13.01.2023
 Liste der Änderungen
 
    - IGE: AdV-Checkbox nur in Objektarten Geodatendienst, Geodatensatz und Anwendung sichtbar machen
+   - IGE: Anpassung der Liste "AdV-Produktgruppe"
    - IGE: Hilfetext zum Feld "Durch die Ressource abgedeckte Zeitspanne" anpassen
    - IGE: Regionalschlüssel erfassen - Minimallösung
    - PORTAL: Portalanzeige Koordinatensysteme
