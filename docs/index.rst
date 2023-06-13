@@ -62,7 +62,7 @@ Version der Bedienungsanleitung
    :maxdepth: 3
    :caption: Administration
    
-   ige-ng/administration/benutzerverwaltungbenutzerverwaltung/benutzerverwaltung.rst
+   ige-ng/administration/benutzerverwaltung/benutzerverwaltung.rst
 
 
 .. toctree::
