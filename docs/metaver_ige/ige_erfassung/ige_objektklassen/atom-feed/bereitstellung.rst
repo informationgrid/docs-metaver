@@ -105,7 +105,7 @@ Weiterhin erscheint eine Information.
 
 Abb: Information
 
-.. hint:: In der Information wird darauf hingewiesen, dass bei ATOM-Downloaddiensten die im ATOM-Feed Client angezeigt werden sollen, muss darauf geachtet werden, dass in der Objektklasse Geodatensatz (unter "Verweise") eine Download-URL angelegt wurde.
+.. hint:: Für ATOM-Downloaddienste, die im ATOM-Feed Client erscheinen sollen, muss in der Objektklasse Geodatensatz (unter "Verweise") eine Download-URL angelegt werden.
 
 
 Operationen
