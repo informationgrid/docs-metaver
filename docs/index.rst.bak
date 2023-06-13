@@ -37,18 +37,18 @@ Version der Bedienungsanleitung
    :caption: Der Editor
    
    metaver_ige-ng/ige_ingrideditor/ige_ingrideditor.rst
-   metaver_ige-ng/ige_ingrideditor/ige_funktionen.rst
-   metaver_ige-ng/ige_atom-feed-client/ige_atom-feed-client.rst
+   metaver_ige/ige_ingrideditor/ige_funktionen.rst
+   metaver_ige/ige_atom-feed-client/ige_atom-feed-client.rst
 
 
 .. toctree::
    :maxdepth: 4
    :caption: Erfassung von Metadaten
 
-   metaver_ige-ng/ige_erfassung/erfassung-allgemeines.rst
-   metaver_ige-ng/ige_erfassung/erfassung-adressen.rst
-   metaver_ige-ng/ige_erfassung/erfassung-objekte.rst
-   metaver_ige-ng/ige_erfassung/ige_objektklassen/objektklassen.rst
+   metaver_ige/ige_erfassung/erfassung-allgemeines.rst
+   metaver_ige/ige_erfassung/erfassung-adressen.rst
+   metaver_ige/ige_erfassung/erfassung-objekte.rst
+   metaver_ige/ige_erfassung/ige_objektklassen/objektklassen.rst
 
 
 .. toctree::
@@ -62,7 +62,7 @@ Version der Bedienungsanleitung
    :maxdepth: 2
    :caption: Administration
 
-   metaver_ige-ng/administration/benutzerverwaltung/ige-benutzerverwaltung.rst
+   metaver_ige/administration/benutzerverwaltung/ige-benutzerverwaltung.rst
 
 
 .. toctree::
