@@ -57,8 +57,17 @@ Abb: Seite Anmeldung - Benutzernamen und Passwort eingeben
 Der InGrid Editor im Ausgangszustand
 ------------------------------------
 
-Nach dem Laden des Editors wird zuerst das Dashboard gezeigt. Hier wird dargestellt, welche Objekte bzw. Adressen zuletzt bearbeitet wurden und wann das geschehen ist.
-Es gibt zwei Darstellungen: die Objekte/Adressen, für die der User selbst verantwortlich ist ("Meine Datensätze"), sowie eine Übersicht über alle Objekte/Adressen des Katalogs ("Alle Datensätze").
+Nach dem Laden des Editors wird zuerst die Übersicht gezeigt. Hier wird dargestellt, welche Objekte bzw. Adressen zuletzt bearbeitet wurden und wann das geschehen ist.
+
+
+.. image:: ../../img_ige/metaver_registrierung-anmeldung/ige_dashboard.png
+
+Abb.: Home-Seite - Übersicht
+
+
+Zuletzt bearbeitet im Katalog - Es weden alle Metadaten angezeigt die zuletzt durch Bearbeiter geändert wurden.
+
+Zuletzt veröffentlicht im Katalog - Es weden alle Metadaten angezeigt die zuletzt durch Bearbeiter veröffentlicht wurden.
 
 
 
