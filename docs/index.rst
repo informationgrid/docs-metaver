@@ -4,7 +4,7 @@
   :keywords lang=de: Geodatensatz, Geodatendienst, Webdienst, Anwendung, Informationssystem, Datenbank, Datensammlung, Dokument, Literatur, Projekt, Fachinformation
 
 
-.. figure:: img/portal/logo-metaver.png
+.. figure:: img/logos/logo-metaver.png
    :align: left
    :scale: 30
    :figwidth: 100 %
