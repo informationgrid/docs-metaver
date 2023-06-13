@@ -9,7 +9,7 @@ Version der Bedienungsanleitung
 
 
 Installierte IGE-NG-Testversion AP5
-- InGrid-Version: 1.3.1-193, 12.06.2023, 12:00
+- InGrid-Version: 1.3.1-193
 
 auf metaver.de
    - InGrid-Version: 6.1.1
