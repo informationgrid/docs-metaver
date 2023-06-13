@@ -3,12 +3,15 @@ InGrid Versionen
 ====================
 
 Version der Bedienungsanleitung
-   - InGrid-Version: 6.0.1
-   - letzte Änderung: 12.06.2023
+   - InGrid-Version: 1.3.1-193, 12.06.2023, 12:00
+   - letzte Änderung: 13.06.2023
    - Status: in Bearbeitung
- 
- 
-Installierte InGrid-Version auf metaver.de
+
+
+Installierte IGE-NG-Testversion AP5
+- InGrid-Version: 1.3.1-193, 12.06.2023, 12:00
+
+auf metaver.de
    - InGrid-Version: 6.1.1
    - Update wurde installiert am: 10.05.2023
 
@@ -30,6 +33,10 @@ InGrid-Version von Entwicklern für die Installation breitgestellt
 
 (Ausfühliche Informationen auf GitHub: https://www.ingrid-oss.eu/latest/about/history.html)
 
+
+Version IGE-NG: 1.3.1-193, 12.06.2023, 12:00
+
+--------------------------------------------------------------------------------------------------------------
 
 Version 6.0.1.1, Release 02.03.2023
 
