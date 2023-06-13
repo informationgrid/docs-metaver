@@ -52,46 +52,14 @@ Wenn Sie eine Benutzerkennung haben und als InGrid Editor-Nutzer angelegt wurden
 
 Abb: Seite Anmeldung - Benutzernamen und Passwort eingeben
 
-Im Unterschied zu einem unangemeldeten Nutzer bzw. einem Nutzer ohne Zugang zum InGrid Editor, sehen Sie jetzt im Menü den Punkt "METADATEN". Diese Auswahl ist immer nur dann sichtbar, wenn die entsprechenden Zugriffsrechte vorliegen. Hierüber erfolgt der Einstieg zum InGrid Editor.
-
-.. image:: ../../img_ige/metaver_registrierung-anmeldung/metaver_menue.png
-   :width: 400
-   
-Abb.: Im Menü den Punkt METADATEN wählen
-
-Durch einen Klick auf den Menüpunkt "METADATEN" und anschließend auf den Button "Login IGE" kommen Sie in die Metadaten-Erfassungskomponente den InGrid Editor. Der InGrid Editor öffnet sich in einer neueren Registerkarte Ihres Browsers.
-
-.. image:: ../../img_ige/metaver_registrierung-anmeldung/metaver_log-in_erfassungskomponente.png
-
-Abb.: Den Button "LOGIN IGE" betätigen
 
 
 Der InGrid Editor im Ausgangszustand
 ------------------------------------
 
 Nach dem Laden des Editors wird zuerst das Dashboard gezeigt. Hier wird dargestellt, welche Objekte bzw. Adressen zuletzt bearbeitet wurden und wann das geschehen ist.
-Es gibt zwei Darstellungen: die Objekte/Adressen, für die der User selbst verantwortlich ist ("Meine Datensätze"), sowie eine Übersicht über alle Objekte/Adressen des Katalogs ("Alle Datensätze"). 
+Es gibt zwei Darstellungen: die Objekte/Adressen, für die der User selbst verantwortlich ist ("Meine Datensätze"), sowie eine Übersicht über alle Objekte/Adressen des Katalogs ("Alle Datensätze").
 
-Im Bereich "Meine Datensätze" gibt es drei Tabellen: 
-
-1.	Objekte in Bearbeitung
-Alle Objekte des Benutzers, die in Bearbeitung sind (Zwischenspeicherung). Also Objekte, die nach dem Neuanlegen noch nicht abschließend gespeichert wurden bzw. Objekte, die schon veröffentlicht waren, aber geändert wurden und deren Änderungen bislang noch nicht wieder abschließend gespeichert wurden. 
-
-2.	Veröffentlichte Objekte 
-Alle Objekte des Benutzers, die bereits veröffentlicht sind. 
-
-3.	Adressen in Bearbeitung
-Alle Adressen des Benutzers, die in Bearbeitung sind (Zwischenspeicherung). Also Adressen, die nach dem Neuanlegen noch nicht abschließend gespeichert wurden bzw. Adressen, die schon veröffentlicht waren, aber geändert wurden und deren Änderungen bislang noch nicht wieder abschließend gespeichert wurden. 
-
-.. image:: ../../img_ige/metaver_registrierung-anmeldung/ige_dashboard.png
-
-Abb.: Home-Seite - Dashboard - Meine Datensätze
-
-Im Bereich "Alle Datensätze" gibt es nur die Tabellen, in denen die Objekte und Adressen dargestellt werden, die sich in Bearbeitung befinden. Die eigenen angezeigten Objekte bzw. Adressen sind mit Links hinterlegt, sodass diese direkt zur Ansicht/Bearbeitung geöffnet werden können. Alle anderen Objekte sind grau.
-
-.. image:: ../../img_ige/metaver_registrierung-anmeldung/ige_dashboard_alle-datensaetze.png
-
-Abb.: Home-Seite - Dashboard - Alle Datensätze
 
 
 Passwort vergessen
