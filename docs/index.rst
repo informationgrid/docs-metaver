@@ -1,6 +1,6 @@
 .. meta::
-  :description: Der InGrid-OS Metadateneditor
-  :keywords: Metadaten, Editor, Geodatensätze, Geodatendienste, Webdienste, Anwendungen, Informationssysteme, Datenbanken, Datensammlungen, Dokumente, Literatur, Projekte, Fachinformationen, Umweltdaten, Geodaten, Erfassung, Beschreibung, Dokumentation
+  :description: Der InGrid-OS Metadateneditor IGE-NG
+  :keywords: Metadaten, Editor, Geodatensätze, Geodatendienste, Webdienste, Anwendungen, Informationssysteme, Datenbanken, Datensammlungen, Dokumente, Literatur, Projekte, Fachinformationen, Umweltdaten, Geodaten, Erfassung, Beschreibung, Dokumentation, IGE-NG, InGrid Editor - Neue Generation
   :keywords lang=de: Geodatensatz, Geodatendienst, Webdienst, Anwendung, Informationssystem, Datenbank, Datensammlung, Dokument, Literatur, Projekt, Fachinformation
 
 
@@ -11,12 +11,12 @@
    
 
 
-Bedienungsanleitung InGrid Editor (IGE)
-=======================================
+Bedienungsanleitung InGrid Editor - Neue Generation (IGE-NG)
+============================================================
 
 Version der Bedienungsanleitung
    - InGrid-Version: 6.0.1
-   - letzte Änderung: 12.06.2023 15:05
+   - letzte Änderung: 13.06.2023 11:20
    - Status: abgeschlossen
 
 .. image:: img_ige/metaver_portal/ige_dashboard.png
