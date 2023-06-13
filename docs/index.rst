@@ -15,9 +15,9 @@ Bedienungsanleitung InGrid Editor - Neue Generation (IGE-NG)
 ============================================================
 
 Version der Bedienungsanleitung
-   - InGrid-Version: 6.0.1
+   - InGrid-Version: 1.3.1-193, 12.06.2023, 12:00 
    - letzte Änderung: 13.06.2023 11:20
-   - Status: abgeschlossen
+   - Status: in Bearbeitung
 
 .. image:: img_ige/metaver_portal/ige_dashboard.png
 
