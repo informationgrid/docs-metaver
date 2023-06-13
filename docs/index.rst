@@ -4,7 +4,7 @@
   :keywords lang=de: Geodatensatz, Geodatendienst, Webdienst, Anwendung, Informationssystem, Datenbank, Datensammlung, Dokument, Literatur, Projekt, Fachinformation
 
 
-.. figure:: img_ige-ng/metaver_portal/logo-metaver.png
+.. figure:: img/portal/logo-metaver.png
    :align: left
    :scale: 30
    :figwidth: 100 %
@@ -22,51 +22,51 @@ Version der Bedienungsanleitung
    - letzte Änderung: 13.06.2023 11:20
    - Status: in Bearbeitung
 
-.. image:: img_ige-mg/metaver_portal/ige_dashboard.png
+.. image:: img/portal/dashboard.png
 
 .. toctree::
    :maxdepth: 2
    :caption: Portal
 
-   metaver_portal/metaver_registrierung-anmeldung/metaver_registrierung-anmeldung.rst
-   metaver_portal/metaver_startseite/metaver_feld-ankuendigungen.rst
-   metaver_portal/metaver_kartenclient/metaver_verfuegbare-kartendienste.rst
+   portal/metaver_registrierung-anmeldung/metaver_registrierung-anmeldung.rst
+   portal/metaver_startseite/metaver_feld-ankuendigungen.rst
+   portal/metaver_kartenclient/metaver_verfuegbare-kartendienste.rst
 
 .. toctree::
    :maxdepth: 3
    :caption: Der Editor
    
-   metaver_ige-ng/ige_ingrideditor/ige_ingrideditor.rst
-   metaver_ige-ng/ige_ingrideditor/ige_funktionen.rst
-   metaver_ige-ng/ige_atom-feed-client/ige_atom-feed-client.rst
+   ige-ng/editor/ingrideditor.rst
+   ige-ng/editor/funktionen.rst
+   ige-ng/atom-feed-client/atom-feed-client.rst
 
 
 .. toctree::
    :maxdepth: 4
    :caption: Erfassung von Metadaten
 
-   metaver_ige-ng/ige_erfassung/erfassung-allgemeines.rst
-   metaver_ige-ng/ige_erfassung/erfassung-adressen.rst
-   metaver_ige-ng/ige_erfassung/erfassung-objekte.rst
-   metaver_ige-ng/ige_erfassung/ige_objektklassen/objektklassen.rst
+   ige-ng/erfassung/erfassung-allgemeines.rst
+   ige-ng/erfassung/erfassung-adressen.rst
+   ige-ng/erfassung/erfassung-objekte.rst
+   ige-ng/erfassung/objektklassen/objektklassen.rst
 
 
 .. toctree::
    :maxdepth: 3
    :caption: Fragen und Antworten
    
-   metaver_informationen/kontakt/metaver_kontakt.rst
+   informationen/kontakt/metaver_kontakt.rst
 
 
 .. toctree::
    :maxdepth: 3
    :caption: Administration
    
-   benutzerverwaltung/ige-ng_benutzerverwaltung.rst
+   ige-ng/administration/benutzerverwaltungbenutzerverwaltung/benutzerverwaltung.rst
 
 
 .. toctree::
    :maxdepth: 2
    :caption: Historie (Software)
    
-   metaver_informationen/historie/ige-metaver_versionen.rst
+   informationen/historie/versionen.rst
