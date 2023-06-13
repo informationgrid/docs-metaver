@@ -4,7 +4,7 @@
   :keywords lang=de: Geodatensatz, Geodatendienst, Webdienst, Anwendung, Informationssystem, Datenbank, Datensammlung, Dokument, Literatur, Projekt, Fachinformation
 
 
-.. figure:: img_ige/metaver_portal/logo-metaver.png
+.. figure:: img_ige-ng/metaver_portal/logo-metaver.png
    :align: left
    :scale: 30
    :figwidth: 100 %
@@ -22,7 +22,7 @@ Version der Bedienungsanleitung
    - letzte Änderung: 13.06.2023 11:20
    - Status: in Bearbeitung
 
-.. image:: img_ige/metaver_portal/ige_dashboard.png
+.. image:: img_ige-mg/metaver_portal/ige_dashboard.png
 
 .. toctree::
    :maxdepth: 2
@@ -59,10 +59,10 @@ Version der Bedienungsanleitung
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Administration
-
-   metaver_ige-ng/administration/benutzerverwaltung/ige-benutzerverwaltung.rst
+   
+   benutzerverwaltung/ige-ng_benutzerverwaltung.rst
 
 
 .. toctree::
