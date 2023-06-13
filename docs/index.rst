@@ -22,15 +22,15 @@ Version der Bedienungsanleitung
    - letzte Änderung: 13.06.2023 11:20
    - Status: in Bearbeitung
 
-.. image:: img/portal/dashboard.png
+.. image:: img/portal/uebersicht.png
 
 .. toctree::
    :maxdepth: 2
    :caption: Portal
 
-   portal/metaver_registrierung-anmeldung/metaver_registrierung-anmeldung.rst
-   portal/metaver_startseite/metaver_feld-ankuendigungen.rst
-   portal/metaver_kartenclient/metaver_verfuegbare-kartendienste.rst
+   portal/registrierung-anmeldung/registrierung-anmeldung.rst
+   portal/startseite/feld-ankuendigungen.rst
+   portal/kartenclient/verfuegbare-kartendienste.rst
 
 .. toctree::
    :maxdepth: 3
@@ -55,7 +55,7 @@ Version der Bedienungsanleitung
    :maxdepth: 3
    :caption: Fragen und Antworten
    
-   informationen/kontakt/metaver_kontakt.rst
+   informationen/kontakt/kontakt.rst
 
 
 .. toctree::
