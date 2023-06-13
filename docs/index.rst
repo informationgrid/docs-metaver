@@ -36,19 +36,19 @@ Version der Bedienungsanleitung
    :maxdepth: 3
    :caption: Der Editor
    
-   ige-ng/editor/ingrideditor.rst
-   ige-ng/editor/funktionen.rst
-   ige-ng/atom-feed-client/atom-feed-client.rst
+   ingrid-editor/editor/ingrideditor.rst
+   ingrid-editor/editor/funktionen.rst
+   ingrid-editor/atom-feed-client/atom-feed-client.rst
 
 
 .. toctree::
    :maxdepth: 4
    :caption: Erfassung von Metadaten
 
-   ige-ng/erfassung/erfassung-allgemeines.rst
-   ige-ng/erfassung/erfassung-adressen.rst
-   ige-ng/erfassung/erfassung-objekte.rst
-   ige-ng/erfassung/objektklassen/objektklassen.rst
+   ingrid-editor/erfassung/erfassung-allgemeines.rst
+   ingrid-editor/erfassung/erfassung-adressen.rst
+   ingrid-editor/erfassung/erfassung-objekte.rst
+   ingrid-editor/erfassung/objektklassen/objektklassen.rst
 
 
 .. toctree::
@@ -62,7 +62,7 @@ Version der Bedienungsanleitung
    :maxdepth: 3
    :caption: Administration
    
-   ige-ng/administration/benutzerverwaltung/benutzerverwaltung.rst
+   ingrid-editor/administration/benutzerverwaltung/benutzerverwaltung.rst
 
 
 .. toctree::
