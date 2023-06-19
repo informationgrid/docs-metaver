@@ -77,9 +77,9 @@ Neben Objekttypen bzw. dem Adresstyp zeigen die Icons zusätzlich den jeweiligen
     :widths: 50 150 300
 
     Symbol , Farbe , Beschreibung
-    .. image:: ../../img/ige/allgemein/ige-ng_icon_gespeichert.png , orange , Das Vorhaben bzw. die Adresse wurde angelegt und gespeichert und befinden sich in Bearbeitung.
-	.. image:: ../../img/ige/allgemein/ige-ng_icon_veroeffentlicht.png, schwarz , Das Vorhaben bzw. die Adresse wurde veröffentlicht
-    .. image:: ../../img/ige/allgemein/ige-ng_icon_in-bearbeitung.png , orange und schwarz , Es handelt sich um eine veröffentlichte Version des Vorhabens bzw. der Adresse - der Datensatz wurde bearbeitet aber noch nicht erneut veröffentlicht.
+    .. image:: ../../img/ige/allgemein/ige-ng_icon_gespeichert.png , orange , Der Metadatensatz bzw. die Adresse wurde angelegt und gespeichert und befinden sich in Bearbeitung.
+	.. image:: ../../img/ige/allgemein/ige-ng_icon_veroeffentlicht.png, schwarz , Der Metadatensatz bzw. die Adresse wurde veröffentlicht
+    .. image:: ../../img/ige/allgemein/ige-ng_icon_in-bearbeitung.png , orange und schwarz , Es handelt sich um eine veröffentlichte Version des Metadatensatzes bzw. der Adresse - der Metadatensatz wurde bearbeitet aber noch nicht erneut veröffentlicht.
 
 
 Menü
