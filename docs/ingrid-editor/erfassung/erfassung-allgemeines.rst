@@ -10,7 +10,7 @@ InGrid Editor im Ausgangszustand
  
 Nach dem Laden des InGrid Editors wird die Übersicht angezeigt. Dargestellt werden Metadaten bzw. Adressen die zuletzt bearbeitet wurden und eine Statistik wie viele Metadaten sich in Bearbeitung befinden und wie viele veröffentlicht wurden.
 
-.. image:: ../../img/allgemein/ige-ng_uebersicht.png
+.. image:: ../../img/ige/allgemein/ige-ng_uebersicht.png
    
 Abb.: Übersicht
 
@@ -254,7 +254,7 @@ Optionen für die Veröffentlichung
    
 Rechts von VERÖFFENTLICHEN befindet sich der Button für verschiedene Optionen (Pfeil nach unten).
 
-.. image:: ../../img/allgemein/ige-ng_veroeffentlichung_planen.png
+.. image:: ../../img/ige/allgemein/ige-ng_veroeffentlichung_planen.png
    :width: 300
    
 Abb.: Fenster mit Optionen für die Veröffentlichung
@@ -270,7 +270,7 @@ Der Button VERÖFFENTLICHEN und die Option "Jetzt veröffentlichen" haben die se
 
 Abb.: Dialogfenster - Auswahl für Veröffentlichungsvarianten
 
-.. image:: ../../img/allgemein/ige-ng_veroeffentlichen_meldung.png
+.. image:: ../../img/ige/allgemein/ige-ng_veroeffentlichen_meldung.png
 
 Abb.: Meldung: Das Dokument wurde veröffentlicht
 
@@ -280,18 +280,18 @@ Option: "Veröffentlichung planen"
 
 Datensätze können zu einem zukünftigen Zeitpunkt veröffentlicht werden. Bei der Veröffentlichung wird nach der Validierung das Dialogfenster "Veröffentlichen" angezeigt, in dem ein zukünftiges Veröffentlichungsdatum "VERÖFFENTLICHUNG PLANEN" ausgewählt werden kann. Es öffnet sich dann ein weiteres Fenster "Veröffentlichen planen" mit einer Kalenderfunktion, hier kann das Veröffentlichungsdatum gewählt werden.
 
-.. image:: ../../img/allgemein/ige-ng_veroeffentlichen_planen.png
+.. image:: ../../img/ige/allgemein/ige-ng_veroeffentlichen_planen.png
    :width: 300
 
 Abb.: Funktion Veröffentlichung planen - Angabe eines Datums
    
    
-.. image:: ../../img/allgemein/ige-ng_veroeffentlichen_planen_meldung.png
+.. image:: ../../img/ige/allgemein/ige-ng_veroeffentlichen_planen_meldung.png
 
 Abb.: Meldung für die geplante Veröffentlichung
 
 
-.. image:: ../../img/allgemein/ige-ng_veroeffentlichung_abgebrochen.png
+.. image:: ../../img/ige/allgemein/ige-ng_veroeffentlichung_abgebrochen.png
 
 Abb.: Meldung für: VERÖFFENTLICHUNG ABBRECHEN UND VORHABEN BEARBEITEN
 
@@ -301,7 +301,7 @@ Option: "Auf letzte Veröffentlichung zurücksetzten"
 
 Wurde ein Metadatensatz veröffentlicht und danach eine Änderung in die Metadaten eingefügt und gespeichert (Symbol orange/schwarz), so lässt sich diese Änderung über die Funktion "Auf letzte Veröffentlichung zurücksetzen" rückgängig machen (Symbol schwarz).
 
-.. image:: ../../img/allgemein/ige-ng_veroeffentlichung_auf-letzte-veroeffentlichung-zuruecksetzen.png
+.. image:: ../../img/ige/allgemein/ige-ng_veroeffentlichung_auf-letzte-veroeffentlichung-zuruecksetzen.png
 
 Abb.: Auf letzte Veröffentlichung zurücksetzen
 
@@ -311,12 +311,12 @@ Option: "Veröffentlichung zurückziehen"
 
 Für diese Option müssen im jeweiligen Bundesland Festlegungen getroffen werden, wann veröffentlichte Vorhaben zurückgezogen werden dürfen.
 
-.. image:: ../../img/allgemein/ige-ng_veroeffentlichung_zurueckziehen.png
+.. image:: ../../img/ige/allgemein/ige-ng_veroeffentlichung_zurueckziehen.png
 
 Abb.: Abfrage ob die Veröffentlichung wirklich zurückgezogen werden soll
 
 
-.. image:: ../../img/allgemein/ige-ng_veroeffentlichung_zurueckgezogen.png
+.. image:: ../../img/ige/allgemein/ige-ng_veroeffentlichung_zurueckgezogen.png
 
 Abb.: Meldung, dass für dieses Vorhaben die Veröffentlichung zurückgezogen wurde.
 
