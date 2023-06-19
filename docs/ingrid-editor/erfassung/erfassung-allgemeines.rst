@@ -18,7 +18,7 @@ Abb.: Übersicht
 Aufbau der Benutzeroberfläche
 -----------------------------
 
-.. image:: ../../img/ige/allgemein/ige-ng_benutzeroberflaeche.png
+.. image:: ../../img/ige/allgemein/benutzeroberflaeche.png
    
 Abb.: InGrid Editor - Benutzeroberfläche
 
