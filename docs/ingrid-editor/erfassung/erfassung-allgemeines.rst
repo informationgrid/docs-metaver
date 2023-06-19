@@ -383,7 +383,7 @@ Wenn eine längere Zeit (30 Minuten) keine Interaktion mit dem Editor stattfinde
 
 Abb.: Countdown für den Logout und "Session-refresh-Button"
 
-.. image:: ../../img/meldungen/ige-ng_fehler_timeout.png
+.. image:: ../../img/ige/allgemein/ige-ng_fehler_timeout.png
    :width: 400
 
 Abb.: Meldung - Besuchszeit abgelaufen
