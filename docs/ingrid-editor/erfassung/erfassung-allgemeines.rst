@@ -1,21 +1,402 @@
+Allgemeines zum neuen InGrid Editor
+===================================
 
-Allgemeines
-===========
+Der neue InGrid Editor ist fertig programmiert und kann für die Erfassung von Metadaten eingesetzt werden.
+Es sind viele Neuerungen eingeflossen. Es wurden Erfahrungen aus den letzten Jahren, eine benutzerfreundliche Bedienung, die Barrierefreiheit, ein responsives Layout (Darstellung auf unterschiedlichen Bildschirmen), eine Touch Bedienung für Tablets und Touch-Monitoren berücksichtigt.
+Eine intuitive Bedienung soll die Eingabe von Daten erleichtern. Die Bedienungsanleitung wird fortlaufend an den Neuerungen des Editors angepasst und befindet sich noch in der Bearbeitung. Sie können uns gerne zum neuen InGrid Editor und zur Bedienungsanleitung ein Feedback über das `METAVER Kontaktformular <https://metaver.de/kontakt>`_ senden, wir sind an Ihrer Meinung interessiert.
 
-Sollen Metadaten erfasst oder aktualisiert werden, so ist der Menüpunkt „Hierarchie & Erfassung“ in der Menüleiste des InGrid Editors zu wählen. Auf der linken Seite öffnet sich der Strukturbaum des InGrid Editors. Dieser lässt sich durch Klicken auf die Pluszeichen ausklappen und durch Betätigung des Minuszeichens einklappen.
+InGrid Editor im Ausgangszustand
+--------------------------------
+ 
+Nach dem Laden des InGrid Editors wird die Übersicht angezeigt. Dargestellt werden Metadaten bzw. Adressen die zuletzt bearbeitet wurden und eine Statistik wie viele Metadaten sich in Bearbeitung befinden und wie viele veröffentlicht wurden.
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_allgemeines/ige-hierarchie-erfassung.png
+.. image:: ../../img/allgemein/ige-ng_uebersicht.png
+   
+Abb.: Übersicht
 
-Abb.: Menüleiste - Strukturbaum und Erfassungsmasken anzeigen
 
-**Objekte**
+Aufbau der Benutzeroberfläche
+-----------------------------
 
-Im InGrid Editor können unterschiedliche Arten von Informationen standardisiert beschrieben werden. Hierzu zählen unter anderem Geodaten/-informationen, Anwendungen, Datenbanken, Literatur und Projekte. Für jede Quelle wird dabei ein Metadatenobjekt (Metadatensatz) angelegt. Diese Metadatenobjekte enthalten grundlegende Informationen aber auch Angaben zu entsprechenden Ansprechpartnern.
+.. image:: ../../img/ige/allgemein/ige-ng_benutzeroberflaeche.png
+   
+Abb.: InGrid Editor - Benutzeroberfläche
+
+Aufbau der Benutzeroberfläche:
+
+* Links - Navigation
+* Mitte - Ordnerstruktur
+* Rechts - Datenerfassung
+
+
+Strukturierung der Daten
+------------------------
+
+Im InGrid Editor können die Daten mit Hilfe von Ordnern strukturiert werden.
+
+.. image:: ../../img/ige/allgemein/ige-ng_icon_ordner.png
+   :width: 50
+
+Abb.: InGrid - Ordnersymbol im Eingabeformular
+
+.. image:: ../../img/ige/allgemein/ige-ng_datenstruktur.png
+   :width: 400
+   
+Abb.: InGrid Editor - Aufbau der Ordnerstruktur
+
+Durch Klicken auf den Pfeil nach rechts wird die Ordnerstruktur ausgeklappt bzw. durch Anklicken des Pfeils nach unten wird die Struktur geschlossen.
+ 
+
+Icons in der Datenstruktur
+--------------------------
+
+Im InGrid Editor gibt es verschiedene Vorhabentypen bzw. Adresstypen. 
+
+**Vorhaben**
+
+.. image:: ../../img/ige/allgemein/ige-ng_icons-typen-vorhaben.png
+   :width: 400
+
+Abb.: Vorhabentypen in der Ordnerstruktur
 
 **Adressen**
 
-Die Adressangaben der Ansprechpartner werden als separater Adressdatensatz gespeichert und anschließend mit den Metadatenobjekten verknüpft. Dies hat den Vorteil, dass eine einmal eingepflegte Adresse in beliebig vielen Objekten referenziert werden kann, ohne dass weiterer Erfassungsaufwand für Adressangaben entsteht. Ebenso können Adressänderungen an einer Stelle in der Adressverwaltung geändert werden, ohne dass alle Objekte, die sie referenzieren, bearbeitet werden müssen.
+.. image:: ../../img/ige/allgemein/ige-ng_icons-adressen.png
+   :width: 400
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_allgemeines/ige-strukturbaum.png
+Abb.: Adresstypen in der Ordnerstruktur
 
-Abb.: Strukturbaum - Teilbaum Objekte und Teilbaum Adressen
+
+
+Icons - Bearbeitungsstatus
+--------------------------
+
+Neben Objekttypen bzw. dem Adresstyp zeigen die Icons zusätzlich den jeweiligen Bearbeitungsstatus an.
+
+.. csv-table::
+    :widths: 50 150 300
+
+    Symbol , Farbe , Beschreibung
+    .. image:: ../../img/ige/allgemein/ige-ng_icon_gespeichert.png , orange , Das Vorhaben bzw. die Adresse wurde angelegt und gespeichert und befinden sich in Bearbeitung.
+	.. image:: ../../img/ige/allgemein/ige-ng_icon_veroeffentlicht.png, schwarz , Das Vorhaben bzw. die Adresse wurde veröffentlicht
+    .. image:: ../../img/ige/allgemein/ige-ng_icon_in-bearbeitung.png , orange und schwarz , Es handelt sich um eine veröffentlichte Version des Vorhabens bzw. der Adresse - der Datensatz wurde bearbeitet aber noch nicht erneut veröffentlicht.
+
+
+Menü
+----
+
+.. image:: ../../img/ige/allgemein/ige-ng_menue.png
+   :width: 300
+   
+Abb.: Menü Symbole mit Beschriftung
+
+.. image:: ../../img/ige/allgemein/ige-ng_menu_verkleinern.png
+   :width: 150
+   
+Abb.: Menü verkleinern
+
+.. image:: ../../img/ige/allgemein/ige-ng_menue_verkleinert.png
+   :height: 300
+   
+Abb.: Menü (verkleinernert) - Symbole
+
+.. image:: ../../img/ige/allgemein/ige-ng_menue_vergroessern.png
+   :width: 50
+   
+Abb.: Menü vergrößern
+
+
+
+
+Symbolleiste
+------------
+
+.. image:: ../../img/ige/allgemein/ige-ng_toolbar.png
+   :width: 400
+   
+Abb.: Symbolleiste
+
+Hier im Einzelnen die zur Verfügung stehenden Werkzeuge: 
+
+.. csv-table::
+    :widths: 50 300
+
+    Symbol , Bezeichnung
+    .. image:: ../../img/ige/allgemein/ige-ng_symbolleiste_vorhaben-anlegen.png , Neues Vorhaben anlegen
+    .. image:: ../../img/ige/allgemein/ige-ng_symbolleiste_ordner-erstellen.png , Ordner erstellen
+	.. image:: ../../img/ige/allgemein/ige-ng_symbolleiste_vorschau-druckfunktion.png, Vorschau- und Druckfunktion 
+    .. image:: ../../img/ige/allgemein/ige-ng_symbolleiste_kopieren-verschieben.png , Kopieren / Verschieben
+	.. image:: ../../img/ige/allgemein/ige-ng_symbolleiste_loeschen.png , Löschen
+	.. image:: ../../img/ige/allgemein/ige-ng_symbolleiste_zum-letzten-dokument.png , Springe zum letzten Dokument
+	.. image:: ../../img/ige/allgemein/ige-ng_symbolleiste_zum-naechsten-dokument.png , Springe zum nächsten Dokument
+
+
+.. image:: ../../img/ige/allgemein/ige-ng_toolbar_submenue.png
+   :width: 200
+
+Abb.: Symbolleiste - Untermenü für Kopieren / Verschieben
+
+
+
+Eingabefelder
+-------------
+
+Im InGrid Editor gibt es eine Vielzahl von Feldern, die ausgefüllt werden können, es müssen jedoch nicht immer alle Felder belegt werden. Für jedes Verfahren bzw. jede Adresse gibt es jedoch sogenannte Pflichtfelder, die auf jeden Fall ausgefüllt werden müssen. Ohne die Befüllung dieser Pflichtfelder lässt sich der Datensatz nicht abspeichern! Gekennzeichnet sind diese Pflichtfelder durch ein Sternchen. 
+
+.. image:: ../../img/ige/allgemein/ige-ng_felder.png
+
+Abb.: Eingabefelder mit * sind Pflichtfelder
+
+
+
+Unterschiedliche Feldtypen
+--------------------------
+
+**Textfelder**
+
+Zum Füllen von Textfeldern klicken Sie in das Feld. Zum Vergrößern des Feldes, ziehen Sie mit der Maus an der rechten unteren Ecke (linke Maustaste gedrückt halten).
+
+
+.. image:: ../../img/ige/allgemein/ige-ng_feldtyp_textfeld.png
+   :width: 500
+
+Abb.:  Feldtyp - Textfeld
+
+In Textfeldern dürfen die folgenden Tags verwendet werden:
+<b></b>, <i></i>, <u></u>, <p></p>, <br> </br>, <strong></strong>, <ul></ul>, <ol></ol>, <li></li>
+
+**Datumsangaben**
+
+Der Kalender wird über das Kalendersymbol an der rechten Seite des Feldes aufgeklappt.
+
+
+
+**Auswahllisten**
+
+Auswahllisten werden über den Pfeil an der rechten Seite des Feldes aufgeklappt. Das „Autocomplete Feature“ sorgt dafür, dass bei der Eingabe Vorschläge angezeigt werden.
+
+.. image:: ../../img/ige/allgemein/ige-ng_feldtyp_auswahl.png
+   :width: 500
+
+Abb.: Feldtyp - Auswahl
+
+
+Speichern & Veröffentlichen
+---------------------------
+
+Im InGrid Editor werden zwei Speicherarten unterschieden: 
+
+Das "SPEICHERN" speichert den geänderten bzw. neu erfassten Datensatz, die Daten werden allerdings noch nicht für die Veröffentlichung im Internet freigegeben, d.h. sie bleiben weiterhin nur in der Ordnerstruktur des InGrid Editors sichtbar. Das Speichern ist jederzeit möglich, auch wenn noch nicht alle Pflichtfelder ausgefüllt sind.
+
+.. image:: ../../img/ige/allgemein/ige-ng_speichern.png
+   :width: 300
+
+Abb.: Speichern
+
+
+Mit dem abschließenden "VERÖFFENTLICHEN" werden die Daten für das Internet freigegeben.
+
+.. image:: ../../img/ige/allgemein/ige-ng_veroeffentlichen.png
+   :width: 300
+
+Abb.: Veröffentlichen
+
+
+Voraussetzung für das "VERÖFFENTLICHEN" ist die Befüllung sämtlicher Pflichtfelder. Fehlen entsprechende Angaben, erscheint bei der Betätigung des Buttons "VERÖFFENTLICHEN" eine Fehlermeldung und die Überschriften der entsprechenden Felder werden in rot angezeigt. 
+
+.. image:: ../../img/ige/allgemein/ige-ng_fehler_felder-korrekt-ausfuellen.png
+   :width: 300
+
+Abb.: Hinweis - Alle Pflichtfelder ausfüllen
+
+Um trotz der Fehlermeldung die Bearbeitung sichern zu können, wählen Sie die Funktion "SPEICHERN".
+
+
+.. image:: ../../img/ige/allgemein/ige-ng_meldungen_ein-eintrag-erwartet.png
+   :width: 400
+
+Abb.: Hinweis am Feld - Es wird mindestens ein Eintrag erwartet
+
+Felder, die nicht korrekt ausgefüllt sind, werden mit der Anmerkung "Es wird mindestens ein Eintrag erwartet" gekennzeichnet.
+
+
+Zeitgesteuerte Veröffentlichung
+-------------------------------
+
+.. image:: ../../img/ige/allgemein/ige-ng_veroeffentlichen.png
+   :width: 500
+   
+Abb.: VERÖFFENTLICHEN
+
+
+.. image:: ../../img/ige/allgemein/ige-ng_veroeffentlichung.png
+   :width: 500
+
+Abb.: Dialogfenster - Auswahl für Veröffentlichungsvarianten
+   
+.. image:: ../../img/ige/allgemein/ige-ng_veroeffentlichung-planen-kalender.png
+   :width: 300
+
+Abb.: Dialogfenster - Auswahl für Veröffentlichungsdatum
+
+Das Veröffentlichungsdatum wird danach im Kopfbereich des Datensatzes angezeigt.
+
+.. image:: ../../img/ige/allgemein/ige-ng_anzeige-veroeffentlichung.png
+   :width: 500
+
+Abb.: Kopfbereich der Eingabemaske - Anzeige des Veröffentlichungsdatums
+
+Unter dem Veröffentlichungsdatum befindet sich der Button "VERÖFFENTLICHUNG ABBRECHEN UND VORHABEN BEARBEITEN". Nach Betätigung erscheint ein grünes Feld mit dem Hinweis: "Die geplante Veröffentlichung wurde abgebrochen."
+
+
+Optionen für die Veröffentlichung
+---------------------------------
+   
+Rechts von VERÖFFENTLICHEN befindet sich der Button für verschiedene Optionen (Pfeil nach unten).
+
+.. image:: ../../img/allgemein/ige-ng_veroeffentlichung_planen.png
+   :width: 300
+   
+Abb.: Fenster mit Optionen für die Veröffentlichung
+   
+
+Option: "Jetzt veröffentlichen"
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Der Button VERÖFFENTLICHEN und die Option "Jetzt veröffentlichen" haben die selbe Funktionalität.
+
+.. image:: ../../img/ige/allgemein/ige-ng_veroeffentlichung.png
+   :width: 500
+
+Abb.: Dialogfenster - Auswahl für Veröffentlichungsvarianten
+
+.. image:: ../../img/allgemein/ige-ng_veroeffentlichen_meldung.png
+
+Abb.: Meldung: Das Dokument wurde veröffentlicht
+
+
+Option: "Veröffentlichung planen"
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Datensätze können zu einem zukünftigen Zeitpunkt veröffentlicht werden. Bei der Veröffentlichung wird nach der Validierung das Dialogfenster "Veröffentlichen" angezeigt, in dem ein zukünftiges Veröffentlichungsdatum "VERÖFFENTLICHUNG PLANEN" ausgewählt werden kann. Es öffnet sich dann ein weiteres Fenster "Veröffentlichen planen" mit einer Kalenderfunktion, hier kann das Veröffentlichungsdatum gewählt werden.
+
+.. image:: ../../img/allgemein/ige-ng_veroeffentlichen_planen.png
+   :width: 300
+
+Abb.: Funktion Veröffentlichung planen - Angabe eines Datums
+   
+   
+.. image:: ../../img/allgemein/ige-ng_veroeffentlichen_planen_meldung.png
+
+Abb.: Meldung für die geplante Veröffentlichung
+
+
+.. image:: ../../img/allgemein/ige-ng_veroeffentlichung_abgebrochen.png
+
+Abb.: Meldung für: VERÖFFENTLICHUNG ABBRECHEN UND VORHABEN BEARBEITEN
+
+
+Option: "Auf letzte Veröffentlichung zurücksetzten"
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Wurde ein Metadatensatz veröffentlicht und danach eine Änderung in die Metadaten eingefügt und gespeichert (Symbol orange/schwarz), so lässt sich diese Änderung über die Funktion "Auf letzte Veröffentlichung zurücksetzen" rückgängig machen (Symbol schwarz).
+
+.. image:: ../../img/allgemein/ige-ng_veroeffentlichung_auf-letzte-veroeffentlichung-zuruecksetzen.png
+
+Abb.: Auf letzte Veröffentlichung zurücksetzen
+
+
+Option: "Veröffentlichung zurückziehen"
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Für diese Option müssen im jeweiligen Bundesland Festlegungen getroffen werden, wann veröffentlichte Vorhaben zurückgezogen werden dürfen.
+
+.. image:: ../../img/allgemein/ige-ng_veroeffentlichung_zurueckziehen.png
+
+Abb.: Abfrage ob die Veröffentlichung wirklich zurückgezogen werden soll
+
+
+.. image:: ../../img/allgemein/ige-ng_veroeffentlichung_zurueckgezogen.png
+
+Abb.: Meldung, dass für dieses Vorhaben die Veröffentlichung zurückgezogen wurde.
+
+
+
+
+Dokumente bearbeiten
+--------------------
+
+.. image:: ../../img/ige/allgemein/ige-ng_dokumente_bearbeiten.png
+
+Abb.: Dokumente - Bearbeiten
+
+Wurden Dokumente in ein Vorhaben geladen, erscheint auf der rechten Seite über den Dokumenten, der Link "BEARBEITEN". Wird dieser betätigt, öffnet sich ein Untermenü mit den Optionen "Bearbeiten" und "Löschen". Wird bearbeiten gewäht, erscheint unter der Symbolleiste eine Checkbox für die Auswahl der zu bearbeitenden Dokumente.
+
+
+.. image:: ../../img/ige/allgemein/ige-ng_editor_auswahl.png
+   :width: 400
+
+Abb.: Dokumente - Bearbeiten - Checkbox "Auswahl"
+
+
+.. image:: ../../img/ige/allgemein/ige-ng_editor_alle-auswaehlen.png
+   :width: 400
+
+Abb.: Dokumente - Bearbeiten - Alle Dokumente auswählen
+
+
+.. image:: ../../img/ige/allgemein/ige-ng_editor_ausgewaehlte-kopieren.png
+   :width: 400
+
+Abb.: Dokumente - Bearbeiten - Dokumente auswählen
+
+
+Es besteht die Möglichkeit über das Untermenü des Symbols "Kopieren / Verschieben" eine Option zu wählen. Anschließend wird der Ordner gewählt, in den die Dokumente kopiert / verschoben werden sollen.
+
+
+Adressen und Vorhaben suchen
+-----------------------------
+
+Die Beschreibung wie Adressen oder Vorhaben gesucht werden können, steht unter dem Block "Funktionen im InGrid Editor", Abschnitt `"Suche" <../suche/ige-ng_suche.html>`_.
+
+
+Metadaten anzeigen
+------------------
+
+.. image:: ../../img/ige/allgemein/ige-ng_vorhaben_metadaten-anzeigen.png
+
+Abb.: Vorhaben - Metadaten anzeigen
+
+
+.. image:: ../../img/ige/allgemein/ige-ng_vorhaben_metadaten-ansicht.png
+
+Abb.: Vorhaben - Metadaten
+
+
+Besuchszeit ist abgelaufen (Logout)
+-------------------------------------------
+
+Wenn eine längere Zeit (30 Minuten) keine Interaktion mit dem Editor stattfindet, läuft die Besuchszeit ab. 5 Minuten vor Ablauf der Besuchszeit erscheint oben in der Seite ein Countdown. Ist der Countdown angelaufen wird der Benutzer aus dem InGrid Editor ausgeloggt und muss sich am Editor neu anmelden. Optional kann der "Refresh-Button" betätigt werden, dann beginnt der Countdown erneut. 
+
+.. image:: ../../img/ige/allgemein/ige-ng_editor_countdown.png
+   :width: 300
+
+Abb.: Countdown für den Logout und "Session-refresh-Button"
+
+.. image:: ../../img/meldungen/ige-ng_fehler_timeout.png
+   :width: 400
+
+Abb.: Meldung - Besuchszeit abgelaufen
+
+Damit gehen leider auch alle Änderungen und Neueingaben verloren, die bis zu diesem Zeitpunkt noch nicht gespeichert worden sind. Es gibt keine automatische Zwischenspeicherung! Es empfiehlt sich daher, bei der Erfassung von Verfahrenen und Adressen immer wieder zwischendurch zwischen zu speichern. (Ein automatisches Zwischenspeichern ist zukünftig vorgesehen.)
+
+
+InGrid Editor schließen
+-----------------------
+
+Soll der InGrid Editor beendet werden, muss auf der Seite (oben rechts) der Punkt für die Profilverwaltung betätigt werden.
+
+.. image:: ../../img/ige/allgemein/ige-ng_abmeldung.png
+   :width: 300
+
+Abb.: Profilverwaltung mit Button "ABMELDEN"
