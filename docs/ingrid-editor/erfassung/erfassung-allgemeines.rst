@@ -34,12 +34,12 @@ Strukturierung der Daten
 
 Im InGrid Editor können die Daten mit Hilfe von Ordnern strukturiert werden.
 
-.. image:: ../../img/ige/allgemein/ige-ng_icon_ordner.png
+.. image:: ../../img/ige/allgemein/icon_ordner.png
    :width: 50
 
 Abb.: InGrid - Ordnersymbol im Eingabeformular
 
-.. image:: ../../img/ige/allgemein/ige-ng_datenstruktur.png
+.. image:: ../../img/ige/allgemein/datenstruktur.png
    :width: 400
    
 Abb.: InGrid Editor - Aufbau der Ordnerstruktur
@@ -54,14 +54,14 @@ Im InGrid Editor gibt es verschiedene Vorhabentypen bzw. Adresstypen.
 
 **Vorhaben**
 
-.. image:: ../../img/ige/allgemein/ige-ng_icons-typen-vorhaben.png
+.. image:: ../../img/ige/allgemein/icons-typen-vorhaben.png
    :width: 400
 
-Abb.: Vorhabentypen in der Ordnerstruktur
+Abb.: Datensatztyp in der Ordnerstruktur
 
 **Adressen**
 
-.. image:: ../../img/ige/allgemein/ige-ng_icons-adressen.png
+.. image:: ../../img/ige/allgemein/icons-adressen.png
    :width: 400
 
 Abb.: Adresstypen in der Ordnerstruktur
