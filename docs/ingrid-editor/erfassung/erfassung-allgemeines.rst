@@ -10,7 +10,7 @@ InGrid Editor im Ausgangszustand
  
 Nach dem Laden des InGrid Editors wird die Übersicht angezeigt. Dargestellt werden Metadaten bzw. Adressen die zuletzt bearbeitet wurden und eine Statistik wie viele Metadaten sich in Bearbeitung befinden und wie viele veröffentlicht wurden.
 
-.. image:: ../../img/ige/allgemein/ige-ng_uebersicht.png
+.. image:: ../../img/ige/allgemein/uebersicht.png
    
 Abb.: Übersicht
 
