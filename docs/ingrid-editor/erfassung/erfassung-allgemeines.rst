@@ -207,7 +207,7 @@ Abb.: Veröffentlichen
 
 Voraussetzung für das "VERÖFFENTLICHEN" ist die Befüllung sämtlicher Pflichtfelder. Fehlen entsprechende Angaben, erscheint bei der Betätigung des Buttons "VERÖFFENTLICHEN" eine Fehlermeldung und die Überschriften der entsprechenden Felder werden in rot angezeigt. 
 
-.. image:: ../../img/ige/allgemein/ige-ng_fehler_felder-korrekt-ausfuellen.png
+.. image:: ../../img/ige/allgemein/fehler_felder-korrekt-ausfuellen.png
    :width: 300
 
 Abb.: Hinweis - Alle Pflichtfelder ausfüllen
@@ -215,10 +215,10 @@ Abb.: Hinweis - Alle Pflichtfelder ausfüllen
 Um trotz der Fehlermeldung die Bearbeitung sichern zu können, wählen Sie die Funktion "SPEICHERN".
 
 
-.. image:: ../../img/ige/allgemein/ige-ng_meldungen_ein-eintrag-erwartet.png
+.. image:: ../../img/ige/allgemein/meldungen_ein-eintrag-erwartet.png
    :width: 400
 
-Abb.: Hinweis am Feld - Es wird mindestens ein Eintrag erwartet
+Abb.: Hinweis am Feld - Dieses Feld muss ausgefüllt sein
 
 Felder, die nicht korrekt ausgefüllt sind, werden mit der Anmerkung "Es wird mindestens ein Eintrag erwartet" gekennzeichnet.
 
