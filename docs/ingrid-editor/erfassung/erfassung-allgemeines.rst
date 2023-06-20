@@ -74,7 +74,7 @@ Icons - Bearbeitungsstatus
 Neben Metadatentypen bzw. dem Adresstyp zeigen die Icons zusätzlich den jeweiligen Bearbeitungsstatus an.
 
 .. csv-table::
-     :widths: 50, 150, 300
+      :widths: 50, 150, 300
 
     Symbol , Farbe , Beschreibung
     .. image:: ../../img/ige/allgemein/icon_bearbeitungsstatus-gespeichert.png , orange , Der Metadatensatz bzw. die Adresse wurde angelegt und gespeichert und befinden sich in Bearbeitung.
@@ -98,7 +98,7 @@ An den Icons wird durch eine gestrichelte Linie die Veröffentlichungsbreite der
 
 
 .. csv-table::
-     :widths: 50, 150, 300
+      :widths: 50, 150, 300
 
     Symbol , Markierung , Beschreibung
     .. image:: ../../img/ige/allgemein/icon_veroeffentlichungsrecht-internet.png , ohne Unterstrich , Der Metadatensatz bzw. die Adresse wurde im Internet veröffentlicht
