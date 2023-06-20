@@ -311,6 +311,7 @@ Option: "Veröffentlichung zurückziehen"
 Für diese Option müssen im jeweiligen Bundesland Festlegungen getroffen werden, wann veröffentlichte Vorhaben zurückgezogen werden dürfen.
 
 .. image:: ../../img/ige/allgemein/veroeffentlichung_zurueckziehen.png
+   :width: 400
 
 Abb.: Abfrage ob die Veröffentlichung wirklich zurückgezogen werden soll
 
