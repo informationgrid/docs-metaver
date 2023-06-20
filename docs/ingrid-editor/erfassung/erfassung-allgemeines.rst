@@ -85,22 +85,22 @@ Neben Objekttypen bzw. dem Adresstyp zeigen die Icons zusätzlich den jeweiligen
 Menü
 ----
 
-.. image:: ../../img/ige/allgemein/ige-ng_menue.png
+.. image:: ../../img/ige/allgemein/menue.png
    :width: 300
    
 Abb.: Menü Symbole mit Beschriftung
 
-.. image:: ../../img/ige/allgemein/ige-ng_menu_verkleinern.png
+.. image:: ../../img/ige/allgemein/menu_verkleinern.png
    :width: 150
    
 Abb.: Menü verkleinern
 
-.. image:: ../../img/ige/allgemein/ige-ng_menue_verkleinert.png
+.. image:: ../../img/ige/allgemein/menue_verkleinert.png
    :height: 300
    
 Abb.: Menü (verkleinernert) - Symbole
 
-.. image:: ../../img/ige/allgemein/ige-ng_menue_vergroessern.png
+.. image:: ../../img/ige/allgemein/menue_vergroessern.png
    :width: 50
    
 Abb.: Menü vergrößern
@@ -111,7 +111,7 @@ Abb.: Menü vergrößern
 Symbolleiste
 ------------
 
-.. image:: ../../img/ige/allgemein/ige-ng_toolbar.png
+.. image:: ../../img/ige/allgemein/toolbar.png
    :width: 400
    
 Abb.: Symbolleiste
