@@ -34,7 +34,7 @@ Strukturierung der Daten
 
 Im InGrid Editor können die Daten mit Hilfe von Ordnern strukturiert werden.
 
-.. image:: ../../img/ige/allgemein/icon_ordner.png
+.. image:: ../../img/ige/allgemein/symbolleiste_ordner-erstellen.png
    :width: 50
 
 Abb.: InGrid - Ordnersymbol im Eingabeformular
@@ -321,10 +321,10 @@ Abb.: Abfrage ob die Veröffentlichung wirklich zurückgezogen werden soll
 Abb.: Meldung, dass für dieses Vorhaben die Veröffentlichung zurückgezogen wurde.
 
 
-Adressen und Vorhaben suchen
+Adressen und Metadaten suchen
 -----------------------------
 
-Die Beschreibung wie Adressen oder Vorhaben gesucht werden können, steht unter dem Block "Funktionen im InGrid Editor", Abschnitt `"Suche" <...>`_.
+Die Beschreibung wie Adressen oder Metadaten gesucht werden können, steht unter dem Block "Funktionen im InGrid Editor", Abschnitt `"Suche" <...>`_.
 
 
 Metadaten anzeigen
