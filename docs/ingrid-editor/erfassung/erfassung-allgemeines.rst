@@ -88,13 +88,16 @@ Berechtigungen zu den Metadaten
 
 Über das Drei-Punkte-Menü, auf der rechten Seite der Erfassungsmaske können verschiedene Berechtigungen vergeben werden.
 
+.. image:: ../../img/ige/allgemein/auswahl_veroeffentlichungsrecht.png
+   :width: 250
+
+
 Veröffenlichungsrecht setzten ...
 ---------------------------------
 
 An den Icons wird durch eine gestrichelte Linie die Veröffentlichungsbreite der Adresse oder des Metadatensatzes angezeigt.
 
-.. image:: ../../img/ige/allgemein/auswahl_veroeffentlichungsrecht.png
-   :width:
+
 
 
 .. csv-table::
