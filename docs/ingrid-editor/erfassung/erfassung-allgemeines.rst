@@ -330,14 +330,14 @@ Die Beschreibung wie Adressen oder Vorhaben gesucht werden können, steht unter 
 Metadaten anzeigen
 ------------------
 
-.. image:: ../../img/ige/allgemein/vorhaben_metadaten-anzeigen.png
+.. image:: ../../img/ige/allgemein/kopf_metadaten-anzeigen.png
 
-Abb.: Vorhaben - Metadaten anzeigen
+Abb.: Metadaten - Metainformationen anzeigen
 
 
-.. image:: ../../img/ige/allgemein/vorhaben_metadaten-ansicht.png
+.. image:: ../../img/ige/allgemein/kopf_metadaten-ansicht.png
 
-Abb.: Vorhaben - Metadaten
+Abb.: Metadaten - Metainformationen  - Metadaten
 
 
 Besuchszeit ist abgelaufen (Logout)
