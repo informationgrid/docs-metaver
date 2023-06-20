@@ -122,7 +122,7 @@ Hier im Einzelnen die zur Verfügung stehenden Werkzeuge:
    :widths: 30, 400
 
     Symbol , Bezeichnung
-    .. image:: ../../img/ige/allgemein/symbolleiste_vorhaben-anlegen.png , Neues Vorhaben anlegen
+    .. image:: ../../img/ige/allgemein/symbolleiste_metadaten-anlegen.png , Adressdaten oder Metadaten anlegen
     .. image:: ../../img/ige/allgemein/symbolleiste_ordner-erstellen.png , Ordner erstellen
     .. image:: ../../img/ige/allgemein/symbolleiste_assistent.png , GetCapabilities-Assistent für Geodatendienste
 	 .. image:: ../../img/ige/allgemein/symbolleiste_vorschau-druckfunktion.png, Vorschau- und Druckfunktion 
@@ -245,7 +245,7 @@ Das Veröffentlichungsdatum wird danach im Kopfbereich des Datensatzes angezeigt
 
 Abb.: Kopfbereich der Eingabemaske - Anzeige des Veröffentlichungsdatums
 
-Unter dem Veröffentlichungsdatum befindet sich der Button "VERÖFFENTLICHUNG ABBRECHEN UND VORHABEN BEARBEITEN". Nach Betätigung erscheint ein grünes Feld mit dem Hinweis: "Die geplante Veröffentlichung wurde abgebrochen."
+Unter dem Veröffentlichungsdatum befindet sich der Button "VERÖFFENTLICHUNG ABBRECHEN UND DATENSATZ BEARBEITEN". Nach Betätigung erscheint ein grünes Feld mit dem Hinweis: "Die geplante Veröffentlichung wurde abgebrochen."
 
 
 Optionen für die Veröffentlichung
@@ -292,7 +292,7 @@ Abb.: Meldung für die geplante Veröffentlichung
 
 .. image:: ../../img/ige/allgemein/veroeffentlichung_abgebrochen.png
 
-Abb.: Meldung für: VERÖFFENTLICHUNG ABBRECHEN UND VORHABEN BEARBEITEN
+Abb.: Meldung für: VERÖFFENTLICHUNG ABBRECHEN UND DATENSATZ BEARBEITEN
 
 
 Option: "Auf letzte Veröffentlichung zurücksetzten"
@@ -308,7 +308,7 @@ Abb.: Auf letzte Veröffentlichung zurücksetzen
 Option: "Veröffentlichung zurückziehen"
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Für diese Option müssen im jeweiligen Bundesland Festlegungen getroffen werden, wann veröffentlichte Vorhaben zurückgezogen werden dürfen.
+Für diese Option müssen im jeweiligen Bundesland Festlegungen getroffen werden, wann veröffentlichte Datensätze zurückgezogen werden dürfen.
 
 .. image:: ../../img/ige/allgemein/veroeffentlichung_zurueckziehen.png
    :width: 400
@@ -318,7 +318,7 @@ Abb.: Abfrage ob die Veröffentlichung wirklich zurückgezogen werden soll
 
 .. image:: ../../img/ige/allgemein/veroeffentlichung_zurueckgezogen.png
 
-Abb.: Meldung, dass für dieses Vorhaben die Veröffentlichung zurückgezogen wurde.
+Abb.: Meldung, dass für diesen Datensatz die Veröffentlichung zurückgezogen wurde.
 
 
 Adressen und Metadaten suchen
