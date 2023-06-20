@@ -62,7 +62,7 @@ Abb.: Metadatentypen in der Ordnerstruktur
 **Adressen**
 
 .. image:: ../../img/ige/allgemein/icons-adressen.png
-   :width: 300
+   :width: 250
 
 Abb.: Adresstypen in der Ordnerstruktur
 
