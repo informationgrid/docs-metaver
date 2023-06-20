@@ -127,6 +127,7 @@ Hier im Einzelnen die zur Verfügung stehenden Werkzeuge:
    .. image:: ../../img/ige/allgemein/symbolleiste_erfassungsassistent.png , GetCapabilities-Assistent für Geodatendienste
 	.. image:: ../../img/ige/allgemein/symbolleiste_vorschau-druckfunktion.png, Vorschau- und Druckfunktion 
    .. image:: ../../img/ige/allgemein/symbolleiste_kopieren-verschieben.png , Kopieren / Verschieben
+   .. image:: ../../img/ige/allgemein/symbolleiste_iso.png , ISO-Ansicht
 	.. image:: ../../img/ige/allgemein/symbolleiste_loeschen.png , Löschen
 	.. image:: ../../img/ige/allgemein/symbolleiste_zum-letzten-dokument.png , Springe zum letzten Dokument
 	.. image:: ../../img/ige/allgemein/symbolleiste_zum-naechsten-dokument.png , Springe zum nächsten Dokument
