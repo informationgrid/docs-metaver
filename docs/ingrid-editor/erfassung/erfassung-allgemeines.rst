@@ -82,6 +82,47 @@ Neben Metadatentypen bzw. dem Adresstyp zeigen die Icons zusätzlich den jeweili
     .. image:: ../../img/ige/allgemein/icon_in-bearbeitung.png , orange und schwarz , Es handelt sich um eine veröffentlichte Version des Metadatensatzes bzw. der Adresse - der Metadatensatz wurde bearbeitet aber noch nicht erneut veröffentlicht.
 
 
+
+Berechtigungen zu den Metadaten
+-------------------------------
+
+Über das Drei-Punkte-Menü, auf der rechten Seite der Erfassungsmaske können verschiedene Berechtigungen vergeben werden.
+
+Veröffenlichungsrecht setzten ...
+---------------------------------
+
+An den Icons wird durch eine gestrichelte Linie die Veröffentlichungsbreite der Adresse oder des Metadatensatzes angezeigt.
+
+.. image:: ../../img/ige/allgemein/auswahl_veroeffentlichungsrecht.png
+   :width:
+
+
+.. csv-table::
+    :widths: 50 150 300
+
+    Symbol , Markierung , Beschreibung
+    .. image:: ../../img/ige/allgemein/icon_veroeffentlichungsrecht-internet.png , ohne Unterstrich , Der Metadatensatz bzw. die Adresse wurde im Internet veröffentlicht
+   .. image:: ../../img/ige/allgemein/icon_veroeffentlichungsrecht-intranet.png, Unterstrich orange , Der Metadatensatz bzw. die Adresse wurde im Intranet veröffentlicht
+    .. image:: ../../img/ige/allgemein/icon_veroeffentlichungsrecht-amtsintern.png , Unterstrich blau , Der Metadatensatz bzw. die Adresse wurde auf amtsintern gesetzt
+
+
+Verantwortlichkeit ändern
+-------------------------
+
+
+
+
+
+
+Berechtigungen anzeigen
+-----------------------
+
+
+
+
+
+
+
 Menü
 ----
 
