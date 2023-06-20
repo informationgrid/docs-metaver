@@ -50,14 +50,14 @@ Durch Klicken auf den Pfeil nach rechts wird die Ordnerstruktur ausgeklappt bzw.
 Icons in der Datenstruktur
 --------------------------
 
-Im InGrid Editor gibt es verschiedene Vorhabentypen bzw. Adresstypen. 
+Im InGrid Editor gibt es verschiedene Metadatentypen bzw. Adresstypen. 
 
-**Vorhaben**
+**Daten**
 
-.. image:: ../../img/ige/allgemein/icons-typen-vorhaben.png
+.. image:: ../../img/ige/allgemein/icons-metadaten.png
    :width: 400
 
-Abb.: Datensatztyp in der Ordnerstruktur
+Abb.: Metadatentypen in der Ordnerstruktur
 
 **Adressen**
 
