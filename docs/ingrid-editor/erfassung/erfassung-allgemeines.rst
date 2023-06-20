@@ -124,7 +124,7 @@ Hier im Einzelnen die zur Verfügung stehenden Werkzeuge:
     Symbol , Bezeichnung
    .. image:: ../../img/ige/allgemein/symbolleiste_vorhaben-anlegen.png , Neues Vorhaben anlegen
    .. image:: ../../img/ige/allgemein/symbolleiste_ordner-erstellen.png , Ordner erstellen
-   .. image:: ../../img/ige/allgemein/symbolleiste_erfassungsassistent.png , GetCapabilities-Assistent für Geodatendienste
+   .. image:: ../../img/ige/allgemein/symbolleiste_assistent.png , GetCapabilities-Assistent für Geodatendienste
 	.. image:: ../../img/ige/allgemein/symbolleiste_vorschau-druckfunktion.png, Vorschau- und Druckfunktion 
    .. image:: ../../img/ige/allgemein/symbolleiste_kopieren-verschieben.png , Kopieren / Verschieben
    .. image:: ../../img/ige/allgemein/symbolleiste_iso.png , ISO-Ansicht
