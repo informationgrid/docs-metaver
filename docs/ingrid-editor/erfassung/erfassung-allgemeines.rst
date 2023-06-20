@@ -226,25 +226,21 @@ Felder, die nicht korrekt ausgefüllt sind, werden mit der Anmerkung "Es wird mi
 Zeitgesteuerte Veröffentlichung
 -------------------------------
 
-.. image:: ../../img/ige/allgemein/ige-ng_veroeffentlichen.png
+.. image:: ../../img/ige/allgemein/veroeffentlichen.png
    :width: 500
    
 Abb.: VERÖFFENTLICHEN
 
-
-.. image:: ../../img/ige/allgemein/ige-ng_veroeffentlichung.png
-   :width: 500
-
 Abb.: Dialogfenster - Auswahl für Veröffentlichungsvarianten
    
-.. image:: ../../img/ige/allgemein/ige-ng_veroeffentlichung-planen-kalender.png
+.. image:: ../../img/ige/allgemein/veroeffentlichung-planen-kalender.png
    :width: 300
 
 Abb.: Dialogfenster - Auswahl für Veröffentlichungsdatum
 
 Das Veröffentlichungsdatum wird danach im Kopfbereich des Datensatzes angezeigt.
 
-.. image:: ../../img/ige/allgemein/ige-ng_anzeige-veroeffentlichung.png
+.. image:: ../../img/ige/allgemein/anzeige-veroeffentlichung.png
    :width: 500
 
 Abb.: Kopfbereich der Eingabemaske - Anzeige des Veröffentlichungsdatums
