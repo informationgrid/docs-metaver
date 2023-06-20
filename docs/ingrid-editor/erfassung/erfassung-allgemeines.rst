@@ -146,7 +146,7 @@ Eingabefelder
 Im InGrid Editor gibt es eine Vielzahl von Feldern, die ausgefüllt werden können, es müssen jedoch nicht immer alle Felder belegt werden. Für jedes Verfahren bzw. jede Adresse gibt es jedoch sogenannte Pflichtfelder, die auf jeden Fall ausgefüllt werden müssen. Ohne die Befüllung dieser Pflichtfelder lässt sich der Datensatz nicht abspeichern! Gekennzeichnet sind diese Pflichtfelder durch ein Sternchen. 
 
 .. image:: ../../img/ige/allgemein/felder.png
-   :width: 500
+   :width: 400
 
 Abb.: Eingabefelder mit * sind Pflichtfelder
 
@@ -160,8 +160,8 @@ Unterschiedliche Feldtypen
 Zum Füllen von Textfeldern klicken Sie in das Feld. Zum Vergrößern des Feldes, ziehen Sie mit der Maus an der rechten unteren Ecke (linke Maustaste gedrückt halten).
 
 
-.. image:: ../../img/ige/allgemein/ige-ng_feldtyp_textfeld.png
-   :width: 500
+.. image:: ../../img/ige/allgemein/feldtyp_textfeld.png
+   :width: 400
 
 Abb.:  Feldtyp - Textfeld
 
