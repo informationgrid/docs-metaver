@@ -321,43 +321,10 @@ Abb.: Abfrage ob die Veröffentlichung wirklich zurückgezogen werden soll
 Abb.: Meldung, dass für dieses Vorhaben die Veröffentlichung zurückgezogen wurde.
 
 
-
-
-Dokumente bearbeiten
---------------------
-
-.. image:: ../../img/ige/allgemein/dokumente_bearbeiten.png
-
-Abb.: Dokumente - Bearbeiten
-
-Wurden Dokumente in ein Vorhaben geladen, erscheint auf der rechten Seite über den Dokumenten, der Link "BEARBEITEN". Wird dieser betätigt, öffnet sich ein Untermenü mit den Optionen "Bearbeiten" und "Löschen". Wird bearbeiten gewäht, erscheint unter der Symbolleiste eine Checkbox für die Auswahl der zu bearbeitenden Dokumente.
-
-
-.. image:: ../../img/ige/allgemein/editor_auswahl.png
-   :width: 400
-
-Abb.: Dokumente - Bearbeiten - Checkbox "Auswahl"
-
-
-.. image:: ../../img/ige/allgemein/editor_alle-auswaehlen.png
-   :width: 400
-
-Abb.: Dokumente - Bearbeiten - Alle Dokumente auswählen
-
-
-.. image:: ../../img/ige/allgemein/editor_ausgewaehlte-kopieren.png
-   :width: 400
-
-Abb.: Dokumente - Bearbeiten - Dokumente auswählen
-
-
-Es besteht die Möglichkeit über das Untermenü des Symbols "Kopieren / Verschieben" eine Option zu wählen. Anschließend wird der Ordner gewählt, in den die Dokumente kopiert / verschoben werden sollen.
-
-
 Adressen und Vorhaben suchen
 -----------------------------
 
-Die Beschreibung wie Adressen oder Vorhaben gesucht werden können, steht unter dem Block "Funktionen im InGrid Editor", Abschnitt `"Suche" <../suche/ige-ng_suche.html>`_.
+Die Beschreibung wie Adressen oder Vorhaben gesucht werden können, steht unter dem Block "Funktionen im InGrid Editor", Abschnitt `"Suche" <...>`_.
 
 
 Metadaten anzeigen
