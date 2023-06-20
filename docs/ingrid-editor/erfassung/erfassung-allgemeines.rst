@@ -77,9 +77,9 @@ Neben Objekttypen bzw. dem Adresstyp zeigen die Icons zusätzlich den jeweiligen
     :widths: 50 150 300
 
     Symbol , Farbe , Beschreibung
-    .. image:: ../../img/ige/allgemein/ige-ng_icon_gespeichert.png , orange , Der Metadatensatz bzw. die Adresse wurde angelegt und gespeichert und befinden sich in Bearbeitung.
-	.. image:: ../../img/ige/allgemein/ige-ng_icon_veroeffentlicht.png, schwarz , Der Metadatensatz bzw. die Adresse wurde veröffentlicht
-    .. image:: ../../img/ige/allgemein/ige-ng_icon_in-bearbeitung.png , orange und schwarz , Es handelt sich um eine veröffentlichte Version des Metadatensatzes bzw. der Adresse - der Metadatensatz wurde bearbeitet aber noch nicht erneut veröffentlicht.
+    .. image:: ../../img/ige/allgemein/icon_gespeichert.png , orange , Der Metadatensatz bzw. die Adresse wurde angelegt und gespeichert und befinden sich in Bearbeitung.
+	.. image:: ../../img/ige/allgemein/icon_veroeffentlicht.png, schwarz , Der Metadatensatz bzw. die Adresse wurde veröffentlicht
+    .. image:: ../../img/ige/allgemein/icon_in-bearbeitung.png , orange und schwarz , Es handelt sich um eine veröffentlichte Version des Metadatensatzes bzw. der Adresse - der Metadatensatz wurde bearbeitet aber noch nicht erneut veröffentlicht.
 
 
 Menü
@@ -122,16 +122,17 @@ Hier im Einzelnen die zur Verfügung stehenden Werkzeuge:
     :widths: 50 300
 
     Symbol , Bezeichnung
-    .. image:: ../../img/ige/allgemein/ige-ng_symbolleiste_vorhaben-anlegen.png , Neues Vorhaben anlegen
-    .. image:: ../../img/ige/allgemein/ige-ng_symbolleiste_ordner-erstellen.png , Ordner erstellen
-	.. image:: ../../img/ige/allgemein/ige-ng_symbolleiste_vorschau-druckfunktion.png, Vorschau- und Druckfunktion 
-    .. image:: ../../img/ige/allgemein/ige-ng_symbolleiste_kopieren-verschieben.png , Kopieren / Verschieben
-	.. image:: ../../img/ige/allgemein/ige-ng_symbolleiste_loeschen.png , Löschen
-	.. image:: ../../img/ige/allgemein/ige-ng_symbolleiste_zum-letzten-dokument.png , Springe zum letzten Dokument
-	.. image:: ../../img/ige/allgemein/ige-ng_symbolleiste_zum-naechsten-dokument.png , Springe zum nächsten Dokument
+   .. image:: ../../img/ige/allgemein/symbolleiste_vorhaben-anlegen.png , Neues Vorhaben anlegen
+   .. image:: ../../img/ige/allgemein/symbolleiste_ordner-erstellen.png , Ordner erstellen
+   .. image:: ../../img/ige/allgemein/symbolleiste_erfassungsassistent.png , GetCapabilities-Assistent für Geodatendienste
+	.. image:: ../../img/ige/allgemein/symbolleiste_vorschau-druckfunktion.png, Vorschau- und Druckfunktion 
+   .. image:: ../../img/ige/allgemein/symbolleiste_kopieren-verschieben.png , Kopieren / Verschieben
+	.. image:: ../../img/ige/allgemein/symbolleiste_loeschen.png , Löschen
+	.. image:: ../../img/ige/allgemein/symbolleiste_zum-letzten-dokument.png , Springe zum letzten Dokument
+	.. image:: ../../img/ige/allgemein/symbolleiste_zum-naechsten-dokument.png , Springe zum nächsten Dokument
 
 
-.. image:: ../../img/ige/allgemein/ige-ng_toolbar_submenue.png
+.. image:: ../../img/ige/allgemein/toolbar_submenue.png
    :width: 200
 
 Abb.: Symbolleiste - Untermenü für Kopieren / Verschieben
