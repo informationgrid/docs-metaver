@@ -178,7 +178,7 @@ Der Kalender wird über das Kalendersymbol an der rechten Seite des Feldes aufge
 
 Auswahllisten werden über den Pfeil an der rechten Seite des Feldes aufgeklappt. Das „Autocomplete Feature“ sorgt dafür, dass bei der Eingabe Vorschläge angezeigt werden.
 
-.. image:: ../../img/ige/allgemein/ige-ng_feldtyp_auswahl.png
+.. image:: ../../img/ige/allgemein/feldtyp_auswahl.png
    :width: 500
 
 Abb.: Feldtyp - Auswahl
@@ -191,7 +191,7 @@ Im InGrid Editor werden zwei Speicherarten unterschieden:
 
 Das "SPEICHERN" speichert den geänderten bzw. neu erfassten Datensatz, die Daten werden allerdings noch nicht für die Veröffentlichung im Internet freigegeben, d.h. sie bleiben weiterhin nur in der Ordnerstruktur des InGrid Editors sichtbar. Das Speichern ist jederzeit möglich, auch wenn noch nicht alle Pflichtfelder ausgefüllt sind.
 
-.. image:: ../../img/ige/allgemein/ige-ng_speichern.png
+.. image:: ../../img/ige/allgemein/speichern.png
    :width: 300
 
 Abb.: Speichern
@@ -199,7 +199,7 @@ Abb.: Speichern
 
 Mit dem abschließenden "VERÖFFENTLICHEN" werden die Daten für das Internet freigegeben.
 
-.. image:: ../../img/ige/allgemein/ige-ng_veroeffentlichen.png
+.. image:: ../../img/ige/allgemein/veroeffentlichen.png
    :width: 300
 
 Abb.: Veröffentlichen
