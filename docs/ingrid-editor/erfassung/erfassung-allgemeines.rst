@@ -134,7 +134,7 @@ Hier im Einzelnen die zur Verfügung stehenden Werkzeuge:
 
 
 .. image:: ../../img/ige/allgemein/toolbar_submenue.png
-   :width: 200
+
 
 Abb.: Symbolleiste - Untermenü für Kopieren / Verschieben
 
