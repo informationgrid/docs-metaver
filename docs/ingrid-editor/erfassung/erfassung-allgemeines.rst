@@ -71,7 +71,7 @@ Abb.: Adresstypen in der Ordnerstruktur
 Icons - Bearbeitungsstatus
 --------------------------
 
-Neben Objekttypen bzw. dem Adresstyp zeigen die Icons zusätzlich den jeweiligen Bearbeitungsstatus an.
+Neben Metadatentypen bzw. dem Adresstyp zeigen die Icons zusätzlich den jeweiligen Bearbeitungsstatus an.
 
 .. csv-table::
     :widths: 50 150 300
