@@ -253,7 +253,7 @@ Optionen für die Veröffentlichung
    
 Rechts von VERÖFFENTLICHEN befindet sich der Button für verschiedene Optionen (Pfeil nach unten).
 
-.. image:: ../../img/ige/allgemein/ige-ng_veroeffentlichung_planen.png
+.. image:: ../../img/ige/allgemein/veroeffentlichung_planen.png
    :width: 300
    
 Abb.: Fenster mit Optionen für die Veröffentlichung
@@ -264,12 +264,12 @@ Option: "Jetzt veröffentlichen"
 
 Der Button VERÖFFENTLICHEN und die Option "Jetzt veröffentlichen" haben die selbe Funktionalität.
 
-.. image:: ../../img/ige/allgemein/ige-ng_veroeffentlichung.png
+.. image:: ../../img/ige/allgemein/veroeffentlichung.png
    :width: 500
 
 Abb.: Dialogfenster - Auswahl für Veröffentlichungsvarianten
 
-.. image:: ../../img/ige/allgemein/ige-ng_veroeffentlichen_meldung.png
+.. image:: ../../img/ige/allgemein/veroeffentlichen_meldung.png
 
 Abb.: Meldung: Das Dokument wurde veröffentlicht
 
@@ -279,18 +279,18 @@ Option: "Veröffentlichung planen"
 
 Datensätze können zu einem zukünftigen Zeitpunkt veröffentlicht werden. Bei der Veröffentlichung wird nach der Validierung das Dialogfenster "Veröffentlichen" angezeigt, in dem ein zukünftiges Veröffentlichungsdatum "VERÖFFENTLICHUNG PLANEN" ausgewählt werden kann. Es öffnet sich dann ein weiteres Fenster "Veröffentlichen planen" mit einer Kalenderfunktion, hier kann das Veröffentlichungsdatum gewählt werden.
 
-.. image:: ../../img/ige/allgemein/ige-ng_veroeffentlichen_planen.png
+.. image:: ../../img/ige/allgemein/veroeffentlichen_planen.png
    :width: 300
 
 Abb.: Funktion Veröffentlichung planen - Angabe eines Datums
    
    
-.. image:: ../../img/ige/allgemein/ige-ng_veroeffentlichen_planen_meldung.png
+.. image:: ../../img/ige/allgemein/veroeffentlichen_planen_meldung.png
 
 Abb.: Meldung für die geplante Veröffentlichung
 
 
-.. image:: ../../img/ige/allgemein/ige-ng_veroeffentlichung_abgebrochen.png
+.. image:: ../../img/ige/allgemein/veroeffentlichung_abgebrochen.png
 
 Abb.: Meldung für: VERÖFFENTLICHUNG ABBRECHEN UND VORHABEN BEARBEITEN
 
@@ -300,7 +300,7 @@ Option: "Auf letzte Veröffentlichung zurücksetzten"
 
 Wurde ein Metadatensatz veröffentlicht und danach eine Änderung in die Metadaten eingefügt und gespeichert (Symbol orange/schwarz), so lässt sich diese Änderung über die Funktion "Auf letzte Veröffentlichung zurücksetzen" rückgängig machen (Symbol schwarz).
 
-.. image:: ../../img/ige/allgemein/ige-ng_veroeffentlichung_auf-letzte-veroeffentlichung-zuruecksetzen.png
+.. image:: ../../img/ige/allgemein/veroeffentlichung_auf-letzte-veroeffentlichung-zuruecksetzen.png
 
 Abb.: Auf letzte Veröffentlichung zurücksetzen
 
@@ -310,12 +310,12 @@ Option: "Veröffentlichung zurückziehen"
 
 Für diese Option müssen im jeweiligen Bundesland Festlegungen getroffen werden, wann veröffentlichte Vorhaben zurückgezogen werden dürfen.
 
-.. image:: ../../img/ige/allgemein/ige-ng_veroeffentlichung_zurueckziehen.png
+.. image:: ../../img/ige/allgemein/veroeffentlichung_zurueckziehen.png
 
 Abb.: Abfrage ob die Veröffentlichung wirklich zurückgezogen werden soll
 
 
-.. image:: ../../img/ige/allgemein/ige-ng_veroeffentlichung_zurueckgezogen.png
+.. image:: ../../img/ige/allgemein/veroeffentlichung_zurueckgezogen.png
 
 Abb.: Meldung, dass für dieses Vorhaben die Veröffentlichung zurückgezogen wurde.
 
@@ -325,26 +325,26 @@ Abb.: Meldung, dass für dieses Vorhaben die Veröffentlichung zurückgezogen wu
 Dokumente bearbeiten
 --------------------
 
-.. image:: ../../img/ige/allgemein/ige-ng_dokumente_bearbeiten.png
+.. image:: ../../img/ige/allgemein/dokumente_bearbeiten.png
 
 Abb.: Dokumente - Bearbeiten
 
 Wurden Dokumente in ein Vorhaben geladen, erscheint auf der rechten Seite über den Dokumenten, der Link "BEARBEITEN". Wird dieser betätigt, öffnet sich ein Untermenü mit den Optionen "Bearbeiten" und "Löschen". Wird bearbeiten gewäht, erscheint unter der Symbolleiste eine Checkbox für die Auswahl der zu bearbeitenden Dokumente.
 
 
-.. image:: ../../img/ige/allgemein/ige-ng_editor_auswahl.png
+.. image:: ../../img/ige/allgemein/editor_auswahl.png
    :width: 400
 
 Abb.: Dokumente - Bearbeiten - Checkbox "Auswahl"
 
 
-.. image:: ../../img/ige/allgemein/ige-ng_editor_alle-auswaehlen.png
+.. image:: ../../img/ige/allgemein/editor_alle-auswaehlen.png
    :width: 400
 
 Abb.: Dokumente - Bearbeiten - Alle Dokumente auswählen
 
 
-.. image:: ../../img/ige/allgemein/ige-ng_editor_ausgewaehlte-kopieren.png
+.. image:: ../../img/ige/allgemein/editor_ausgewaehlte-kopieren.png
    :width: 400
 
 Abb.: Dokumente - Bearbeiten - Dokumente auswählen
@@ -362,12 +362,12 @@ Die Beschreibung wie Adressen oder Vorhaben gesucht werden können, steht unter 
 Metadaten anzeigen
 ------------------
 
-.. image:: ../../img/ige/allgemein/ige-ng_vorhaben_metadaten-anzeigen.png
+.. image:: ../../img/ige/allgemein/vorhaben_metadaten-anzeigen.png
 
 Abb.: Vorhaben - Metadaten anzeigen
 
 
-.. image:: ../../img/ige/allgemein/ige-ng_vorhaben_metadaten-ansicht.png
+.. image:: ../../img/ige/allgemein/vorhaben_metadaten-ansicht.png
 
 Abb.: Vorhaben - Metadaten
 
@@ -377,12 +377,12 @@ Besuchszeit ist abgelaufen (Logout)
 
 Wenn eine längere Zeit (30 Minuten) keine Interaktion mit dem Editor stattfindet, läuft die Besuchszeit ab. 5 Minuten vor Ablauf der Besuchszeit erscheint oben in der Seite ein Countdown. Ist der Countdown angelaufen wird der Benutzer aus dem InGrid Editor ausgeloggt und muss sich am Editor neu anmelden. Optional kann der "Refresh-Button" betätigt werden, dann beginnt der Countdown erneut. 
 
-.. image:: ../../img/ige/allgemein/ige-ng_editor_countdown.png
+.. image:: ../../img/ige/allgemein/editor_countdown.png
    :width: 300
 
 Abb.: Countdown für den Logout und "Session-refresh-Button"
 
-.. image:: ../../img/ige/allgemein/ige-ng_fehler_timeout.png
+.. image:: ../../img/ige/allgemein/fehler_timeout.png
    :width: 400
 
 Abb.: Meldung - Besuchszeit abgelaufen
@@ -395,7 +395,7 @@ InGrid Editor schließen
 
 Soll der InGrid Editor beendet werden, muss auf der Seite (oben rechts) der Punkt für die Profilverwaltung betätigt werden.
 
-.. image:: ../../img/ige/allgemein/ige-ng_abmeldung.png
+.. image:: ../../img/ige/allgemein/abmeldung.png
    :width: 300
 
 Abb.: Profilverwaltung mit Button "ABMELDEN"
