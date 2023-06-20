@@ -227,7 +227,7 @@ Zeitgesteuerte Veröffentlichung
 -------------------------------
 
 .. image:: ../../img/ige/allgemein/veroeffentlichen.png
-   :width: 500
+   :width: 300
    
 Abb.: VERÖFFENTLICHEN
 
