@@ -122,15 +122,15 @@ Hier im Einzelnen die zur Verfügung stehenden Werkzeuge:
     :widths: 50 300
 
     Symbol , Bezeichnung
-   .. image:: ../../img/ige/allgemein/symbolleiste_vorhaben-anlegen.png , Neues Vorhaben anlegen
-   .. image:: ../../img/ige/allgemein/symbolleiste_ordner-erstellen.png , Ordner erstellen
-   .. image:: ../../img/ige/allgemein/symbolleiste_assistent.png , GetCapabilities-Assistent für Geodatendienste
-	.. image:: ../../img/ige/allgemein/symbolleiste_vorschau-druckfunktion.png, Vorschau- und Druckfunktion 
-   .. image:: ../../img/ige/allgemein/symbolleiste_kopieren-verschieben.png , Kopieren / Verschieben
-   .. image:: ../../img/ige/allgemein/symbolleiste_iso.png , ISO-Ansicht
-	.. image:: ../../img/ige/allgemein/symbolleiste_loeschen.png , Löschen
-	.. image:: ../../img/ige/allgemein/symbolleiste_zum-letzten-dokument.png , Springe zum letzten Dokument
-	.. image:: ../../img/ige/allgemein/symbolleiste_zum-naechsten-dokument.png , Springe zum nächsten Dokument
+    .. image:: ../../img/ige/allgemein/symbolleiste_vorhaben-anlegen.png , Neues Vorhaben anlegen
+    .. image:: ../../img/ige/allgemein/symbolleiste_ordner-erstellen.png , Ordner erstellen
+    .. image:: ../../img/ige/allgemein/symbolleiste_assistent.png , GetCapabilities-Assistent für Geodatendienste
+	 .. image:: ../../img/ige/allgemein/symbolleiste_vorschau-druckfunktion.png, Vorschau- und Druckfunktion 
+    .. image:: ../../img/ige/allgemein/symbolleiste_kopieren-verschieben.png , Kopieren / Verschieben
+    .. image:: ../../img/ige/allgemein/symbolleiste_iso.png , ISO-Ansicht
+	 .. image:: ../../img/ige/allgemein/symbolleiste_loeschen.png , Löschen
+	 .. image:: ../../img/ige/allgemein/symbolleiste_zum-letzten-dokument.png , Springe zum letzten Dokument
+	 .. image:: ../../img/ige/allgemein/symbolleiste_zum-naechsten-dokument.png , Springe zum nächsten Dokument
 
 
 .. image:: ../../img/ige/allgemein/toolbar_submenue.png
