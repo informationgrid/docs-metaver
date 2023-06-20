@@ -119,7 +119,7 @@ Abb.: Symbolleiste
 Hier im Einzelnen die zur Verfügung stehenden Werkzeuge: 
 
 .. csv-table::
-    :widths: 30 400
+   :widths: 30, 400
 
     Symbol , Bezeichnung
     .. image:: ../../img/ige/allgemein/symbolleiste_vorhaben-anlegen.png , Neues Vorhaben anlegen
@@ -146,6 +146,7 @@ Eingabefelder
 Im InGrid Editor gibt es eine Vielzahl von Feldern, die ausgefüllt werden können, es müssen jedoch nicht immer alle Felder belegt werden. Für jedes Verfahren bzw. jede Adresse gibt es jedoch sogenannte Pflichtfelder, die auf jeden Fall ausgefüllt werden müssen. Ohne die Befüllung dieser Pflichtfelder lässt sich der Datensatz nicht abspeichern! Gekennzeichnet sind diese Pflichtfelder durch ein Sternchen. 
 
 .. image:: ../../img/ige/allgemein/felder.png
+   :width: 500
 
 Abb.: Eingabefelder mit * sind Pflichtfelder
 
