@@ -112,14 +112,14 @@ Symbolleiste
 ------------
 
 .. image:: ../../img/ige/allgemein/toolbar.png
-   :width: 400
+   :width: 600
    
 Abb.: Symbolleiste
 
 Hier im Einzelnen die zur Verfügung stehenden Werkzeuge: 
 
 .. csv-table::
-    :widths: 50 300
+    :widths: 30 400
 
     Symbol , Bezeichnung
     .. image:: ../../img/ige/allgemein/symbolleiste_vorhaben-anlegen.png , Neues Vorhaben anlegen
