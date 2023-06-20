@@ -24,9 +24,9 @@ Abb.: InGrid Editor - Benutzeroberfläche
 
 Aufbau der Benutzeroberfläche:
 
-* Links - Navigation
-* Mitte - Ordnerstruktur
-* Rechts - Datenerfassung
+* linke Seite - Navigation
+* Seitenmitte - Ordnerstruktur
+* rechte Seite - Datenerfassung
 
 
 Strukturierung der Daten
