@@ -47,7 +47,7 @@ Abb.: InGrid Editor - Aufbau der Ordnerstruktur
 Durch Klicken auf den Pfeil nach rechts wird die Ordnerstruktur ausgeklappt bzw. durch Anklicken des Pfeils nach unten wird die Struktur geschlossen.
  
 
-Icons in der Datenstruktur
+Metadatentypen in der Datenstruktur
 --------------------------
 
 Im InGrid Editor gibt es verschiedene Metadatentypen bzw. Adresstypen. 
