@@ -32,6 +32,7 @@ Version der Bedienungsanleitung
    portal/startseite/feld-ankuendigungen.rst
    portal/kartenclient/verfuegbare-kartendienste.rst
 
+
 .. toctree::
    :maxdepth: 3
    :caption: Der Editor
