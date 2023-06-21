@@ -93,12 +93,9 @@ Berechtigungen zu den Metadaten
 
 
 Veröffenlichungsrecht setzten ...
----------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 An den Icons wird durch eine gestrichelte Linie die Veröffentlichungsbreite der Adresse oder des Metadatensatzes angezeigt.
-
-
-
 
 .. csv-table::
    :widths: 50, 150, 300
@@ -110,7 +107,7 @@ An den Icons wird durch eine gestrichelte Linie die Veröffentlichungsbreite der
 
 
 Verantwortlichkeit ändern
--------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
 
@@ -118,7 +115,7 @@ Verantwortlichkeit ändern
 
 
 Berechtigungen anzeigen
------------------------
+^^^^^^^^^^^^^^^^^^^^^^^
 
 
 
