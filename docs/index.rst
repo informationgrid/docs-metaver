@@ -36,10 +36,9 @@ Version der Bedienungsanleitung
    :maxdepth: 3
    :caption: Der Editor
    
-   ingrid-editor/editor/ingrideditor.rst
-   ingrid-editor/editor/funktionen.rst
-   ingrid-editor/atom-feed-client/atom-feed-client.rst
-
+   ingrid-editor/ingrideditor/ingrideditor.rst
+   ingrid-editor/ingrideditor/funktionen.rst
+ 
 
 .. toctree::
    :maxdepth: 4
@@ -49,7 +48,8 @@ Version der Bedienungsanleitung
    ingrid-editor/erfassung/erfassung-adressen.rst
    ingrid-editor/erfassung/erfassung-objekte.rst
    ingrid-editor/erfassung/objektklassen/objektklassen.rst
-
+   ingrid-editor/ige_erfassung/ige_objektklassen/atom-feed/client.rst
+   ingrid-editor/ige_erfassung/ige_objektklassen/atom-feed/bereitstellung.rst
 
 .. toctree::
    :maxdepth: 3
