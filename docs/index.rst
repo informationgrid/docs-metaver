@@ -49,6 +49,12 @@ Version der Bedienungsanleitung
    ingrid-editor/erfassung/erfassung-adressen.rst
    ingrid-editor/erfassung/erfassung-objekte.rst
    ingrid-editor/erfassung/objektklassen/objektklassen.rst
+
+
+.. toctree::
+   :maxdepth: 3
+   :caption: Der Atom-Feed Client
+
    ingrid-editor/ige_erfassung/ige_objektklassen/atom-feed/client.rst
    ingrid-editor/ige_erfassung/ige_objektklassen/atom-feed/bereitstellung.rst
 
