@@ -34,14 +34,6 @@ Version der Bedienungsanleitung
 
 
 .. toctree::
-   :maxdepth: 3
-   :caption: Der Editor
-   
-   ingrid-editor/ingrideditor/ingrideditor.rst
-   ingrid-editor/ingrideditor/funktionen.rst
- 
-
-.. toctree::
    :maxdepth: 4
    :caption: Erfassung von Metadaten
 
