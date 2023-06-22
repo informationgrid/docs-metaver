@@ -1,6 +1,6 @@
 
-Dokument
-========
+Literatur
+=========
 
 .. csv-table::
     :header: "Portal", "Editor"
