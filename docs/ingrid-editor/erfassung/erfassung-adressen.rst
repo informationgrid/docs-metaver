@@ -50,7 +50,7 @@ Abb.: Auswahlfeld Titel
 
 Hinweis: Das Feld „Kommunikation“ ist ein Pflichtfeld und muss ausgefüllt werden (es muss mindestens eine E-Mail-Adresse angegeben werden). Fehlt die Angabe, kann die Adresse zwar gespeichert werden, bei der Veröffentlichung kommt es jedoch zu folgender Fehlermeldung:
 
-.. image:: ../../img/meldungen/ige-ng_fehler_felder-korrekt-ausfuellen.png
+.. image:: ../../img/ige/meldungen/ige-ng_fehler_felder-korrekt-ausfuellen.png
    :width: 300
 
 Abb.: Hinweis - alle Pflichtfelder ausfüllen
@@ -88,7 +88,7 @@ Abb.: Zugeordnete Datensätze
 **Hinweis**
 *Eine Adresse kann immer nur dann gelöscht werden, wenn dieser Adresse keine Vorhaben mehr zugeordnet sind, d.h. die oben abgebildete Liste der zugeordneten Verfahren muss leer sein.*
 
-.. image:: ../../img/meldungen/ige-ng_adressen_loeschen_verknuepfungen-vorhanden.png
+.. image:: ../../img/ige/meldungen/ige-ng_adressen_loeschen_verknuepfungen-vorhanden.png
    :width: 400
 
 Abb.: Dieser Adressdatensatz ist noch mit Vorhaben verknüpft und kann nicht gelöscht werden - "DETAILS" anzeigen
