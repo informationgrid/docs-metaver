@@ -6,9 +6,13 @@ Anwendung
     :header: "Portal", "Editor"
     :widths: 30 30
 
-	.. image:: ../../../img_ige/metaver_ige/ige_icons/objekte/portal/anwendung.png, .. image:: ../../../img_ige/metaver_ige/ige_icons/objekte/ige/anwendung.png
+	.. image:: ../../../img/ige/icons/objekte/portal/informationssystem.png, .. image:: ../../../img/ige/icons/objekte/ige/informationssystem.png
 
-Mit der Objektklasse Anwendung lassen sich im Metadatenkatalog Softwareprodukte, Webanwendungen oder zentrale Auskunfts- und Informationssysteme, beschreiben.
+
+
+ingrid-editor/erfassung/objektklassen
+
+Mit der Objektklasse Informationssystem lassen sich im Metadatenkatalog Softwareprodukte, Webanwendungen oder zentrale Auskunfts- und Informationssysteme, beschreiben.
 
 .. important:: Die Erfassung dieser Objektklasse erfolgt wie unter `Erfassung von Objekten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html>`_ beschrieben. Lediglich der hier beschriebene Abschnitt Fachbezug beinhaltet für diese Objektklasse spezielle Eingabefelder.
 
