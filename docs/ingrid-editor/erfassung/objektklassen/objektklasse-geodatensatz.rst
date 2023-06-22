@@ -9,7 +9,7 @@ Geodatensatz
   .. image:: ../../../img/ige/icons/objekte/portal/geodatensatz.png, .. image:: ../../../img/ige/icons/objekte/ige/geodatensatz.png
 
 
-Die Objektklasse Geodatensatz dient der Beschreibung von Daten mit direktem oder indirektem Raumbezug (digital oder analog).
+Der Datentyp Geodatensatz dient der Beschreibung von Daten mit direktem oder indirektem Raumbezug (digital oder analog).
 
 Beispiele: GIS-Daten, analoge Karten oder Kartenwerke
 
