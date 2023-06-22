@@ -6,7 +6,7 @@ Fachaufgabe
     :header: "Portal", "Editor"
     :widths: 20, 20
 
-	.. image:: ../../../img_ige/metaver_ige/ige_icons/objekte/portal/fachaufgabe.png, .. image:: ../../../img_ige/metaver_ige/ige_icons/objekte/ige/fachaufgabe.png
+    .. image:: ../../../img/ige/icons/objekte/portal/fachaufgabe.png, .. image:: ../../../img/ige/icons/objekte/ige/fachaufgabe.png
 
 In dieser Objektklasse können z.B. Verweise auf Internetseiten angelegt werden.
 
