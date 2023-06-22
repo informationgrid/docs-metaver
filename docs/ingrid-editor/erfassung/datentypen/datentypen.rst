@@ -1,6 +1,6 @@
 
-Erfassung Datentypen
-====================
+Datentypen
+==========
 
 .. toctree::
    :maxdepth: 1
