@@ -6,7 +6,7 @@ Literatur
     :header: "Portal", "Editor"
     :widths: 20, 20
 
-	.. image:: ../../../img/ige/icons/objekte/portal/literatur.png, .. image:: ../../../img/ige/icons/objekte/ige/literatur.png
+	.. image:: ../../../img/ige/icons/datentypen/portal/literatur.png, .. image:: ../../../img/ige/icons/datentypen/ige/literatur.png
 
 Mit der Objektklasse Literatur lassen sich Leitfäden, Handlungsempfehlungen, Berichte, Gutachten, Studien, Genehmigungen, Rechtsdokumente, Broschüren, Bücher, Aufsätze oder Abschlussarbeiten beschreiben.
 
