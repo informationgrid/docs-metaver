@@ -4,9 +4,10 @@ Projekt
 
 .. csv-table::
     :header: "Portal", "Editor"
-    :widths: 30 30
+    :widths: 20, 20
 
-	.. image:: ../../../img_ige/metaver_ige/ige_icons/objekte/portal/projekt.png, .. image:: ../../../img_ige/metaver_ige/ige_icons/objekte/ige/projekt.png
+   .. image:: ../../../img/ige/icons/objekte/portal/projekt.png, .. image:: ../../../img/ige/icons/objekte/ige/projekt.png
+
 
 Die Objektklasse Projekt wird verwendet, wenn laufende oder abgeschlossene Vorhaben, Projekte bzw. Programme beschrieben werden sollen. Dazu gehören: Forschungs- und Entwicklungsvorhaben, Projekte unter Beteiligung anderer Institutionen oder privater Unternehmen, Schutzprogramme, von besonderem Interesse sind Vorhaben/Projekte/Programme, in denen umweltrelevante Datenbestände entstehen.
 

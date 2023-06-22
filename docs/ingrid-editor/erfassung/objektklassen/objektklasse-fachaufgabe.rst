@@ -4,9 +4,9 @@ Organisationseinheit
 
 .. csv-table::
     :header: "Portal", "Editor"
-    :widths: 30 30
+    :widths: 20, 20
 
-	.. image:: ../../../img_ige/metaver_ige/ige_icons/objekte/portal/organisationseinheit.png, .. image:: ../../../img_ige/metaver_ige/ige_icons/objekte/ige/organisationseinheit.png
+	.. image:: ../../../img_ige/metaver_ige/ige_icons/objekte/portal/fachaufgabe.png, .. image:: ../../../img_ige/metaver_ige/ige_icons/objekte/ige/fachaufgabe.png
 
 In dieser Objektklasse können z.B. Verweise auf Internetseiten angelegt werden.
 

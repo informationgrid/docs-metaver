@@ -4,11 +4,11 @@ Dokument
 
 .. csv-table::
     :header: "Portal", "Editor"
-    :widths: 30 30
+    :widths: 20, 20
 
 	.. image:: ../../../img/ige/icons/objekte/portal/literatur.png, .. image:: ../../../img/ige/icons/objekte/ige/literatur.png
 
-Mit der Objektklasse Dokument lassen sich Leitfäden, Handlungsempfehlungen, Berichte, Gutachten, Studien, Genehmigungen, Rechtsdokumente, Broschüren, Bücher, Aufsätze oder Abschlussarbeiten beschreiben.
+Mit der Objektklasse Literatur lassen sich Leitfäden, Handlungsempfehlungen, Berichte, Gutachten, Studien, Genehmigungen, Rechtsdokumente, Broschüren, Bücher, Aufsätze oder Abschlussarbeiten beschreiben.
 
 ..important:: Die Erfassung dieser Objektklasse erfolgt wie unter `Erfassung von Objekten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html>`_ beschrieben. Lediglich der hier beschriebene Abschnitt Zeitbezug beinhaltet für diese Objektklasse spezielle Eingabefelder.
 

@@ -8,8 +8,8 @@ Erfassung der Objektklassen
    
    objektklasse-geodatensatz.rst
    objektklasse-geodatendienst.rst
-   objektklasse-anwendung.rst
-   objektklasse-datenbank.rst
-   objektklasse-dokument.rst
+   objektklasse-informationssystem.rst
+   objektklasse-datensammlung.rst
+   objektklasse-literatur.rst
    objektklasse-projekt.rst
-   objektklasse-organisationseinheit.rst
+   objektklasse-fachaufgabe.rst

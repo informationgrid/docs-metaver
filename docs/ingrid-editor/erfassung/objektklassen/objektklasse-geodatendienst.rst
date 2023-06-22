@@ -4,7 +4,7 @@ Geodatendienst
 
 .. csv-table::
     :header: "Portal", "Editor"
-    :widths: 30 30
+    :widths: 20, 20
 
     .. image:: ../../../img_ige/metaver_ige/ige_icons/objekte/portal/geodatendienst.png, .. image:: ../../../img_ige/metaver_ige/ige_icons/objekte/ige/geodatendienst.png
 
