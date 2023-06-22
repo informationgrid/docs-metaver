@@ -39,8 +39,8 @@ Version der Bedienungsanleitung
 
    ingrid-editor/erfassung/erfassung-allgemeines.rst
    ingrid-editor/erfassung/erfassung-adressen.rst
-   ingrid-editor/erfassung/erfassung-objekte.rst
-   ingrid-editor/erfassung/objektklassen/objektklassen.rst
+   ingrid-editor/erfassung/erfassung-metadaten.rst
+   ingrid-editor/erfassung/datentypen/datentypen.rst
 
 
 .. toctree::
