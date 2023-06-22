@@ -6,10 +6,10 @@ Datentypen
    :maxdepth: 1
    :caption: Datentypen
    
-   datentyp-geodatensatz.rst
-   datentyp-geodatendienst.rst
-   datentyp-informationssystem.rst
-   datentyp-datensammlung.rst
-   datentyp-literatur.rst
-   datentyp-projekt.rst
-   datentyp-fachaufgabe.rst
+   objektklasse-geodatensatz.rst
+   objektklasse-geodatendienst.rst
+   objektklasse-informationssystem.rst
+   objektklasse-datensammlung.rst
+   objektklasse-literatur.rst
+   objektklasse-projekt.rst
+   objektklasse-fachaufgabe.rst
