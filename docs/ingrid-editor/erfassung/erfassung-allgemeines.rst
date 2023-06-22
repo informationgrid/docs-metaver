@@ -1,5 +1,5 @@
-Allgemeines zum neuen InGrid Editor
-===================================
+Der neue InGrid Editor
+======================
 
 Der neue InGrid Editor ist fertig programmiert und kann für die Erfassung von Metadaten eingesetzt werden.
 Es sind viele Neuerungen eingeflossen. Es wurden Erfahrungen aus den letzten Jahren, eine benutzerfreundliche Bedienung, die Barrierefreiheit, ein responsives Layout (Darstellung auf unterschiedlichen Bildschirmen), eine Touch Bedienung für Tablets und Touch-Monitoren berücksichtigt.
