@@ -4,7 +4,7 @@ Anwendung
 
 .. csv-table::
     :header: "Portal", "Editor"
-    :widths: 20,20
+    :widths: 20, 20
 
 	.. image:: ../../../img/ige/icons/objekte/portal/informationssystem.png, .. image:: ../../../img/ige/icons/objekte/ige/informationssystem.png
 
