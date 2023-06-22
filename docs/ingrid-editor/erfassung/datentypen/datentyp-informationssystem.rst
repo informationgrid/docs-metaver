@@ -6,7 +6,7 @@ Informationsystem
     :header: "Portal", "Editor"
     :widths: 20, 20
 
-	.. image:: ../../../img/ige/icons/objekte/portal/informationssystem.png, .. image:: ../../../img/ige/icons/objekte/ige/informationssystem.png
+	.. image:: ../../../img/ige/icons/datentypen/portal/informationssystem.png, .. image:: ../../../img/ige/icons/datentypen/ige/informationssystem.png
 
 Mit der Objektklasse Informationssystem lassen sich im Metadatenkatalog Softwareprodukte, Webanwendungen oder zentrale Auskunfts- und Informationssysteme, beschreiben.
 
