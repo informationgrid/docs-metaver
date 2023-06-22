@@ -8,10 +8,6 @@ Anwendung
 
 	.. image:: ../../../img/ige/icons/objekte/portal/informationssystem.png, .. image:: ../../../img/ige/icons/objekte/ige/informationssystem.png
 
-
-
-ingrid-editor/erfassung/objektklassen
-
 Mit der Objektklasse Informationssystem lassen sich im Metadatenkatalog Softwareprodukte, Webanwendungen oder zentrale Auskunfts- und Informationssysteme, beschreiben.
 
 .. important:: Die Erfassung dieser Objektklasse erfolgt wie unter `Erfassung von Objekten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html>`_ beschrieben. Lediglich der hier beschriebene Abschnitt Fachbezug beinhaltet für diese Objektklasse spezielle Eingabefelder.
