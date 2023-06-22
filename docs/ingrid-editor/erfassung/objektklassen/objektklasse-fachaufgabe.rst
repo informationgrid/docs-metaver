@@ -6,7 +6,7 @@ Fachaufgabe
     :header: "Portal", "Editor"
     :widths: 20, 20
 
-    .. image:: ../../../img/ige/icons/objekte/portal/fachaufgabe.png, .. image:: ../../../img/ige/icons/objekte/ige/fachaufgabe.png
+    .. image:: ../../../img/ige/icons/datentyp/portal/fachaufgabe.png, .. image:: ../../../img/ige/icons/datentyp/ige/fachaufgabe.png
 
 Mit dem Datentyp Fachaufgabe können z.B. Verweise auf Internetseiten angelegt werden.
 

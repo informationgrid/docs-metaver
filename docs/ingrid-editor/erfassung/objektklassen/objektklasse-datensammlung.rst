@@ -6,7 +6,7 @@ Datensammlung
     :header: "Portal", "Editor"
     :widths: 20, 20
 
-	.. image:: ../../../img/ige/icons/objekte/portal/datensammlung.png, .. image:: ../../../img/ige/icons/objekte/ige/datensammlung.png
+	.. image:: ../../../img/ige/icons/datentyp/portal/datensammlung.png, .. image:: ../../../img/ige/icons/datentyp/ige/datensammlung.png
 
 Der Datentyp Datensammlung dient der Beschreibung von gemessenen, veredelten oder gesammelten Daten. Dazu gehören: Messdaten, statistische Erhebungen, Modelldaten oder Daten zu Anlagen (Dienste/Anwendungen/Informationssysteme: zentrale Auskunftssysteme, welche in der Regel auf eine oder mehrere Datenbanken zugreifen und diese zugänglich machen.)
 

@@ -6,7 +6,7 @@ Geodatensatz
     :header: "Portal", "Editor"
     :widths: 20, 20
 
-  .. image:: ../../../img/ige/icons/objekte/portal/geodatensatz.png, .. image:: ../../../img/ige/icons/objekte/ige/geodatensatz.png
+  .. image:: ../../../img/ige/icons/datentyp/portal/geodatensatz.png, .. image:: ../../../img/ige/icons/datentyp/ige/geodatensatz.png
 
 
 Der Datentyp Geodatensatz dient der Beschreibung von Daten mit direktem oder indirektem Raumbezug (digital oder analog).
