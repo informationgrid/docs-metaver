@@ -1,10 +1,10 @@
 
-Erfassung der Objektklassen
-===========================
+Erfassung Datentypen
+====================
 
 .. toctree::
    :maxdepth: 1
-   :caption: Objektklassen
+   :caption: Datentypen
    
    objektklasse-geodatensatz.rst
    objektklasse-geodatendienst.rst
