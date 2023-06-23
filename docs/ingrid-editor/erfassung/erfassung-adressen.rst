@@ -112,6 +112,8 @@ Abb: Fehlermeldung - Adresse löschen mit Unteradressen
 
 Abb.: Hinweis zum Löschen des Adressdatensatzes
 
+Wenn ein Adressdatensatz gelöscht weden soll und dieser noch mit (Meta-)Datensätzen verknüpft ist, müssen diese erst einer anderen Adresse zugeordent werden. 
+
 .. image:: ../../img/ige/adressen/ige-ng_adresse-ersetzen.png
    :width: 500
 
