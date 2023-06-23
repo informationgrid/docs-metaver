@@ -90,12 +90,22 @@ Abb.: Zugeordnete Datensätze
 .. image:: ../../img/ige/adressen/ige-ng_adresse-loeschen.png
    :width: 400
 
-Abb.: Zugeordnete Datensätze
+Abb.: Hinweis zum Löschen des Adressdatensatzes
 
 .. image:: ../../img/ige/adressen/ige-ng_adresse-ersetzen.png
    :width: 400
 
-Abb.: Zugeordnete Datensätze
+Abb.: Adresse ersetzen
+
+
+Wird versucht einen Adressdatensatz zu löschen, dem weitere Adressdatensätze untergeordent sind. erscheint die Fehlermeldung: Um Ordner zu löschen, müssen diese leer sein.
+
+
+.. image:: ../../img/ige/adressen/ige-ng_ordner-adressen-loeschen.png
+   :width: 400
+
+Abb: Fehlermeldung - Adresse löschen mit Unteradressen
+
 
 Sind alle erforderlichen und zusätzlich Felder ausgefüllt, kann die Adresse mit dem Button "VERÖFFENTLICHEN" für das Internet freigegeben werden. 
 
