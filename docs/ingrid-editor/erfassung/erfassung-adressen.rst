@@ -87,12 +87,12 @@ Abb.: Zugeordnete Datensätze
 
 .. hint:: Eine Adresse kann immer nur dann gelöscht werden, wenn dieser Adresse keine Metadatensätze mehr zugeordnet sind, d.h. die oben abgebildete Liste der zugeordneten Metadatensätze muss leer sein.
 
-.. image:: ../../img/ige/meldungen/ige-ng_adresse-loeschen.png
+.. image:: ../../img/ige/adressen/ige-ng_adresse-loeschen.png
    :width: 400
 
 Abb.: Zugeordnete Datensätze
 
-.. image:: ../../img/ige/meldungen/ige-ng_adresse-ersetzen.png
+.. image:: ../../img/ige/adressen/ige-ng_adresse-ersetzen.png
    :width: 400
 
 Abb.: Zugeordnete Datensätze
