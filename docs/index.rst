@@ -45,7 +45,7 @@ Version der Bedienungsanleitung
 
 .. toctree::
    :maxdepth: 3
-   :caption: Atom-Downloaddienste
+   :caption: Atom-Feeds
 
    ingrid-editor/erfassung/datensatztypen/atom-feed/atom-feed.rst
 
