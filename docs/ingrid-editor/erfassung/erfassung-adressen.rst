@@ -10,7 +10,8 @@ Abb.: Anlegen einer Adressstruktur
 
 Zum Anlegen einer neuen Adresse muss zunächst eine Ordnerstruktur erstellt werden. Darunter können dann die Entsprechenden Adresstypen angelegt werden. 
 
-**Anlegen eines Ordners oder einer Adresse**
+Anlegen eines Ordners oder einer Adresse
+----------------------------------------
 
 Im Strukturbaum den entsprechenden Ordner oder eine vorhandene Adresse auswählen. In der Symbolleiste auf das entsprechende Symbol klicken "Neue Adresse anlegen" oder "Ordner erstellen". Für die Strukturierung der Adressdaten kann zwischen Adresstypen "Organisation" und "Person" gewählt werden.
 
@@ -49,7 +50,7 @@ Abb.: Auswahlfeld Anrede
 
 Abb.: Auswahlfeld Titel
 
-Hinweis: Das Feld „Kommunikation“ ist ein Pflichtfeld und muss ausgefüllt werden (es muss mindestens eine E-Mail-Adresse angegeben werden). Fehlt die Angabe, kann die Adresse zwar gespeichert werden, bei der Veröffentlichung kommt es jedoch zu folgender Fehlermeldung:
+.. hint:: Das Feld „Kommunikation“ ist ein Pflichtfeld und muss ausgefüllt werden (es muss mindestens eine E-Mail-Adresse angegeben werden). Fehlt die Angabe, kann die Adresse zwar gespeichert werden, bei der Veröffentlichung kommt es jedoch zu folgender Fehlermeldung:
 
 .. image:: ../../img/ige/meldungen/ige-ng_fehler_felder-korrekt-ausfuellen.png
    :width: 300
@@ -65,16 +66,15 @@ Abb.: Zeile löschen
 
 Sollen die Kommunikationsmöglichkeiten in ihrer Reihenfolge geändert werden, sind auf der linken Seite sechs Punkte, diese (mit der Maus) festhalten und die ganze Zeile nach oben oder unten verschieben.
 
-**Datenschutz:**
-*In den Adressen vom Typ "Person" gibt es die Checkbox "für diese Daten der übergeordneten Organisation verwenden". Wird diese Option ausgewählt, so wird in der Portaldarstellung in allen Vorhaben, denen diese Adresse zugeordnet ist, statt dieser Adresse die der übergeordneten Organisation angezeigt.*
+
+.. hint::In den Adressen vom Typ "Person" gibt es die Checkbox "für diese Daten der übergeordneten Organisation verwenden". Wird diese Option ausgewählt, so wird in der Portaldarstellung in allen Vorhaben, denen diese Adresse zugeordnet ist, statt dieser Adresse die der übergeordneten Organisation angezeigt.
 
 .. image:: ../../img/ige/adressen/ige-ng_adressen_uebergeordnete-organisation-verwenden.png
 
 
 Abb.: Checkbox - für Anzeige Daten der übergeordneten Organisation verwenden
 
-**Hinweis:**
-*Es besteht keine Verpflichtung zur Veröffentlichung von persönlichen Adressen. Die Angabe einer Organisation ist ausreichend und wird empfohlen.* 
+.. hint:: Es besteht keine Verpflichtung zur Veröffentlichung von persönlichen Adressen. Die Angabe einer Organisation ist ausreichend und wird empfohlen.
 
 Am Ende der Eingabemaske für Adressen befindet sich der Abschnitt "Zugeordnete Datensätze". Über den Button "ANZEIGEN" können alle Vorhaben aufgelistet werden, die mit diesem Datensatz verknüpft sind.
 
@@ -85,8 +85,7 @@ Am Ende der Eingabemaske für Adressen befindet sich der Abschnitt "Zugeordnete 
 
 Abb.: Zugeordnete Datensätze
 
-**Hinweis**
-*Eine Adresse kann immer nur dann gelöscht werden, wenn dieser Adresse keine Vorhaben mehr zugeordnet sind, d.h. die oben abgebildete Liste der zugeordneten Verfahren muss leer sein.*
+.. hint:: Eine Adresse kann immer nur dann gelöscht werden, wenn dieser Adresse keine Vorhaben mehr zugeordnet sind, d.h. die oben abgebildete Liste der zugeordneten Verfahren muss leer sein.
 
 .. image:: ../../img/ige/meldungen/ige-ng_adressen_loeschen_verknuepfungen-vorhanden.png
    :width: 400
@@ -106,8 +105,4 @@ Sind alle erforderlichen und zusätzlich Felder ausgefüllt, kann die Adresse mi
 
 Abb.: Veröffentlichen
 
-**Hinweis:**
-*Vorhaben können nur veröffentlicht werden, wenn der verknüpfte Adressdatensatz vorher veröffentlicht wurde.*
-
-
-
+.. hint:: Vorhaben können nur veröffentlicht werden, wenn der verknüpfte Adressdatensatz vorher veröffentlicht wurde.
