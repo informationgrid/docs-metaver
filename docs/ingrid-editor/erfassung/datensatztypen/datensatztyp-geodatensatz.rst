@@ -6,7 +6,7 @@ Geodatensatz
     :header: "Portal", "Editor"
     :widths: 20, 20
 
-   .. image:: ../../../img/ige/icons/datensatztypen/portal/geodatensatz.png, .. image:: ../../../img/ige/icons/datensatztypen/ige/geodatensatz.png
+    .. image:: ../../../img/ige/icons/datensatztypen/portal/geodatensatz.png, .. image:: ../../../img/ige/icons/datensatztypen/ige/geodatensatz.png
 
 Der Datensatztyp Geodatensatz dient der Beschreibung von Daten mit direktem oder indirektem Raumbezug (digital oder analog).
 
@@ -15,7 +15,7 @@ Beispiele: GIS-Daten, analoge Karten oder Kartenwerke
 Die Metadaten werden nach der ISO-Norm 19115 „Geographic Information – Metadata“ erfasst.
 
 
-.. important:: Neben den Allgemeinen Metadaten, wie sie auch in den anderen Objektklassen unter** `Erfassung von Objekten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html>`_ **beschrieben sind, kommen in der Objektkasse Geodatensatz folgende Metadaten dazu.
+.. important:: Neben den Allgemeinen Metadaten, wie sie unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_ beschrieben sind, kommen im Datensatztyp Geodatensatz folgende Felder dazu.
 
 
 
