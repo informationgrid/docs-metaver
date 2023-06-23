@@ -47,8 +47,7 @@ Version der Bedienungsanleitung
    :maxdepth: 3
    :caption: Atom-Feed Downloaddienste
 
-   ingrid-editor/erfassung/datensatztypen/atom-feed/client.rst
-   ingrid-editor/erfassung/datensatztypen/atom-feed/bereitstellung.rst
+   ingrid-editor/erfassung/datensatztypen/atom-feed/atom-feed.rst
 
 
 .. toctree::
