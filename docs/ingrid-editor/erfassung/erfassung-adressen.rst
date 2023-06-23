@@ -30,7 +30,7 @@ Nach Auswahl des Adresstyps erscheint die Eingabemaske für die  Adresse rechts 
 
 Standardmäßig werden zunächst nur die Pflichtfelder angezeigt. Neben den verpflichtenden Angaben (Bezeichnung / Name, Kontakt) können weitere Adressangaben (Anschrift, usw.) gespeichert werden. Durch einen Klick auf "+ HINZUFÜGEN", können weitere Kommunikationsmöglichkeiten eingetragen werden.
 
-.. image:: ../../img/ige/adressen/ige-ng_adresse-eingabemaske-komplett.png
+.. image:: ../../img/ige/adressen/ige-ng_adresse-eingabemaske.png
 
 Abb.: Eingabemaske für Adressen
 
@@ -69,7 +69,7 @@ Sollen die Kommunikationsmöglichkeiten in ihrer Reihenfolge geändert werden, s
 *In den Adressen vom Typ "Person" gibt es die Checkbox "für diese Daten der übergeordneten Organisation verwenden". Wird diese Option ausgewählt, so wird in der Portaldarstellung in allen Vorhaben, denen diese Adresse zugeordnet ist, statt dieser Adresse die der übergeordneten Organisation angezeigt.*
 
 .. image:: ../../img/ige/adressen/ige-ng_adressen_uebergeordnete-organisation-verwenden.png
-   :width: 500
+
 
 Abb.: Checkbox - für Anzeige Daten der übergeordneten Organisation verwenden
 
