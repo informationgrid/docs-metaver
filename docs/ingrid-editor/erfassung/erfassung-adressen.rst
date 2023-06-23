@@ -85,6 +85,26 @@ Am Ende der Eingabemaske für Adressen befindet sich der Abschnitt "Zugeordnete 
 
 Abb.: Zugeordnete Datensätze
 
+Sind alle erforderlichen und zusätzlich Felder ausgefüllt, kann die Adresse mit dem Button "VERÖFFENTLICHEN" für das Internet freigegeben werden. 
+
+.. image:: ../../img/ige/adressen/ige-ng_veroeffentlichen.png
+   :width: 300 
+
+Abb.: Veröffentlichen
+
+.. hint:: Metadatensätze können nur veröffentlicht werden, wenn der verknüpfte Adressdatensatz vorher veröffentlicht wurde.
+
+Löschen eines Ordners oder einer Adresse
+----------------------------------------
+
+Wird versucht einen Ordner/Adressdatensatz zu löschen, dem weitere Adressdatensätze untergeordent sind. erscheint die Fehlermeldung: Um Ordner zu löschen, müssen diese leer sein.
+
+
+.. image:: ../../img/ige/adressen/ige-ng_ordner-adressen-loeschen.png
+   :width: 400
+
+Abb: Fehlermeldung - Adresse löschen mit Unteradressen
+
 .. hint:: Eine Adresse kann immer nur dann gelöscht werden, wenn dieser Adresse keine Metadatensätze mehr zugeordnet sind, d.h. die oben abgebildete Liste der zugeordneten Metadatensätze muss leer sein.
 
 .. image:: ../../img/ige/adressen/ige-ng_adresse-loeschen.png
@@ -96,22 +116,3 @@ Abb.: Hinweis zum Löschen des Adressdatensatzes
    :width: 400
 
 Abb.: Adresse ersetzen
-
-
-Wird versucht einen Adressdatensatz zu löschen, dem weitere Adressdatensätze untergeordent sind. erscheint die Fehlermeldung: Um Ordner zu löschen, müssen diese leer sein.
-
-
-.. image:: ../../img/ige/adressen/ige-ng_ordner-adressen-loeschen.png
-   :width: 400
-
-Abb: Fehlermeldung - Adresse löschen mit Unteradressen
-
-
-Sind alle erforderlichen und zusätzlich Felder ausgefüllt, kann die Adresse mit dem Button "VERÖFFENTLICHEN" für das Internet freigegeben werden. 
-
-.. image:: ../../img/ige/adressen/ige-ng_veroeffentlichen.png
-   :width: 300 
-
-Abb.: Veröffentlichen
-
-.. hint:: Metadatensätze können nur veröffentlicht werden, wenn der verknüpfte Adressdatensatz vorher veröffentlicht wurde.
