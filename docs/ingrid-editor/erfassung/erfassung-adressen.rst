@@ -67,7 +67,7 @@ Abb.: Zeile löschen
 Sollen die Kommunikationsmöglichkeiten in ihrer Reihenfolge geändert werden, sind auf der linken Seite sechs Punkte, diese (mit der Maus) festhalten und die ganze Zeile nach oben oder unten verschieben.
 
 
-.. hint::In den Adressen vom Typ "Person" gibt es die Checkbox "für diese Daten der übergeordneten Organisation verwenden". Wird diese Option ausgewählt, so wird in der Portaldarstellung in allen Vorhaben, denen diese Adresse zugeordnet ist, statt dieser Adresse die der übergeordneten Organisation angezeigt.
+.. hint::In den Adressen vom Typ "Person" gibt es die Checkbox "für Anzeige Daten der übergeordneten Organisation verwenden". Ist diese Checkbox aktiviert, werden im Portal die Kontaktdaten der übergeordneten Organisation angezeigt, die personenbezogen Daten nicht.
 
 .. image:: ../../img/ige/adressen/ige-ng_adressen_uebergeordnete-organisation-verwenden.png
 
@@ -76,7 +76,7 @@ Abb.: Checkbox - für Anzeige Daten der übergeordneten Organisation verwenden
 
 .. hint:: Es besteht keine Verpflichtung zur Veröffentlichung von persönlichen Adressen. Die Angabe einer Organisation ist ausreichend und wird empfohlen.
 
-Am Ende der Eingabemaske für Adressen befindet sich der Abschnitt "Zugeordnete Datensätze". Über den Button "ANZEIGEN" können alle Vorhaben aufgelistet werden, die mit diesem Datensatz verknüpft sind.
+Am Ende der Eingabemaske für Adressen befindet sich der Abschnitt "Zugeordnete Datensätze". Über den Button "ANZEIGEN" können alle Metadatensätze aufgelistet werden, die mit diesem Adressdatensatz verknüpft sind.
 
 .. image:: ../../img/ige/adressen/ige-ng_adressen_zugeordnete-datensaetze_anzeigen.png
    :width: 400 
@@ -85,17 +85,17 @@ Am Ende der Eingabemaske für Adressen befindet sich der Abschnitt "Zugeordnete 
 
 Abb.: Zugeordnete Datensätze
 
-.. hint:: Eine Adresse kann immer nur dann gelöscht werden, wenn dieser Adresse keine Vorhaben mehr zugeordnet sind, d.h. die oben abgebildete Liste der zugeordneten Verfahren muss leer sein.
+.. hint:: Eine Adresse kann immer nur dann gelöscht werden, wenn dieser Adresse keine Metadatensätze mehr zugeordnet sind, d.h. die oben abgebildete Liste der zugeordneten Verfahren muss leer sein.
 
 .. image:: ../../img/ige/meldungen/ige-ng_adressen_loeschen_verknuepfungen-vorhanden.png
    :width: 400
 
-Abb.: Dieser Adressdatensatz ist noch mit Vorhaben verknüpft und kann nicht gelöscht werden - "DETAILS" anzeigen
+Abb.: Dieser Adressdatensatz ist noch mit Metadatensätzen verknüpft und kann nicht gelöscht werden - "DETAILS" anzeigen
 
 .. image:: ../../img/meldungen/ige-ng_adressen_loeschen_verknuepfungen-vorhanden_details.png
    :width: 400 
 
-Abb.: Vorhaben mit dem der Datensatz verknüpft ist.
+Abb.: Metadatensätze mit dem der Datensatz verknüpft ist.
 
 
 Sind alle erforderlichen und zusätzlich Felder ausgefüllt, kann die Adresse mit dem Button "VERÖFFENTLICHEN" für das Internet freigegeben werden. 
@@ -105,4 +105,4 @@ Sind alle erforderlichen und zusätzlich Felder ausgefüllt, kann die Adresse mi
 
 Abb.: Veröffentlichen
 
-.. hint:: Vorhaben können nur veröffentlicht werden, wenn der verknüpfte Adressdatensatz vorher veröffentlicht wurde.
+.. hint:: Metadatensätze können nur veröffentlicht werden, wenn der verknüpfte Adressdatensatz vorher veröffentlicht wurde.
