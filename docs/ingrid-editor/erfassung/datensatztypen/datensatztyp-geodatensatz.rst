@@ -15,7 +15,7 @@ Beispiele: GIS-Daten, analoge Karten oder Kartenwerke
 Die Metadaten werden nach der ISO-Norm 19115 „Geographic Information – Metadata“ erfasst.
 
 
-.. important:: Die Erfassung dieses Objekttyps erfolgt wie unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_  beschrieben. Lediglich der hier beschriebene Abschnitt Fachbezug beinhaltet für diesen Datensatztyp spezielle Eingabefelder.
+.. important:: Die Erfassung dieses Datensatztyps erfolgt wie unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_  beschrieben. Lediglich der hier beschriebene Abschnitt Fachbezug beinhaltet für diesen Datensatztyp spezielle Eingabefelder.
 
 
 Erfassung
