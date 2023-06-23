@@ -85,7 +85,7 @@ Am Ende der Eingabemaske für Adressen befindet sich der Abschnitt "Zugeordnete 
 
 Abb.: Zugeordnete Datensätze
 
-.. hint:: Eine Adresse kann immer nur dann gelöscht werden, wenn dieser Adresse keine Metadatensätze mehr zugeordnet sind, d.h. die oben abgebildete Liste der zugeordneten Verfahren muss leer sein.
+.. hint:: Eine Adresse kann immer nur dann gelöscht werden, wenn dieser Adresse keine Metadatensätze mehr zugeordnet sind, d.h. die oben abgebildete Liste der zugeordneten Metadatensätze muss leer sein.
 
 .. image:: ../../img/ige/meldungen/ige-ng_adresse-loeschen.png
    :width: 400
