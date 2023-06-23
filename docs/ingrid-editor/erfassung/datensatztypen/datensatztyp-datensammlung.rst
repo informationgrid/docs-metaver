@@ -10,7 +10,7 @@ Datensammlung
 
 Der Datensatztyp Datensammlung dient der Beschreibung von gemessenen, veredelten oder gesammelten Daten. Dazu gehören: Messdaten, statistische Erhebungen, Modelldaten oder Daten zu Anlagen (Dienste/Anwendungen/Informationssysteme: zentrale Auskunftssysteme, welche in der Regel auf eine oder mehrere Datenbanken zugreifen und diese zugänglich machen.)
 
-.. important:: Die Erfassung dieses Datensatztyps erfolgt wie unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_  beschrieben. Lediglich der hier beschriebene Abschnitt Fachbezug beinhaltet für diesen Datensatztyp spezielle Eingabefelder.
+.. important:: Die Erfassung dieses Datensatztyps erfolgt wie unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_  beschrieben. Der hier beschriebene Abschnitt Fachbezug beinhaltet für diesen Datensatztyp spezielle Eingabefelder.
 
 
 

@@ -10,7 +10,7 @@ Informationsystem
 
 Mit dem Datensatztyp Informationssystem lassen sich im Metadatenkatalog Softwareprodukte, Webanwendungen oder zentrale Auskunfts- und Informationssysteme, beschreiben.
 
-.. important:: Die Erfassung dieser Objektklasse erfolgt wie unter `Erfassung von Objekten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html>`_ beschrieben. Lediglich der hier beschriebene Abschnitt Fachbezug beinhaltet für diese Objektklasse spezielle Eingabefelder.
+.. important:: Die Erfassung dieser Objektklasse erfolgt wie unter `Erfassung von Objekten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html>`_ beschrieben. Der hier beschriebene Abschnitt Fachbezug beinhaltet für diese Objektklasse spezielle Eingabefelder.
 
 
 Erfassung

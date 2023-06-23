@@ -10,7 +10,7 @@ Literatur
 
 Mit dem Datensatztyp Literatur lassen sich Leitfäden, Handlungsempfehlungen, Berichte, Gutachten, Studien, Genehmigungen, Rechtsdokumente, Broschüren, Bücher, Aufsätze oder Abschlussarbeiten beschreiben.
 
-.. important:: Die Erfassung dieses Datensatztyps erfolgt wie unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_ beschrieben. Lediglich der hier beschriebene Abschnitt Fachbezug beinhaltet für diese Objektklasse spezielle Eingabefelder.
+.. important:: Die Erfassung dieses Datensatztyps erfolgt wie unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_ beschrieben. Der hier beschriebene Abschnitt Fachbezug beinhaltet für diese Objektklasse spezielle Eingabefelder.
 
 Erfassung
 ---------
