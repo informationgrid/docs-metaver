@@ -5,7 +5,7 @@ Glossar
 Glossar allgemein
 -----------------
 
-**Atom Feed**
+**Atom-Feed**
 
 Die Bereitstellung von Daten im Atom-Format bezeichnet man auch als Atom-Feed. Atom-Feed ist ein XML-Format, dass von Nutzern verwendet werden kann, um Daten aus dem Internet herunterzuladen. (Bekannt sind solche Dienste auch als RSS-Feed.) Nutzer können einen Atom-Feed (Atom-Channel) abonnieren und mithilfe eines entsprechenden Atom-Feed-Readers (Browser-Erweiterung) Daten aus dem Internet herunterladen. Ein Feed endet mit der Bezeichnung ".atom". Diese Endung kann man auch durch .xml ersetzen. Da in den Webbrowsern die Erweiterung für den Atom-Feed Reader kein Standard ist, wurde der Atom-Feed Client entwickelt. Der Atom-Feed Client wurde im METAVER an die Bundesländer angepasst. Über den Atom-Feed Client werden die Atom-Feeds verwaltet und die Daten (z.B. .zip, .gml) als Download bereitgestellt.
 
@@ -46,12 +46,12 @@ InGrid ist eine modular aufgebaute Software, die vielseitig eingesetzt werden ka
 Ein Keyword, Schlüsselwort, Schlagwort oder Suchbegriff dient dem gezielten Auffinden von Informationen über die Suche.
 
 
-**Metadaten**
+**MD - Metadaten**
 
 Metadaten oder Metainformationen sind strukturierte Daten, die Informationen über Merkmale anderer Daten enthalten. Bei den durch Metadaten beschriebenen Daten handelt es sich oft um größere Datensammlungen wie z.B. Geodaten, Datenbanken, Literatur, Projekte, Organisationsstrukturen.
 
 
-**Metadatenkatalog**
+**MDK - Metadatenkatalog**
 
 Der Metadatenkatalog ist eine Datenbank, diese beinhaltet Metadaten.
 
@@ -75,7 +75,7 @@ Unter Suchoberfläche ist eine Anwendung, die die technischen Requests (Anfragen
 die Suche auslösen. Die Suche schickt daraufhin die technische Anfrage an den oder die angeschlossenen CSW-Schnittstellen und erhält eine Antwort. Im Idealfall sind in der Antwort diejenigen Datenbeschreibungen aufgelistet, die der Suchanfrage entsprechen. Diese werden dann dem Nutzer über eine Oberfläche in angemessener Form präsentiert. Üblich ist, dass eine solche Suchoberfläche beispielsweise URLs als anklickbare Hyperlinks interpretiert, denn die meisten Suchoberflächen sind Browseranwendungen. Denkbar ist aber auch eine Suchoberfläche, die zum Beispiel direkt in einem Geoinformationssystem implementiert ist. Suchoberflächen richten sich stets nach den Bedürfnissen der jeweiligen Zielgruppe unter den Suchenden.
 
 
-**Umweltdatenkatalog**
+**UDK - Umweltdatenkatalog**
 
  - Der Umweltdatenkatalog ist eine Datenbank mit umweltrelevanten Metadaten.
  - Der Aufbau erfolgte an 1992 als Desktopanwendung.
@@ -150,15 +150,32 @@ Diese Anfrage liefert ein georeferenziertes Rasterbild (Karte) vom WMS zurück. 
 
 **GetFeatureInfo**
 
-Ein WMS kann freiwillig Anfragen zu dem dargestellten Kartenausschnitt beantworten. Als Ausgabe liefert er festgelegte thematische Informationen der zugrundeliegenden Daten.
+Ein WMS kann Anfragen zu dem dargestellten Kartenausschnitt beantworten. Als Ausgabe liefert er festgelegte thematische Informationen der zugrundeliegenden Daten.
 
 
-**Identifikator der Datenquelle**
+**ID**
+Identifikator (Kennzeichung, Kennung)
 
-Verweis auf eine Geodatenquelle (Ressource)
- - wird manuell bei der Datenerfassung in den Metadatenkatalog eingetragen
- - die Datenquelle (digitale Karte) erhält dadurch eine eindeutige Kennzeichnung
- - die Datenquelle kann in unterschiedlichen Anwendungen eindeutig identifiziert werden
+  **Identifikator der Datenquelle**
+  (Beispiel: https://registry.gdi-de.org/id/de.st/011a1332-569f-42ae-86ee-dd196c946419)
+
+  Verweis auf eine Geodatenquelle (Ressource)
+   - Erfassung in den Metadaten und verweist auf den Datenursprung
+   - die Datenquelle (digitale Karte) erhält dadurch eine eindeutige Kennzeichnung
+   - die Datenquelle kann in unterschiedlichen Anwendungen eindeutig identifiziert werden
+
+  **Objekt-ID**
+   (Beispiel: 986ac909-e390-4dd6-886f-b49e0dfcc8de)
+   - ist im Zusammenhang mit dem Metadatenkatalog die eindeutige Identifikation für den Metadatensatz
+
+  **URI**
+  - Uniform Resource Identifier (einheitlicher Identifikator für Ressourcen)
+  (Beispiel: https://registry.gdi-de.org/id/de.st/011a1332-569f-42ae-86ee-dd196c946419)
+
+  **UUID**
+  (Beispiel: 19bd40ac-8be8-464a-8273-f2ce87e0fe32)
+   - Universally Unique Identifier (Universelle Eindeutige Kennung)
+   - dient zur Identifikation von Informationen in Computersystemen
   
   
 **ISO-Norm 19115**
@@ -170,23 +187,39 @@ Verweis auf eine Geodatenquelle (Ressource)
 
 
 **ISO-Norm 19119**
-
  - ist ein Standard für Schnittstellen von Geodatendiensten
  - schafft die Voraussetzungen für den Austausch und die Darstellung von Geoinformationen über unterschiedliche Internet-Anwendungen
  
  
-**Kartenlayer**
+** Layer / Kartenlayer**
+- Kartenebenen oder -schichten (z.B. eine Ebene mit Straßen, eine Ebene mit Gewässern)
 
-Kartenebenen oder -schichten (z.B. eine Ebene mit Straßen, eine Ebene mit Gewässern)
+
+**Netwerkprotokolle**
+- Kommunikationsprotokoll für den Austausch von Daten zwischen Computern bzw. Prozessen, die in einem Rechnernetzwerk miteinander verbunden sind
+- HTTP - Hypertext Transfer Protocol (Hypertext-Übertragungsprotokoll)
+- HTTPS - Hypertext Transfer Protocol Secure (sicheres Hypertext-Übertragungsprotokoll - verschlüsselt)
+  - TLS - Transport Layer Security TLS (Transportschichtsicherheit) 
+  - SSL - Vorgängerbezeichnung (Secure Sockets Layer)
+- FTP - File Transfer Protocol (Dateiübertragungsprotokoll)
+- SFTP - Secure File Transfer Protocol  (sicheres Dateiübertragungsprotokoll - verschlüsselt)
+  - SSH - Secure Shell - verschlüsselt
 
 
 **OGC - Open Geospatial Consortium**
-
  - ist eine gemeinnützige Organisation
  - Mitglieder: Regierungsorganisationen, private Industrie und Universitäten
  - treibt die Entwicklung von raumbezogener Informationsverarbeitung (insbesondere Geodaten) voran
  - legt allgemeingültige Standards (ISO) zum Zweck der Interoperabilität von Daten fest
  - Ressource - Daten-Quelle (zu beschreibende Daten)
+
+**Recource**
+Ressource steht im Zusammenhang mit dem Metadatenkatalog für Daten / Datenquelle die mit Metadaten beschrieben werden. z.B.:  Geodaten, Datenbanken und deren Inhalte, Dateien (Datenaustauschformate) und deren Inhalte, Daten zu Anwendungen (Software) bzw. Informationssysteme (auch Schnittstellen), Literatur (Dokumente, Bücher, Broschüren)
+
+
+**URL**
+Uniform Resource Locator (einheitlicher Ressourcenzeiger)
+- identifiziert und lokalisiert eine Ressource z.B. eine Webseite oder eine Datei
 
 
 **WFS - WebFeatureService - Downloaddienst**
@@ -262,7 +295,7 @@ Datenformate / Beschreibung
  
  Austauschformate
  
- - .gml - Geography Markup- ist eine Auszeichnungssprache zum Austausch raumbezogener Objekte.
+ - .gml - Geography Markup Language - ist eine Auszeichnungssprache zum Austausch raumbezogener Objekte.
  - .kml - Keyhole Markup Language
  - .xml - Extensible Markup Language
  - .gpx - GPS-Austauschformat - Datenformat zur Speicherung von Geodaten (ursprünglich hauptsächlich GPS-Daten)
@@ -287,7 +320,7 @@ Datenformate / Beschreibung
 
  - .bmp - Bitmap
  - .gif - Graphics Interchange Format
- - .jpg / .jpeg - Joint Photographic Experts Group
+ - .jpg / .jpeg - Joint Photographic (Experts) Group
  - .png - Portable Network Graphics
  - .svg - Scalable Vector Graphics
  - .tiff - Tagged Image File Format
@@ -342,14 +375,15 @@ Microsoft
  
  - CSW - Catalogue Service for the Web - Internet-gestützte Veröffentlichung von Informationen über Geoanwendungen, Geodienste und Geodaten (Metadaten) in einer Geodateninfrastruktur. Wichtig ist, dass dieser Dienst selbst keine Geodaten enthält, sondern lediglich beschreibende Metadaten. Dieser Geodienst wurde durch das Open Geospatial Consortium (OGC) spezifiziert und unter der Version 2.0.0 veröffentlicht.
  
- - DCAT.AP - ist das gemeinsame deutsche Metadatenmodell zum Austausch von offenen Verwaltungsdaten. 
- 
+ - DCAT-AP.de - ist das gemeinsame deutsche Metadatenmodell zum Austausch von offenen Verwaltungsdaten. 
+ - OGC-API - Dieser Standard baut auf den OGC-Webdienststandards (WMS, WFS, WCS, WPS usw.) auf.), definiert jedoch ressourcenorientierte APIs, die moderne Webentwicklungspraktiken nutzen.
+
  - REST - Representational State Transfer 
  - SOAP - Simple Object Access Protocol
  - NAS - Normbasierte Austauschschnittstelle
  
  
-**Künstliche Intelligenz**
+**KI - Künstliche Intelligenz**
  
  - AI - Artficial Intelligence - künstliche Intelligenz
   
@@ -363,7 +397,7 @@ Microsoft
   
  - GRID - Gitter, Raster
  
- - .csv - Comma-separated - Komma getrennte Werte
+ - .csv - Comma-separated-values - Komma getrennte Werte
 
  
 
