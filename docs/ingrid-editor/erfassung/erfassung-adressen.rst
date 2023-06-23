@@ -57,14 +57,14 @@ Abb.: Auswahlfeld Titel
 
 Abb.: Hinweis - alle Pflichtfelder ausfüllen
 
+Sollen die Kommunikationsmöglichkeiten in ihrer Reihenfolge geändert werden, sind auf der linken Seite sechs Punkte, diese (mit der Maus) festhalten und die ganze Zeile nach oben oder unten verschieben.
+
 Soll ein bestehender Eintrag unter Kommunikation gelöscht werden, muss in der Zeile auf das Kreuz (rechts) geklickt werden.
 
 
 .. image:: ../../img/ige/adressen/ige-ng_adressen_eingabefelder-loeschen.png
 
 Abb.: Zeile löschen
-
-Sollen die Kommunikationsmöglichkeiten in ihrer Reihenfolge geändert werden, sind auf der linken Seite sechs Punkte, diese (mit der Maus) festhalten und die ganze Zeile nach oben oder unten verschieben.
 
 
 .. hint::In den Adressen vom Typ "Person" gibt es die Checkbox "für Anzeige Daten der übergeordneten Organisation verwenden". Ist diese Checkbox aktiviert, werden im Portal die Kontaktdaten der übergeordneten Organisation angezeigt, die personenbezogen Daten nicht.
