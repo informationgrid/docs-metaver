@@ -113,6 +113,6 @@ Abb: Fehlermeldung - Adresse löschen mit Unteradressen
 Abb.: Hinweis zum Löschen des Adressdatensatzes
 
 .. image:: ../../img/ige/adressen/ige-ng_adresse-ersetzen.png
-   :width: 400
+   :width: 500
 
 Abb.: Adresse ersetzen
