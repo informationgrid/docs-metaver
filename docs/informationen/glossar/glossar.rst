@@ -136,10 +136,10 @@ UDK - Umweltdatenkatalog
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
  - Der Umweltdatenkatalog ist eine Datenbank mit umweltrelevanten Metadaten.
- - Der Aufbau erfolgte an 1992 als Desktopanwendung.
+ - Der Aufbau erfolgte ab 1992 als Desktopanwendung.
  - Von 2006 - 2015 als Browser basierte Anwendung (Software InGrid) z.B. in Portal-U.
- - Ab 2015 Bildung der Länderkooperation METAVER,  Fortführung der Metadaten- bzw.Umweltdatenkataloge.
- - Neben Umweltdatenkatalogen in METAVER (vorher Portal-U) existieren auch eigenständige InGrid Installationen in einzelnen Ländern.
+ - Ab 2015 Bildung der Länderkooperation METAVER,  Fortführung der Metadaten- bzw. Umweltdatenkataloge.
+ - Neben Umwelt-/Metadatenkatalogen in METAVER existieren auch eigenständige InGrid Installationen in einzelnen Ländern.
 
 
 URL
