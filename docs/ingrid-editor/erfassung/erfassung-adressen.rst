@@ -97,7 +97,7 @@ Abb.: Veröffentlichen
 Ordner/Adresse löschen
 ----------------------
 
-Wird versucht einen Ordner/Adressdatensatz zu löschen, dem weitere Adressdatensätze untergeordent sind. erscheint die Fehlermeldung: Um Ordner zu löschen, müssen diese leer sein.
+Wird versucht einen Ordner/Adressdatensatz zu löschen, dem weitere Adressdatensätze untergeordent sind. erscheint die Fehlermeldung:
 
 
 .. image:: ../../img/ige/adressen/ige-ng_ordner-adressen-loeschen.png
