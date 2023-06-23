@@ -46,9 +46,7 @@ ID
 
 Identifikator (Kennzeichung, Kennung)
 
-
   **Identifikator der Datenquelle**
-
   (Beispiel: https://registry.gdi-de.org/id/de.st/011a1332-569f-42ae-86ee-dd196c946419)
 
   Verweis auf eine Geodatenquelle (Ressource)
@@ -57,18 +55,18 @@ Identifikator (Kennzeichung, Kennung)
    - die Datenquelle kann in unterschiedlichen Anwendungen eindeutig identifiziert werden
 
   **Objekt-ID**
+  (Beispiel: 986ac909-e390-4dd6-886f-b49e0dfcc8de)
 
-   (Beispiel: 986ac909-e390-4dd6-886f-b49e0dfcc8de)
    - ist im Zusammenhang mit dem Metadatenkatalog die eindeutige Identifikation für den Metadatensatz
 
   **URI**
-
-  - Uniform Resource Identifier (einheitlicher Identifikator für Ressourcen)
   (Beispiel: https://registry.gdi-de.org/id/de.st/011a1332-569f-42ae-86ee-dd196c946419)
 
-  **UUID**
+   - Uniform Resource Identifier (einheitlicher Identifikator für Ressourcen)
 
+  **UUID**
   (Beispiel: 19bd40ac-8be8-464a-8273-f2ce87e0fe32)
+
    - Universally Unique Identifier (Universelle Eindeutige Kennung)
    - dient zur Identifikation von Informationen in Computersystemen
 
