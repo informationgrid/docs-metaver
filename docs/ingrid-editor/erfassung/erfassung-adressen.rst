@@ -82,7 +82,6 @@ Am Ende der Eingabemaske für Adressen befindet sich der Abschnitt "Zugeordnete 
    :width: 400 
 
 .. image:: ../../img/ige/adressen/ige-ng_adressen_zugeordnete-datensaetze.png
-   :width: 600 
 
 Abb.: Zugeordnete Datensätze
 
