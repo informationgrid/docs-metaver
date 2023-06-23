@@ -50,7 +50,7 @@ Abb.: Auswahlfeld Anrede
 
 Abb.: Auswahlfeld Titel
 
-.. hint:: Das Feld „Kommunikation“ ist ein Pflichtfeld und muss ausgefüllt werden (es muss mindestens eine E-Mail-Adresse angegeben werden). Fehlt diese Angabe, kann die Adresse zwar gespeichert werden, bei der Veröffentlichung kommt es jedoch zu folgender Fehlermeldung:
+.. hint:: Das Feld „Kontakt“ ist ein Pflichtfeld und muss ausgefüllt werden (es muss mindestens eine E-Mail-Adresse angegeben werden). Fehlt diese Angabe, kann die Adresse zwar gespeichert werden, bei der Veröffentlichung kommt es jedoch zu folgender Fehlermeldung:
 
 .. image:: ../../img/ige/meldungen/ige-ng_fehler_felder-korrekt-ausfuellen.png
    :width: 300
