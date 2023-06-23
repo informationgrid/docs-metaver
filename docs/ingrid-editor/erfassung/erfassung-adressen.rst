@@ -39,12 +39,12 @@ Abb.: Eingabemaske für Adressen
 Abb.: Eingabefenster für die Wahl des Adresstyps
 
 .. image:: ../../img/ige/adressen/ige-ng_adressen_anrede.png
-   :width: 300
+   :width: 200
 
 Abb.: Auswahlfeld Anrede
 
 .. image:: ../../img/ige/adressen/ige-ng_adressen_titel.png
-   :width: 300
+   :width: 200
 
 Abb.: Auswahlfeld Titel
 
