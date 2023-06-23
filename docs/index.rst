@@ -40,15 +40,15 @@ Version der Bedienungsanleitung
    ingrid-editor/erfassung/erfassung-allgemeines.rst
    ingrid-editor/erfassung/erfassung-adressen.rst
    ingrid-editor/erfassung/erfassung-metadaten.rst
-   ingrid-editor/erfassung/datentypen/datentypen.rst
+   ingrid-editor/erfassung/datentypen/datensatztypen.rst
 
 
 .. toctree::
    :maxdepth: 3
    :caption: Der Atom-Feed Client
 
-   ingrid-editor/erfassung/objektklassen/atom-feed/client.rst
-   ingrid-editor/erfassung/objektklassen/atom-feed/bereitstellung.rst
+   ingrid-editor/erfassung/datensatztypen/atom-feed/client.rst
+   ingrid-editor/erfassung/datensatztypen/atom-feed/bereitstellung.rst
 
 
 .. toctree::
