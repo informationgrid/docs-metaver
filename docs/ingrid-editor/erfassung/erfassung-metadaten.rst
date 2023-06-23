@@ -3,21 +3,21 @@
 Metadaten erfassen
 ==================
 
-**Erst die Adresse anlegen!**
+.. important:: Bevor Sie mit der Erfassung der Metadaten beginnen, empfielt es sich, mit der Erfassung der Adressdaten anzufangen.
 
-Soll ein neues Objekt angelegt werden, empfiehlt es sich zunächst zu prüfen, ob die Adresse, auf die in einem neuen Objekt verwiesen werden soll, bereits im Metadatenkatalog (MDK) angelegt ist. Ist dies nicht der Fall, sollte zunächst die neue Adresse und anschließend erst das neue Objekt erstellt werden. Grund hierfür ist, dass die Adressverweise im Objekt nicht frei eingegeben werden können, sondern aus den bereits bestehenden Adresseinträgen ausgewählt werden. Existiert die gewünschte Adresse noch nicht, so ist der betreffende Adress-Eintrag nicht auswählbar. Der Bearbeiter muss in diesem Fall das neu angelegte Objekt zunächst zwischenspeichern und erst einmal die Adresse im Adress-Strukurbaum anlegen. Diesen Umweg erspart man sich, wenn immer als erstes die Adressen angelegt werden und anschließend die Objekte.
+Soll ein neuer Datensatztyp angelegt werden, empfiehlt es sich zunächst zu prüfen, ob die Adresse, auf die in einem neuen Metadatensatz verwiesen werden soll, bereits im Metadatenkatalog (MDK) angelegt ist. Ist dies nicht der Fall, sollte zunächst die neue Adresse und anschließend erst das neue Metadatensatz erstellt werden. Grund hierfür ist, dass die Adressverweise im Metadatensatz nicht frei eingegeben werden können, sondern aus den bereits bestehenden Adresseinträgen ausgewählt werden. Existiert die gewünschte Adresse noch nicht, so ist der betreffende Adress-Eintrag nicht auswählbar. Der Bearbeiter muss in diesem Fall den neu angelegten Metadatensatz zunächst zwischenspeichern und erst einmal die Adresse anlegen.
 
 
-Aufbau des Strukturbaumes
--------------------------
+Strukturierung der Metadatensätze
+---------------------------------
 
-Die Metadatenkatalog-Objekte werden im Objekt-Strukturbaum des InGrid Editors verwaltet. Für eine effiziente Verwaltung der Objekte können, wie bei den Adressen, hierarchische Strukturen mit Ordnern aufgebaut werden.
+Für eine übersichtliche Verwaltung der Metadatensätze, können hierarchische Strukturen mit Ordnern angelegt werden.
 
 
 Neues Objekt anlegen
 --------------------
 
-Zum Anlegen eines neuen Objektes muss zunächst der Ordner im Strukturbaum ausgewählt werden, unter dem das neue Objekt angelegt werden soll. „Neu anlegen“ (aus der Symbolleiste) oder über das Kontextmenü (rechte Maustaste – „Neu anlegen“) wählen, es erscheint der Erfassungsassistent.
+Zum Anlegen eines neuen Metadatensatzes muss zunächst der Ordner im Strukturbaum ausgewählt werden, unter dem das neue Objekt angelegt werden soll. „Neu anlegen“ (aus der Symbolleiste) oder über das Kontextmenü (rechte Maustaste – „Neu anlegen“) wählen, es erscheint der Erfassungsassistent.
 
 .. image:: ../../img_ige/metaver_ige/ige_strukturbaum/ige-objekt-anlegen.png
 
