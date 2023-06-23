@@ -10,7 +10,7 @@ Projekt
 
 Der Datensatztyp Projekt wird verwendet, wenn laufende oder abgeschlossene Vorhaben, Projekte bzw. Programme beschrieben werden sollen. Dazu gehören: Forschungs- und Entwicklungsvorhaben, Projekte unter Beteiligung anderer Institutionen oder privater Unternehmen, Schutzprogramme, von besonderem Interesse sind Vorhaben/Projekte/Programme, in denen umweltrelevante Datenbestände entstehen.
 
-.. important:: Die Erfassung dieses Datensatztyps erfolgt wie unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_ beschrieben. Lediglich der hier beschriebene Abschnitt Zeitbezug beinhaltet für diesen Datensatztyp spezielle Eingabefelder.
+.. important:: Die Erfassung dieses Datensatztyps erfolgt wie unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_ beschrieben. Lediglich der hier beschriebene Abschnitt Fachbezug beinhaltet für diesen Datensatztyp spezielle Eingabefelder.
 
 
 Erfassung
