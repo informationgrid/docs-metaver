@@ -40,7 +40,7 @@ Version der Bedienungsanleitung
    ingrid-editor/erfassung/erfassung-allgemeines.rst
    ingrid-editor/erfassung/erfassung-adressen.rst
    ingrid-editor/erfassung/erfassung-metadaten.rst
-   ingrid-editor/erfassung/datentypen/datensatztypen.rst
+   ingrid-editor/erfassung/datensatztypen/datensatztypen.rst
 
 
 .. toctree::
