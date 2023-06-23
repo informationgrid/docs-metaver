@@ -67,7 +67,7 @@ Identifikator (Kennzeichung, Kennung)
   (Beispiel: https://registry.gdi-de.org/id/de.st/011a1332-569f-42ae-86ee-dd196c946419)
 
   **UUID**
-  
+
   (Beispiel: 19bd40ac-8be8-464a-8273-f2ce87e0fe32)
    - Universally Unique Identifier (Universelle Eindeutige Kennung)
    - dient zur Identifikation von Informationen in Computersystemen
@@ -100,7 +100,7 @@ Der Metadatenkatalog ist eine Datenbank, diese beinhaltet Metadaten.
 Metadatensatz
 ^^^^^^^^^^^^^
 
-Ein Medatadensatz beschreibt die eigentlichen Daten(Recource). Metadatensätze können unterschiedliche Objektklassen (-typen) darstellen. In METAVER werden die Objektlassen Geodatensatz, Geodatendienst, Anwendung, Datenbank, Dokument, Projekt und Organisationseinheit verwendet. Je nach gewählter Objektklasse ändert sich die Eingabemaste für die Metadaten im Editor.
+Ein Medatadensatz beschreibt die eigentlichen Daten (Recource). Metadatensätze können unterschiedliche Objektklassen (-typen) darstellen. In METAVER werden die Objektlassen Geodatensatz, Geodatendienst, Anwendung, Datenbank, Dokument, Projekt und Organisationseinheit verwendet. Je nach gewählter Objektklasse ändert sich die Eingabemaste für die Metadaten im Editor.
 
 
 METAVER - Metadatenverbund
