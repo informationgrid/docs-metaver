@@ -5,63 +5,106 @@ Glossar
 Glossar allgemein
 -----------------
 
-**Atom-Feed**
+Atom-Feed
+^^^^^^^^^
 
 Die Bereitstellung von Daten im Atom-Format bezeichnet man auch als Atom-Feed. Atom-Feed ist ein XML-Format, dass von Nutzern verwendet werden kann, um Daten aus dem Internet herunterzuladen. (Bekannt sind solche Dienste auch als RSS-Feed.) Nutzer können einen Atom-Feed (Atom-Channel) abonnieren und mithilfe eines entsprechenden Atom-Feed-Readers (Browser-Erweiterung) Daten aus dem Internet herunterladen. Ein Feed endet mit der Bezeichnung ".atom". Diese Endung kann man auch durch .xml ersetzen. Da in den Webbrowsern die Erweiterung für den Atom-Feed Reader kein Standard ist, wurde der Atom-Feed Client entwickelt. Der Atom-Feed Client wurde im METAVER an die Bundesländer angepasst. Über den Atom-Feed Client werden die Atom-Feeds verwaltet und die Daten (z.B. .zip, .gml) als Download bereitgestellt.
 
 
-
-**CSW - Catalogue Service Web**
+CSW - Catalogue Service Web
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Bei einer CSW-Schnittstelle handelt es sich um eine standardisiert abfragbare Schnittstelle, die Datenbeschreibungen (Metadaten) abgibt. Die Anfrage wird wie auch bei anderen OGC- Diensten „Request“, die Antwort „Response“ genannt. Eine Katalogschnittstelle kann auf Anfrage benennen, welche Fähigkeiten sie besitzt (GetCapabilities), über wie viele Datenbeschreibungen sie verfügt (DescribeRecords) und es können neben weiteren Möglichkeiten gezielt bestimmte Datenbeschreibungen unter Angabe des Metadatensatzidentifikators abgerufen werden (GetRecordById). Alles in allem ist die Kommunikation mit einer CSW-Schnittstelle um ein Vielfaches komplexer als beispielsweise die Kommunikation mit einem WMS (WebMapService), der Kartenbilder und Sachinformationen ausliefern kann. Aus diesem Grunde ist es sinnvoll, für die Kommunikation mit einem CSW eine auf die eigenen Bedürfnisse angepasste zum Beispiel webbasierte Suchoberfläche in einem Browser zu verwenden.
 
 
-**Dublette**
+Dublette
+^^^^^^^^
 
 Eine Dublette ist eine Kopie eines Datensatzes. Ist der Datensatz mehrfach in einer Anwendung vorhanden, spricht man von einer Dublette.
 
 
-**Grid**
+Grid
+^^^^
 
 Grid steht für Gitter/Raster z.B. InformationGrid in der Software InGrid.
 
 
-**Harvesting**
+Harvesting
+^^^^^^^^^^
 
 Im Rahmen des Harvestings werden Metadatensätze von einem Metadatenkatalog für einen anderen eingesammelt (geerntet). Das Original verbleibt im Original-Katalog und wird dort aktualisiert. Durch den Metadatensatzidentifikator (UUID) und das hinterlegte Datum der letzten Änderung am Metadatensatz ist sichergestellt, dass der Datensatz nicht nur im Original-Katalog sondern auch - zeitversetzt - im harvestenden Katalog aktualisiert wird. Metadaten sind damit die einzigen Daten in einer Geodateninfrastruktur, die gezielt kopiert werden, um den Nutzern zur Verfügung zu stehen. Durch ein Harvesting dürfen Metadaten eines fremden Katalogs niemals abgeändert werden. Die meisten derzeit aktiven Kataloge halten sich an diese Vorgabe.
 
 
-**HTML - Hypertext Markup Language**
+HTML - Hypertext Markup Language
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 HTML dient der Strukturierung von Texten und Bildern (vorwiegend im Intranet/Internet).
 
+
+ID
+^^^
+
+Identifikator (Kennzeichung, Kennung)
+
+
+  Identifikator der Datenquelle
+  '''''''''''''''''''''''''''''
+  (Beispiel: https://registry.gdi-de.org/id/de.st/011a1332-569f-42ae-86ee-dd196c946419)
+
+  Verweis auf eine Geodatenquelle (Ressource)
+   - Erfassung in den Metadaten und verweist auf den Datenursprung
+   - die Datenquelle (digitale Karte) erhält dadurch eine eindeutige Kennzeichnung
+   - die Datenquelle kann in unterschiedlichen Anwendungen eindeutig identifiziert werden
+
+  Objekt-ID
+  '''''''''
+   (Beispiel: 986ac909-e390-4dd6-886f-b49e0dfcc8de)
+   - ist im Zusammenhang mit dem Metadatenkatalog die eindeutige Identifikation für den Metadatensatz
+
+  URI
+  '''
+  - Uniform Resource Identifier (einheitlicher Identifikator für Ressourcen)
+  (Beispiel: https://registry.gdi-de.org/id/de.st/011a1332-569f-42ae-86ee-dd196c946419)
+
+  UUID
+  ''''
+  (Beispiel: 19bd40ac-8be8-464a-8273-f2ce87e0fe32)
+   - Universally Unique Identifier (Universelle Eindeutige Kennung)
+   - dient zur Identifikation von Informationen in Computersystemen
+
   
-**InGrid - InformationGrid**
+InGrid - InformationGrid
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 InGrid ist eine modular aufgebaute Software, die vielseitig eingesetzt werden kann: Kernkomponenten sind ein Web-Portal, eine Suchmaschine, ein Metadatenkatalog mit Profilen für die Erfassung INSPRE-konformer Metadaten, offener Daten und UVP-Vorhaben, eine Visualisierungskomponente für OGC Web Map Services, ein Client zur Visualisierung von Zeitreihen sowie diverse An- und Abfrageschnittstellen, die für die Recherche der angeschlossenen Komponenten, aber auch für die Weiterleitung der Ergebnisse an externe Systeme zuständig sind.
 
 
-**Keyword**
+Keyword
+^^^^^^^^
 
 Ein Keyword, Schlüsselwort, Schlagwort oder Suchbegriff dient dem gezielten Auffinden von Informationen über die Suche.
 
 
-**MD - Metadaten**
+MD - Metadaten
+^^^^^^^^^^^^^^
 
 Metadaten oder Metainformationen sind strukturierte Daten, die Informationen über Merkmale anderer Daten enthalten. Bei den durch Metadaten beschriebenen Daten handelt es sich oft um größere Datensammlungen wie z.B. Geodaten, Datenbanken, Literatur, Projekte, Organisationsstrukturen.
 
 
-**MDK - Metadatenkatalog**
+MDK - Metadatenkatalog
+^^^^^^^^^^^^^^^^^^^^^^
 
 Der Metadatenkatalog ist eine Datenbank, diese beinhaltet Metadaten.
 
 
-**Metadatensatz**
+Metadatensatz
+^^^^^^^^^^^^^
 
 Ein Medatadensatz beschreibt die eigentlichen Daten(Recource). Metadatensätze können unterschiedliche Objektklassen (-typen) darstellen. In METAVER werden die Objektlassen Geodatensatz, Geodatendienst, Anwendung, Datenbank, Dokument, Projekt und Organisationseinheit verwendet. Je nach gewählter Objektklasse ändert sich die Eingabemaste für die Metadaten im Editor.
 
 
-**METAVER - Metadatenverbund**
+METAVER - Metadatenverbund
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
  - METAVER ist ein zentraler Zugangspunkt zu Metadaten der Länder: Brandenburg, Bremen, Hamburg, Hessen, Mecklenburg-Vorpommern, Saarland, Sachsen und Sachsen-Anhalt
  - Zum Einsatz kommt die Software: InGrid.
@@ -69,13 +112,28 @@ Ein Medatadensatz beschreibt die eigentlichen Daten(Recource). Metadatensätze k
  - Ursprung: Umweltverwaltung - Beschreibung von Umweltdaten / Umweltinformationen (Umweltdatenkatalog)
 
 
-**Suchoberfläche**
+Netwerkprotokolle
+^^^^^^^^^^^^^^^^^
+
+- Kommunikationsprotokoll für den Austausch von Daten zwischen Computern bzw. Prozessen, die in einem Rechnernetzwerk miteinander verbunden sind
+- HTTP - Hypertext Transfer Protocol (Hypertext-Übertragungsprotokoll)
+- HTTPS - Hypertext Transfer Protocol Secure (sicheres Hypertext-Übertragungsprotokoll - verschlüsselt)
+  - TLS - Transport Layer Security TLS (Transportschichtsicherheit) 
+  - SSL - Vorgängerbezeichnung (Secure Sockets Layer)
+- FTP - File Transfer Protocol (Dateiübertragungsprotokoll)
+- SFTP - Secure File Transfer Protocol  (sicheres Dateiübertragungsprotokoll - verschlüsselt)
+  - SSH - Secure Shell - verschlüsselt
+
+
+Suchoberfläche
+^^^^^^^^^^^^^^
 
 Unter Suchoberfläche ist eine Anwendung, die die technischen Requests (Anfragen) an die CSW-Schnittstelle schickt und die Responses (Antworten) in Empfang nimmt. Einerseits kann ein Suchender über die Suchoberfläche bestimmte Dinge auswählen (zum Beispiel Schlagwörter) oder eingeben (Suchbegriffe) und
 die Suche auslösen. Die Suche schickt daraufhin die technische Anfrage an den oder die angeschlossenen CSW-Schnittstellen und erhält eine Antwort. Im Idealfall sind in der Antwort diejenigen Datenbeschreibungen aufgelistet, die der Suchanfrage entsprechen. Diese werden dann dem Nutzer über eine Oberfläche in angemessener Form präsentiert. Üblich ist, dass eine solche Suchoberfläche beispielsweise URLs als anklickbare Hyperlinks interpretiert, denn die meisten Suchoberflächen sind Browseranwendungen. Denkbar ist aber auch eine Suchoberfläche, die zum Beispiel direkt in einem Geoinformationssystem implementiert ist. Suchoberflächen richten sich stets nach den Bedürfnissen der jeweiligen Zielgruppe unter den Suchenden.
 
 
-**UDK - Umweltdatenkatalog**
+UDK - Umweltdatenkatalog
+^^^^^^^^^^^^^^^^^^^^^^^^
 
  - Der Umweltdatenkatalog ist eine Datenbank mit umweltrelevanten Metadaten.
  - Der Aufbau erfolgte an 1992 als Desktopanwendung.
@@ -84,29 +142,20 @@ die Suche auslösen. Die Suche schickt daraufhin die technische Anfrage an den o
  - Neben Umweltdatenkatalogen in METAVER (vorher Portal-U) existieren auch eigenständige InGrid Installationen in einzelnen Ländern.
 
 
-**UUID - Universal Unique IDentifer**
-
-Die UUID ist ein Univrerseller Eindeutiger Identifikator (ID) für den Metadatensatz.
-
-z.B. Objekt ID: 430D6C0D-FB79-46BA-AB30-9B248A31C798
- - Die UUID für einen Metadatensatz wird automatisch beim Abspeichern durch das Erfassungssystem vergeben.
- - Der Metadatensatz kann in unterschiedlichen Anwendungen eindeutig identifiziert werden.
- - Ein mehrfaches Anzeigen des Metadatensatzes (Dubletten) in Anwendungen, kann vermieden werden.
- - Über die Objekt-ID können Metadatensätze miteinander verknüpft werden (Daten-Dienste-Kopplung).
-  
-z.B. Identifikator einer Datenquelle: 2ed0f592-f586-4e78-9df0-1c21047a4757
-Der Identifikator der Datenquelle wird manuell in einem Geodatensatz vergeben oder erzeugt und dient der Identifikation eines Metadatensatzes aus unterschiedlichen Anwendungen.
-  
-Der Unterschied zwischen den beiden UUIDs besteht in der Verwendung von großen und kleinen Buchstaben.
-Die Objekt-UUID darf nicht die gleiche sein wie die UUID des Identifikators der Datenquelle.
+URL
+^^^
+Uniform Resource Locator (einheitlicher Ressourcenzeiger)
+- identifiziert und lokalisiert eine Ressource z.B. eine Webseite oder eine Datei
 
 
-**Webservice**
+Webservice
+^^^^^^^^^^
 
 Ein Webservice ist ein Dienst im Internet für die Zusammenarbeit zwischen verschiedenen Anwendungen.
 
 
-**XML - Extensible Markup Language - Erweiterbare Auszeichnungssprache**
+XML - Extensible Markup Language - Erweiterbare Auszeichnungssprache
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 XML ist eine Auszeichnungssprache zur Darstellung hierarchisch strukturierter Daten im Format einer Textdatei, die von Menschen und von Maschinen lesbar ist.
    
@@ -152,31 +201,6 @@ Diese Anfrage liefert ein georeferenziertes Rasterbild (Karte) vom WMS zurück. 
 
 Ein WMS kann Anfragen zu dem dargestellten Kartenausschnitt beantworten. Als Ausgabe liefert er festgelegte thematische Informationen der zugrundeliegenden Daten.
 
-
-**ID**
-Identifikator (Kennzeichung, Kennung)
-
-  **Identifikator der Datenquelle**
-  (Beispiel: https://registry.gdi-de.org/id/de.st/011a1332-569f-42ae-86ee-dd196c946419)
-
-  Verweis auf eine Geodatenquelle (Ressource)
-   - Erfassung in den Metadaten und verweist auf den Datenursprung
-   - die Datenquelle (digitale Karte) erhält dadurch eine eindeutige Kennzeichnung
-   - die Datenquelle kann in unterschiedlichen Anwendungen eindeutig identifiziert werden
-
-  **Objekt-ID**
-   (Beispiel: 986ac909-e390-4dd6-886f-b49e0dfcc8de)
-   - ist im Zusammenhang mit dem Metadatenkatalog die eindeutige Identifikation für den Metadatensatz
-
-  **URI**
-  - Uniform Resource Identifier (einheitlicher Identifikator für Ressourcen)
-  (Beispiel: https://registry.gdi-de.org/id/de.st/011a1332-569f-42ae-86ee-dd196c946419)
-
-  **UUID**
-  (Beispiel: 19bd40ac-8be8-464a-8273-f2ce87e0fe32)
-   - Universally Unique Identifier (Universelle Eindeutige Kennung)
-   - dient zur Identifikation von Informationen in Computersystemen
-  
   
 **ISO-Norm 19115**
 
@@ -187,26 +211,18 @@ Identifikator (Kennzeichung, Kennung)
 
 
 **ISO-Norm 19119**
+
  - ist ein Standard für Schnittstellen von Geodatendiensten
  - schafft die Voraussetzungen für den Austausch und die Darstellung von Geoinformationen über unterschiedliche Internet-Anwendungen
  
  
 ** Layer / Kartenlayer**
+
 - Kartenebenen oder -schichten (z.B. eine Ebene mit Straßen, eine Ebene mit Gewässern)
 
 
-**Netwerkprotokolle**
-- Kommunikationsprotokoll für den Austausch von Daten zwischen Computern bzw. Prozessen, die in einem Rechnernetzwerk miteinander verbunden sind
-- HTTP - Hypertext Transfer Protocol (Hypertext-Übertragungsprotokoll)
-- HTTPS - Hypertext Transfer Protocol Secure (sicheres Hypertext-Übertragungsprotokoll - verschlüsselt)
-  - TLS - Transport Layer Security TLS (Transportschichtsicherheit) 
-  - SSL - Vorgängerbezeichnung (Secure Sockets Layer)
-- FTP - File Transfer Protocol (Dateiübertragungsprotokoll)
-- SFTP - Secure File Transfer Protocol  (sicheres Dateiübertragungsprotokoll - verschlüsselt)
-  - SSH - Secure Shell - verschlüsselt
-
-
 **OGC - Open Geospatial Consortium**
+
  - ist eine gemeinnützige Organisation
  - Mitglieder: Regierungsorganisationen, private Industrie und Universitäten
  - treibt die Entwicklung von raumbezogener Informationsverarbeitung (insbesondere Geodaten) voran
@@ -214,13 +230,8 @@ Identifikator (Kennzeichung, Kennung)
  - Ressource - Daten-Quelle (zu beschreibende Daten)
 
 **Recource**
+
 Ressource steht im Zusammenhang mit dem Metadatenkatalog für Daten / Datenquelle die mit Metadaten beschrieben werden. z.B.:  Geodaten, Datenbanken und deren Inhalte, Dateien (Datenaustauschformate) und deren Inhalte, Daten zu Anwendungen (Software) bzw. Informationssysteme (auch Schnittstellen), Literatur (Dokumente, Bücher, Broschüren)
-
-
-**URL**
-Uniform Resource Locator (einheitlicher Ressourcenzeiger)
-- identifiziert und lokalisiert eine Ressource z.B. eine Webseite oder eine Datei
-
 
 **WFS - WebFeatureService - Downloaddienst**
 
