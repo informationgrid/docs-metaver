@@ -41,10 +41,8 @@ HTML - Hypertext Markup Language
 HTML dient der Strukturierung von Texten und Bildern (vorwiegend im Intranet/Internet).
 
 
-ID
-^^^
-
-Identifikator (Kennzeichung, Kennung)
+ID - Identifikator (Kennzeichung, Kennung)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
   **Identifikator der Datenquelle**
   (Beispiel: https://registry.gdi-de.org/id/de.st/011a1332-569f-42ae-86ee-dd196c946419)
