@@ -10,8 +10,8 @@ Abb.: Anlegen einer Adressstruktur
 
 Zum Anlegen einer neuen Adresse muss zunächst eine Ordnerstruktur erstellt werden. Darunter können dann die Entsprechenden Adresstypen angelegt werden. 
 
-Anlegen eines Ordners oder einer Adresse
-----------------------------------------
+Ordner/Adresse anlegen
+----------------------
 
 Im Strukturbaum den entsprechenden Ordner oder eine vorhandene Adresse auswählen. In der Symbolleiste auf das entsprechende Symbol klicken "Neue Adresse anlegen" oder "Ordner erstellen". Für die Strukturierung der Adressdaten kann zwischen Adresstypen "Organisation" und "Person" gewählt werden.
 
@@ -94,8 +94,8 @@ Abb.: Veröffentlichen
 
 .. hint:: Metadatensätze können nur veröffentlicht werden, wenn der verknüpfte Adressdatensatz vorher veröffentlicht wurde.
 
-Löschen eines Ordners oder einer Adresse
-----------------------------------------
+Ordner/Adresse löschen
+----------------------
 
 Wird versucht einen Ordner/Adressdatensatz zu löschen, dem weitere Adressdatensätze untergeordent sind. erscheint die Fehlermeldung: Um Ordner zu löschen, müssen diese leer sein.
 
