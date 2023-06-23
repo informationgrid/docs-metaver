@@ -4,6 +4,7 @@ Adressen erfassen
 Für eine effiziente Adressverwaltung empfiehlt es sich, hierarchische Strukturen aufzubauen, so dass erkennbar wird, welchem Referat bzw. welchem Fachbereich innerhalb welcher Institution der jeweilige Ansprechpartner angehört. Für Personen, die keiner Institution zugeordnet werden können, besteht die Möglichkeit, diese im Adress-Strukturbaum unterhalb des Bereiches "Freie Adressen" anzulegen. 
 
 .. image:: ../../img/ige/adressen/ige-ng_adressen-struktur.png
+   :width: 500
 
 Abb.: Anlegen einer Adressstruktur
 
@@ -39,12 +40,12 @@ Abb.: Eingabemaske für Adressen
 Abb.: Eingabefenster für die Wahl des Adresstyps
 
 .. image:: ../../img/ige/adressen/ige-ng_adressen_anrede.png
-   :width: 200
+   :width: 150
 
 Abb.: Auswahlfeld Anrede
 
 .. image:: ../../img/ige/adressen/ige-ng_adressen_titel.png
-   :width: 200
+   :width: 150
 
 Abb.: Auswahlfeld Titel
 
@@ -68,7 +69,7 @@ Sollen die Kommunikationsmöglichkeiten in ihrer Reihenfolge geändert werden, s
 *In den Adressen vom Typ "Person" gibt es die Checkbox "für diese Daten der übergeordneten Organisation verwenden". Wird diese Option ausgewählt, so wird in der Portaldarstellung in allen Vorhaben, denen diese Adresse zugeordnet ist, statt dieser Adresse die der übergeordneten Organisation angezeigt.*
 
 .. image:: ../../img/ige/adressen/ige-ng_adressen_uebergeordnete-organisation-verwenden.png
-   :width: 400
+   :width: 500
 
 Abb.: Checkbox - für Anzeige Daten der übergeordneten Organisation verwenden
 
@@ -81,7 +82,7 @@ Am Ende der Eingabemaske für Adressen befindet sich der Abschnitt "Zugeordnete 
    :width: 400 
 
 .. image:: ../../img/ige/adressen/ige-ng_adressen_zugeordnete-datensaetze.png
-   :width: 500 
+   :width: 600 
 
 Abb.: Zugeordnete Datensätze
 
