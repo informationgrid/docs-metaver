@@ -1,6 +1,6 @@
 
 
-Atom-Feed Downloaddienste
+Atom-Downloaddienste
 =========================
 
 .. toctree::
