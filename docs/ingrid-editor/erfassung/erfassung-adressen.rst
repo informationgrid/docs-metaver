@@ -108,7 +108,7 @@ Abb: Fehlermeldung - Adresse löschen mit Unteradressen
 .. hint:: Eine Adresse kann immer nur dann gelöscht werden, wenn dieser Adresse keine Metadatensätze mehr zugeordnet sind, d.h. die oben abgebildete Liste der zugeordneten Metadatensätze muss leer sein.
 
 .. image:: ../../img/ige/adressen/ige-ng_adresse-loeschen.png
-   :width: 400
+   :width: 300
 
 Abb.: Hinweis zum Löschen des Adressdatensatzes
 
