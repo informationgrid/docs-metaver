@@ -87,16 +87,15 @@ Abb.: Zugeordnete Datensätze
 
 .. hint:: Eine Adresse kann immer nur dann gelöscht werden, wenn dieser Adresse keine Metadatensätze mehr zugeordnet sind, d.h. die oben abgebildete Liste der zugeordneten Verfahren muss leer sein.
 
-.. image:: ../../img/ige/meldungen/ige-ng_adressen_loeschen_verknuepfungen-vorhanden.png
+.. image:: ../../img/ige/meldungen/ige-ng_adresse-loeschen.png
    :width: 400
 
-Abb.: Dieser Adressdatensatz ist noch mit Metadatensätzen verknüpft und kann nicht gelöscht werden - "DETAILS" anzeigen
+Abb.: Zugeordnete Datensätze
 
-.. image:: ../../img/meldungen/ige-ng_adressen_loeschen_verknuepfungen-vorhanden_details.png
-   :width: 400 
+.. image:: ../../img/ige/meldungen/ige-ng_adresse-ersetzen.png
+   :width: 400
 
-Abb.: Metadatensätze mit dem der Datensatz verknüpft ist.
-
+Abb.: Zugeordnete Datensätze
 
 Sind alle erforderlichen und zusätzlich Felder ausgefüllt, kann die Adresse mit dem Button "VERÖFFENTLICHEN" für das Internet freigegeben werden. 
 
