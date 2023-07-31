@@ -70,9 +70,6 @@ Die Checkbox Open Data ist unter Erfassung von Objekten im `Abschnitt Allgemeine
 Abschnitt Verschlagwortung
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: ../../../img/ige/erfassung/ige_objekte/ige_abschnitt-03_verschlagwortung/ige-abschnitt_verschlagwortung.png
-
-
 ISO-Themenkategorie
 '''''''''''''''''''
 
@@ -104,8 +101,6 @@ Die Erfassung von Freien bzw. Optionalen Schlagworten ist unter `Erfassung von O
 
 Abschnitt Fachbezug
 ^^^^^^^^^^^^^^^^^^^
-
-.. image:: ../../../img/ige/erfassung/ige_objekte/ige_abschnitt-04_fachbezug/ige-abschnitt_fachbezug.png
 
 Fachliche Grundlage
 '''''''''''''''''''
@@ -338,8 +333,6 @@ Angabe der Methode, die zur Erstellung des Datenobjektes geführt hat. Der Eintr
 Abschnitt Datenqualität
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: ../../../img/ige/erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/ige-abschnitt_datenqualitaet.png
-
 
 Der `Abschnitt Datenqualität <https://metaver-bedienungsanleitung.readthedocs.io/de/latest//img/ige/erfassung/ige_objektklassen/qualitaetssicherung/ige_auswahllisten/abschnitt_datenqualitaet.html>`_ wird nur angezeigt, dieser in der Katalogverwaltung aktiviert wurde.
 
@@ -351,9 +344,7 @@ Der `Abschnitt Datenqualität <https://metaver-bedienungsanleitung.readthedocs.i
 
 Abschnitt Zusatzinformation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
- 
-.. image:: ../../../img/ige/erfassung/ige_objekte/ige_abschnitt-08_zusatzinformation/ige-abschnitt_zusatzinformation.png
- 
+  
 Zeichensatz des Datensatzes
 '''''''''''''''''''''''''''
 
