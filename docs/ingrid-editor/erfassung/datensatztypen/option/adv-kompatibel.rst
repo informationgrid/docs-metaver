@@ -48,3 +48,26 @@ Abb.: Tabelle "AdV-Produktgruppe" - (Pflichtangaben)
 .. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-adv-kompatibel/iso-xml-keyword-advmis.png
 
 Abb.: ISO-XML - Angabe des Schlüsselwortes "AdVMIS"
+
+
+
+
+
+
+
+
+
+Checkbox AdV kompatibel
+'''''''''''''''''''''''
+
+.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/option-adv-kompatibel/checkbox-adv-kompatibel.png
+  :width: 150
+
+Abb.: Checkbox AdV kompatibel
+
+Bei der Aktivierung der Checkbox "AdV kompatibel" werden die Anforderungen des AdV-Metadatenprofils umgesetzt (z.B. Automatisiertes Setzen des Schlüsselwortes "AdVMIS" in der Datenbank).
+
+.. toctree::
+   :maxdepth: 1
+   
+   ../../../img/ige/erfassung/ige_objektklassen/option/adv-kompatibel.rst

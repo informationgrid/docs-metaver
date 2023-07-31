@@ -21,51 +21,32 @@ Die Metadaten werden nach der ISO-Norm 19115 „Geographic Information – Metad
 Erfassung
 ---------
 
+Typ
+'''
+
+`Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_ 
+
+
+Unter Typ werden die Eigenschaften des Metadatensatzes festgelegt. Es können die Optionen 
+
+- `INSPIRE-relevant, <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/option/inspire-relevant.html>`_
+- `AdV kompatibel,  <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/option/adv-kompatibel.html>`_
+- `Open Data, <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/option/opendata.html>`_ 
+- `(InVeKos), <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/option/invekos.html>`_ 
+
+gewählt werden.
+
+.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/option-adv-kompatibel/typ_eigenschaften.png
+
+Abb.: Optionen
+
+
 Abschnitt Allgemeines
 ^^^^^^^^^^^^^^^^^^^^^
 
-Checkbox INSPIRE-relevant
-'''''''''''''''''''''''''
-
-Wenn diese Checkbox aktiviert ist, werden die Metadaten an das INSPIRE Geoportal der EU (https://inspire-geoportal.ec.europa.eu/) weitergeleitet und veröffentlicht. Die Daten und die Metadaten unterliegen in dem Fall der INSPIRE-Richtlinie.
-
-.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/option-inspire-relevant/checkbox-inspire-relevant_geodatensatz.png
-  :width: 150
-
-Abb.: Checkbox INSPIRE-relevant
+Dieser Abschnitt ist unter "Metadaten erfassen beschrieben".
 
 
-.. toctree::
-   :maxdepth: 1
-   
-   ../../../img/ige/erfassung/ige_objektklassen/option/inspire-relevant.rst
-
-
-Checkbox AdV kompatibel
-'''''''''''''''''''''''
-
-.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/option-adv-kompatibel/checkbox-adv-kompatibel.png
-  :width: 150
-
-Abb.: Checkbox AdV kompatibel
-
-Bei der Aktivierung der Checkbox "AdV kompatibel" werden die Anforderungen des AdV-Metadatenprofils umgesetzt (z.B. Automatisiertes Setzen des Schlüsselwortes "AdVMIS" in der Datenbank).
-
-.. toctree::
-   :maxdepth: 1
-   
-   ../../../img/ige/erfassung/ige_objektklassen/option/adv-kompatibel.rst
-
-
-Checkbox Open Data
-''''''''''''''''''
-
-.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/option-open-data/checkbox-open-data.png
-  :width: 150
-
-Abb.: Checkbox Open Data
-
-Die Checkbox Open Data ist unter Erfassung von Objekten im `Abschnitt Allgemeines <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html#abschnitt-allgemeines>`_  beschrieben, da sie auf mehrere Metadatentypen zutrifft.
 
 Abschnitt Verschlagwortung
 ^^^^^^^^^^^^^^^^^^^^^^^^^^

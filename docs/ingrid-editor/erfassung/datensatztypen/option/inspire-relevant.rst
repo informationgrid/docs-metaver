@@ -28,11 +28,13 @@ Abschnitt Allgemeines
 .. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-abschnitt_allgemeines.png
 
 
-
 Checkbox INSPIRE-relevant
 '''''''''''''''''''''''''
 
-.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-inspire-relevant/checkbox-inspire-relevant-dienst.png
+Abb.: Checkbox INSPIRE-relevant
+
+
+.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/option-inspire-relevant/checkbox-inspire-relevant_geodatensatz.png
   :width: 150
 
 Abb.: Checkbox INSPIRE relevant
