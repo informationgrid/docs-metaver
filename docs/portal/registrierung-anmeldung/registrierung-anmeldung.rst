@@ -3,7 +3,7 @@
 Registrierung und Anmeldung
 =========================
 
-Öffnen Sie die Anmeldeseite.
+Öffnen Sie die Anmeldeseite!
 
 URL: https://metaver.de/log-in
 
