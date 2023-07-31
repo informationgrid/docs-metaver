@@ -23,10 +23,6 @@ Erfassung
 
 Typ
 '''
-
-`Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_ 
-
-
 Unter Typ werden die Eigenschaften des Metadatensatzes festgelegt. Es können die Optionen 
 
 - `INSPIRE-relevant, <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/option/inspire-relevant.html>`_
@@ -36,7 +32,7 @@ Unter Typ werden die Eigenschaften des Metadatensatzes festgelegt. Es können di
 
 gewählt werden.
 
-.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/option-adv-kompatibel/typ_eigenschaften.png
+.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/typ_optionen.png
 
 Abb.: Optionen
 
