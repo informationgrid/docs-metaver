@@ -15,7 +15,7 @@ Der Metaver-Kartenclient enthält eine Auswahl an unterschiedlichen Basiskarten.
 - AdV - Arbeitsgemeinschaft der Vermessungsverwaltungen
 
 
-.. image:: ../../img/metaver_kartenclient/metaver_verfuegbare-kartendienste.png
+.. image:: ../../img/kartenclient/metaver_verfuegbare-kartendienste.png
 
 Abb.: METAVER-Kartenclient - Verfügbare Basiskarten
 
