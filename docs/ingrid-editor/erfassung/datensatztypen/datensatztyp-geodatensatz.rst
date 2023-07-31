@@ -23,7 +23,7 @@ Erfassung
 
 Typ
 '''
-Unter Typ werden die Eigenschaften des Metadatensatzes festgelegt.
+Unter Typ werden weitere Eigenschaften des Metadatensatzes festgelegt.
 
 Es können folgende Optionen gewählt werden:
 
