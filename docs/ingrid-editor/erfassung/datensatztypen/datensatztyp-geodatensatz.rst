@@ -23,17 +23,13 @@ Erfassung
 
 Abschnitt Allgemeines
 ^^^^^^^^^^^^^^^^^^^^^
-.. image:: ../../../img/ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-abschnitt_allgemeines.png
-
-
-
 
 Checkbox INSPIRE-relevant
 '''''''''''''''''''''''''
 
 Wenn diese Checkbox aktiviert ist, werden die Metadaten an das INSPIRE Geoportal der EU (https://inspire-geoportal.ec.europa.eu/) weitergeleitet und veröffentlicht. Die Daten und die Metadaten unterliegen in dem Fall der INSPIRE-Richtlinie.
 
-.. image:: ../../../img/ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-inspire-relevant/checkbox-inspire-relevant-dienst.png
+.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/option-inspire-relevant/checkbox-inspire-relevant-dienst.png
   :width: 150
 
 Abb.: Checkbox INSPIRE-relevant
@@ -42,13 +38,13 @@ Abb.: Checkbox INSPIRE-relevant
 .. toctree::
    :maxdepth: 1
    
-   ../../../img/ige/ige_erfassung/ige_objektklassen/option/inspire-relevant.rst
+   ../../../img/ige/erfassung/ige_objektklassen/option/inspire-relevant.rst
 
 
 Checkbox AdV kompatibel
 '''''''''''''''''''''''
 
-.. image:: ../../../img/ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-adv-kompatibel/checkbox-adv-kompatibel.png
+.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/option-adv-kompatibel/checkbox-adv-kompatibel.png
   :width: 150
 
 Abb.: Checkbox AdV kompatibel
@@ -58,29 +54,29 @@ Bei der Aktivierung der Checkbox "AdV kompatibel" werden die Anforderungen des A
 .. toctree::
    :maxdepth: 1
    
-   ../../../img/ige/ige_erfassung/ige_objektklassen/option/adv-kompatibel.rst
+   ../../../img/ige/erfassung/ige_objektklassen/option/adv-kompatibel.rst
 
 
 Checkbox Open Data
 ''''''''''''''''''
 
-.. image:: ../../../img/ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-open-data/checkbox-open-data.png
+.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/option-open-data/checkbox-open-data.png
   :width: 150
 
 Abb.: Checkbox Open Data
 
-Die Checkbox Open Data ist unter Erfassung von Objekten im `Abschnitt Allgemeines <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/img/ige/ige_erfassung/ige_objektklassen/objektklasse-geodatensatz.html#abschnitt-allgemeines>`_  beschrieben, da sie auf mehrere Metadatentypen zutrifft.
+Die Checkbox Open Data ist unter Erfassung von Objekten im `Abschnitt Allgemeines <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/img/ige/erfassung/ige_objektklassen/objektklasse-geodatensatz.html#abschnitt-allgemeines>`_  beschrieben, da sie auf mehrere Metadatentypen zutrifft.
 
 Abschnitt Verschlagwortung
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: ../../../img/ige/ige_erfassung/ige_objekte/ige_abschnitt-03_verschlagwortung/ige-abschnitt_verschlagwortung.png
+.. image:: ../../../img/ige/erfassung/ige_objekte/ige_abschnitt-03_verschlagwortung/ige-abschnitt_verschlagwortung.png
 
 
 ISO-Themenkategorie
 '''''''''''''''''''
 
-.. image:: ../../../img/ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/verschlagwortung_iso-themenkategorie.png
+.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/verschlagwortung_iso-themenkategorie.png
 
 Abb.: Auswahlfeld ISO Themenkategorie
 
@@ -104,17 +100,17 @@ Umgekehrt gilt der Automatismus nicht: Beim Hinzufügen einer ISO Kategorie wird
 Optionale Schlagworte
 ''''''''''''''''''''''
 
-Die Erfassung von Freien bzw. Optionalen Schlagworten ist unter `Erfassung von Objekten Abschnitt Verschlagwortung <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/img/ige/ige_erfassung/erfassung-objekte.html#freie-schlagworte-erfassen>`_ beschrieben.
+Die Erfassung von Freien bzw. Optionalen Schlagworten ist unter `Erfassung von Objekten Abschnitt Verschlagwortung <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/img/ige/erfassung/erfassung-objekte.html#freie-schlagworte-erfassen>`_ beschrieben.
 
 Abschnitt Fachbezug
 ^^^^^^^^^^^^^^^^^^^
 
-.. image:: ../../../img/ige/ige_erfassung/ige_objekte/ige_abschnitt-04_fachbezug/ige-abschnitt_fachbezug.png
+.. image:: ../../../img/ige/erfassung/ige_objekte/ige_abschnitt-04_fachbezug/ige-abschnitt_fachbezug.png
 
 Fachliche Grundlage
 '''''''''''''''''''
 
-.. image:: ../../../img/ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/fachbezug_fachliche-grundlage.png
+.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_fachliche-grundlage.png
 
 Abb.: Eingabefeld Fachliche Grundlage
 
@@ -124,11 +120,11 @@ Im Feld „fachliche Grundlage“ sollte auf Dokumente verwiesen werden, die Gru
 Identifikator der Datenquelle
 '''''''''''''''''''''''''''''
 
-.. image:: ../../../img/ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/fachbezug_identifikator_01.png
+.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_identifikator_01.png
 
 Abb.: Option Erzeuge ID
 
-.. image:: ../../../img/ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/fachbezug_identifikator_02.png
+.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_identifikator_02.png
 
 Abb.: generierte ID aus dem InGrid Editor
 
@@ -139,11 +135,11 @@ Der Identifikator kann von Hand eingetragen werden oder mit Hilfe des Buttons "E
 
 Beispiele:
  
-.. image:: ../../../img/ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/fachbezug_identifikator_03.png
+.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_identifikator_03.png
  
 Abb.: Portalansicht ID aus MetaVer
 
-.. image:: ../../../img/ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/fachbezug_identifikator_04.png
+.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_identifikator_04.png
  
 Abb.: Portalansicht ID aus der GDI-DE Registry
 
@@ -151,7 +147,7 @@ Abb.: Portalansicht ID aus der GDI-DE Registry
 Datensatz/Datenserie
 ''''''''''''''''''''
 
-.. image:: ../../../img/ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/fachbezug_datensatz-datenserie.png
+.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_datensatz-datenserie.png
  
 Abb.: Auswahlfeld Datensatz / Datenserie
 
@@ -181,7 +177,7 @@ Komplexe Darstellung der städtischen Verwaltungsstruktur aus unterschiedlichen 
 Digitale Repräsentation
 ''''''''''''''''''''''''
 
-.. image:: ../../../img/ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/fachbezug_digitale-repaesentation.png
+.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_digitale-repaesentation.png
  
 Abb.: Auswahlfeld Digitale Repräsentation
 
@@ -193,7 +189,7 @@ Auswahlliste: Raster, Gitter, Stereomodell, Text, Tabelle, TIN, Vektor, Video
 Vektorformat
 ''''''''''''
 
-.. image:: ../../../img/ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/fachbezug_vektorformat.png
+.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_vektorformat.png
  
 Abb.: Feld Vektorformat
 
@@ -207,7 +203,7 @@ Auswahlliste Topologieinformation: 3D-Oberfläche, Flächen, Flächen flächende
 Erstellungsmaßstab
 ''''''''''''''''''
 
-.. image:: ../../../img/ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/fachbezug_erstellungsmassstab.png
+.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_erstellungsmassstab.png
  
 Abb.: Feld Erstellungsmaßstab
 
@@ -222,7 +218,7 @@ Beispiel: Bodenauflösung: Auflösungseinheit in Linien/cm; Einheit: z.B. 1 cm g
 Symbolkatalog
 '''''''''''''
 
-.. image:: ../../../img/ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/fachbezug_symbolkatalog.png
+.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_symbolkatalog.png
  
 Abb.: Feld Symbolkatalog
 
@@ -234,7 +230,7 @@ Beispiel: Planzeichenverordnung, Datum 01.01.1998, Version 1.0
 Schlüsselkatalog
 '''''''''''''''''
 
-.. image:: ../../../img/ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/fachbezug_schluesselkatalog.png
+.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_schluesselkatalog.png
  
 Abb.: Feld Schlüsselkatalog
 
@@ -256,7 +252,7 @@ Beispiel: Baumkartei
 Sachdaten/Attributinformation
 ''''''''''''''''''''''''''''''
 
-.. image:: ../../../img/ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/fachbezug_sachdaten-attributinformation.png
+.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_sachdaten-attributinformation.png
  
 Abb.: Feld Sachdaten/Attributinformation
 
@@ -271,11 +267,11 @@ Angabe der mit der Geo-Information/Karte verbundenen Sachdaten. Bei Bedarf kann 
 Darstellender Dienst
 ''''''''''''''''''''
 
-.. image:: ../../../img/ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/fachbezug_darstellender-dienst.png
+.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_darstellender-dienst.png
  
 Abb.: Feld Darstellender Dienst
 
-`Datenkopplung im Geodatendienst <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/img/ige/ige_erfassung/ige_objektklassen/objektklasse-geodatendienst.html#daten-dienstekopplung>`_
+`Datenkopplung im Geodatendienst <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/img/ige/erfassung/ige_objektklassen/objektklasse-geodatendienst.html#daten-dienstekopplung>`_
 
 
 Werden die beschriebenen Daten durch einen Webdienst (z.B. OGC Web-Mapping-Service (WMS)) im Internet bereitgestellt, dann sollte auf diesen Dienst, welcher als eigenes Objekt des Typs „Geodatendienst“ beschrieben ist, verwiesen werden (siehe Daten-Dienste-Kopplung).
@@ -287,7 +283,7 @@ Werden beispielsweise die fachlichen Inhalte eines WMS-Dienstes beschrieben, sol
 Zum Eintragen eines gekoppelten Dienstes kann nun unterhalb der Tabelle „Darstellender Dienst“ auf den Button "Gekoppelten Dienst auswählen" geklickt werden. 
 
 
-.. image:: ../../../img/ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/fachbezug_daten-dienste-kopplung_dargestellte-daten.png
+.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_daten-dienste-kopplung_dargestellte-daten.png
  
 Abb.: Eintrag im Geodatendienst - Verweis auf Datensatz: "ATKIS-DGM1 Sachsen-Anhalt"
 
@@ -295,13 +291,13 @@ Abb.: Eintrag im Geodatendienst - Verweis auf Datensatz: "ATKIS-DGM1 Sachsen-Anh
 In dem daraufhin erscheinenden Dialog muss aus dem Hierarchiebaum der Dienst ausgewählt werden, mit dem die Daten gekoppelt werden sollen. Es können nur Objekte des Typs „Geodatendienst“ selektiert werden. 
 Mit einem Klick auf den Button „Zuweisen“ wechselt der Editor automatisch zu diesem Geodatendienst-Objekt.  
 
-.. image:: ../../../img/ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/fachbezug_daten-dienste-kopplung_objekt-waehlen.png
+.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_daten-dienste-kopplung_objekt-waehlen.png
  
 Abb.: Hierarchiebaum - Dienst auswählen
 
 Es öffnet sich daraufhin ein neues Fenster mit der Information, dass man zu dem ausgewählten Dienst weitergeleitet worden ist.
 
-.. image:: ../../../img/ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/fachbezug_daten-dienste-kopplung_verweis-anlegen.png
+.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_daten-dienste-kopplung_verweis-anlegen.png
  
 Abb.: Medung - Verweis im Dienst angelegt
 
@@ -311,11 +307,11 @@ Durch ein „Zwischenspeichern“ wird die Kopplung zwischen den Daten und dem D
 
 Sowohl im Metadatenobjekt der Daten als auch im Objekt des Dienstes ist nun die Kopplung eingetragen. 
 
-.. image:: ../../../img/ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/fachbezug_daten-dienste-kopplung_darstellender-dienst.png
+.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_daten-dienste-kopplung_darstellender-dienst.png
  
 Abb.: Eintrag im Geodatensatz - Verweis auf Geodatendienst: „ATKIS-DGM1 Sachsen-Anhalt (ATOM-Downloaddienst)“, Verweis auf Geodatendienst: „ATKIS-DGM1 Sachsen-Anhalt (WMS 1.3)“
 
-.. image:: ../../../img/ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/fachbezug_daten-dienste-kopplung_dienst.png
+.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_daten-dienste-kopplung_dienst.png
  
 Abb.: Um eine Daten-Kopplung wieder zu entfernen, muss diese im Dienste-Objekt gelöscht werden.
 
@@ -323,7 +319,7 @@ Abb.: Um eine Daten-Kopplung wieder zu entfernen, muss diese im Dienste-Objekt g
 Datengrundlage
 ''''''''''''''
 
-.. image:: ../../../img/ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/fachbezug_datengrundlage.png
+.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_datengrundlage.png
  
 Abb.: Feld Datengrundlage - Beispiel: "Kartieroriginale der Pflanzenerfassung"
 
@@ -332,7 +328,7 @@ Angabe der Unterlagen (Luftbilder, Karten, Datensammlungen), die bei der Erstell
 Herstellungsprozess
 '''''''''''''''''''
 
-.. image:: ../../../img/ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/fachbezug_herstellungsprozess.png
+.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_herstellungsprozess.png
  
 Abb.: Feld Herstellungsprozess - Beispiel: Feldkartierung
 
@@ -342,26 +338,26 @@ Angabe der Methode, die zur Erstellung des Datenobjektes geführt hat. Der Eintr
 Abschnitt Datenqualität
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: ../../../img/ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/ige-abschnitt_datenqualitaet.png
+.. image:: ../../../img/ige/erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/ige-abschnitt_datenqualitaet.png
 
 
-Der `Abschnitt Datenqualität <https://metaver-bedienungsanleitung.readthedocs.io/de/latest//img/ige/ige_erfassung/ige_objektklassen/qualitaetssicherung/ige_auswahllisten/abschnitt_datenqualitaet.html>`_ wird nur angezeigt, dieser in der Katalogverwaltung aktiviert wurde.
+Der `Abschnitt Datenqualität <https://metaver-bedienungsanleitung.readthedocs.io/de/latest//img/ige/erfassung/ige_objektklassen/qualitaetssicherung/ige_auswahllisten/abschnitt_datenqualitaet.html>`_ wird nur angezeigt, dieser in der Katalogverwaltung aktiviert wurde.
 
 
 
-**Hinweis:** Die Abschnitte Raumbezugsystem, Zeitbezug, Zusatzinformation, Verfügbarkeit und Verweise sind ausführlich unter `Erfassung von Objekten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/img/ige/ige_erfassung/erfassung-objekte.html>`_  beschrieben, da sie auf mehrere Metadatentypen zutreffen.
+**Hinweis:** Die Abschnitte Raumbezugsystem, Zeitbezug, Zusatzinformation, Verfügbarkeit und Verweise sind ausführlich unter `Erfassung von Objekten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/img/ige/erfassung/erfassung-objekte.html>`_  beschrieben, da sie auf mehrere Metadatentypen zutreffen.
 
 
 
 Abschnitt Zusatzinformation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
  
-.. image:: ../../../img/ige/ige_erfassung/ige_objekte/ige_abschnitt-08_zusatzinformation/ige-abschnitt_zusatzinformation.png
+.. image:: ../../../img/ige/erfassung/ige_objekte/ige_abschnitt-08_zusatzinformation/ige-abschnitt_zusatzinformation.png
  
 Zeichensatz des Datensatzes
 '''''''''''''''''''''''''''
 
-.. image:: ../../../img/ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/zusatzinformation_zeichensatz.png
+.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/zusatzinformation_zeichensatz.png
  
 Abb.: Feld Zeichensatz des Datensatzes
 
@@ -373,7 +369,7 @@ Angaben zu dem im beschriebenen Datensatz benutzten Zeichensatz z.B. UTF-8.
 Konformität
 '''''''''''
 
-.. image:: ../../../img/ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/zusatzinformation_konformitaet.png
+.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/zusatzinformation_konformitaet.png
  
 Abb.: Feld Konformität
 
@@ -381,7 +377,7 @@ Hier muss angegeben werden, zu welcher Durchführungsbestimmung der INSPIRE-Rich
 
 Dieses Feld wird bei der Auswahl der "INSPIRE-Themen" oder der "Art des Dienstes" automatisch befüllt. Es muss dann nur der Grad der Konformität manuell eingetragen werden.
 
-Beschreibung unter der Option `INSPIRE-relevant <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/img/ige/ige_erfassung/ige_objektklassen/option/inspire-relevant.html>`_.
+Beschreibung unter der Option `INSPIRE-relevant <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/img/ige/erfassung/ige_objektklassen/option/inspire-relevant.html>`_.
 
 
 
