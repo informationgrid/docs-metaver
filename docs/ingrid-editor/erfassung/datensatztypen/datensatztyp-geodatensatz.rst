@@ -23,14 +23,14 @@ Erfassung
 
 Typ
 '''
-Unter Typ werden die Eigenschaften des Metadatensatzes festgelegt. Es können die Optionen 
+Unter Typ werden die Eigenschaften des Metadatensatzes festgelegt.
 
-- `INSPIRE-relevant, <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/option/inspire-relevant.html>`_
-- `AdV kompatibel,  <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/option/adv-kompatibel.html>`_
-- `Open Data, <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/option/opendata.html>`_ 
-- `(InVeKos), <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/option/invekos.html>`_ 
+Es können folgende Optionen gewählt werden:
 
-gewählt werden.
+- `INSPIRE-relevant, <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/inspire-relevant.html>`_
+- `AdV kompatibel,  <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/adv-kompatibel.html>`_
+- `Open Data, <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/opendata.html>`_
+- `(InVeKos), <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/invekos.html>`_
 
 .. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/typ_optionen.png
 
