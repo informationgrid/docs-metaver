@@ -40,7 +40,7 @@ Abb.: Optionen
 Abschnitt Allgemeines
 ^^^^^^^^^^^^^^^^^^^^^
 
-Dieser Abschnitt ist unter "Metadaten erfassen beschrieben".
+Dieser Abschnitt ist unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_ beschrieben.
 
 
 
