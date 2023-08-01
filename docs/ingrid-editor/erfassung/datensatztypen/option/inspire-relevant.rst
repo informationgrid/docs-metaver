@@ -1,5 +1,5 @@
 
-Option - INSPIRE relevant
+Option: INSPIRE relevant
 -------------------------
 
 INSPIRE - Bedeutung

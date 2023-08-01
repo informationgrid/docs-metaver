@@ -214,28 +214,6 @@ Checkbox Open Data
 
 Abb.: Checkbox Open Data
 
-Diese Checkbox kennzeichnet den Metadatensatz als "Open Data" es wird in der ISO-XML das Schlagwort "opendata" generiert. Wenn das Bundesland der GovData-Kooperation beigetreten ist, und die DCAT-AP.de Schnittstelle des Bundeslandes im Portal GovData aktiviert ist, werden diese Metadaten in des Portal GovData (https://www.govdata.de/) übernommen. In einem weiteren Schritt werden diese Daten vom Portal data.europa.eu (https://data.europa.eu/de/trening/what-open-data) der Europäischen Kommission geharvestet (abgeerntet/abgeholt). 
-
-Nach der Aktivierung sind zusätzlich folgende Angaben verpflichtend:
-
- - In der (nur für Open Data) erscheinenden Tabelle `"Kategorien" <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html#open-data-kategorien>`_ muss mindestens ein Wert ausgewählt und eingetragen werden.
-
- - Im Abschnitt „Verweise“ muss in die Tabelle `"Verweise zu" <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html#abschnitt-verweise>`_ mindestens ein Verweis vom Typ "Datendownload" eingetragen werden.
-
- - Im Abschnitt „Verfügbarkeit“, in der Tabelle `"Nutzungsbedingung" <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html#nutzungsbedingungen>`_ muss mindestens ein Eintrag zur anzugebenden Lizenz erfolgen.
-
-
-(Open Data) Kategorien
-'''''''''''''''''''''''
-
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_open-data-kategorien.png
-  :width: 350
-
-Abb.: Auswahlfeld - Open Data Kategorien
-
-`Auswahlliste der Open Data Kategorien <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_allgemeines_opendata-kategorien.html>`_
-
-Die Tabelle "Kategorien" enthält eine Auswahlliste, die das OpenData-Objekt näher bestimmen.
 
 
 Abschnitt Verschlagwortung

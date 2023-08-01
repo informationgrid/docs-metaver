@@ -1,5 +1,5 @@
 
-Option - AdV kompatibel
+Option: AdV kompatibel
 -----------------------
 
 AdV - Bedeutung
