@@ -144,12 +144,9 @@ Abb.: Auswahlliste - INSPIRE - Räumlicher Anwendungsbereich, Beispiel
 Abschnitt Zusatzinformation
 '''''''''''''''''''''''''''
 
-Konformität
-'''''''''''
-
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/zusatzinformation_konformitaet.png
  
-Abb.: Feld Konformität
+Abb.: Tabelle Konformität
 
 Hier muss angegeben werden, zu welcher Durchführungsbestimmung der INSPIRE-Richtlinie bzw. zu welcher anderweitigen Spezifikation die beschriebenen Daten konform sind. (INSPIRE-Pflichtfeld)
 
@@ -165,21 +162,6 @@ Abb.: Feld Konformität - Auswahlmöglichkeiten
 Abb.: Tabelle "Konformität" - Grad der Konformität - Auswahlmöglichkeit
 
 
+Datum: Angabe des Datums, wann der Datensatz geprüft wurde.
 
-
-
-
-
-.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/option-inspire-relevant/zusatzinformation-konformitaet-konform.png
-
-Abb.: Tabelle "Konformität" - Grad der Konformität: nicht konform
-
-
-.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/zusatzinformation-konformitaet-operation-bearbeiten.png
-
-Abb.: Tabelle "Konformität" - Konformität hinzufügen oder Operation bearbeiten / INSPIRE
-
-
-.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/zusatzinformation-konformitaet-freier-eintrag.png
-
-Abb.: Tabelle "Konformität" - Konformität hinzufügen oder Operation bearbeiten / freier Eintrag
+Feld "geprüft mit": Angabe des Validators
