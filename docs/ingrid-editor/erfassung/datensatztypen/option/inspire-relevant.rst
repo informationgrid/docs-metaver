@@ -23,7 +23,6 @@ Erfassung
 Alle im Rahmen von INSPIRE zu erfassenden Geodaten müssen als Datensatztyp „Geodatensatz“ angelegt werden.
 
 Beispiele:
-
  - INSPIRE ST Geografische Bezeichnungen ATKIS Basis-DLM
  - INSPIRE ST Gewässernetz - Gewässerkundlicher Landesdienst
  - INSPIRE ST Umweltüberwachung - Gewässerkundlicher Landesdienst
