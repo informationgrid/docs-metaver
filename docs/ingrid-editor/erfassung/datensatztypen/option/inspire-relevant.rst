@@ -46,7 +46,7 @@ Mit der Aktivierung wird in der ISO-XML das Schlüsselwort "inspireidentifiziert
 
 Abb.: ISO-XML - Angabe des Schlüsselwortes "inspireidentifiziert"
 
-Wenn diese Checkbox aktiviert ist, werden die Metadaten an den `Geodatenkatalog Deutschland<https://gdk.gdi-de.org/>`, an das `Geoportal der Geodateninfrastruktur-Deutschland (GDI-DE)<https://www.geoportal.de/>`, und an das `INSPIRE Geoportal <https://inspire-geoportal.ec.europa.eu/>`_ der EU abgegeben und veröffentlicht. Die Daten und die Metadaten unterliegen in dem Fall der INSPIRE-Richtlinie.
+Wenn diese Checkbox aktiviert ist, werden die Metadaten an den `Geodatenkatalog Deutschland <https://gdk.gdi-de.org/>`, an das `Geoportal der Geodateninfrastruktur-Deutschland (GDI-DE) <https://www.geoportal.de/>`, und an das `INSPIRE Geoportal <https://inspire-geoportal.ec.europa.eu/>`_ der EU abgegeben und veröffentlicht. Die Daten und die Metadaten unterliegen in dem Fall der INSPIRE-Richtlinie.
 
 Der Geodatensatz wird über die Registry der GDI-DE an die EU gemeldet und in einem `Monitoringprozess <https://registry.gdi-de.org/register/moni.st/>`_ überwacht.
 
