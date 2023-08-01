@@ -154,7 +154,7 @@ Dieses Feld wird bei der Auswahl der "INSPIRE-Themen" oder der "Art des Dienstes
 
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/zusatzinformation_konformitaet_bearbeiten.png
  
-Abb.: Feld Konformität - Bearbeiten
+Abb.: Feld Konformität - Aktion / Bearbeiten
 
 
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/zusatzinformation_konformitaet_auswahl.png
