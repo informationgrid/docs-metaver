@@ -67,7 +67,7 @@ In der ISO-XML erscheint "true".
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/iso-xml-inspireidentifiziert_true.png
    :width: 300
 
-Abb.: Darstellung in der ISO-XML - true
+Abb.: Darstellung in der ISO-XML
 
 
 Option nicht konform
@@ -81,11 +81,12 @@ Abb: INSPIRE-Option nicht konform
   
 Geodatensatz wird an INSPIRE gemeldet, liegt aber nicht im INSPIRE-DatenSchema vor. Der Grad der Konformität zur Spezifikation (VO 1089/2010) kann durch den Anwender (im Abschnitt: "Zusatzinformation", Tabelle: Konformität) nur auf "false" oder "nicht evaluiert" gesetzt werden.
 
+In der ISO-XML erscheint "false".
 
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/iso-xml-inspireidentifiziert_false.png
    :width: 300
 
-Abb.: Darstellung in der ISO-XML - false
+Abb.: Darstellung in der ISO-XML
 
 -----------------------------------------------------------------------------------------------------------------------
 
