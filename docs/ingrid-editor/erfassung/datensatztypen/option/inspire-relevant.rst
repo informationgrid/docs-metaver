@@ -14,7 +14,7 @@ INSPIRE ist eine Initiative der europäischen Kommission mit dem Ziel, eine euro
 
 (Quelle: `Wikipedia <https://de.wikipedia.org/wiki/Infrastructure_for_Spatial_Information_in_the_European_Community>`_)
 
-.. hint:: Nachfolgend werden die Felder beschrieben, die in der Erfassungsmaske speziell für diese Option angezeigt werden.
+.. hint:: Nachfolgend werden die Felder beschrieben, die nach der Aktivierung dieser Option zusätzlich in der Erfassungsmaske angezeigt werden.
 
 Erfassung
 ^^^^^^^^^
