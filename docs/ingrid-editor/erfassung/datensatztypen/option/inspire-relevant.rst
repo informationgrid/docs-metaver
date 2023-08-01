@@ -39,7 +39,7 @@ Wenn diese Checkbox aktiviert ist, werden die Metadaten an das INSPIRE Geoportal
 Der Geodatensatz wird über die Registry an die EU gemeldet und in einem Monitoringprozess überwacht.
 
 Folgende Eigenschaften ändern sich bei der Aktivierung der Checkbox INSPIRE-relevant:
- - Abschnitt Allgemeines: Aktivierung der Optionen "konform" / "nicht konform"
+ - Checkbox INSPIRE-relevant: Aktivierung der Optionen "konform" / "nicht konform"
  - Abschnitt Verschlagwortung: Aktivierung der Tabelle "INSPIRE-Themen" - (Pflichtangaben)
  - Abschnitt Verschlagwortung: Auswahlliste - INSPIRE - Räumlicher Anwendungsbereich - (Pflichtangabe)
  - Abschnitt Verschlagwortung: Aktivierung der Tabelle - INSPIRE - priority data set - (optionale Angabe)
@@ -50,10 +50,12 @@ Folgende Eigenschaften ändern sich bei der Aktivierung der Checkbox INSPIRE-rel
 Option konform
 ''''''''''''''
 
-.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-inspire-relevant/option-konform.png
-  :width: 100
+.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/checkbox-inspire-relevant_konformitaet.png
+  :width: 300
 
-Abb.: Option INSPIRE konform
+
+
+Abb.: Optionen INSPIRE konformität
 
 Der Geodatensatz wird an INSPIRE gemeldet und liegt im INSPIRE-Datenschema vor. Der Grad der Konformität (im Abschnitt: "Zusatzinformation", Tabelle: Konformität) zur Spezifikation (VO 1089/2010) wird auf "konform" gesetzt.
 
