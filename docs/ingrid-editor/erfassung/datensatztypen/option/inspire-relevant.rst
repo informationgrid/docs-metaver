@@ -60,6 +60,13 @@ Option konform
 
 Abb.: INSPIRE-Optionen konform
 
+
+.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/checkbox-inspire-relevant_konform-hinweis.png
+   :width: 500
+
+Abb.: Hinweis
+
+
 Der Geodatensatz wird an INSPIRE gemeldet und liegt im INSPIRE-Datenschema vor. Der Grad der Konformität (im Abschnitt: "Zusatzinformation", Tabelle: Konformität) zur Spezifikation (VO 1089/2010) wird auf "konform" gesetzt.
 
 In der ISO-XML erscheint "true".
@@ -77,6 +84,11 @@ Option nicht konform
    :width: 400
 
 Abb: INSPIRE-Option nicht konform
+
+.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/checkbox-inspire-relevant_konform-hinweis.png
+   :width: 500
+
+Abb.: Hinweis
   
   
 Geodatensatz wird an INSPIRE gemeldet, liegt aber nicht im INSPIRE-DatenSchema vor. Der Grad der Konformität zur Spezifikation (VO 1089/2010) kann durch den Anwender (im Abschnitt: "Zusatzinformation", Tabelle: Konformität) nur auf "false" oder "nicht evaluiert" gesetzt werden.
