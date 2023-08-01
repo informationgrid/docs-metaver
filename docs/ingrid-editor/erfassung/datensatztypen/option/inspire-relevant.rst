@@ -49,17 +49,15 @@ Folgende Eigenschaften ändern sich bei der Aktivierung der Checkbox INSPIRE-rel
 Option konform
 ''''''''''''''
 
-.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/checkbox-inspire-relevant_konformitaet.png
+.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/checkbox-inspire-relevant_konform.png
 
-Abb.: Optionen INSPIRE konformität
+Abb.: INSPIRE-Optionen konform
 
 Der Geodatensatz wird an INSPIRE gemeldet und liegt im INSPIRE-Datenschema vor. Der Grad der Konformität (im Abschnitt: "Zusatzinformation", Tabelle: Konformität) zur Spezifikation (VO 1089/2010) wird auf "konform" gesetzt.
 
 In der ISO-XML erscheint "true".
 
-**Hinweis:** *Diese Option erscheint nur, wenn vorher die Checkbox "INSPIRE-relevant" aktiviert wurde.*
-
-.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-inspire-relevant/iso-xml-konformitaet-true.png
+.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/iso-xml-inspireidentifiziert_true.png
 
 Abb.: Darstellung in der ISO-XML - true
 
@@ -67,17 +65,15 @@ Abb.: Darstellung in der ISO-XML - true
 Option nicht konform
 ''''''''''''''''''''
 
-.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-inspire-relevant/option-nicht-konform.png
-  :width: 100
+.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/checkbox-inspire-relevant_nicht-konform.png
 
-Abb: Option INSPIRE konform
+Abb: INSPIRE-Option nicht konform
   
   
 Geodatensatz wird an INSPIRE gemeldet, liegt aber nicht im INSPIRE-DatenSchema vor. Der Grad der Konformität zur Spezifikation (VO 1089/2010) kann durch den Anwender (im Abschnitt: "Zusatzinformation", Tabelle: Konformität) nur auf "false" oder "nicht evaluiert" gesetzt werden.
 
-.. hint:: Diese Option erscheint nur, wenn vorher die Checkbox "INSPIRE-relevant" aktiviert wurde.
 
-.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-inspire-relevant/iso-xml-konformitaet-false.png
+.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/iso-xml-inspireidentifiziert_false.png
 
 Abb.: Darstellung in der ISO-XML - false
 
@@ -85,8 +81,6 @@ Abb.: Darstellung in der ISO-XML - false
 
 Abschnitt Verschlagwortung
 ''''''''''''''''''''''''''
-
-
 
 .. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-inspire-relevant/verschlagwortung_inspire-themen.png
 
