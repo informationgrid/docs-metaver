@@ -11,7 +11,7 @@ AdV: Arbeitsgemeinschaft der Vermessungsverwaltungen
 Grundlage
 ^^^^^^^^^
 
-Mit der Aktivierung dieser Option, wird die Kompatibilität der Metadaten mit dem Metadatenprofil der Arbeitsgemeinschaft der Vermessungsverwaltungen (AdV) sichergestellt. Die Metadaten werden über die CSW-Schnittstelle an das `AdV Metainformationssystem (AdV-MIS)<https://advmis.geodatenzentrum.de/>`_ abgegeben. 
+Mit der Aktivierung dieser Option, wird die Kompatibilität der Metadaten mit dem Metadatenprofil der Arbeitsgemeinschaft der Vermessungsverwaltungen (AdV) sichergestellt. Die Metadaten werden über die CSW-Schnittstelle an das `AdV Metainformationssystem (AdV-MIS) <https://advmis.geodatenzentrum.de/>`_ abgegeben. 
 
 .. hint:: Nachfolgend werden die Felder beschrieben, die nach der Aktivierung dieser Option zusätzlich in der Erfassungsmaske angezeigt werden.
 
@@ -39,7 +39,6 @@ Abschnitt Verschlagwortung
 ''''''''''''''''''''''''''
 
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/adv-kompatibel/verschlagwortung_adv-produktgruppe.png
-   :width: 500
 
 Abb.: Tabelle "AdV-Produktgruppe" - (Pflichtangaben)
 
