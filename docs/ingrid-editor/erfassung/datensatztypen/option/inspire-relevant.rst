@@ -20,7 +20,7 @@ INSPIRE ist eine Initiative der europäischen Kommission mit dem Ziel, eine euro
 Erfassung
 ^^^^^^^^^
 
-Alle im Rahmen von INSPIRE zu erfassenden Geodaten müssen als Objektklasse „Geodatensatz“ angelegt werden.
+Alle im Rahmen von INSPIRE zu erfassenden Geodaten müssen als Datensatztyp „Geodatensatz“ angelegt werden.
 
 Beispiele:
 
