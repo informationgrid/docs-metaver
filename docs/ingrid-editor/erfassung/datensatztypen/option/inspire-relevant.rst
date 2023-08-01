@@ -33,7 +33,7 @@ Abb.: Checkbox INSPIRE-relevant
 
 Abb.: Checkbox INSPIRE relevant
 
-Wenn diese Checkbox aktiviert ist, werden die Metadaten an das INSPIRE Geoportal der EU (https://inspire-geoportal.ec.europa.eu/) weitergeleitet und veröffentlicht. Die Daten und die Metadaten unterliegen in dem Fall der INSPIRE-Richtlinie.
+Wenn diese Checkbox aktiviert ist, werden die Metadaten an das `INSPIRE Geoportal <https://inspire-geoportal.ec.europa.eu/>`_ der EU weitergeleitet und veröffentlicht. Die Daten und die Metadaten unterliegen in dem Fall der INSPIRE-Richtlinie.
 
 Der Geodatensatz wird über die Registry der GDI-DE an die EU gemeldet und in einem `Monitoringprozess <https://registry.gdi-de.org/register/moni.st/>`_ überwacht.
 
