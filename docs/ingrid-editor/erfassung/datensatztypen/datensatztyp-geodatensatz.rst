@@ -15,7 +15,7 @@ Beispiele: GIS-Daten, analoge Karten oder Kartenwerke
 Die Metadaten werden nach der ISO-Norm 19115 „Geographic Information – Metadata“ erfasst.
 
 
-.. important:: Die Erfassung dieses Datensatztyps erfolgt wie unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_  beschrieben. Der hier beschriebene Abschnitt Fachbezug beinhaltet für diesen Datensatztyp spezielle Eingabefelder.
+.. hint:: Die Erfassung dieses Datensatztyps erfolgt wie unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_  beschrieben. Der hier beschriebene Abschnitt Fachbezug beinhaltet für diesen Datensatztyp spezielle Eingabefelder.
 
 
 Erfassung
@@ -40,7 +40,7 @@ Abb.: Optionen
 Abschnitt Allgemeines
 ^^^^^^^^^^^^^^^^^^^^^
 
-Dieser Abschnitt ist unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_ beschrieben.
+.. hint:: Dieser Abschnitt ist unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_ beschrieben.
 
 
 
@@ -55,10 +55,6 @@ ISO-Themenkategorie
 Abb.: Auswahlfeld ISO Themenkategorie
 
 `Auswahlliste - ISO 19115 Themenkategorien <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/auswahllisten/auswahlliste_verschlagwortung_iso-themenkategorie.html>`_
-
-
-
-.. hint:: Der Inhalt der Themen-Auswahlliste stammt aus der ISO 19115 und kann nicht erweitert werden.
 
 Dieses Feld verlangt die Angabe der Hauptthemen, welche die Metadaten beschreiben.
 Die Auswahl erfolgt über die vorgegebene Auswahlliste.
