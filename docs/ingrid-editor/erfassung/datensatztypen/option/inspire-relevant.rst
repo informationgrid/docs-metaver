@@ -87,7 +87,7 @@ Geodatensatz wird an INSPIRE gemeldet, liegt aber nicht im INSPIRE-DatenSchema v
 
 Abb.: Darstellung in der ISO-XML - false
 
-
+-----------------------------------------------------------------------------------------------------------------------
 
 Abschnitt Verschlagwortung
 ''''''''''''''''''''''''''
@@ -117,6 +117,8 @@ Abb.: Tabelle - INSPIRE - priority data set - (optionale Angabe)
 
 Abb.: ISO-XML - Angabe des Schlüsselwortes "inspireidentifiziert"
 
+
+----------------------------------------------------------------------------------------------------------------------
 
 Abschnitt Zusatzinformation
 '''''''''''''''''''''''''''
