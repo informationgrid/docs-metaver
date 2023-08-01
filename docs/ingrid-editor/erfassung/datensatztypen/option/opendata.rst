@@ -36,6 +36,8 @@ Nach der Aktivierung sind zusätzlich folgende Angaben verpflichtend:
 (Open Data) Kategorien
 '''''''''''''''''''''''
 
+Die Tabelle "Kategorien" enthält eine Auswahlliste, die das OpenData-Objekt näher bestimmen.
+
 .. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_open-data-kategorien.png
   :width: 350
 
@@ -43,8 +45,3 @@ Abb.: Auswahlfeld - Open Data Kategorien
 
 `Auswahlliste der Open Data Kategorien <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_allgemeines_opendata-kategorien.html>`_
 
-Die Tabelle "Kategorien" enthält eine Auswahlliste, die das OpenData-Objekt näher bestimmen.
-
-
-
-Die Checkbox Open Data ist unter Erfassung von Objekten im `Abschnitt Allgemeines <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html#abschnitt-allgemeines>`_  beschrieben, da sie auf mehrere Metadatentypen zutrifft.
