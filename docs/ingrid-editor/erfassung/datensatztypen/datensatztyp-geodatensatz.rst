@@ -28,9 +28,9 @@ Unter Typ werden weitere Eigenschaften des Metadatensatzes festgelegt.
 Es können folgende Optionen gewählt werden:
 
 Typ:     
-`INSPIRE-relevant, <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/inspire-relevant.html>`_ | 
-`AdV kompatibel,  <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/adv-kompatibel.html>`_ | 
-`Open Data, <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/opendata.html>`_ | 
+`INSPIRE-relevant, <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/inspire-relevant.html>`_
+`AdV kompatibel,  <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/adv-kompatibel.html>`_
+`Open Data, <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/opendata.html>`_
 `(InVeKos) <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/invekos.html>`_
 
 .. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/typ_optionen.png
@@ -73,7 +73,7 @@ Umgekehrt gilt der Automatismus nicht: Beim Hinzufügen einer ISO Kategorie wird
 Optionale Schlagworte
 ''''''''''''''''''''''
 
-.. hint:: Die Erfassung von Freien bzw. Optionalen Schlagworten ist unter `Erfassung von Objekten Abschnitt Verschlagwortung <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/auswahllisten/erfassung-objekte.html#freie-schlagworte-erfassen>`_ beschrieben.
+.. hint:: Die Erfassung von Freien bzw. Optionalen Schlagworten ist unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_ beschrieben.
 
 Abschnitt Fachbezug
 ^^^^^^^^^^^^^^^^^^^
