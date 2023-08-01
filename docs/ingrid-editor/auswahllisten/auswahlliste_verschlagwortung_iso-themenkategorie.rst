@@ -1,5 +1,5 @@
 
-ISO19115 Themenkategorie
+ISO 19115 Themenkategorie
 ========================
 
  - Atmosphäre
