@@ -29,14 +29,14 @@ Checkbox INSPIRE-relevant
 Abb.: Checkbox INSPIRE-relevant
 
 
-.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/option-inspire-relevant/checkbox-inspire-relevant_geodatensatz.png
+.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/checkbox-inspire-relevant.png
   :width: 150
 
 Abb.: Checkbox INSPIRE relevant
 
 Wenn diese Checkbox aktiviert ist, werden die Metadaten an das INSPIRE Geoportal der EU (https://inspire-geoportal.ec.europa.eu/) weitergeleitet und veröffentlicht. Die Daten und die Metadaten unterliegen in dem Fall der INSPIRE-Richtlinie.
 
-Der Geodatensatz wird über die Registry an die EU gemeldet und in einem Monitoringprozess überwacht.
+Der Geodatensatz wird über die Registry der GDI-DE an die EU gemeldet und in einem `Monitoringprozess <https://registry.gdi-de.org/register/moni.st/>`_ überwacht.
 
 Folgende Eigenschaften ändern sich bei der Aktivierung der Checkbox INSPIRE-relevant:
  - Checkbox INSPIRE-relevant: Aktivierung der Optionen "konform" / "nicht konform"
