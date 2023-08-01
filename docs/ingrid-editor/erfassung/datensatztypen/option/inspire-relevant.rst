@@ -39,6 +39,11 @@ Abb.: Checkbox INSPIRE-relevant
 
 Abb.: Checkbox INSPIRE relevant
 
+.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/iso-xml-inspireidentifiziert.png
+   :width: 400
+
+Abb.: ISO-XML - Angabe des Schlüsselwortes "inspireidentifiziert"
+
 Wenn diese Checkbox aktiviert ist, werden die Metadaten an das `INSPIRE Geoportal <https://inspire-geoportal.ec.europa.eu/>`_ der EU weitergeleitet und veröffentlicht. Die Daten und die Metadaten unterliegen in dem Fall der INSPIRE-Richtlinie.
 
 Der Geodatensatz wird über die Registry der GDI-DE an die EU gemeldet und in einem `Monitoringprozess <https://registry.gdi-de.org/register/moni.st/>`_ überwacht.
@@ -126,9 +131,7 @@ Abb.: Tabelle - INSPIRE - priority data set - (optionale Angabe)
 `Auswahlliste - INSPIRE - priority data set <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_inspire_priority-data-set.html>`_
 
 
-.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/iso-xml-inspireidentifiziert.png
 
-Abb.: ISO-XML - Angabe des Schlüsselwortes "inspireidentifiziert"
 
 
 ----------------------------------------------------------------------------------------------------------------------
