@@ -30,6 +30,7 @@ Abb.: Checkbox INSPIRE-relevant
 
 
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/checkbox-inspire-relevant.png
+   :width: 200
 
 Abb.: Checkbox INSPIRE relevant
 
@@ -38,7 +39,7 @@ Wenn diese Checkbox aktiviert ist, werden die Metadaten an das `INSPIRE Geoporta
 Der Geodatensatz wird über die Registry der GDI-DE an die EU gemeldet und in einem `Monitoringprozess <https://registry.gdi-de.org/register/moni.st/>`_ überwacht.
 
 Folgende Eigenschaften ändern sich bei der Aktivierung der Checkbox INSPIRE-relevant:
- - Checkbox INSPIRE-relevant: Aktivierung der Optionen "konform" / "nicht konform"
+ - Checkbox INSPIRE-relevant: Aktivierung der Optionen "konform ja / nein
  - Abschnitt Verschlagwortung: Aktivierung der Tabelle "INSPIRE-Themen" - (Pflichtangaben)
  - Abschnitt Verschlagwortung: Auswahlliste - INSPIRE - Räumlicher Anwendungsbereich - (Pflichtangabe)
  - Abschnitt Verschlagwortung: Aktivierung der Tabelle - INSPIRE - priority data set - (optionale Angabe)
@@ -50,6 +51,7 @@ Option konform
 ''''''''''''''
 
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/checkbox-inspire-relevant_konform.png
+   :width: 400
 
 Abb.: INSPIRE-Optionen konform
 
@@ -58,6 +60,7 @@ Der Geodatensatz wird an INSPIRE gemeldet und liegt im INSPIRE-Datenschema vor. 
 In der ISO-XML erscheint "true".
 
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/iso-xml-inspireidentifiziert_true.png
+   :width: 300
 
 Abb.: Darstellung in der ISO-XML - true
 
@@ -66,6 +69,7 @@ Option nicht konform
 ''''''''''''''''''''
 
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/checkbox-inspire-relevant_nicht-konform.png
+   :width: 400
 
 Abb: INSPIRE-Option nicht konform
   
@@ -74,6 +78,7 @@ Geodatensatz wird an INSPIRE gemeldet, liegt aber nicht im INSPIRE-DatenSchema v
 
 
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/iso-xml-inspireidentifiziert_false.png
+   :width: 300
 
 Abb.: Darstellung in der ISO-XML - false
 
