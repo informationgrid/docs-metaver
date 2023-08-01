@@ -6,7 +6,7 @@ INSPIRE - Bedeutung
 ^^^^^^^^^^^^^^^^^^^
 
 INSPIRE: Infrastructure for Spatial Information in the European Community
-| Übersetzt: Geodateninfrastruktur (GDI) in der Europäischen Gemeinschaft
+|Übersetzt: Geodateninfrastruktur (GDI) in der Europäischen Gemeinschaft
 
 Grundlage
 ^^^^^^^^^
