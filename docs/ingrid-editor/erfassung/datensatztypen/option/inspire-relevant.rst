@@ -144,9 +144,6 @@ Abb.: Auswahlliste - INSPIRE - Räumlicher Anwendungsbereich, Beispiel
 Abschnitt Zusatzinformation
 '''''''''''''''''''''''''''
 
-.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/ige-abschnitt_verschlagwortung.png
-
-
 Konformität
 '''''''''''
 
@@ -158,14 +155,19 @@ Hier muss angegeben werden, zu welcher Durchführungsbestimmung der INSPIRE-Rich
 
 Dieses Feld wird bei der Auswahl der "INSPIRE-Themen" oder der "Art des Dienstes" automatisch befüllt. Es muss dann nur der Grad der Konformität manuell eingetragen werden.
 
-.. important:: Bitte entsprechend den Empfehlungen des AdV-Metadatenprofils nur die Werte "konform" und "nicht konform" im Feld "Grad der Konformität" verwenden. Für alle nicht INSPIRE-Objekte, sollte hier die „INSPIRE-Richtlinie“ mit dem Wert „nicht evaluiert“ ausgewählt werden. 
+.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/zusatzinformation_konformitaet_auswahl.png
+ 
+Abb.: Feld Konformität - Auswahlmöglichkeiten
 
-.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/ige-abschnitt_zusatzinformation.png
+
+.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/zusatzinformation-konformitaet-grad.png
+
+Abb.: Tabelle "Konformität" - Grad der Konformität - Auswahlmöglichkeit
 
 
-.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/zusatzinformation-konformitaet-konform.png
 
-Abb.: Tabelle "Konformität" - Grad der Konformität: konform
+
+
 
 
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/option-inspire-relevant/zusatzinformation-konformitaet-konform.png
