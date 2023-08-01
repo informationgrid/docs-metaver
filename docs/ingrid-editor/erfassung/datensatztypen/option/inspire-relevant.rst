@@ -118,7 +118,7 @@ Aktivierung der Tabelle "INSPIRE-Themen" mit Pflichtangaben.
 
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/verschlagwortung_inspire-themen.png
 
-Abb.: Tabelle "INSPIRE-Themen"
+Abb.: Tabelle "INSPIRE-Themen", Beispiel
 
 
 Aktivierung der Tabelle "INSPIRE - priority data set" mit optionalen Angaben.
@@ -127,16 +127,16 @@ Aktivierung der Tabelle "INSPIRE - priority data set" mit optionalen Angaben.
 
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/verschlagwortung_inspire-priority-data-set.png
  
-Abb.: Tabelle "INSPIRE - priority data set"
+Abb.: Tabelle "INSPIRE - priority data set", Beispiel
 
 
-Aktivierung der Auswahlliste "INSPIRE - Räumlicher Anwendungsbereich"
+Aktivierung der Auswahlliste "INSPIRE - Räumlicher Anwendungsbereich" mit Pflichtangaben.
 
 `Auswahlliste - INSPIRE - Räumlicher Anwendungsbereich <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_inspire_raeumlicher-anwendungsbereich.html>`_
 
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/verschlagwortung_inspire_raeumlicher-anwendungsbereich.png
  
-Abb.: Auswahlliste - INSPIRE - Räumlicher Anwendungsbereich
+Abb.: Auswahlliste - INSPIRE - Räumlicher Anwendungsbereich, Beispiel
 
 
 ----------------------------------------------------------------------------------------------------------------------
