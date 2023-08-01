@@ -73,7 +73,7 @@ Umgekehrt gilt der Automatismus nicht: Beim Hinzufügen einer ISO Kategorie wird
 Optionale Schlagworte
 ''''''''''''''''''''''
 
-.. hint:: Die Erfassung von Freien bzw. Optionalen Schlagworten ist unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_ beschrieben.
+.. hint:: Die Erfassung von Freien bzw. Optionalen Schlagworten ist unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html#abschnitt-verschlagwortung>`_ beschrieben.
 
 Abschnitt Fachbezug
 ^^^^^^^^^^^^^^^^^^^
