@@ -153,16 +153,19 @@ Hier muss angegeben werden, zu welcher Durchführungsbestimmung der INSPIRE-Rich
 Dieses Feld wird bei der Auswahl der "INSPIRE-Themen" oder der "Art des Dienstes" automatisch befüllt. Es muss dann nur der Grad der Konformität manuell eingetragen werden.
 
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/zusatzinformation-konformitaet_bearbeiten.png
- 
+   :width: 500
+
 Abb.: Feld Konformität - Aktion / Bearbeiten
 
 
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/zusatzinformation-konformitaet_auswahl.png
+   :width: 500
  
 Abb.: Feld Konformität - Auswahlmöglichkeiten
 
 
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/zusatzinformation-konformitaet_grad.png
+   :width: 500
 
 Abb.: Tabelle "Konformität" - Grad der Konformität - Auswahlmöglichkeit
 
