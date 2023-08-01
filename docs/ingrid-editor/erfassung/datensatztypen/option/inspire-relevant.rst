@@ -170,6 +170,6 @@ Abb.: Feld Konformität - Auswahlmöglichkeiten
 Abb.: Tabelle "Konformität" - Grad der Konformität - Auswahlmöglichkeit
 
 
-Datum: Angabe des Datums, wann der Datensatz geprüft wurde.
+Feld Datum: Angabe des Datums, wann der Datensatz geprüft wurde.
 
 Feld "geprüft mit": Angabe des Validators
