@@ -39,8 +39,10 @@ Abb.: Checkbox INSPIRE-relevant
 
 Abb.: Checkbox INSPIRE relevant
 
+Mit der Aktivierung wird in der ISO-XML das Schlüsselwort "inspireidentifiziert" gesetzt.
+
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/iso-xml-inspireidentifiziert.png
-   :width: 400
+   :width: 500
 
 Abb.: ISO-XML - Angabe des Schlüsselwortes "inspireidentifiziert"
 
@@ -50,11 +52,11 @@ Der Geodatensatz wird über die Registry der GDI-DE an die EU gemeldet und in ei
 
 Folgende Eigenschaften ändern sich bei der Aktivierung der Checkbox INSPIRE-relevant:
  - Checkbox INSPIRE-relevant: Aktivierung der Optionen "konform ja / nein
- - Abschnitt Verschlagwortung: Aktivierung der Tabelle "INSPIRE-Themen" - (Pflichtangaben)
- - Abschnitt Verschlagwortung: Auswahlliste - INSPIRE - Räumlicher Anwendungsbereich - (Pflichtangabe)
- - Abschnitt Verschlagwortung: Aktivierung der Tabelle - INSPIRE - priority data set - (optionale Angabe)
- - Abschnitt Zusatzinformation: Es erscheint die Tabelle - "Konformität" (Pflichtangaben)
- - Aktivierung des Schlagwortes "inspireidentifiziert" während der ISO-XML Generierung
+ - Abschnitt Verschlagwortung: Aktivierung der Tabelle "INSPIRE-Themen"
+ - Abschnitt Verschlagwortung: Aktivierung der Tabelle "INSPIRE - priority data set"
+ - Abschnitt Verschlagwortung: Auswahlliste "INSPIRE - Räumlicher Anwendungsbereich"
+ - Abschnitt Zusatzinformation: Aktivierung der Tabelle "Konformität"
+ - Aktivierung des Schlagwortes "inspireidentifiziert" in der ISO-XML
 
 
 Option konform
@@ -110,28 +112,31 @@ Abb.: Darstellung in der ISO-XML
 Abschnitt Verschlagwortung
 ''''''''''''''''''''''''''
 
+Aktivierung der Tabelle "INSPIRE-Themen" mit Pflichtangaben.
+
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/verschlagwortung_inspire-themen.png
 
-Abb.: Tabelle "INSPIRE-Themen" - (Pflichtangaben)
+Abb.: Tabelle "INSPIRE-Themen"
 
 `Auswahlliste - INSPIRE-Themen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_inspire_themen.html>`_
 
 
-.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/verschlagwortung_inspire_raeumlicher-anwendungsbereich.png
- 
-Abb.: Auswahlliste - INSPIRE - Räumlicher Anwendungsbereich - (Pflichtangabe)
-
-`Auswahlliste - INSPIRE - Räumlicher Anwendungsbereich <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_inspire_raeumlicher-anwendungsbereich.html>`_
-
+Aktivierung der Tabelle "INSPIRE - priority data set" mit optionalen Angaben.
 
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/verschlagwortung_inspire-priority-data-set.png
  
-Abb.: Tabelle - INSPIRE - priority data set - (optionale Angabe)
+Abb.: Tabelle "INSPIRE - priority data set"
 
 `Auswahlliste - INSPIRE - priority data set <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_inspire_priority-data-set.html>`_
 
 
+Aktivierung der Auswahlliste "INSPIRE - Räumlicher Anwendungsbereich"
 
+.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/verschlagwortung_inspire_raeumlicher-anwendungsbereich.png
+ 
+Abb.: Auswahlliste - INSPIRE - Räumlicher Anwendungsbereich
+
+`Auswahlliste - INSPIRE - Räumlicher Anwendungsbereich <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_inspire_raeumlicher-anwendungsbereich.html>`_
 
 
 ----------------------------------------------------------------------------------------------------------------------
