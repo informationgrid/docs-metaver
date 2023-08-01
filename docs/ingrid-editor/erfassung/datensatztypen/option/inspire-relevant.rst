@@ -30,7 +30,6 @@ Abb.: Checkbox INSPIRE-relevant
 
 
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/checkbox-inspire-relevant.png
-  :width: 150
 
 Abb.: Checkbox INSPIRE relevant
 
