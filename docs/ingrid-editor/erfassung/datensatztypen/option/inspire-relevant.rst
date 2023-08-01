@@ -9,7 +9,7 @@ Die Infrastructure for Spatial Information in the European Community (INSPIRE, d
 
 (Quelle: `Wikipedia <https://de.wikipedia.org/wiki/Infrastructure_for_Spatial_Information_in_the_European_Community>`_)
 
-.. important:: Nachfolgend werden die Felder beschrieben, die in der Erfassungsmaske speziell für diese Option angezeigt werden.
+.. hint:: Nachfolgend werden die Felder beschrieben, die in der Erfassungsmaske speziell für diese Option angezeigt werden.
 
 Erfassung
 ^^^^^^^^^
@@ -21,11 +21,6 @@ Beispiele:
  - INSPIRE ST Geografische Bezeichnungen ATKIS Basis-DLM
  - INSPIRE ST Gewässernetz - Gewässerkundlicher Landesdienst
  - INSPIRE ST Umweltüberwachung - Gewässerkundlicher Landesdienst
-
-
-Abschnitt Allgemeines
-''''''''''''''''''''''
-.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-abschnitt_allgemeines.png
 
 
 Checkbox INSPIRE-relevant
@@ -89,10 +84,10 @@ Geodatensatz wird an INSPIRE gemeldet, liegt aber nicht im INSPIRE-DatenSchema v
 Abb.: Darstellung in der ISO-XML - false
 
 
+
 Abschnitt Verschlagwortung
 ''''''''''''''''''''''''''
 
-.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-03_verschlagwortung/ige-abschnitt_verschlagwortung.png
 
 
 .. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatensatz/option-inspire-relevant/verschlagwortung_inspire-themen.png
