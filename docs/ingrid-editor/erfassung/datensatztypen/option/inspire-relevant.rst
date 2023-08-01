@@ -114,29 +114,29 @@ Abschnitt Verschlagwortung
 
 Aktivierung der Tabelle "INSPIRE-Themen" mit Pflichtangaben.
 
+`Auswahlliste - INSPIRE-Themen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_inspire_themen.html>`_
+
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/verschlagwortung_inspire-themen.png
 
 Abb.: Tabelle "INSPIRE-Themen"
 
-`Auswahlliste - INSPIRE-Themen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_inspire_themen.html>`_
-
 
 Aktivierung der Tabelle "INSPIRE - priority data set" mit optionalen Angaben.
+
+`Auswahlliste - INSPIRE - priority data set <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_inspire_priority-data-set.html>`_
 
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/verschlagwortung_inspire-priority-data-set.png
  
 Abb.: Tabelle "INSPIRE - priority data set"
 
-`Auswahlliste - INSPIRE - priority data set <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_inspire_priority-data-set.html>`_
-
 
 Aktivierung der Auswahlliste "INSPIRE - Räumlicher Anwendungsbereich"
+
+`Auswahlliste - INSPIRE - Räumlicher Anwendungsbereich <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_inspire_raeumlicher-anwendungsbereich.html>`_
 
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/verschlagwortung_inspire_raeumlicher-anwendungsbereich.png
  
 Abb.: Auswahlliste - INSPIRE - Räumlicher Anwendungsbereich
-
-`Auswahlliste - INSPIRE - Räumlicher Anwendungsbereich <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_inspire_raeumlicher-anwendungsbereich.html>`_
 
 
 ----------------------------------------------------------------------------------------------------------------------
