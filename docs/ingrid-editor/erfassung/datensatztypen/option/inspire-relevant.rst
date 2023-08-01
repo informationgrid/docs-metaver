@@ -50,9 +50,6 @@ Option konform
 ''''''''''''''
 
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/checkbox-inspire-relevant_konformitaet.png
-  :width: 300
-
-
 
 Abb.: Optionen INSPIRE konformität
 
