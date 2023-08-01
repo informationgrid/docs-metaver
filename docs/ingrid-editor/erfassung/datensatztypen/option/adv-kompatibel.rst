@@ -11,7 +11,7 @@ AdV: Arbeitsgemeinschaft der Vermessungsverwaltungen
 Grundlage
 ^^^^^^^^^
 
-Mit der Aktivierung dieser Option, wird die Kompatibilität der Metadaten mit dem Metadatenprofil der Arbeitsgemeinschaft der Vermessungsverwaltungen (AdV) sichergestellt.
+Mit der Aktivierung dieser Option, wird die Kompatibilität der Metadaten mit dem Metadatenprofil der Arbeitsgemeinschaft der Vermessungsverwaltungen (AdV) sichergestellt. Die Metadaten werden über die CSW-Schnittstelle an das `AdV Metainformationssystem (AdV-MIS)<https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_ abgegeben. 
 
 .. hint:: Nachfolgend werden die Felder beschrieben, die nach der Aktivierung dieser Option zusätzlich in der Erfassungsmaske angezeigt werden.
 
@@ -39,12 +39,15 @@ Abschnitt Verschlagwortung
 ''''''''''''''''''''''''''
 
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/adv-kompatibel/verschlagwortung_adv-produktgruppe.png
+   :width: 500
 
 Abb.: Tabelle "AdV-Produktgruppe" - (Pflichtangaben)
 
 `Auswahlliste - AdV-Produktgruppe <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_adv_produktgruppe.html>`_
 
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/adv-kompatibel/iso-xml-keyword-advmis.png
+   :width: 400
+
 
 Abb.: ISO-XML - Angabe des Schlüsselwortes "AdVMIS"
 
