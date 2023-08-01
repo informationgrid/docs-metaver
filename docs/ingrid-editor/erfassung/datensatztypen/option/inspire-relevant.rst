@@ -2,10 +2,11 @@
 Option - INSPIRE relevant
 -------------------------
 
-Begeutung Begriff: INSPIRE
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+INSPIRE - Bedeutung
+^^^^^^^^^^^^^^^^^^^
 
-Infrastructure for Spatial Information in the European Community (INSPIRE, deutsch Geodateninfrastruktur in der Europäischen Gemeinschaft)
+INSPIRE: Infrastructure for Spatial Information in the European Community 
+Übersetzt: Geodateninfrastruktur (GDI) in der Europäischen Gemeinschaft
 
 Grundlage
 ^^^^^^^^^
