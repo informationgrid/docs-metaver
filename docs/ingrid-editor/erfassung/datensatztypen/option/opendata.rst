@@ -77,7 +77,7 @@ Abb.: Nutzungsbedingungen
 Unter den Nutzungsbedingungen kann eine Linzenz gewählt werden, die die Nutzung der Daten zu bestimmten Bedingungen erlaubt. Im Feld Quelle kann eine Angabe zu einer Datenquelle erfolgen. z.B.: © Daten: Landesamt für ... . Diese Information ist relevant z.B. in Basiskarten, da diese Information in einem Kartenviewer in der Basiskarte vermerkt werden muss.
 
 .. image:: ../../../../img/kartenclient/metaver-kartenviewer_angabe-copyright.png
-  :width: 300
+  :width: 400
 
 Im Abschnitt Verweise kann eine Verlinkung auf Nutzungsbedingungen angelegt werden, die die Nutzung der Daten regelt. Die Datenhaltendestelle ist dann dafür verantwortlich, dass die verlinkte Seite immer erreichbar ist.
 
