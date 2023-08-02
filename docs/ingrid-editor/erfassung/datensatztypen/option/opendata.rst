@@ -74,6 +74,8 @@ Abschnitt Verfügbarkeit
 Abb.: Nutzungsbedingungen
 
 
+Unter den Nutzungsbedingungen kann eine Linzenz gewählt werden, die die Nutzung der Daten zu bestimmten Bedingungen erlaubt. Im Abschnitt Verweise kann auch eine Verlinkung auf Nutzungsbedingungen angelegt werden, die die Nutzung der Daten regelt. Die Datenhaltendestelle ist dann dafür verantwortlich, dass die verlinkte Seite immer erreichbar ist.
+
 -----------------------------------------------------------------------------------------------------------------------
 
 Abschnitt Verweise
@@ -88,4 +90,6 @@ Abb.: Datendownload anlegen
 
 
 Abb.: angelegter Datendownload
+
+Wenn ein Metadatensatz als Open Data gekennzeichnet ist, muss im Metadatensatz ein Downloadlink auf die beschriebenen Daten enthalten sein. Dies erfolgt an dieser Stelle. Die Datenhaltendestelle ist dann dafür verantwortlich, dass die verlinkten Daten immer erreichbar sind.
 
