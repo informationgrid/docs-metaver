@@ -74,7 +74,9 @@ Abschnitt Verfügbarkeit
 Abb.: Nutzungsbedingungen
 
 
-Unter den Nutzungsbedingungen kann eine Linzenz gewählt werden, die die Nutzung der Daten zu bestimmten Bedingungen erlaubt. Im Abschnitt Verweise kann auch eine Verlinkung auf Nutzungsbedingungen angelegt werden, die die Nutzung der Daten regelt. Die Datenhaltendestelle ist dann dafür verantwortlich, dass die verlinkte Seite immer erreichbar ist.
+Unter den Nutzungsbedingungen kann eine Linzenz gewählt werden, die die Nutzung der Daten zu bestimmten Bedingungen erlaubt. Im Feld Quelle kann die Angabe einer Informationsquelle erfolgen. z.B. © 2023 Landesamt für ...
+
+Im Abschnitt Verweise kann eine Verlinkung auf Nutzungsbedingungen angelegt werden, die die Nutzung der Daten regelt. Die Datenhaltendestelle ist dann dafür verantwortlich, dass die verlinkte Seite immer erreichbar ist.
 
 -----------------------------------------------------------------------------------------------------------------------
 
