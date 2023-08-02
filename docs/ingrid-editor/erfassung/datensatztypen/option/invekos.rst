@@ -19,6 +19,7 @@ Die Konzeption, Koordinierung sowie Kontrollfunktionen des InVeKoS erfolgen durc
 
 (Quelle: `Wikipedia <https://de.wikipedia.org/wiki/Integriertes_Verwaltungs-_und_Kontrollsystem>`_)
 
+-----------------------------------------------------------------------------------------------------------------------
 
 Die EU-Kommission erwartet eine INSPIRE-Kompatibilität der GIS-InVeKoS-Daten. Zunächst bedeutet dies die Bereitstellung von Metadaten zu den relevanten Daten.
 
