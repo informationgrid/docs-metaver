@@ -25,13 +25,13 @@ Abb.: Checkbox Open Data
 
 
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/open-data/open-data_hinweis.png
-  :width:400
+  :width: 400
 
 Abb.: Hinweis
 
 
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/open-data/open-data_iso-keyword.png
-  :width:300
+  :width: 300
 
 Abb.: Darstellung in der ISO-XML
 
@@ -56,7 +56,7 @@ Abschnitt Verschlagwortung
 Die Tabelle "Kategorien" enthält eine Auswahlliste, die das OpenData-Objekt näher bestimmen.
 
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/open-data/open-data_kategorie.png
-  :width:400
+  :width: 400
 
 Abb.: Auswahlfeld - Open Data Kategorien
 
@@ -69,7 +69,7 @@ Abschnitt Verfügbarkeit
 '''''''''''''''''''''''
 
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/open-data/open-data_kategorie.png
-  :width:400
+  :width: 400
 
 Abb.: Nutzungsbedingungen
 
@@ -80,12 +80,12 @@ Abschnitt Verweise
 ''''''''''''''''''
 
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/open-data/open-data_verweis.png
-  :width:400
+  :width: 400
 
 Abb.: Datendownload anlegen
 
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/open-data/open-data_verweis_angelegt.png
-  :width:400
+  :width: 400
 
 Abb.: angelegter Datendownload
 
