@@ -74,7 +74,7 @@ Abschnitt Verfügbarkeit
 Abb.: Nutzungsbedingungen
 
 
-Unter den Nutzungsbedingungen kann eine Linzenz gewählt werden, die die Nutzung der Daten zu bestimmten Bedingungen erlaubt. 
+Unter den Nutzungsbedingungen muss eine Linzenz gewählt werden, die die Nutzung der Daten zu bestimmten Bedingungen erlaubt. 
 
 Im Feld Quelle kann eine Angabe zu einer Datenquelle erfolgen. z.B.: *© Daten: Landesamt für ...* . Diese Angabe ist z.B. in Basiskarten relevant, da diese Information in einem Kartenviewer, in der Basiskarte vermerkt werden muss.
 
