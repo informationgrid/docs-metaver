@@ -5,7 +5,7 @@ Option: InVekoS
 InVekoS - Bedeutung
 ^^^^^^^^^^^^^^^^^^^
 
-InVekoS - Integriertes Verwaltungs- und Kontrollsystem
+InVeKoS - Integriertes Verwaltungs- und Kontrollsystem
 
 
 Grundlage
@@ -22,10 +22,10 @@ Die Konzeption, Koordinierung sowie Kontrollfunktionen des InVeKoS erfolgen durc
 Erfassung
 ^^^^^^^^^
 
-Checkbox InVeKos
+Checkbox InVeKoS
 ''''''''''''''''
 
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/invekos/checkbox-invekos.png
   :width: 150
 
-Abb.: Checkbox InVeKos
+Abb.: Checkbox InVeKoS
