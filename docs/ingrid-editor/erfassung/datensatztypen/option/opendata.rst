@@ -56,7 +56,7 @@ Abschnitt Verschlagwortung
 Die Tabelle "Kategorien" enthält eine Auswahlliste, die das OpenData-Objekt näher bestimmen.
 
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/open-data/open-data_kategorie.png
-  :width: 500
+
 
 Abb.: Auswahlfeld - Open Data Kategorien
 
@@ -69,7 +69,7 @@ Abschnitt Verfügbarkeit
 '''''''''''''''''''''''
 
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/open-data/open-data_kategorie.png
-  :width: 500
+
 
 Abb.: Nutzungsbedingungen
 
