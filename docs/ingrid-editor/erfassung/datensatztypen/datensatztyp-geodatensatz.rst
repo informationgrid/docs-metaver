@@ -32,7 +32,7 @@ Es können folgende Optionen gewählt werden:
 `Open Data, <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/opendata.html>`_
 `(InVeKos) <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/invekos.html>`_
 
-(Erläuterungen zu den verschiedenen Optionen.)
+(Erläuterungen zu diesen Optionen)
 
 .. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/typ_optionen.png
 
