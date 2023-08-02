@@ -50,53 +50,53 @@ Auswahlliste:
 
 **GSAA**
 
-*Definition:*
+**Definition:**
 Geodatenbezogener Beihilfeantrag als Teil des Teilsystems „Beihilfeanträge“ des InVeKoS gemäß Artikel 68 der Verordnung (EG) Nr. 1306/2013.
 
-*Beschreibung:*
+**Beschreibung:**
 Abgrenzung landwirtschaftlicher Parzellen mit Kulturpflanzen oder Kulturgruppen gemäß den Angaben des Betriebsinhabers in einem bestimmten Jahr
 
 
 **Im Umweltinteresse genutzte Fläche**
 
-*Definition:*
+**Definition:**
 In die Systeme und Teilsysteme gemäß Artikel 68 der Verordnung (EU) Nr. 1306/2013 eingegebene Geodaten.
 
-*Beschreibung:*
+**Beschreibung:**
 Das Integrierte Verwaltungs- und Kontrollsystem (InVeKoS) besteht aus elektronischen Datenbanken der Teilsysteme. Das System zur Identifizierung landwirtschaftlicher Parzellen (besser bekannt als LPIS – System zur Identifizierung landwirtschaftlicher Parzellen) und die Teilsysteme Beihilfeanträge und Zahlungsanträge des InVeKoS enthalten die Geodatenkomponenten.
 
 
 **InVeKoS**
 
-*Definition:*
+**Definition:**
 Integriertes Verwaltungs- und Kontrollsystem gemäß Artikel 67 der Verordnung (EG) Nr. 1306/2013
 
-*Beschreibung:*
+**Beschreibung:**
 Von den Mitgliedstaaten angewendetes System für bestimmte Zahlungen gemäß der Verordnung (EU) Nr. 1307/2013 und der Verordnung (EU) Nr. 1305/2013
 
 
 **Landwirtschaftliche Fläche**
 
-*Definition:*
+**Definition:**
 Flächen, die als Ackerland, Dauergrünland, Dauerweideland oder Dauerkulturen genutzt werden.
 
-*Beschreibung:*
+**Beschreibung:**
 Flächen, die von diesen Bodenbedeckungstypen oder deren Subtypen (enger gefasste Kategorien) mit ausgewiesenen Landschaftselementen und/oder Bäumen, die zu diesen Flächen gehören, genutzt werden.
 
 
 **LPIS**
 
-*Definition:*
+**Definition:**
 System zur Identifizierung landwirtschaftlicher Parzellen, ein Teilsystem des Integrierten Verwaltungs- und Kontrollsystems (InVeKoS) wie in Artikel 68 der Verordnung (EG) Nr. 1306/2013 definiert. Subsystem des InVeKoS im Sinne von Artikel 68 der Verordnung (EG) Nr. 1306/2013.
 
-*Beschreibung:*
+**Beschreibung:**
 Geodatensatz mit der Abgrenzung von Referenzparzellen, Arten landwirtschaftlicher Flächen und stabilen im Umweltinteresse genutzten Flächen.
 
 
 **Referenzparzelle**
 
-*Definition:*
+**Definition:**
 Geografisch abgegrenzte Fläche, die eine eindeutige Identifizierung und einen für eine Beihilfezahlung ausgleichsfähigen Flächenwert aufweist
 
-*Beschreibung:*
+**Beschreibung:**
 Grundlegende räumliche Einheit für die Verwaltung und geografische Lokalisierung landwirtschaftlicher Parzellen. Kann eine oder mehrere im InVeKoS erklärte landwirtschaftliche Parzellen enthalten und kann von einem oder mehreren Betriebsinhabern bewirtschaftet werden
