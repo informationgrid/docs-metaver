@@ -68,7 +68,7 @@ Abb.: Auswahlfeld - Open Data Kategorien
 Abschnitt Verfügbarkeit
 '''''''''''''''''''''''
 
-.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/open-data/open-data_kategorie.png
+.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/open-data/open-data_nutzungsbedingungen.png
 
 
 Abb.: Nutzungsbedingungen
