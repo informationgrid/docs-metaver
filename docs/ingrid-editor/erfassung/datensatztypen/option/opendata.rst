@@ -79,7 +79,7 @@ Unter den Nutzungsbedingungen kann eine Linzenz gewählt werden, die die Nutzung
 .. image:: ../../../../img/kartenclient/metaver-kartenviewer_angabe-copyright.png
   :width: 400
 
-  Abb.: Angabe Copyright in einer Basiskarte
+Abb.: Angabe Copyright in einer Basiskarte
 
 Im Abschnitt Verweise kann eine Verlinkung auf Nutzungsbedingungen angelegt werden, die die Nutzung der Daten regelt. Die Datenhaltendestelle ist dann dafür verantwortlich, dass die verlinkte Seite immer erreichbar ist.
 
