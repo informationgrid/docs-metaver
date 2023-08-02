@@ -25,10 +25,6 @@ Die EU-Kommission erwartet eine INSPIRE-Kompatibilität der GIS-InVeKoS-Daten. Z
 
 Die Anforderungen an InVeKoS-Metadaten wurden seitens der GDI-DE im April 2023 kommuniziert. Demnach sind Keywords einer entsprechenden codelist (INSPIRE-registry unter https://inspire.ec.europa.eu/metadata-codelist/IACSData) zu verwenden.
 
-In die Systeme und Teilsysteme gemäß Artikel 68 der Verordnung (EU) Nr. 1306/2013 eingegebene Geodaten.
-
-InVeKoS besteht aus elektronischen Datenbanken der Teilsysteme. Das System zur Identifizierung landwirtschaftlicher Parzellen (besser bekannt als LPIS – System zur Identifizierung landwirtschaftlicher Parzellen) und die Teilsysteme Beihilfeanträge und Zahlungsanträge des InVeKoS enthalten die Geodatenkomponenten.
-
 **InVeKoS/IACS**
 
 Integrated Administration and Control System
