@@ -50,7 +50,7 @@ Wenn diese Checkbox aktiviert ist, werden die Metadaten an den `Geodatenkatalog 
 
 Der Geodatensatz wird über die Registry der GDI-DE an die EU gemeldet und in einem `Monitoringprozess <https://registry.gdi-de.org/register/moni/>`_ überwacht.
 
-Folgende Eigenschaften ändern sich bei der Aktivierung der Checkbox INSPIRE-relevant:
+
  - Checkbox INSPIRE-relevant: Aktivierung der Optionen "konform ja / nein
  - Abschnitt Verschlagwortung: Aktivierung der Tabelle "INSPIRE-Themen"
  - Abschnitt Verschlagwortung: Aktivierung der Tabelle "INSPIRE - priority data set"

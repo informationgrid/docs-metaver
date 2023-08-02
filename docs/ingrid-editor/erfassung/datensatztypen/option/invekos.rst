@@ -17,7 +17,7 @@ InVeKoS ist ein wesentliches Kontrollinstrument für die Agrarausgaben der EU. D
 
 Die Konzeption, Koordinierung sowie Kontrollfunktionen des InVeKoS erfolgen durch die Europäische Kommission, für die konkrete Umsetzung sind die EU-Mitgliedstaaten zuständig.
 
-(Quelle: `Integriertes Verwaltungs- und Kontrollsystem <https://de.wikipedia.org/wiki/Integriertes_Verwaltungs-_und_Kontrollsystem>`_)
+(Quelle: `Wikipedia <https://de.wikipedia.org/wiki/Integriertes_Verwaltungs-_und_Kontrollsystem>`_)
 
 Erfassung
 ^^^^^^^^^
