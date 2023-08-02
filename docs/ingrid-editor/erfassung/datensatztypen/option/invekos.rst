@@ -29,9 +29,9 @@ In die Systeme und Teilsysteme gemäß Artikel 68 der Verordnung (EU) Nr. 1306/2
 
 InVeKoS besteht aus elektronischen Datenbanken der Teilsysteme. Das System zur Identifizierung landwirtschaftlicher Parzellen (besser bekannt als LPIS – System zur Identifizierung landwirtschaftlicher Parzellen) und die Teilsysteme Beihilfeanträge und Zahlungsanträge des InVeKoS enthalten die Geodatenkomponenten.
 
-InVeKoS/IACS - Integrated Administration and Control System
-InVeKoS/IACS (GSAA) - Geospatial Aid Application (Antrag auf raumbezogene Hilfe)
-InVeKoS/IACS (LPIS) - Land Parcel Identification System (Identifizierung landwirtschaftlicher Parzellen)
+| InVeKoS/IACS - Integrated Administration and Control System
+| InVeKoS/IACS (GSAA) - Geospatial Aid Application (Antrag auf raumbezogene Hilfe)
+| InVeKoS/IACS (LPIS) - Land Parcel Identification System (Identifizierung landwirtschaftlicher Parzellen)
 
 In der Testsuite der GDI-DE ist die Testklasse bereits eingerichtet (`GDI-DE Testsuite <https://testsuite.gdi-de.org/#/quicktest>`_, Auswahl „ST34_INSPIRE…“) und somit eine Kompatibilitätsprüfung möglich.
 
