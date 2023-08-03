@@ -204,7 +204,7 @@ Angabe der Methode, die zur Erstellung des Datenobjektes geführt hat. Der Eintr
 Abb.: Feld Herstellungsprozess - Beispiel: Feldkartierung
 
 
-Symbolkatalog
+Feld: Symbolkatalog
 """""""""""""
 
 Für die Präsentation genormter Objekte und Sachverhalte können für die Nutzer der Daten zur Herstellung von Karten abgestimmte Symbole vorgegeben werden. Die Angabe einer oder mehrerer analoger oder digitaler Symbolpaletten mit zugehörigem Datum (Pflichteintrag) und Version (Optional) ist hier möglich.
@@ -216,7 +216,7 @@ Beispiel: Planzeichenverordnung, Datum 03.08.2023, Version 6.0
 Abb.: Feld Symbolkatalog
 
 
-Schlüsselkatalog
+Feld: Schlüsselkatalog
 """"""""""""""""
 
 An dieser Stelle besteht die Möglichkeit, den Daten zugrunde liegende Klassifizierungsschlüssel zu benennen. Dabei ist die Eingabe mehrerer Kataloge mit zugehörigem Datum (Pflichteintrag) und Version (Optional) möglich. Das Feld Schüsselkatalog wird zum Pflichtfeld, wenn in der Tabelle Sachdaten/Attributinformationen ein Eintrag vorgenommen wurde.
@@ -228,7 +228,7 @@ Beispiel: Biotoptypenschlüssel, Datum 03.08.2023, Version 6.0
 Abb.: Feld Schlüsselkatalog
 
 
-Sachdaten/Attributinformation
+Feld: Sachdaten/Attributinformation
 """""""""""""""""""""""""""""
 
 Angabe der mit der Geoinformation/Karte verbundenen Sachdaten. Bei Bedarf kann hier eine Auflistung der Attribute des Datenbestandes erfolgen. Die hauptsächliche Nutzung dieses Feldes ist für digitale Geoinformationen vorgesehen.
@@ -255,7 +255,7 @@ Abschnitt Datenqualität
 Abschnitt Zusatzinformation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
   
-Feld Zeichensatz des Datensatzes
+Feld: Zeichensatz des Datensatzes
 """"""""""""""""""""""""""""""""
 
 .. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/zusatzinformation_zeichensatz.png
@@ -267,7 +267,7 @@ Angaben zu dem im beschriebenen Datensatz benutzten Zeichensatz z.B. UTF-8.
 `Auswahlliste Zeichensatz des Datensatzes <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/img/ige/ige_auswahllisten/auswahlliste_zusatzinformation_zeichensatz.html>`_
   
 
-Feld Konformität
+Feld: Konformität
 """"""""""""""""
 
 .. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/zusatzinformation_konformitaet.png
