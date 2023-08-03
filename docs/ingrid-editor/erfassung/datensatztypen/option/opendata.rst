@@ -97,6 +97,8 @@ Im Abschnitt Verweise kann eine Verlinkung auf Nutzungsbedingungen angelegt werd
 Abschnitt Verweise
 ''''''''''''''''''
 
+Wenn ein Metadatensatz als Open Data gekennzeichnet ist, muss im Metadatensatz ein Downloadlink auf die beschriebenen Daten enthalten sein. Dies erfolgt an dieser Stelle. Die Datenhaltendestelle ist dann dafür verantwortlich, dass die verlinkten Daten immer erreichbar sind.
+
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/open-data/open-data_verweis.png
   :width: 500
 
@@ -107,5 +109,4 @@ Abb.: Datendownload anlegen
 
 Abb.: angelegter Datendownload
 
-Wenn ein Metadatensatz als Open Data gekennzeichnet ist, muss im Metadatensatz ein Downloadlink auf die beschriebenen Daten enthalten sein. Dies erfolgt an dieser Stelle. Die Datenhaltendestelle ist dann dafür verantwortlich, dass die verlinkten Daten immer erreichbar sind.
 
