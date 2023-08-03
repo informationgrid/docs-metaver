@@ -82,11 +82,25 @@ Abschnitt Fachbezug
 Fachliche Grundlage
 '''''''''''''''''''
 
+(INSPIRE-Pflichtfeld für Datasets und Data series)
+
+In diesem Feld soll eine kurze Zusammenfassung zur Erstellung der zu beschreibenden Geodaten erfolgen. Hierzu können die Datengrundlage, die Methode der Datenerhebung und der Verarbeitungsprozess erwähnt werden. Der Eintrag soll in Textform erfolgen. 
+
+.. hint:: Für genauere Angaben sind die Felder Datenquelle und Herstellungsprozess zu verwenden.
+
+Beispiele:
+
+Kombination verschiedenster Vektordatenquellen zu einem harmonisierten digitalen kartographischen Modell.
+
+Die Grunddatenerfassung erfolgte durch Digitalisierung der Übersichtskarte 1:500 000 (ÜK500). Die fortlaufende Aktualisierung erfolgt durch Auswertungen der jüngsten Editionen des
+ATKIS Basis-DLM der Bundesländer, der Digitalen Topographischen Karte 1:200 000 (DTK200) und anderen Quellen.
+
 .. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_fachliche-grundlage.png
 
 Abb.: Eingabefeld Fachliche Grundlage
 
-Im Feld „fachliche Grundlage“ sollte auf Dokumente verwiesen werden, die Grundlage der fachlichen Inhalte der Karte oder Datensammlung sind. Außerdem können Regeln für die Erfassung (Geo-Information) bzw. Darstellung (Karte) angegeben werden. Dieses Dokument kann eine Erläuterung der gesetzlichen Grundlagen darstellen, jedoch auch selbständigen Charakters sein. Möglich ist eine Eintragung in Textform, indem die Karteikarte "Text" ausgewählt wird. Außerdem ist es möglich, durch Auswahl der Registerkarte "Verweise", ein Verweis zu einem anderen Objekt im aktuellen Katalog herzustellen.
+
+.. tip:: Das Eingabefeld lässt sich an der rechten unteren Ecke vergrößern.
 
 
 Identifikator der Datenquelle
