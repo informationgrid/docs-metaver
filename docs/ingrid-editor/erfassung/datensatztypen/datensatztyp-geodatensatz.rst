@@ -51,7 +51,7 @@ Abschnitt Verschlagwortung
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 ISO 19115 - Themenkategorie
-'''''''''''''''''''''''''''
+"""""""""""""""""""""""""""
 
 Die Norm ISO 19115 - Geographic Information – Metadata
 
@@ -79,8 +79,8 @@ Optionale Verschlagwortung
 Abschnitt Fachbezug
 ^^^^^^^^^^^^^^^^^^^
 
-Fachliche Grundlage
-"""""""""""""""""""
+Feld Fachliche Grundlage
+""""""""""""""""""""""""
 
 (INSPIRE-Pflichtfeld für Datasets und Data series)
 
@@ -104,8 +104,8 @@ Abb.: Eingabefeld Fachliche Grundlage
 .. tip:: Das Eingabefeld lässt sich an der rechten unteren Ecke vergrößern.
 
 
-Identifikator der Datenquelle
-"""""""""""""""""""""""""""""
+Feld Identifikator der Datenquelle
+""""""""""""""""""""""""""""""""""
 
 Hier muss ein eindeutiger Name (Identifikator) für die im Geodatensatz beschriebene Datenquelle (z.B. eine Karte) vergeben/eingetragen werden. Der Identifikator soll aus einem Namensraum (=codespace), sowie einem Code bestehen. (INSPIRE-Pflichtfeld).
 Wenn der Identifikator keinen Namensraum enthält, so wird dem Identifikator bei der Abgabe der Metadaten derjenige Wert vorangestellt, welcher im Bereich Katalogverwaltung/Katalogeinstellungen unter "Namensraum des Katalogs" eingetragen ist.
@@ -131,8 +131,8 @@ Beispiel:
 Abb.: Identifikator der Datenquelle
 
 
-Digitale Repräsentation
-"""""""""""""""""""""""
+Feld Digitale Repräsentation
+""""""""""""""""""""""""""""
 
 Es kann eine Angabe der Methode erfolgen, mit der räumliche Daten präsentiert werden. Die Auswahl erfolgt über eine vorgegebene Liste.
 
@@ -140,6 +140,8 @@ Auswahlliste: Raster, Gitter, Stereomodell, Text, Tabelle, TIN, Vektor, Video
 
 
 .. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_digitale-repaesentation.png
+   :width: 500
+
  
 Abb.: Auswahlfeld Digitale Repräsentation
 
