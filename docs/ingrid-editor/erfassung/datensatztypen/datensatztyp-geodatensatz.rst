@@ -62,7 +62,7 @@ Die Auswahl erfolgt über die vorgegebene Auswahlliste.
 Optionale Schlagworte
 ''''''''''''''''''''''
 
-.. hint:: Die Erfassung von Freien bzw. Optionalen Schlagworten ist unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html#abschnitt-verschlagwortung>`_ beschrieben.
+.. hint:: Die Erfassung von freien bzw. optionalen Schlagworten und die Schlagwortanalyse sind unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html#abschnitt-verschlagwortung>`_ beschrieben.
 
 Abschnitt Fachbezug
 ^^^^^^^^^^^^^^^^^^^
