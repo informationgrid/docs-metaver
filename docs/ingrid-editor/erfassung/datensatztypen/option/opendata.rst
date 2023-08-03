@@ -8,12 +8,7 @@ Open Data - Bedeutung
 Open Data - offene Verwaltungsdaten
 
 
-Grundlage
-^^^^^^^^^
-
-Als Open Data werden Daten bezeichnet, die von allen zu jedem Zweck genutzt, weiterverbreitet und weiterverwendet werden dürfen. Einschränkungen der Nutzung sind nur erlaubt, um Ursprung und Offenheit des Wissens zu sichern. Die Forderung danach beruht auf der Annahme, dass frei nutzbare Daten zu mehr Transparenz und Zusammenarbeit führen. Um die Nachnutzbarkeit zu gewährleisten, werden Freie Lizenzen verwendet. Die Bereitstellung offener Daten durch die öffentliche Hand wird als eine Voraussetzung für Open Government angesehen.
-
-(Quelle: `Wikipedia <https://de.wikipedia.org/wiki/Open_Data>`_)
+.. note:: Als Open Data werden Daten bezeichnet, die von allen zu jedem Zweck genutzt, weiterverbreitet und weiterverwendet werden dürfen. Einschränkungen der Nutzung sind nur erlaubt, um Ursprung und Offenheit des Wissens zu sichern. Die Forderung danach beruht auf der Annahme, dass frei nutzbare Daten zu mehr Transparenz und Zusammenarbeit führen. Um die Nachnutzbarkeit zu gewährleisten, werden Freie Lizenzen verwendet. Die Bereitstellung offener Daten durch die öffentliche Hand wird als eine Voraussetzung für Open Government angesehen. (Quelle: `Wikipedia <https://de.wikipedia.org/wiki/Open_Data>`_)
 
 
 .. hint:: Nachfolgend werden die Felder beschrieben, die nach der Aktivierung dieser Option zusätzlich in der Erfassungsmaske befüllt werden müssen.
