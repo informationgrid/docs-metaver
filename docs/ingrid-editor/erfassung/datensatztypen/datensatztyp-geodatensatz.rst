@@ -105,7 +105,7 @@ Abb.: Eingabefeld Fachliche Grundlage
 
 
 Identifikator der Datenquelle
-'''''''''''''''''''''''''''''
+"""""""""""""""""""""""""""""
 
 Hier muss ein eindeutiger Name (Identifikator) für die im Geodatensatz beschriebene Datenquelle (z.B. eine Karte) vergeben/eingetragen werden. Der Identifikator soll aus einem Namensraum (=codespace), sowie einem Code bestehen. (INSPIRE-Pflichtfeld).
 Wenn der Identifikator keinen Namensraum enthält, so wird dem Identifikator bei der Abgabe der Metadaten derjenige Wert vorangestellt, welcher im Bereich Katalogverwaltung/Katalogeinstellungen unter "Namensraum des Katalogs" eingetragen ist.
@@ -126,8 +126,33 @@ Beispiel:
 
 
 .. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_identifikator_01.png
+   :width: 500
  
-Abb.: Portalansicht ID aus MetaVer
+Abb.: Identifikator der Datenquelle
+
+
+Digitale Repräsentation
+"""""""""""""""""""""""
+
+Es kann eine Angabe der Methode erfolgen, mit der räumliche Daten präsentiert werden. Die Auswahl erfolgt über eine vorgegebene Liste.
+
+Auswahlliste: Raster, Gitter, Stereomodell, Text, Tabelle, TIN, Vektor, Video
+
+
+.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_digitale-repaesentation.png
+ 
+Abb.: Auswahlfeld Digitale Repräsentation
+
+
+
+
+
+
+
+
+
+
+
 
 
 Datensatz/Datenserie
@@ -160,16 +185,6 @@ Beispiel:
 Komplexe Darstellung der städtischen Verwaltungsstruktur aus unterschiedlichen dargestellten Grenzen: Es werden die Grenzen der Müllabfuhrbezirke, die Grenzen der Wahlbezirke, der Stadteile, der Schuleinzugsgebiete usw. inhaltlich gezeigt. Alle diese Grenzen für sich genommen könnten als Datensatz beschrieben werden. Die komplexe aufbereitete Darstellung, die diese unterschiedlichen Grenzen vereint, also der Geodatensatz "Komplexe Darstellung der städtischen Verwaltungsstruktur" an sich, wäre in diesem Falle jedoch eine Datenserie.
 
 
-Digitale Repräsentation
-''''''''''''''''''''''''
-
-.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_digitale-repaesentation.png
- 
-Abb.: Auswahlfeld Digitale Repräsentation
-
-Angabe der Methode, räumliche Daten zu präsentieren. Die Auswahl erfolgt über eine vorgegebene Liste.
-
-Auswahlliste: Raster, Gitter, Stereomodell, Text, Tabelle, TIN, Vektor, Video
 
 
 Vektorformat
