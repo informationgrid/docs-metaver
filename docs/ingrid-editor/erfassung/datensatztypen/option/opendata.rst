@@ -68,20 +68,27 @@ Abb.: Auswahlfeld - Open Data Kategorien
 Abschnitt Verfügbarkeit
 '''''''''''''''''''''''
 
-.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/open-data/open-data_nutzungsbedingungen.png
-
-
-Abb.: Nutzungsbedingungen
-
-
 Unter den Nutzungsbedingungen muss eine Linzenz gewählt werden, die die Nutzung der Daten zu bestimmten Bedingungen erlaubt. 
 
-Im Feld Quelle kann eine Angabe zu einer Datenquelle erfolgen. z.B.: *© Daten: Landesamt für ...* . Diese Angabe ist z.B. in Basiskarten relevant, da diese Information in einem Kartenviewer, in der Basiskarte vermerkt werden muss.
+.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/open-data/open-data_nutzungsbedingungen_lizenz.png
+  :width: 500
+
+Abb.: Nutzungsbedingungen - Lizenz
+
+
+Im Feld Quelle kann eine Angabe zu einer Datenquelle erfolgen. z.B.: *Quellenvermerk: © Daten: Landesamt für ...* oder *Quellenvermerk: © GeoBasis-DE / LVermGeo LSA*. Diese Angabe ist z.B. in Basiskarten relevant, da diese Information in einem Kartenviewer, in der Basiskarte vermerkt werden muss.
+
+
+.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/open-data/open-data_nutzungsbedingungen_quelle.png
+  :width: 400
+
+Abb.: Nutzungsbedingungen - Quellenangabe
+
 
 .. image:: ../../../../img/kartenclient/metaver-kartenviewer_angabe-copyright.png
   :width: 400
 
-Abb.: Angabe Copyright in einer Basiskarte
+Abb.: Beispiel: Angabe Copyright in einer Basiskarte
 
 Im Abschnitt Verweise kann eine Verlinkung auf Nutzungsbedingungen angelegt werden, die die Nutzung der Daten regelt. Die Datenhaltendestelle ist dann dafür verantwortlich, dass die verlinkte Seite immer erreichbar ist.
 
