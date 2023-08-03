@@ -22,7 +22,7 @@ Die Metadaten werden nach der ISO-Norm 19115 „Geographic Information – Metad
 Erfassung
 ---------
 
-Typ
+Optionen: Typ
 """
 Unter Typ werden weitere Eigenschaften des Metadatensatzes festgelegt.
 
