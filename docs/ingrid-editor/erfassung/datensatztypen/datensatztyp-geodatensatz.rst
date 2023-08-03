@@ -248,7 +248,7 @@ Abschnitt Datenqualität
 
 -----------------------------------------------------------------------------------------------------------------------
 
-.. note:: Die Abschnitte Raumbezugsystem, Zeitbezug, Zusatzinformation, Verfügbarkeit und Verweise sind ausführlich unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/img/ige/erfassung/metadaten-erfassen.html>`_  beschrieben, da sie auf mehrere Datensatztypen zutreffen.
+.. note:: **Die Abschnitte Raumbezugsystem, Zeitbezug, Zusatzinformation, Verfügbarkeit und Verweise sind ausführlich unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/img/ige/erfassung/metadaten-erfassen.html>`_  beschrieben, da sie auf mehrere Datensatztypen zutreffen.**
 
 -----------------------------------------------------------------------------------------------------------------------
 
