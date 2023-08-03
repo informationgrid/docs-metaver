@@ -244,7 +244,7 @@ Abb.: Feld Sachdaten/Attributinformation - Beispiel: Baumkartei
 Abschnitt Datenqualität
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-.. note:: Die optionalen Felder zur `Datenqualität sind hier <https://metaver-bedienungsanleitung.readthedocs.io/de/latest//img/ige/erfassung/ige_objektklassen/qualitaetssicherung/ige_auswahllisten/abschnitt_datenqualitaet.html>`_ beschrieben.
+.. note:: Die optionalen Felder zur `Datenqualität sind hier <https://metaver-bedienungsanleitung.readthedocs.io/de/latest//img/ige/erfassung/datensatztypen/qualitaetssicherung/abschnitt_datenqualitaet.html>`_ beschrieben.
 
 -----------------------------------------------------------------------------------------------------------------------
 
