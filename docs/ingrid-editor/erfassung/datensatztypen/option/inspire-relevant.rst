@@ -112,6 +112,16 @@ Abb.: Darstellung in der ISO-XML
 Abschnitt Verschlagwortung
 ''''''''''''''''''''''''''
 
+Werden INSPIRE-konforme Daten beschrieben, ist die Angabe einer ISO-Themenkategorie notwendig. Um eine korrekte inhaltliche Zuordnung von INSPIRE-Themen zu ISO-Themenkategorien zu gewährleisten und es dem Erfasser möglichst einfach zu machen, übernimmt die InGrid Software die Zuordnung. Bei Auswahl eines INSPIRE Themas wird die entsprechende ISO-Kategorie automatisch hinzugefügt. Der Nutzer wird per Tooltip über den Automatismus informiert.
+
+Beispiel: 
+Wird das INSPIRE-Thema "Energie" ausgewählt, so wird automatisch die passende ISO-Themenkategorie "Wirtschaft" hinzugefügt.
+
+Wird versucht eine ISO-Kategorie zu löschen, die an ein INSPIRE-Thema geknüpft ist, so wird dies verhindert und der Nutzer über einen Tooltip darüber informiert. Die ISO-Kategorie kann nur entfernt werden, wenn das INSPIRE-Thema entfernt wird.
+
+Umgekehrt gilt der Automatismus nicht: Beim Hinzufügen einer ISO Kategorie wird kein INSPIRE Thema gesetzt.
+
+
 Aktivierung der Tabelle "INSPIRE-Themen" mit Pflichtangaben.
 
 `Auswahlliste - INSPIRE-Themen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_inspire_themen.html>`_
@@ -119,6 +129,11 @@ Aktivierung der Tabelle "INSPIRE-Themen" mit Pflichtangaben.
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/verschlagwortung_inspire-themen.png
 
 Abb.: Tabelle "INSPIRE-Themen", Beispiel
+
+.. image:: ../../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/verschlagwortung_iso-themenkategorie.png
+
+Abb.: Tabelle "INSPIRE-Themen", Beispiel
+
 
 
 Aktivierung der Tabelle "INSPIRE - priority data set" mit optionalen Angaben.
