@@ -227,7 +227,7 @@ Beispiel: Biotoptypenschlüssel, Datum 03.08.2023, Version 6.0
  
 Abb.: Feld Schlüsselkatalog
 
-.. hint:: Mit einem Eintrag unter Sachdaten/Attributinformation wird die Tabelle Schlüsselkatalog zum Pflichtfeld. Bitte geben Sie dort den Schlüsselkatalog an, welcher das eingetragene Attribut verzeichnet.
+.. hint:: Mit einem Eintrag unter Sachdaten/Attributinformation werden die Eingabefelder zum Schlüsselkatalog zu Pflichtfeldern. Bitte geben Sie dort den Schlüsselkatalog an, welcher das eingetragene Attribut verzeichnet.
 
 
 Sachdaten/Attributinformation
@@ -239,27 +239,26 @@ Angabe der mit der Geoinformation/Karte verbundenen Sachdaten. Bei Bedarf kann h
  
 Abb.: Feld Sachdaten/Attributinformation - Beispiel: Baumkartei
 
-.. hint:: Mit einem Eintrag unter Sachdaten/Attributinformation wird die Tabelle Schlüsselkatalog zum Pflichtfeld. Bitte geben Sie dort den Schlüsselkatalog an, welcher das eingetragene Attribut verzeichnet.
+.. hint:: Mit einem Eintrag unter Sachdaten/Attributinformation werden die Eingabefelder zum Schlüsselkatalog zu Pflichtfeldern. Bitte geben Sie dort den Schlüsselkatalog an, welcher das eingetragene Attribut verzeichnet.
 
 -----------------------------------------------------------------------------------------------------------------------
 
 Abschnitt Datenqualität
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-
-Der `Abschnitt Datenqualität <https://metaver-bedienungsanleitung.readthedocs.io/de/latest//img/ige/erfassung/ige_objektklassen/qualitaetssicherung/ige_auswahllisten/abschnitt_datenqualitaet.html>`_ wird nur angezeigt, dieser in der Katalogverwaltung aktiviert wurde.
+..note:: Die optionalen Felder zur `Datenqualität sind hier <https://metaver-bedienungsanleitung.readthedocs.io/de/latest//img/ige/erfassung/ige_objektklassen/qualitaetssicherung/ige_auswahllisten/abschnitt_datenqualitaet.html>`_ beschrieben.
 
 -----------------------------------------------------------------------------------------------------------------------
 
-**Hinweis:** Die Abschnitte Raumbezugsystem, Zeitbezug, Zusatzinformation, Verfügbarkeit und Verweise sind ausführlich unter `Erfassung von Objekten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/img/ige/erfassung/erfassung-objekte.html>`_  beschrieben, da sie auf mehrere Metadatentypen zutreffen.
+..note:: Die Abschnitte Raumbezugsystem, Zeitbezug, Zusatzinformation, Verfügbarkeit und Verweise sind ausführlich unter `Erfassung von Objekten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/img/ige/erfassung/erfassung-objekte.html>`_  beschrieben, da sie auf mehrere Datensatztypen zutreffen.
 
 -----------------------------------------------------------------------------------------------------------------------
 
 Abschnitt Zusatzinformation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
   
-Zeichensatz des Datensatzes
-'''''''''''''''''''''''''''
+Feld Zeichensatz des Datensatzes
+""""""""""""""""""""""""""""""""
 
 .. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/zusatzinformation_zeichensatz.png
  
@@ -270,8 +269,8 @@ Angaben zu dem im beschriebenen Datensatz benutzten Zeichensatz z.B. UTF-8.
 `Auswahlliste Zeichensatz des Datensatzes <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/img/ige/ige_auswahllisten/auswahlliste_zusatzinformation_zeichensatz.html>`_
   
 
-Konformität
-'''''''''''
+Feld Konformität
+""""""""""""""""
 
 .. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/zusatzinformation_konformitaet.png
  
