@@ -22,12 +22,11 @@ Die Metadaten werden nach der ISO-Norm 19115 „Geographic Information – Metad
 Erfassung
 ---------
 
-Optionen: Typ
-"""""""""""""
-Unter Typ werden weitere Eigenschaften des Metadatensatzes festgelegt.
+Optionen (Typ)
+""""""""""""""
 
-Es können folgende Optionen gewählt werden:
-    
+Unter Typ können weitere Eigenschaften (Eingabefelder) für den Metadatensatz festgelegt werden.
+
 Beschreibungen zu den Optionen: `INSPIRE-relevant, <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/inspire-relevant.html>`_
 `AdV kompatibel,  <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/adv-kompatibel.html>`_
 `Open Data, <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/opendata.html>`_
@@ -35,7 +34,7 @@ Beschreibungen zu den Optionen: `INSPIRE-relevant, <https://metaver-bedienungsan
 
 .. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/typ_optionen.png
 
-Abb.: Optionen
+Abb.: Optionen für weitere Eigenschaften
 
 
 Feld: Datensatz/Datenserie
