@@ -29,14 +29,12 @@ Abb.: Checkbox Open Data
 
 Abb.: Hinweis
 
+Diese Checkbox kennzeichnet den Metadatensatz als "Open Data" es wird in der ISO-XML das Schlagwort "opendata" generiert. Wenn das Bundesland der GovData-Kooperation beigetreten ist, und die DCAT-AP.de Schnittstelle des Bundeslandes im Portal GovData aktiviert ist, werden diese Metadaten an das Portal `GovData <https://www.govdata.de/>`_ abgegeben. In einem weiteren Schritt werden diese Daten vom Portal `data.europa.eu <https://data.europa.eu/de/trening/what-open-data>`_ der Europäischen Kommission geharvestet (abgeerntet/abgeholt). 
 
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/open-data/open-data_iso-keyword.png
   :width: 400
 
 Abb.: Darstellung in der ISO-XML
-
-
-Diese Checkbox kennzeichnet den Metadatensatz als "Open Data" es wird in der ISO-XML das Schlagwort "opendata" generiert. Wenn das Bundesland der GovData-Kooperation beigetreten ist, und die DCAT-AP.de Schnittstelle des Bundeslandes im Portal GovData aktiviert ist, werden diese Metadaten an das Portal `GovData <https://www.govdata.de/>`_ abgegeben. In einem weiteren Schritt werden diese Daten vom Portal `data.europa.eu <https://data.europa.eu/de/trening/what-open-data>`_ der Europäischen Kommission geharvestet (abgeerntet/abgeholt). 
 
 Folgende Eigenschaften ändern sich bei der Aktivierung der Checkbox Open Data:
 
