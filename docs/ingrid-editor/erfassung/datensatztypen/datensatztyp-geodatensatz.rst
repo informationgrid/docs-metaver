@@ -17,6 +17,7 @@ Die Metadaten werden nach der ISO-Norm 19115 „Geographic Information – Metad
 
 .. hint:: Die Erfassung dieses Datensatztyps erfolgt wie unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_  beschrieben. Der hier beschriebene Abschnitt Fachbezug beinhaltet für diesen Datensatztyp spezielle Eingabefelder.
 
+-----------------------------------------------------------------------------------------------------------------------
 
 Erfassung
 ---------
@@ -36,6 +37,7 @@ Typ: `INSPIRE-relevant, <https://metaver-bedienungsanleitung.readthedocs.io/de/i
 
 Abb.: Optionen
 
+-----------------------------------------------------------------------------------------------------------------------
 
 Abschnitt Allgemeines
 ^^^^^^^^^^^^^^^^^^^^^
@@ -43,6 +45,7 @@ Abschnitt Allgemeines
 .. hint:: Dieser Abschnitt ist unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_ beschrieben.
 
 
+-----------------------------------------------------------------------------------------------------------------------
 
 Abschnitt Verschlagwortung
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -63,6 +66,9 @@ Optionale Schlagworte
 ''''''''''''''''''''''
 
 .. hint:: Die Erfassung von freien bzw. optionalen Schlagworten und die Schlagwortanalyse sind unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html#abschnitt-verschlagwortung>`_ beschrieben.
+
+
+-----------------------------------------------------------------------------------------------------------------------
 
 Abschnitt Fachbezug
 ^^^^^^^^^^^^^^^^^^^
@@ -294,6 +300,7 @@ Abb.: Feld Herstellungsprozess - Beispiel: Feldkartierung
 
 Angabe der Methode, die zur Erstellung des Datenobjektes geführt hat. Der Eintrag kann in Textform erfolgen, indem die Registerkarte "Text" ausgewählt wird. Außerdem kann durch Auswahl der Registerkarte "Verweise" ein Verweis erstellt werden.
 
+-----------------------------------------------------------------------------------------------------------------------
 
 Abschnitt Datenqualität
 ^^^^^^^^^^^^^^^^^^^^^^^
@@ -305,7 +312,7 @@ Der `Abschnitt Datenqualität <https://metaver-bedienungsanleitung.readthedocs.i
 
 **Hinweis:** Die Abschnitte Raumbezugsystem, Zeitbezug, Zusatzinformation, Verfügbarkeit und Verweise sind ausführlich unter `Erfassung von Objekten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/img/ige/erfassung/erfassung-objekte.html>`_  beschrieben, da sie auf mehrere Metadatentypen zutreffen.
 
-
+-----------------------------------------------------------------------------------------------------------------------
 
 Abschnitt Zusatzinformation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^

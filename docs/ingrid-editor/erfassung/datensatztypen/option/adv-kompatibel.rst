@@ -16,6 +16,8 @@ Mit der Aktivierung dieser Option, wird die Kompatibilität der Metadaten mit de
 .. hint:: Nachfolgend werden die Felder beschrieben, die nach der Aktivierung dieser Option zusätzlich in der Erfassungsmaske angezeigt werden.
 
 
+-----------------------------------------------------------------------------------------------------------------------
+
 Erfassung
 ^^^^^^^^^
 

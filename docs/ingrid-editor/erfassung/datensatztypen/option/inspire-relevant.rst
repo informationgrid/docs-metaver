@@ -17,6 +17,8 @@ INSPIRE ist eine Initiative der europäischen Kommission mit dem Ziel, eine euro
 
 .. hint:: Nachfolgend werden die Felder beschrieben, die nach der Aktivierung dieser Option zusätzlich in der Erfassungsmaske angezeigt werden.
 
+-----------------------------------------------------------------------------------------------------------------------
+
 Erfassung
 ^^^^^^^^^
 
