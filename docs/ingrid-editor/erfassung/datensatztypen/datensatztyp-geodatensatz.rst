@@ -50,20 +50,27 @@ Abschnitt Allgemeines
 Abschnitt Verschlagwortung
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-ISO-Themenkategorie
-'''''''''''''''''''
+ISO 19115 - Themenkategorie
+'''''''''''''''''''''''''''
+
+Die Norm ISO 19115 - Geographic Information – Metadata
+
+.. note:: Die ISO 19115 definiert einen international gültigen Standard zur Beschreibung geographischer Informationen und zugehöriger Dienstleistungen. Mit dieser Norm soll es ermöglicht werden, Geodaten anhand von Metadaten so zu beschreiben, dass damit ihre Eignung für bestimmte Anwendungszwecke beurteilt, oder auch sinnvolle Präsentations- und Verarbeitungsmethoden abgeleitet werden können. Das Schema der ISO 19115 beinhaltet u. a. Informationen über den Inhalt, räumlich-zeitliche Bezüge, Datenqualität, Datenzugangsmöglichkeit oder Nutzungsrechte. 
+
+(Quelle: `Wikipedia <https://de.wikipedia.org/wiki/ISO_19115>`_)
+
+Dieses Feld verlangt die Angabe von Themen, welche die Daten beschreiben.
+Die Auswahl erfolgt über die vorgegebene Auswahlliste.
+
+`Auswahlliste - ISO 19115 Themenkategorien <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/auswahllisten/auswahlliste_verschlagwortung_iso-themenkategorie.html>`_
 
 .. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/verschlagwortung_iso-themenkategorie.png
 
 Abb.: Auswahlfeld ISO Themenkategorie
 
-`Auswahlliste - ISO 19115 Themenkategorien <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/auswahllisten/auswahlliste_verschlagwortung_iso-themenkategorie.html>`_
 
-Dieses Feld verlangt die Angabe der Hauptthemen, welche die Metadaten beschreiben.
-Die Auswahl erfolgt über die vorgegebene Auswahlliste.
-
-Optionale Schlagworte
-''''''''''''''''''''''
+Optionale Verschlagwortung
+''''''''''''''''''''''''''
 
 .. hint:: Die Erfassung von freien bzw. optionalen Schlagworten und die Schlagwortanalyse sind unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html#abschnitt-verschlagwortung>`_ beschrieben.
 
