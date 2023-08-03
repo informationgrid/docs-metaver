@@ -119,15 +119,23 @@ Hier muss ein eindeutiger Name (Identifikator) für die im Geodatensatz beschrie
 Wenn der Identifikator keinen Namensraum enthält, so wird dem Identifikator bei der Abgabe der Metadaten derjenige Wert vorangestellt, welcher im Bereich Katalogverwaltung/Katalogeinstellungen unter "Namensraum des Katalogs" eingetragen ist.
 Der Identifikator kann von Hand eingetragen werden oder mit Hilfe des Buttons "Erzeuge ID". Bei der automatischen Erzeugung wird eine UUID als Identifikator in dieses Feld eingetragen. Da diese UUID keinen Namespace enthält, wird bei dieser Variante immer der Namensraum aus der Katalogverwaltung hinzugefügt.
 
-Beispiele:
- 
-.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_identifikator_03.png
+
+Hier muss ein Identifikator (ein eindeutiger Name) für die hier beschriebene Ressource (den Datensatz) vergeben werden. Dieser muss unverändert bleiben. Er soll eine auflösbare URL sein, die den Direktzugriff auf das XML des Daten-Metadatensatzes ermöglicht. Der Identifikator setzt sich aus einem Namensraum, einem Schrägstrich und einer lokalen ID zusammen (namespace/localId). (Pflichtfeld).
+
+Soll der Identifikator den im Editor voreingestellten Namensraum beinhalten, ist die Eingabe einer lokalen ID ausreichend. Für die Erzeugung kann der Button "Erzeuge ID" verwendet werden. Der endgültige Identifikator wird anschließend unter dem Feld angezeigt. Ist durch den Katalogadministrator kein Namensraum definiert, wird ein Defaultwert (https://registry.gdi-de.org/id/) verwendet.
+
+Alternativ kann hier eine aufrufbare URL als individueller Identifikator manuell eingegeben werden. Diese wird unverändert übernommen.
+
+Beispiel:
+
+| Namensraum: https://registry.gdi-de.org/id/de.bund.bkg.csw
+| lokale ID: 1371b05a-055b-4749-8390-95cda942f40c
+| Identifikator: https://registry.gdi-de.org/id/de.bund.bkg.csw/1371b05a-055b-4749-8390-95cda942f40c
+
+
+.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_identifikator_01.png
  
 Abb.: Portalansicht ID aus MetaVer
-
-.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_identifikator_04.png
- 
-Abb.: Portalansicht ID aus der GDI-DE Registry
 
 
 Datensatz/Datenserie
