@@ -16,7 +16,7 @@ Als Open Data werden Daten bezeichnet, die von allen zu jedem Zweck genutzt, wei
 (Quelle: `Wikipedia <https://de.wikipedia.org/wiki/Open_Data>`_)
 
 
-.. hint:: Nachfolgend werden die Felder beschrieben, die nach der Aktivierung dieser Option zusätzlich in der Erfassungsmaske angezeigt werden.
+.. hint:: Nachfolgend werden die Felder beschrieben, die nach der Aktivierung dieser Option zusätzlich in der Erfassungsmaske befüllt werden müssen.
 
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/open-data/checkbox-open-data.png
   :width: 150

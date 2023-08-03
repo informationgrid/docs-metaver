@@ -173,3 +173,5 @@ Abb.: Tabelle "Konformität" - Grad der Konformität - Auswahlmöglichkeit
 Feld Datum: Angabe des Datums, wann der Datensatz geprüft wurde.
 
 Feld "geprüft mit": Angabe des Validators
+
+z.B.: https://testsuite.gdi-de.org/#/ oder https://testsuite.gdi-de.org/#/quicktest
