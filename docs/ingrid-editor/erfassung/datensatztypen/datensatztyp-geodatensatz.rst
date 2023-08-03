@@ -59,16 +59,6 @@ Abb.: Auswahlfeld ISO Themenkategorie
 Dieses Feld verlangt die Angabe der Hauptthemen, welche die Metadaten beschreiben.
 Die Auswahl erfolgt über die vorgegebene Auswahlliste.
 
-Werden INSPIRE-konforme Daten beschrieben, ist die Angabe einer ISO-Themenkategorie notwendig. Um eine korrekte inhaltliche Zuordnung von INSPIRE-Themen zu ISO-Themenkategorien zu gewährleisten und es dem Erfasser möglichst einfach zu machen, übernimmt die InGrid Software die Zuordnung. Bei Auswahl eines INSPIRE Themas wird die entsprechende ISO-Kategorie automatisch hinzugefügt. Der Nutzer wird per Tooltip über den Automatismus informiert.
-
-Beispiel: 
-Wird das INSPIRE-Thema "Energie" ausgewählt, so wird automatisch die passende ISO-Themenkategorie "Wirtschaft" hinzugefügt.
-
-Wird versucht eine ISO-Kategorie zu löschen, die an ein INSPIRE-Thema geknüpft ist, so wird dies verhindert und der Nutzer über einen Tooltip darüber informiert. Die ISO-Kategorie kann nur entfernt werden, wenn das INSPIRE-Thema entfernt wird.
-
-Umgekehrt gilt der Automatismus nicht: Beim Hinzufügen einer ISO Kategorie wird kein INSPIRE Thema gesetzt.
-
-
 Optionale Schlagworte
 ''''''''''''''''''''''
 
