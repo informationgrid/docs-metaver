@@ -23,12 +23,6 @@ Als Open Data werden Daten bezeichnet, die von allen zu jedem Zweck genutzt, wei
 
 Abb.: Checkbox Open Data
 
-
-.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/open-data/open-data_hinweis.png
-  :width: 500
-
-Abb.: Hinweis
-
 Diese Checkbox kennzeichnet den Metadatensatz als "Open Data" es wird in der ISO-XML das Schlagwort "opendata" generiert. Wenn das Bundesland der GovData-Kooperation beigetreten ist, und die DCAT-AP.de Schnittstelle des Bundeslandes im Portal GovData aktiviert ist, werden diese Metadaten an das Portal `GovData <https://www.govdata.de/>`_ abgegeben. In einem weiteren Schritt werden diese Daten vom Portal `data.europa.eu <https://data.europa.eu/de/trening/what-open-data>`_ der Europäischen Kommission geharvestet (abgeerntet/abgeholt). 
 
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/open-data/open-data_iso-keyword.png
@@ -41,6 +35,11 @@ Folgende Eigenschaften ändern sich bei der Aktivierung der Checkbox Open Data:
  - Im Abschnitt "Verschlagwortung", in der Tabelle "Kategorien" muss mindestens ein Wert ausgewählt und eingetragen werden.
  - Im Abschnitt „Verfügbarkeit“, in der Tabelle "Nutzungsbedingung" muss eine Lizenz angegeben werden.
  - Im Abschnitt „Verweise“ muss ein Verweis vom Typ "Datendownload" eingetragen werden.
+
+ .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/open-data/open-data_hinweis.png
+  :width: 500
+
+Abb.: Hinweis
 
 
 -----------------------------------------------------------------------------------------------------------------------
