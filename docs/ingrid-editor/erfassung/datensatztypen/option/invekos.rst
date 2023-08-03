@@ -57,6 +57,26 @@ Abb.: Checkbox InVeKoS
 Auswahlliste
 '''''''''''''
 
+**InVeKoS**
+
+**Definition:**
+Integriertes Verwaltungs- und Kontrollsystem gemäß Artikel 67 der Verordnung (EG) Nr. 1306/2013
+
+**Beschreibung:**
+Von den Mitgliedstaaten angewendetes System für bestimmte Zahlungen gemäß der Verordnung (EU) Nr. 1307/2013 und der Verordnung (EU) Nr. 1305/2013
+
+
+
+
+**LPIS**
+
+**Definition:**
+System zur Identifizierung landwirtschaftlicher Parzellen, ein Teilsystem des Integrierten Verwaltungs- und Kontrollsystems (InVeKoS) wie in Artikel 68 der Verordnung (EG) Nr. 1306/2013 definiert. Subsystem des InVeKoS im Sinne von Artikel 68 der Verordnung (EG) Nr. 1306/2013.
+
+**Beschreibung:**
+Geodatensatz mit der Abgrenzung von Referenzparzellen, Arten landwirtschaftlicher Flächen und stabilen im Umweltinteresse genutzten Flächen.
+
+
 **GSAA**
 
 **Definition:**
@@ -64,6 +84,9 @@ Geodatenbezogener Beihilfeantrag als Teil des Teilsystems „Beihilfeanträge“
 
 **Beschreibung:**
 Abgrenzung landwirtschaftlicher Parzellen mit Kulturpflanzen oder Kulturgruppen gemäß den Angaben des Betriebsinhabers in einem bestimmten Jahr
+
+
+
 
 
 **Im Umweltinteresse genutzte Fläche**
@@ -75,14 +98,6 @@ In die Systeme und Teilsysteme gemäß Artikel 68 der Verordnung (EU) Nr. 1306/2
 Das Integrierte Verwaltungs- und Kontrollsystem (InVeKoS) besteht aus elektronischen Datenbanken der Teilsysteme. Das System zur Identifizierung landwirtschaftlicher Parzellen (besser bekannt als LPIS – System zur Identifizierung landwirtschaftlicher Parzellen) und die Teilsysteme Beihilfeanträge und Zahlungsanträge des InVeKoS enthalten die Geodatenkomponenten.
 
 
-**InVeKoS**
-
-**Definition:**
-Integriertes Verwaltungs- und Kontrollsystem gemäß Artikel 67 der Verordnung (EG) Nr. 1306/2013
-
-**Beschreibung:**
-Von den Mitgliedstaaten angewendetes System für bestimmte Zahlungen gemäß der Verordnung (EU) Nr. 1307/2013 und der Verordnung (EU) Nr. 1305/2013
-
 
 **Landwirtschaftliche Fläche**
 
@@ -92,14 +107,6 @@ Flächen, die als Ackerland, Dauergrünland, Dauerweideland oder Dauerkulturen g
 **Beschreibung:**
 Flächen, die von diesen Bodenbedeckungstypen oder deren Subtypen (enger gefasste Kategorien) mit ausgewiesenen Landschaftselementen und/oder Bäumen, die zu diesen Flächen gehören, genutzt werden.
 
-
-**LPIS**
-
-**Definition:**
-System zur Identifizierung landwirtschaftlicher Parzellen, ein Teilsystem des Integrierten Verwaltungs- und Kontrollsystems (InVeKoS) wie in Artikel 68 der Verordnung (EG) Nr. 1306/2013 definiert. Subsystem des InVeKoS im Sinne von Artikel 68 der Verordnung (EG) Nr. 1306/2013.
-
-**Beschreibung:**
-Geodatensatz mit der Abgrenzung von Referenzparzellen, Arten landwirtschaftlicher Flächen und stabilen im Umweltinteresse genutzten Flächen.
 
 
 **Referenzparzelle**
