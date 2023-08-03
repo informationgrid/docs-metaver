@@ -128,7 +128,7 @@ Aktivierung der Tabelle "INSPIRE-Themen" mit Pflichtangaben.
 
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/verschlagwortung_inspire-themen.png
 
-Abb.: Beispiel: INSPIRE-Thema "Energiequellen"
+Abb.: INSPIRE-Thema "Energiequellen"
 
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/verschlagwortung_iso-themenkategorie.png
 
