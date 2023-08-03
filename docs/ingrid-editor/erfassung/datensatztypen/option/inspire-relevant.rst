@@ -142,7 +142,7 @@ Abb.: es erfolgt die automatische Zuordnung der ISO-Themenkategorie "Wirtschaft"
 
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/verschlagwortung_inspire-priority-data-set.png
  
-Abb.: Feld INSPIRE - priority data set, Beispiel: "ausgewiesene Gewässer"
+Abb.: Feld INSPIRE - priority data set, Beispiel: "ausgewiesene Gewässer ..."
 
 
 **Aktivierung der Auswahlliste "INSPIRE - Räumlicher Anwendungsbereich" mit Pflichtangaben.**
