@@ -80,7 +80,7 @@ Abschnitt Fachbezug
 ^^^^^^^^^^^^^^^^^^^
 
 Fachliche Grundlage
-'''''''''''''''''''
+"""""""""""""""""""
 
 (INSPIRE-Pflichtfeld für Datasets und Data series)
 
