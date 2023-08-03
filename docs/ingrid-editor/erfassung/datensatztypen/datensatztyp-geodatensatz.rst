@@ -23,7 +23,7 @@ Erfassung
 ---------
 
 Optionen: Typ
-"""
+"""""""""""""
 Unter Typ werden weitere Eigenschaften des Metadatensatzes festgelegt.
 
 Es können folgende Optionen gewählt werden:
@@ -38,8 +38,8 @@ Typ: `INSPIRE-relevant, <https://metaver-bedienungsanleitung.readthedocs.io/de/i
 Abb.: Optionen
 
 
-Auswahlfeld: Datensatz/Datenserie
-"""""""""""""""""""""""""""""""""
+Feld: Datensatz/Datenserie
+""""""""""""""""""""""""""
 
 Es wird unterschieden, ob es sich bei den beschriebenen Daten um einen einzelnen Datensatz mit bestimmtem räumlichen Bezug oder um eine Datenserie mit einheitlichem thematischen Bezug und mehreren Datensätzen mit unterschiedlichem räumlichen Bezug handelt.
 
