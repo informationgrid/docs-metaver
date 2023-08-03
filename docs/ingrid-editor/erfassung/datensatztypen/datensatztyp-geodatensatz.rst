@@ -166,7 +166,7 @@ Abb.: Feld Erstellungsmaßstab
 Feld Darstellender Dienst
 """""""""""""""""""""""""
 
-Geodatensätze können mit Geodatendiensten gekoppelt werden. Das heißt, dass im Portal von einem Geodatensatz auf einen Geodendienst verwiesen wird und umgekehrt.
+Geodatensätze können mit Geodatendiensten gekoppelt werden. Das heißt, dass in einem Portal von einem Geodatensatz auf einen Geodendienst verwiesen wird und umgekehrt.
 Die Datenkopplung erfolgt in einem Geodatendienst. Der gekoppelte Dienst wird in der Erfassungsmaske des Geodatensatzes angezeigt.
 
 .. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_darstellender-dienst.png
