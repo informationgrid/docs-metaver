@@ -60,7 +60,7 @@ Abschnitt Allgemeines
 Abschnitt Verschlagwortung
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-FelD: ISO 19115 - Themenkategorie
+Feld: ISO 19115 - Themenkategorie
 """"""""""""""""""""""""""""""""""
 
 Die Norm ISO 19115 - Geographic Information – Metadata
