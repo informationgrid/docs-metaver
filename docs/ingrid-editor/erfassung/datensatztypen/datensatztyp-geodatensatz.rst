@@ -133,6 +133,7 @@ Abb.: Identifikator der Datenquelle
 
 Feld Digitale Repräsentation
 """"""""""""""""""""""""""""
+(optionales INSPIRE-Feld)
 
 Es kann eine Angabe der Methode erfolgen, mit der räumliche Daten präsentiert werden. Die Auswahl erfolgt über eine vorgegebene Liste.
 
@@ -146,11 +147,20 @@ Auswahlliste: Raster, Gitter, Stereomodell, Text, Tabelle, TIN, Vektor, Video
 Abb.: Auswahlfeld Digitale Repräsentation
 
 
+Feld Erstellungsmaßstab
+"""""""""""""""""""""""
+(optionales INSPIRE-Feld)
 
+Angabe des Erstellungsmaßstabes, der sich auf die erstellte Karte und/oder Digitalisiergrundlage bei Geodaten bezieht. 
+ - Maßstab 1:x: Maßstab der Karte, z.B. 1:12 
+ - Bodenauflösung (m): Einheit geteilt durch Auflösung multipliziert mit dem Maßstab (Angabe in Meter, Fließkommazahl) 
+ - Scanauflösung (DPI): Auflösung z.B. einer eingescannten Karte, z.B. 120dpi (Angabe in dpi, Integerzahl)
 
+Beispiel: Bodenauflösung: Auflösungseinheit in Linien/cm; Einheit: z.B. 1 cm geteilt durch 400 Linien multipliziert mit dem Maßstab 1:25.000 ergibt 62,5 cm als Bodenauflösung
 
-
-
+.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_erstellungsmassstab.png
+ 
+Abb.: Feld Erstellungsmaßstab
 
 
 
@@ -203,19 +213,7 @@ Es können hier Topologie Informationen, Geometrietyp (Angabe der geometrischen 
 Auswahlliste Topologieinformation: 3D-Oberfläche, Flächen, Flächen flächendeckend, Geometrie ohne Topologie, geschlossene Linien eben, geschlossene Linien flächendeckend, Körper, Linien, topologisches Gebilde ohne geometrischen Raum
 
 
-Erstellungsmaßstab
-''''''''''''''''''
 
-.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_erstellungsmassstab.png
- 
-Abb.: Feld Erstellungsmaßstab
-
-Angabe des Erstellungsmaßstabes, der sich auf die erstellte Karte und/oder Digitalisiergrundlage bei Geodaten bezieht. 
- - Maßstab 1:x: Maßstab der Karte, z.B. 1:12 
- - Bodenauflösung (m): Einheit geteilt durch Auflösung multipliziert mit dem Maßstab (Angabe in Meter, Fließkommazahl) 
- - Scanauflösung (DPI): Auflösung z.B. einer eingescannten Karte, z.B. 120dpi (Angabe in dpi, Integerzahl)
-
-Beispiel: Bodenauflösung: Auflösungseinheit in Linien/cm; Einheit: z.B. 1 cm geteilt durch 400 Linien multipliziert mit dem Maßstab 1:25.000 ergibt 62,5 cm als Bodenauflösung
 
  
 Symbolkatalog
