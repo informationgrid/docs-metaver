@@ -14,6 +14,20 @@ InVeKoS - Integriertes Verwaltungs- und Kontrollsystem in Agrarsektor
 
 -----------------------------------------------------------------------------------------------------------------------
 
+Erfassung
+^^^^^^^^^
+
+Checkbox InVeKoS
+''''''''''''''''
+
+.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/invekos/checkbox-invekos.png
+  :width: 150
+
+Abb.: Checkbox InVeKoS
+
+-----------------------------------------------------------------------------------------------------------------------
+
+
 Die EU-Kommission erwartet eine INSPIRE-Kompatibilität der GIS-InVeKoS-Daten. Zunächst bedeutet dies die Bereitstellung von Metadaten zu den relevanten Daten.
 
 Die Anforderungen an InVeKoS-Metadaten wurden seitens der GDI-DE im April 2023 kommuniziert. Demnach sind Keywords einer entsprechenden codelist (INSPIRE-registry unter https://inspire.ec.europa.eu/metadata-codelist/IACSData) zu verwenden.
@@ -31,19 +45,6 @@ Geospatial Aid Application (Antrag auf raumbezogene Hilfe)
 Land Parcel Identification System (Identifizierung landwirtschaftlicher Parzellen)
 
 In der Testsuite der GDI-DE ist die Testklasse bereits eingerichtet (`GDI-DE Testsuite <https://testsuite.gdi-de.org/#/quicktest>`_, Auswahl „ST34_INSPIRE…“) und somit eine Kompatibilitätsprüfung möglich.
-
------------------------------------------------------------------------------------------------------------------------
-
-Erfassung
-^^^^^^^^^
-
-Checkbox InVeKoS
-''''''''''''''''
-
-.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/invekos/checkbox-invekos.png
-  :width: 150
-
-Abb.: Checkbox InVeKoS
 
 -----------------------------------------------------------------------------------------------------------------------
 
