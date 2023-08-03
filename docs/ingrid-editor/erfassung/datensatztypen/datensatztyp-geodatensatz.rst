@@ -163,6 +163,43 @@ Beispiel: Bodenauflösung: Auflösungseinheit in Linien/cm; Einheit: z.B. 1 cm g
 Abb.: Feld Erstellungsmaßstab
 
 
+Feld Darstellender Dienst
+"""""""""""""""""""""""""
+
+Geodatensätze können mit Geodatendiensten gekoppelt werden. Das heißt, dass im Portal von einem Geodatensatz auf einen Geodendienst verwiesen wird und umgekehrt (gekoppelte Daten).
+Die Datenkopplung erfolgt in einem Geodatendienst. Der gekoppelte Dienst wird in der Erfassungsmaske des Geodatensatzes angezeigt.
+
+.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_darstellender-dienst.png
+ 
+Abb.: Feld Darstellender Dienst
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -265,56 +302,6 @@ Angabe der mit der Geo-Information/Karte verbundenen Sachdaten. Bei Bedarf kann 
 **Beispiel:** *Baumkataster*
 
 
-Darstellender Dienst
-''''''''''''''''''''
-
-.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_darstellender-dienst.png
- 
-Abb.: Feld Darstellender Dienst
-
-`Datenkopplung im Geodatendienst <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/img/ige/erfassung/ige_objektklassen/objektklasse-geodatendienst.html#daten-dienstekopplung>`_
-
-
-Werden die beschriebenen Daten durch einen Webdienst (z.B. OGC Web-Mapping-Service (WMS)) im Internet bereitgestellt, dann sollte auf diesen Dienst, welcher als eigenes Objekt des Typs „Geodatendienst“ beschrieben ist, verwiesen werden (siehe Daten-Dienste-Kopplung).
-
-Georeferenzierte Daten, die Basisdaten eines OGC Web-Dienstes sind, können über dieses Feld einen Verweis auf einen beschriebenen OGC Web-Dienst erhalten. Diese Geodaten sind in der Regel eng mit dem Dienst verknüpft ("tightly coupled") und über den verknüpften OGC Web Service direkt erreichbar.
-
-Werden beispielsweise die fachlichen Inhalte eines WMS-Dienstes beschrieben, sollte an dieser Stelle unbedingt ein Verweis zu dem WMS-Dienst vorgenommen werden. Durch diese Verknüpfung kann sich der Nutzer die Daten direkt in der Kartenkomponente des MDK über den WMS-Dienst anzeigen lassen (siehe Daten-Dienste-Kopplung). 
-
-Zum Eintragen eines gekoppelten Dienstes kann nun unterhalb der Tabelle „Darstellender Dienst“ auf den Button "Gekoppelten Dienst auswählen" geklickt werden. 
-
-
-.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_daten-dienste-kopplung_dargestellte-daten.png
- 
-Abb.: Eintrag im Geodatendienst - Verweis auf Datensatz: "ATKIS-DGM1 Sachsen-Anhalt"
-
-
-In dem daraufhin erscheinenden Dialog muss aus dem Hierarchiebaum der Dienst ausgewählt werden, mit dem die Daten gekoppelt werden sollen. Es können nur Objekte des Typs „Geodatendienst“ selektiert werden. 
-Mit einem Klick auf den Button „Zuweisen“ wechselt der Editor automatisch zu diesem Geodatendienst-Objekt.  
-
-.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_daten-dienste-kopplung_objekt-waehlen.png
- 
-Abb.: Hierarchiebaum - Dienst auswählen
-
-Es öffnet sich daraufhin ein neues Fenster mit der Information, dass man zu dem ausgewählten Dienst weitergeleitet worden ist.
-
-.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_daten-dienste-kopplung_verweis-anlegen.png
- 
-Abb.: Medung - Verweis im Dienst angelegt
-
-Es wurde außerdem der Verweis zu den eigentlichen Daten im Dienste-Objekt eingetragen.
-
-Durch ein „Zwischenspeichern“ wird die Kopplung zwischen den Daten und dem Dienst übernommen, in dem automatisch beide Metadatenobjekte (Daten und Dienst) gespeichert werden. 
-
-Sowohl im Metadatenobjekt der Daten als auch im Objekt des Dienstes ist nun die Kopplung eingetragen. 
-
-.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_daten-dienste-kopplung_darstellender-dienst.png
- 
-Abb.: Eintrag im Geodatensatz - Verweis auf Geodatendienst: „ATKIS-DGM1 Sachsen-Anhalt (ATOM-Downloaddienst)“, Verweis auf Geodatendienst: „ATKIS-DGM1 Sachsen-Anhalt (WMS 1.3)“
-
-.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_daten-dienste-kopplung_dienst.png
- 
-Abb.: Um eine Daten-Kopplung wieder zu entfernen, muss diese im Dienste-Objekt gelöscht werden.
 
 
 Datengrundlage
