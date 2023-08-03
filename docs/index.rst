@@ -14,7 +14,7 @@
 Bedienungsanleitung
 ====================
 
-..hint:: Die Eingabemasken und die Eingabefelder können je nach Metadatenprofil variieren.
+.. hint:: Die Eingabemasken und die Eingabefelder können je nach Metadatenprofil variieren.
 
 InGrid Editor - Neue Generation (IGE-NG)
 ========================================
