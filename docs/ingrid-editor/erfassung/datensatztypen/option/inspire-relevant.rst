@@ -128,11 +128,11 @@ Aktivierung der Tabelle "INSPIRE-Themen" mit Pflichtangaben.
 
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/verschlagwortung_inspire-themen.png
 
-Abb.: INSPIRE-Thema "Energiequellen"
+Abb.: Auswahl des INSPIRE-Themas "Energiequellen"
 
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/verschlagwortung_iso-themenkategorie.png
 
-Abb.: automatische Zuordnung der ISO-Themenkategorie "Wirtschaft"
+Abb.: es erfolgt die automatische Zuordnung der ISO-Themenkategorie "Wirtschaft"
 
 
 
