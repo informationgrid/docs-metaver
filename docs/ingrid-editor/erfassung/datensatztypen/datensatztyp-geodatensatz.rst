@@ -79,8 +79,8 @@ Optionale Verschlagwortung
 Abschnitt Fachbezug
 ^^^^^^^^^^^^^^^^^^^
 
-Feld Fachliche Grundlage
-""""""""""""""""""""""""
+Feld: Fachliche Grundlage
+"""""""""""""""""""""""""
 
 (INSPIRE-Pflichtfeld für Datasets und Data series)
 
@@ -104,8 +104,8 @@ Abb.: Eingabefeld Fachliche Grundlage
 .. tip:: Das Eingabefeld lässt sich an der rechten unteren Ecke vergrößern.
 
 
-Feld Identifikator der Datenquelle
-""""""""""""""""""""""""""""""""""
+Feld: Identifikator der Datenquelle
+"""""""""""""""""""""""""""""""""""
 
 Hier muss ein eindeutiger Name (Identifikator) für die im Geodatensatz beschriebene Datenquelle (z.B. eine Karte) vergeben/eingetragen werden. Der Identifikator soll aus einem Namensraum (=codespace), sowie einem Code bestehen. (INSPIRE-Pflichtfeld).
 Wenn der Identifikator keinen Namensraum enthält, so wird dem Identifikator bei der Abgabe der Metadaten derjenige Wert vorangestellt, welcher im Bereich Katalogverwaltung/Katalogeinstellungen unter "Namensraum des Katalogs" eingetragen ist.
@@ -128,11 +128,11 @@ Beispiel:
 .. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_identifikator_01.png
    :width: 500
  
-Abb.: Identifikator der Datenquelle
+Abb.: Feld Identifikator der Datenquelle
 
 
-Feld Digitale Repräsentation
-""""""""""""""""""""""""""""
+Feld: Digitale Repräsentation
+"""""""""""""""""""""""""""""
 (optionales INSPIRE-Feld)
 
 Es kann eine Angabe der Methode erfolgen, mit der räumliche Daten präsentiert werden. Die Auswahl erfolgt über eine vorgegebene Liste.
@@ -147,8 +147,8 @@ Auswahlliste: Raster, Gitter, Stereomodell, Text, Tabelle, TIN, Vektor, Video
 Abb.: Auswahlfeld Digitale Repräsentation
 
 
-Feld Erstellungsmaßstab
-"""""""""""""""""""""""
+Feld: Erstellungsmaßstab
+""""""""""""""""""""""""
 (optionales INSPIRE-Feld)
 
 Angabe des Erstellungsmaßstabes, der sich auf die erstellte Karte und/oder Digitalisiergrundlage bei Geodaten bezieht. 
@@ -163,8 +163,8 @@ Beispiel: Bodenauflösung: Auflösungseinheit in Linien/cm; Einheit: z.B. 1 cm g
 Abb.: Feld Erstellungsmaßstab
 
 
-Feld Darstellender Dienst
-"""""""""""""""""""""""""
+Feld: Darstellender Dienst
+""""""""""""""""""""""""""
 
 Geodatensätze können mit Geodatendiensten gekoppelt werden. Das heißt, dass in einem Portal von einem Geodatensatz auf einen Geodendienst verwiesen wird und umgekehrt.
 Die Datenkopplung erfolgt in einem Geodatendienst. Der gekoppelte Dienst wird in der Erfassungsmaske des Geodatensatzes angezeigt.
@@ -174,11 +174,36 @@ Die Datenkopplung erfolgt in einem Geodatendienst. Der gekoppelte Dienst wird in
 Abb.: Feld Darstellender Dienst
 
 
+Feld: Datengrundlage
+""""""""""""""""""""
+
+Angabe der Unterlagen (Luftbilder, Karten, Datensammlungen), die bei der Erstellung der Karte oder der Geoinformation (des digitalen Datenbestandes) Verwendung finden.
+
+.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_datengrundlage.png
+ 
+Abb.: Feld Datengrundlage - Beispiel: Kartieroriginale der Pflanzenerfassung
 
 
+Feld: Herstellungsprozess
+"""""""""""""""""""""""""
+
+Angabe der Methode, die zur Erstellung des Datenobjektes geführt hat. Der Eintrag kann in Textform erfolgen, indem die Registerkarte "Text" ausgewählt wird.
+
+.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_herstellungsprozess.png
+ 
+Abb.: Feld Herstellungsprozess - Beispiel: Feldkartierung
 
 
+Symbolkatalog
+"""""""""""""
 
+Für die Präsentation genormter Objekte und Sachverhalte können für die Nutzer der Daten zur Herstellung von Karten abgestimmte Symbole vorgegeben werden. Die Angabe einer oder mehrerer analoger oder digitaler Symbolpaletten mit zugehörigem Datum (Pflichteintrag) und Version (Optional) ist hier möglich.
+
+Beispiel: Planzeichenverordnung, Datum 03.08.2023, Version 6.0
+
+.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_symbolkatalog.png
+ 
+Abb.: Feld Symbolkatalog
 
 
 
@@ -304,23 +329,8 @@ Angabe der mit der Geo-Information/Karte verbundenen Sachdaten. Bei Bedarf kann 
 
 
 
-Datengrundlage
-''''''''''''''
+.
 
-.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_datengrundlage.png
- 
-Abb.: Feld Datengrundlage - Beispiel: "Kartieroriginale der Pflanzenerfassung"
-
-Angabe der Unterlagen (Luftbilder, Karten, Datensammlungen), die bei der Erstellung der Karte oder der Geo-Information (des digitalen Datenbestandes) Verwendung finden. Der Eintrag kann in Textform erfolgen, indem die Karteikarte "Text" ausgewählt wird. Außerdem kann durch Auswahl der Registerkarte "Verweise" ein Verweis zu einem anderen Objekt im aktuellen Katalog erstellt werden.
-
-Herstellungsprozess
-'''''''''''''''''''
-
-.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_herstellungsprozess.png
- 
-Abb.: Feld Herstellungsprozess - Beispiel: Feldkartierung
-
-Angabe der Methode, die zur Erstellung des Datenobjektes geführt hat. Der Eintrag kann in Textform erfolgen, indem die Registerkarte "Text" ausgewählt wird. Außerdem kann durch Auswahl der Registerkarte "Verweise" ein Verweis erstellt werden.
 
 -----------------------------------------------------------------------------------------------------------------------
 
