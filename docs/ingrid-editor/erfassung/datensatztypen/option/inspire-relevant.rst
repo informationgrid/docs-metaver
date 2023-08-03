@@ -122,7 +122,7 @@ Wird versucht eine ISO-Kategorie zu löschen, die an ein INSPIRE-Thema geknüpft
 Umgekehrt gilt der Automatismus nicht: Beim Hinzufügen einer ISO Kategorie wird kein INSPIRE Thema gesetzt.
 
 
-Aktivierung der Tabelle "INSPIRE-Themen" mit Pflichtangaben.
+**Aktivierung der Tabelle "INSPIRE-Themen" mit Pflichtangaben.**
 
 `Auswahlliste - INSPIRE-Themen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_inspire_themen.html>`_
 
@@ -136,7 +136,7 @@ Abb.: es erfolgt die automatische Zuordnung der ISO-Themenkategorie "Wirtschaft"
 
 
 
-Aktivierung der Tabelle "INSPIRE - priority data set" mit optionalen Angaben.
+**Aktivierung der Tabelle "INSPIRE - priority data set" mit optionalen Angaben.**
 
 `Auswahlliste - INSPIRE - priority data set <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_inspire_priority-data-set.html>`_
 
@@ -145,7 +145,7 @@ Aktivierung der Tabelle "INSPIRE - priority data set" mit optionalen Angaben.
 Abb.: Tabelle "INSPIRE - priority data set", Beispiel
 
 
-Aktivierung der Auswahlliste "INSPIRE - Räumlicher Anwendungsbereich" mit Pflichtangaben.
+**Aktivierung der Auswahlliste "INSPIRE - Räumlicher Anwendungsbereich" mit Pflichtangaben.**
 
 `Auswahlliste - INSPIRE - Räumlicher Anwendungsbereich <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_inspire_raeumlicher-anwendungsbereich.html>`_
 
