@@ -43,6 +43,7 @@ Abb.: GetCapabilitie-Assistent - Metadatenauswahl
    
 Abb.: GetCapabilitie-Assistent - übernommene Metadaten
 
+Mit der Funktion ABBRECHEN schließen Sie den Assistenten und starten mit einem leeren Objekt.
 
 Der "getCapabilities Assistent" unterstützt folgende Dienste-Typen:
 
@@ -58,24 +59,6 @@ Eine Ausnahme ist der Atom-Feed, dieser kann nicht über den GetCapabilitie Assi
 Die Metadaten, die aus einem Dienst in die Erfassungsmaske übernommen wurden, lassen sich über die GetCapabilitie-Aktualisierung (am Anfang der Erfassungsmaske) erneuern.
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilties-aktualisierung.png
-
+   :width: 300
    
 Abb.: GetCapabilitie-Aktualisierung in der Erfassungsmaske
-
-
-
-
-
-
-
-
-Geben Sie die getCapability-URL des Dienstes ein und betätigen Sie den Button "Erstellen". Der Assistent ruft den Dienst über die eingetragene URL ab und zeigt alle in der getCapability verfügbaren Informationen an. Der Erfasser kann dann die Metainformationen auswählen, die in ddas Objekt übernommen werden sollen.
-
-Für die automatische Erzeugung von Geodatensätzen aus den Layern der WMS Dienste müssen diese einen Identifier unter dem Pfad folgenden Pfaden haben:
-
- - WMS Version 1.3.0: /wms:WMS_Capabilities/wms:Capability/wms:Layer/.../wms:Identifier
- - WMS Version 1.1.1: /WMT_MS_Capabilities/Capability/Layer/.../Identifier
-
-Mit Start wird der Assistent gestartet, die Informationen vom Service abgerufen und ein neues Objekt mit den erhaltenen Informationen erstellt.
-
-Mit der Funktion Abbrechen am Ende der Seite schließen Sie den Assistenten und starten mit einem leeren Objekt.
