@@ -274,8 +274,7 @@ Beschreibung unter der Option: `INSPIRE-relevant <https://metaver-bedienungsanle
 
 Dieses Feld wird bei Eintragungen in "INSPIRE-Themen" oder "Art des Dienstes" automatisch befüllt. Es muss dann nur der "Grad der Konformität" manuell angepasst werden.
 
-(bei Aktivierung der Checkbox "AdV-kompatibel")
-Bitte entsprechend den Empfehlungen des AdV-Metadatenprofils nur die Werte "konform" und "nicht konform" für "Grad der Konformität" verwenden.
+.. hint:: Bei Aktivierung der Checkbox "AdV-kompatibel", bitte entsprechend den Empfehlungen des AdV-Metadatenprofils nur die Werte "konform" und "nicht konform" für "Grad der Konformität" verwenden.
 
 Beschreibung unter der Option: `AdV kompatibel <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/adv-kompatibel.html>`_
 
