@@ -55,6 +55,12 @@ Der "getCapabilities Assistent" unterstützt folgende Dienste-Typen:
  
 Eine Ausnahme ist der Atom-Feed, dieser kann nicht über den GetCapabilitie Assistent abgerufen bzw. erstellt werden.
 
+Die Metadaten, die aus einem Dienst in die Erfassungsmaske übernommen wurden, lassen sich über die GetCapabilitie-Aktualisierung (am Anfang der Erfassungsmaske) erneuern.
+
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilties-aktualisierung.png
+
+   
+Abb.: GetCapabilitie-Aktualisierung in der Erfassungsmaske
 
 
 
