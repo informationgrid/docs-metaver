@@ -12,7 +12,7 @@ Wird für einem Geodatendienst ein neuer Metadatensatz erstellt, kann für die E
 
 Der GetCapabilities-Assistent ist ein Erfassungsassistent, er unterstützt Metadatenerfasser bei der Erstellung von Metadaten zu Geodatendiensten.
 
-Geben Sie die getCapability-URL des Dienstes ein und betätigen Sie den Button "ÜBERNEHMEN". Der Assistent ruft den Dienst über die eingetragene URL ab und zeigt alle in der getCapability verfügbaren Metadaten an. Der Erfasser kann dann die Metainformationen auswählen, die in das Erfassungsformular übernommen werden sollen.
+Startern Sie den Assistenten über das Symbol Zauberstab in der Symbolleiste. Geben Sie in das Fenster die getCapability-URL des Dienstes ein und betätigen Sie den Button "ÜBERNEHMEN". Der Assistent ruft den Dienst über die eingetragene URL ab und zeigt alle in der getCapability verfügbaren Metadaten an. Der Erfasser kann dann die Metainformationen auswählen, die in das Erfassungsformular übernommen werden sollen.
 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilties-assistent_url.png
