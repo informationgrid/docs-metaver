@@ -251,7 +251,7 @@ Abschnitt Zusatzinformation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
   
 Feld: Zeichensatz des Datensatzes
-""""""""""""""""""""""""""""""""
+"""""""""""""""""""""""""""""""""
 
 .. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/zusatzinformation_zeichensatz.png
  
@@ -263,7 +263,7 @@ Angaben zu dem im beschriebenen Datensatz benutzten Zeichensatz z.B. UTF-8.
   
 
 Feld: Konformität
-""""""""""""""""
+"""""""""""""""""
 
 .. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/zusatzinformation_konformitaet.png
  
