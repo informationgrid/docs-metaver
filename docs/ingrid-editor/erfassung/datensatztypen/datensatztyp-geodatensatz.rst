@@ -253,12 +253,12 @@ Abschnitt Zusatzinformation
 Feld: Zeichensatz des Datensatzes
 """""""""""""""""""""""""""""""""
 
+Angabe zu dem im beschriebenen Datensatz benutzten Zeichensatz z.B. UTF-8.
+
 .. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/zusatzinformation_zeichensatz.png
    :width: 500
  
 Abb.: Feld Zeichensatz des Datensatzes
-
-Angaben zu dem im beschriebenen Datensatz benutzten Zeichensatz z.B. UTF-8.
 
 `Auswahlliste Zeichensatz des Datensatzes <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/auswahlliste_zusatzinformation_zeichensatz.html>`_
   
