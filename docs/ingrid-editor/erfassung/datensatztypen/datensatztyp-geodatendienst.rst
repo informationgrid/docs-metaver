@@ -32,7 +32,7 @@ Der GetCapabilities-Assistent ist ein Erfassungsassistent, er unterstützt Metad
 
 Wird ein neuer Metadatensatz erstellt, kann der getCapabilties-Assistent über das Symbol Zauberstab in der Symbolleiste aufgerufen werden. Der getCapabilties-Assistent holt sich die Metadaten aus der XML des Geodatendienstes. Diese können für das Befüllen des Datensatztyps "Geodatendienst" verwendet werden. 
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilties-assistent_icon.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilties-assistent_symbol.png
    :width: 500
    
 Abb.: GetCapabilitie-Assistent - Symbol (Zauberstab)
@@ -46,8 +46,22 @@ Abb.: GetCapabilitie-Assistent - URL Eingabe
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilties-assistent_metadaten.png
    :width: 500
-   
+
 Abb.: GetCapabilitie-Assistent - Metadaten
+
+
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilties-assistent_metadaten-auswahl.png
+   :width: 500
+   
+Abb.: GetCapabilitie-Assistent - Metadatenauswahl
+
+
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilties-assistent_metadaten-uebernommen.png
+   :width: 500
+   
+Abb.: GetCapabilitie-Assistent - übernommene Metadaten
+
+
 
 
 
