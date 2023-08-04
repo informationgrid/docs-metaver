@@ -37,6 +37,7 @@ Der getCapabilties-Assistent ruft die Metadaten aus der XML des Geodatendienstes
 
 Abb.: GetCapabilitie-Assistent - Metadatenauswahl
 
+Werden die Adressen aus den Metadaten übernommen, erscheint im Assistenten der Button ADRESSORDNER WÄHLEN ... . Wählen Sie darüber einen Adressordner aus dem Editor, unter dem die neue Adresse angelegt werden soll.
 
 Mit der Funktion ABBRECHEN schließen Sie den Assistenten und starten mit einem leeren Objekt.
 
