@@ -28,7 +28,7 @@ Erfassung
 Der GetCapabilities-Assistent
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Hier wird die Erfassung von Metadaten mit dem GetCapabilities-Assistent beschrieben.
+Hier wird die Erfassung von Metadaten mit dem `GetCapabilities-Assistent <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/erfassungsassistent/getcapabilitie-assistent.html>`_  beschrieben.
 
 
 Abschnitt Allgemeines
