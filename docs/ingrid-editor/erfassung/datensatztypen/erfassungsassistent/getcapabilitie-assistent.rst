@@ -63,4 +63,4 @@ Die Metadaten, die aus einem Dienst in die Erfassungsmaske übernommen wurden, l
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilities_aktualisierung.png
    :width: 300
    
-Abb.: GetCapabilitie-Aktualisierung in der Erfassungsmaske
+Abb.: GetCapabilitie-Aktualisierung am Anfang der Erfassungsmaske
