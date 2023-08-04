@@ -283,18 +283,15 @@ Das Feld "geprüft mit" ist im Editor eine optionale Angabe, laut der ISO ist es
   <gco:CharacterString>see the referenced specification</gco:CharacterString>
 </gmd:explanation>
 
-
-.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/zusatzinformation_konformitaet-spezifikation.png
+.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/zusatzinformation_konformitaet.png
    :width: 500
  
 Abb.: Feld Konformität
 
-
-.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/zusatzinformation_konformitaet.png
+.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/zusatzinformation_konformitaet-spezifikation.png
    :width: 500
  
 Abb.: Feld Konformität - Spezifikation
-
 
 -----------------------------------------------------------------------------------------------------------------------
 
