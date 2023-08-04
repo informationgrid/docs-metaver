@@ -10,7 +10,7 @@ Abb.: GetCapabilitie-Assistent - Symbol (Zauberstab)
 
 Wird für einem Geodatendienst ein neuer Metadatensatz erstellt, kann für die Erfassung der Metadaten der getCapabilties-Assistent (Symbol Zauberstab in der Symbolleiste) verwendet werden.
 
-Der GetCapabilities-Assistent ist ein Erfassungsassistent, er unterstützt Metadatenerfasser bei der Erstellung von Metadaten zu Geodatendiensten.
+Der GetCapabilities-Assistent ist ein Erfassungsassistent, der Metadatenerfasser bei der Erstellung von Metadaten zu Geodatendiensten unterstützt.
 
 Startern Sie den Assistenten über das Symbol Zauberstab in der Symbolleiste. Geben Sie in das Fenster die getCapability-URL des Dienstes ein und betätigen Sie den Button "ÜBERNEHMEN". Der Assistent ruft den Dienst über die eingetragene URL ab und zeigt alle in der getCapability verfügbaren Metadaten an. Der Erfasser kann dann die Metainformationen auswählen, die in das Erfassungsformular übernommen werden sollen.
 
