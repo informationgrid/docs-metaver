@@ -277,11 +277,7 @@ Dieses Feld wird bei Eintragungen in "INSPIRE-Themen" oder "Art des Dienstes" au
 (bei Aktivierung der Checkbox "AdV-konform")
 Bitte entsprechend den Empfehlungen des AdV-Metadatenprofils nur die Werte "konform" und "nicht konform" für "Grad der Konformität" verwenden.
 
-Das Feld "geprüft mit" ist im Editor eine optionale Angabe, laut der ISO ist es aber verpflichtend, wenn eine Konformität angegeben wird. Deswegen wird in der ISO-Ausgabe das folgende Element mit ausgegeben, wenn keine Eingabe bei "geprüft mit" erfolgt ist:
-
-<gmd:explanation>
-  <gco:CharacterString>see the referenced specification</gco:CharacterString>
-</gmd:explanation>
+Das Feld "geprüft mit" ist im Editor eine optionale Angabe, laut der ISO ist es aber verpflichtend.
 
 .. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/zusatzinformation_konformitaet.png
    :width: 500
