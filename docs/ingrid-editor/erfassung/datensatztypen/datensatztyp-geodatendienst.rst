@@ -41,13 +41,13 @@ Geben Sie die getCapability-URL des Dienstes ein und betätigen Sie den Button "
 
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilties-assistent_url.png
-   :width: 500
+
    
 Abb.: GetCapabilitie-Assistent - URL Eingabe
 
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilties-assistent_metadaten.png
-   :width: 500
+
 
 Abb.: GetCapabilitie-Assistent - Metadaten
 
@@ -55,13 +55,13 @@ Abb.: GetCapabilitie-Assistent - Metadaten
 Der getCapabilties-Assistent ruft die Metadaten aus der XML des Geodatendienstes ab. Diese können für das Befüllen des Datensatztyps "Geodatendienst" verwendet werden.
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilties-assistent_metadaten-auswahl.png
-   :width: 500
+
    
 Abb.: GetCapabilitie-Assistent - Metadatenauswahl
 
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilties-assistent_metadaten-uebernommen.png
-   :width: 500
+
    
 Abb.: GetCapabilitie-Assistent - übernommene Metadaten
 
