@@ -29,7 +29,7 @@ Der GetCapabilities-Assistent
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilties-assistent_symbol.png
-   :width: 500
+   :width: 50
    
 Abb.: GetCapabilitie-Assistent - Symbol (Zauberstab)
 
