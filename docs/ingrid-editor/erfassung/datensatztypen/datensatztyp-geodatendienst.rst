@@ -31,7 +31,7 @@ Der GetCapabilities-Assistent
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilties-assistent_symbol.png
    :width: 50
    
-Abb.: GetCapabilitie-Assistent - Symbol (Zauberstab)
+Abb.: GetCapabilitie-Assistent - Symbol (Zauberstab) aus der Symbolleiste
 
 Hier wird die Erfassung von Metadaten mit dem `GetCapabilities-Assistent <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/erfassungsassistent/getcapabilitie-assistent.html>`_  beschrieben.
 
