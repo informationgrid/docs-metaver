@@ -35,10 +35,10 @@ Der getCapabilties-Assistent ruft die Metadaten aus der XML des Geodatendienstes
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilties-assistent_metadaten-auswahl.png
 
 
-Mit der Funktion ABBRECHEN schließen Sie den Assistenten und starten mit einem leeren Objekt.
-
-
 Abb.: GetCapabilitie-Assistent - Metadatenauswahl
+
+
+Mit der Funktion ABBRECHEN schließen Sie den Assistenten und starten mit einem leeren Objekt.
 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilties-assistent_metadaten-uebernommen.png
