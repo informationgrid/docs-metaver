@@ -270,7 +270,7 @@ Hier kann angegeben werden, zu welcher Spezifikation die beschriebenen Daten kon
 
 Sind die zu beschreibenden Daten INSPIRE-relevant, muss die zutreffende Durchführungsbestimmung der INSPIRE-Richtlinie angegeben werden. (INSPIRE-Pflichtfeld)
 
-Beschreibung unter der Option `INSPIRE-relevant <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/img/ige/erfassung/ige_objektklassen/option/inspire-relevant.html>`_.
+Beschreibung unter der Option `INSPIRE-relevant, <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/inspire-relevant.html>`_
 
 Dieses Feld wird bei Eintragungen in "INSPIRE-Themen" oder "Art des Dienstes" automatisch befüllt. Es muss dann nur der "Grad der Konformität" manuell angepasst werden.
 
