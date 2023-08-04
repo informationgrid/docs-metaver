@@ -259,7 +259,7 @@ Abb.: Feld Zeichensatz des Datensatzes
 
 Angaben zu dem im beschriebenen Datensatz benutzten Zeichensatz z.B. UTF-8.
 
-`Auswahlliste Zeichensatz des Datensatzes <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/img/ige/ige_auswahllisten/auswahlliste_zusatzinformation_zeichensatz.html>`_
+`Auswahlliste Zeichensatz des Datensatzes <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/auswahlliste_zusatzinformation_zeichensatz.html>`_
   
 
 Feld: Konformität
