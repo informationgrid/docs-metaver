@@ -8,7 +8,7 @@ Der GetCapabilitie-Assistent
    
 Abb.: GetCapabilitie-Assistent - Symbol (Zauberstab)
 
-Wird ein neuer Metadatensatz erstellt, kann der getCapabilties-Assistent über das Symbol Zauberstab in der Symbolleiste aufgerufen werden.
+Wird für einem Geodatendienst ein neuer Metadatensatz erstellt, kann der getCapabilties-Assistent über das Symbol Zauberstab in der Symbolleiste aufgerufen werden.
 
 Der GetCapabilities-Assistent ist ein Erfassungsassistent, er unterstützt Metadatenerfasser bei der Erstellung von Metadaten zu Geodatendiensten.
 
