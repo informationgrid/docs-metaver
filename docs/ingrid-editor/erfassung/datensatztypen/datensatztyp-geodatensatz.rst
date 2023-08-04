@@ -266,6 +266,24 @@ Angaben zu dem im beschriebenen Datensatz benutzten Zeichensatz z.B. UTF-8.
 Feld: Konformität
 """""""""""""""""
 
+Hier kann angegeben werden, zu welcher Spezifikation die beschriebenen Daten konform sind. Einträge in dieses Feld erfolgen über den Button Konformität "+ Hinzufügen". Es ist möglich aus Vorgabelisten auszuwählen oder freie Eingaben zu tätigen.
+
+Sind die zu beschreibenden Daten INSPIRE-relevant, muss die zutreffende Durchführungsbestimmung der INSPIRE-Richtlinie angegeben werden. (INSPIRE-Pflichtfeld)
+
+Beschreibung unter der Option `INSPIRE-relevant <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/img/ige/erfassung/ige_objektklassen/option/inspire-relevant.html>`_.
+
+Dieses Feld wird bei Eintragungen in "INSPIRE-Themen" oder "Art des Dienstes" automatisch befüllt. Es muss dann nur der "Grad der Konformität" manuell angepasst werden.
+
+(bei Aktivierung der Checkbox "AdV-konform")
+Bitte entsprechend den Empfehlungen des AdV-Metadatenprofils nur die Werte "konform" und "nicht konform" für "Grad der Konformität" verwenden.
+
+Das Feld "geprüft mit" ist im Editor eine optionale Angabe, laut der ISO ist es aber verpflichtend, wenn eine Konformität angegeben wird. Deswegen wird in der ISO-Ausgabe das folgende Element mit ausgegeben, wenn keine Eingabe bei "geprüft mit" erfolgt ist:
+
+<gmd:explanation>
+  <gco:CharacterString>see the referenced specification</gco:CharacterString>
+</gmd:explanation>
+
+
 .. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/zusatzinformation_konformitaet-spezifikation.png
    :width: 500
  
@@ -278,19 +296,7 @@ Abb.: Feld Konformität
 Abb.: Feld Konformität - Spezifikation
 
 
-Hier muss angegeben werden, zu welcher Durchführungsbestimmung der INSPIRE-Richtlinie bzw. zu welcher anderweitigen Spezifikation die beschriebenen Daten konform sind. (INSPIRE-Pflichtfeld)
-
-Dieses Feld wird bei der Auswahl der "INSPIRE-Themen" oder der "Art des Dienstes" automatisch befüllt. Es muss dann nur der Grad der Konformität manuell eingetragen werden.
-
-Beschreibung unter der Option `INSPIRE-relevant <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/img/ige/erfassung/ige_objektklassen/option/inspire-relevant.html>`_.
-
-
-
-
-
-
-
-
+-----------------------------------------------------------------------------------------------------------------------
 
 
 Vektorformat
