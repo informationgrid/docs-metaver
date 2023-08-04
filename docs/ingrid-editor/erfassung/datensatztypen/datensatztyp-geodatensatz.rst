@@ -268,7 +268,7 @@ Feld: Konformität
 
 Hier kann angegeben werden, zu welcher Spezifikation die beschriebenen Daten konform sind. Einträge in dieses Feld erfolgen über den Button Konformität "+ Hinzufügen". Es ist möglich aus Vorgabelisten auszuwählen oder freie Eingaben zu tätigen.
 
-Sind die zu beschreibenden Daten INSPIRE-relevant, muss die zutreffende Durchführungsbestimmung der INSPIRE-Richtlinie angegeben werden. (INSPIRE-Pflichtfeld)
+Sind die zu beschreibenden Daten INSPIRE-relevant, muss die zutreffende Durchführungsbestimmung der INSPIRE-Richtlinie angegeben werden (INSPIRE-Pflichtfeld).
 
 Beschreibung unter der Option: `INSPIRE-relevant <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/inspire-relevant.html>`_
 
