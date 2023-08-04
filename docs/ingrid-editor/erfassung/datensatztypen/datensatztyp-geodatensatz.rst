@@ -254,6 +254,7 @@ Feld: Zeichensatz des Datensatzes
 """""""""""""""""""""""""""""""""
 
 .. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/zusatzinformation_zeichensatz.png
+   :width: 500
  
 Abb.: Feld Zeichensatz des Datensatzes
 
@@ -265,9 +266,17 @@ Angaben zu dem im beschriebenen Datensatz benutzten Zeichensatz z.B. UTF-8.
 Feld: Konformität
 """""""""""""""""
 
-.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/zusatzinformation_konformitaet.png
+.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/zusatzinformation_konformitaet-spezifikation.png
+   :width: 500
  
 Abb.: Feld Konformität
+
+
+.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/zusatzinformation_konformitaet.png
+   :width: 500
+ 
+Abb.: Feld Konformität - Spezifikation
+
 
 Hier muss angegeben werden, zu welcher Durchführungsbestimmung der INSPIRE-Richtlinie bzw. zu welcher anderweitigen Spezifikation die beschriebenen Daten konform sind. (INSPIRE-Pflichtfeld)
 
