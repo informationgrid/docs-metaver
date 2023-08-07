@@ -36,41 +36,40 @@ Abb.: GetCapabilitie-Assistent - Symbol (Zauberstab) aus der Symbolleiste
 Hier wird die Erfassung von Metadaten mit dem `GetCapabilities-Assistent <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/erfassungsassistent/getcapabilitie-assistent.html>`_  beschrieben.
 
 
+-----------------------------------------------------------------------------------------------------------------------
+
+
+Feld: Typ (Erweiterte Erfassung)
+""""""""""""""""""""""""""""""""
+
+Unter Typ können weitere Eigenschaften (Eingabefelder) für den Metadatensatz festgelegt werden.
+
+Beschreibungen zu den Optionen: `INSPIRE-relevant | <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/inspire-relevant.html>`_
+`AdV kompatibel,  <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/adv-kompatibel.html>`_
+`Open Data, <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/opendata.html>`_
+`(InVeKoS) <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/invekos.html>`_
+
+.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/typ_optionen.png
+
+Abb.: Optionen für weitere Eigenschaften
+
+
+Feld: Datensatz/Datenserie
+""""""""""""""""""""""""""
+
+Es wird unterschieden, ob es sich bei den beschriebenen Daten um einen einzelnen Datensatz mit bestimmtem räumlichen Bezug oder um eine Datenserie mit einheitlichem thematischen Bezug und mehreren Datensätzen mit unterschiedlichem räumlichen Bezug handelt.
+
+.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_datensatz-datenserie.png
+ 
+Abb.: Auswahlfeld Datensatz / Datenserie
+
+
+-----------------------------------------------------------------------------------------------------------------------
+
 Abschnitt Allgemeines
 ^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-abschnitt_allgemeines.png
-
-
-
-INSPIRE-relevant
-''''''''''''''''
-
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_checkbox-inspire-relevant-dienst.png
-   :width: 100
-
-
-Abb.: Checkbox INSPIRE-relevant
-
-
-Dieses Feld definiert (wenn aktiviert) dass ein Metadatensatz für das INSPIRE-Monitoring vorgesehen ist.
-
-Folgende Eigenschaften ändern sich bei der Aktivierung der Checkbox:
-  - Hinzufügen des Schlagwortes "inspireidentifiziert" während der ISO-XML Generierung
-  - Verpflichtende Angabe eines INSPIRE-Themas im Abschnitt "Verschlagwortung"
-
-Die als INSPIRE-relevant markierten Datensätze werden im INSPIRE GeoPortal (https://inspire-geoportal.ec.europa.eu/) veröffentlicht.
-
-
-AdV kompatibel
-''''''''''''''
-
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_checkbox-adv-kompatibel.png
-   :width: 100
-
-Abb.: Checkbox AdV-kompatibel
-
-Wird die Checkbox "AdV kompatibel" aktiviert, werden die Anforderungen des AdV-Metadatenprofils umgesetzt (z.B. Automatisiertes Setzen des Schlüsselwortes "AdVMIS" in der Datenbank).
+.. hint:: Dieser Abschnitt ist unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_ beschrieben.
 
 
 Abschnitt Verschlagwortung

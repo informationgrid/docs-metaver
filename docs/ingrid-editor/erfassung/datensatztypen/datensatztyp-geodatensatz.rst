@@ -24,7 +24,7 @@ Erfassung
 ---------
 
 Feld: Typ (Erweiterte Erfassung)
-""""""""""""""
+""""""""""""""""""""""""""""""""
 
 Unter Typ können weitere Eigenschaften (Eingabefelder) für den Metadatensatz festgelegt werden.
 
