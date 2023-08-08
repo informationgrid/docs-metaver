@@ -71,6 +71,7 @@ Abschnitt Allgemeines
 
 .. hint:: Dieser Abschnitt ist unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_ beschrieben.
 
+-----------------------------------------------------------------------------------------------------------------------
 
 Abschnitt Verschlagwortung
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -80,6 +81,7 @@ Abschnitt Verschlagwortung
 `Open Data, <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/opendata.html>`_
 `(InVeKoS) <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/invekos.html>`_
 
+-----------------------------------------------------------------------------------------------------------------------
 
 Abschnitt Fachbezug
 ^^^^^^^^^^^^^^^^^^^
@@ -213,6 +215,8 @@ Zusätzliche Anmerkungen zu dem beschriebenen Dienst. Hier können weitergehende
 .. note:: Beispiel: Der Datensatz ist eine Shape-Datei, die alle Grundwassermessstellen in Sachsen-Anhalt mit Lage und Kennung beinhaltet.
 
 
+-----------------------------------------------------------------------------------------------------------------------
+
 Daten-Dienstekopplung
 ^^^^^^^^^^^^^^^^^^^^^
 
@@ -317,6 +321,7 @@ Abb.: Zugang geschützt - Portalansicht
 Die Checkbox "Zugang geschützt" sollte aktiviert werden, wenn der Zugang zu dem Dienst z.B. durch ein Passwort geschützt ist. Bei aktiviertem Kontrollkästchen wird kein direkter Link (Zeige Karte) aus dem Portal zu dem Dienst generiert. In der Portalansicht erscheint am Dienst eine Grafik als Vorhängeschloss.
 
 
+-----------------------------------------------------------------------------------------------------------------------
 
 Abschnitt Zusatzinformation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
