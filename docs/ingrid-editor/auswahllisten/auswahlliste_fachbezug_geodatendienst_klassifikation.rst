@@ -2,8 +2,8 @@
 Auswahlliste Klassifikation des Dienstes
 ========================================
 
-- Abonnementdienst
-- Analysedienst für räumliche Nachbarschaftsbeziehungen
+ - Abonnementdienst
+ - Analysedienst für räumliche Nachbarschaftsbeziehungen
  - Analysedienst für zeitbezogene Nachbarschaftsbeziehungen
  - Auflösungsreduzierungsdienst
  - Aufrufprogramm für Bearbeitungsketten
