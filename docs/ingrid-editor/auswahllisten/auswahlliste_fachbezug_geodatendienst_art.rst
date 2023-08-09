@@ -3,7 +3,7 @@ Auswahlliste Art des Dienstes
 =============================
 
 - Darstellungsdienste (WMS, WMTS)
-- Dienste zum Abrufen von Geodatendiensten (getCapabilitie)
-- Download-Dienste (WFS, ATOM)
-- Sonstige Dienste	
-- Transformationsdienste
+- Dienste zum Abrufen von Geodatendiensten (getCapabilitie, CSW)
+- Download-Dienste (WFS, ATOM, WCS)
+- Sonstige Dienste
+- Transformationsdienste (Höhen- oder Koordinatentransformationsdienste)
