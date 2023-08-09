@@ -153,7 +153,7 @@ Anwendung: Der ATOM-Feed Client
 Feld: Operationen
 """""""""""""""""
 
-Die Eingabefelder für die Operationen wurden im neuen Editor vereinfacht. Im Feld "Name" muss die getCapabilitie-URL eingetragen werden, in das Feld "Beschreibung" wird die Bezeichnung für den Dienst eingetragen und in fas Feld "Zugriffs-URL" die entsprechende URL.
+Die Eingabefelder für die Operationen wurden im neuen Editor vereinfacht. Im Feld "Name" muss die getCapabilitie-URL eingetragen werden, in das Feld "Beschreibung" wird die Bezeichnung für den Dienst eingetragen und in das Feld "Zugriffs-URL" die entsprechende URL.
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/fachbezug_operationen.png
    :width: 100%
