@@ -98,6 +98,7 @@ Feld Art des Dienstes
 In diesem Pflichtfeld kann die Art des Dienstes ausgewählt werden. Über das Feld werden die zur weiteren Befüllung auszuwählenden Angaben zu Operationen gesteuert (siehe Tabelle unter Punkt: Name der Operation).
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/fachbezug_dienstart.png
+   :width: 80%
 
 Abb.: Feld - Art des Dienstes
 
@@ -121,6 +122,7 @@ Angaben zur Version der Spezifikation, die dem Dienst zugrunde liegt
 Bitte alle Versionen eintragen, die vom Dienst unterstützt werden.
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/fachbezug_dienstversion.png
+   :width: 200
 
 Abb.: Feld - Version des Dienstes
 
@@ -132,7 +134,7 @@ Beispiele Downloaddienste: OGC: WFS 2.0, WFS 1.1.0, predefined ATOM
 Option Als ATOM-Download Dienst bereitstellen
 """""""""""""""""""""""""""""""""""""""""""""
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/atom-downloaddienst/fachbezug_atom-downloaddienst-bereitstellen.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/atom-downloaddienst/fachbezug_als-atom-downloaddienst-bereitstellen.png
 
 Abb.: Checkbox - Als ATOM-Download Dienst bereitstellen 
 
