@@ -137,13 +137,13 @@ Option Als ATOM-Download Dienst bereitstellen
 """""""""""""""""""""""""""""""""""""""""""""
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/atom-downloaddienst/fachbezug_als-atomdownloaddienst-bereitstellen.png
-   :width: 40%
+   :width: 30%
 
 Abb.: Checkbox - Als ATOM-Download Dienst bereitstellen 
 
 Bei aktivierter Option, wird dieser Datensatz im Portal als Download angeboten.
 
-.. seealso:: Beschreibung der Funktion ´Als ATOM-Download Dienst bereitstellen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/atom-feed/bereitstellung.html>`_
+.. seealso:: Beschreibung der Funktion `Als ATOM-Download Dienst bereitstellen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/atom-feed/bereitstellung.html>`_
 
 
 Der ATOM-Feed Client
