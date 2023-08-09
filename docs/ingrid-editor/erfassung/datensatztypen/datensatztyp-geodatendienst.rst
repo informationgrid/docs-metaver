@@ -25,8 +25,11 @@ Wenn ein Geodatensatz einem Geodatendienst zugeordnet wird, dann werden diese Me
 Erfassung
 ---------
 
+Abschnitt Erweiterte Erfassung
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 Der GetCapabilities-Assistent
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+"""""""""""""""""""""""""""""
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilties-assistent_symbol.png
    :width: 50
@@ -39,8 +42,8 @@ Abb.: GetCapabilitie-Assistent - Symbol (Zauberstab) aus der Symbolleiste
 -----------------------------------------------------------------------------------------------------------------------
 
 
-Feld: Typ (Erweiterte Erfassung)
-""""""""""""""""""""""""""""""""
+Feld: Typ
+"""""""""
 
 Unter Typ können weitere Eigenschaften (Eingabefelder) für den Metadatensatz festgelegt werden.
 
