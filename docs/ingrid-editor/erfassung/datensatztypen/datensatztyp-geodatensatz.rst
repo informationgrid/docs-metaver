@@ -23,11 +23,11 @@ Die ISO 19115 definiert einen international gültigen Standard zur Beschreibung 
 Erfassung
 ---------
 
-Test
-^^^^
+Abschnitt Erweiterte Erfassung
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Feld: Typ (Erweiterte Erfassung)
-""""""""""""""""""""""""""""""""
+Feld: Typ
+"""""""""
 
 Unter Typ können weitere Eigenschaften (Eingabefelder) für den Metadatensatz festgelegt werden.
 
