@@ -52,6 +52,7 @@ Unter Typ können weitere Eigenschaften (Eingabefelder) für den Metadatensatz f
 .. `(InVeKoS) <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/invekos.html>`_
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/typ_optionen.png
+   :width: 100%
 
 Abb.: Optionen für weitere Eigenschaften
 
