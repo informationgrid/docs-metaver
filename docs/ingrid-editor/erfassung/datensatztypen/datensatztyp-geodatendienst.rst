@@ -164,7 +164,7 @@ Abb.: Felder für Operationen
 Feld: Erstellungsmaßstab
 """""""""""""""""""""""""
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/atom-downloaddienst/fachbezug_erstellungsmaßstab.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/fachbezug_erstellungsmaßstab.png
 
 Abb.: Erstellungsmaßstab
 
@@ -176,7 +176,7 @@ Beispiel: Bodenauflösung: Auflösungseinheit in Linien/cm; Einheit: z.B. 1 cm g
 Felder: Systemumgebung & Historie
 """""""""""""""""""""""""""""""""
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/atom-downloaddienst/fachbezug_systemumgebung_historie.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/fachbezug_systemumgebung_historie.png
 
 Abb.: Felder "Systemumgebung und Historie"
 Feld Systemumgebung: Angaben zum Betriebssystem und der Software, ggf. auch Hardware, die zur Implementierung des Dienstes eingesetzt wird.
@@ -187,7 +187,7 @@ Feld Historie: Angaben zur Implementierungsgeschichte des Dienstes.
 Feld: Erläuterungen
 """""""""""""""""""
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/atom-downloaddienst/fachbezug_erlaeuterungen.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/fachbezug_erlaeuterungen.png
 
 Abb.: Feld "Erläuterungen"
 
@@ -204,7 +204,7 @@ Daten-Dienstekopplung
 Felder für Dargestellte Daten
 """""""""""""""""""""""""""""
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/datenkopplung/fachbezug_daten-dienste-kopplung_dargestellte-daten.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/fachbezug_daten-dienste-kopplung_dargestellte-daten.png
 
 Abb.: Felder für Dargestellte Daten
 
@@ -229,12 +229,12 @@ Die Art der Kopplung vom Service zu den Daten. Der Typ 'tight' bewirkt, dass ein
 Checkbox "Zugang geschützt"
 """""""""""""""""""""""""""
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug_zugang-geschuetzt.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/fachbezug_zugang-geschuetzt.png
    :width: 30%
 
 Abb.: Zugang geschützt
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug_zugang-geschuetzt-portal.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/fachbezug_zugang-geschuetzt-portal.png
    :width: 30%
 
 Abb.: Zugang geschützt in der Portalansicht
@@ -250,7 +250,7 @@ Abschnitt Zusatzinformation
 Feld: Konformität
 """""""""""""""""
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug_konformitaet.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/fachbezug_konformitaet.png
 
 Abb.: Konformität
 
