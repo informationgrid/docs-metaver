@@ -230,8 +230,8 @@ Feld: Kopplungstyp
 Die Art der Kopplung vom Service zu den Daten. Der Typ 'tight' bewirkt, dass ein Verweis zu einem Datensatz existieren muss.
 
 
-Option "Zugang geschützt"
-"""""""""""""""""""""""""""
+Option: Zugang geschützt
+""""""""""""""""""""""""
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/fachbezug_zugang-geschuetzt.png
    :width: 30%
