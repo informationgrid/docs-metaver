@@ -86,7 +86,7 @@ Feld: Klassifikation des Dienstes
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/fachbezug_klassifikation.png
    :width: 70%
 
-Abb.: Feld - Klassifikation des Dienstes
+Abb.: Feld "Klassifikation des Dienstes"
 
 `Auswahlliste - Klassifikation des Dienstes <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/auswahllisten/auswahlliste_fachbezug_geodatendienst_klassifikation.html>`_
 
@@ -102,7 +102,7 @@ In diesem Pflichtfeld kann die Art des Dienstes ausgewählt werden. Über das Fe
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/fachbezug_dienstart.png
    :width: 70%
 
-Abb.: Feld - Art des Dienstes
+Abb.: Feld "Art des Dienstes"
 
 Beispiel Darstellungsdienst: Dienst für den Zugriff auf grafische Daten
 
@@ -126,7 +126,7 @@ Bitte alle Versionen eintragen, die vom Dienst unterstützt werden.
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/fachbezug_dienstversion.png
    :width: 40%
 
-Abb.: Feld - Version des Dienstes
+Abb.: Feld "Version des Dienstes"
 
 Beispiele Darstellungsdienste: OGC: WMS 1.3.0, OGC: WMS 1.1.1, OGC: WMTS 1.0.0
 
@@ -139,7 +139,7 @@ Option: Als ATOM-Download Dienst bereitstellen
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/atom-downloaddienst/fachbezug_als-atomdownloaddienst-bereitstellen.png
    :width: 30%
 
-Abb.: Checkbox - Als ATOM-Download Dienst bereitstellen 
+Abb.: Checkbox "Als ATOM-Download Dienst bereitstellen"
 
 .. seealso:: Beschreibung der Funktion `Als ATOM-Download Dienst bereitstellen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/atom-feed/bereitstellung.html>`_
 
@@ -178,8 +178,7 @@ Felder: Systemumgebung & Historie
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/atom-downloaddienst/fachbezug_systemumgebung_historie.png
 
-Abb.: Felder Systemumgebung und Historie
-
+Abb.: Felder "Systemumgebung und Historie"
 Feld Systemumgebung: Angaben zum Betriebssystem und der Software, ggf. auch Hardware, die zur Implementierung des Dienstes eingesetzt wird.
 
 Feld Historie: Angaben zur Implementierungsgeschichte des Dienstes.
@@ -190,11 +189,11 @@ Feld: Erläuterungen
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/atom-downloaddienst/fachbezug_erlaeuterungen.png
 
-Abb.: Feld Erläuterungen
+Abb.: Feld "Erläuterungen"
 
 Zusätzliche Anmerkungen zu dem beschriebenen Dienst. Hier können weitergehende Angaben z. B. technischer Art gemacht werden, die zum Verständnis des Dienstes notwendig sind.
 
-.. note:: Beispiel: Der Datensatz ist eine Shape-Datei, die alle Grundwassermessstellen in Sachsen-Anhalt mit Lage und Kennung beinhaltet.
+Beispiel: Der Datensatz ist eine ...-Datei, die alle Grundwassermessstellen in (Ortsangabe) mit Lage und Kennung beinhaltet.
 
 
 -----------------------------------------------------------------------------------------------------------------------
@@ -202,103 +201,43 @@ Zusätzliche Anmerkungen zu dem beschriebenen Dienst. Hier können weitergehende
 Daten-Dienstekopplung
 ^^^^^^^^^^^^^^^^^^^^^
 
+Felder für Dargestellte Daten
+"""""""""""""""""""""""""""""
+
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/datenkopplung/fachbezug_daten-dienste-kopplung_dargestellte-daten.png
+
+Abb.: Felder für Dargestellte Daten
+
 Dargestellte Daten
 ''''''''''''''''''
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/datenkopplung/fachbezug_daten-dienste-kopplung_dargestellte-daten.png
+Beschreibung Herkunft und Art der zugrundeliegenden Daten. Bei einem OGC Web Service können Verweise auf ein oder mehrere Geodatensätze eingefügt werden, die mit dem Dienst verknüpft sind. Im Allgemeinen sind dies die Datensätze, auf die der Dienst aufgesetzt ist. Allgemein sollen die Herkunft oder die Ausgangsdaten der Daten beschrieben werden, die in dem Dienst benutzt, werden.
 
-Abb.: Dargestellte Daten
+Als bevorzugte Methode können über "Gekoppelte Daten auswählen" Geodatensätze aus dem gleichen Katalog ausgewählt werden oder externe Metadatensätze über einen GetRecordsByID HTTP-GET-Request referenziert werden. Bei der Angabe eines GetRecordsByID HTTP-GET-Request wird die Resource analysiert und zusätzlich noch der Titel und der Resource-Identfier ermittelt und gespeichert.
 
+Die Angabe eines Textes beschreibt die dargestellten Daten in Form eines Textes. Zusätzlich kann hier auch die Art der Daten (z. B. digital, automatisch ermittelt oder aus Umfrageergebnissen, Primärdaten, fehlerbereinigte Daten) angegeben werden.
 
-`Datenkopplung im Geodatensatz <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/objektklasse-geodatensatz.html#darstellender-dienst>`_
-
-
-Das Metadatenfeld „Dargestellte Daten“ bzw. „Gekoppelte Daten auswählen“ ist für den Objekttyp „Geodatendienst“ von besonderer Bedeutung. Ziel ist es, hier alle Metadatensätze zu Geodaten aufzulisten, die Bestandteil des Geodatendienstes sind. Auf diese Weise erfolgt eine Kopplung der Daten und Dienste und dieses wiederum hat den nutzerfreundlichen Vorteil, dass sich der User gefundene Daten sofort über einen Link (im Datensatz) im Kartenviewer ansehen kann (siehe Daten-Dienste-Kopplung).
-
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/datenkopplung/fachbezug_daten-dienste-kopplung_portalansicht.png
-
-Abb.: Datenkopplung in der Portalansicht
-
- 
-Datenkopplung
-'''''''''''''
-
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/datenkopplung/fachbezug_daten-dienste-kopplung_dargestellte-daten.png
-
-Abb.: Datenkopplung
-
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/datenkopplung/fachbezug_daten-dienste-kopplung_objekt-auswaehlen.png
-
-Abb.: Gekoppelte Daten auswählen
+..hint:: Ist die Option "Als ATOM-Download Dienst bereitstellen" ausgewählt, so muss darauf geachtet werden, dass die extern verkoppelten dargestellten Daten einen Downloadlink besitzen.
 
 
-Zum Eintragen von verknüpften Daten kann nun unterhalb der Tabelle auf den Button „Gekoppelte Daten auswählen“ geklickt werden. In dem daraufhin erscheinenden Dialog aus dem Hierarchiebaum bitte den Datensatz auswählen, der mit dem Dienst gekoppelt werden soll.
+Feld: Kopplungstyp
+''''''''''''''''''
 
-Mit einem Klick auf den Button „Zuweisen“ wird die gekoppelte Datensatz beim Dienst-Objekt eingetragen. Zeitgleich erhält der Datensatz automatisch einen Eintrag zum gekoppelten Dienst (Feld: "Darstellender Dienst"). 
-
-
-Kopplungstyp
-''''''''''''
-
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/datenkopplung/fachbezug_daten-dienste-kopplung_kopplungstyp.png
-
-Abb.: Kopplungstyp
-
-Die Art der Kopplung vom Dienst (Service) zu den Daten. Der Typ "tight" bewirkt, dass ein Verweis zu einem Datensatz existieren muss.
-
-Kopplungstypen: 
-
- - loose - Suchdienste
- - mixed - Suchdienste, kaskadierende Dienste
- - tight - Verweis zu einem Datensatz
-
-
-Bedingung für das Gelten dieser Konvention: Es besteht eine Verbindung zu einer ebenfalls mit Metadaten beschriebenen Datenquelle. In den Dienst-Metadaten ist neben den verknüpften Daten-Metadaten auch die Art der Kopplung anzugeben (ISO 19119, SV_CouplingType). Dabei sind die Werte „eng“ (tight), „gemischt“ (mixed) und „lose“ (loose) zulässig.
-
-Es ist davon auszugehen, dass in der Regel ein WMS „eng“ (tight), kaskadierende Dienste „gemischt“ (mixed) und Downloaddienste ebenfalls „eng“ (tight) gekoppelt sind. Je nach Struktur der Katalogtopologie können Suchdienste sowohl „lose“, „eng“ oder „gemischt“ gekoppelt sein
-
-*Quelle: GDI-DE, Konventionen zu Metadaten, Arbeitskreis Metadaten, 05.02.2020, Version: 2.0.3*
-
-
-
-Katalog-übergreifende Daten-Dienste-Kopplung
-''''''''''''''''''''''''''''''''''''''''''''
-
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/datenkopplung/fachbezug_daten-dienste-kopplung_externer-datensatz.png
-
-Abb.: Daten-Dienste-Kopplung
-
-Daten eines externen Metadatenkatalogs können mit Diensten der Objektklasse "Geodatendienst" gekoppelt werden. Die Kopplung ist bislang jedoch nur mit Datensätzen möglich, bei denen die Daten über einen Verweis vom Typ Datendownload zum Download bereitgestellt werden.
-
- 
-Die Kopplung wird für den Geodatendienst im InGrid-Editor in der Rubrik Fachbezug unter dem Punkt Dargestellte Daten eingetragen.
-
- 
-Nach einem Klick auf den Button „Gekoppelte Daten auswählen“ öffnet sich ein Dialogfenster. Liegt der Datensatz, mit dem der Dienst gekoppelt werden soll, in einem externen Metadatenkatalog vor, so ist die zweite Registerkarte „Externer Datensatz“ auszuwählen.
-
-Im Feld "GetRecordById URL" muss der GetRecordById-Request zum Aufruf des externen Datensatzes (XML-Dokument) angegeben werden.
-
-Beispiel für GetRecordById-Requests: https://www.host.de/csw?request=getrecordbyid&service=csw&version=2.0.2&id=fd218f68-d2b4-11d5-88c8-000102dccf41&elementsetname=full
-
-Über die Angabe dieses Requests wird die katalogübergreifende Daten-Dienste-Kopplung ermöglicht. Nach Eingabe der URL und Klick auf „Analysieren“ erfolgt eine Auswertung des XML-Dokumentes. Mit dem Button „Zuweisen“ wird der externe Datensatz mit dem Dienst gekoppelt.
-
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/datenkopplung/fachbezug_daten-dienste-kopplung_externer-datensatz.png
-
-Abb.: Detailansicht einer erfolgreichen Daten-Dienste-Kopplung im Portal am Beispiel des INSPIRE.WMS ST Schutzgebite Naturschutz.
+Die Art der Kopplung vom Service zu den Daten. Der Typ 'tight' bewirkt, dass ein Verweis zu einem Datensatz existieren muss.
 
 
 Checkbox "Zugang geschützt"
-'''''''''''''''''''''''''''
+"""""""""""""""""""""""""""
 
 .. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug_zugang-geschuetzt.png
-   :width: 200
+   :width: 30%
 
 Abb.: Zugang geschützt
 
 .. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug_zugang-geschuetzt-portal.png
-   :width: 300
+   :width: 30%
 
-Abb.: Zugang geschützt - Portalansicht
+Abb.: Zugang geschützt in der Portalansicht
 
 Die Checkbox "Zugang geschützt" sollte aktiviert werden, wenn der Zugang zu dem Dienst z.B. durch ein Passwort geschützt ist. Bei aktiviertem Kontrollkästchen wird kein direkter Link (Zeige Karte) aus dem Portal zu dem Dienst generiert. In der Portalansicht erscheint am Dienst eine Grafik als Vorhängeschloss.
 
@@ -308,8 +247,8 @@ Die Checkbox "Zugang geschützt" sollte aktiviert werden, wenn der Zugang zu dem
 Abschnitt Zusatzinformation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Konformität
-'''''''''''
+Feld: Konformität
+"""""""""""""""""
 
 .. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug_konformitaet.png
 
@@ -323,7 +262,3 @@ Dieses Feld wird bei der Auswahl der "INSPIRE-Themen" oder der "Art des Dienstes
 
 
 .. hint:: Die Abschnitte Raumbezugsystem, Zeitbezug, Zusatzinformation, Verfügbarkeit und Verweise sind ausführlich unter `Erfassung von Objekten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html>`_  beschrieben, da sie auf mehrere Metadatentypen zutreffen.
-
-
-
-
