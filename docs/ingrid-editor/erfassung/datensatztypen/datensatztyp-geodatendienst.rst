@@ -28,8 +28,8 @@ Erfassung
 Abschnitt Erweiterte Erfassung
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Der GetCapabilities-Assistent
-"""""""""""""""""""""""""""""
+Funktion: Der GetCapabilities-Assistent
+"""""""""""""""""""""""""""""""""""""""
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilties-assistent_symbol.png
    :width: 5%
@@ -80,8 +80,8 @@ Abschnitt Verschlagwortung
 Abschnitt Fachbezug
 ^^^^^^^^^^^^^^^^^^^
 
-Feld Klassifikation des Dienstes
-""""""""""""""""""""""""""""""""
+Feld: Klassifikation des Dienstes
+"""""""""""""""""""""""""""""""""
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/fachbezug_klassifikation.png
    :width: 70%
@@ -94,8 +94,8 @@ Abb.: Feld - Klassifikation des Dienstes
 Aus der vorgegebenen Auswahlliste ist der Eintrag zu wählen, der auf den Dienst zutrifft. Bei WebMapDiensten (WMS) kann beispielsweise „Dienst für den Zugriff auf grafische Darstellungen ausgewählt werden. Dieses Feld dient in erster Linie der Identifikation eines Dienstes durch den recherchierenden Nutzer. 
 
 
-Feld Art des Dienstes
-"""""""""""""""""""""
+Feld: Art des Dienstes
+""""""""""""""""""""""
 
 In diesem Pflichtfeld kann die Art des Dienstes ausgewählt werden. Über das Feld werden die zur weiteren Befüllung auszuwählenden Angaben zu Operationen gesteuert (siehe Tabelle unter Punkt: Name der Operation).
 
@@ -116,8 +116,8 @@ Beispiel Downloaddienst: Download-Dienste
 Beispiel: Darstellungsdienst (automatischer Eintrag in Konformität/Spezifikation: "Technical Guidance for the implementation of INSPIRE View Services")
 
 
-Feld Version des Dienstes
-""""""""""""""""""""""""
+Feld: Version des Dienstes
+""""""""""""""""""""""""""
 
 Angaben zur Version der Spezifikation, die dem Dienst zugrunde liegt
 
@@ -133,7 +133,7 @@ Beispiele Darstellungsdienste: OGC: WMS 1.3.0, OGC: WMS 1.1.1, OGC: WMTS 1.0.0
 Beispiele Downloaddienste: OGC: WFS 2.0, WFS 1.1.0, predefined ATOM
 
 
-Option Als ATOM-Download Dienst bereitstellen
+Option: Als ATOM-Download Dienst bereitstellen
 """""""""""""""""""""""""""""""""""""""""""""
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/atom-downloaddienst/fachbezug_als-atomdownloaddienst-bereitstellen.png
@@ -146,27 +146,25 @@ Bei aktivierter Option, wird dieser Datensatz im Portal als Download angeboten.
 .. seealso:: Beschreibung der Funktion `Als ATOM-Download Dienst bereitstellen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/atom-feed/bereitstellung.html>`_
 
 
-Der ATOM-Feed Client
-""""""""""""""""""""
+Anwendung: Der ATOM-Feed Client
+"""""""""""""""""""""""""""""""
 
 .. seealso:: Beschreibung des `Atom-Feed Clients <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/atom-feed/client.html>`_
 
 
-Operationen
-"""""""""""
+Feld: Operationen
+"""""""""""""""""
 
-Erfassung der Dienste URL.
+Die Eingabefelder für die Operationen wurden im neuen Editor vereinfacht. Im Feld "Name" muss die getCapabilitie-URL eingetragen werden, in das Feld "Beschreibung" wird die Bezeichnung für den Dienst eingetragen und in fas Feld "Zugriffs-URL" die entsprechende URL.
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/fachbezug_operation_aktualisieren.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/fachbezug_operationen.png
+   :width: 100%
 
-Abb.: Feld - Operationen
-
-.. seealso:: Bescheribung der Funktion `Operationen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/operationen/operationen_beschreibung.html>`_
-
+Abb.: Felder für Operationen
 
 
-Erstellungsmaßstab
-""""""""""""""""""
+Feld: Erstellungsmaßstab
+"""""""""""""""""""""""""
 
 .. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug_erstellungsmaßstab.png
 
@@ -177,8 +175,8 @@ Angabe des Erstellungsmaßstabes, der sich auf die erstellte Karte und/oder Digi
 Beispiel: Bodenauflösung: Auflösungseinheit in Linien/cm; Einheit: z.B. 1 cm geteilt durch 400 Linien multipliziert mit dem Maßstab 1:25.000 ergibt 62,5 cm als Bodenauflösung
 
 
-Systemumgebung
-""""""""""""""
+Feld: Systemumgebung
+""""""""""""""""""""
 
 .. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug_systemumgebung.png
 
@@ -187,8 +185,8 @@ Abb.: Erstellungsmaßstab
 Angaben zum Betriebssystem und der Software, ggf. auch Hardware, die zur Implementierung des Dienstes eingesetzt wird.
 
 
-Historie
-""""""""
+Feld: Historie
+""""""""""""""
 
 .. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug_historie.png
 
