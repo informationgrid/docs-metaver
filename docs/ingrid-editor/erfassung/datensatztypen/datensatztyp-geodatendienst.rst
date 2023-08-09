@@ -103,7 +103,7 @@ Beispiel Darstellungsdienst: Dienst für den Zugriff auf grafische Daten
 Beispiel Downloaddienst: Download-Dienste
 
 
-`Auswahlliste - Art des Dienstes <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_fachbezug_geodatendienst_art.html>`_
+`Auswahlliste - Art des Dienstes <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/auswahllisten/auswahlliste_fachbezug_geodatendienst_art.html>`_
 
 
 In diesem Pflichtfeld kann die Art des Dienstes ausgewählt werden. Über das Feld werden die zur weiteren Befüllung auszuwählenden Angaben zu Operationen gesteuert (siehe Tabelle unter Punkt: Name der Operation).
