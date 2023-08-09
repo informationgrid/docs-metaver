@@ -178,7 +178,7 @@ Beispiel: Bodenauflösung: Auflösungseinheit in Linien/cm; Einheit: z.B. 1 cm g
 
 
 Systemumgebung
-''''''''''''''
+""""""""""""""
 
 .. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug_systemumgebung.png
 
@@ -188,7 +188,7 @@ Angaben zum Betriebssystem und der Software, ggf. auch Hardware, die zur Impleme
 
 
 Historie
-''''''''
+""""""""
 
 .. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug_historie.png
 
