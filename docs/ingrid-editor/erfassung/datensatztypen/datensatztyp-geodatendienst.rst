@@ -34,7 +34,7 @@ Funktion: Der GetCapabilities-Assistent
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilties-assistent_symbol.png
    :width: 5%
    
-Abb.: GetCapabilitie-Assistent - Symbol (Zauberstab) aus der Symbolleiste
+Abb.: GetCapabilitie-Assistent - Symbol (Zauberstab) in der Symbolleiste
 
 .. seealso:: Hier wird die Erfassung von Metadaten mit dem `GetCapabilities-Assistent <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/erfassungsassistent/getcapabilitie-assistent.html>`_  beschrieben.
 
@@ -205,6 +205,7 @@ Felder für Dargestellte Daten
 """""""""""""""""""""""""""""
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/fachbezug_dargestellte-daten.png
+   :width: 100%
 
 Abb.: Felder für Dargestellte Daten
 
@@ -246,6 +247,7 @@ Feld: Konformität
 """""""""""""""""
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/zusatzinformation_konformitaet.png
+   :width: 100%
 
 Abb.: Konformität
 
