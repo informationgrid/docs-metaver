@@ -32,7 +32,7 @@ Der GetCapabilities-Assistent
 """""""""""""""""""""""""""""
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilties-assistent_symbol.png
-   :width: 50
+   :width: 5%
    
 Abb.: GetCapabilitie-Assistent - Symbol (Zauberstab) aus der Symbolleiste
 
@@ -83,6 +83,7 @@ Feld Klassifikation des Dienstes
 """"""""""""""""""""""""""""""""
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/fachbezug_klassifikation.png
+   :width: 70%
 
 Abb.: Feld - Klassifikation des Dienstes
 
@@ -98,7 +99,7 @@ Feld Art des Dienstes
 In diesem Pflichtfeld kann die Art des Dienstes ausgewählt werden. Über das Feld werden die zur weiteren Befüllung auszuwählenden Angaben zu Operationen gesteuert (siehe Tabelle unter Punkt: Name der Operation).
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/fachbezug_dienstart.png
-   :width: 80%
+   :width: 70%
 
 Abb.: Feld - Art des Dienstes
 
@@ -122,7 +123,7 @@ Angaben zur Version der Spezifikation, die dem Dienst zugrunde liegt
 Bitte alle Versionen eintragen, die vom Dienst unterstützt werden.
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/fachbezug_dienstversion.png
-   :width: 200
+   :width: 40%
 
 Abb.: Feld - Version des Dienstes
 
