@@ -136,7 +136,7 @@ Beispiele Downloaddienste: OGC: WFS 2.0, WFS 1.1.0, predefined ATOM
 Option Als ATOM-Download Dienst bereitstellen
 """""""""""""""""""""""""""""""""""""""""""""
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/atom-downloaddienst/fachbezug_als-atom-downloaddienst-bereitstellen.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/atom-downloaddienst/fachbezug_als-atomdownloaddienst-bereitstellen.png
    :width: 40%
 
 Abb.: Checkbox - Als ATOM-Download Dienst bereitstellen 
