@@ -82,7 +82,7 @@ Abschnitt Fachbezug
 Feld Klassifikation des Dienstes
 """"""""""""""""""""""""""""""""
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/fachbezug_klassifikation-des-dienstes.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/fachbezug_klassifikation.png
 
 Abb.: Feld - Klassifikation des Dienstes
 
