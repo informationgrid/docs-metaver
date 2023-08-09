@@ -137,6 +137,7 @@ Option Als ATOM-Download Dienst bereitstellen
 """""""""""""""""""""""""""""""""""""""""""""
 
 .. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/atom-downloaddienst/fachbezug_als-atom-downloaddienst-bereitstellen.png
+   :width: 40%
 
 Abb.: Checkbox - Als ATOM-Download Dienst bereitstellen 
 
@@ -152,7 +153,7 @@ Der ATOM-Feed Client
 
 
 Version des Dienstes
-''''''''''''''''''''
+""""""""""""""""""""
 
 .. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug_version-des-dienstes.png
 
