@@ -236,7 +236,7 @@ Option: Zugang geschützt
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/fachbezug_zugang-geschuetzt.png
    :width: 30%
 
-Abb.: Zugang geschützt
+Abb.: Option Zugang geschützt
 
 Die Option "Zugang geschützt" sollte aktiviert werden, wenn der Zugang zu dem Dienst z.B. durch ein Passwort geschützt ist. Bei aktiviertem Kontrollkästchen wird kein direkter Link (Zeige Karte) aus dem Portal zu dem Dienst generiert. In der Portalansicht erscheint am Dienst eine Grafik als Vorhängeschloss.
 
