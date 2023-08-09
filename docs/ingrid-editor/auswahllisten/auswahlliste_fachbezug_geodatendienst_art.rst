@@ -1,6 +1,6 @@
 
-Art des Dienstes
-================
+Auswahlliste Art des Dienstes
+=============================
 
 - Darstellungsdienste
 - Dienste zum Abrufen von Geodatendiensten	
