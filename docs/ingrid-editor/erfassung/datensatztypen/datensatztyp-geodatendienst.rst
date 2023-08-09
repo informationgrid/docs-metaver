@@ -100,6 +100,7 @@ Feld Art des Dienstes
 Abb.: Feld - Art des Dienstes
 
 Beispiel Darstellungsdienst: Dienst für den Zugriff auf grafische Daten
+
 Beispiel Downloaddienst: Download-Dienste
 
 
@@ -129,6 +130,7 @@ Bitte alle Versionen eintragen, die vom Dienst unterstützt werden.
 Abb.: Feld - Version des Dienstes
 
 Beispiele Darstellungsdienste: OGC: WMS 1.3.0, OGC: WMS 1.1.1, OGC: WNTS 1.0.0
+
 Beispiele Downloaddienste: OGC: WFS 1.1.0, predefined ATOM
 
 
