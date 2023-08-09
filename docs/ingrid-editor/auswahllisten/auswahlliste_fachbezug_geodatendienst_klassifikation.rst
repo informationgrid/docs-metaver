@@ -15,9 +15,9 @@ Auswahlliste Klassifikation des Dienstes
  - Bildsynthesedienste
  - Codierungsdienst
  - Dauerauftragsdienst
- - **Dienst für den Zugriff auf externe Daten und Programme (Atom)**
+ - **Dienst für den Zugriff auf externe Daten und Programme (ATOM)**
  - **Dienst für den Zugriff auf grafische Darstellungen (WMS)**
- - **Dienst für den Zugriff auf Objektarten (Atom)**
+ - **Dienst für den Zugriff auf Objektarten (ATOM)**
  - **Dienst für den Zugriff auf Objekte (WFS)**
  - Dienst für den Zugriff auf Produkte
  - Dienst für den Zugriff auf Rasterdaten
