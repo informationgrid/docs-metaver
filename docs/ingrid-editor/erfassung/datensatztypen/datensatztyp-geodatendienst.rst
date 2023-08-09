@@ -152,23 +152,8 @@ Der ATOM-Feed Client
 .. seealso:: Beschreibung des `Atom-Feed Clients <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/atom-feed/client.html>`_
 
 
-Version des Dienstes
-""""""""""""""""""""
-
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug_version-des-dienstes.png
-
-Abb.: Feld - Version des Dienstes
-
-`Auswahlliste - Version des Dienstes <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_fachbezug_geodatendienst_version.html>`_
-
-Angaben zu Version der dem Dienst zugrunde liegenden Spezifikation. Bitte alle Versionen eintragen, die vom Dienst unterstützt werden.
-
-
-Beispiel: OGC: WMS 1.3.0
-
-
 Operationen
-'''''''''''
+"""""""""""
 
 Erfassung der Dienste URL.
 
@@ -176,14 +161,14 @@ Erfassung der Dienste URL.
 
 Abb.: Feld - Operationen
 
-`Hier werden die Operationen ausführlich beschrieben. <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/operationen/operationen_beschreibung.html>`_
+.. seealso:: Bescheribung der Funktion `Operationen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/operationen/operationen_beschreibung.html>`_
 
 
 
 Erstellungsmaßstab
-''''''''''''''''''
+""""""""""""""""""
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug_erstellungsmassstab.png
+.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug_erstellungsmaßstab.png
 
 Abb.: Erstellungsmaßstab
 
