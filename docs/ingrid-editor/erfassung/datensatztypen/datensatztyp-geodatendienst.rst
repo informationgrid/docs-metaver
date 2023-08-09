@@ -6,7 +6,7 @@ Geodatendienst
     :header: "Portal", "Editor"
     :widths: 20, 20
 
-    .. image:: ../../../img/ige/icons/datensatztypen/portal/geodatendienst.png, .. image:: ../../../img/ige/icons/datensatztypen/ige/geodatendienst.png
+    .. figure:: ../../../img/ige/icons/datensatztypen/portal/geodatendienst.png, .. image:: ../../../img/ige/icons/datensatztypen/ige/geodatendienst.png
 
 Ein Geodatendienst ist ein in der Regel über das Internet angebotener Dienst, mit dessen Hilfe man Geodaten anschauen, einbinden, bearbeiten oder abfragen kann. Geodatendienste sind Webservices, die raumbezogene Informationen verarbeiten und vom Open Geospatial Consortium (OGC) auf Basis von ISO-Normen international standardisiert wurden.
 
@@ -51,19 +51,9 @@ Unter Typ können weitere Eigenschaften (Eingabefelder) für den Metadatensatz f
 
 .. `(InVeKoS) <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/invekos.html>`_
 
-.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/typ_optionen.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/typ_optionen.png
 
 Abb.: Optionen für weitere Eigenschaften
-
-
-Feld: Datensatz/Datenserie
-""""""""""""""""""""""""""
-
-Es wird unterschieden, ob es sich bei den beschriebenen Daten um einen einzelnen Datensatz mit bestimmtem räumlichen Bezug oder um eine Datenserie mit einheitlichem thematischen Bezug und mehreren Datensätzen mit unterschiedlichem räumlichen Bezug handelt.
-
-.. image:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/fachbezug_datensatz-datenserie.png
- 
-Abb.: Auswahlfeld Datensatz / Datenserie
 
 
 -----------------------------------------------------------------------------------------------------------------------
@@ -89,12 +79,10 @@ Abschnitt Verschlagwortung
 Abschnitt Fachbezug
 ^^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-04_fachbezug/ige-abschnitt_fachbezug.png
-
 Klassifikation des Dienstes
-'''''''''''''''''''''''''''
+"""""""""""""""""""""""""""
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug_klassifikation-des-dienstes.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/fachbezug_klassifikation-des-dienstes.png
 
 Abb.: Feld - Klassifikation des Dienstes
 
