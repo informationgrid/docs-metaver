@@ -165,6 +165,7 @@ Feld: Erstellungsmaßstab
 """""""""""""""""""""""""
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/fachbezug_erstellungsmassstab.png
+   :width: 100%
 
 Abb.: Erstellungsmaßstab
 
@@ -177,6 +178,7 @@ Felder: Systemumgebung & Historie
 """""""""""""""""""""""""""""""""
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/fachbezug_systemumgebung_historie.png
+   :width: 100%
 
 Abb.: Felder "Systemumgebung und Historie"
 Feld Systemumgebung: Angaben zum Betriebssystem und der Software, ggf. auch Hardware, die zur Implementierung des Dienstes eingesetzt wird.
@@ -188,6 +190,7 @@ Feld: Erläuterungen
 """""""""""""""""""
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/fachbezug_erlaeuterungen.png
+   :width: 100%
 
 Abb.: Feld "Erläuterungen"
 
