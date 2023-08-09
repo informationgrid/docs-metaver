@@ -33,7 +33,7 @@ Der GetCapabilities-Assistent
    
 Abb.: GetCapabilitie-Assistent - Symbol (Zauberstab) aus der Symbolleiste
 
-Hier wird die Erfassung von Metadaten mit dem `GetCapabilities-Assistent <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/erfassungsassistent/getcapabilitie-assistent.html>`_  beschrieben.
+.. seealso:: Hier wird die Erfassung von Metadaten mit dem `GetCapabilities-Assistent <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/erfassungsassistent/getcapabilitie-assistent.html>`_  beschrieben.
 
 
 -----------------------------------------------------------------------------------------------------------------------
