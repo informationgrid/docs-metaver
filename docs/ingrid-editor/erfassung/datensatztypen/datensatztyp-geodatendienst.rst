@@ -212,8 +212,8 @@ Felder für Dargestellte Daten
 
 Abb.: Felder für Dargestellte Daten
 
-Dargestellte Daten
-''''''''''''''''''
+Feld: Dargestellte Daten
+''''''''''''''''''''''''
 
 Beschreibung Herkunft und Art der zugrundeliegenden Daten. Bei einem OGC Web Service können Verweise auf ein oder mehrere Geodatensätze eingefügt werden, die mit dem Dienst verknüpft sind. Im Allgemeinen sind dies die Datensätze, auf die der Dienst aufgesetzt ist. Allgemein sollen die Herkunft oder die Ausgangsdaten der Daten beschrieben werden, die in dem Dienst benutzt, werden.
 
@@ -230,7 +230,7 @@ Feld: Kopplungstyp
 Die Art der Kopplung vom Service zu den Daten. Der Typ 'tight' bewirkt, dass ein Verweis zu einem Datensatz existieren muss.
 
 
-Checkbox "Zugang geschützt"
+Option "Zugang geschützt"
 """""""""""""""""""""""""""
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/fachbezug_zugang-geschuetzt.png
@@ -238,7 +238,7 @@ Checkbox "Zugang geschützt"
 
 Abb.: Zugang geschützt
 
-Die Checkbox "Zugang geschützt" sollte aktiviert werden, wenn der Zugang zu dem Dienst z.B. durch ein Passwort geschützt ist. Bei aktiviertem Kontrollkästchen wird kein direkter Link (Zeige Karte) aus dem Portal zu dem Dienst generiert. In der Portalansicht erscheint am Dienst eine Grafik als Vorhängeschloss.
+Die Option "Zugang geschützt" sollte aktiviert werden, wenn der Zugang zu dem Dienst z.B. durch ein Passwort geschützt ist. Bei aktiviertem Kontrollkästchen wird kein direkter Link (Zeige Karte) aus dem Portal zu dem Dienst generiert. In der Portalansicht erscheint am Dienst eine Grafik als Vorhängeschloss.
 
 
 -----------------------------------------------------------------------------------------------------------------------
