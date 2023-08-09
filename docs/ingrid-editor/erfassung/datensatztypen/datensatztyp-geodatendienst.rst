@@ -79,8 +79,8 @@ Abschnitt Verschlagwortung
 Abschnitt Fachbezug
 ^^^^^^^^^^^^^^^^^^^
 
-Klassifikation des Dienstes
-"""""""""""""""""""""""""""
+Feld Klassifikation des Dienstes
+""""""""""""""""""""""""""""""""
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/fachbezug_klassifikation-des-dienstes.png
 
@@ -92,12 +92,16 @@ Abb.: Feld - Klassifikation des Dienstes
 Aus der vorgegebenen Auswahlliste ist der Eintrag zu wählen, der auf den Dienst zutrifft. Bei WebMapDiensten (WMS) kann beispielsweise „Dienst für den Zugriff auf grafische Darstellungen ausgewählt werden. Dieses Feld dient in erster Linie der Identifikation eines Dienstes durch den recherchierenden Nutzer. 
 
 
-Art des Dienstes
-''''''''''''''''
+Feld Art des Dienstes
+"""""""""""""""""""""
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug_version-des-dienstes.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/fachbezug_dienstart.png
 
 Abb.: Feld - Art des Dienstes
+
+Beispiel Darstellungsdienst: Dienst für den Zugriff auf grafische Daten
+Beispiel Downloaddienst: Download-Dienste
+
 
 `Auswahlliste - Art des Dienstes <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_fachbezug_geodatendienst_art.html>`_
 
@@ -113,8 +117,23 @@ Beispiel: Darstellungsdienst (automatischer Eintrag in Konformität/Spezifikatio
 .. hint:: Die Auswahl der Dienstart hat Auswirkungen auf das Feld Konformität. Je nach gewählter Art des Dienstes wird das Feld Konformität schon vorbelegt.
 
 
-Als ATOM-Download Dienst bereitstellen
-''''''''''''''''''''''''''''''''''''''
+Feld Version des Dienstes
+""""""""""""""""""""""""
+
+Angaben zur Version der Spezifikation, die dem Dienst zugrunde liegt
+
+Bitte alle Versionen eintragen, die vom Dienst unterstützt werden.
+
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/fachbezug_dienstversion.png
+
+Abb.: Feld - Version des Dienstes
+
+Beispiele Darstellungsdienste: OGC: WMS 1.3.0, OGC: WMS 1.1.1, OGC: WNTS 1.0.0
+Beispiele Downloaddienste: OGC: WFS 1.1.0, predefined ATOM
+
+
+Option Als ATOM-Download Dienst bereitstellen
+"""""""""""""""""""""""""""""""""""""""""""""
 
 .. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/atom-downloaddienst/fachbezug_atom-downloaddienst-bereitstellen.png
 
