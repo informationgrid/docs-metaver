@@ -95,6 +95,8 @@ Aus der vorgegebenen Auswahlliste ist der Eintrag zu wählen, der auf den Dienst
 Feld Art des Dienstes
 """""""""""""""""""""
 
+In diesem Pflichtfeld kann die Art des Dienstes ausgewählt werden. Über das Feld werden die zur weiteren Befüllung auszuwählenden Angaben zu Operationen gesteuert (siehe Tabelle unter Punkt: Name der Operation).
+
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/fachbezug_dienstart.png
 
 Abb.: Feld - Art des Dienstes
@@ -105,9 +107,6 @@ Beispiel Downloaddienst: Download-Dienste
 
 
 `Auswahlliste - Art des Dienstes <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/auswahllisten/auswahlliste_fachbezug_geodatendienst_art.html>`_
-
-
-In diesem Pflichtfeld kann die Art des Dienstes ausgewählt werden. Über das Feld werden die zur weiteren Befüllung auszuwählenden Angaben zu Operationen gesteuert (siehe Tabelle unter Punkt: Name der Operation).
 
 .. hint:: Die Auswahl der Dienstart hat Auswirkungen auf das Feld Konformität. Je nach gewählter Art des Dienstes wird das Feld Konformität schon vorbelegt (gilt nicht für alle Dienstarten).
 
@@ -125,7 +124,7 @@ Bitte alle Versionen eintragen, die vom Dienst unterstützt werden.
 
 Abb.: Feld - Version des Dienstes
 
-Beispiele Darstellungsdienste: OGC: WMS 1.3.0, OGC: WMS 1.1.1, OGC: WNTS 1.0.0
+Beispiele Darstellungsdienste: OGC: WMS 1.3.0, OGC: WMS 1.1.1, OGC: WMTS 1.0.0
 
 Beispiele Downloaddienste: OGC: WFS 1.1.0, predefined ATOM
 
