@@ -138,15 +138,15 @@ Option Als ATOM-Download Dienst bereitstellen
 
 Abb.: Checkbox - Als ATOM-Download Dienst bereitstellen 
 
-Bei aktivierter Option, wird dieser Datensatz im Portal als Download angeboten. Zusätzlich wird die in den Katalogeinstellungen hinterlegte "ATOM-Downloadservice-URL" automatisch in das ISO-Format unter "distributionInfo/*/linkage" abgebildet.
+Bei aktivierter Option, wird dieser Datensatz im Portal als Download angeboten.
 
-`Ausführliche Beschreibung - Bereitstellung als ATOM-Download Dienst <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/atom-feed/bereitstellung.html>`_
+.. seealso:: `Beschreibung - Als ´ATOM-Download Dienst <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/atom-feed/bereitstellung.html>`_ bereitstellen.
 
 
 Der ATOM-Feed Client
-''''''''''''''''''''
+""""""""""""""""""""
 
-`Beschreibung des Atom-Feed Clients <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/atom-feed/client.html>`_
+.. seealso:: Beschreibung des `Atom-Feed Clients <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/atom-feed/client.html>`_
 
 
 Version des Dienstes
