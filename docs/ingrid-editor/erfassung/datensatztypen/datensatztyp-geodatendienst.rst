@@ -164,7 +164,7 @@ Abb.: Felder für Operationen
 Feld: Erstellungsmaßstab
 """""""""""""""""""""""""
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug_erstellungsmaßstab.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/atom-downloaddienst/fachbezug_erstellungsmaßstab.png
 
 Abb.: Erstellungsmaßstab
 
@@ -173,35 +173,24 @@ Angabe des Erstellungsmaßstabes, der sich auf die erstellte Karte und/oder Digi
 Beispiel: Bodenauflösung: Auflösungseinheit in Linien/cm; Einheit: z.B. 1 cm geteilt durch 400 Linien multipliziert mit dem Maßstab 1:25.000 ergibt 62,5 cm als Bodenauflösung
 
 
-Feld: Systemumgebung
-""""""""""""""""""""
+Felder: Systemumgebung & Historie
+"""""""""""""""""""""""""""""""""
 
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug_systemumgebung.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/atom-downloaddienst/fachbezug_systemumgebung_historie.png
 
-Abb.: Erstellungsmaßstab
+Abb.: Felder Systemumgebung und Historie
 
-Angaben zum Betriebssystem und der Software, ggf. auch Hardware, die zur Implementierung des Dienstes eingesetzt wird.
+Feld Systemumgebung: Angaben zum Betriebssystem und der Software, ggf. auch Hardware, die zur Implementierung des Dienstes eingesetzt wird.
 
-
-Feld: Historie
-""""""""""""""
-
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug_historie.png
-
-Abb.: Historie
-
-Angaben zur Implementierungsgeschichte des Dienstes.
+Feld Historie: Angaben zur Implementierungsgeschichte des Dienstes.
 
 
-Beispiel: 11.12.03: Installation des UMN Mapserver 3.0 auf Linux 2.2.005.04.04: Upgrade Linux 2.2.0 auf Linux 2.6.0 Modellversuch beim Gewerbeaufsichtsamt Osnabrück 1991; Einführung 1993
+Feld: Erläuterungen
+"""""""""""""""""""
 
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/atom-downloaddienst/fachbezug_erlaeuterungen.png
 
-Erläuterungen
-'''''''''''''
-
-.. figure:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug_erlaeuterungen.png
-
-Abb.: Erläuterungen
+Abb.: Feld Erläuterungen
 
 Zusätzliche Anmerkungen zu dem beschriebenen Dienst. Hier können weitergehende Angaben z. B. technischer Art gemacht werden, die zum Verständnis des Dienstes notwendig sind.
 
