@@ -27,5 +27,3 @@ Katalogdienst
 ^^^^^^^^^^^^^
 
  - CSW - Catalogue Service for the Web (Internet-gestützte Veröffentlichung von Informationen über Geoanwendungen, Geodienste und Geodaten (Metadaten) in einer Geodateninfrastruktur.)
-
- Test
