@@ -2,6 +2,8 @@
 Auswahlliste Art des Dienstes
 =============================
 
+(Beispiele)
+
  - **Darstellungsdienst**
   - WMS - Web Map Service
   - WMTS - Web Map Tile Service
