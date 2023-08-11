@@ -60,4 +60,4 @@ Abb.: `ATOM-Feed Client Hansestadt Hamburg <https://metaver.de/search/dls/?partn
 Abb.: `ATOM-Feed Client Sachsen-Anhalt <https://metaver.de/search/dls/?partner=st>`_
 
 
-.. hint:: Bei Änderungen in der URL den ATOM-Feed Client mit der Taste F5 neu laden. 
+.. hint:: Wird die URL im InGrid Editor geändert, muss der ATOM-Feed im ATOM-Feed Client mit der Taste F5 neu geladen werden. 
