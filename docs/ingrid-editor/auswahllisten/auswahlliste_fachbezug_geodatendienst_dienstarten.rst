@@ -2,12 +2,12 @@
 Auswahlliste Art des Dienstes
 =============================
 
-(Beispiele)
+(Beispiele für die Zuordnung)
 
  - **Darstellungsdienst**
   - WMS - Web Map Service
   - WMTS - Web Map Tile Service
-  
+
  - **Downloaddienst**
   - WFS - Web Feature Service
   - WCS - Web Coverage Service
