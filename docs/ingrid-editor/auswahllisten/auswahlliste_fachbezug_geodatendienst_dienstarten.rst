@@ -2,10 +2,10 @@
 Auswahlliste Dienstarten
 ------------------------
 
- - **Darstellungsdienste**
+ - **Darstellungsdienst**
   - WMS - Web Map Service
   - WMTS - Web Map Tile Service
- - **Downloaddienste**
+ - **Downloaddienst**
   - WFS - Web Feature Service
   - WCS - Web Coverage Service
   - WCS-T - Web Coverage Service - Transaktion
