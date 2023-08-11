@@ -60,4 +60,4 @@ Abb.: `ATOM-Feed Client Hansestadt Hamburg <https://metaver.de/search/dls/?partn
 Abb.: `ATOM-Feed Client Sachsen-Anhalt <https://metaver.de/search/dls/?partner=st>`_
 
 
-.. hint:: Änderungen in der URL des ATOM-Feed Clients mit der Taste F5 (Seite neu laden) abschließen. 
+.. hint:: Bei Änderungen in der URL den ATOM-Feed Client mit der Taste F5 neu laden. 
