@@ -1,6 +1,6 @@
 
-Auswahlliste Dienstarten
-------------------------
+Auswahlliste Art des Dienstes
+-----------------------------
 
  - **Darstellungsdienst**
   - WMS - Web Map Service
