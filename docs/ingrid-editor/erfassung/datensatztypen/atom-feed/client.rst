@@ -1,5 +1,5 @@
 
-Der ATOM-Feed Client +
+Der ATOM-Feed Client
 ^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/atom-feed-client/atom-feed-client.png
