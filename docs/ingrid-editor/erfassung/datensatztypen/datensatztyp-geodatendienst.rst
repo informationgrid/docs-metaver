@@ -106,7 +106,7 @@ Beispiel Darstellungsdienst: Dienst für den Zugriff auf grafische Daten
 Beispiel Downloaddienst: Download-Dienste
 
 
-`Auswahlliste - Art des Dienstes <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/auswahllisten/auswahlliste_fachbezug_geodatendienst_art.html>`_
+`Auswahlliste - Art des Dienstes <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/auswahllisten/auswahlliste_fachbezug_geodatendienst_dienstart.html>`_
 
 .. hint:: Die Auswahl der Dienstart hat Auswirkungen auf das Feld Konformität. Je nach gewählter Art des Dienstes wird das Feld Konformität schon vorbelegt (gilt nicht für alle Dienstarten).
 
