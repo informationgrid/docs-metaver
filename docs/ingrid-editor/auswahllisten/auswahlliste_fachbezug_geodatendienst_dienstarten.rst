@@ -12,4 +12,4 @@ Auswahlliste Dienstarten
   - Atom-Feed - Web-Feeds im XML-Format
  - **Suchdienst**
  - **Transformationsdienst**
-  - WCTS - Web-Coordinate-Transformation-Servcice 
+  - WCTS - Web-Coordinate-Transformation-Service 
