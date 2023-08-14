@@ -15,33 +15,42 @@ Nutzer können einen ATOM-Feed abonnieren und sie können mit Hilfe eines ATOM-F
 Ein ATOM-Feed ermöglicht, mit Hilfe eines ATOM-Feed-Readers oder des `ATOM-Feed Clients <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/ATOM-feed/client.html>`_, eine plattformunabhängige Beschreibung und den Download von (Geo-) Daten.
 
 
-Erfassung eines externen ATOM-Feeds
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Abschnitt Fachbezug
+^^^^^^^^^^^^^^^^^^^
+
+Erfassung/Erzeugung eines ATOM-Feeds
+""""""""""""""""""""""""""""""""""""
 
 Folgende Voraussetzungen müssen erfüllt sein, damit ATOM-Feeds erstellt und über den `ATOM-Feed Client <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/ATOM-feed/client.html>`_ bereitgestellt werden können:
 
-Folgende Bedingungen müssen erfüllt sein, damit ein ATOM-Feed im ATOM-Feed Client erscheint:
+**a) Kopplung des Geodatendienstes mit einem Geodatensatz**
+
+  1. Als *Klassifikation des Dienstes* muss "Dienst für den Zugriff auf Objekte" ausgewählt werden.
+  2. Als *Art des Dienstes* muss "Download-Dienste" ausgewählt werden.
+  3. Als *Version des Dienstes* muss "predefined ATOM" ausgewählt werden.
+  4. Es muss die Option "Als ATOM-Download Dienst bereitstellen" aktiviert sein.
+  5. Als *Dargestellte Daten" muss "Geodatensatz auswählen" ausgewählt werden.
+  6. Als *Kopplungstyp* muss "tight" angegeben sein.
+  7. Aus der erscheinenden Ordnerstruktur muss der entsprechende Geodatensatz ausgewählt werden, mit dem der Downloaddienst gekoppelt werden soll.
+  8. Dieser Geodatensatz muss mindestens einen Verweis vom *Typ* "Datendownload" besitzen.
+  9. (Ein angeschlossenes InGrid iPlug-DSC muss die Daten indexiert haben.)
 
 
-**a) Kopplung des Dienstes mit einem Geodatensatz**
+**b) Kopplung des Geodatendienstes mit einem externem Geodatensatz**
 
-  1. Der anzuzeigende Service muss von der Art “Download-Dienste” sein.
-  2. Es muss die Option “Als ATOM-Download Dienst bereitstellen” aktiviert sein.
-  3. Es muss mindestens eine Referenz auf ein Objekt vom Typ “Geodatensatz” vorhanden sein.
-  4. Dieser Geodatensatz muss mindestens einen Verweis vom Typ “Download” besitzen.
-  5. Ein angeschlossenes iPlug-DSC muss die Daten des IGC indexiert haben.
-
-
-**b) Kopplung des Dienstes mit einem externem Geodatensatz**
-
-  1. Der anzuzeigende Service muss von der Art “Download-Dienste” sein.
-  2. Es muss die Option “Als ATOM-Download Dienst bereitstellen” aktiviert sein.
-  3. Es muss mindestens ein externer Datensatz in den “gekoppelten Daten” hinzugefügt werden.
-  4. Dieser Datensatz muss als URL die Zeichenkette “REQUEST=GetRecordById” enthalten.
-  5. Ein angeschlossenes iPlug-DSC muss die Daten des IGC indexiert haben.
+  1. Als *Klassifikation des Dienstes* muss "Dienst für den Zugriff auf externe Daten und Programme" gewählt werden.
+  2. Als *Art des Dienstes* muss "Download-Dienste" ausgewählt werden.
+  3. Als *Version des Dienstes* muss "predefined ATOM" gewählt werden.
+  4. Es muss die Option "Als ATOM-Download Dienst bereitstellen" aktiviert sein.
+  5. Als *Dargestellte Daten* muss "Geodatensatz auswählen" ausgewählt werden. 
+  6. Als *Kopplungstyp* muss "tight" angegeben sein.
+  7. In dem erscheinenden Fenster muss die URL zum entsprechenden Geodatensatz eingetragen werden, mit dem der Downloaddienst gekoppelt werden soll.
+  8. Dieser Geodatensatz muss als URL die Zeichenkette "REQUEST=GetRecordById" enthalten.
+  9. Ein angeschlossenes iPlug-DSC muss die Daten des IGC indexiert haben.
+  10. (Ein angeschlossenes InGrid iPlug-DSC muss die Daten indexiert haben.)
 
 
-**c) Direkter Verweis auf einen externem Datensatz**
+**c) Direkter Verweis auf einen externem Geodatensatz**
 
   1. Der anzuzeigende Service muss von der Art “Download-Dienste” sein.
   2. Es muss die Option “Als ATOM-Download Dienst bereitstellen” aktiviert sein.
