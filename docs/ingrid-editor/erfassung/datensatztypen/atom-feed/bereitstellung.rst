@@ -24,9 +24,9 @@ Abschnitt Fachbezug
 Erfassung/Erzeugung eines ATOM-Feeds
 """"""""""""""""""""""""""""""""""""
 
-Folgende Voraussetzungen müssen erfüllt sein, damit ATOM-Feeds erstellt und über den `ATOM-Feed Client <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/ATOM-feed/client.html>`_ bereitgestellt werden können:
+Folgende Voraussetzungen müssen erfüllt sein, damit ATOM-Feeds erstellt und über den `ATOM-Feed Client <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/ATOM-feed/client.html>`_ bereitgestellt werden können.
 
-Die Felder im Abschnitt Fachbezug müssen wie folgt befüllt werden:
+Die Felder (im Abschnitt Fachbezug) müssen wie folgt befüllt werden:
 
 **a) Option: Kopplung des Geodatendienstes mit einem Geodatensatz aus dem gleichen Katalog**
 
