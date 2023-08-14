@@ -26,41 +26,45 @@ Erfassung/Erzeugung eines ATOM-Feeds
 
 Folgende Voraussetzungen müssen erfüllt sein, damit ATOM-Feeds erstellt und über den `ATOM-Feed Client <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/ATOM-feed/client.html>`_ bereitgestellt werden können:
 
-**a) Kopplung des Geodatendienstes mit einem Geodatensatz aus dem gleichen Katalog**
+Die Felder im Abschnitt Fachbezug müssen wie folgt befüllt werden:
 
-  1. Als *Klassifikation des Dienstes* muss "Dienst für den Zugriff auf Objekte" ausgewählt werden.
-  2. Als *Art des Dienstes* muss "Download-Dienste" ausgewählt werden.
-  3. Als *Version des Dienstes* muss "predefined ATOM" ausgewählt werden.
-  4. Es muss die *Option* "Als ATOM-Download Dienst bereitstellen" aktiviert sein.
-  5. Unter *Operationen* müssen als *Name* "Get Download Service Metadata" gewählt, die Beschreibung eingetragen und eine entsprechende URL eingetragen werden.
-  6. Als *Dargestellte Daten* muss "Geodatensatz auswählen" ausgewählt werden.
-  7. Als *Kopplungstyp* muss "tight" angegeben sein.
-  8. Aus der erscheinenden Ordnerstruktur muss der entsprechende Geodatensatz ausgewählt werden, mit dem der Downloaddienst gekoppelt werden soll.
-  9. Dieser Geodatensatz muss mindestens einen Verweis vom *Typ* "Datendownload" besitzen.
+**a) Option: Kopplung des Geodatendienstes mit einem Geodatensatz aus dem gleichen Katalog**
+
+  1. Klassifikation des Dienstes: Dienst für den Zugriff auf Objekte
+  2. Art des Dienstes: Download-Dienste
+  3. Version des Dienstes: predefined ATOM
+  4. Option: "Als ATOM-Download Dienst bereitstellen" muss aktiviert sein.
+  5. Operationen Name: Get Download Service Metadata, Beschreibung: eingetragen, Zugriffs-URL: entsprechende URL eintragen
+  6. Dargestellte Daten: Geodatensatz
+  7. Kopplungstyp: tight"
+  8. Aus der Ordnerstruktur muss der entsprechende Geodatensatz ausgewählt werden, mit dem der Downloaddienst gekoppelt werden soll.
+  9. Dieser Geodatensatz muss mindestens einen Verweis vom Typ "Datendownload" besitzen.
   10. InGrid muss die Daten eingelesen (indexiert) haben.
 
 
-**b) Kopplung des Geodatendienstes mit einem externem Geodatensatz**
+**b) Option: Kopplung des Geodatendienstes mit einem externem Geodatensatz**
 
-  1. Als *Klassifikation des Dienstes* muss "Dienst für den Zugriff auf externe Daten und Programme" gewählt werden.
-  2. Als *Art des Dienstes* muss "Download-Dienste" ausgewählt werden.
-  3. Als *Version des Dienstes* muss "predefined ATOM" gewählt werden.
-  4. Es muss die *Option* "Als ATOM-Download Dienst bereitstellen" aktiviert sein.
-  5. Unter *Operationen* müssen als *Name* "Get Download Service Metadata" gewählt, die Beschreibung eingetragen und eine entsprechende URL eingetragen werden.
-  6. Als *Dargestellte Daten* muss "Geodatensatz auswählen" ausgewählt werden. 
-  7. Als *Kopplungstyp* muss "tight" angegeben sein.
+
+  1. Klassifikation des Dienstes: Dienst für den Zugriff auf Objekte
+  2. Art des Dienstes: Download-Dienste
+  3. Version des Dienstes: predefined ATOM
+  4. Option: "Als ATOM-Download Dienst bereitstellen" muss aktiviert sein.
+  5. Operationen Name: Get Download Service Metadata, Beschreibung: eingetragen, Zugriffs-URL: entsprechende URL eintragen
+  6. Dargestellte Daten: Geodatensatz
+  7. Kopplungstyp: tight"
   8. In dem erscheinenden Fenster muss die URL zum entsprechenden Geodatensatz eingetragen werden, mit dem der Downloaddienst gekoppelt werden soll.
   9. Dieser Geodatensatz muss als URL die Zeichenkette "REQUEST=GetRecordById" enthalten.
   10. InGrid muss die Daten eingelesen (indexiert) haben.
 
 
-**c) Direkter Verweis auf einen externem Geodatensatz**
 
-  1. Als *Klassifikation des Dienstes* muss "Dienst für den Zugriff auf externe Daten und Programme" gewählt werden.
-  2. Als *Art des Dienstes* muss "Download-Dienste" ausgewählt werden.
-  3. Als *Version des Dienstes* muss "predefined ATOM" gewählt werden.
-  4. Es muss mindestens ein Verweis vom Typ “Datendownload” hinzugefügt werden.
-  5. Dieser Verweis muss als URL die Zeichenkette “REQUEST=GetRecordById” enthalten.
+**c) Option: Direkter Verweis auf einen externem Geodatensatz**
+
+  1. Klassifikation des Dienstes: Dienst für den Zugriff auf Objekte
+  2. Art des Dienstes: Download-Dienste
+  3. Version des Dienstes: predefined ATOM
+  4. Es muss im Abschnitt Verweise eine "Download-URL" hinzugefügt werden.
+  5. Dieser Verweis muss als URL die Zeichenkette "REQUEST=GetRecordById" enthalten.
   6. InGrid muss die Daten eingelesen (indexiert) haben.
 
 
