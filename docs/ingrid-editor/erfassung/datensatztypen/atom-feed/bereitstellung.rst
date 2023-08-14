@@ -34,7 +34,7 @@ Die Felder (im Abschnitt Fachbezug) müssen wie folgt befüllt werden:
   2. Art des Dienstes: Download-Dienste
   3. Version des Dienstes: predefined ATOM
   4. Option: "Als ATOM-Download Dienst bereitstellen" muss aktiviert sein.
-  5. Operationen Name: Get Download Service Metadata, Beschreibung: eingetragen, Zugriffs-URL: entsprechende URL eintragen
+  5. Operationen - Name: Get Download Service Metadata, Beschreibung: eingetragen, Zugriffs-URL: entsprechende URL eintragen
   6. Dargestellte Daten: Geodatensatz
   7. Kopplungstyp: tight
   8. Aus der Ordnerstruktur muss der entsprechende Geodatensatz ausgewählt werden, mit dem der Downloaddienst gekoppelt werden soll.
@@ -49,7 +49,7 @@ Die Felder (im Abschnitt Fachbezug) müssen wie folgt befüllt werden:
   2. Art des Dienstes: Download-Dienste
   3. Version des Dienstes: predefined ATOM
   4. Option: "Als ATOM-Download Dienst bereitstellen" muss aktiviert sein.
-  5. Operationen Name: Get Download Service Metadata, Beschreibung: eingetragen, Zugriffs-URL: entsprechende URL eintragen
+  5. Operationen - Name: Get Download Service Metadata, Beschreibung: eingetragen, Zugriffs-URL: entsprechende URL eintragen
   6. Dargestellte Daten: Geodatensatz
   7. Kopplungstyp: tight
   8. In dem erscheinenden Fenster muss die URL zum entsprechenden Geodatensatz eingetragen werden, mit dem der Downloaddienst gekoppelt werden soll.
