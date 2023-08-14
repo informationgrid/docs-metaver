@@ -1,15 +1,25 @@
 
-Download-Dienste als ATOM-Feed bereitstellen
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Datendownloads über einen ATOM-Feed bereitstellen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Ein ATOM-Downloaddienst ist ein Downloaddienst für (Geo-) Daten, der meist im Zusammenhang mit einer (Geo-) Datenbereitstellung als Open Data bzw. einer Geodatenbereitstellung nach der INSPIRE-Richtlinie verwendet wird.
-
+Ein ATOM-Downloaddienst ist ein Downloaddienst für (Geo-) Daten, der meist im Zusammenhang mit der (Geo-) Datenbereitstellung als Open Data bzw. der Geodatenbereitstellung nach der INSPIRE-Richtlinie verwendet wird.
 
  
-Der Atom-Feed
-"""""""""""""
+Was ist ein Atom-Feed?
+""""""""""""""""""""""
 
-Das (XML-basierte) Web-Feed-Format ATOM ermöglicht die Veröffentlichung und das nutzerseitige Abonnement von Informationen. Es ermöglicht den plattformunabhängigen Download von (Geo-) Daten.
+Ein Atom-Feed ist ein (XML-) Format, das von Nutzern verwendet werden kann, um über neue Inhalte einer Website informiert zu werden.
+
+Nutzer können einen Atom-Feed abonnieren. Nutzer können mit Hilfe eines Atom-Feed-Readers (Browsererweiterung) neue Inhalte von Websites in Kurzform betrachten.
+
+Ein Atom-Feed ermöglicht, mit Hilfe eines Atom-Feed-Readers oder des Atom-Feed Clients, eine plattformunabhängige Beschreibung und den Download von (Geo-) Daten.
+
+
+
+
+
+
+
 
 
 Folgende Voraussetzungen müssen erfüllt sein, damit ATOM-Feeds erstellt und über den `Atom-Feed Client <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/atom-feed/client.html>`_ bereitgestellt werden können:
