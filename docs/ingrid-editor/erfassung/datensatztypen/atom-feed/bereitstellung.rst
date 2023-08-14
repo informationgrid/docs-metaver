@@ -5,25 +5,25 @@ Datendownloads über einen ATOM-Feed bereitstellen
 Ein ATOM-Downloaddienst ist ein Downloaddienst für (Geo-) Daten, der meist im Zusammenhang mit der (Geo-) Datenbereitstellung als Open Data bzw. der Geodatenbereitstellung nach der INSPIRE-Richtlinie verwendet wird.
 
  
-Was ist ein Atom-Feed?
+Was ist ein ATOM-Feed?
 """"""""""""""""""""""
 
-Ein Atom-Feed ist ein (XML-) Format, das von Nutzern verwendet werden kann, um über neue Inhalte einer Website informiert zu werden.
+Ein ATOM-Feed ist ein (XML-) Format, das von Nutzern verwendet werden kann, um über neue Inhalte einer Website informiert zu werden.
 
-Nutzer können einen Atom-Feed abonnieren und sie können mit Hilfe eines Atom-Feed-Readers (Browsererweiterung) neue Inhalte von Websites in Kurzform betrachten.
+Nutzer können einen ATOM-Feed abonnieren und sie können mit Hilfe eines ATOM-Feed-Readers (Browsererweiterung) neue Inhalte von Websites in Kurzform betrachten.
 
-Ein Atom-Feed ermöglicht, mit Hilfe eines Atom-Feed-Readers oder des `Atom-Feed Clients <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/atom-feed/client.html>`_, eine plattformunabhängige Beschreibung und den Download von (Geo-) Daten.
+Ein ATOM-Feed ermöglicht, mit Hilfe eines ATOM-Feed-Readers oder des `ATOM-Feed Clients <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/ATOM-feed/client.html>`_, eine plattformunabhängige Beschreibung und den Download von (Geo-) Daten.
 
 
 Erfassung eines externen ATOM-Feeds
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Folgende Voraussetzungen müssen erfüllt sein, damit ATOM-Feeds erstellt und über den `Atom-Feed Client <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/atom-feed/client.html>`_ bereitgestellt werden können:
+Folgende Voraussetzungen müssen erfüllt sein, damit ATOM-Feeds erstellt und über den `ATOM-Feed Client <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/ATOM-feed/client.html>`_ bereitgestellt werden können:
 
-Folgende Bedingungen müssen erfüllt sein, damit ein Atom-Feed im Atom-Feed Client erscheint:
+Folgende Bedingungen müssen erfüllt sein, damit ein ATOM-Feed im ATOM-Feed Client erscheint:
 
 
-**a) Kopplung des Dienstes mit Geodatensatz**
+**a) Kopplung des Dienstes mit einem Geodatensatz**
 
   1. Der anzuzeigende Service muss von der Art “Download-Dienste” sein.
   2. Es muss die Option “Als ATOM-Download Dienst bereitstellen” aktiviert sein.
@@ -32,7 +32,7 @@ Folgende Bedingungen müssen erfüllt sein, damit ein Atom-Feed im Atom-Feed Cli
   5. Ein angeschlossenes iPlug-DSC muss die Daten des IGC indexiert haben.
 
 
-**b) Kopplung des Dienstes mit externem Datensatz**
+**b) Kopplung des Dienstes mit einem externem Geodatensatz**
 
   1. Der anzuzeigende Service muss von der Art “Download-Dienste” sein.
   2. Es muss die Option “Als ATOM-Download Dienst bereitstellen” aktiviert sein.
@@ -57,7 +57,7 @@ Folgende Bedingungen müssen erfüllt sein, damit ein Atom-Feed im Atom-Feed Cli
 Abschnitt Fachbezug
 '''''''''''''''''''
 
-.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/atom-downloaddienst/fachbezug_atom_extern.png
+.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/ATOM-downloaddienst/fachbezug_ATOM_extern.png
 
 Abb.: Einbindung eines externen ATOM-Feeds
 
@@ -69,7 +69,7 @@ Im Feld "Art des Dienstes" muss der Wert "Download-Dienste" ausgewählt werden.
 
 Operationen
 ^^^^^^^^^^^
-.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/atom-downloaddienst/fachbezug_atom_operationen.png
+.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/ATOM-downloaddienst/fachbezug_ATOM_operationen.png
 
 Abb.: Fenster - Operationen bearbeiten
 
@@ -110,7 +110,7 @@ Beispiel: https://www.host.de/.../downloads/name_der_datei.zip
 Erstellung eines ATOM-Feeds im IGE
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/atom-downloaddienst/fachbezug_atom_intern.png
+.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/ATOM-downloaddienst/fachbezug_ATOM_intern.png
 
 Abb.: Erstellung eines ATOM-Feeds im IGE
 
@@ -121,12 +121,12 @@ Checkbox - "Als ATOM-Download Dienst bereitstellen"
 
 Bei aktivierter Option, wird dieser Datensatz im Portal als Download angeboten. Zusätzlich wird die in den Katalogeinstellungen hinterlegte "ATOM-Downloadservice-URL" automatisch in das ISO-Format unter "distributionInfo"/"linkage" abgebildet.
 
-.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/atom-downloaddienst/fachbezug_atom_katalogeinstellung.png
+.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/ATOM-downloaddienst/fachbezug_ATOM_katalogeinstellung.png
   :width: 300
 
 Abb.: Katalogeinstellung - hinterlegte URL
 
-.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/atom-downloaddienst/fachbezug_atom_iso_inkage.png
+.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/ATOM-downloaddienst/fachbezug_ATOM_iso_inkage.png
   :width: 400
 
 Abb.: ISO-XML
@@ -134,7 +134,7 @@ Abb.: ISO-XML
 
 Weiterhin erscheint eine Information.
 
-.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/atom-downloaddienst/fachbezug_atom_hinweis.png
+.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/ATOM-downloaddienst/fachbezug_ATOM_hinweis.png
   :width: 300
 
 Abb: Information
@@ -144,9 +144,9 @@ Abb: Information
 
 Operationen
 ^^^^^^^^^^^
-.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/atom-downloaddienst/fachbezug_atom_operationen_2.png
+.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/ATOM-downloaddienst/fachbezug_ATOM_operationen_2.png
 
 Abb.: Fenster - Operationen bearbeiten
 
-Beispiel: https://www.url.de/ ... /topfeed=1/LVermGeo_ATOM_DTK_COL.atom
+Beispiel: https://www.url.de/ ... /topfeed=1/LVermGeo_ATOM_DTK_COL.ATOM
 
