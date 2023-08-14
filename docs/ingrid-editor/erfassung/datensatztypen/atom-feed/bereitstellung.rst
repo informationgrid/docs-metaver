@@ -1,18 +1,18 @@
 
-Datendownloads über einen ATOM-Feed bereitstellen
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Datendownloads mit einen ATOM-Feed bereitstellen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Ein ATOM-Downloaddienst ist ein Downloaddienst für (Geo-) Daten, der meist im Zusammenhang mit der (Geo-) Datenbereitstellung als Open Data bzw. der Geodatenbereitstellung nach der INSPIRE-Richtlinie verwendet wird.
+In der Geodateninfrastruktur ist ein ATOM-Downloaddienst ein Dienst für den Download von Geodaten, der meist im Zusammenhang mit der Geodatenbereitstellung als Open Data bzw. der Geodatenbereitstellung nach der INSPIRE-Richtlinie verwendet wird.
 
  
 Was ist ein ATOM-Feed?
 """"""""""""""""""""""
 
-Ein ATOM-Feed ist ein (XML-) Format, das von Nutzern verwendet werden kann, um über neue Inhalte einer Website informiert zu werden.
+Ein ATOM-Feed ist ein (XML-) Format, das von Benutzern verwendet werden kann, um über neue Inhalte einer Website informiert zu werden.
 
-Nutzer können einen ATOM-Feed abonnieren und sie können mit Hilfe eines ATOM-Feed-Readers (Browsererweiterung) neue Inhalte von Websites in Kurzform betrachten.
+Benutzer können einen ATOM-Feed, mit Hilfe eines ATOM-Feed-Readers (Browsererweiterung) abonnieren.
 
-Ein ATOM-Feed ermöglicht, mit Hilfe eines ATOM-Feed-Readers oder des `ATOM-Feed Clients <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/ATOM-feed/client.html>`_, eine plattformunabhängige Beschreibung und den Download von (Geo-) Daten.
+Ein ATOM-Feed ermöglicht, mit Hilfe eines ATOM-Feed-Readers oder des `ATOM-Feed Clients <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/ATOM-feed/client.html>`_, eine plattformunabhängige Beschreibung und den Download von Geodaten.
 
 
 Abschnitt Fachbezug
@@ -23,17 +23,18 @@ Erfassung/Erzeugung eines ATOM-Feeds
 
 Folgende Voraussetzungen müssen erfüllt sein, damit ATOM-Feeds erstellt und über den `ATOM-Feed Client <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/ATOM-feed/client.html>`_ bereitgestellt werden können:
 
-**a) Kopplung des Geodatendienstes mit einem Geodatensatz**
+**a) Kopplung des Geodatendienstes mit einem Geodatensatz aus dem gleichen Katalog**
 
   1. Als *Klassifikation des Dienstes* muss "Dienst für den Zugriff auf Objekte" ausgewählt werden.
   2. Als *Art des Dienstes* muss "Download-Dienste" ausgewählt werden.
   3. Als *Version des Dienstes* muss "predefined ATOM" ausgewählt werden.
-  4. Es muss die Option "Als ATOM-Download Dienst bereitstellen" aktiviert sein.
-  5. Als *Dargestellte Daten" muss "Geodatensatz auswählen" ausgewählt werden.
-  6. Als *Kopplungstyp* muss "tight" angegeben sein.
-  7. Aus der erscheinenden Ordnerstruktur muss der entsprechende Geodatensatz ausgewählt werden, mit dem der Downloaddienst gekoppelt werden soll.
-  8. Dieser Geodatensatz muss mindestens einen Verweis vom *Typ* "Datendownload" besitzen.
-  9. (Ein angeschlossenes InGrid iPlug-DSC muss die Daten indexiert haben.)
+  4. Es muss die *Option* "Als ATOM-Download Dienst bereitstellen" aktiviert sein.
+  5. Unter *Operationen* muss als *Name* "Get Download Service Metadata" gewählt, die Beschreibung eingetragen und die entsprechende URL eingetragen werden.
+  6. Als *Dargestellte Daten* muss "Geodatensatz auswählen" ausgewählt werden.
+  7. Als *Kopplungstyp* muss "tight" angegeben sein.
+  8. Aus der erscheinenden Ordnerstruktur muss der entsprechende Geodatensatz ausgewählt werden, mit dem der Downloaddienst gekoppelt werden soll.
+  9. Dieser Geodatensatz muss mindestens einen Verweis vom *Typ* "Datendownload" besitzen.
+  10. (Ein angeschlossenes InGrid iPlug-DSC muss die Daten indexiert haben.)
 
 
 **b) Kopplung des Geodatendienstes mit einem externem Geodatensatz**
@@ -41,13 +42,14 @@ Folgende Voraussetzungen müssen erfüllt sein, damit ATOM-Feeds erstellt und ü
   1. Als *Klassifikation des Dienstes* muss "Dienst für den Zugriff auf externe Daten und Programme" gewählt werden.
   2. Als *Art des Dienstes* muss "Download-Dienste" ausgewählt werden.
   3. Als *Version des Dienstes* muss "predefined ATOM" gewählt werden.
-  4. Es muss die Option "Als ATOM-Download Dienst bereitstellen" aktiviert sein.
-  5. Als *Dargestellte Daten* muss "Geodatensatz auswählen" ausgewählt werden. 
-  6. Als *Kopplungstyp* muss "tight" angegeben sein.
-  7. In dem erscheinenden Fenster muss die URL zum entsprechenden Geodatensatz eingetragen werden, mit dem der Downloaddienst gekoppelt werden soll.
-  8. Dieser Geodatensatz muss als URL die Zeichenkette "REQUEST=GetRecordById" enthalten.
-  9. Ein angeschlossenes iPlug-DSC muss die Daten des IGC indexiert haben.
-  10. (Ein angeschlossenes InGrid iPlug-DSC muss die Daten indexiert haben.)
+  4. Es muss die *Option* "Als ATOM-Download Dienst bereitstellen" aktiviert sein.
+  5. Unter *Operationen* muss als *Name* "Get Download Service Metadata" gewählt, die Beschreibung eingetragen und die entsprechende URL eingetragen werden.
+  6. Als *Dargestellte Daten* muss "Geodatensatz auswählen" ausgewählt werden. 
+  7. Als *Kopplungstyp* muss "tight" angegeben sein.
+  8. In dem erscheinenden Fenster muss die URL zum entsprechenden Geodatensatz eingetragen werden, mit dem der Downloaddienst gekoppelt werden soll.
+  9. Dieser Geodatensatz muss als URL die Zeichenkette "REQUEST=GetRecordById" enthalten.
+  10. Ein angeschlossenes iPlug-DSC muss die Daten des IGC indexiert haben.
+  11. (Ein angeschlossenes InGrid iPlug-DSC muss die Daten indexiert haben.)
 
 
 **c) Direkter Verweis auf einen externem Geodatensatz**
@@ -56,7 +58,7 @@ Folgende Voraussetzungen müssen erfüllt sein, damit ATOM-Feeds erstellt und ü
   2. Es muss die Option “Als ATOM-Download Dienst bereitstellen” aktiviert sein.
   3. Es muss mindestens ein Verweis vom Typ “Datendownload” hinzugefügt werden.
   4. Dieser Verweis muss als URL die Zeichenkette “REQUEST=GetRecordById” enthalten.
-  5. Ein angeschlossenes iPlug-DSC muss die Daten des IGC indexiert haben.
+  5. (Ein angeschlossenes iPlug-DSC muss die Daten des IGC indexiert haben.)
 
 
 
@@ -113,49 +115,3 @@ Beispiel: Formate für den Daten-Download: .shp, .zip
 GetFeature-Request werden dagegen nicht ausgewertet. Der Service-Feed enthält hierbei zwar den Verweis zum Daten-Feed, ruft man aber den Daten-Feed auf, so fehlt der Link zum Download. 
 
 Beispiel: https://www.host.de/.../downloads/name_der_datei.zip
-
-
-
-Erstellung eines ATOM-Feeds im IGE
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/ATOM-downloaddienst/fachbezug_ATOM_intern.png
-
-Abb.: Erstellung eines ATOM-Feeds im IGE
-
-
-
-Checkbox - "Als ATOM-Download Dienst bereitstellen"
-'''''''''''''''''''''''''''''''''''''''''''''''''''
-
-Bei aktivierter Option, wird dieser Datensatz im Portal als Download angeboten. Zusätzlich wird die in den Katalogeinstellungen hinterlegte "ATOM-Downloadservice-URL" automatisch in das ISO-Format unter "distributionInfo"/"linkage" abgebildet.
-
-.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/ATOM-downloaddienst/fachbezug_ATOM_katalogeinstellung.png
-  :width: 300
-
-Abb.: Katalogeinstellung - hinterlegte URL
-
-.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/ATOM-downloaddienst/fachbezug_ATOM_iso_inkage.png
-  :width: 400
-
-Abb.: ISO-XML
-
-
-Weiterhin erscheint eine Information.
-
-.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/ATOM-downloaddienst/fachbezug_ATOM_hinweis.png
-  :width: 300
-
-Abb: Information
-
-.. hint:: Für ATOM-Downloaddienste, die im ATOM-Feed Client erscheinen sollen, muss in der Objektklasse Geodatensatz (unter "Verweise") eine Download-URL angelegt werden.
-
-
-Operationen
-^^^^^^^^^^^
-.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/ATOM-downloaddienst/fachbezug_ATOM_operationen_2.png
-
-Abb.: Fenster - Operationen bearbeiten
-
-Beispiel: https://www.url.de/ ... /topfeed=1/LVermGeo_ATOM_DTK_COL.ATOM
-
