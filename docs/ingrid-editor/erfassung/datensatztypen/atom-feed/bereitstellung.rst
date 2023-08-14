@@ -1,19 +1,18 @@
 
 Download-Dienste als ATOM-Feed bereitstellen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Ein ATOM-Downloaddienst ist ein Downloaddienst für (Geo-) Daten, der meist im Zusammenhang mit einer (Geo-) Datenbereitstellung als Open Data bzw. einer Geodatenbereitstellung nach der INSPIRE-Richtlinie verwendet wird.
+
+
  
-Atom-Feed - ASF - Atom Syndication Format
-'''''''''''''''''''''''''''''''''''''''''
+Der Atom-Feed
+"""""""""""""
 
-Dieses XML-Format, ermöglicht den plattformunabhängigen Austausch von Informationen z. B. für Web-Feeds.
+Das (XML-basierte) Web-Feed-Format ATOM ermöglicht die Veröffentlichung und das nutzerseitige Abonnement von Informationen. Es ermöglicht den plattformunabhängigen Download von (Geo-) Daten.
 
-INSPIRE-relevante Daten, welche durch Daten-Metadaten beschrieben sind, müssen über Download-Dienste verfügbar gemacht werden. Zu den möglichen Download-Diensten zählen auch die sogenannten ATOM-Feeds. Mit der InGrid-Software wird die automatische Bereitstellung von Download-Diensten basierend auf ATOM-Feeds realisiert. Auf diesem Weg ist es möglich, die Anforderungen durch INSPIRE hinsichtlich der Download-Dienste zu erfüllen.
- 
-Die Grundidee dabei ist, dass vom Metadaten-Erfasser im InGrid-Editor Service-Metadaten für einen oder mehrere Download-Dienste angelegt werden. Mit diesen Geodatendiensten werden Geodatensätze verknüpft (Datenkopplung). Für jeden dieser Download-Dienste wird durch einen Webservice (bzw. eine Service-Fassade) ein Download-Dienst automatisch bereitgestellt. Hierzu wird dynamisch der Service-Feed erzeugt. 
 
-Alle an diesen Geodatensatz gekoppelten Geodatendienste werden im Service-Feed eingetragen. Für jeden Geodatensatz kann ein Daten-Feed abgerufen werden. Im Daten-Feed werden alle Download-Optionen für diesen Datensatz eingetragen. 
-
-Folgende Voraussetzungen müssen erfüllt sein, damit ATOM-Feeds erstellt und über den `Atom-Feed Client <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/atom-feed/client.html>`_ bereitgestellt werden können. 
+Folgende Voraussetzungen müssen erfüllt sein, damit ATOM-Feeds erstellt und über den `Atom-Feed Client <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/atom-feed/client.html>`_ bereitgestellt werden können:
 
 
 Erfassung eines externen ATOM-Feeds
