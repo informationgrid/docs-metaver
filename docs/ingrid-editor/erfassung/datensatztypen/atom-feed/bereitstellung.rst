@@ -37,7 +37,7 @@ Folgende Voraussetzungen müssen erfüllt sein, damit ATOM-Feeds erstellt und ü
   7. Als *Kopplungstyp* muss "tight" angegeben sein.
   8. Aus der erscheinenden Ordnerstruktur muss der entsprechende Geodatensatz ausgewählt werden, mit dem der Downloaddienst gekoppelt werden soll.
   9. Dieser Geodatensatz muss mindestens einen Verweis vom *Typ* "Datendownload" besitzen.
-  10. (Ein angeschlossenes InGrid iPlug-DSC muss die Daten indexiert haben.)
+  10. Eine InGrid Komponente (iPlug-DSC) muss die Daten eingelesen (indexiert) haben.
 
 
 **b) Kopplung des Geodatendienstes mit einem externem Geodatensatz**
@@ -51,8 +51,7 @@ Folgende Voraussetzungen müssen erfüllt sein, damit ATOM-Feeds erstellt und ü
   7. Als *Kopplungstyp* muss "tight" angegeben sein.
   8. In dem erscheinenden Fenster muss die URL zum entsprechenden Geodatensatz eingetragen werden, mit dem der Downloaddienst gekoppelt werden soll.
   9. Dieser Geodatensatz muss als URL die Zeichenkette "REQUEST=GetRecordById" enthalten.
-  10. (Ein angeschlossenes InGrid iPlug-DSC muss die Daten indexiert haben.)
-
+  10. Eine InGrid Komponente (iPlug-DSC) muss die Daten eingelesen (indexiert) haben.
 
 **c) Direkter Verweis auf einen externem Geodatensatz**
 
@@ -61,8 +60,7 @@ Folgende Voraussetzungen müssen erfüllt sein, damit ATOM-Feeds erstellt und ü
   3. Als *Version des Dienstes* muss "predefined ATOM" gewählt werden.
   4. Es muss mindestens ein Verweis vom Typ “Datendownload” hinzugefügt werden.
   5. Dieser Verweis muss als URL die Zeichenkette “REQUEST=GetRecordById” enthalten.
-  6. (Ein angeschlossenes iPlug-DSC muss die Daten des IGC indexiert haben.)
-
+  10. Eine InGrid Komponente (iPlug-DSC) muss die Daten eingelesen (indexiert) haben.
 
 
 Anmerkungen zur Download-URL
