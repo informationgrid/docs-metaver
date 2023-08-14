@@ -66,14 +66,6 @@ Folgende Voraussetzungen müssen erfüllt sein, damit ATOM-Feeds erstellt und ü
 
 
 
-Unterstützte Plattformen
-""""""""""""""""""""""""
-
-Angaben zur Art der Plattform bzw. Schnittstelle über die der Dienst angesprochen werden kann,
-
-Auswahl: WebService
-
-
 Anmerkungen zur Download-URL
 """"""""""""""""""""""""""""
 
