@@ -18,7 +18,7 @@ Ein ATOM-Feed ermöglicht, mit Hilfe eines ATOM-Feed-Readers oder des `ATOM-Feed
 Abschnitt Fachbezug
 ^^^^^^^^^^^^^^^^^^^
 
-..important:: Für ATOM-Downloaddienste, die im ATOM-Feed Client erscheinen sollen, muss in der Objektklasse Geodatensatz (unter "Verweise") eine Download-URL angelegt werden.
+.. important:: Für ATOM-Downloaddienste, die im ATOM-Feed Client erscheinen sollen, muss in der Objektklasse Geodatensatz (unter "Verweise") eine Download-URL angelegt werden.
 
 
 Erfassung/Erzeugung eines ATOM-Feeds
