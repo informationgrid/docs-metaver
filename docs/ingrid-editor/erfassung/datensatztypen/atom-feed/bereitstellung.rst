@@ -12,7 +12,7 @@ Ein Atom-Feed ist ein (XML-) Format, das von Nutzern verwendet werden kann, um �
 
 Nutzer können einen Atom-Feed abonnieren und sie können mit Hilfe eines Atom-Feed-Readers (Browsererweiterung) neue Inhalte von Websites in Kurzform betrachten.
 
-Ein Atom-Feed ermöglicht, mit Hilfe eines Atom-Feed-Readers oder des Atom-Feed Clients, eine plattformunabhängige Beschreibung und den Download von (Geo-) Daten.
+Ein Atom-Feed ermöglicht, mit Hilfe eines Atom-Feed-Readers oder des `Atom-Feed Clients <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/atom-feed/client.html>`_, eine plattformunabhängige Beschreibung und den Download von (Geo-) Daten.
 
 
 Erfassung eines externen ATOM-Feeds
