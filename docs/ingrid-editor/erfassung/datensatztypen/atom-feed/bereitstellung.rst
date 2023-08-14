@@ -13,7 +13,7 @@ Die Grundidee dabei ist, dass vom Metadaten-Erfasser im InGrid-Editor Service-Me
 
 Alle an diesen Geodatensatz gekoppelten Geodatendienste werden im Service-Feed eingetragen. Für jeden Geodatensatz kann ein Daten-Feed abgerufen werden. Im Daten-Feed werden alle Download-Optionen für diesen Datensatz eingetragen. 
 
-Folgende Voraussetzungen müssen erfüllt sein, damit ATOM-Feeds erstellt und über den `Atom-Feed Client <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/atom-feed/client.html>`_ bereitgestellt werden können. 
+Folgende Voraussetzungen müssen erfüllt sein, damit ATOM-Feeds erstellt und über den `Atom-Feed Client <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/atom-feed/client.html>`_ bereitgestellt werden können. 
 
 
 Erfassung eines externen ATOM-Feeds
