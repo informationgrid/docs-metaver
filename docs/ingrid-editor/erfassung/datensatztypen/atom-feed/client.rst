@@ -12,7 +12,7 @@ Da die Webbrowser Atom-Feeds für den Datendownload nur mit Erweiterungen unters
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/atom-downloaddienst/fachbezug_als-atomdownloaddienst-bereitstellen.png
    :width: 80%
 
-Abb.: Dienstart Downloaddienst - Als ATOM-Download Dienst bereitstellen
+Abb.: Downloaddienst - Als ATOM-Download Dienst bereitstellen
 
 
 
