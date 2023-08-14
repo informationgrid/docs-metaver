@@ -32,7 +32,7 @@ Folgende Voraussetzungen müssen erfüllt sein, damit ATOM-Feeds erstellt und ü
   2. Als *Art des Dienstes* muss "Download-Dienste" ausgewählt werden.
   3. Als *Version des Dienstes* muss "predefined ATOM" ausgewählt werden.
   4. Es muss die *Option* "Als ATOM-Download Dienst bereitstellen" aktiviert sein.
-  5. Unter *Operationen* muss als *Name* "Get Download Service Metadata" gewählt, die Beschreibung eingetragen und die entsprechende URL eingetragen werden.
+  5. Unter *Operationen* müssen als *Name* "Get Download Service Metadata" gewählt, die Beschreibung eingetragen und eine entsprechende URL eingetragen werden.
   6. Als *Dargestellte Daten* muss "Geodatensatz auswählen" ausgewählt werden.
   7. Als *Kopplungstyp* muss "tight" angegeben sein.
   8. Aus der erscheinenden Ordnerstruktur muss der entsprechende Geodatensatz ausgewählt werden, mit dem der Downloaddienst gekoppelt werden soll.
@@ -46,7 +46,7 @@ Folgende Voraussetzungen müssen erfüllt sein, damit ATOM-Feeds erstellt und ü
   2. Als *Art des Dienstes* muss "Download-Dienste" ausgewählt werden.
   3. Als *Version des Dienstes* muss "predefined ATOM" gewählt werden.
   4. Es muss die *Option* "Als ATOM-Download Dienst bereitstellen" aktiviert sein.
-  5. Unter *Operationen* muss als *Name* "Get Download Service Metadata" gewählt, die Beschreibung eingetragen und die entsprechende URL eingetragen werden.
+  5. Unter *Operationen* müssen als *Name* "Get Download Service Metadata" gewählt, die Beschreibung eingetragen und eine entsprechende URL eingetragen werden.
   6. Als *Dargestellte Daten* muss "Geodatensatz auswählen" ausgewählt werden. 
   7. Als *Kopplungstyp* muss "tight" angegeben sein.
   8. In dem erscheinenden Fenster muss die URL zum entsprechenden Geodatensatz eingetragen werden, mit dem der Downloaddienst gekoppelt werden soll.
