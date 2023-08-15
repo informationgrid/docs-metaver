@@ -71,7 +71,7 @@ Je nach Auswahl des Datensatztyps, werden in der Erfassungsmaske des InGrid Edit
 Der getCapabilities Assistent
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/symbbolleiste/ssistent.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/symbbolleiste/assistent.png
    :align: left
    :scale: 50
    :figwidth: 100%
