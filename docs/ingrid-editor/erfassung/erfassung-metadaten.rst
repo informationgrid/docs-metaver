@@ -13,18 +13,27 @@ Strukturierung der Metadatensätze
 Für eine übersichtliche Verwaltung der Metadatensätze, können hierarchische Strukturen mit Ordnern angelegt werden.
 
 
-Neues Objekt anlegen
---------------------
+Einen neuen Metadatensatz anlegen
+---------------------------------
 
-Zum Anlegen eines neuen Metadatensatzes muss zunächst der Ordner im Strukturbaum ausgewählt werden, unter dem das neue Objekt angelegt werden soll. „Neu anlegen“ (aus der Symbolleiste) oder über das Kontextmenü (rechte Maustaste – „Neu anlegen“) wählen, es erscheint der Erfassungsassistent.
 
-.. image:: ../../img_ige/metaver_ige/ige_strukturbaum/ige-objekt-anlegen.png
+Zum Anlegen eines neuen Metadatensatzes muss zunächst der Ordner im Strukturbaum ausgewählt werden, unter dem der neue Metadatensatz angelegt werden soll.
 
-Abb.: Teilstrukturbaum für Objekte - Strukturierung mit Ordnern
+.. figure:: ../../img/ige/erfassung/ige_metadaten/strukturbaum_ordner.png
 
-Damit ein neu angelegtes Objekt veröffentlicht werden kann, müssen alle Pflichtfelder ausgefüllt werden.
+Abb.: Strukturbaum - Strukturierung mit Ordnern
 
-Sobald alle Pflichtfelder und mögliche optionalen Felder ausgefüllt sind, kann das neue Objekt mit „Abschließendes Speichern & Veröffentlichen“ (in der Symbolleiste) gemäß seiner Veröffentlichungsbreite freigegeben werden. Im Strukturbaum des InGrid Editors erscheint das Objekt anschließend als veröffentlicht in der Farbe Blau.
+
+.. figure:: ../../img/ige/erfassung/ige_metadaten/symbolleiste_neu-anlegen.png
+
+Abb.: Symbole Neuen Datensatz anlegen / Ordner erstellen
+
+
+Um einen neuen Metadatensatz zu veröffentlichen, müssen alle Pflichtfelder ausgefüllt werden.
+
+Ist der neue Metadatensatz angelegt, besteht die Möglichkeit den ihn über die Funktion "Speichern" in seinem aktuellen Bearbeitungsstand zu sichern. Der Metadatensatz erscheint in der Farbe Orange im Strukturbaum. 
+
+Sind alle Pflichtfelder und erforderliche optionale Felder ausgefüllt, kann der neue Metadatensatz mit „Abschließendes Speichern & Veröffentlichen“, gemäß der ausgewählten Veröffentlichungsbreite, freigegeben werden. Der Metadatensatz erschein dann im Strukturbaum in der Farbe Schwarz.
 
 
 Pflichtfelder und optionale Felder
@@ -40,7 +49,7 @@ Der Erfassungsassistent
 
 Wird ein neues Objekt angelegt, öffnet sich ein Dialogfenster. Darin muss ausgewählt werden, welcher Assistent oder welcher Objekttyp verwendet werden soll.
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_assistenten/ige-objekt-anlegen_assistent.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_assistenten/ige-objekt-anlegen_assistent.png
 
 Abb.: Erfassungsassistent
 
@@ -67,17 +76,17 @@ Die nachfolgenden Felder der Erfassungsmaske wurden in diesem Dokument allgemein
 Kopf der Erfassungsmaske
 ------------------------
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-01_kopf/ige-objekt_kopf.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-01_kopf/ige-objekt_kopf.png
 
 Abb.: Kopf der Erfassungsmaske
 
 Nach dem Anlegen eines neuen Objektes stehen die Eingabefelder für das neue Objekt im rechten Inhaltsfenster zur Verfügung. Im ersten Schritt sollten die Basisinformationen in der Erfassungsmaske (Screenshot) bearbeitet werden. Hier wird automatisiert der Erfasser eingetragen, der das Objekt angelegt hat. An dieser Stelle sollte jedoch die Person stehen, die für die Aktualisierung zuständig ist. In der Regel ist der Erfasser auch die fachlich Verantwortliche Person (Standardeinstellung).
 
 
-Objektname
-^^^^^^^^^^
+Datensatzname
+^^^^^^^^^^^^^
 
-Angabe einer kurzen prägnanten Bezeichnung. Soweit ein gängiges Kürzel vorhanden ist, ist dieses Kürzel mit anzugeben. Der Eintrag in dieses Feld ist obligatorisch.
+Angabe einer kurzen prägnanten Bezeichnung. Soweit ein gängiges Kürzel vorhanden ist, ist dieses Kürzel mit anzugeben.
 
 
 Objektklasse 
@@ -112,7 +121,7 @@ Abschnitt Allgemeines
 Identifikator des übergeordneten Metadatensatzes
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_identifikator-des-uebergeordneten-datensatzes.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_identifikator-des-uebergeordneten-datensatzes.png
   :width: 300
 
 Abb.: Identifikator des übergeordneten Metadatensatzes
@@ -123,7 +132,7 @@ Für Datensätze in der obersten Ebene oder direkt unter einem Ordner, kann eine
 Metadaten-Datum der veröffentlichten Version
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_metadaten-datum.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_metadaten-datum.png
   :width: 300
 
 Abb.: Metadaten-Datum der veröffentlichten Version
@@ -134,7 +143,7 @@ Datum, zu dem der Metadatensatz veröffentlicht wurde. Dieses Datum wird immer d
 Dateibeschreibung der Vorschaugrafik
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_vorschaugrafik.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_vorschaugrafik.png
 
 Abb.: Vorschaugrafik
 
@@ -145,7 +154,7 @@ Grafik, die die Ressource darstellt (möglichst einschließlich Legende)
 Kurzbezeichnung
 ^^^^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_kurzbezeichnung.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_kurzbezeichnung.png
 
 Abb.: Kurzbezeichnung
 
@@ -155,7 +164,7 @@ Beispiel: DTK25 digitale topographische Karte GK25 - Grundkarte
 
 
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-abschnitt_allgemeines.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-abschnitt_allgemeines.png
 
 Im Bereich „Allgemeines“ erfolgt der Eintrag von allgemeinen Informationen zum Objekt (Beschreibung, Kontaktinformation).
 
@@ -163,7 +172,7 @@ Im Bereich „Allgemeines“ erfolgt der Eintrag von allgemeinen Informationen z
 Beschreibung
 ^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_beschreibung.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_beschreibung.png
 
 Abb.: Eingabefeld für die Beschreibung
 
@@ -173,7 +182,7 @@ In dieses Feld wird eine fachliche Inhaltsangabe eingetragen. Auf Verständlichk
 Adresse mit Objekt verknüpfen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_verknuepfung-adresse.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_verknuepfung-adresse.png
 
 Abb.: Verknüpfung mit den Adressen
 
@@ -188,7 +197,7 @@ Checkboxen
 Checkbox INSPIRE-relevant
 '''''''''''''''''''''''''
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_checkbox-inspire-relevant.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_checkbox-inspire-relevant.png
   :width: 350
 
 Abb.: Checkbox INSPIRE-relevant (konform, nicht konform)
@@ -197,7 +206,7 @@ Abb.: Checkbox INSPIRE-relevant (konform, nicht konform)
 Checkbox AdV kompatibel
 '''''''''''''''''''''''
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_checkbox-adv-kompatibel.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_checkbox-adv-kompatibel.png
   :width: 150
 
 Abb.: Checkbox AdV kompatibel
@@ -208,7 +217,7 @@ Diese Checkboxen sind unter der `Objektklasse Geodatensatz im Abschnitt Allgemei
 Checkbox Open Data
 ''''''''''''''''''
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_checkbox-open-data.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_checkbox-open-data.png
   :width: 150
 
 Abb.: Checkbox Open Data
@@ -218,13 +227,13 @@ Abb.: Checkbox Open Data
 Abschnitt Verschlagwortung
 --------------------------
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-03_verschlagwortung/ige-abschnitt_verschlagwortung.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-03_verschlagwortung/ige-abschnitt_verschlagwortung.png
 
 
 Freie Schlagworte erfassen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-03_verschlagwortung/ige-verschlagwortung_freie-schlagworte.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-03_verschlagwortung/ige-verschlagwortung_freie-schlagworte.png
 
 Abb.: Freie Schlagworte eintagen
 
@@ -238,7 +247,7 @@ Beispiel für "FREE": DOP Sachsen-Anhalt, Befliegung
 Optionale Schlagworte
 ^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-03_verschlagwortung/ige-verschlagwortung_optionale-schlagworte.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-03_verschlagwortung/ige-verschlagwortung_optionale-schlagworte.png
 
 Abb.: Optionale Schlagworte erfassen
 
@@ -248,7 +257,7 @@ Abb.: Optionale Schlagworte erfassen
 Verschlagwortungsassistent
 ''''''''''''''''''''''''''
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-03_verschlagwortung/ige-verschlagwortung_verschlagwortungsassistent.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-03_verschlagwortung/ige-verschlagwortung_verschlagwortungsassistent.png
 
 Abb.: Verschlagwortungsassistent
 
@@ -264,7 +273,7 @@ Mit einem Klick auf die Schaltfläche "Übernehmen" werden alle Begriffe aus der
 Thesaurusnavigator
 '''''''''''''''''''
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-03_verschlagwortung/ige-verschlagwortung_thesaurus-navigator.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-03_verschlagwortung/ige-verschlagwortung_thesaurus-navigator.png
 
 Abb.: Thesaurus-Navigator
 
@@ -282,7 +291,7 @@ Im Strukturbaum können weitere Suchbegriffe ausgewählt werden. Durch Betätige
 Abschnitt Fachbezug
 -------------------
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-04_fachbezug/ige-abschnitt_fachbezug.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-04_fachbezug/ige-abschnitt_fachbezug.png
 
 Der Abschnitt Fachbezug richtet sich nach der gewählten Objektklasse, diese sind unter dem Punkt `Erfassung der Objektlassen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/objektklassen.html>`_ beschrieben.
 
@@ -306,7 +315,7 @@ Der Abschnitt Fachbezug richtet sich nach der gewählten Objektklasse, diese sin
 Abschnitt Raumbezugssystem
 --------------------------
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-abschnitt_raumbezugssystem.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-abschnitt_raumbezugssystem.png
 
 Im Abschnitt Raumbezugsystem werden Informationen über die räumliche Zuordnung des beschriebenen Datenbestands erfasst.
 
@@ -316,7 +325,7 @@ Geothesaurus-Raumbezug
 
 Geothesaurus oder auch Gazetteer (Ortsverzeichnis), hier soll ein Ort oder eine Region mit Koordinaten angegeben werden.
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_geothesaurus-raumbezug.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_geothesaurus-raumbezug.png
 
 Abb.: Tabelle Geothesaurus-Raumbezug
 
@@ -325,11 +334,11 @@ Geothesaurus-Navigator
 ^^^^^^^^^^^^^^^^^^^^^^
 Über den Geothesaurus-Navigator kann nach den Koordinaten einer räumlichen Einheit gesucht werden.
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_geothesaurus-navigator.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_geothesaurus-navigator.png
 
 Abb.: Geothesaurus-Navigator
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_geothesaurus-raumbezug_koordinaten.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_geothesaurus-raumbezug_koordinaten.png
 
 Abb.: Tabelle Geothesaurus-Raumbezug mit Eintrag Landkreis Harz
 
@@ -350,7 +359,7 @@ Sollte der gewünschte geografische Begriff nicht vorhanden sein, besteht die M�
 Umgerechnete Koordinaten
 ''''''''''''''''''''''''
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-abschnitt_raumbezugssystem_umgerechnete-koordinaten.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-abschnitt_raumbezugssystem_umgerechnete-koordinaten.png
 
 Abb.: Feld Umgerechnete Koordinaten
 
@@ -362,7 +371,7 @@ Umrechnung, der unter Geothesaurus-Raumbezug ausgewählten Daten, in die in der 
 Freier Raumbezug
 ^^^^^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-abschnitt_raumbezugssystem_freier-raumbezug.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-abschnitt_raumbezugssystem_freier-raumbezug.png
 
 Abb.: Tabelle Freier Raumbezug
 
@@ -385,7 +394,7 @@ Der Wertebereich im WGS (World Geodetic System) ist folgendermaßen definiert:
 Raumbezug hinzufügen
 '''''''''''''''''''''
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-abschnitt_raumbezugssystem_raumbezug-hinzufuegen.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-abschnitt_raumbezugssystem_raumbezug-hinzufuegen.png
 
 Abb.: Dialogfenster Raumbezug hinzufügen
 
@@ -409,7 +418,7 @@ In den Objektklassen Geodatensatz und Geodatendienst kann ab der InGrid-Version 
 
 .. note:: Der zwölfstellige `Amtliche Regionalschlüssels (ARS) <https://de.wikipedia.org/wiki/Amtlicher_Gemeindeschl%C3%BCssel#Regionalschl%C3%BCssel>`_ löst den `Amtlichen Gemeindeschlüssel (AGS) <https://de.wikipedia.org/wiki/Amtlicher_Gemeindeschl%C3%BCssel>`_ ab und erweitert ihn um einen Verbandsschlüssel.
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_regionalschluessel.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_regionalschluessel.png
    :width: 300
 
 Abb.: Feld Regionalschlüssel - 150030000000 (Stadt Magdeburg)
@@ -418,7 +427,7 @@ Abb.: Feld Regionalschlüssel - 150030000000 (Stadt Magdeburg)
 .. tip:: Eine Suche nach Amtlichen Regionalschlüsseln ermöglicht das `ARS-Tool <https://opengovtech.de/ars/>`_ (externer Dienst).
 
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_regionalschluessel_ars-magdeburg.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_regionalschluessel_ars-magdeburg.png
    :width: 400
 
 Abb.: ARS-Tool - Regionalschlüssel - Stadt Magdeburg
@@ -434,7 +443,7 @@ Der ARS ist wie folgt aufgebaut:
 
 Test
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_regionalschluessel_ars.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_regionalschluessel_ars.png
    :width: 400
 
 Abb.: ARS-Tool - Regionalschlüssel
@@ -443,7 +452,7 @@ Abb.: ARS-Tool - Regionalschlüssel
 **Beispiel:** Mit der Angabe des zwölfstelligen ARS 081150045045 kann die Stadt Sindelfingen eindeutig adressiert werden:
 
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_regionalschluessel_ars-sindelfingen.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_regionalschluessel_ars-sindelfingen.png
    :width: 400
 
 Abb.: ARS-Tool - ARS 081150045045 Stadt Sindelfingen
@@ -452,7 +461,7 @@ Abb.: ARS-Tool - ARS 081150045045 Stadt Sindelfingen
 Werden nicht alle zwölf Stellen des ARS angegeben, sondern nur ein Prefix des ARS, so können statt einer spezifischen Gemeinde auch darüberliegende Kreise, Regierungsbezirke oder Bundesländer abgebildet werden. Wird ein solcher Prefix eines ARS angegeben, schließt dieser alle sich darin befindlichen Gliederungen mit ein.
 
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_regionalschluessel_ars-rb-stuttgart.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_regionalschluessel_ars-rb-stuttgart.png
    :width: 400
 
 Abb.: ARS-Tool - ARS 081 Regierungsbezirk Stuttgart
@@ -468,7 +477,7 @@ Eine Einschränkung auf konkrete Verwaltungsebenen ist durch das Auffüllen des 
 Berenzungspolygon als WKT
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_begrenzungspolygon-als-wkt.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_begrenzungspolygon-als-wkt.png
 
 Abb.: Feld Berenzungspolygon als WKT
 
@@ -502,7 +511,7 @@ Obwohl das ISO-Element Polygon heißt, können in diesem Feld auch andere Geomet
 Raumbezugssystem
 ^^^^^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_raumbezugssystem-liste.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_raumbezugssystem-liste.png
 
 Abb.: Feld Raumbezugssystem
 
@@ -518,7 +527,7 @@ Beispiel: EPSG:4326 / WGS 84 / geographisch
 Höhe
 ^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_hoehe.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_hoehe.png
    :width: 500
 
 Abb.: Feld Höhe
@@ -561,7 +570,7 @@ Beispiel: Die Koordinaten für die Fachliche Gebietseinheit sind ungefähre Anga
 Abschnitt Zeitbezug
 -------------------
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-abschnitt_zeitbezug.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-abschnitt_zeitbezug.png
 
 .. important:: Unter Zeitbezug werden Zeitpunkte, Zeiträume, Zeitspannen, Perioden oder Intervalle **der zu beschreibenden Daten (Ressourcen)** eingetragen. Diese Angaben sind bei der Recherche nach Metadaten wichtig, um die gesuchten Daten (Ressourcen) zeitlich eingrenzen zukönnen.
 
@@ -575,7 +584,7 @@ Mit "Zeitbezug der Ressource" sind die Datumsangaben gemeint, die sich auf das b
 
 Den Recherchierenden soll mit diesen Angaben die Aktualität der beschriebenen Daten mitgeteilt werden.
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-zeitbezug_der-ressource.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-zeitbezug_der-ressource.png
    :width: 300
 
 Abb.: Tabelle Zeitbezug der Ressource
@@ -584,7 +593,7 @@ Abb.: Tabelle Zeitbezug der Ressource
 Erläuterungen
 ^^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-zeitbezug_der-ressource_erlaeuterung.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-zeitbezug_der-ressource_erlaeuterung.png
    :width: 300
 
 Abb.: Textfeld für Erläuterungen
@@ -607,7 +616,7 @@ Den Recherchierenden soll mit diesen Angaben der Zeitraum für eine Datenerhebun
 
 Zeitbezug des Dateninhalts
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-zeitbezug_zeitspanne.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-zeitbezug_zeitspanne.png
    :width: 400
 
 Abb.: Angabe von Zeitpunkten, Zeiträumen / Zeitspannen
@@ -618,7 +627,7 @@ Beispiele: Zeitraum einer Erhebung von Messdaten, Entwicklungszeitraum einer Anw
 
 Zur Auswahl stehen:
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ ige-zeitbezug_zeitspanne-tabelle.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ ige-zeitbezug_zeitspanne-tabelle.png
    :width: 500
 
 Abb.: Tabelle für die Angaben von Zeitspannen
@@ -639,7 +648,7 @@ Abb.: Tabelle für die Angaben von Zeitspannen
 Periodizität
 ^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-zeitbezug_periodizitaet.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-zeitbezug_periodizitaet.png
 
 Abb.: Feld Priodizität
 
@@ -651,7 +660,7 @@ Ist die Auswahl oder die Angabe des Zeitzyklus der Datenerhebung. Der Eintrag mu
 Status
 ^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-zeitbezug_status.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-zeitbezug_status.png
 
 Abb.: Feld Status
 
@@ -663,7 +672,7 @@ Der Status beschreibt den Bearbeitungsstand eines Projektes oder einer der Messu
 Im Intervall
 ^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-zeitbezug_intervall.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-zeitbezug_intervall.png
 
 Abb.: Feld Im Intervall
 
@@ -675,7 +684,7 @@ Mit Intervall wird der zeitliche Abstand (Frequenz) der Datenerhebung angegeben.
 Abschnitt Zusatzinformation
 ---------------------------
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-08_zusatzinformation/ige-abschnitt_zusatzinformation.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-08_zusatzinformation/ige-abschnitt_zusatzinformation.png
 
 Der Abschnitt Zusatzinformation enthält Angaben von allgemeinen Informationen wie Sprache und Veröffentlichungsbreite des Metadatensatzes.
 
@@ -691,7 +700,7 @@ Veröffentlichung
 
 Das Feld Veröffentlichung gibt an, welche Veröffentlichungsmöglichkeiten für das Objekt freigegeben sind. Die Liste der Möglichkeiten ist nach Freigabestufen hierarchisch geordnet. Wird einem Objekt eine niedrigere Freigabestufe zugeordnet (z.B. von Internet auf Intranet), werden automatisch auch alle untergeordneten Objekte dieser Stufe zugeordnet. Soll einem Objekt eine höhere Freigabestufe zugeordnet werden als die des übergeordneten Objektes, wird die Zuordnung verweigert. Wird einem Objekt eine höhere Freigabestufe zugeordnet (z.B. von amtsintern auf Intranet), kann auch allen untergeordneten Objekten die höhere Freigabestufe zugeordnet werden.
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-08_zusatzinformation/ige-zusatzinformation_datensatz-sprache.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-08_zusatzinformation/ige-zusatzinformation_datensatz-sprache.png
 
 Abb.: Auswahlfelder - Sprache des Metadatensatzes und Veröffentlichung
 
@@ -707,7 +716,7 @@ Die Einstellung haben folgende Bedeutung:
 Sprache der Ressource
 ^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-08_zusatzinformation/ige-zusatzinformation_datensatz-sprache.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-08_zusatzinformation/ige-zusatzinformation_datensatz-sprache.png
 
 Abb.: Auswahlfeld - Sprache der Ressource
 
@@ -717,7 +726,7 @@ Es erfolgt die Angabe der Sprache des beschriebenen Datensatzes, als Standard is
 XML-Export-Kriterium
 ^^^^^^^^^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-08_zusatzinformation/ige-zusatzinformation_xml-export-kriterium.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-08_zusatzinformation/ige-zusatzinformation_xml-export-kriterium.png
 
 Abb.: Auswahlfeld - XML-Export-Kriterium
 
@@ -727,7 +736,7 @@ Eintrag eines Selektionskriteriums zur Steuerung des Exports der Daten. Um eine 
 Weitere Rechtliche Grundlagen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-08_zusatzinformation/ige-zusatzinformation_weitere-rechtliche-grundlagen.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-08_zusatzinformation/ige-zusatzinformation_weitere-rechtliche-grundlagen.png
 
 Abb.: Auswahlfeld - weitere rechtliche Grundlagen
 
@@ -737,7 +746,7 @@ Angabe der rechtlichen Grundlage, die die Erhebung der beschriebenen Daten veran
 Herstellungszweck
 ^^^^^^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-08_zusatzinformation/ige-zusatzinformation_herstellungszweck.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-08_zusatzinformation/ige-zusatzinformation_herstellungszweck.png
 
 Abb.: Textfeld - Herstellungszweck
 
@@ -749,7 +758,7 @@ Beispiel: Apfelbaum#locale-eng:apple tree
 Eignung/Nutzung
 ^^^^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-08_zusatzinformation/ige-zusatzinformation_eignung-nutzung.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-08_zusatzinformation/ige-zusatzinformation_eignung-nutzung.png
 
 Abb.: Beispiel - Präsentation des Raumordnungsprogramms auf Basis der topografischen Kartenwerke
 
@@ -760,7 +769,7 @@ Angaben über die Verwendungsmöglichkeiten, die diese Daten in Verbindung mit w
 Abschnitt Verfügbarkeit
 -----------------------
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-abschnitt_verfuegbarkeit.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-abschnitt_verfuegbarkeit.png
 
 Im Abschnitt Verfügbarkeit wird angegeben, ob die zu beschreibenden Daten einer Zugriffsbeschränkung unterliegen und welche Nutzungsbedingungen für diese Daten gelten.
 
@@ -768,7 +777,7 @@ Im Abschnitt Verfügbarkeit wird angegeben, ob die zu beschreibenden Daten einer
 Zugriffsbeschränkungen
 ^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-verfuegbarkeit_zugriffsbeschraenkungen.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-verfuegbarkeit_zugriffsbeschraenkungen.png
 
 Abb.: Auswahlfeld - Zugriffsbeschränkungen
 
@@ -782,7 +791,7 @@ Im Feld Zugriffsbeschränkungen kann aus einer Auswahlliste ein Grund angegeben 
 Nutzungsbedingungen
 ^^^^^^^^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-verfuegbarkeit_nutzungsbedingungen.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-verfuegbarkeit_nutzungsbedingungen.png
 
 Abb.: Beispiel - Nutzungsbed.: Datenlizenz Deutschland Namensnennung 2.0 / Quellvermerk: © GeoBasis-DE / BKG (Jahr des letzten Datenbezugs)
 
@@ -803,7 +812,7 @@ Beispiel: © GeoBasis-DE / BKG (Jahr des letzten Datenbezugs)
 Anwendungseinschränkungen
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-verfuegbarkeit_anwendungseinschraenkungen.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-verfuegbarkeit_anwendungseinschraenkungen.png
 
 Abb.: Beispiel - Nicht für Navigationszwecke geeignet oder Registrierung erforderlich
 
@@ -813,7 +822,7 @@ Das Feld Anwendungseinschränkungen dient der Beschreibung, welche Einschränkun
 Datenformat
 ^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-verfuegbarkeit_datenformat.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-verfuegbarkeit_datenformat.png
 
 Abb.: Beispiel - TIFF / Version: 6.0 / Kompression: LZW / Spezifikation: WCS
 
@@ -830,7 +839,7 @@ Angabe des Formats der Daten in DV-technischer Hinsicht, in welchem diese verfü
 Medienoptionen
 ^^^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-verfuegbarkeit_medienoptionen.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-verfuegbarkeit_medienoptionen.png
 
 Abb.: Beispiel - CD-ROM / 700 MB / Explorer Z:/Bereich_51/Metainformation/2020-02-26_Hilfetexte.doc
 
@@ -842,7 +851,7 @@ Angabe, auf welchen Medien die Daten zur Verfügung gestellt werden können. Hie
 Bestellinformation
 ^^^^^^^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-verfuegbarkeit_bestellinformation.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-verfuegbarkeit_bestellinformation.png
 
 Abb.: Beispiel - Die Lieferzeit beträgt 3 Wochen
 
@@ -853,7 +862,7 @@ Angabe von generellen Informationen wie Bedingungen oder Konditionen zur Bestell
 Abschnitt Verweise
 ------------------
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-abschnitt_verweise.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-abschnitt_verweise.png
 
 Im Abschnitt Verweise können Verlinkungen zu anderen Objekten innerhalb des Kataloges angelegt, oder es können Verweise mit URLs angelegt werden. Bereits angelegte Verweise lassen sich erneut bearbeiten.
 
@@ -861,7 +870,7 @@ Im Abschnitt Verweise können Verlinkungen zu anderen Objekten innerhalb des Kat
 Verweise zu
 ^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis-zu_tabelle.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis-zu_tabelle.png
 
 Abb.: Tabelle - Verweise zu ...
 
@@ -874,7 +883,7 @@ Es besteht die Möglichkeit, Verweise von einem Objekt zu einem anderen Objekt o
 Verweise von
 ^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis-von.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis-von.png
 
 Abb.: Tabelle - Verweise von ...
 
@@ -886,7 +895,7 @@ Das Editieren oder Hinzufügen ist an dieser Stelle nicht möglich. Sollen die V
 Verweise anlegen
 ----------------
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis-zu_tabelle.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis-zu_tabelle.png
 
 Abb.: Tabelle - Verweise zu ...
 
@@ -901,7 +910,7 @@ Es gibt zwei mögliche Verweisziele:
 Verweistyp
 ^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis_bearbeiten.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis_bearbeiten.png
 
 Abb.: Dialogfenster - Verweis bearbeiten - Verweistyp
 
@@ -910,7 +919,7 @@ Angabe des fachlichen Bezuges, der zwischen dem aktuellen Objekt und dem Verweis
 Wurde der Dialog von einem Feld in einer anderen Rubrik (z.B. Objektklasse Anwendung, Rubrik Fachbezug, Feld: Basisdaten, Verweise) geöffnet, so wird automatisch der betreffende Feldname eingetragen und angezeigt.
 
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis-anlegen.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis-anlegen.png
 
 Abb.: Erfassungsmaske - Eingabefelder mit Verweisen
 
@@ -926,13 +935,13 @@ Die angebotenen Eintragungen der Dropdown-Liste hängen von dem gewählten Objek
 Verweisziel: „Objekt“
 ^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweisziel_objekt.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweisziel_objekt.png
 
 Abb.: Verweisziel Objekt
 
 Über dieses Verweisziel werden Querverweise zwischen den Objekten des MDK definiert. Das Dialogfenster zeigt die entsprechenden Eingabefelder an.
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweisziel_objekt-auswaehlen.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweisziel_objekt-auswaehlen.png
 
 Abb.: Verweisziel: Objekt
 
@@ -961,7 +970,7 @@ Sind alle Pflichtfelder und die gewünschten optionalen Felder gefüllt, kann de
 Verweisziel "URL"
 ^^^^^^^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweisziel_url.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweisziel_url.png
 
 Abb.: Verweisziel: URL
 
@@ -973,7 +982,7 @@ Die Auswahl erfolgt wie im Abschnitt „Verweistyp“ beschrieben.
 Weitere Pflichtfelder sind die „Bezeichnung des Verweises“ sowie „Internet-Adresse (URL)“.
 
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis_bearbeiten.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis_bearbeiten.png
 
 Abb.: Verweis bearbeiten
 
@@ -993,7 +1002,7 @@ Im Feld „Internet-Adresse (URL)“ wird die URL der Internetseite eingetragen,
 Dateiformat
 ^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_dateiformat.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_dateiformat.png
 
 Abb.: Beispiel - Dateiformat für die Objektklasse Datensatz
 
@@ -1019,7 +1028,7 @@ Sollte die URL (noch) nicht bekannt sein, weil erst noch der entsprechende Diens
  
 Auf diese Weise kann der Metadatensatz abschließend gespeichert werden. Sobald der Dienst zur Verfügung steht, wird die richtige Download-URL im Metadatensatz eingetragen und die Veröffentlichungsbreite auf „Internet“ gesetzt. Durch einen Klick auf die Schaltfläche „Hinzufügen“ wird der Internet-Verweis in die Tabelle aufgenommen.
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis-zu_tabelle.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis-zu_tabelle.png
 
 Abb.: Tabelle Verweise zu
 
@@ -1029,7 +1038,7 @@ In der Tabelle „Verweise zu“ werden in der ersten Spalte durch entsprechende
 Filter für Verweistypen
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis-zu_filter.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis-zu_filter.png
 
 Abb.: Tabelle Verweise - Filter
 
@@ -1039,7 +1048,7 @@ Es besteht die Möglichkeit die Verweistypen zu filtern. Die Einträge für die 
 Zeile löschen / bearbeiten
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis-zu_zeile-bearbeiten.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis-zu_zeile-bearbeiten.png
 
 Abb.: Tabelle Verweise - Zeile löschen / bearbeiten
 
@@ -1054,7 +1063,7 @@ Der Befehl „Zeile bearbeiten“ öffnet wieder das bekannte Dialogfenster mit 
 Verweise erben
 ^^^^^^^^^^^^^^
 
-.. image:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis-zu_erben.png
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis-zu_erben.png
 
 Abb.: Tabelle Verweise - erben
 
