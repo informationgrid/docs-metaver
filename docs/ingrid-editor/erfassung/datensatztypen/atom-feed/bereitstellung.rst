@@ -28,7 +28,7 @@ Folgende Voraussetzungen müssen erfüllt sein, damit ATOM-Feeds erstellt und ü
 
 Die Felder (im Abschnitt Fachbezug) müssen wie folgt befüllt werden:
 
-**a) Option: Kopplung des Geodatendienstes mit einem Geodatensatz aus dem gleichen Katalog**
+**Variante 1: Kopplung des Geodatendienstes mit einem Geodatensatz aus dem gleichen Katalog**
 
   1. Klassifikation des Dienstes: Dienst für den Zugriff auf Objekte
   2. Art des Dienstes: Download-Dienste
@@ -42,7 +42,7 @@ Die Felder (im Abschnitt Fachbezug) müssen wie folgt befüllt werden:
   10. InGrid muss die Daten eingelesen (indexiert) haben.
 
 
-**b) Option: Kopplung des Geodatendienstes mit einem externem Geodatensatz**
+**Variante 2: Kopplung des Geodatendienstes mit einem externem Geodatensatz**
 
 
   1. Klassifikation des Dienstes: Dienst für den Zugriff auf Objekte
@@ -58,7 +58,7 @@ Die Felder (im Abschnitt Fachbezug) müssen wie folgt befüllt werden:
 
 
 
-**c) Option: Direkter Verweis auf einen externem Geodatensatz**
+**Variante 3: Direkter Verweis auf einen externem Geodatensatz**
 
   1. Klassifikation des Dienstes: Dienst für den Zugriff auf Objekte
   2. Art des Dienstes: Download-Dienste
