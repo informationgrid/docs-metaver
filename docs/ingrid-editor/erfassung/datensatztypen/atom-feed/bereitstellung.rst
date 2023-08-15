@@ -1,7 +1,6 @@
 
-Datendownloads mit einen ATOM-Feed bereitstellen
+Datendownloads mit einem ATOM-Feed bereitstellen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
 In der Geodateninfrastruktur ist ein ATOM-Downloaddienst ein Dienst für den Download von Geodaten, der meist im Zusammenhang mit der Geodatenbereitstellung als Open Data bzw. der Geodatenbereitstellung nach der INSPIRE-Richtlinie verwendet wird.
 
  
@@ -78,3 +77,5 @@ Beispiel: Formate für den Daten-Download: .gml, .tif, .shp, .zip
 GetFeature-Request werden dagegen nicht ausgewertet. Der Service-Feed enthält hierbei zwar den Verweis zum Daten-Feed, ruft man aber den Daten-Feed auf, so fehlt der Link zum Download. 
 
 Beispiel: https://www.host.de/.../downloads/name_der_datei.zip
+
+.. hint:: Die allgemeinen Felder sind wie unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_beschrieben, die Spezialfelder wie unter `Datensatztyp / Geodatendienst <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztyp-geodatendienst.html>`_ zu befüllen.
