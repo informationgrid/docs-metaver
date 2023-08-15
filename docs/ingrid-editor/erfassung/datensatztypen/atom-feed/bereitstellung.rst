@@ -70,7 +70,7 @@ Die Felder (im Abschnitt Fachbezug) müssen wie folgt befüllt werden:
 Anmerkungen zur Download-URL
 """"""""""""""""""""""""""""
 
-Die Daten, welche für den Download bereitgestellt werden sollen, müssen über das Internet verfügbar sein und über eine URL direkt abrufbar sein. Dabei ist es egal, ob die Daten gezippt oder ungezipt bereitgestellt werden.
+Die Daten, welche für den Download bereitgestellt werden, müssen über das Internet verfügbar sein und über eine URL direkt abrufbar sein. Dabei ist es egal, ob die Daten gezippt oder ungezipt bereitgestellt werden.
 
 Beispielformate für den Daten-Download: .zip, .gml, .tif, .shp, ...
 
