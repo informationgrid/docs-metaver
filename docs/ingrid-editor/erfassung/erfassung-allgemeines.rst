@@ -101,9 +101,9 @@ An den Icons wird durch eine gestrichelte Linie die Veröffentlichungsbreite der
    :widths: 50, 150, 300
 
    Symbol , Markierung , Beschreibung
-   .. image:: ../../img/ige/allgemein/icon_veroeffentlichungsrecht-internet.png , ohne Unterstrich , Der Metadatensatz bzw. die Adresse wurde im Internet veröffentlicht
-   .. image:: ../../img/ige/allgemein/icon_veroeffentlichungsrecht-intranet.png, Unterstrich orange , Der Metadatensatz bzw. die Adresse wurde im Intranet veröffentlicht
-   .. image:: ../../img/ige/allgemein/icon_veroeffentlichungsrecht-amtsintern.png , Unterstrich blau , Der Metadatensatz bzw. die Adresse wurde auf amtsintern gesetzt
+   .. image:: ../../img/ige/allgemein/icon_veroeffentlichungsrecht-internet.png , ohne Punkt , Der Metadatensatz bzw. die Adresse wurde im Internet veröffentlicht
+   .. image:: ../../img/ige/allgemein/icon_veroeffentlichungsrecht-intranet.png, blauer Punkt , Der Metadatensatz bzw. die Adresse wurde im Intranet veröffentlicht
+   .. image:: ../../img/ige/allgemein/icon_veroeffentlichungsrecht-amtsintern.png , roter Punkt , Der Metadatensatz bzw. die Adresse wurde auf amtsintern gesetzt
 
 
 Verantwortlichkeit ändern
