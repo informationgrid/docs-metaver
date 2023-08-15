@@ -107,7 +107,7 @@ Abb.: Menü
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/metadaten.png
    :align: left
-   :scale: 50
+   :scale: 30
    :figwidth: 100%
 
 Abb.: Metadaten
