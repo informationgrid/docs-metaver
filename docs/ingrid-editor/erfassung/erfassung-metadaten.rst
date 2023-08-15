@@ -32,14 +32,40 @@ Abb.: Strukturbaum - Strukturierung mit Ordnern
    :scale: 50
    :figwidth: 100%
 
-Abb.: Symbole Neuen Datensatz anlegen / Ordner erstellen
+Abb.: Symbolleiste - Neuen Datensatz anlegen / Ordner erstellen
 
 
 Um einen neuen Metadatensatz zu veröffentlichen, müssen alle Pflichtfelder ausgefüllt werden.
 
-Ist der neue Metadatensatz angelegt, besteht die Möglichkeit den ihn über die Funktion "Speichern" in seinem aktuellen Bearbeitungsstand zu sichern. Der Metadatensatz erscheint in der Farbe Orange im Strukturbaum. 
+Ist der neue Metadatensatz angelegt, besteht die Möglichkeit den ihn über die Funktion "Speichern" in seinem aktuellen Bearbeitungsstand zu sichern. Der Metadatensatz erscheint in der Farbe Orange im Strukturbaum.
 
-Sind alle Pflichtfelder und erforderliche optionale Felder ausgefüllt, kann der neue Metadatensatz mit „Abschließendes Speichern & Veröffentlichen“, gemäß der ausgewählten Veröffentlichungsbreite, freigegeben werden. Der Metadatensatz erschein dann im Strukturbaum in der Farbe Schwarz.
+.. figure:: ../../img/ige/erfassung/ige_metadaten/symbolleiste_speichern.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Symbolleiste -  Speichern
+
+Sind alle Pflichtfelder und erforderliche optionale Felder ausgefüllt, kann der neue Metadatensatz mit "Abschließendes Speichern & Veröffentlichen", gemäß der ausgewählten Veröffentlichungsbreite, freigegeben werden. Der Metadatensatz erschein dann im Strukturbaum in der Farbe Schwarz.
+
+.. figure:: ../../img/ige/erfassung/ige_metadaten/symbolleiste_veroeffentlichen.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Symbolleiste -  Veröffentlichen
+
+
+Wird ein Metadatensatz erneut bearbeitet und gespeichert, escheint das Symbol in der Farbkombination Oragne/Schwarz.
+
+
+.. figure:: ../../img/ige/erfassung/ige_metadaten/symbolleiste_veroeffentlichen.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Strukturbaum -  Symbolfarben
+
 
 
 Pflichtfelder und optionale Felder
