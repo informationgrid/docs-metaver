@@ -82,4 +82,4 @@ GetFeature-Request werden dagegen nicht ausgewertet. Der Service-Feed enthält h
 
 .. hint:: Die allgemeinen Felder sind wie unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_, die Spezialfelder wie unter `Datensatztyp / Geodatendienst <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztyp-geodatendienst.html>`_ beschrieben, zu befüllen.
 
-.. important:: Sollte es Schwierigkeiten bei der Erstellung eines ATOM-Downloaddienstes geben, setzen Sie sich bitte, über das `METAVER Kontaktformular <https://metaver.de/kontakt>`_, mit Ihrem zuständigen Katalogadministrator in Verbindung.
+.. important:: Sollte es Schwierigkeiten bei der Erstellung eines ATOM-Downloaddienstes geben, setzen Sie sich bitte, über das `METAVER Kontaktformular <https://metaver.de/kontakt>`_, mit Ihrem zuständigen Katalogadministrator (Bundesland angeben) in Verbindung.
