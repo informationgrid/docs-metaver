@@ -7,17 +7,10 @@ Metadaten erfassen
 
 
 
-Strukturierung der Metadatensätze
----------------------------------
-
-Für eine übersichtliche Verwaltung der Metadatensätze, können hierarchische Strukturen mit Ordnern angelegt werden.
-
-
 Einen neuen Metadatensatz anlegen
 ---------------------------------
 
-
-Zum Anlegen eines neuen Metadatensatzes muss zunächst der Ordner im Strukturbaum ausgewählt werden, unter dem der neue Metadatensatz angelegt werden soll.
+Für eine übersichtliche Verwaltung der Metadatensätze, können hierarchische Strukturen mit Ordnern angelegt werden. Zum Anlegen eines neuen Metadatensatzes muss zunächst der Ordner im Strukturbaum ausgewählt werden, unter dem der neue Metadatensatz angelegt werden soll.
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/strukturbaum_ordner.png
    :align: left
