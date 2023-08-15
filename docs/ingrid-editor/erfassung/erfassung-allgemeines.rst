@@ -68,7 +68,7 @@ Abb.: Adresstypen in der Ordnerstruktur
 
 
 
-Icons - Bearbeitungsstatus
+Symbole - Bearbeitungsstatus
 --------------------------
 
 Neben Metadatentypen bzw. dem Adresstyp zeigen die Icons zusätzlich den jeweiligen Bearbeitungsstatus an.
@@ -95,7 +95,7 @@ Berechtigungen zu den Metadaten
 Veröffenlichungsrecht setzten ...
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-An den Icons wird durch eine gestrichelte Linie die Veröffentlichungsbreite der Adresse oder des Metadatensatzes angezeigt.
+An den Symbolen wird durch einen Punkt die Veröffentlichungsbreite der Adresse oder des Metadatensatzes angezeigt.
 
 .. csv-table::
    :widths: 50, 150, 300
