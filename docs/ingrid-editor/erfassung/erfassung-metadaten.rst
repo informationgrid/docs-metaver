@@ -47,7 +47,7 @@ Sind alle Pflichtfelder und erforderliche optionale Felder ausgefüllt, kann der
 Abb.: Symbolleiste -  Veröffentlichen
 
 
-Wird ein Metadatensatz erneut bearbeitet und gespeichert, escheint das Symbol in der Farbkombination Oragne/Schwarz.
+Wird ein Metadatensatz erneut bearbeitet und gespeichert, escheint das Symbol in der Farbkombination Orange/Schwarz.
 
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/strukturbaum_symbolfarben.png
@@ -59,10 +59,11 @@ Abb.: Strukturbaum -  Symbolfarben
 
 -----------------------------------------------------------------------------------------------------------------------
 
+
 Pflichtfelder und optionale Felder
 ----------------------------------
 
-Je nach Auswahl der Objektklasse, werden im Inhaltsfenster des InGrid Editors unterschiedliche Felder angeboten. Die Pflichtfelder unterscheiden sich zwischen den einzelnen Objektklassen. Am umfangreichsten ist die Objektklasse „Geodatensatz“, die Klasse „Organisationseinheit“ ist dagegen am schnellsten zu befüllen.
+Je nach Auswahl des Datensatztyps, werden in der Erfassungsmaske des InGrid Editors unterschiedliche Felder angezeigt. Die Pflichtfelder unterscheiden sich zwischen den Datensatztypen. Am umfangreichsten ist der Datensatztyp "Geodatensatz", der Typ "Fachaufgabe" ist dagegen am schnellsten zu befüllen.
 
 .. hint:: Grundsätzlich wird empfohlen, nicht nur die Pflichtfelder auszufüllen, sondern auch die optionalen Felder (soweit möglich) mit Einträgen zu versehen, um einen Mehrwert zu erzielen.
 
