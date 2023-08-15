@@ -101,9 +101,9 @@ An den Symbolen wird durch einen Punkt die Veröffentlichungsbreite der Adresse 
    :widths: 50, 150, 300
 
    Symbol , Markierung , Beschreibung
-   .. image:: ../../img/ige/allgemein/icon_veroeffentlichungsrecht-internet.png , ohne Punkt , Der Metadatensatz bzw. die Adresse wurde im Internet veröffentlicht
-   .. image:: ../../img/ige/allgemein/icon_veroeffentlichungsrecht-intranet.png, blauer Punkt , Der Metadatensatz bzw. die Adresse wurde im Intranet veröffentlicht
-   .. image:: ../../img/ige/allgemein/icon_veroeffentlichungsrecht-amtsintern.png , roter Punkt , Der Metadatensatz bzw. die Adresse wurde auf amtsintern gesetzt
+   .. image:: ../../img/ige/allgemein/icon_veroeffentlichungsrecht-internet.png , ohne Punkt , Der Metadatensatz bzw. die Adresse wird im Internet veröffentlicht
+   .. image:: ../../img/ige/allgemein/icon_veroeffentlichungsrecht-intranet.png, blauer Punkt , Der Metadatensatz bzw. die Adresse wird im Intranet veröffentlicht
+   .. image:: ../../img/ige/allgemein/icon_veroeffentlichungsrecht-amtsintern.png , roter Punkt , Der Metadatensatz bzw. die Adresse ist auf amtsintern gesetzt und wird nicht veröffentlicht.
 
 
 Verantwortlichkeit ändern
