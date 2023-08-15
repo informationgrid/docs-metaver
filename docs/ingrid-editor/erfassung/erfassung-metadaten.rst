@@ -96,7 +96,7 @@ Die nachfolgenden Felder der Erfassungsmasken wurden in diesem Dokument allgemei
 
 
 Kopf der Erfassungsmaske
-------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/menue.png
    :align: left
@@ -121,9 +121,13 @@ Abb.: Optionen
 
 Nach dem Anlegen eines neuen Objektes stehen die Eingabefelder für das neue Objekt im rechten Inhaltsfenster zur Verfügung. Im ersten Schritt sollten die Basisinformationen in der Erfassungsmaske (Screenshot) bearbeitet werden. Hier wird automatisiert der Erfasser eingetragen, der das Objekt angelegt hat. An dieser Stelle sollte jedoch die Person stehen, die für die Aktualisierung zuständig ist. In der Regel ist der Erfasser auch die fachlich Verantwortliche Person (Standardeinstellung).
 
+-----------------------------------------------------------------------------------------------------------------------
 
-Datensatzname
-^^^^^^^^^^^^^
+Abschnitt Allgemeines
+^^^^^^^^^^^^^^^^^^^^^
+
+Feld: Datensatzname
+"""""""""""""""""""
 
 Angabe einer kurzen prägnanten Bezeichnung. Soweit ein gängiges Kürzel vorhanden ist, ist dieses Kürzel mit anzugeben.
 
