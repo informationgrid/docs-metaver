@@ -279,7 +279,7 @@ Auswahllisten werden über den Pfeil an der rechten Seite des Feldes aufgeklappt
 .. figure:: ../../img/ige/allgemein/feldtyp_auswahl.png
    :width: 500
 
-Abb.: Feldtyp - Auswahl
+Abb.: Feldtyp - Auswahllisten und Datumsangabe
 
 
 Speichern & Veröffentlichen
