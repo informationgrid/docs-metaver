@@ -20,11 +20,17 @@ Einen neuen Metadatensatz anlegen
 Zum Anlegen eines neuen Metadatensatzes muss zunächst der Ordner im Strukturbaum ausgewählt werden, unter dem der neue Metadatensatz angelegt werden soll.
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/strukturbaum_ordner.png
+   :align: left
+   :scale: 30
+   :figwidth: 80%
 
 Abb.: Strukturbaum - Strukturierung mit Ordnern
 
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/symbolleiste_neu-anlegen.png
+   :align: left
+   :scale: 30
+   :figwidth: 80%
 
 Abb.: Symbole Neuen Datensatz anlegen / Ordner erstellen
 
