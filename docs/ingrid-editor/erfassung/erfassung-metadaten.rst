@@ -114,7 +114,7 @@ Wird der Pfeil nach unten betätigt, öffnen sich die Metadaten des Datensatzes.
    :scale: 40
    :figwidth: 100%
 
-Abb.: Metadaten
+Abb.: Metadaten des Datensatzes
 
 
 Hier werden angezeigt: Status, Typ, ID, Erstellt am, Geändert am und Verantwortlich.
