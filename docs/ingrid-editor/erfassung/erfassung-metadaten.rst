@@ -7,8 +7,8 @@ Metadaten erfassen
 
 
 
-Einen neuen Metadatensatz anlegen
----------------------------------
+Metadatensätze anlegen
+-----------------------
 
 Für eine übersichtliche Verwaltung der Metadatensätze, können hierarchische Strukturen mit Ordnern angelegt werden. Zum Anlegen eines neuen Metadatensatzes muss zunächst der Ordner im Strukturbaum ausgewählt werden, unter dem der neue Metadatensatz angelegt werden soll.
 
