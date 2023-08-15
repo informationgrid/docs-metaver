@@ -71,14 +71,14 @@ Je nach Auswahl des Datensatztyps, werden in der Erfassungsmaske des InGrid Edit
 Der getCapabilities Assistent
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Für die Erfassung von Geodatendiensten (WMS, WFS, WCS, WCTS, WMTS und CSW) kann der getCapabilities-Assistent genutzt werden. Neu ist, dass der Assistent über die Symbolleiste aufgerufen werden muss. In dem sich öffnenden Fenster ist die getCapabilitie-URL einzutragen. Mit den Button "ÜBERNEHMEN" die Opreationen im Hintergrund verarbeitet, so dass die Erfassung von OGC konformen Diensten erheblich vereinfacht wird. Die Ergebnisse der Analyse werden angezeigt, es kann eine Auswahl der Metadaten vorgenommen werden, die in den Metadatensatz übernommen werden sollen. Anschließend kann der Datensatz im InGrid Editor weiterbearbeitet und gespeichert werden.
-
 .. figure:: ../../img/ige/erfassung/ige_metadaten/symbolleiste_assistent.png
    :align: left
    :scale: 50
    :figwidth: 100%
 
 Abb.: Symbolleiste -  getCapabilities-Assistent
+
+Für die Erfassung von Geodatendiensten (WMS, WFS, WCS, WCTS, WMTS und CSW) kann der getCapabilities-Assistent genutzt werden. Neu ist, dass der Assistent über die Symbolleiste aufgerufen werden muss. In dem sich öffnenden Fenster ist die getCapabilitie-URL einzutragen. Mit den Button "ÜBERNEHMEN" die Opreationen im Hintergrund verarbeitet, so dass die Erfassung von OGC konformen Diensten erheblich vereinfacht wird. Die Ergebnisse der Analyse werden angezeigt, es kann eine Auswahl der Metadaten vorgenommen werden, die in den Metadatensatz übernommen werden sollen. Anschließend kann der Datensatz im InGrid Editor weiterbearbeitet und gespeichert werden.
 
 Eine ausführliche Beschreibung für diese Funktion erfolgt im Datensatztyp `Geodatendienst <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztyp-geodatendienst.html>`_ .
 
@@ -89,8 +89,8 @@ Eine ausführliche Beschreibung für diese Funktion erfolgt im Datensatztyp `Geo
 -----------------------------------------------------------------------------------------------------------------------
 
 
-Datensatztypen ausfüllen
-------------------------
+Erfassungsmasken ausfüllen
+--------------------------
 
 Die nachfolgenden Felder der Erfassungsmaske wurden in diesem Dokument allgemein beschrieben. Spezielle und ausführliche Angaben sind unter dem Punkt "Objektklassen" beschrieben.
 
