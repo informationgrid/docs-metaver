@@ -79,7 +79,7 @@ Sprungmarken
 
 Unter dem Titel des Datensates (ebenfalls im grauen Bereich) befindet sich die Sprungmarken, über diese Navigation können Benutzer schnell in die verschiedenen Abschnitte der Erfassungsmaske springen ohne lange scrollen zu müssen.
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/navigation/spungmarken.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/navigation/sprungmarken.png
    :align: left
    :scale: 50
    :figwidth: 100%
