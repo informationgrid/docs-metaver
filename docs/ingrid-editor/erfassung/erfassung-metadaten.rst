@@ -104,22 +104,7 @@ Abb.: Schalter für das Ein- und Ausblenden von optionalen Feldern
 .. hint:: Grundsätzlich wird empfohlen, nicht nur die Pflichtfelder auszufüllen, sondern auch die optionalen Felder (soweit möglich) mit Einträgen zu versehen, um einen Mehrwert zu erzielen.
 
 
-Der getCapabilities Assistent
-"""""""""""""""""""""""""""""
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/symbolleiste/assistent.png
-   :align: left
-   :scale: 50
-   :figwidth: 100%
-
-Abb.: Symbolleiste -  getCapabilities-Assistent
-
-Für die Erfassung von Geodatendiensten (WMS, WFS, WCS, WCTS, WMTS und CSW) kann der getCapabilities-Assistent genutzt werden. Neu ist, dass der Assistent über die Symbolleiste aufgerufen werden muss. In dem sich öffnenden Fenster ist die getCapabilitie-URL einzutragen. Mit den Button "ÜBERNEHMEN" die Opreationen im Hintergrund verarbeitet, so dass die Erfassung von OGC konformen Diensten erheblich vereinfacht wird. Die Ergebnisse der Analyse werden angezeigt, es kann eine Auswahl der Metadaten vorgenommen werden, die in den Metadatensatz übernommen werden sollen. Anschließend kann der Datensatz im InGrid Editor weiterbearbeitet und gespeichert werden.
-
-Eine ausführliche Beschreibung für diese Funktion erfolgt im Datensatztyp `Geodatendienst <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztyp-geodatendienst.html>`_.
-
-
-.. hint:: Der Allgemeine Erfassungsassistent ist im neuen InGrid Editor entfallen.
 
 
 -----------------------------------------------------------------------------------------------------------------------
