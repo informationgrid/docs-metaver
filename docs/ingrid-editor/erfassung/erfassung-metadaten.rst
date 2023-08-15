@@ -5,8 +5,6 @@ Metadaten erfassen
 
 .. important:: Bevor Sie mit der Erfassung der Metadaten beginnen, empfiehlt es sich, mit der Erfassung der Adressdaten anzufangen. Grund: Verweise von den Metadaten auf die Adressen.
 
-
-
 Metadatensätze anlegen
 -----------------------
 
@@ -59,7 +57,7 @@ Wird ein Metadatensatz erneut bearbeitet und gespeichert, escheint das Symbol in
 
 Abb.: Strukturbaum -  Symbolfarben
 
-
+-----------------------------------------------------------------------------------------------------------------------
 
 Pflichtfelder und optionale Felder
 ----------------------------------
