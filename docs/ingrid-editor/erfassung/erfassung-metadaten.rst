@@ -71,7 +71,7 @@ Je nach Auswahl des Datensatztyps, werden in der Erfassungsmaske des InGrid Edit
 Der getCapabilities Assistent
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/_symbbolleiste/ssistent.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/symbbolleiste/ssistent.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -98,21 +98,21 @@ Die nachfolgenden Felder der Erfassungsmasken wurden in diesem Dokument allgemei
 Kopf der Erfassungsmaske
 ------------------------
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/datensatz_kopf-menue.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/menue.png
    :align: left
    :scale: 50
    :figwidth: 100%
 
 Abb.: Datensatzkopf
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/datensatz_kopf.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/metadaten.png
    :align: left
    :scale: 50
    :figwidth: 100%
 
 Abb.: Datensatzkopf
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/datensatz_kopf-optionen.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/optionen.png
    :align: left
    :scale: 50
    :figwidth: 100%
