@@ -71,7 +71,7 @@ Je nach Auswahl des Datensatztyps, werden in der Erfassungsmaske des InGrid Edit
 Der getCapabilities Assistent
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Für die Erfassung von Geodatendiensten (WMS, WFS, WCS, WCTS, WMTS und CSW) kann der getCapabilities-Assistent genutzt werden. Neu ist, dass der Assistent über die Symbolleiste aufgerufen werden muss. In dem sich öffnenden Fenster ist die getCapabilitie-URL einzutragen. Mit den Button "ÜBERNEHMEN" werden auf Grundlage der Informationen der getCapabilitie-URL die Opreationen im Hintergrund verarbeitet, so dass die Erfassung von OGC konformen Diensten erheblich vereinfacht wird. Die Ergebnisse der Analyse werden angezeigt, es kann eine Auswahl der Metadaten erfolgen, die in den Metadatensatz übernommen werden sollen. Anschließend kann der Datensatz im InGrid Editor weiterbearbeitet und gespeichert werden.
+Für die Erfassung von Geodatendiensten (WMS, WFS, WCS, WCTS, WMTS und CSW) kann der getCapabilities-Assistent genutzt werden. Neu ist, dass der Assistent über die Symbolleiste aufgerufen werden muss. In dem sich öffnenden Fenster ist die getCapabilitie-URL einzutragen. Mit den Button "ÜBERNEHMEN" die Opreationen im Hintergrund verarbeitet, so dass die Erfassung von OGC konformen Diensten erheblich vereinfacht wird. Die Ergebnisse der Analyse werden angezeigt, es kann eine Auswahl der Metadaten vorgenommen werden, die in den Metadatensatz übernommen werden sollen. Anschließend kann der Datensatz im InGrid Editor weiterbearbeitet und gespeichert werden.
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/symbolleiste_assistent.png
    :align: left
