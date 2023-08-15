@@ -105,7 +105,7 @@ Oben, rechts (im grauen Bereich) in der Erfassungsmaske befindet sich das Menü 
    :scale: 50
    :figwidth: 100%
 
-Abb.: Menü
+Abb.: Zweipunktemenü
 
 Wird der Pfeil nach unten betätigt, öffnen sich die Metadaten des Datensatzes.
 
