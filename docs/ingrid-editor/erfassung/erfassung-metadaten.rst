@@ -59,35 +59,6 @@ Abb.: Strukturbaum -  Symbolfarben
 
 -----------------------------------------------------------------------------------------------------------------------
 
-Informationen
-^^^^^^^^^^^^^
-
-Ordner-Navigation
-"""""""""""""""""""""
-
-Im grauen Bereich der Erfassungsmaske befindet sich die Ordner-Navigation. Hier benommen Benutzer anzeigt, in welcher Ordner-Ebene sie sich gerade befinden.
-
-.. figure:: ../../img/ige/erfassung/ige_metadaten/navigation/ordner-navigation.png
-   :align: left
-   :scale: 50
-   :figwidth: 100%
-
-Abb.: Ordner-Navigation
-
-Sprungmarken
-""""""""""""
-
-Unter dem Titel des Datensates (ebenfalls im grauen Bereich) befindet sich die Sprungmarken, über diese Navigation können Benutzer schnell in die verschiedenen Abschnitte der Erfassungsmaske springen ohne lange scrollen zu müssen.
-
-.. figure:: ../../img/ige/erfassung/ige_metadaten/navigation/sprungmarken.png
-   :align: left
-   :scale: 50
-   :figwidth: 100%
-
-Abb.: Sprungmarken
-
------------------------------------------------------------------------------------------------------------------------
-
 
 Erfassungsmasken ausfüllen
 --------------------------
