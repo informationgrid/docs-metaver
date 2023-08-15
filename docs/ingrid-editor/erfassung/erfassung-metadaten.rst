@@ -62,10 +62,10 @@ Abb.: Strukturbaum -  Symbolfarben
 Informationen
 ^^^^^^^^^^^^^
 
-Brotkrümel-Navigation
+Ordner-Navigation
 """""""""""""""""""""
 
-Im grauen Bereich der Erfassungsmaske befindet sich die "Brotkrümel-Navigation" (englisch: breadcrumb navigation), hier benommen Benutzer anzeigt, in welcher Ordner-Ebene sie sich gerade befinden.
+Im grauen Bereich der Erfassungsmaske befindet sich die Ordner-Navigation. Hier benommen Benutzer anzeigt, in welcher Ordner-Ebene sie sich gerade befinden.
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/navigation/ordner-navigation.png
    :align: left
