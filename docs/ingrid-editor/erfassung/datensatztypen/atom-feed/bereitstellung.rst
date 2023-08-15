@@ -78,4 +78,4 @@ GetFeature-Request werden dagegen nicht ausgewertet. Der Service-Feed enthält h
 
 Beispiel: https://www.host.de/.../downloads/name_der_datei.zip
 
-.. hint:: Die allgemeinen Felder sind wie unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_beschrieben, die Spezialfelder wie unter `Datensatztyp / Geodatendienst <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztyp-geodatendienst.html>`_ zu befüllen.
+.. hint:: Die allgemeinen Felder sind wie unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_ beschrieben, die Spezialfelder wie unter `Datensatztyp / Geodatendienst <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztyp-geodatendienst.html>`_ zu befüllen.
