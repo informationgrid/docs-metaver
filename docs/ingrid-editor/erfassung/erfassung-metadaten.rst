@@ -59,7 +59,32 @@ Abb.: Strukturbaum -  Symbolfarben
 
 -----------------------------------------------------------------------------------------------------------------------
 
-A
+Informationen
+^^^^^^^^^^^^^
+
+Navigation
+""""""""""
+
+Im grauen Bereich der Erfassungsmaske befindet sich die "Brotkrümelnavigation" (englisch: breadcrumb navigation), hier benommen die Benutzer anzeigt, in welcher Ordner-Ebene sie sich gerade befinden.
+
+.. figure:: ../../img/ige/erfassung/ige_metadaten/navigation/ordner-navigation.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Breadcrumb navigation
+
+Sprungmenü
+""""""""""
+
+Unter dem Titel des Datensates (ebenfalls im grauen Bereich) befindet sich die Sprungmarken, über diese Navigation können Nutzer schnell in die verschiedenen Abschnitte der Erfassungsmaske springen ohne lange scrollen zu müssen.
+
+.. figure:: ../../img/ige/erfassung/ige_metadaten/navigation/spungmarken.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Sprungmarken
 
 
 Pflichtfelder und optionale Felder
@@ -82,7 +107,7 @@ Abb.: Schalter für das Ein- und Ausblenden von optionalen Feldern
 Der getCapabilities Assistent
 """""""""""""""""""""""""""""
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/symbbolleiste/assistent.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/symbolleiste/assistent.png
    :align: left
    :scale: 50
    :figwidth: 100%
