@@ -72,7 +72,7 @@ Im grauen Bereich der Erfassungsmaske befindet sich die Ordner-Navigation. Hier 
    :scale: 50
    :figwidth: 100%
 
-Abb.: Breadcrumb navigation
+Abb.: Ordner-Navigation
 
 Sprungmarken
 """"""""""""
