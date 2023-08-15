@@ -10,7 +10,7 @@ Metadatensätze anlegen
 
 Für eine übersichtliche Verwaltung der Metadatensätze, können hierarchische Strukturen mit Ordnern angelegt werden. Zum Anlegen eines neuen Metadatensatzes muss zunächst der Ordner im Strukturbaum ausgewählt werden, unter dem der neue Metadatensatz angelegt werden soll.
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/strukturbaum_ordner.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/strukturbaum/ordner.png
    :align: left
    :scale: 40
    :figwidth: 100%
@@ -18,7 +18,7 @@ Für eine übersichtliche Verwaltung der Metadatensätze, können hierarchische 
 Abb.: Strukturbaum - Strukturierung mit Ordnern
 
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/symbolleiste_neu-anlegen.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/symbolleiste/neu-anlegen.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -30,7 +30,7 @@ Um einen neuen Metadatensatz zu veröffentlichen, müssen alle Pflichtfelder aus
 
 Ist der neue Metadatensatz angelegt, besteht die Möglichkeit den ihn über die Funktion "Speichern" in seinem aktuellen Bearbeitungsstand zu sichern. Der Metadatensatz erscheint in der Farbe Orange im Strukturbaum.
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/symbolleiste_speichern.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/symbolleiste/speichern.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -39,7 +39,7 @@ Abb.: Symbolleiste -  Speichern
 
 Sind alle Pflichtfelder und erforderliche optionale Felder ausgefüllt, kann der neue Metadatensatz mit "Abschließendes Speichern & Veröffentlichen", gemäß der ausgewählten Veröffentlichungsbreite, freigegeben werden. Der Metadatensatz erschein dann im Strukturbaum in der Farbe Schwarz.
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/symbolleiste_veroeffentlichen.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/symbolleiste/veroeffentlichen.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -50,7 +50,7 @@ Abb.: Symbolleiste -  Veröffentlichen
 Wird ein Metadatensatz erneut bearbeitet und gespeichert, escheint das Symbol in der Farbkombination Orange/Schwarz.
 
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/strukturbaum_symbolfarben.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/strukturbaum/symbolfarben.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -71,7 +71,7 @@ Je nach Auswahl des Datensatztyps, werden in der Erfassungsmaske des InGrid Edit
 Der getCapabilities Assistent
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/symbolleiste_assistent.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/_symbbolleiste/ssistent.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -92,15 +92,32 @@ Eine ausführliche Beschreibung für diese Funktion erfolgt im Datensatztyp `Geo
 Erfassungsmasken ausfüllen
 --------------------------
 
-Die nachfolgenden Felder der Erfassungsmasken wurden in diesem Dokument allgemein beschrieben. Spezielle und ausführliche Angaben sind unter dem Punkt `Datensatztypen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztypen.html>`_ beschrieben.
+Die nachfolgenden Felder der Erfassungsmasken wurden in diesem Dokument allgemein beschrieben. Spezielle und ausführliche Angaben, sind unter dem Punkt `Datensatztypen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztypen.html>`_ beschrieben.
 
 
 Kopf der Erfassungsmaske
 ------------------------
 
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-01_kopf/ige-objekt_kopf.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/datensatz_kopf-menue.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
-Abb.: Kopf der Erfassungsmaske
+Abb.: Datensatzkopf
+
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/datensatz_kopf.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Datensatzkopf
+
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/datensatz_kopf-optionen.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Datensatzkopf
 
 Nach dem Anlegen eines neuen Objektes stehen die Eingabefelder für das neue Objekt im rechten Inhaltsfenster zur Verfügung. Im ersten Schritt sollten die Basisinformationen in der Erfassungsmaske (Screenshot) bearbeitet werden. Hier wird automatisiert der Erfasser eingetragen, der das Objekt angelegt hat. An dieser Stelle sollte jedoch die Person stehen, die für die Aktualisierung zuständig ist. In der Regel ist der Erfasser auch die fachlich Verantwortliche Person (Standardeinstellung).
 
