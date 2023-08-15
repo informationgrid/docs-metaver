@@ -198,8 +198,8 @@ Eine ausführliche Beschreibung für diese Funktion erfolgt im Datensatztyp `Geo
 .. hint:: Der Allgemeine Erfassungsassistent ist im neuen InGrid Editor entfallen.
 
 
-Pflichtfelder und optionale Felder
-""""""""""""""""""""""""""""""""""
+Alle - Felder anzeigen
+----------------------
 
 Je nach Auswahl des Datensatztyps, werden in der Erfassungsmaske des InGrid Editors unterschiedliche Felder angezeigt. Die Pflichtfelder unterscheiden sich zwischen den Datensatztypen. Am umfangreichsten ist der Datensatztyp "Geodatensatz", der Typ "Fachaufgabe" ist dagegen am schnellsten zu befüllen.
 
