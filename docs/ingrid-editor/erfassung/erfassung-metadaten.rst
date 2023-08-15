@@ -62,10 +62,10 @@ Abb.: Strukturbaum -  Symbolfarben
 Informationen
 ^^^^^^^^^^^^^
 
-Navigation
-""""""""""
+Brotkrümel-Navigation
+"""""""""""""""""""""
 
-Im grauen Bereich der Erfassungsmaske befindet sich die "Brotkrümelnavigation" (englisch: breadcrumb navigation), hier benommen die Benutzer anzeigt, in welcher Ordner-Ebene sie sich gerade befinden.
+Im grauen Bereich der Erfassungsmaske befindet sich die "Brotkrümel-Navigation" (englisch: breadcrumb navigation), hier benommen Benutzer anzeigt, in welcher Ordner-Ebene sie sich gerade befinden.
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/navigation/ordner-navigation.png
    :align: left
@@ -74,10 +74,10 @@ Im grauen Bereich der Erfassungsmaske befindet sich die "Brotkrümelnavigation" 
 
 Abb.: Breadcrumb navigation
 
-Sprungmenü
-""""""""""
+Sprungmarken
+""""""""""""
 
-Unter dem Titel des Datensates (ebenfalls im grauen Bereich) befindet sich die Sprungmarken, über diese Navigation können Nutzer schnell in die verschiedenen Abschnitte der Erfassungsmaske springen ohne lange scrollen zu müssen.
+Unter dem Titel des Datensates (ebenfalls im grauen Bereich) befindet sich die Sprungmarken, über diese Navigation können Benutzer schnell in die verschiedenen Abschnitte der Erfassungsmaske springen ohne lange scrollen zu müssen.
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/navigation/spungmarken.png
    :align: left
