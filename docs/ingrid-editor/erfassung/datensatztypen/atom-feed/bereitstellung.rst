@@ -72,10 +72,12 @@ Anmerkungen zur Download-URL
 
 Die Daten, welche für den Download bereitgestellt werden sollen, müssen über das Internet verfügbar sein und über eine URL direkt abrufbar sein. Dabei ist es egal, ob die Daten gezippt oder ungezipt bereitgestellt werden.
 
-Beispiel: Formate für den Daten-Download: .gml, .tif, .shp, .zip
+Formate für den Daten-Download: .gml, .tif, .shp, .zip
+
+Beispiel: https://www.host.de/.../downloads/name_der_datei.zip
+
 
 GetFeature-Request werden dagegen nicht ausgewertet. Der Service-Feed enthält hierbei zwar den Verweis zum Daten-Feed, ruft man aber den Daten-Feed auf, so fehlt der Link zum Download. 
 
-Beispiel: https://www.host.de/.../downloads/name_der_datei.zip
 
 .. hint:: Die allgemeinen Felder sind wie unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_, die Spezialfelder wie unter `Datensatztyp / Geodatendienst <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztyp-geodatendienst.html>`_ zu befüllen.
