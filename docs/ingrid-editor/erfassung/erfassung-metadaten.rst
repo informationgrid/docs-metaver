@@ -105,22 +105,21 @@ Oben, rechts (im grauen Bereich) in der Erfassungsmaske befindet sich das Menü 
    :scale: 50
    :figwidth: 100%
 
-Wird der Pfeil nach unten betätigt, öffnen sich die Metadaten des Datensatzes.
-
-
 Abb.: Menü
+
+Wird der Pfeil nach unten betätigt, öffnen sich die Metadaten des Datensatzes.
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/metadaten.png
    :align: left
    :scale: 40
    :figwidth: 100%
 
+Abb.: Metadaten
+
 
 Hier werden angezeigt: Status, Typ, ID, Erstellt am, Geändert am und Verantwortlich.
 
 Wird das Dreipunktemenü betätigt öffenen sich die Optionen: Veröffentlichungsrecht setzen ..., Berechtigungen anzeigen und Verantwortlichkeit ändern.
-
-Abb.: Metadaten
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/optionen.png
    :align: left
