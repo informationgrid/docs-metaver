@@ -72,9 +72,9 @@ Anmerkungen zur Download-URL
 
 Die Daten, welche für den Download bereitgestellt werden, müssen über das Internet verfügbar sein und über eine URL direkt abrufbar sein. Dabei ist es egal, ob die Daten gezippt oder ungezipt bereitgestellt werden.
 
-Beispielformate für den Daten-Download: .zip, .gml, .tif, .shp, ...
+Beispiel-Formate für den Daten-Download: .zip, .gml, .tif, .shp, ...
 
-Beispiel: https://www.host.de/.../downloads/name_der_datei.zip
+Beispiel-URL: https://www.host.de/.../downloads/name_der_datei.zip
 
 
 GetFeature-Request werden dagegen nicht ausgewertet. Der Service-Feed enthält hierbei zwar den Verweis zum Daten-Feed, ruft man aber den Daten-Feed auf, so fehlt der Link zum Download. 
