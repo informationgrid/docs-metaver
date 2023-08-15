@@ -103,21 +103,21 @@ Kopf der Erfassungsmaske
    :scale: 50
    :figwidth: 100%
 
-Abb.: Datensatzkopf
+Abb.: Menü
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/metadaten.png
    :align: left
    :scale: 50
    :figwidth: 100%
 
-Abb.: Datensatzkopf
+Abb.: Metadaten
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/optionen.png
    :align: left
    :scale: 50
    :figwidth: 100%
 
-Abb.: Datensatzkopf
+Abb.: Optionen
 
 Nach dem Anlegen eines neuen Objektes stehen die Eingabefelder für das neue Objekt im rechten Inhaltsfenster zur Verfügung. Im ersten Schritt sollten die Basisinformationen in der Erfassungsmaske (Screenshot) bearbeitet werden. Hier wird automatisiert der Erfasser eingetragen, der das Objekt angelegt hat. An dieser Stelle sollte jedoch die Person stehen, die für die Aktualisierung zuständig ist. In der Regel ist der Erfasser auch die fachlich Verantwortliche Person (Standardeinstellung).
 
