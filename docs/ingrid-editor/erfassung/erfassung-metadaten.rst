@@ -68,27 +68,21 @@ Je nach Auswahl des Datensatztyps, werden in der Erfassungsmaske des InGrid Edit
 .. hint:: Grundsätzlich wird empfohlen, nicht nur die Pflichtfelder auszufüllen, sondern auch die optionalen Felder (soweit möglich) mit Einträgen zu versehen, um einen Mehrwert zu erzielen.
 
 
-Der Erfassungsassistent
------------------------
+Der getCapabilities Assistent
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Wird ein neues Objekt angelegt, öffnet sich ein Dialogfenster. Darin muss ausgewählt werden, welcher Assistent oder welcher Objekttyp verwendet werden soll.
+Für die Erfassung von Geodatendiensten (WMS, WFS, WCS, WCTS, WMTS und CSW) kann der getCapabilities-Assistent genutzt werden. Neu ist, dass der Assistent über die Symbolleiste aufgerufen werden muss. In das sich öffnende Fenster ist die getCapabilitie-URL einzutragen. Mit den Button "ÜBERNEHMEN" werden auf Grundlage der Informationen der getCapabilitie-URL die Opreationen im Hintergrund verarbeitet, so dass die Erfassung von OGC konformen Diensten erheblich vereinfacht wird. Die Ergebnisse der Analyse werden angezeigt, es kann eine Auswahl der Metadaten erfolgen, die in den Metadatensatz übernommen werden sollen. Anschließend kann der Datensatz im InGrid Editor weiterbearbeitet und gespeichert werden.
 
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_assistenten/ige-objekt-anlegen_assistent.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/symbolleiste_assistent.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
-Abb.: Erfassungsassistent
-
-Allgemeiner Erfassungsassistent
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Sind die zu beschreibenden Informationen bereits im Internet veröffentlicht, kann der Allgemeine Erfassungsassistent genutzt werden. Die entsprechende Internetseite wird hierbei vom Semantic Network Service (SNS, Umweltbundesamt) analysiert. Soweit ausreichend Informationen auf der jeweiligen Internetseite vorhanden sind, werden die Felder Titel, Beschreibung, Schlagworte, Raum- und Zeitbezug automatisch gefüllt.
+Abb.: Symbolleiste -  getCapabilities-Assistent
 
 
-getCapabilities Assistent
-^^^^^^^^^^^^^^^^^^^^^^^^^
+.. hint:: Der Allgemeine Erfassungsassistent ist im neuen InGrid Editor entfallen.
 
-Zur Erfassung von Diensten (WMS, WFS, WCS, WCTS, WMTS und CSW) kann der getCapabilities-Assistent genutzt werden. Auf Grundlage der Informationen der getCapability-URL befüllt der Assistent hierbei insbesondere die komplexen technischen Felder zur Beschreibung des Dienstes automatisch, so dass die Erfassung von OGC konformen Diensten erheblich vereinfacht wird. Die Ergebnisse der Analyse werden in das neue Metadatenobjekt übernommen. Anschließend kann das Objekt im InGrid Editor weiterbearbeitet und gespeichert werden.
-
-Soll kein Assistent verwendet werden, wird auf der rechten Seite die erforderliche Objektklasse ausgewählt und über „Erstellen“ angelegt.
 
 
 Objekte ausfüllen
