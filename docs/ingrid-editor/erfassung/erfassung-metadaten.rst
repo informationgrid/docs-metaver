@@ -59,17 +59,28 @@ Abb.: Strukturbaum -  Symbolfarben
 
 -----------------------------------------------------------------------------------------------------------------------
 
+A
+
 
 Pflichtfelder und optionale Felder
-----------------------------------
+""""""""""""""""""""""""""""""""""
 
 Je nach Auswahl des Datensatztyps, werden in der Erfassungsmaske des InGrid Editors unterschiedliche Felder angezeigt. Die Pflichtfelder unterscheiden sich zwischen den Datensatztypen. Am umfangreichsten ist der Datensatztyp "Geodatensatz", der Typ "Fachaufgabe" ist dagegen am schnellsten zu befüllen.
+
+Über den Schalter "Alle" oben. rechts (im grauen Bereich) können weitere Optionalke Felder eingeblendet werde.
+
+.. figure:: ../../img/ige/erfassung/ige_metadaten/optionen/alle.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Schalter für das Ein- und Ausblenden von optionalen Feldern
 
 .. hint:: Grundsätzlich wird empfohlen, nicht nur die Pflichtfelder auszufüllen, sondern auch die optionalen Felder (soweit möglich) mit Einträgen zu versehen, um einen Mehrwert zu erzielen.
 
 
 Der getCapabilities Assistent
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+"""""""""""""""""""""""""""""
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/symbbolleiste/assistent.png
    :align: left
@@ -119,7 +130,7 @@ Abb.: Metadaten des Datensatzes
 
 Hier werden angezeigt: Status, Typ, ID, Erstellt am, Geändert am und Verantwortlich.
 
-Wird das Dreipunktemenü betätigt öffenen sich die Optionen: Veröffentlichungsrecht setzen ..., Berechtigungen anzeigen und Verantwortlichkeit ändern.
+Wird das Dreipunktemenü betätigt, öffenen sich die Optionen: Veröffentlichungsrecht setzen ..., Berechtigungen anzeigen und Verantwortlichkeit ändern.
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/optionen.png
    :align: left
