@@ -52,7 +52,7 @@ Abb.: Symbolleiste -  Veröffentlichen
 Wird ein Metadatensatz erneut bearbeitet und gespeichert, escheint das Symbol in der Farbkombination Oragne/Schwarz.
 
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/symbolleiste_veroeffentlichen.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/strukturbaum_symbolfarben.png
    :align: left
    :scale: 50
    :figwidth: 100%
