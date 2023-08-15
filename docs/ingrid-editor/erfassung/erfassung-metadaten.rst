@@ -12,8 +12,8 @@ Für eine übersichtliche Verwaltung der Metadatensätze, können hierarchische 
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/strukturbaum_ordner.png
    :align: left
-   :scale: 50
-   :figwidth: 80%
+   :scale: 40
+   :figwidth: 100%
 
 Abb.: Strukturbaum - Strukturierung mit Ordnern
 
