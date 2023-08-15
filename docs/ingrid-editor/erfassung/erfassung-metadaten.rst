@@ -98,10 +98,15 @@ Die nachfolgenden Felder der Erfassungsmasken wurden in diesem Dokument allgemei
 Kopf der Erfassungsmaske
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
+Oben, rechts (im grauen Bereich) in der Erfassungsmaske befindet sich das Menü für den Kopf bzw. den Metadaten des jeweiligen Datensatzes.
+
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/menue.png
    :align: left
    :scale: 50
    :figwidth: 100%
+
+Wird der Pfeil nach unten betätigt, öffnen sich die Metadaten des Datensatzes.
+
 
 Abb.: Menü
 
@@ -109,6 +114,11 @@ Abb.: Menü
    :align: left
    :scale: 30
    :figwidth: 100%
+
+
+Hier werden angezeigt: Status, Typ, ID, Erstellt am, Geändert am und Verantwortlich.
+
+Wird das Dreipunktemenü betätigt öffenen sich die Optionen: Veröffentlichungsrecht setzen ..., Berechtigungen anzeigen und Verantwortlichkeit ändern.
 
 Abb.: Metadaten
 
@@ -118,6 +128,15 @@ Abb.: Metadaten
    :figwidth: 100%
 
 Abb.: Optionen
+
+Option: Veröffentlichungsrecht setzen ...
+"""""""""""""""""""""""""""""""""""""""""
+
+Option: Berechtigungen anzeigen
+"""""""""""""""""""""""""""""""
+
+Option: Verantwortlichkeit ändern
+"""""""""""""""""""""""""""""""""
 
 Nach dem Anlegen eines neuen Objektes stehen die Eingabefelder für das neue Objekt im rechten Inhaltsfenster zur Verfügung. Im ersten Schritt sollten die Basisinformationen in der Erfassungsmaske (Screenshot) bearbeitet werden. Hier wird automatisiert der Erfasser eingetragen, der das Objekt angelegt hat. An dieser Stelle sollte jedoch die Person stehen, die für die Aktualisierung zuständig ist. In der Regel ist der Erfasser auch die fachlich Verantwortliche Person (Standardeinstellung).
 
