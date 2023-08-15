@@ -3,9 +3,8 @@
 Metadaten erfassen
 ==================
 
-.. important:: Bevor Sie mit der Erfassung der Metadaten beginnen, empfielt es sich, mit der Erfassung der Adressdaten anzufangen.
+.. important:: Bevor Sie mit der Erfassung der Metadaten beginnen, empfiehlt es sich, mit der Erfassung der Adressdaten anzufangen. Grund: Verweise von den Metadaten auf die Adressen.
 
-Soll ein neuer Datensatztyp angelegt werden, empfiehlt es sich zunächst zu prüfen, ob die Adresse, auf die in einem neuen Metadatensatz verwiesen werden soll, bereits im Metadatenkatalog (MDK) angelegt ist. Ist dies nicht der Fall, sollte zunächst die neue Adresse und anschließend erst das neue Metadatensatz erstellt werden. Grund hierfür ist, dass die Adressverweise im Metadatensatz nicht frei eingegeben werden können, sondern aus den bereits bestehenden Adresseinträgen ausgewählt werden. Existiert die gewünschte Adresse noch nicht, so ist der betreffende Adress-Eintrag nicht auswählbar. Der Bearbeiter muss in diesem Fall den neu angelegten Metadatensatz zunächst zwischenspeichern und erst einmal die Adresse anlegen.
 
 
 Strukturierung der Metadatensätze
