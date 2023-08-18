@@ -59,6 +59,8 @@ Bedeutung der Symbolfarben:
 
 Abb.: Strukturbaum -  Symbolfarben
 
+.. seealso:: Der neue InGrid Editor / `Symbole - Bearbeitungsstatus, Berechtigungen zu den Metadaten <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-allgemeines.html>`_ 
+
 -----------------------------------------------------------------------------------------------------------------------
 
 
