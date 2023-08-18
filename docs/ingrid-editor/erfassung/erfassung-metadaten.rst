@@ -217,7 +217,7 @@ Feld: Beschreibung
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/beschreibung.png
    :align: left
-   :scale: 50
+   :scale: 40
    :figwidth: 100%
 
 Abb.: Eingabefeld für die Beschreibung
@@ -261,28 +261,28 @@ Die Dateibeschreibung kann in der hochgeladenen Grafik bearbeitet werden (Stift 
    :scale: 50
    :figwidth: 100%
 
-Abb.: MV 600x400 px (für Originalgröße Grafik anklicken)
+Abb.: Beispiel - MV 600x400 px (für Originalgröße Grafik anklicken)
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/badegewaesserqualitaet_st.png
    :align: left
    :scale: 30
    :figwidth: 100%
 
-Abb.: Vorschaugrafik h=1.071 px (für Originalgröße Grafik anklicken)
+Abb.: Beispiel - Vorschaugrafik h=1.071 px (für Originalgröße Grafik anklicken)
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/vorschaugrafik_ausgabe.png
    :align: left
    :scale: 50
    :figwidth: 100%
 
-Abb.: Ausgabegröße einer Vorschaugrafik
+Abb.: Ausgabegröße einer Vorschaugrafik in der METAVER Portalausgabe
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/vorschaugrafik_portalausgabe.png
    :align: left
    :scale: 50
    :figwidth: 100%
 
-Abb.: Vorschaugrafik in der Portalausgabe
+Abb.: Vorschaugrafik in der METAVER Portalausgabe
 
 
 
