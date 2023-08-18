@@ -195,6 +195,8 @@ Abb.: Kurzbezeichnung
 
 Angabe einer Kurzbezeichnung für ein Objekt.
 
+.. hint:: Bei gewünschter Mehrsprachigkeit muss dieses Feld nach dem Schema "Deutscher Text#locale-eng:English text" gefüllt werden. Beispiel: Apfelbaum#locale-eng:apple tree
+
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/titel.png
    :align: left
    :scale: 50
@@ -210,39 +212,28 @@ Abb.: Beispiel in METAVER - Titel
 Abb.: Beispiel in METAVER - Kurzbezeichnung
 
 
-
-
-
-
-.. hint:: Bei gewünschter Mehrsprachigkeit muss dieses Feld nach dem Schema "Deutscher Text#locale-eng:English text" gefüllt werden. Beispiel: Apfelbaum#locale-eng:apple tree
-
-
-
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-abschnitt_allgemeines.png
-
-Im Bereich „Allgemeines“ erfolgt der Eintrag von allgemeinen Informationen zum Objekt (Beschreibung, Kontaktinformation).
-
-
-
 Feld: Beschreibung
 ^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_beschreibung.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/beschreibung.png
 
 Abb.: Eingabefeld für die Beschreibung
 
 In dieses Feld wird eine fachliche Inhaltsangabe eingetragen. Auf Verständlichkeit für fachfremde Dritte ist zu achten.
 
 
-Feld: Dateibeschreibung der Vorschaugrafik
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Feld: Vorschaugrafik
+^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_vorschaugrafik.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/vorschaugrafik.png
 
 Abb.: Vorschaugrafik
 
-Textliche Beschreibung des Inhalts der Grafik. Die Dateibeschreibung kann manuell geändert werden.
-Grafik, die die Ressource darstellt (möglichst einschließlich Legende)
+Grafik (-en) zu zum bereitgestellten Dateninhalt (einschließlich Legenden) hochladen oder einen Link zu einer Grafik angeben (Beispiel: Beispiel: https://domain.de/pfad/grafik.png).
+Die Dateibeschreibung kann in der hochgeladenen Grafik bearbeitet werden (Stift).
+
+.. hint:: Die Grafiken sollten nicht größer als 1MB sein (spart Speicherkapazität). Die längste Kante sollte nicht länger als 1.200 px sein.
+
 
 
 Adresse mit Objekt verknüpfen
