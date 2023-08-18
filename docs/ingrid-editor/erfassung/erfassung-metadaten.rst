@@ -269,7 +269,7 @@ Abb.: Vorschaugrafik in der Portalausgabe
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/badegewaesserqualitaet_st.png
    :align: left
-   :scale: 50
+   :scale: 30
    :figwidth: 100%
 
 Abb.: Vorschaugrafik h=1.071 px (für Originalgröße Grafik anklicken)
