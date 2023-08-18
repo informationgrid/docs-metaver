@@ -3,7 +3,8 @@ Art des Verweises
 =================
 
  - Anbieter 
- - Ansprechpartner 
+ - Ansprechpartner
+ - Ansprechpartner MD (Metadaten)
  - Autor 
  - Bearbeiter 
  - Eigentümer 
