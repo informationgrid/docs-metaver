@@ -106,7 +106,7 @@ Metadaten (-Kopf) zum Metadatensatz
 - **ID:** ID des Metadatensatzes (Wird nach dem ersten Speichern automatisch vergeben.)
 - **Erstellt am:** Erstellungsdatum für den Metadatensatz (wird atomaisch gesetzt)
 - **Geändert am:** Änderungsdatum für den Metadatensatz (wird atomaisch gesetzt)
-- **Verantwortlich:** zuständiger Bearbeiter für die Metadaten (Wird automatisch bei der Erstellung gesetzt, kann aber geänedrt werden.)
+- **Verantwortlich:** zuständiger Bearbeiter für die Metadaten (Wird automatisch bei der Erstellung gesetzt, kann aber geändert werden.)
 - **Metadaten-Datum:** Datum der veröffentlichten Version (wird automatisch gesetzt)
 
 **Verantwortlich:** Hier wird automatisiert der Erfasser eingetragen, der das Objekt angelegt hat. An dieser Stelle sollte jedoch die Person stehen, die für die Aktualisierung zuständig ist. In der Regel ist der Erfasser auch die fachlich Verantwortliche Person (Standardeinstellung).
