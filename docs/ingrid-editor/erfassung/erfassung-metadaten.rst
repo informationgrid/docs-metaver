@@ -66,6 +66,12 @@ Erfassungsmasken ausfüllen
 Die nachfolgenden Felder der Erfassungsmasken wurden in diesem Dokument allgemein beschrieben. Spezielle und ausführliche Angaben, sind unter dem Punkt `Datensatztypen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztypen.html>`_ beschrieben.
 
 
+Feld: Titel
+"""""""""""
+
+Angabe einer kurzen prägnanten Bezeichnung. Soweit ein gängiges Kürzel vorhanden ist, ist dieses Kürzel mit anzugeben.
+
+
 Kopf der Erfassungsmaske
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -128,26 +134,10 @@ Abb.: Veröffentlichungsrecht setzten
 
 -----------------------------------------------------------------------------------------------------------------------
 
-Abschnitt Allgemeines
-^^^^^^^^^^^^^^^^^^^^^
+Typ
+---
 
-Feld: Datensatzname
-"""""""""""""""""""
-
-Angabe einer kurzen prägnanten Bezeichnung. Soweit ein gängiges Kürzel vorhanden ist, ist dieses Kürzel mit anzugeben.
-
-
-Objektklasse 
-^^^^^^^^^^^^
-
-Der die Objektklasse (bzw. der Objekt-Typ) richtet sich danach, welche Auswahl im Erfassungsassistenten getroffen wurde.
-
-Beschreibung: `Objektklassen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/objektklassen.html>`_
-
-.. hint:: Ein Wechsel der Objektklasse ist an dieser Stelle nicht mehr möglich.
-
-
-
+OpenData
 
 
 Abschnitt Allgemeines
