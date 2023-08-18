@@ -194,7 +194,7 @@ Feld: Kurzbezeichnung
 
 Abb.: Kurzbezeichnung
 
-Angabe einer Kurzbezeichnung für ein Objekt. (Wird z.B. vom BKG-MIS unterstützt.)
+Angabe einer Kurzbezeichnung für ein Objekt.
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/bkg-mis.png
    :align: left
