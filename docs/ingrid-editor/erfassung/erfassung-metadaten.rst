@@ -93,22 +93,22 @@ Wird der Pfeil nach unten betätigt, öffnen sich die Metadaten des Datensatzes.
 
 Abb.: Metadaten des Datensatzes
 
+.. hint:: Nach der Eingabe der Basisinformationen bietet es sich an, den Metadatensatz schon einmal zu speichern. Grundsätzlich empfiehlt es sich, beim Ausfüllen der Felder von Zeit zu Zeit die eingegebenen Daten zu sichern, um beispielsweise bei einer abgelaufenen Session, die eingegebenen Daten nicht zu verlieren. Das Zwischenspeichern ist jederzeit möglich, auch wenn noch nicht alle Pflichtfelder ausgefüllt sind.
 
-Hier wird automatisiert der Erfasser eingetragen, der das Objekt angelegt hat. An dieser Stelle sollte jedoch die Person stehen, die für die Aktualisierung zuständig ist. In der Regel ist der Erfasser auch die fachlich Verantwortliche Person (Standardeinstellung).
+Metadaten (Kopf) zum Metadatensatz
 
-Nach der Eingabe der Basisinformationen bietet es sich an, den Metadatensatz schon einmal zu speichern. Grundsätzlich empfiehlt es sich, beim Ausfüllen der Felder von Zeit zu Zeit die eingegebenen Daten zu sichern, um beispielsweise bei einer abgelaufenen Session, die eingegebenen Daten nicht zu verlieren. Das Zwischenspeichern ist jederzeit möglich, auch wenn noch nicht alle Pflichtfelder ausgefüllt sind.
-
-
-Unter den ersten drei Feldern werden automatisiert weitere Informationen zum Objekt angezeigt.
-
-
-Hier werden angezeigt: 
   - Status: in Bearbeitung oder Veröffentlichung geplant oder Veröffentlicht
   - Typ: Datensatztypbezeichnung
   - ID: Die ID wird nach dem ersten Speichern automatisch vergeben.
   - Erstellt am: Erstellungsdatum wird atomaisch gesetzt
   - Geändert am: Änderungsdatum wird atomaisch gesetzt
   - Verantwortlich: zuständiger Bearbeiter für die Metadaten
+  - Metadaten-Datum: Datum der veröffentlichten Version
+
+Verantwortlich: Hier wird automatisiert der Erfasser eingetragen, der das Objekt angelegt hat. An dieser Stelle sollte jedoch die Person stehen, die für die Aktualisierung zuständig ist. In der Regel ist der Erfasser auch die fachlich Verantwortliche Person (Standardeinstellung).
+
+Metadaten-Datum: Datum, zu dem der Metadatensatz veröffentlicht wurde. Dieses Datum wird immer dann aktualisiert, wenn ein Metadatensatz veröffentlicht wird und dieser sich geändert hat. Die Änderung eines Metadatensatzes wird anhand der Änderung von Inhalt und Struktur erkannt. Dazu wird ein Fingerabdruck der ISO 19139 XML Daten erstellt und gespeichert. Das Metadaten-Datum wird nur aktualisiert, wenn sich bei einer Veröffentlichung auch der Fingerabdruck ändert. Dadurch wird sichergestellt, dass das Metadaten-Datum auch nicht-inhaltliche Änderungen reflektiert, die sich z.B. durch eine Anpassung der Struktur des Metadatensatzes ergibt. Dies ist wichtig, weil nachfolgende Systeme sich auf dieses Datum beziehen, um z.B. geänderte Metadatensätze zu ermitteln.
+
 
 
 Option: Veröffentlichungsrecht setzen ...
@@ -134,52 +134,52 @@ Abb.: Veröffentlichungsrecht setzten
 
 -----------------------------------------------------------------------------------------------------------------------
 
-Typ
----
+Optionen: Typ
+-------------
 
-OpenData
+Unter "Typ" werden Optionen zu den einzelnen Datensatztypen angezeigt, die aktiviert werden können. Sie bewirken, dass zusätzliche Eingabefelder im Metadatensatz erscheinen. 
+
+Datensatztypen mit den entsprechenden Optionen:
+
+  - Datensammlung: OpenData
+  - Geodatensatz: INSPIRE-relevant, AdV kompatibel, OpenData
+  - Geodatendienst: INSPIRE-relevant, AdV kompatibel, OpenData
+  - Informationssystem: INSPIRE-relevant, AdV kompatibel, OpenData
+  - Literatur: OpenData
+  - Projekt: -
+  - Fachaufgabe: - 
+
+  .. figure:: ../../img/ige/erfassung/ige_metadaten/allgemeines/optionen.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Optionen
 
 
 Abschnitt Allgemeines
 ---------------------
 
-Identifikator des übergeordneten Metadatensatzes
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Feld: Identifikator des übergeordneten Metadatensatzes
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_identifikator-des-uebergeordneten-datensatzes.png
-  :width: 300
+.. figure:: ../../img/ige/erfassung/ige_metadaten/allgemeines/identifikator-des-uebergeordneten-datensatzes.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Identifikator des übergeordneten Metadatensatzes
 
 Für Datensätze in der obersten Ebene oder direkt unter einem Ordner, kann eine zusätzliche Referenz auf einen übergeordneten Metadatensatz vergeben werden. Dadurch ist es möglich, auch auf externe Datensätze zu verweisen.
 
 
-Metadaten-Datum der veröffentlichten Version
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Feld: Kurzbezeichnung
+^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_metadaten-datum.png
-  :width: 300
-
-Abb.: Metadaten-Datum der veröffentlichten Version
-
-Datum, zu dem der Metadatensatz veröffentlicht wurde. Dieses Datum wird immer dann aktualisiert, wenn ein Metadatensatz veröffentlicht wird und dieser sich geändert hat. Die Änderung eines Metadatensatzes wird anhand der Änderung von Inhalt und Struktur erkannt. Dazu wird ein Fingerabdruck der ISO 19139 XML Daten erstellt und gespeichert. Das Metadaten-Datum wird nur aktualisiert, wenn sich bei einer Veröffentlichung auch der Fingerabdruck ändert. Dadurch wird sichergestellt, dass das Metadaten-Datum auch nicht-inhaltliche Änderungen reflektiert, die sich z.B. durch eine Anpassung der Struktur des Metadatensatzes ergibt. Dies ist wichtig, weil nachfolgende Systeme sich auf dieses Datum beziehen, um z.B. geänderte Metadatensätze zu ermitteln.
-
-
-Dateibeschreibung der Vorschaugrafik
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_vorschaugrafik.png
-
-Abb.: Vorschaugrafik
-
-Textliche Beschreibung des Inhalts der Grafik. Die Dateibeschreibung kann manuell geändert werden.
-Grafik, die die Ressource darstellt (möglichst einschließlich Legende)
-
-
-Kurzbezeichnung
-^^^^^^^^^^^^^^^
-
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_kurzbezeichnung.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/allgemeines/identifikator-des-uebergeordneten-datensatzes.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Kurzbezeichnung
 
@@ -194,6 +194,7 @@ Beispiel: DTK25 digitale topographische Karte GK25 - Grundkarte
 Im Bereich „Allgemeines“ erfolgt der Eintrag von allgemeinen Informationen zum Objekt (Beschreibung, Kontaktinformation).
 
 
+
 Beschreibung
 ^^^^^^^^^^^^
 
@@ -202,6 +203,17 @@ Beschreibung
 Abb.: Eingabefeld für die Beschreibung
 
 In dieses Feld wird eine fachliche Inhaltsangabe eingetragen. Auf Verständlichkeit für fachfremde Dritte ist zu achten.
+
+
+Dateibeschreibung der Vorschaugrafik
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_vorschaugrafik.png
+
+Abb.: Vorschaugrafik
+
+Textliche Beschreibung des Inhalts der Grafik. Die Dateibeschreibung kann manuell geändert werden.
+Grafik, die die Ressource darstellt (möglichst einschließlich Legende)
 
 
 Adresse mit Objekt verknüpfen
