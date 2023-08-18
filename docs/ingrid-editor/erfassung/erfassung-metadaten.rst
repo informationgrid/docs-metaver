@@ -233,7 +233,7 @@ Feld: Vorschaugrafik
    :scale: 50
    :figwidth: 100%
 
-Abb.: Vorschaugrafik
+Abb.: Vorschaugrafik hochladen oder Link angeben
 
 - Unterstütze Grafikformate: .png, .webp, .gif,
 - Empfohlene Breite: 600 px
