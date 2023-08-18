@@ -285,8 +285,8 @@ Abb.: Ausgabegröße einer Vorschaugrafik in der METAVER Portalausgabe
 Abb.: Beispiel - MV 344x245 px - Vorschaugrafik in der METAVER Portalausgabe
 
 
-Metadatensatz mit Adressenverküpfen
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Metadatensatz mit Adressen verküpfen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Grundsätzlich ist es ratsam die Adressen anzulegen, bevor die eigentlichen Metadaten erfasst werden. Im neuen InGrid Editor ist es aber kein Problem eine Adresse während der Erfassung zu erstellen.
 
