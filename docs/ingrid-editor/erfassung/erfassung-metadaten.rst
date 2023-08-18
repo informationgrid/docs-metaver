@@ -88,7 +88,21 @@ Wird der Pfeil nach unten betätigt, öffnen sich die Metadaten des Datensatzes.
 Abb.: Metadaten des Datensatzes
 
 
-Hier werden angezeigt: Status, Typ, ID, Erstellt am, Geändert am und Verantwortlich.
+Hier wird automatisiert der Erfasser eingetragen, der das Objekt angelegt hat. An dieser Stelle sollte jedoch die Person stehen, die für die Aktualisierung zuständig ist. In der Regel ist der Erfasser auch die fachlich Verantwortliche Person (Standardeinstellung).
+
+Nach der Eingabe der Basisinformationen bietet es sich an, den Metadatensatz schon einmal zu speichern. Grundsätzlich empfiehlt es sich, beim Ausfüllen der Felder von Zeit zu Zeit die eingegebenen Daten zu sichern, um beispielsweise bei einer abgelaufenen Session, die eingegebenen Daten nicht zu verlieren. Das Zwischenspeichern ist jederzeit möglich, auch wenn noch nicht alle Pflichtfelder ausgefüllt sind.
+
+
+Unter den ersten drei Feldern werden automatisiert weitere Informationen zum Objekt angezeigt.
+
+
+Hier werden angezeigt: 
+  - Status: in Bearbeitung oder Veröffentlichung geplant oder Veröffentlicht
+  - Typ: Datensatztypbezeichnung
+  - ID: Die ID wird nach dem ersten Speichern automatisch vergeben.
+  - Erstellt am: Erstellungsdatum wird atomaisch gesetzt
+  - Geändert am: Änderungsdatum wird atomaisch gesetzt
+  - Verantwortlich: zuständiger Bearbeiter für die Metadaten
 
 
 Option: Veröffentlichungsrecht setzen ...
@@ -133,20 +147,7 @@ Beschreibung: `Objektklassen <https://metaver-bedienungsanleitung.readthedocs.io
 .. hint:: Ein Wechsel der Objektklasse ist an dieser Stelle nicht mehr möglich.
 
 
-Verantwortlicher
-^^^^^^^^^^^^^^^^
 
-Hier wird automatisiert der Erfasser eingetragen, der das Objekt angelegt hat. An dieser Stelle sollte jedoch die Person stehen, die für die Aktualisierung zuständig ist. In der Regel ist der Erfasser auch die fachlich Verantwortliche Person (Standardeinstellung).
-
-Nach der Eingabe der Basisinformationen im Kopfbereich bietet es sich an, den Metadatensatz schon einmal zu speichern. Grundsätzlich empfiehlt es sich, beim Ausfüllen der Felder von Zeit zu Zeit die eingegebenen Daten zu sichern, um beispielsweise bei einer abgelaufenen Session, die eingegebenen Daten nicht zu verlieren. Das Zwischenspeichern ist jederzeit möglich, auch wenn noch nicht alle Pflichtfelder ausgefüllt sind.
-
-
-Unter den ersten drei Feldern werden automatisiert weitere Informationen zum Objekt angezeigt.
-
-  - Erstellt am: Erstellungsdatum
-  - Geändert am: Änderungsdatum
-  - Objekt-ID: Die Objekt-ID wird nach dem ersten Speichern automatisch vergeben.
-  - Von: Max Mustermann (Bearbeiter)
 
 
 Abschnitt Allgemeines
