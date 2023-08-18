@@ -75,11 +75,18 @@ Feld: Titel
 
 Angabe einer kurzen prägnanten Bezeichnung. Soweit ein gängiges Kürzel vorhanden ist, ist dieses Kürzel mit anzugeben.
 
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/titel.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Titel eines Metadatensatzes
+
 -----------------------------------------------------------------------------------------------------------------------
 
 
 Kopf der Erfassungsmaske
-^^^^^^^^^^^^^^^^^^^^^^^^
+""""""""""""""""""""""""
 
 Oben, rechts (im grauen Bereich) in der Erfassungsmaske befindet sich das Menü für den Kopf bzw. den Metadaten des jeweiligen Datensatzes.
 
