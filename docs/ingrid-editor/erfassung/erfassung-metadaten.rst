@@ -194,7 +194,18 @@ Feld: Kurzbezeichnung
 
 Abb.: Kurzbezeichnung
 
-Angabe einer Kurzbezeichnung für ein Objekt. (Wird von GeoMIS.Bund unterstützt.) 
+Angabe einer Kurzbezeichnung für ein Objekt. (Wird z.B. vom BKG-MIS unterstützt.)
+
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/bkg-mis.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Beispiel - Kurzbezeichnung BKG-MIS
+
+
+
+
 
 .. hint:: Bei gewünschter Mehrsprachigkeit muss dieses Feld nach dem Schema "Deutscher Text#locale-eng:English text" gefüllt werden. Beispiel: Apfelbaum#locale-eng:apple tree
 
