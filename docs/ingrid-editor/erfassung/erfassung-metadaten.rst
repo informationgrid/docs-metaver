@@ -180,7 +180,7 @@ Für Datensätze in der obersten Ebene oder direkt unter einem Ordner, kann eine
 Feld: Kurzbezeichnung
 ^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/allgemeines/identifikator-des-uebergeordneten-datensatzes.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/identifikator-des-uebergeordneten-datensatzes.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -189,7 +189,7 @@ Abb.: Kurzbezeichnung
 
 Angabe einer Kurzbezeichnung für ein Objekt. (Wird insbesondere von GeoMIS.Bund unterstützt.) Bei gewünschter Mehrsprachigkeit muss dieses Feld nach dem Schema "Deutscher Text#locale-eng:English text" gefüllt werden. Beispiel: Apfelbaum#locale-eng:apple tree
 
-Beispiel: DTK25 digitale topographische Karte GK25 - Grundkarte
+Beispiel: DTK25
 
 
 
