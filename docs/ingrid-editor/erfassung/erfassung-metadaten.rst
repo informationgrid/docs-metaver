@@ -92,7 +92,7 @@ Hier werden angezeigt: Status, Typ, ID, Erstellt am, Geändert am und Verantwort
 
 Wird das Dreipunktemenü betätigt, öffenen sich die Optionen: Veröffentlichungsrecht setzen ..., Berechtigungen anzeigen und Verantwortlichkeit ändern.
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/optionen.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/optionen_veroeffentlichungsrecht_setzen.png
    :align: left
    :scale: 50
    :figwidth: 100%
