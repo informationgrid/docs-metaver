@@ -102,8 +102,18 @@ Abb.: Optionen
 Option: Veröffentlichungsrecht setzen ...
 """""""""""""""""""""""""""""""""""""""""
 
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/veroeffentlichungsrecht_setzen.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Veröffentlichungsrecht setzten
+
+
 Option: Berechtigungen anzeigen
 """""""""""""""""""""""""""""""
+
+
 
 Option: Verantwortlichkeit ändern
 """""""""""""""""""""""""""""""""
