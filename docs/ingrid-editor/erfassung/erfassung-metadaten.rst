@@ -48,9 +48,9 @@ Abb.: Symbolleiste -  Veröffentlichen
 
 Bedeutung der Symbolfarben:
 
-  - orange: in Bearbeitung
-  - schwarz: Veröffentlicht
-  - orange/schwarz: Veröffentlicht, danach erneut bearbeitet, die Änderungen sind noch nicht veröffentlicht
+- orange: in Bearbeitung
+- schwarz: Veröffentlicht
+- orange/schwarz: Veröffentlicht, danach erneut bearbeitet, die Änderungen sind noch nicht veröffentlicht
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/strukturbaum/symbolfarben.png
    :align: left
