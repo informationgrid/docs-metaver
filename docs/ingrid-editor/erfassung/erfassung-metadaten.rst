@@ -202,14 +202,14 @@ Angabe einer Kurzbezeichnung für ein Objekt.
    :scale: 50
    :figwidth: 100%
 
-Abb.: Beispiel in METAVER - Titel
+Abb.: Beispiel Portalansicht in METAVER - Titel
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/kurzbezeichnung_beispiel.png
    :align: left
    :scale: 50
    :figwidth: 100%
 
-Abb.: Beispiel in METAVER - Kurzbezeichnung
+Abb.: Beispiel Portalansicht in METAVER - Kurzbezeichnung
 
 
 Feld: Beschreibung
@@ -247,7 +247,7 @@ Abb.: Vorschaugrafik hochladen oder Link angeben
    :scale: 50
    :figwidth: 100%
 
-Abb.: MV 600x400 px
+Abb.: MV 600x400 px (für Originalgröße Grafik anklicken)
 
 Grafik (-en) zu zum bereitgestellten Dateninhalt (einschließlich Legenden) hochladen oder einen Link zu einer Grafik angeben (Beispiel: https://domain.de/pfad/grafik.png).
 Die Dateibeschreibung kann in der hochgeladenen Grafik bearbeitet werden (Stift in der Grafik).
