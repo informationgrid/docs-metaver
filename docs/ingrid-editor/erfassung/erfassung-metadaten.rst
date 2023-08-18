@@ -248,7 +248,7 @@ Abb.: Vorschaugrafik
 
 Abb.: MV 600x400
 
-Grafik (-en) zu zum bereitgestellten Dateninhalt (einschließlich Legenden) hochladen oder einen Link zu einer Grafik angeben (Beispiel: Beispiel: https://domain.de/pfad/grafik.png).
+Grafik (-en) zu zum bereitgestellten Dateninhalt (einschließlich Legenden) hochladen oder einen Link zu einer Grafik angeben (Beispiel: https://domain.de/pfad/grafik.png).
 Die Dateibeschreibung kann in der hochgeladenen Grafik bearbeitet werden (Stift in der Grafik).
 
 
