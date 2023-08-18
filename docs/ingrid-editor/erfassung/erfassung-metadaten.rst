@@ -153,7 +153,7 @@ Datensatztypen mit den entsprechenden Optionen:
   - Projekt: -
   - Fachaufgabe: - 
 
-  .. figure:: ../../img/ige/erfassung/ige_metadaten/allgemeines/optionen.png
+  .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/optionen.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -167,7 +167,7 @@ Abschnitt Allgemeines
 Feld: Identifikator des übergeordneten Metadatensatzes
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/allgemeines/identifikator-des-uebergeordneten-datensatzes.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/identifikator-des-uebergeordneten-datensatzes.png
    :align: left
    :scale: 50
    :figwidth: 100%
