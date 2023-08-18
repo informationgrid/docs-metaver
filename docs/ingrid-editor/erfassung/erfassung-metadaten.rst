@@ -237,9 +237,10 @@ Abb.: Vorschaugrafik hochladen oder Link angeben
 
 - Unterstütze Grafikformate: .png, .webp, .gif,
 - Empfohlene Breite: 600 px
+- Empfohlene längste Breite/Länge bis max.: 1.200 px
 - Empfohlene PNG-Komprimierung: 0-6
-- Empfohlene Größe: max. 1 MB
-- Empfohlene längste Breite/Länge: max. 1.200 px
+- Empfohlene Größe bis max.: 1 MB
+
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/image_map_mv.png
    :align: left
