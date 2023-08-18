@@ -46,9 +46,11 @@ Sind alle Pflichtfelder und erforderliche optionale Felder ausgefüllt, kann der
 
 Abb.: Symbolleiste -  Veröffentlichen
 
+Bedeutung der Symbolfarben:
 
-Wird ein Metadatensatz erneut bearbeitet und gespeichert, escheint das Symbol in der Farbkombination Orange/Schwarz.
-
+  - orange: in Bearbeitung
+  - schwarz: Veröffentlicht
+  - orange/schwarz: Veröffentlicht, danach erneut bearbeitet, die Änderungen sind noch nicht veröffentlicht
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/strukturbaum/symbolfarben.png
    :align: left
