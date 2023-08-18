@@ -238,6 +238,15 @@ Feld: Vorschaugrafik
 Abb.: Vorschaugrafik hochladen oder Link angeben
 
 Grafik (-en) zu zum bereitgestellten Dateninhalt (einschließlich Legenden) hochladen oder einen Link zu einer Grafik angeben (Beispiel: https://domain.de/pfad/grafik.png).
+
+
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/vorschaugrafik_editor.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Vorschaugrafiken im InGrid Editor
+
 Die Dateibeschreibung kann in der hochgeladenen Grafik bearbeitet werden (Stift in der Grafik).
 
 - Unterstütze Grafikformate: .png, .webp, .gif,
