@@ -95,7 +95,7 @@ Option: Veröffentlichungsrecht setzen ...
 
 Wird das Dreipunktemenü betätigt, öffnet sich die Optionen: Veröffentlichungsrecht setzen ...
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/optionen_veroeffentlichungsrecht_setzen.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/option_veroeffentlichungsrecht_setzen.png
    :align: left
    :scale: 50
    :figwidth: 100%
