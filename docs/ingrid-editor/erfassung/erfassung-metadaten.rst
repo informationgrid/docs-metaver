@@ -237,6 +237,9 @@ Feld: Vorschaugrafik
 
 Abb.: Vorschaugrafik hochladen oder Link angeben
 
+Grafik (-en) zu zum bereitgestellten Dateninhalt (einschließlich Legenden) hochladen oder einen Link zu einer Grafik angeben (Beispiel: https://domain.de/pfad/grafik.png).
+Die Dateibeschreibung kann in der hochgeladenen Grafik bearbeitet werden (Stift in der Grafik).
+
 - Unterstütze Grafikformate: .png, .webp, .gif,
 - Empfohlene Breite: 600 px
 - Empfohlene längste Breite/Länge bis max.: 1.200 px
@@ -251,9 +254,12 @@ Abb.: Vorschaugrafik hochladen oder Link angeben
 
 Abb.: MV 600x400 px (für Originalgröße Grafik anklicken)
 
-Grafik (-en) zu zum bereitgestellten Dateninhalt (einschließlich Legenden) hochladen oder einen Link zu einer Grafik angeben (Beispiel: https://domain.de/pfad/grafik.png).
-Die Dateibeschreibung kann in der hochgeladenen Grafik bearbeitet werden (Stift in der Grafik).
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/badegewaesserqualitaet_st.png
+   :align: left
+   :scale: 30
+   :figwidth: 100%
 
+Abb.: Vorschaugrafik h=1.071 px (für Originalgröße Grafik anklicken)
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/vorschaugrafik_ausgabe.png
    :align: left
@@ -270,12 +276,7 @@ Abb.: Ausgabegröße einer Vorschaugrafik
 Abb.: Vorschaugrafik in der Portalausgabe
 
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/badegewaesserqualitaet_st.png
-   :align: left
-   :scale: 30
-   :figwidth: 100%
 
-Abb.: Vorschaugrafik h=1.071 px (für Originalgröße Grafik anklicken)
 
 
 
