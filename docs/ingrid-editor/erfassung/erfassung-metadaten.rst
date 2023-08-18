@@ -130,7 +130,7 @@ Option: Verantwortlichkeit ändern
    :scale: 50
    :figwidth: 100%
 
-Abb.: Auswahl Verantwortung für den Metadatensatz / den Daten
+Abb.: Auswahl Verantwortung für den Metadatensatz
 
 Nach der Erstellung eines neuen Metadatensates wird automatisch die Person als Verantworwortliche eingetragen, die den Metadatensatz erstellt hat. In der Regel ist der Erfasser auch die fachlich Verantwortliche Person (Standardeinstellung). Als Verantwortlich sollte die Person eingetragen werden, die für die Aktualisierung der Metadaten zuständig ist.
 
