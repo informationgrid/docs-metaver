@@ -65,7 +65,7 @@ Abb.: Ordnerstruktur -  Symbolfarben
 
 
 Erfassungsmasken ausfüllen
---------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Die nachfolgenden Felder der Erfassungsmasken wurden in diesem Dokument allgemein beschrieben. Spezielle und ausführliche Angaben, sind unter dem Punkt `Datensatztypen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztypen.html>`_ beschrieben.
 
