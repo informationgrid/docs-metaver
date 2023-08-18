@@ -145,13 +145,13 @@ Unter "Typ" werden Optionen zu den einzelnen Datensatztypen angezeigt, die aktiv
 
 Datensatztypen mit den entsprechenden Optionen:
 
-  - Datensammlung: OpenData
-  - Geodatensatz: INSPIRE-relevant, AdV kompatibel, OpenData
-  - Geodatendienst: INSPIRE-relevant, AdV kompatibel, OpenData
-  - Informationssystem: INSPIRE-relevant, AdV kompatibel, OpenData
-  - Literatur: OpenData
-  - Projekt: -
-  - Fachaufgabe: - 
+  - **Datensammlung:** OpenData
+  - **Geodatensatz:** INSPIRE-relevant, AdV kompatibel, OpenData
+  - **Geodatendienst:** INSPIRE-relevant, AdV kompatibel, OpenData
+  - **Informationssystem:** INSPIRE-relevant, AdV kompatibel, OpenData
+  - **Literatur:** OpenData
+  - **Projekt:** -
+  - **Fachaufgabe:** - 
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/optionen.png
    :align: left
