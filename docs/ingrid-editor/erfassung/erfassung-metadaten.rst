@@ -113,6 +113,14 @@ Abb.: Veröffentlichungsrecht setzten
 Option: Berechtigungen anzeigen
 """""""""""""""""""""""""""""""
 
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/berechtigungen_anzeigen.png
+   :align: left
+   :scale: 40
+   :figwidth: 100%
+
+Abb.: Berechtigungen anzeigen
+
+
 
 Option: Verantwortlichkeit ändern
 """""""""""""""""""""""""""""""""
@@ -136,15 +144,6 @@ Im Kopf des Metadatensatzes steht dann die entsprechende Person.
    :figwidth: 100%
 
 Abb.: Metadaten des Datensatzes mit Verantwortlicher Person
-
-
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/berechtigungen_anzeigen.png
-   :align: left
-   :scale: 40
-   :figwidth: 100%
-
-Abb.: Berechtigungen anzeigen
-
 
 -----------------------------------------------------------------------------------------------------------------------
 
