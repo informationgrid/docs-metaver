@@ -75,6 +75,8 @@ Feld: Titel
 
 Angabe einer kurzen prägnanten Bezeichnung. Soweit ein gängiges Kürzel vorhanden ist, ist dieses Kürzel mit anzugeben.
 
+-----------------------------------------------------------------------------------------------------------------------
+
 
 Kopf der Erfassungsmaske
 ^^^^^^^^^^^^^^^^^^^^^^^^
@@ -114,6 +116,8 @@ Metadaten (-Kopf) zum Metadatensatz
 **Metadaten-Datum:** Datum, zu dem der Metadatensatz veröffentlicht wurde. Dieses Datum wird immer dann aktualisiert, wenn ein Metadatensatz veröffentlicht wird und dieser sich geändert hat. Die Änderung eines Metadatensatzes wird anhand der Änderung von Inhalt und Struktur erkannt. Dazu wird ein Fingerabdruck der ISO 19139 XML Daten erstellt und gespeichert. Das Metadaten-Datum wird nur aktualisiert, wenn sich bei einer Veröffentlichung auch der Fingerabdruck ändert. Dadurch wird sichergestellt, dass das Metadaten-Datum auch nicht-inhaltliche Änderungen reflektiert, die sich z.B. durch eine Anpassung der Struktur des Metadatensatzes ergibt. Dies ist wichtig, weil nachfolgende Systeme sich auf dieses Datum beziehen, um z.B. geänderte Metadatensätze zu ermitteln.
 
 
+-----------------------------------------------------------------------------------------------------------------------
+
 
 Option: Veröffentlichungsrecht setzen ...
 """""""""""""""""""""""""""""""""""""""""
@@ -139,7 +143,7 @@ Abb.: Veröffentlichungsrecht setzten
 -----------------------------------------------------------------------------------------------------------------------
 
 Optionen: Typ
--------------
+"""""""""""""
 
 Unter "Typ" werden Optionen zu den einzelnen Datensatztypen angezeigt, die aktiviert werden können. Sie bewirken, dass zusätzliche Eingabefelder im Metadatensatz erscheinen. 
 
@@ -161,6 +165,7 @@ Datensatztypen mit den entsprechenden Optionen:
 Abb.: Optionen
 
 -----------------------------------------------------------------------------------------------------------------------
+
 
 Abschnitt Allgemeines
 ---------------------
@@ -189,9 +194,9 @@ Feld: Kurzbezeichnung
 
 Abb.: Kurzbezeichnung
 
-Angabe einer Kurzbezeichnung für ein Objekt. (Wird insbesondere von GeoMIS.Bund unterstützt.) Bei gewünschter Mehrsprachigkeit muss dieses Feld nach dem Schema "Deutscher Text#locale-eng:English text" gefüllt werden. Beispiel: Apfelbaum#locale-eng:apple tree
+Angabe einer Kurzbezeichnung für ein Objekt. (Wird von GeoMIS.Bund unterstützt.) 
 
-Beispiel: DTK25
+.. hint:: Bei gewünschter Mehrsprachigkeit muss dieses Feld nach dem Schema "Deutscher Text#locale-eng:English text" gefüllt werden. Beispiel: Apfelbaum#locale-eng:apple tree
 
 
 
@@ -201,8 +206,8 @@ Im Bereich „Allgemeines“ erfolgt der Eintrag von allgemeinen Informationen z
 
 
 
-Beschreibung
-^^^^^^^^^^^^
+Feld: Beschreibung
+^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_beschreibung.png
 
@@ -211,8 +216,8 @@ Abb.: Eingabefeld für die Beschreibung
 In dieses Feld wird eine fachliche Inhaltsangabe eingetragen. Auf Verständlichkeit für fachfremde Dritte ist zu achten.
 
 
-Dateibeschreibung der Vorschaugrafik
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Feld: Dateibeschreibung der Vorschaugrafik
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_vorschaugrafik.png
 
