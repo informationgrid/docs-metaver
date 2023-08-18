@@ -222,6 +222,8 @@ Feld: Beschreibung
 
 Abb.: Eingabefeld für die Beschreibung
 
+(Zum Vergrößern des Eingabefeldes an der Ecke rechts, unten größer ziehen.)
+
 In dieses Feld wird eine fachliche Inhaltsangabe eingetragen. Auf Verständlichkeit für fachfremde Dritte ist zu achten.
 
 
