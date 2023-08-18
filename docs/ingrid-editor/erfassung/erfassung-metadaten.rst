@@ -90,6 +90,7 @@ Abb.: Metadaten des Datensatzes
 
 Hier werden angezeigt: Status, Typ, ID, Erstellt am, Geändert am und Verantwortlich.
 
+
 Option: Veröffentlichungsrecht setzen ...
 """""""""""""""""""""""""""""""""""""""""
 
@@ -101,7 +102,6 @@ Wird das Dreipunktemenü betätigt, öffnet sich die Optionen: Veröffentlichung
    :figwidth: 100%
 
 Abb.: Option Veröffentlichungsrecht setzen ...
-
 
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/veroeffentlichungsrecht_setzen.png
