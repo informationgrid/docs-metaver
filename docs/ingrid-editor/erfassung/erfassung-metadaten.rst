@@ -57,7 +57,7 @@ Bedeutung der Symbolfarben:
    :scale: 50
    :figwidth: 100%
 
-Abb.: Strukturbaum -  Symbolfarben
+Abb.: Ordnerstruktur -  Symbolfarben
 
 .. seealso:: Der neue InGrid Editor / `Symbole - Bearbeitungsstatus, Berechtigungen zu den Metadaten <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-allgemeines.html>`_ 
 
