@@ -99,7 +99,7 @@ Abb.: Metadaten des Datensatzes
 
 .. hint:: Nach der Eingabe der Basisinformationen bietet es sich an, den Metadatensatz schon einmal zu speichern. Grundsätzlich empfiehlt es sich, beim Ausfüllen der Felder von Zeit zu Zeit die eingegebenen Daten zu sichern, um beispielsweise bei einer abgelaufenen Session, die eingegebenen Daten nicht zu verlieren. Das Zwischenspeichern ist jederzeit möglich, auch wenn noch nicht alle Pflichtfelder ausgefüllt sind.
 
-Metadaten (Kopf) zum Metadatensatz
+Metadaten (-Kopf) zum Metadatensatz
 
 - **Status:** in Bearbeitung oder Veröffentlichung geplant oder Veröffentlicht
 - **Typ:** Datensatztypbezeichnung
