@@ -15,7 +15,7 @@ Für eine übersichtliche Verwaltung der Metadatensätze, können hierarchische 
    :scale: 40
    :figwidth: 100%
 
-Abb.: Strukturbaum - Strukturierung mit Ordnern
+Abb.: Ordnerstruktur
 
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/symbolleiste/neu-anlegen.png
