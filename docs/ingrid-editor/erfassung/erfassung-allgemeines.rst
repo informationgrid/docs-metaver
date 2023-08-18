@@ -102,9 +102,9 @@ Veröffenlichungsrecht setzten ...
    :scale: 50
    :figwidth: 100%
 
-Abb.: Veröffentlichungsrecht setzten
+Abb.: Veröffentlichungsrechte für Internet, Intranet und amtsintern
 
-An den Symbolen wird durch einen Punkt die Veröffentlichungsbreite der Adresse oder des Metadatensatzes angezeigt.
+An den Symbolen in der Ordnerstruktur, wird durch einen Punkt das Veröffentlichungsrecht der Adresse oder des Metadatensatzes angezeigt.
 
 .. csv-table::
    :widths: 50, 150, 300
@@ -115,21 +115,28 @@ An den Symbolen wird durch einen Punkt die Veröffentlichungsbreite der Adresse 
    .. figure:: ../../img/ige/allgemein/icon_veroeffentlichungsrecht-amtsintern.png , roter Punkt , Der Metadatensatz bzw. die Adresse ist auf amtsintern gesetzt und wird nicht veröffentlicht.
 
 
-Verantwortlichkeit ändern
-^^^^^^^^^^^^^^^^^^^^^^^^^
-
-
-
-
-
-
 Berechtigungen anzeigen
 ^^^^^^^^^^^^^^^^^^^^^^^
 
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/berechtigungen_anzeigen.png
+   :align: left
+   :scale: 40
+   :figwidth: 100%
+
+Abb.: Berechtigungen anzeigen
 
 
+Verantwortlichkeit ändern
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/verantwortlichkeit_aendern.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
+Abb.: Auswahl Verantwortung für den Metadatensatz / den Daten
+
+Nach der Erstellung eines neuen Metadatensates wird automatisch die Person als Verantworwortliche eingetragen, die den Metadatensatz erstellt hat. In der Regel ist der Erfasser auch die fachlich Verantwortliche Person (Standardeinstellung). Als Verantwortlich sollte die Person eingetragen werden, die für die Aktualisierung der Metadaten zuständig ist.
 
 
 Menü

@@ -114,11 +114,37 @@ Option: Berechtigungen anzeigen
 """""""""""""""""""""""""""""""
 
 
-
 Option: Verantwortlichkeit ändern
 """""""""""""""""""""""""""""""""
 
-Nach dem Anlegen eines neuen Objektes stehen die Eingabefelder für das neue Objekt im rechten Inhaltsfenster zur Verfügung. Im ersten Schritt sollten die Basisinformationen in der Erfassungsmaske (Screenshot) bearbeitet werden. Hier wird automatisiert der Erfasser eingetragen, der das Objekt angelegt hat. An dieser Stelle sollte jedoch die Person stehen, die für die Aktualisierung zuständig ist. In der Regel ist der Erfasser auch die fachlich Verantwortliche Person (Standardeinstellung).
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/verantwortlichkeit_aendern.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Auswahl Verantwortung für den Metadatensatz / den Daten
+
+Nach der Erstellung eines neuen Metadatensates wird automatisch die Person als Verantworwortliche eingetragen, die den Metadatensatz erstellt hat. In der Regel ist der Erfasser auch die fachlich Verantwortliche Person (Standardeinstellung). Als Verantwortlich sollte die Person eingetragen werden, die für die Aktualisierung der Metadaten zuständig ist.
+
+In dem sich öffnenden Fenster muss eine Verantwortliche Person ausgewählt und anschließend mit dem Button ALS VERANTWORTLICHEN FESTLEGEN betätigt werden.
+
+Im Kopf des Metadatensatzes steht dann die entsprechende Person. 
+
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/metadaten.png
+   :align: left
+   :scale: 40
+   :figwidth: 100%
+
+Abb.: Metadaten des Datensatzes mit Verantwortlicher Person
+
+
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/berechtigungen_anzeigen.png
+   :align: left
+   :scale: 40
+   :figwidth: 100%
+
+Abb.: Berechtigungen anzeigen
+
 
 -----------------------------------------------------------------------------------------------------------------------
 
