@@ -196,12 +196,20 @@ Abb.: Kurzbezeichnung
 
 Angabe einer Kurzbezeichnung für ein Objekt.
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/bkg-mis.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/titel.png
    :align: left
    :scale: 50
    :figwidth: 100%
 
-Abb.: Beispiel - Kurzbezeichnung BKG-MIS
+Abb.: Beispiel in METAVER - Titel
+
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/kurzbezeichnung_beispiel.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Beispiel in METAVER - Kurzbezeichnung
+
 
 
 
