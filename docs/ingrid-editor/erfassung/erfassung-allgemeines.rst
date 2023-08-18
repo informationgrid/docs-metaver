@@ -83,8 +83,9 @@ Neben Metadatentypen bzw. dem Adresstyp zeigen die Icons zusätzlich den jeweili
 
 
 
-Berechtigungen zu den Metadaten
+Berechtigungen zu den Metadaten 
 -------------------------------
+(Nur für Administratoren sichtbar.)
 
 Über das Drei-Punkte-Menü, auf der rechten Seite der Erfassungsmaske können verschiedene Berechtigungen vergeben werden.
 
@@ -128,6 +129,7 @@ Abb.: Berechtigungen anzeigen
 
 Verantwortlichkeit ändern
 ^^^^^^^^^^^^^^^^^^^^^^^^^
+(Nur für Administratoren sichtbar.)
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/verantwortlichkeit_aendern.png
    :align: left
