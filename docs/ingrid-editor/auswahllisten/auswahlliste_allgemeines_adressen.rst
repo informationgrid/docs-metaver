@@ -1,6 +1,6 @@
 
-Art des Verweises
-=================
+Auswahlliste Adresstyp
+======================
 
  - Anbieter 
  - Ansprechpartner
