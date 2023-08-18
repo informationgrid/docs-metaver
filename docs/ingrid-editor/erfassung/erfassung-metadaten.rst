@@ -110,41 +110,6 @@ Option: Veröffentlichungsrecht setzen ...
 Abb.: Veröffentlichungsrecht setzten
 
 
-Option: Berechtigungen anzeigen
-"""""""""""""""""""""""""""""""
-
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/berechtigungen_anzeigen.png
-   :align: left
-   :scale: 40
-   :figwidth: 100%
-
-Abb.: Berechtigungen anzeigen
-
-
-
-Option: Verantwortlichkeit ändern
-"""""""""""""""""""""""""""""""""
-
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/verantwortlichkeit_aendern.png
-   :align: left
-   :scale: 50
-   :figwidth: 100%
-
-Abb.: Auswahl Verantwortung für den Metadatensatz
-
-Nach der Erstellung eines neuen Metadatensates wird automatisch die Person als Verantworwortliche eingetragen, die den Metadatensatz erstellt hat. In der Regel ist der Erfasser auch die fachlich Verantwortliche Person (Standardeinstellung). Als Verantwortlich sollte die Person eingetragen werden, die für die Aktualisierung der Metadaten zuständig ist.
-
-In dem sich öffnenden Fenster muss eine Verantwortliche Person ausgewählt und anschließend mit dem Button ALS VERANTWORTLICHEN FESTLEGEN betätigt werden.
-
-Im Kopf des Metadatensatzes steht dann die entsprechende Person. 
-
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/metadaten.png
-   :align: left
-   :scale: 40
-   :figwidth: 100%
-
-Abb.: Metadaten des Datensatzes mit Verantwortlicher Person
-
 -----------------------------------------------------------------------------------------------------------------------
 
 Abschnitt Allgemeines
