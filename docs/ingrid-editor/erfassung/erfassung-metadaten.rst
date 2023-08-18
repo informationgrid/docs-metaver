@@ -180,7 +180,7 @@ Für Datensätze in der obersten Ebene oder direkt unter einem Ordner, kann eine
 Feld: Kurzbezeichnung
 ^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/identifikator-des-uebergeordneten-datensatzes.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/kurzbezeichnung.png
    :align: left
    :scale: 50
    :figwidth: 100%
