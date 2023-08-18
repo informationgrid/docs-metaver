@@ -275,7 +275,7 @@ Abb.: Ausgabegröße einer Vorschaugrafik in der METAVER Portalausgabe
    :scale: 50
    :figwidth: 100%
 
-Abb.: Vorschaugrafik in der METAVER Portalausgabe
+Abb.: Beispiel - MV 344x245 px - Vorschaugrafik in der METAVER Portalausgabe
 
 
 Metadatensatz mit Adressenverküpfen
