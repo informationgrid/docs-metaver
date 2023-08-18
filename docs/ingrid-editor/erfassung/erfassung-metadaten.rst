@@ -170,9 +170,8 @@ Abb.: Optionen
 Abschnitt Allgemeines
 ---------------------
 
-
 Feld: Identifikator des übergeordneten Metadatensatzes
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/identifikator-des-uebergeordneten-datensatzes.png
    :align: left
