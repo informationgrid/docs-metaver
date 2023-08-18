@@ -263,13 +263,6 @@ Die Dateibeschreibung kann in der hochgeladenen Grafik bearbeitet werden (Stift 
 
 Abb.: Beispiel - MV 600x400 px (für Originalgröße Grafik anklicken)
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/badegewaesserqualitaet_st.png
-   :align: left
-   :scale: 30
-   :figwidth: 100%
-
-Abb.: Beispiel - Vorschaugrafik h=1.071 px (für Originalgröße Grafik anklicken)
-
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/vorschaugrafik_ausgabe.png
    :align: left
    :scale: 50
@@ -283,11 +276,6 @@ Abb.: Ausgabegröße einer Vorschaugrafik in der METAVER Portalausgabe
    :figwidth: 100%
 
 Abb.: Vorschaugrafik in der METAVER Portalausgabe
-
-
-
-
-
 
 
 Metadatensatz mit Adressenverküpfen
