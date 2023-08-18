@@ -160,9 +160,11 @@ Datensatztypen mit den entsprechenden Optionen:
 
 Abb.: Optionen
 
+-----------------------------------------------------------------------------------------------------------------------
 
 Abschnitt Allgemeines
 ---------------------
+
 
 Feld: Identifikator des übergeordneten Metadatensatzes
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -231,38 +233,7 @@ Abb.: Verknüpfung mit den Adressen
 
 Über den Link „Adresse hinzufügen“ wird die Adressverknüpfung angelegt. Als Auswahlmöglichkeit stehen alle im Adressstrukturbaum des Metadatenkataloges eingetragenen Adressdaten zur Verfügung.
 
-
-Checkboxen
-^^^^^^^^^^^
-
-Checkbox INSPIRE-relevant
-'''''''''''''''''''''''''
-
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_checkbox-inspire-relevant.png
-  :width: 350
-
-Abb.: Checkbox INSPIRE-relevant (konform, nicht konform)
-
-  
-Checkbox AdV kompatibel
-'''''''''''''''''''''''
-
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_checkbox-adv-kompatibel.png
-  :width: 150
-
-Abb.: Checkbox AdV kompatibel
-
-Diese Checkboxen sind unter der `Objektklasse Geodatensatz im Abschnitt Allgemeines <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/objektklasse-geodatensatz.html#abschnitt-allgemeines>`_ beschrieben.
-
-
-Checkbox Open Data
-''''''''''''''''''
-
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_checkbox-open-data.png
-  :width: 150
-
-Abb.: Checkbox Open Data
-
+-----------------------------------------------------------------------------------------------------------------------
 
 
 Abschnitt Verschlagwortung
