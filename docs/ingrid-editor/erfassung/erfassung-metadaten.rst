@@ -90,17 +90,19 @@ Abb.: Metadaten des Datensatzes
 
 Hier werden angezeigt: Status, Typ, ID, Erstellt am, Geändert am und Verantwortlich.
 
-Wird das Dreipunktemenü betätigt, öffenen sich die Optionen: Veröffentlichungsrecht setzen ..., Berechtigungen anzeigen und Verantwortlichkeit ändern.
+Option: Veröffentlichungsrecht setzen ...
+"""""""""""""""""""""""""""""""""""""""""
+
+Wird das Dreipunktemenü betätigt, öffnet sich die Optionen: Veröffentlichungsrecht setzen ...
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/optionen_veroeffentlichungsrecht_setzen.png
    :align: left
    :scale: 50
    :figwidth: 100%
 
-Abb.: Optionen
+Abb.: Option Veröffentlichungsrecht setzen ...
 
-Option: Veröffentlichungsrecht setzen ...
-"""""""""""""""""""""""""""""""""""""""""
+
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/veroeffentlichungsrecht_setzen.png
    :align: left
