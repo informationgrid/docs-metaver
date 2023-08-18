@@ -102,8 +102,8 @@ Abb.: Metadaten des Datensatzes
 Metadaten (-Kopf) zum Metadatensatz
 
 - **Status:** in Bearbeitung oder Veröffentlichung geplant oder Veröffentlicht
-- **Typ:** Datensatztypbezeichnung
-- **ID:** Die ID wird nach dem ersten Speichern automatisch vergeben.
+- **Typ:** Datensatztypbezeichnung (Wird bei der Erstellung des Metadatensatzes erstellt.)
+- **ID:** ID des Metadatensatzes (Wird nach dem ersten Speichern automatisch vergeben.)
 - **Erstellt am:** Erstellungsdatum für den Metadatensatz (wird atomaisch gesetzt)
 - **Geändert am:** Änderungsdatum für den Metadatensatz (wird atomaisch gesetzt)
 - **Verantwortlich:** zuständiger Bearbeiter für die Metadaten (Wird automatisch bei der Erstellung gesetzt, kann aber geänedrt werden.)
