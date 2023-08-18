@@ -236,10 +236,17 @@ Feld: Vorschaugrafik
 Abb.: Vorschaugrafik
 
 - Unterstütze Grafikformate: .png, .webp, .gif,
-- Empfohlene Breite: 256 px
+- Empfohlene Breite: 600 px
 - Empfohlene PNG-Komprimierung: 0-6
 - Empfohlene Größe: max. 1 MB
 - Empfohlene längste Breite/Länge: max. 1.200 px
+
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/image_map_mv.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: MV 600x400
 
 Grafik (-en) zu zum bereitgestellten Dateninhalt (einschließlich Legenden) hochladen oder einen Link zu einer Grafik angeben (Beispiel: Beispiel: https://domain.de/pfad/grafik.png).
 Die Dateibeschreibung kann in der hochgeladenen Grafik bearbeitet werden (Stift in der Grafik).
