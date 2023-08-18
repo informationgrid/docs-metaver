@@ -216,6 +216,9 @@ Feld: Beschreibung
 ^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/beschreibung.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Eingabefeld für die Beschreibung
 
@@ -226,18 +229,51 @@ Feld: Vorschaugrafik
 ^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/vorschaugrafik.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Vorschaugrafik
 
+- Unterstütze Grafikformate: .png, .webp, .gif,
+- Empfohlene Breite: 256 px
+- Empfohlene PNG-Komprimierung: 0-6
+- Empfohlene Größe: max. 1 MB
+- Empfohlene längste Breite/Länge: max. 1.200 px
+
 Grafik (-en) zu zum bereitgestellten Dateninhalt (einschließlich Legenden) hochladen oder einen Link zu einer Grafik angeben (Beispiel: Beispiel: https://domain.de/pfad/grafik.png).
-Die Dateibeschreibung kann in der hochgeladenen Grafik bearbeitet werden (Stift).
-
-.. hint:: Die Grafiken sollten nicht größer als 1MB sein (spart Speicherkapazität). Die längste Kante sollte nicht länger als 1.200 px sein.
+Die Dateibeschreibung kann in der hochgeladenen Grafik bearbeitet werden (Stift in der Grafik).
 
 
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/vorschaugrafik_ausgabe.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
-Adresse mit Objekt verknüpfen
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Abb.: Ausgabegröße einer Vorschaugrafik
+
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/vorschaugrafik_portalausgabe.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Vorschaugrafik in der Portalausgabe
+
+
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/badegewaesserqualitaet_st.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Vorschaugrafik h=1.071 px (für Originalgröße Grafik anklicken)
+
+
+
+
+Metadatensatz mit Adressenverküpfen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Grundsätzlich ist es ratsam die Adressen anzulegen, bevor die eigentlichen Metadaten erfasst werden. Im neuen InGrid Editor ist es aber kein Problem eine Adresse während der Erfassung zu erstellen.
 
 .. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_verknuepfung-adresse.png
 
