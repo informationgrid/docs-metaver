@@ -317,7 +317,6 @@ Abb.: Adressen bearbeiten
 
 Querverweis: `Adressen anlegen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-adressen.html>`_
 
-
 -----------------------------------------------------------------------------------------------------------------------
 
 
@@ -332,72 +331,31 @@ Abschnitt Verschlagwortung
 Abb.: Felder für eine einfache Verschlagwortung
 
 
+Feld Gemet Schlagworte: GEneral Multilingual Environmental Thesaurus (Allgemeiner Mehrsprachiger Umwelt-Thesaurus)
+
+Der Gemet ist eine Entwicklung im Auftrag der Europäischen Umweltagentur (EUA) und wird vom Europäischen Umweltinformations- und Umweltbeobachtungsnetz (European Environment Information and Observation Network – EIONET) verwaltet und publiziert.
+
+GEMET ist eine Zusammenfassung mehrerer kontrollierter mehrsprachiger Vokabulare, und wurde als allgemeiner Thesaurus mit dem Ziel konzipiert, eine gemeinsame Terminologie für umweltrelevante Begriffe im europäischen Kontext zu finden.
+
+(Quelle: Wikipedia)
 
 
+Feld Umthes Schlagworte: Umweltthesaurus des Umweltbundesamtes
+
+Ein Thesaurus ist eine geordnete Zusammenstellung von Begriffen und ihren Benennungen, die in einem Dokumentationsgebiet zum Indexieren, Speichern und Wiederauffinden dient.
+
+Der Umweltthesaurus UMTHES thematisiert das Dokumentationsgebiet Umwelt. Neben Begriffen zu den Aspekten Umweltnutzung, Umweltbelastung und des Umweltschutzes sind im Umweltthesaurus auch umweltrelevante Fachbegriffe aus flankierenden Bereichen wie z.B. Recht, Soziologie oder Ökonomie zu finden.
+
+(Quelle: Umweltbundesamt)
 
 
-Freie Schlagworte erfassen
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+Feld Schlagwortanalyse:
 
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-03_verschlagwortung/ige-verschlagwortung_freie-schlagworte.png
-
-Abb.: Freie Schlagworte eintagen
-
-In das Feld "Freie Schlagworte eintragen" werden die Schlagworte eingegeben, über die das Objekt schnell gefunden werden soll. Hier sollten prägnante Begriffe verwendet werden. Dies können spezielle Fachbegriffe, Mess-Methoden, Bestandteile o.ä. sein. Die Freien Suchbegriffe sind ergänzend zu den Thesaurus-Suchbegriffen anzugeben. Wenn Sie hier einen Begriff eingeben, der im Umwelt-Thesaurus des Umweltbundesamtes enthalten ist, dann wird dieser automatisch als "UMTHES" gekennzeichnet, ist es nicht im UMTHES enthalten, wird das Schlagwort mit "FREE" gekennzeichnet.
-
-Beispiel für "FREE": DOP Sachsen-Anhalt, Befliegung
-
-.. hint:: Einzelne Schlagworte können durch ein Leerzeichen, oder durch ein Komma getrennt, angegeben werden. Zusammengehörige Worte werden in Anführungszeichen gesetzt.
-
-
-Optionale Schlagworte
-^^^^^^^^^^^^^^^^^^^^^
-
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-03_verschlagwortung/ige-verschlagwortung_optionale-schlagworte.png
-
-Abb.: Optionale Schlagworte erfassen
-
-.. hint:: Die optionalen Schlagworte sind nur sichtbar, wenn der Abschnitt Verschlagwortung weiter ausgeklappt wird.
-
-
-Verschlagwortungsassistent
-''''''''''''''''''''''''''
-
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-03_verschlagwortung/ige-verschlagwortung_verschlagwortungsassistent.png
-
-Abb.: Verschlagwortungsassistent
-
-Mit STRG+Mausklick können Sie einen oder mehrere Schlagwörter markieren.
- 
-Über die Schaltfläche ">" werden die ausgewählten Schlüsselwörter aus der "Vorschlagsliste" in die Liste "Übernehmen" übernommen. Durch Betätigen der Schaltfläche ">>" können alle Begriffe mit einmal in die rechte Liste eingetragen werden. 
-
-Die Schaltfläche "<" verschiebt die markierten Begriffe wieder aus der rechten Liste in die linke Liste. Die Schaltfläche "<<" verschiebt alle Begriffe aus der rechten Liste auf die linke Seite. 
-
-Mit einem Klick auf die Schaltfläche "Übernehmen" werden alle Begriffe aus der Liste "Übernehmen" dem Metadatensatz als Schlagworte hinzugefügt. 
-
-
-Thesaurusnavigator
-'''''''''''''''''''
-
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-03_verschlagwortung/ige-verschlagwortung_thesaurus-navigator.png
-
-Abb.: Thesaurus-Navigator
-
-Die Verschlagwortung über den Thesaurus-Navigator dient der themenbezogenen Suche der Objekte. Dafür müssen Schlagworte aus dem Thesaurus ausgewählt werden, die das Objekt so genau wie möglich, aber auch so allgemein wie nötig beschreiben.
-
-Beispiel: Naturschutz, Schmetterling, Kartierung, Artenschutz
-
-Der "Thesaurus-Navigator" ist unterteilt in: die Suche, den Hierarchiebaum, die Ergebnisliste und die Liste der Deskriptoren.
-
-In die Suchzeile geben Sie einen beliebigen Suchbegriff ein. Abschließend betätigen Sie den Button "In Thesaurus suchen". Es erscheint der gewählte Suchbegriff in der Ergebnisliste. Betätigt man das blaue Symbol vor dem Suchbegriff, wechselt die Ansicht in den Hierarchiebaum (an die Stelle, an der dieser Suchbegriff eingeordnet ist). 
-
-Im Strukturbaum können weitere Suchbegriffe ausgewählt werden. Durch Betätigen des Buttons „Hinzufügen“, werden die Schlagworte in die Liste der Deskriptoren übernommen. Abschließend betätigen Sie den Button "Übernehmen". Die gewählten Begriffe werden jetzt in die Tabelle "Optionalen Schlagworte" eingetragen.
+-----------------------------------------------------------------------------------------------------------------------
 
 
 Abschnitt Fachbezug
 -------------------
-
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-04_fachbezug/ige-abschnitt_fachbezug.png
 
 Der Abschnitt Fachbezug richtet sich nach der gewählten Objektklasse, diese sind unter dem Punkt `Erfassung der Objektlassen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/ige_objektklassen/objektklassen.html>`_ beschrieben.
 
