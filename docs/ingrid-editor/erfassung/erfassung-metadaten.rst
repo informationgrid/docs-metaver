@@ -379,6 +379,10 @@ Beispiele für die Zuordung von Suchbegriffen:
 - "Geodaten" automatische Zuordnung dem Feld "UMTHES Schlagworte"
 - "Kindergarten" automatische Zuordnung dem Feld "UMTHES Schlagworte" als Synonym "Kindertagesstätte"
 
+
+.. seealso:: Weitere Eingabefelder für die Verschlagwortung, werden in den unterschiedlichen Datensatztypen, bei der Aktivierung der Typen (Optionen am Anfang der Eingabemasken) INSPIRE-relevant, AdV kompatibel angezeigt. Die Beschreibung dieser Felder erfolgt unter den entsprechenden `Datensatztypen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztypen.html>`_.
+
+
 -----------------------------------------------------------------------------------------------------------------------
 
 
