@@ -290,7 +290,7 @@ Metadatensatz mit Adressen verküpfen
 
 Grundsätzlich ist es ratsam die Adressen anzulegen, bevor die eigentlichen Metadaten erfasst werden. (Im neuen InGrid Editor ist es aber kein Problem eine Adresse während der Erfassung zu erstellen.)
 
-Über den Button "Hinzufügen" wird die Adressverknüpfung angelegt. Als Auswahlmöglichkeit stehen alle in der Ordnerstruktur des Metadatenkataloges angelegten Adressdaten.
+Über den Button "Hinzufügen" wird die Adressverknüpfung angelegt.
 
   - Es ist mindestens eine Adresse anzugeben.
   - Es muss mindestens ein Ansprechpartner für die Metadaten (Ansprechpartner MD) angegeben werden.
