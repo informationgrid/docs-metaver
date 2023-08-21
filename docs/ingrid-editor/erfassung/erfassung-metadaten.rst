@@ -318,21 +318,22 @@ Abb.: Adressen bearbeiten
 Querverweis: `Adressen anlegen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-adressen.html>`_
 
 
-
-
-
-
-
-
-
-
 -----------------------------------------------------------------------------------------------------------------------
 
 
 Abschnitt Verschlagwortung
 --------------------------
 
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-03_verschlagwortung/ige-abschnitt_verschlagwortung.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-03_verschlagwortung/verschlagwortung.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Felder für eine einfache Verschlagwortung
+
+
+
+
 
 
 Freie Schlagworte erfassen
