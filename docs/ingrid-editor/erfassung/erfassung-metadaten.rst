@@ -330,8 +330,15 @@ Abschnitt Verschlagwortung
 
 Abb.: Felder für eine einfache Verschlagwortung
 
+In die Felder für die Verschlagwortung werden die Begriffe eingegeben, über die der Metadatensatz schnell gefunden werden soll. Hier sollten prägnante Suchbegriffe verwendet werden.
 
-Feld Gemet Schlagworte: GEneral Multilingual Environmental Thesaurus (Allgemeiner Mehrsprachiger Umwelt-Thesaurus)
+Werden in die Felder "GEMET-" und "UMTHES Schlagworte" Wörter eingetragen, dann werden während des Schreibens bereits Vorschläge angezeigt. 
+
+
+Feld GEMET Schlagworte
+^^^^^^^^^^^^^^^^^^^^^^
+
+GEneral Multilingual Environmental Thesaurus (Allgemeiner Mehrsprachiger Umwelt-Thesaurus)
 
 Der Gemet ist eine Entwicklung im Auftrag der Europäischen Umweltagentur (EUA) und wird vom Europäischen Umweltinformations- und Umweltbeobachtungsnetz (European Environment Information and Observation Network – EIONET) verwaltet und publiziert.
 
@@ -340,16 +347,39 @@ GEMET ist eine Zusammenfassung mehrerer kontrollierter mehrsprachiger Vokabulare
 (Quelle: Wikipedia)
 
 
-Feld Umthes Schlagworte: Umweltthesaurus des Umweltbundesamtes
+Feld UMTHES Schlagworte
+^^^^^^^^^^^^^^^^^^^^^^^
 
-Ein Thesaurus ist eine geordnete Zusammenstellung von Begriffen und ihren Benennungen, die in einem Dokumentationsgebiet zum Indexieren, Speichern und Wiederauffinden dient.
+Umweltthesaurus des Umweltbundesamtes
 
 Der Umweltthesaurus UMTHES thematisiert das Dokumentationsgebiet Umwelt. Neben Begriffen zu den Aspekten Umweltnutzung, Umweltbelastung und des Umweltschutzes sind im Umweltthesaurus auch umweltrelevante Fachbegriffe aus flankierenden Bereichen wie z.B. Recht, Soziologie oder Ökonomie zu finden.
 
 (Quelle: Umweltbundesamt)
 
 
-Feld Schlagwortanalyse:
+.. hint:: Ein Thesaurus ist ein strukturiertes Fachwörterbuch. Die enthaltenen Begriffe dienen dem Wiederauffinden durch Suchfunktionen.
+
+
+Feld Freie Schlagworte:
+^^^^^^^^^^^^^^^^^^^^^^^
+
+In dieses Feld können Schlagworte eingetragen werden, die nicht in einem Thesaurus enthalten sind.
+
+Beispiel: Schlagwort "Kindergarten"
+
+
+Feld Schlagwortanalyse
+^^^^^^^^^^^^^^^^^^^^^^
+
+Werden Begriffe in die Schlagwortanalyse eingegeben, die im "GEMET" oder im "UMTHES" enthalten sind, dann werden diese Bergriffe automatisch den entsprechenden Eingabefeldern zugeordnet. Sind diese Begriffe nicht in einem Thesarus enthalten, werden sie dem Feld "Freie Schlagworte" zugewiesen.
+
+Beispiele für die Zuordung von Suchbegriffen: 
+
+- "INSPIRE" automatische Zuordnung dem Feld "GEMET Schlagworte"
+- "Geodaten" automatische Zuordnung dem Feld "UMTHES Schlagworte"
+- "Kindergarten" automatische Zuordnung dem Feld "UMTHES Schlagworte" als Synonym "Kindertagesstätte"
+
+
 
 -----------------------------------------------------------------------------------------------------------------------
 
