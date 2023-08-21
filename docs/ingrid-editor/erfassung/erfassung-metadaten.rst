@@ -411,103 +411,17 @@ Abschnitt Fachbezug
 -----------------------------------------------------------------------------------------------------------------------
 
 
-Abschnitt Raumbezugssystem
---------------------------
+Abschnitt Raumbezug
+-------------------
 
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-abschnitt_raumbezugssystem.png
-
-Im Abschnitt Raumbezugsystem werden Informationen über die räumliche Zuordnung des beschriebenen Datenbestands erfasst.
+Im Abschnitt Raumbezug werden Informationen über die räumliche Zuordnung der beschriebenen Daten erfasst.
 
 
-Geothesaurus-Raumbezug
-^^^^^^^^^^^^^^^^^^^^^^
-
-Geothesaurus oder auch Gazetteer (Ortsverzeichnis), hier soll ein Ort oder eine Region mit Koordinaten angegeben werden.
-
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_geothesaurus-raumbezug.png
-
-Abb.: Tabelle Geothesaurus-Raumbezug
 
 
-Geothesaurus-Navigator
-^^^^^^^^^^^^^^^^^^^^^^
-Über den Geothesaurus-Navigator kann nach den Koordinaten einer räumlichen Einheit gesucht werden.
-
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_geothesaurus-navigator.png
-
-Abb.: Geothesaurus-Navigator
-
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_geothesaurus-raumbezug_koordinaten.png
-
-Abb.: Tabelle Geothesaurus-Raumbezug mit Eintrag Landkreis Harz
-
-Im Abschnitt Geothesaurus-Raumbezug wird die räumliche Ausdehnung des betreffenden Objektes angezeigt. Es wird ein Begrenzungsrechteck (Bounding Box) aus geografischen Koordinaten ("Min" und "Max") angegeben, in dem die Ressource liegt.
-
-Als Ausdehnung wird bei neuen Objekten automatisch standardmäßig das Bundesland Sachsen-Anhalt eingetragen. Diesen Eintrag können Sie bei Bedarf löschen (Zeile markieren, rechte Maustaste, "Zeile löschen"). 
-
-Zur Eingabe eines anderen geografischen Bereichs wählen Sie den "Geothesaurus-Navigator". Sie öffnen ihn durch einen Klick auf den Link.
-
-Über den Geothesaurus-Navigator kann nach den Koordinaten der räumlichen Einheit gesucht werden.
- 
-Geben Sie in das Suchfeld den geografischen Begriff (oder einen Teil des Begriffs) ein den Sie suchen. Nach dem Klicken auf die Schaltfläche „In Geo-Thesaurus suchen“ wird nach diesem Begriff im SNS (Semantic Network Service des Umweltbundesamtes) gesucht und die Ergebnisse werden unter Auswahl aufgelistet. Sie können einen oder mehrere Begriffe dieser Liste markieren und über die Schaltfläche "Übernehmen" als Raumbezug dem Objekt hinzufügen. Neben den geografischen Begriffen werden damit automatisch auch die Koordinaten des geografischen Bereiches in das Objekt übernommen. 
-
-.. hint:: Für eine breitere Suche können Sie Wildcards (Stern+Ort) verwenden, z.B. Stern+Harz oder Stern+Talsperre.
-
-Sollte der gewünschte geografische Begriff nicht vorhanden sein, besteht die Möglichkeit, diesen zusammen mit den Koordinaten manuell einzutragen. Wählen Sie unter der Tabelle "Freier Raumbezug" den Link "Raumbezug hinzufügen".
-
-Umgerechnete Koordinaten
-''''''''''''''''''''''''
-
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-abschnitt_raumbezugssystem_umgerechnete-koordinaten.png
-
-Abb.: Feld Umgerechnete Koordinaten
-
-`Auswahlliste Koordinatensysteme <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_raumbezug_koordinatensysteme.html>`_
-
-Umrechnung, der unter Geothesaurus-Raumbezug ausgewählten Daten, in die in der Auswahllist zur Verfügung stehenden Koordinatensysteme.
 
 
-Freier Raumbezug
-^^^^^^^^^^^^^^^^
 
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-abschnitt_raumbezugssystem_freier-raumbezug.png
-
-Abb.: Tabelle Freier Raumbezug
-
-| Beispiel: Landschaftsschutzgebiet
-| LSG Aland-Elbe-Niederung (BoundingBox) 
-| L1: 52.820884° B1: 11.600189° L2: 53.056760° B2: 12.058868°
-
-
-.. hint:: Die Eingabe der Werte muss mit Komma erfolgen, sonst erscheint eine Fehlermeldung.
-
-
-Informationen über die räumliche Zuordnung des im Objekt beschriebenen Datenbestandes. Es können frei wählbare Raumbezugs-Koordinaten hinzugefügt werden.
-
-Der Wertebereich im WGS (World Geodetic System) ist folgendermaßen definiert:
-
-| Breite (Latitude): -90 bis 90
-| Länge (Longitude): -180 bis 180
-
- 
-Raumbezug hinzufügen
-'''''''''''''''''''''
-
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-abschnitt_raumbezugssystem_raumbezug-hinzufuegen.png
-
-Abb.: Dialogfenster Raumbezug hinzufügen
-
-`Auswahlliste Koordinatensysteme <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_raumbezug_koordinatensysteme.html>`_
-
-In dem sich öffnenden Dialog können Sie einen freien Raumbezug in dem Koordinatensystem angeben, welches Sie (im Dialogfester unten) ausgewählt haben. 
-
-Mit einem Klick auf die Schaltfläche „Hinzufügen“ werden die Angaben in das Feld „Freier Raumbezug“ des Objektes übernommen. 
- 
-
-erben
-'''''
-
-Über den Link "erben" können alle freien Raumbezüge des übergeordneten Objektes übernommen werden. Dabei werden nur neue Raumbezüge übernommen.
 
 
 Amtlicher Regionalschlüssel (ARS)
