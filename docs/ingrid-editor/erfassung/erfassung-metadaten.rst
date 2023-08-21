@@ -391,7 +391,7 @@ Abschnitt Fachbezug
 
 .. hint:: Die Eingabemasken im Abschnitt Fachbezug richtet sich nach dem gewählten `Datensatztyp <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztypen.>`_. 
 
-**Beschreibungen des Abschnitts "Fachbezug" zu den verschiedenen Datensatztypen**
+**Beschreibungen des Abschnitts "Fachbezug" zu den verschiedenen Datensatztypen:**
 
 `Geodatensatz <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztyp-geodatensatz.html>`_ - Beschreibung von digitalen Godaten, analoge Karten oder Kartenwerke.
 
