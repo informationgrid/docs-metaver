@@ -379,8 +379,6 @@ Beispiele für die Zuordung von Suchbegriffen:
 - "Geodaten" automatische Zuordnung dem Feld "UMTHES Schlagworte"
 - "Kindergarten" automatische Zuordnung dem Feld "UMTHES Schlagworte" als Synonym "Kindertagesstätte"
 
-
-
 -----------------------------------------------------------------------------------------------------------------------
 
 
