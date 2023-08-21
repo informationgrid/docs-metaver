@@ -293,7 +293,7 @@ Grundsätzlich ist es ratsam die Adressen anzulegen, bevor die eigentlichen Meta
 Über den Button "Hinzufügen" wird die Adressverknüpfung angelegt. Als Auswahlmöglichkeit stehen alle in der Ordnerstruktur des Metadatenkataloges angelegten Adressdaten.
 
   - Es ist mindestens eine Adresse anzugeben.
-  - Es muss ein Ansprechpartner für die Metadaten (Ansprechpartner MD) angegeben werden.
+  - Es muss mindestens ein Ansprechpartner für die Metadaten (Ansprechpartner MD) angegeben werden.
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/adresse_anlegen.png
    :align: left
