@@ -389,7 +389,7 @@ Beispiele für die Zuordung von Suchbegriffen:
 Abschnitt Fachbezug
 -------------------
 
-Die Eingabemasken im Abschnitt Fachbezug richtet sich nach dem gewählten `Datensatztyp <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztypen.>`_. 
+.. seealso:: Die Eingabemasken im Abschnitt Fachbezug richtet sich nach dem gewählten `Datensatztyp <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztypen.>`_. 
 
 **Beschreibungen des Abschnitts "Fachbezug" zu den verschiedenen Datensatztypen**
 
