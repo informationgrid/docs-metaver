@@ -288,15 +288,43 @@ Abb.: Beispiel - MV 344x245 px - Vorschaugrafik in der METAVER Portalausgabe
 Metadatensatz mit Adressen verküpfen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Grundsätzlich ist es ratsam die Adressen anzulegen, bevor die eigentlichen Metadaten erfasst werden. Im neuen InGrid Editor ist es aber kein Problem eine Adresse während der Erfassung zu erstellen.
+Grundsätzlich ist es ratsam die Adressen anzulegen, bevor die eigentlichen Metadaten erfasst werden. (Im neuen InGrid Editor ist es aber kein Problem eine Adresse während der Erfassung zu erstellen.)
 
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-02_allgemeines/ige-allgemeines_verknuepfung-adresse.png
+Über den Button "Hinzufügen" wird die Adressverknüpfung angelegt. Als Auswahlmöglichkeit stehen alle in der Ordnerstruktur des Metadatenkataloges angelegten Adressdaten.
 
-Abb.: Verknüpfung mit den Adressen
+  - Es ist mindestens eine Adresse anzugeben.
+  - Es muss ein Ansprechpartner für die Metadaten (Ansprechpartner MD) angegeben werden.
+
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/adresse_anlegen.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Verknüpfung des Metadatensatzes mit Adressdatensätzen
 
 `Auswahlliste Adressen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_allgemeines_adressen.html>`_
 
-Über den Link „Adresse hinzufügen“ wird die Adressverknüpfung angelegt. Als Auswahlmöglichkeit stehen alle im Adressstrukturbaum des Metadatenkataloges eingetragenen Adressdaten zur Verfügung.
+
+   .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/adresse_bearbeiten.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Adressen bearbeiten
+
+Über das Dreipunkt-Menü können die Optionen "Bearbeiten", "Hinzufügen" und "Entfernen" gewählt werden.
+
+
+Querverweis: `Adressen anlegen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-adressen.html>`_
+
+
+
+
+
+
+
+
+
 
 -----------------------------------------------------------------------------------------------------------------------
 
