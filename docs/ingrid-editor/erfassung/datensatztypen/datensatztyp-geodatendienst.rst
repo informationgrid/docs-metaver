@@ -28,7 +28,7 @@ Abschnitt Erweiterte Erfassung
 Funktion: Der GetCapabilities-Assistent
 """""""""""""""""""""""""""""""""""""""
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilties-assistent_symbol.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilties-assistent_symbol.png
    :width: 5%
    
 Abb.: GetCapabilitie-Assistent - Symbol (Zauberstab) in der Symbolleiste
@@ -48,7 +48,7 @@ Unter Typ können weitere Eigenschaften (Eingabefelder) für den Metadatensatz f
 
 .. `(InVeKoS) <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/invekos.html>`_
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/typ_optionen.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/typ_optionen.png
    :width: 100%
 
 Abb.: Optionen für weitere Eigenschaften
@@ -80,7 +80,7 @@ Abschnitt Fachbezug
 Feld: Klassifikation des Dienstes
 """""""""""""""""""""""""""""""""
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/fachbezug_klassifikation.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_klassifikation.png
    :width: 70%
 
 Abb.: Feld "Klassifikation des Dienstes"
@@ -96,7 +96,7 @@ Feld: Art des Dienstes
 
 In diesem Pflichtfeld kann die Art des Dienstes ausgewählt werden. Über das Feld werden die zur weiteren Befüllung auszuwählenden Angaben zu Operationen gesteuert (siehe Tabelle unter Punkt: Name der Operation).
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/fachbezug_dienstart.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_dienstart.png
    :width: 70%
 
 Abb.: Feld "Art des Dienstes"
@@ -121,7 +121,7 @@ Angaben zur Version der Spezifikation, die dem Dienst zugrunde liegt
 
 Bitte alle Versionen eintragen, die vom Dienst unterstützt werden.
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/fachbezug_dienstversion.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_dienstversion.png
    :width: 40%
 
 Abb.: Feld "Version des Dienstes"
@@ -137,7 +137,7 @@ ATOM-Downloaddienste erstellen
 Option: Als ATOM-Download Dienst bereitstellen
 """"""""""""""""""""""""""""""""""""""""""""""
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/atom-downloaddienst/fachbezug_als-atomdownloaddienst-bereitstellen.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/atom-downloaddienst/fachbezug_als-atomdownloaddienst-bereitstellen.png
    :width: 30%
 
 Abb.: Checkbox "Als ATOM-Download Dienst bereitstellen"
@@ -156,7 +156,7 @@ Feld: Operationen
 
 Die Eingabefelder für die Operationen wurden im neuen Editor vereinfacht. Im Feld "Name" muss die getCapabilitie-URL eingetragen werden, in das Feld "Beschreibung" wird die Bezeichnung für den Dienst eingetragen und in das Feld "Zugriffs-URL" die entsprechende URL.
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/fachbezug_operationen.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_operationen.png
    :width: 100%
 
 Abb.: Felder für Operationen
@@ -165,7 +165,7 @@ Abb.: Felder für Operationen
 Feld: Erstellungsmaßstab
 """""""""""""""""""""""""
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/fachbezug_erstellungsmassstab.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_erstellungsmassstab.png
    :width: 100%
 
 Abb.: Erstellungsmaßstab
@@ -178,7 +178,7 @@ Beispiel: Bodenauflösung: Auflösungseinheit in Linien/cm; Einheit: z.B. 1 cm g
 Felder: Systemumgebung & Historie
 """""""""""""""""""""""""""""""""
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/fachbezug_systemumgebung_historie.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_systemumgebung_historie.png
    :width: 100%
 
 Abb.: Felder "Systemumgebung und Historie"
@@ -190,7 +190,7 @@ Feld Historie: Angaben zur Implementierungsgeschichte des Dienstes.
 Feld: Erläuterungen
 """""""""""""""""""
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/fachbezug_erlaeuterungen.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_erlaeuterungen.png
    :width: 100%
 
 Abb.: Feld "Erläuterungen"
@@ -208,7 +208,7 @@ Daten-Dienstekopplung
 Felder für Dargestellte Daten
 """""""""""""""""""""""""""""
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/fachbezug_dargestellte-daten.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_dargestellte-daten.png
    :width: 100%
 
 Abb.: Felder für Dargestellte Daten
@@ -234,7 +234,7 @@ Die Art der Kopplung vom Service zu den Daten. Der Typ 'tight' bewirkt, dass ein
 Option: Zugang geschützt
 """"""""""""""""""""""""
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/fachbezug_zugang-geschuetzt.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_zugang-geschuetzt.png
    :width: 30%
 
 Abb.: Option Zugang geschützt
@@ -250,7 +250,7 @@ Abschnitt Zusatzinformation
 Feld: Konformität
 """""""""""""""""
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/zusatzinformation_konformitaet.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/zusatzinformation_konformitaet.png
    :width: 100%
 
 Abb.: Konformität
