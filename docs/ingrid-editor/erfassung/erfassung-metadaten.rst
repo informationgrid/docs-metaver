@@ -295,7 +295,7 @@ Grundsätzlich ist es ratsam die Adressen anzulegen, bevor die eigentlichen Meta
   - Es ist mindestens eine Adresse anzugeben.
   - Es muss mindestens ein Ansprechpartner für die Metadaten (Ansprechpartner MD) angegeben werden.
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/adresse_anlegen.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/adressen_anlegen.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -305,7 +305,7 @@ Abb.: Verknüpfung des Metadatensatzes mit Adressdatensätzen
 `Auswahlliste Adressen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_allgemeines_adressen.html>`_
 
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/adresse_bearbeiten.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/adressen_bearbeiten.png
    :align: left
    :scale: 50
    :figwidth: 100%
