@@ -393,8 +393,10 @@ Abschnitt Fachbezug
 
 **Datensatztypen - Beschreibungen**
 
-- `Geodatensatz <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztyp-geodatensatz.html>`_
-  - Beschreibung von digitalen Geodaten, analoge Karten oder Kartenwerke.
+* `Geodatensatz <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztyp-geodatensatz.html>`_
+  * Beschreibung von digitalen Geodaten, analoge Karten oder Kartenwerke.
+
+
 - `Geodatendienst <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztyp-geodatendienst.html>`_
   - Dienste die raumbezogenen Daten zur Verfügung stellen, insbesondere Dienste im Rahmen von INSPIRE, der GDI-DE oder der GDIs der Länder.
 - `Informationssystem <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztyp-informationssystem.html>`_
