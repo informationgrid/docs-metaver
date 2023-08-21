@@ -436,17 +436,17 @@ Im Bereich Allgemein wird die räumliche Ausdehnung des betreffenden Verfahrens 
 
 Raumbezug erstellen - in der Karte auf das blaue Kreuz klicken. Es öffnet sich das Fenster "Raumbezug hinzufügen".
 
-.. image:: ../img-ige-ng/vorhaben/ige-ng_felder_raumbezug.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug.png
 
 Abb.: Raumbezug hinzufügen
 
 Für die Definition eines geografischen Bereichs, geben Sie in das Feld "Ort" einen Ortsnamen oder einen Naturraum ein. Während der Eingabe werden Vorschläge angezeigt. Durch die Auswahl eines vorgeschlagenen Ortes, wird in der Karte eine BoundingBox für den gewählten Ort oder das Gebiet erzeugt.
 
-.. image:: ../img-ige-ng/vorhaben/ige-ng_raumbezug_ortsangabe.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/ge-ng_raumbezug_ortsangabe.png
 
 Abb.: Raumbezug nach Orten suchen
 
-.. image:: ../img-ige-ng/vorhaben/ige-ng_raumbezug_viewer.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_viewer.png
    :width: 300
 
 Abb.: Symbole im Kartenviewer
@@ -460,11 +460,11 @@ Die Symbole im Kartenviewer haben folgende Bedeutung (von oben nach unten):
 5. Layer bewegen - in die BoundingBox klicken und das Rechteck auf der Karte verschieben, 
 6. Layer löschen - Symbol anklicken und anschließend das Rechteck in der Karte
 
-.. image:: ../img-ige-ng/vorhaben/ige-ng_raumbezug_freier-raumbezug.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/freier-raumbezug.png
 
 Abb.: Freier Raumbezug und BoundingBox
 
-.. image:: ../img-ige-ng/vorhaben/ige-ng_raumbezug_bearbeiten.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_bearbeiten.png
 
 Abb.: Raumbezug bearbeiten
 
