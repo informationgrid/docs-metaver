@@ -288,7 +288,7 @@ Abb.: Beispiel - MV 344x245 px - Vorschaugrafik in der METAVER Portalausgabe
 Metadatensatz mit Adressen verküpfen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Grundsätzlich ist es ratsam die Adressen anzulegen, bevor die eigentlichen Metadaten erfasst werden. (Im neuen InGrid Editor ist es aber kein Problem eine Adresse während der Erfassung zu erstellen.)
+Grundsätzlich ist es ratsam erst die Adressen anzulegen, bevor die eigentlichen Metadaten erfasst werden.
 
 Über den Button "Hinzufügen" wird die Adressverknüpfung angelegt.
 
