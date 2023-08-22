@@ -447,7 +447,10 @@ Abb.: Raumbezug hinzufügen
 
 Für die Definition eines geografischen Bereichs, geben Sie in das Feld "Ort" einen Ortsnamen oder einen Naturraum ein. Während der Eingabe werden Vorschläge angezeigt. Durch die Auswahl eines vorgeschlagenen Ortes, wird in der Karte eine BoundingBox für den gewählten Ort oder das Gebiet erzeugt.
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_ortsangabe.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_viewer.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Raumbezug nach Orten suchen
 
