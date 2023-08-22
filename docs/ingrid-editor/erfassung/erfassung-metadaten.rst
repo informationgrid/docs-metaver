@@ -486,7 +486,7 @@ Die Symbole im Kartenviewer haben folgende Bedeutung:
    :scale: 50
    :figwidth: 100%
 
-Abb.: Freier Raumbezug und BoundingBox
+Abb.: Freier Raumbezug
 
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_bearbeiten.png
