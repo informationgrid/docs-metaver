@@ -449,6 +449,7 @@ Abb.: Raumbezug hinzufügen
 
 Für die Definition eines geografischen Bereichs, geben Sie in das Feld "Ort" einen Ortsnamen oder einen Naturraum ein. Während der Eingabe werden Vorschläge angezeigt. Durch die Auswahl eines vorgeschlagenen Ortes, wird in der Karte eine BoundingBox für den gewählten Ort oder das Gebiet erzeugt.
 
+
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_ort.png
    :align: left
    :scale: 50
@@ -456,26 +457,29 @@ Für die Definition eines geografischen Bereichs, geben Sie in das Feld "Ort" ei
 
 Abb.: Raumbezug nach Orten suchen
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_kartenviewer.png
+
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/kartenviewer_symbole.png
    :align: left
    :scale: 50
    :figwidth: 100%
 
 Abb.: Symbole im Kartenviewer
 
-Die Symbole im Kartenviewer haben folgende Bedeutung (von oben nach unten): 
 
-| Plus - Karte vergrößern
+Die Symbole im Kartenviewer haben folgende Bedeutung: 
 
-| Minus - Karte verkleinern
+| **Plus** - Karte vergrößern
 
-| Rechteck anlegen - Dazu in die Karte klicken und ein Rechteck aufspannen und wieder in die Karte klicken.
+| **Minus** - Karte verkleinern
 
-| Linie mit Punkt - Rechteck ändern - mit der Maus auf einen Punkt klicken und das Rechteck verändern.
+| **Rechteck** - Rechteck angegen - Dazu in die Karte klicken und ein Rechteck aufspannen und wieder in die Karte klicken.
 
-| Kreuz - Rechteck verschieben - in das Rechteck klicken und auf der Karte verschieben.
+| **Linie mit Punkt** - Rechteck ändern - Mit der Maus auf einen Punkt klicken und das Rechteck verändern.
 
-| Radiergummi - Rechteck löschen - Symbol anklicken und anschließend auf das Rechteck in der Karte.
+| **Kreuz** - Rechteck verschieben - In das Rechteck klicken und auf der Karte verschieben.
+
+| **Radiergummi** - Rechteck löschen - Symbol anklicken und anschließend auf das Rechteck in der Karte.
+
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/freier-raumbezug.png
    :align: left
@@ -484,12 +488,14 @@ Die Symbole im Kartenviewer haben folgende Bedeutung (von oben nach unten):
 
 Abb.: Freier Raumbezug und BoundingBox
 
+
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_bearbeiten.png
    :align: left
    :scale: 50
    :figwidth: 100%
 
 Abb.: Raumbezug bearbeiten
+
 
 Für das Bearbeiten des Raumbezuges, auf der rechten Seite auf die drei Punkte klicken, dann öffnet sich ein Menü.
 
