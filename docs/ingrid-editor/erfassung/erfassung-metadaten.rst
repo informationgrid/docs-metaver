@@ -531,13 +531,8 @@ Der ARS ist wie folgt aufgebaut:
 | 10.–12. Stelle = Gemeindekennzahl
 
 
-
-
-
-
-
-Raumbezugssystem
-^^^^^^^^^^^^^^^^
+Raumbezugssysteme
+^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_raumbezugssystem-liste.png
 
