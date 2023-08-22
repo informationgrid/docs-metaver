@@ -484,32 +484,130 @@ Abb.: Raumbezug bearbeiten
 Für das Bearbeiten des Raumbezuges, auf der rechten Seite auf die drei Punkte klicken, dann öffnet sich ein Menü.
 
 
+Berenzungspolygon als WKT
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_begrenzungspolygon-als-wkt.png
+
+Abb.: Typ - Raumbezug (WKT)
+
+Unterstützt werden Polygone, optional mit einer Außen- und Innengrenze (Löcher), Points und Linestrings. Die Angabe muss konform zur Spezifikation "OpenGIS Implementation Specification for Geographic information – Simple feature access" sein.
+
+Obwohl das ISO-Element Polygon heißt, können in diesem Feld auch andere Geometrietypen angegeben werden. Genauer gesagt, werden diese WKT-Klassen unterstützt:
+
+| **POINT: Ein Punkt**
+| **Beispiel:** POINT(8.022089 47.864416)
+
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/beispiel_feldberg.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Beispiel - Aussichtsturm Feldberg
 
 
+| **MULTIPOINT: Punktsammlung, Punktwolke**
+| **Beispiel:** MULTIPOINT((10.615711 51.799107), (10.61817 51.79863), (10.61576 51.80049))
+
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/beispiel_brocken.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Beispiel - Gebäude auf dem Brocken
+
+
+| **LINESTRING: Eine Linie**
+| **Beispiel:** LINESTRING (11.430833 53.627320, 13.380556 52.507074, 13.053249 52.397778, 11.631959 52.105427, 9.751075 52.362142, 8.690229 50.114887, 9.183597 48.772455)
+
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/beispiel_schwerin-stuttgart.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Beispiel - Strecke Schwerin - Stuttgart
+
+
+| **MULTILINE: Mehrere Linien**
+| **Beispiel:** MULTILINESTRING ((8.682422 50.110330, 13.732779 51.051925), (8.682422 50.110330, 10.0089734 53.559106))
+
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/beispiel_2strecken.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Beispiel - Strecken Frankfurt - Hamburg, Berlin - Dresden
+
+
+| **POLYGON: Ein Polygon**
+| **Beispiele:** 
+
+POLYGON ((11.356260 47.997594, 11.359663 47.979562, 11.331978 47.921327, 11.333318 47.888590, 11.336905 47.824610, 11.324105 47.820899, 11.313413 47.820359, 11.290037 47.831416, 11.293742 47.851762, 11.302208 47.858967, 11.289119 47.874354, 11.284911 47.887295, 11.275775 47.884073, 11.269910 47.891374, 11.339194 47.993972, 11.347800 47.997389, 11.356260 47.997594))
+
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/beispiel_starnberger-see.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Beispiel - Starnberger See
+
+
+| **POLYGON: Polygon mit Loch**
+| **Beispiel:** POLYGON((0 0, 0 10, 10 10, 10 0, 0 0), (5 5, 5 7, 7 7, 7 5, 5 5))
+
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/beispiel_brandenburg.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Beispiel - Brandenburg ohne Berlin
+
+
+| **MULTIPOLYGON: Mehrere Polygone**
+| **Beispiel:** MULTIPOLYGON(((0 0, 0 10, 10 10, 10 0, 0 0),(5 5, 5 7, 7 7, 7 5, 5 5)), (15 20, 25 30, 33 25, 15 20)))
+
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/beispiel_.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Beispiel - Bremen, Hamburg, Berlin
+
+
+| **GEOMETRYCOLLECTION: unterschiedliche Geometrien**
+| **Beispiel:** GEOMETRYCOLLECTION(POINT(10 10), LINESTRING(10 10, 20 20, 10 40), POLYGON((0 0, 0 10, 10 10, 10 0, 0 0)))
+
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/beispiel_.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Beispiel - 
+
+
+.. hint:: Die Koordinaten müssen zwingend im WGS84 Koordinatenreferenzsystem angegeben werden.
 
 
 
 Amtlicher Regionalschlüssel (ARS)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-In den Objektklassen Geodatensatz und Geodatendienst kann ab der InGrid-Version 6.0.0 der Regionalschlüssel erfasst werden.
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
-.. note:: Der zwölfstellige `Amtliche Regionalschlüssels (ARS) <https://de.wikipedia.org/wiki/Amtlicher_Gemeindeschl%C3%BCssel#Regionalschl%C3%BCssel>`_ löst den `Amtlichen Gemeindeschlüssel (AGS) <https://de.wikipedia.org/wiki/Amtlicher_Gemeindeschl%C3%BCssel>`_ ab und erweitert ihn um einen Verbandsschlüssel.
+Abb.: Typ - Geo-Thesaurus - (wfs_gnde, BKG Dienst)
 
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_regionalschluessel.png
-   :width: 300
-
-Abb.: Feld Regionalschlüssel - 150030000000 (Stadt Magdeburg)
-
-
-.. tip:: Eine Suche nach Amtlichen Regionalschlüsseln ermöglicht das `ARS-Tool <https://opengovtech.de/ars/>`_ (externer Dienst).
+(wfs_gnde - steht für Geographische Namen Deutschlands es handelt sich um einen Downloaddienst des Bundesamtes für Kartographie und Geodäsie.)
 
 
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_regionalschluessel_ars-magdeburg.png
-   :width: 400
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
-Abb.: ARS-Tool - Regionalschlüssel - Stadt Magdeburg
-
+Abb.: Raumbezug mit Angabe des ARS
 
 Der ARS ist wie folgt aufgebaut:
 
@@ -519,71 +617,10 @@ Der ARS ist wie folgt aufgebaut:
 | 6.–9. Stelle   = Verbandsschlüssel
 | 10.–12. Stelle = Gemeindekennzahl
 
-Test
-
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_regionalschluessel_ars.png
-   :width: 400
-
-Abb.: ARS-Tool - Regionalschlüssel
 
 
-**Beispiel:** Mit der Angabe des zwölfstelligen ARS 081150045045 kann die Stadt Sindelfingen eindeutig adressiert werden:
 
 
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_regionalschluessel_ars-sindelfingen.png
-   :width: 400
-
-Abb.: ARS-Tool - ARS 081150045045 Stadt Sindelfingen
-
-
-Werden nicht alle zwölf Stellen des ARS angegeben, sondern nur ein Prefix des ARS, so können statt einer spezifischen Gemeinde auch darüberliegende Kreise, Regierungsbezirke oder Bundesländer abgebildet werden. Wird ein solcher Prefix eines ARS angegeben, schließt dieser alle sich darin befindlichen Gliederungen mit ein.
-
-
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_regionalschluessel_ars-rb-stuttgart.png
-   :width: 400
-
-Abb.: ARS-Tool - ARS 081 Regierungsbezirk Stuttgart
-
-
-**Beispiel:** Der ARS 081 steht für den Regierungsbezirk Stuttgart und schließt den darunterliegenden Stadtkreis Stuttgart (08111) sowie weitere Landkreise, Städte und Gemeinden, wie z.B. die Stadt Böblingen (ARS: 081150003003), im Regierungsbezirk mit ein.
-
-Eine Einschränkung auf konkrete Verwaltungsebenen ist durch das Auffüllen des ARS auf zwölf Stellen mit Nullen möglich.
-
-**Beispiel:** Der Schlüssel 081150000000 referenziert explizit nur den Kreis Böblingen, nicht jedoch beispielsweise die Stadt Leonberg (ARS: 081150028028), die im Kreis Böblingen liegt.
-
-
-Berenzungspolygon als WKT
-^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_begrenzungspolygon-als-wkt.png
-
-Abb.: Feld Berenzungspolygon als WKT
-
-Obwohl das ISO-Element Polygon heißt, können in diesem Feld auch andere Geometrietypen angegeben werden. Genauer gesagt, werden diese WKT-Klassen unterstützt:
-
-| **POINT: Ein einziger Punkt**
-| **Beispiel:** POINT(10 10)
-
-| **MULTIPOINT: Eine Punktsammlung**
-| **Beispiel:** MULTIPOINT((0 0), (10 10), (1.3 9.5))
-
-| **LINESTRING: Eine einzige Linie**
-| **Beispiel:** LINESTRING(10 10, 20 20, 10 40)
-
-| **MULTILINE: Eine Liniensammlung**
-| **Beispiel:** MULTILINE((10 10, 20 20, 10 40), (5.1 9.3, 3.6 -1.8), (0 0, 1 0, 1 1, 0 1))
-
-| **POLYGON: Ein einziges Polygon**
-| **Beispiel:** POLYGON((0 0, 0 10, 10 10, 10 0, 0 0), (5 5, 5 7, 7 7, 7 5, 5 5))
-
-| **MULTIPOLYGON: Eine Sammlung der Polygone**
-| **Beispiel:** MULTIPOLYGON(((0 0, 0 10, 10 10, 10 0, 0 0),(5 5, 5 7, 7 7, 7 5, 5 5)), (15 20, 25 30, 33 25, 15 20)))
-
-| **GEOMETRYCOLLECTION: Eine Sammlung von o.g. Geometrien**
-| **Beispiel:** GEOMETRYCOLLECTION(POINT(10 10), LINESTRING(10 10, 20 20, 10 40), POLYGON((0 0, 0 10, 10 10, 10 0, 0 0)))
-
-
-.. hint:: Die Koordinaten müssen zwingend im WGS84 Koordinatenreferenzsystem angegeben werden.
 
 
 Raumbezugssystem
