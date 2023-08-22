@@ -395,31 +395,31 @@ Abschnitt Fachbezug
 
 **Datensatztypen - Beschreibungen**
 
-- `Geodatensatz <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztyp-geodatensatz.html>`_
+| `Geodatensatz <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztyp-geodatensatz.html>`_
 
   - Beschreibung von digitalen Geodaten, analoge Karten oder Kartenwerke.
 
-- `Geodatendienst <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztyp-geodatendienst.html>`_
+| `Geodatendienst <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztyp-geodatendienst.html>`_
 
   - Dienste die raumbezogenen Daten zur Verfügung stellen, insbesondere Dienste im Rahmen von INSPIRE, der GDI-DE oder der GDIs der Länder.
 
-- `Informationssystem <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztyp-informationssystem.html>`_
+| `Informationssystem <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztyp-informationssystem.html>`_
 
   - Zentrale Auskunftssysteme, welche in der Regel auf eine oder mehrere Datenbanken zugreifen und diese zugänglich machen.
 
-- `Datensammlung <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztyp-datensammlung.html>`_
+| `Datensammlung <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztyp-datensammlung.html>`_
 
   - Digitale Sammlung von Daten. Beispiele: Messdaten, statistische Erhebungen, Modelldaten, Daten zu Anlagen.
 
-- `Literatur <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztyp-literatur.html>`_
+| `Literatur <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztyp-literatur.html>`_
 
   - Bücher, Broschüren, Aufsätze, Berichte, Gutachten etc. Von Interesse sind insbesondere Dokumente, welche nicht über den Buchhandel oder über Bibliotheken erhältlich sind (graue Literatur).
 
-- `Projekt <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztyp-projekt.html>`_
+| `Projekt <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztyp-projekt.html>`_
 
   - Forschungs- und Entwicklungsvorhaben, Projekte unter Beteiligung anderer Institutionen oder privater Unternehmen, Schutzprogramme - Von besonderem Interesse sind Vorhaben/Projekte/Programme, in denen umweltrelevante Datenbestände entstehen.
 
-- `Fachaufgabe <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztyp-fachaufgabe.html>`_
+| `Fachaufgabe <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztyp-fachaufgabe.html>`_
 
   - In diesem Datensatztyp befindet sich kein Abschnitt Fachbezug. Der Datensatztyp Fachaufgabe kann für Verweise auf Webseiten verwendet werden (z.B informationen zu Bebauungsplänen). Fachaufgabe ist der einzige Datensatztyp, dem keine weiteren Optionen zugeordnen werden können (z.B. OpenData).
 
@@ -461,12 +461,12 @@ Abb.: Symbole im Kartenviewer
 
 Die Symbole im Kartenviewer haben folgende Bedeutung (von oben nach unten): 
 
-1. Plus - in die Karte Zoomen, 
-2. Minus - heraus zoomen, 
-3. Rechteck zeichnen - eine BoundingBox aufziehen - Dazu in die Karte klicken und BondingBox über ein Gebiet spannen, 
-4. Layer editieren - BoundingBox verändern - mit der Maus auf einen Punkt klicken und das Rechteck verändern, 
-5. Layer bewegen - in die BoundingBox klicken und das Rechteck auf der Karte verschieben, 
-6. Layer löschen - Symbol anklicken und anschließend das Rechteck in der Karte
+| Plus - in die Karte Zoomen, 
+| Minus - heraus zoomen, 
+| Rechteck zeichnen - eine BoundingBox aufziehen - Dazu in die Karte klicken und BondingBox über ein Gebiet spannen, 
+| Layer editieren - BoundingBox verändern - mit der Maus auf einen Punkt klicken und das Rechteck verändern, 
+| Layer bewegen - in die BoundingBox klicken und das Rechteck auf der Karte verschieben, 
+| Layer löschen - Symbol anklicken und anschließend das Rechteck in der Karte
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/freier-raumbezug.png
    :align: left
@@ -531,8 +531,8 @@ Der ARS ist wie folgt aufgebaut:
 | 10.–12. Stelle = Gemeindekennzahl
 
 
-Raumbezugssysteme
-^^^^^^^^^^^^^^^^^^
+Raumbezugssystem
+^^^^^^^^^^^^^^^^
 
 .. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_raumbezugssystem-liste.png
 
