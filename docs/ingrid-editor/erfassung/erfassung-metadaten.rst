@@ -447,7 +447,7 @@ Raumbezug erstellen - in der Karte das blaue Kreuz anklicken. Es öffnet sich da
 
 Abb.: Raumbezug hinzufügen
 
-Für die Definition eines geografischen Bereichs, geben Sie in das Feld "Ort" einen Ortsnamen oder einen Naturraum ein. Während der Eingabe werden Vorschläge angezeigt. Durch die Auswahl eines vorgeschlagenen Ortes, wird in der Karte eine BoundingBox für den gewählten Ort oder das Gebiet erzeugt.
+Suchen Sie nach einem Gebiet oder Ort und wählen Sie aus der angezeigten Liste einen Vorschlag zur Darstellung auf der Karte aus. Nach einem Klick auf "ÜBERNEHMEN" werden die zugehörigen Breiten-/Längenkoordinaten automatisch angezeigt. 
 
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_ort.png
