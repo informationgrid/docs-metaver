@@ -441,7 +441,7 @@ Raumbezug erstellen - in der Karte auf das blaue Kreuz klicken. Es öffnet sich 
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug.png
    :align: left
-   :scale: 50
+   :scale: 40
    :figwidth: 100%
 
 Abb.: Raumbezug hinzufügen
