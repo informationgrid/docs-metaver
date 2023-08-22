@@ -432,7 +432,8 @@ Abschnitt Raumbezug
 
 Im Abschnitt Raumbezug werden Informationen über die räumliche Zuordnung der beschriebenen Daten erfasst.
 
-**Raumbezug hinzufügen**
+Einen Raumbezug anlegen
+^^^^^^^^^^^^^^^^^^^^^^^
 
 Im Bereich Allgemein wird die räumliche Ausdehnung des betreffenden Verfahrens angezeigt. Es wird ein Begrenzungsrechteck (BoundingBox) aus geografischen Koordinaten („Min“ und „Max“) angegeben, in dem das Gebiet liegt. 
 
