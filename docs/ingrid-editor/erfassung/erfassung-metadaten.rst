@@ -432,12 +432,11 @@ Abschnitt Raumbezug
 
 Im Abschnitt Raumbezug werden Informationen über die räumliche Zuordnung der beschriebenen Daten erfasst.
 
+
 Einen Raumbezug anlegen
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-Im Bereich Allgemein wird die räumliche Ausdehnung des betreffenden Verfahrens angezeigt. Es wird ein Begrenzungsrechteck (BoundingBox) aus geografischen Koordinaten („Min“ und „Max“) angegeben, in dem das Gebiet liegt. 
-
-Raumbezug erstellen - in der Karte auf das blaue Kreuz klicken. Es öffnet sich das Fenster "Raumbezug hinzufügen".
+Raumbezug erstellen - in der Karte das blaue Kreuz anklicken. Es öffnet sich das Fenster "Raumbezug hinzufügen".
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug.png
    :align: left
