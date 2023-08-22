@@ -259,13 +259,12 @@ Abb.: Sprungmarken
 Eingabefelder
 -------------
 
-.. hint:: Eingabefelder fett geschrieben und mit Stern (*), sind Pflichtfelder und müssen ausgefüllt werden, erst dann kann der Metadatensatz veröffentlicht werden.
+Im InGrid Editor gibt es eine Vielzahl von Feldern, die ausgefüllt werden können, es müssen jedoch nicht immer alle Felder belegt werden. Für jedes Verfahren bzw. jede Adresse gibt es jedoch sogenannte Pflichtfelder, die auf jeden Fall ausgefüllt werden müssen. Ohne die Befüllung dieser Pflichtfelder lässt sich der Datensatz nicht abspeichern! Gekennzeichnet sind diese Pflichtfelder durch ein Sternchen. 
 
-Im InGrid Editor gibt es eine Vielzahl von Feldern, die ausgefüllt werden können. Für jedes Verfahren bzw. jede Adresse gibt es Pflichtfelder, die ausgefüllt werden müssen. Ohne die Befüllung dieser Pflichtfelder lässt sich der Datensatz nicht abspeichern. Sind nicht alle Pflichtfelder ausgefüllt wird das bei der Veröffentlichung des Datensatzes angezeigt. Die Felder, die nicht ordnungsgemäß ausgefüllt wurden, werden rot umrandet dargestellt.
 .. figure:: ../../img/ige/allgemein/felder.png
 
 
-Abb.: Pflichtfelder und optionales Eingabefeld
+Abb.: Eingabefelder mit * sind Pflichtfelder
 
 
 

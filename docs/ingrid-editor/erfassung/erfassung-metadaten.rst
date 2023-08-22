@@ -292,8 +292,10 @@ Grundsätzlich ist es ratsam erst die Adressen anzulegen, bevor die eigentlichen
 
 Über den Button "Hinzufügen" wird die Adressverknüpfung angelegt.
 
-  - Es ist mindestens eine Adresse anzugeben.
-  - Es muss mindestens ein Ansprechpartner für die Metadaten (Ansprechpartner MD) angegeben werden.
+Es sind mindestens zwei Adressen anzugeben:
+
+  1. Es muss ein Ansprechpartner für die Daten angegeben werden (Adresstyp: Ansprechparter).
+  2. Es muss ein Ansprechpartner für die Metadaten angegeben werden (Adresstyp: Ansprechpartner MD).
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/adressen_anlegen.png
    :align: left
@@ -437,6 +439,9 @@ Im Bereich Allgemein wird die räumliche Ausdehnung des betreffenden Verfahrens 
 Raumbezug erstellen - in der Karte auf das blaue Kreuz klicken. Es öffnet sich das Fenster "Raumbezug hinzufügen".
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Raumbezug hinzufügen
 
@@ -447,7 +452,9 @@ Für die Definition eines geografischen Bereichs, geben Sie in das Feld "Ort" ei
 Abb.: Raumbezug nach Orten suchen
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_viewer.png
-   :width: 300
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Symbole im Kartenviewer
 
@@ -461,10 +468,16 @@ Die Symbole im Kartenviewer haben folgende Bedeutung (von oben nach unten):
 6. Layer löschen - Symbol anklicken und anschließend das Rechteck in der Karte
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/freier-raumbezug.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Freier Raumbezug und BoundingBox
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_bearbeiten.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Raumbezug bearbeiten
 
