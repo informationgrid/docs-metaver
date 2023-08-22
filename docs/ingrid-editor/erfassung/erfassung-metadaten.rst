@@ -465,12 +465,17 @@ Abb.: Symbole im Kartenviewer
 
 Die Symbole im Kartenviewer haben folgende Bedeutung (von oben nach unten): 
 
-| Plus - in die Karte Zoomen, 
-| Minus - heraus zoomen, 
-| Rechteck zeichnen - eine BoundingBox aufziehen - Dazu in die Karte klicken und BondingBox über ein Gebiet spannen, 
-| Layer editieren - BoundingBox verändern - mit der Maus auf einen Punkt klicken und das Rechteck verändern, 
-| Layer bewegen - in die BoundingBox klicken und das Rechteck auf der Karte verschieben, 
-| Layer löschen - Symbol anklicken und anschließend das Rechteck in der Karte
+| Plus - Karte vergrößern
+
+| Minus - Karte verkleinern
+
+| Rechteck anlegen - Dazu in die Karte klicken und ein Rechteck aufspannen und wieder in die Karte klicken.
+
+| Linie mit Punkt - Rechteck ändern - mit der Maus auf einen Punkt klicken und das Rechteck verändern.
+
+| Kreuz - Rechteck verschieben - in das Rechteck klicken und auf der Karte verschieben.
+
+| Radiergummi - Rechteck löschen - Symbol anklicken und anschließend auf das Rechteck in der Karte.
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/freier-raumbezug.png
    :align: left
