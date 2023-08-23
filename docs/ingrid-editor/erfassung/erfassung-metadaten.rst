@@ -566,7 +566,7 @@ Raumbezugssystem (Koordinatenreferenzsystem oder Koordinatenbezugsystem)
 
 Abb.: Felder Koordinatenreferenzsystem
 
-`Auswahlliste des Koordinatenrefernzsystems <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_raumbezug_raumbezugsysteme.html>`_
+`Auswahlliste Koordinatenrefernzsystem <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_raumbezug_raumbezugsysteme.html>`_
 
 Über ein Dropdownmenü erfolgt an dieser Stelle die Auswahl des Raumbezugssystems, welches in der Ressource verwendet wurde. 
 
