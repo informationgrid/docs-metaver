@@ -564,7 +564,7 @@ Raumbezugssystem (Koordinatenreferenzsystem oder Koordinatenbezugsystem)
    :scale: 50
    :figwidth: 100%
 
-Abb.: Felder Koordinatenreferenzsystem
+Abb.: Felde Koordinatenreferenzsystem
 
 `Auswahlliste Koordinatenrefernzsystem <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_raumbezug_raumbezugsysteme.html>`_
 
