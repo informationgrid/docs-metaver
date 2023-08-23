@@ -75,7 +75,7 @@ Feld: Titel
 
 Angabe einer kurzen prägnanten Bezeichnung. Soweit ein gängiges Kürzel vorhanden ist, ist dieses Kürzel mit anzugeben.
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/titel.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/titel.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -455,7 +455,7 @@ Suchen Sie nach einem Gebiet oder Ort und wählen Sie aus der angezeigten Liste 
    :scale: 50
    :figwidth: 100%
 
-Abb.: Raumbezug nach Orten suchen
+Abb.: Raumbezug-Typ - Freie Eingabe - Suche nach Orten
 
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/kartenviewer_symbole.png
@@ -481,12 +481,25 @@ Die Symbole im Kartenviewer haben folgende Bedeutung:
 | **Radiergummi** - Rechteck löschen - Symbol anklicken und anschließend auf das Rechteck in der Karte.
 
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/freier-raumbezug.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_typ.png
    :align: left
    :scale: 50
    :figwidth: 100%
 
-Abb.: Freier Raumbezug
+Abb.: Raumbezug Typen
+
+
+| **Freier Raumbezug**
+
+  | Im Hintergrund arbeitet hier Nominatim, ein OpenStreetMap Werkzeug zum Auffinden von Adressen. Es kann nach Orten oder Naturräumen gesucht werden.
+
+| **Raumbezug (WKT)**
+
+  | WKT steht für Well-Known Text, dieses Feld dient der Eingabe von Geometrien (Punkte, Linien, Flächen - Polygone), `Ausfühliche Bescheibung <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/wkt/raumbezug_wkt.html>`_.für die Erfassung von WKT. 
+
+| **Geothesaurus (wfs_gnde, BKG Dienst)**
+
+  | wfs_gnde steht für Geographische Namen und ist ein Gazetteer (Ortsverzeichnis) des Bundesamt für Kartographie und Geodäsie. Dieses Werkzeug enthält den Amtlichen Regionalschlüssel (ASR)
 
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_bearbeiten.png
@@ -503,13 +516,12 @@ Für das Bearbeiten des Raumbezuges, auf der rechten Seite auf die drei Punkte k
 Raumbezug als WKT
 ^^^^^^^^^^^^^^^^^
 
-WKT - Well-known text
-
-Well-known-Text wird dazu verwendet, um Geometrien alphanumerisch darzustellen.
+WKT (Well-Known Text) wird dazu verwendet, um Geometrien alphanumerisch darzustellen.
 
 .. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_begrenzungspolygon-als-wkt.png
 
 Abb.: Typ - Raumbezug (WKT)
+
 
 Unterstützt werden Punkte, Linien, mehrere Linien, Polygone, mehrere Polygone, unterschiedliche Geometrietypen. Die Angabe muss konform zur Spezifikation "OpenGIS Implementation Specification for Geographic information – Simple feature access" erfolgen.
 
