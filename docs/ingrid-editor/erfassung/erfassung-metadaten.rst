@@ -575,7 +575,6 @@ Beispiel: EPSG:4326 / WGS 84 / geographisch
 
 Höhe
 ^^^^
-
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_hoehe.png
    :align: left
    :scale: 50
@@ -608,7 +607,6 @@ Angabe des Referenzpegels, zu dem die Höhe relativ gemessen wird. In Deutschlan
 Beispiel: Pegel Amsterdam
 
 `Auswahlliste Vertikaldatum <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_raumbezug_vertikaldatum.html>`_
-
 
 
 Erläuterungen
