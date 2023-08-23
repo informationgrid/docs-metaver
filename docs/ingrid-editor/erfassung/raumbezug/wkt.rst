@@ -25,42 +25,42 @@ Abb.: Beispiel - Koordinatenangaben als WKT (Komma nach den Punktkoordinaten)
 Diese WKT-Klassen werden unterstützt:
 
 | **POINT: Ein Punkt**
-| **Beispiel:** POINT(8.022089 47.864416)
+| **Beispiel:** POINT(10.447679 51.163361)
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/wkt/beispiel_feldberg.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/wkt/beispiel_deutschland-mitte.png
    :align: left
    :scale: 50
    :figwidth: 100%
 
-Abb.: Beispiel - Aussichtsturm Feldberg
+Abb.: Beispiel - Mittelpunkt Deutschlands (nach Breiten- und Längengraden)
 
 
 | **MULTIPOINT: Punktsammlung, Punktwolke**
-| **Beispiel:** MULTIPOINT((10.615711 51.799107), (10.61817 51.79863), (10.61576 51.80049))
+| **Beispiel:** MULTIPOINT((10.723816 54.210959), (10.615532 51.799119), (13.602431 53.483580), (12.954303 50.428704), (10.619285 51.756461), (13.726662 51.364723), (8.558416 51.276331), (7.089624 49.729275), (10.743390 50.656641), (9.933008 50.498075), (7.013475 49.628655), (8.022308 47.864520), (10.984875 47.421406))
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/wkt/beispiel_brocken.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/wkt/beispiel_erhebungen.png
    :align: left
    :scale: 50
    :figwidth: 100%
 
-Abb.: Beispiel - Gebäude auf dem Brocken
+Abb.: Beispiel - Höchste Erhebungen in den Bunsländern
 
 
 | **LINESTRING: Eine Linie**
-| **Beispiel:** LINESTRING (11.430833 53.627320, 13.380556 52.507074, 13.053249 52.397778, 11.631959 52.105427, 9.751075 52.362142, 8.690229 50.114887, 9.183597 48.772455)
+| **Beispiel:** LINESTRING (8.416624 55.058136, 10.178340 47.270118)
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/wkt/beispiel_strecke_schwerin-stuttgart.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/wkt/beispiel_strecke_nord-sued.png
    :align: left
    :scale: 50
    :figwidth: 100%
 
-Abb.: Beispiel - Strecke Schwerin - Stuttgart (über Berlin)
+Abb.: Beispiel - Strecke Nördlichster Punkt zum Südlichsten Punkt Deutschlands
 
 
 | **MULTILINE: Mehrere Linien**
-| **Beispiel:** MULTILINESTRING ((8.682422 50.110330, 13.732779 51.051925), (8.682422 50.110330, 10.0089734 53.559106))
+| **Beispiel:** MULTILINESTRING ((8.416624 55.058136, 10.178340 47.270118), (5.866353 51.051102, 15.041753 51.273060))
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/wkt/beispiel_2strecken.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/wkt/beispiel_nosw.png
    :align: left
    :scale: 50
    :figwidth: 100%
