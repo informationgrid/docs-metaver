@@ -507,7 +507,7 @@ Raumbezug (WKT)
 
 WKT steht für Well-Known Text, dieses Feld dient der Eingabe von Geometrien. Unterstützt werden Punkte, Linien, mehrere Linien, Polygone, mehrere Polygone, unterschiedliche Geometrietypen. Die Angabe muss konform zur Spezifikation "OpenGIS Implementation Specification for Geographic information – Simple feature access" erfolgen.
 
- .. seealso:: `Ausfühliche Bescheibung <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/raumbezug/wkt.html>`_ Erfassung von WKT.
+.. seealso:: `Ausfühliche Bescheibung Erfassung von WKT <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/raumbezug/wkt.html>`_
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_wkt.png
    :align: left
@@ -527,10 +527,15 @@ wfs_gnde steht für Geographische Namen und ist ein Gazetteer (Ortsverzeichnis) 
    :scale: 50
    :figwidth: 100%
 
-Abb.: Raumbezugtyp: GN-DE mit Amtlichen Regionalschlüssel
+Abb.: Raumbezugtyp: GN-DE mit Amtlichen Regionalschlüssel (ASR)
 
+Der Amtliche Regionalschlüssel ist wie folgt aufgebaut:
 
-..seealso:: `Ausfühliche Bescheibung <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/raumbezug/wkt.html>`_ Amtlicher Regionalschlüssel.
+| 1.–2. Stelle   = Kennzahl des Bundeslandes
+| 3. Stelle      = Kennzahl des Regierungsbezirks; wenn nicht vorhanden: 0
+| 4.–5. Stelle   = Kennzahl des Landkreises oder der kreisfreien Stadt
+| 6.–9. Stelle   = Verbandsschlüssel
+| 10.–12. Stelle = Gemeindekennzahl
 
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_wkt.png
@@ -549,10 +554,6 @@ Für das Bearbeiten des Raumbezuges, auf der rechten Seite auf die drei Punkte k
    :figwidth: 100%
 
 Abb.: Raumbezug bearbeiten
-
-
-
-
 
 
 Raumbezugssystem
