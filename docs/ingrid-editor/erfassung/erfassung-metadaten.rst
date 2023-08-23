@@ -468,17 +468,17 @@ Abb.: Symbole im Kartenviewer
 
 Die Symbole im Kartenviewer haben folgende Bedeutung: 
 
-| **Plus** - Karte vergrößern
+| **Plus:** Karte vergrößern
 
-| **Minus** - Karte verkleinern
+| **Minus:** Karte verkleinern
 
-| **Rechteck** - Rechteck angegen - Dazu in die Karte klicken und ein Rechteck aufspannen und wieder in die Karte klicken.
+| **Rechteck:** Rechteck angegen - Dazu in die Karte klicken und ein Rechteck aufspannen und wieder in die Karte klicken.
 
-| **Linie mit Punkt** - Rechteck ändern - Mit der Maus auf einen Punkt klicken und das Rechteck verändern.
+| **Linie mit Punkt:** Rechteck ändern - Mit der Maus auf einen Punkt klicken und das Rechteck verändern.
 
-| **Kreuz** - Rechteck verschieben - In das Rechteck klicken und auf der Karte verschieben.
+| **Kreuz:** Rechteck verschieben - In das Rechteck klicken und auf der Karte verschieben.
 
-| **Radiergummi** - Rechteck löschen - Symbol anklicken und anschließend auf das Rechteck in der Karte.
+| **Radiergummi:** Rechteck löschen - Symbol anklicken und anschließend auf das Rechteck in der Karte.
 
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_typ.png
