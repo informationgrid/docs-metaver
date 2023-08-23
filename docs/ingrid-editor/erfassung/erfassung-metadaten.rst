@@ -496,7 +496,7 @@ Im Hintergrund arbeitet hier Nominatim, ein OpenStreetMap Werkzeug zum Auffinden
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_freier.png
    :align: left
-   :scale: 50
+   :scale: 35
    :figwidth: 100%
 
 Abb.: Raumbezugtyp: Freier Raumbezug
@@ -511,7 +511,7 @@ WKT steht für Well-Known Text, dieses Feld dient der Eingabe von Geometrien. Un
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_wkt.png
    :align: left
-   :scale: 50
+   :scale: 35
    :figwidth: 100%
 
 Abb.: Raumbezugtyp: WKT (Polygon)
@@ -522,9 +522,9 @@ Geothesaurus (wfs_gnde, BKG Dienst)
 
 wfs_gnde steht für Geographische Namen und ist ein Gazetteer (Ortsverzeichnis) des Bundesamt für Kartographie und Geodäsie. Dieses Werkzeug enthält den Amtlichen Regionalschlüssel (ASR)
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_wkt.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_gnde.png
    :align: left
-   :scale: 50
+   :scale: 35
    :figwidth: 100%
 
 Abb.: Raumbezugtyp: GN-DE mit Amtlichen Regionalschlüssel (ASR)
@@ -538,9 +538,9 @@ Der Amtliche Regionalschlüssel ist wie folgt aufgebaut:
 | 10.–12. Stelle = Gemeindekennzahl
 
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_wkt.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_optionen.png
    :align: left
-   :scale: 50
+   :scale: 35
    :figwidth: 100%
 
 Abb.: unterschiedliche Raumbezugtüpen nach der ÜBERNEHMEN in die Metadaten
