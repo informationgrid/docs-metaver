@@ -489,18 +489,59 @@ Die Symbole im Kartenviewer haben folgende Bedeutung:
 Abb.: Raumbezug Typen
 
 
-| **Freier Raumbezug**
+Freier Raumbezug
+""""""""""""""""
 
-  | Im Hintergrund arbeitet hier Nominatim, ein OpenStreetMap Werkzeug zum Auffinden von Adressen. Es kann nach Orten oder Naturräumen gesucht werden.
+Im Hintergrund arbeitet hier Nominatim, ein OpenStreetMap Werkzeug zum Auffinden von Adressen. Es kann nach Orten oder Naturräumen gesucht werden.
 
-| **Raumbezug (WKT)**
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_freier.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
-  | WKT steht für Well-Known Text, dieses Feld dient der Eingabe von Geometrien (Punkte, Linien, Flächen - Polygone), `Ausfühliche Bescheibung <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/wkt/raumbezug_wkt.html>`_.für die Erfassung von WKT. 
+Abb.: Raumbezugtyp: Freier Raumbezug
 
-| **Geothesaurus (wfs_gnde, BKG Dienst)**
 
-  | wfs_gnde steht für Geographische Namen und ist ein Gazetteer (Ortsverzeichnis) des Bundesamt für Kartographie und Geodäsie. Dieses Werkzeug enthält den Amtlichen Regionalschlüssel (ASR)
+Raumbezug (WKT)
+"""""""""""""""
 
+WKT steht für Well-Known Text, dieses Feld dient der Eingabe von Geometrien. Unterstützt werden Punkte, Linien, mehrere Linien, Polygone, mehrere Polygone, unterschiedliche Geometrietypen. Die Angabe muss konform zur Spezifikation "OpenGIS Implementation Specification for Geographic information – Simple feature access" erfolgen.
+
+ .. seealso:: `Ausfühliche Bescheibung <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/raumbezug/wkt.html>`_ Erfassung von WKT.
+
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_wkt.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Raumbezugtyp: WKT (Polygon)
+
+
+Geothesaurus (wfs_gnde, BKG Dienst)
+"""""""""""""""""""""""""""""""""""
+
+wfs_gnde steht für Geographische Namen und ist ein Gazetteer (Ortsverzeichnis) des Bundesamt für Kartographie und Geodäsie. Dieses Werkzeug enthält den Amtlichen Regionalschlüssel (ASR)
+
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_wkt.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Raumbezugtyp: GN-DE mit Amtlichen Regionalschlüssel
+
+
+..seealso:: `Ausfühliche Bescheibung <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/raumbezug/wkt.html>`_ Amtlicher Regionalschlüssel.
+
+
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_wkt.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: unterschiedliche Raumbezugtüpen nach der ÜBERNEHMEN in die Metadaten
+
+
+Für das Bearbeiten des Raumbezuges, auf der rechten Seite auf die drei Punkte klicken, dann öffnet sich ein Menü.
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_bearbeiten.png
    :align: left
@@ -510,52 +551,8 @@ Abb.: Raumbezug Typen
 Abb.: Raumbezug bearbeiten
 
 
-Für das Bearbeiten des Raumbezuges, auf der rechten Seite auf die drei Punkte klicken, dann öffnet sich ein Menü.
 
 
-Raumbezug als WKT
-^^^^^^^^^^^^^^^^^
-
-WKT (Well-Known Text) wird dazu verwendet, um Geometrien alphanumerisch darzustellen.
-
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_begrenzungspolygon-als-wkt.png
-
-Abb.: Typ - Raumbezug (WKT)
-
-
-Unterstützt werden Punkte, Linien, mehrere Linien, Polygone, mehrere Polygone, unterschiedliche Geometrietypen. Die Angabe muss konform zur Spezifikation "OpenGIS Implementation Specification for Geographic information – Simple feature access" erfolgen.
-
-..seealso:: `Ausfühliche Bescheibung <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/wkt/raumbezug_wkt.html>`_.für die Erfassung von WKT. 
-
-
-
-Amtlicher Regionalschlüssel (ARS)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_.png
-   :align: left
-   :scale: 50
-   :figwidth: 100%
-
-Abb.: Typ - Geo-Thesaurus - (wfs_gnde, BKG Dienst)
-
-(wfs_gnde - steht für Geographische Namen Deutschlands es handelt sich um einen Downloaddienst des Bundesamtes für Kartographie und Geodäsie.)
-
-
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_.png
-   :align: left
-   :scale: 50
-   :figwidth: 100%
-
-Abb.: Raumbezug mit Angabe des ARS
-
-Der ARS ist wie folgt aufgebaut:
-
-| 1.–2. Stelle   = Kennzahl des Bundeslandes
-| 3. Stelle      = Kennzahl des Regierungsbezirks; wenn nicht vorhanden: 0
-| 4.–5. Stelle   = Kennzahl des Landkreises oder der kreisfreien Stadt
-| 6.–9. Stelle   = Verbandsschlüssel
-| 10.–12. Stelle = Gemeindekennzahl
 
 
 Raumbezugssystem
