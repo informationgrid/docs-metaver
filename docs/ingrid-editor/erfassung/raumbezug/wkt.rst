@@ -5,7 +5,7 @@ Raumbezug als WKT
 
 Obwohl das ISO-Element Polygon heißt, können in diesem Feld auch andere Geometrietypen angegeben werden.
 
-.. tip:: Bei der Angabe der WKT ist darauf zu achten, dass jeweils eine Punktkoordinate durch ein Komma getrennt ist. In KML-Dateien zum Beispiel, werden die Angaben der Koordinaten durch ein Komma getrennt angegeben.
+.. tip:: Die Koordinaten für diese WKT-Klassen können im METAVER Kartenclient, mit der Funktion "Zeichnen", erstellt werden. Die Koordinaten müssen dann als KML-Datei, über die Funktion "Exportieren", gespeichert werden. Bei der Angabe der WKT ist darauf zu achten, dass jeweils eine Punktkoordinate durch ein Komma getrennt ist. In KML-Dateien zum Beispiel, werden die Angaben der Koordinaten durch ein Komma getrennt angegeben. Weiterhin werden die Koordinaten z.B. in einer KML-Datei oder in Google Maps in umgekehrter Reihenfolge dargestellt.
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/wkt/beispiel_kml-koordinaten.png
    :align: left
