@@ -559,9 +559,12 @@ Abb.: Raumbezug bearbeiten
 Raumbezugssystem (Koordinatenreferenzsystem oder Koordinatenbezugsystem)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_raumbezugssystem-liste.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_kbs.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
-Abb.: Feld Raumbezugssystem
+Abb.: Felder Koordinatenreferenzsystem
 
 `Auswahlliste des Koordinatenrefernzsystems <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_raumbezug_raumbezugsysteme.html>`_
 
