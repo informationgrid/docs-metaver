@@ -12,14 +12,14 @@ Obwohl das ISO-Element Polygon heißt, können in diesem Feld auch andere Geomet
    :scale: 50
    :figwidth: 100%
 
-Abb.: Beispiel - Koordinatenangaben in einer KML-Datei
+Abb.: Beispiel - Koordinatenangaben in einer KML-Datei (Komma zwischen Breiten- und Längenangabe)
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/beispiel_wkt-koordinaten.png
    :align: left
    :scale: 50
    :figwidth: 100%
 
-Abb.: Beispiel - Koordinatenangaben als WKT
+Abb.: Beispiel - Koordinatenangaben als WKT (Komma nach den Punktkoordinaten)
 
 
 Diese WKT-Klassen werden unterstützt:
