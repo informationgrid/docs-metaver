@@ -395,7 +395,7 @@ Abschnitt Fachbezug
 
 **Beschreibung der Datensatztypen**
 
-Nachfolgend sind die zusätzlichen Eingabefelder in den verschiedenen Datensatztypen beschrieben (Verlinkung folgen).
+Nachfolgend sind in den verschiedenen Datensatztypen (Verlinkung folgen) die zusätzlichen Eingabefelder beschrieben.
 
 | `Geodatensatz <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztyp-geodatensatz.html>`_
 
