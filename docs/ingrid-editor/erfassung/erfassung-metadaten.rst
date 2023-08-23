@@ -435,10 +435,10 @@ Abschnitt Raumbezug
 Im Abschnitt Raumbezug werden Informationen über die räumliche Zuordnung der beschriebenen Daten erfasst.
 
 
-Einen Raumbezug anlegen
-^^^^^^^^^^^^^^^^^^^^^^^
+Raumbezugssystem
+^^^^^^^^^^^^^^^^
 
-Raumbezug erstellen - in der Karte das blaue Kreuz anklicken. Es öffnet sich das Fenster "Raumbezug hinzufügen".
+Im Raumbezugssystem einen Raumbezug hinzufügen - In der Karte auf das blaue Kreuz klicken. Es öffnet sich das Fenster des Raumbezugsystems.
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug.png
    :align: left
@@ -543,7 +543,7 @@ Der Amtliche Regionalschlüssel ist wie folgt aufgebaut:
    :scale: 35
    :figwidth: 100%
 
-Abb.: unterschiedliche Raumbezugtüpen nach der ÜBERNEHMEN in die Metadaten
+Abb.: Unterschiedliche Raumbezugtypen nach ÜBERNEHMEN in die Metadaten
 
 
 Für das Bearbeiten des Raumbezuges, auf der rechten Seite auf die drei Punkte klicken, dann öffnet sich ein Menü.
@@ -556,14 +556,14 @@ Für das Bearbeiten des Raumbezuges, auf der rechten Seite auf die drei Punkte k
 Abb.: Raumbezug bearbeiten
 
 
-Raumbezugssystem
-^^^^^^^^^^^^^^^^
+Raumbezugssystem (Koordinatenreferenzsystem oder Koordinatenbezugsystem)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_raumbezugssystem-liste.png
 
 Abb.: Feld Raumbezugssystem
 
-`Auswahlliste der Raumbezugssysteme <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_raumbezug_raumbezugsysteme.html>`_
+`Auswahlliste des Koordinatenrefernzsystems <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_raumbezug_raumbezugsysteme.html>`_
 
 Über ein Dropdownmenü erfolgt an dieser Stelle die Auswahl des Raumbezugssystems, welches in der Ressource verwendet wurde. 
 
@@ -575,10 +575,12 @@ Beispiel: EPSG:4326 / WGS 84 / geographisch
 Höhe
 ^^^^
 
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-06_raumbezugssystem/ige-raumbezug_hoehe.png
-   :width: 500
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_hoehe.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
-Abb.: Feld Höhe
+Abb.: Felder für Höhenangaben
 
 
 Minimum / Maximum
@@ -606,10 +608,17 @@ Beispiel: Pegel Amsterdam
 
 `Auswahlliste Vertikaldatum <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_raumbezug_vertikaldatum.html>`_
 
+
+
 Erläuterungen
 '''''''''''''
 
-Zusätzliche Angaben zum Raumbezug.
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_erlaeuterungen.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Feld Erläuterungen für Zusätzliche Angaben zum Raumbezu
 
 Beispiel: Die Koordinaten für die Fachliche Gebietseinheit sind ungefähre Angaben.
 
