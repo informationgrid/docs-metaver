@@ -742,13 +742,23 @@ Der Abschnitt Zusatzinformation enthält Angaben von allgemeinen Informationen w
 Feld: Sprache des Metadatensatzes
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. figure:: ../../img/ige/erfassung/ige_metadaten/ige_abschnitt-08_zusatzinformation/sprache-metadatensatz.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Auswahlfeld - Sprache des Metadatensatzes
+
 Es erfolgt die Angabe der Sprache des Metadatensatzes, als Standard ist Deutsch voreingestellt.
 
 
 Feld: Sprache der Ressource
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-08_zusatzinformation/ige-zusatzinformation_datensatz-sprache.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/ige_abschnitt-08_zusatzinformation/sprache.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Auswahlfeld - Sprache der Ressource
 
@@ -758,11 +768,14 @@ Es erfolgt die Angabe der Sprache des beschriebenen Datensatzes, als Standard is
 Feld: Weitere rechtliche Grundlagen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-08_zusatzinformation/ige-zusatzinformation_weitere-rechtliche-grundlagen.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/ige_abschnitt-08_zusatzinformation/rechtliche-grundlagen.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Auswahlfeld - weitere rechtliche Grundlagen
 
-Angabe der rechtlichen Grundlage, die die Erhebung der beschriebenen Daten veranlasst hat. Hier können Kürzel von Gesetzen, Erlassen, Verordnungen usw. eingetragen werden, in denen z. B. die Methode oder die Form der Erhebung der im Objekt beschriebenen Daten festgelegt oder beschrieben wird. Es ist bei Bedarf der Eintrag mehrerer Angaben möglich.
+Angabe der rechtlichen Grundlage, die die Erhebung der beschriebenen Daten veranlasst hat. Hier können Kürzel von Gesetzen, Erlassen, Verordnungen usw. eingetragen werden, in denen z. B. die Methode oder die Form der Erhebung der im Datensatz beschriebenen Daten festgelegt oder beschrieben wird. Es ist bei Bedarf der Eintrag mehrerer Angaben möglich.
 
 
 Felder: Weiteres
@@ -771,21 +784,21 @@ Felder: Weiteres
 Herstellungszweck
 """""""""""""""""
 
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-08_zusatzinformation/ige-zusatzinformation_herstellungszweck.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/ige_abschnitt-08_zusatzinformation/weiteres.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
-Abb.: Textfeld - Herstellungszweck
+Abb.: Textfeld - Herstellungszweck / Eignung Nutzung
 
-Zusammenfassung, für welchen Zweck oder mit welcher Absicht die Ressource erstellt wurde.
+Zusammenfassung, für welchen Zweck oder mit welcher Absicht die Ressource erstellt wurde. 
 Bei gewünschter Mehrsprachigkeit muss dieses Feld nach dem Schema "Deutscher Text#locale-eng:English text" gefüllt werden. 
-Beispiel: Apfelbaum#locale-eng:apple tree
-
+Beispiel: Baumfällungen#locale-eng:Tree felling
 
 Eignung/Nutzung
 """""""""""""""
 
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-08_zusatzinformation/ige-zusatzinformation_eignung-nutzung.png
-
-Abb.: Beispiel - Präsentation des Raumordnungsprogramms auf Basis der topografischen Kartenwerke
+Beispiel: Präsentation des Raumordnungsprogramms auf Basis der topografischen Kartenwerke
 
 Spezifische Nutzung: kurze Beschreibung zur Verwendung der Ressource.
 Angaben über die Verwendungsmöglichkeiten, die diese Daten in Verbindung mit weiteren Informationen erfüllen können.
