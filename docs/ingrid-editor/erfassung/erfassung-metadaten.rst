@@ -792,13 +792,16 @@ Herstellungszweck
 Abb.: Textfeld - Herstellungszweck / Eignung Nutzung
 
 Zusammenfassung, für welchen Zweck oder mit welcher Absicht die Ressource erstellt wurde. 
+
+Beispiel: Potentiale für Grünfächen, Fassadenbegrünung, Dachbegrünung und Flächen für Baumpflanzungen
+
 Bei gewünschter Mehrsprachigkeit muss dieses Feld nach dem Schema "Deutscher Text#locale-eng:English text" gefüllt werden. 
 Beispiel: Baumfällungen#locale-eng:Tree felling
 
 Eignung/Nutzung
 """""""""""""""
 
-Beispiel: Anpassungsmaßnahmen an den Klimawandel - Dokumentation von Baumfällungen, Nachpflanzungen und Neupflanzungen
+Beispiel: Grunlage für Planung von Anpassungsmaßnahmen an den Klimawandel
 
 Spezifische Nutzung: kurze Beschreibung zur Verwendung der Ressource.
 Angaben über die Verwendungsmöglichkeiten, die diese Daten in Verbindung mit weiteren Informationen erfüllen können.
