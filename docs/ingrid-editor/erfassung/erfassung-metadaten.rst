@@ -781,8 +781,8 @@ Angabe der rechtlichen Grundlage, die die Erhebung der beschriebenen Daten veran
 Felder: Weiteres
 ^^^^^^^^^^^^^^^^
 
-Herstellungszweck
-"""""""""""""""""
+Feld: Herstellungszweck
+"""""""""""""""""""""""
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-08_zusatzinformation/weiteres.png
    :align: left
@@ -798,8 +798,9 @@ Beispiel: Potentiale für Grünfächen, Fassadenbegrünung, Dachbegrünung und F
 Bei gewünschter Mehrsprachigkeit muss dieses Feld nach dem Schema "Deutscher Text#locale-eng:English text" gefüllt werden. 
 Beispiel: Baumfällungen#locale-eng:Tree felling
 
-Eignung/Nutzung
-"""""""""""""""
+
+Feld: Eignung/Nutzung
+"""""""""""""""""""""
 
 Beispiel: Grunlage für Planung von Anpassungsmaßnahmen an den Klimawandel
 
