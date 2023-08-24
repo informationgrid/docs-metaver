@@ -49,7 +49,7 @@ Diese WKT-Klassen werden unterstützt:
    :scale: 40
    :figwidth: 100%
 
-Abb.: Beispiel - Mittelpunkt Deutschlands (nach Breiten- und Längengraden)
+Abb.: Beispiel - Punkt
 
 
 | **MULTIPOINT: Punktsammlung, Punktwolke**
@@ -66,7 +66,7 @@ Abb.: Beispiel - Mittelpunkt Deutschlands (nach Breiten- und Längengraden)
    :scale: 40
    :figwidth: 100%
 
-Abb.: Beispiel - Höchste Erhebungen in den Bunsländern
+Abb.: Beispiel - mehrere Punkte
 
 
 | **LINESTRING: Eine Linie**
@@ -82,7 +82,7 @@ Abb.: Beispiel - Höchste Erhebungen in den Bunsländern
    :scale: 40
    :figwidth: 100%
 
-Abb.: Beispiel - Strecke Nördlichster Punkt zum Südlichsten Punkt Deutschlands
+Abb.: Beispiel - eine Linie
 
 
 | **MULTILINE: Mehrere Linien**
@@ -98,7 +98,7 @@ Abb.: Beispiel - Strecke Nördlichster Punkt zum Südlichsten Punkt Deutschlands
    :scale: 40
    :figwidth: 100%
 
-Abb.: Beispiel - Strecken Berlin - Würzburg, Hamburg - Düsseldorf
+Abb.: Beispiel - mehrere Linien
 
 
 | **POLYGON: Ein Polygon**
@@ -114,7 +114,7 @@ Abb.: Beispiel - Strecken Berlin - Würzburg, Hamburg - Düsseldorf
    :scale: 40
    :figwidth: 100%
 
-Abb.: Beispiel - Hamburg
+Abb.: Beispiel - Polygon
 
 
 | **POLYGON: Polygon mit Loch**
@@ -130,7 +130,7 @@ Abb.: Beispiel - Hamburg
    :scale: 40
    :figwidth: 100%
 
-Abb.: Beispiel - Brandenburg ohne Berlin
+Abb.: Beispiel - Polygon mit Loch
 
 
 | **MULTIPOLYGON: Mehrere Polygone**
@@ -146,6 +146,6 @@ Abb.: Beispiel - Brandenburg ohne Berlin
    :scale: 40
    :figwidth: 100%
 
-Abb.: Beispiel - Bremen, Hamburg, Berlin
+Abb.: Beispiel - Nultipolygon
 
 : Feldname: Feldinhalt
