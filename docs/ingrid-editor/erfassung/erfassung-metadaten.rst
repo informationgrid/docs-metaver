@@ -726,11 +726,9 @@ Feld: Erläuterungen
    :scale: 50
    :figwidth: 100%
 
-Abb.: Textfeld für Erläuterungen
+Abb.: Textfeld für Erläuterungen - Beispiel: Die Messungen erfolgten nur am Tag.
 
 Hier können z.B. die Angaben der Periodizität eingeschränkt, weitere Zeitangaben gemacht oder Unregelmäßigkeiten erklärt werden. Im Zusammenhang mit dem Eintrag im Feld Periodizität können hier Abstände, Perioden und Intervalle eingetragen werden, die sich nicht aus dem Zusammenhang der anderen Felder des Zeitbezuges erklären, z.B. Jahreszeiten, Dekaden, Tageszeiten.
-
-Beispiel: Die Messungen erfolgten nur am Tag.
 
 -----------------------------------------------------------------------------------------------------------------------
 
