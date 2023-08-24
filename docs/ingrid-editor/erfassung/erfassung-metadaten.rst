@@ -713,7 +713,7 @@ Feld: Intervall der Erhebung
 
 Abb.: Feld Im Intervall der Erhebung
 
-`Auswahlliste - Im Intervall <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_zeitbezug_intervalle.html>`_
+`Auswahlliste Intervall <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_zeitbezug_intervalle.html>`_
 
 Mit Intervall wird der zeitliche Abstand (Frequenz) der Datenerhebung angegeben. Erfolgt die Datenerhebung kontinuierlich oder periodisch (siehe Feld Periodizität), so wird diese Angabe hier präzisiert. Es stehen Felder für den Eintrag einer Anzahl und eine Auswahlliste für die Einheit zur Verfügung. Der Eintrag von "6" und "Monaten" bedeutet, dass die beschriebenen Daten alle 6 Monate aktualisiert werden.
 
