@@ -742,7 +742,7 @@ Der Abschnitt Zusatzinformation enthält Angaben von allgemeinen Informationen w
 Feld: Sprache des Metadatensatzes
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/ige_abschnitt-08_zusatzinformation/sprache-metadatensatz.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-08_zusatzinformation/sprache-metadatensatz.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -755,7 +755,7 @@ Es erfolgt die Angabe der Sprache des Metadatensatzes, als Standard ist Deutsch 
 Feld: Sprache der Ressource
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/ige_abschnitt-08_zusatzinformation/sprache-ressource.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-08_zusatzinformation/sprache-ressource.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -768,7 +768,7 @@ Es erfolgt die Angabe der Sprache des beschriebenen Datensatzes, als Standard is
 Feld: Weitere rechtliche Grundlagen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/ige_abschnitt-08_zusatzinformation/rechtliche-grundlagen.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-08_zusatzinformation/rechtliche-grundlagen.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -784,7 +784,7 @@ Felder: Weiteres
 Herstellungszweck
 """""""""""""""""
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/ige_abschnitt-08_zusatzinformation/weiteres.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-08_zusatzinformation/weiteres.png
    :align: left
    :scale: 50
    :figwidth: 100%
