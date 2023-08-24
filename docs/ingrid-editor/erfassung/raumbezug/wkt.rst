@@ -147,3 +147,5 @@ Abb.: Beispiel - Brandenburg ohne Berlin
    :figwidth: 100%
 
 Abb.: Beispiel - Bremen, Hamburg, Berlin
+
+: Feldname: Feldinhalt
