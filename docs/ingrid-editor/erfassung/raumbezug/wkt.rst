@@ -77,7 +77,7 @@ Abb.: Beispiel - mehrere Punkte
 
     LINESTRING (8.416624 55.058136, 10.178340 47.270118)
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/wkt/beispiel_strecke_nord-sued.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/wkt/beispiel_nord-sued.png
    :align: left
    :scale: 40
    :figwidth: 100%
@@ -147,6 +147,3 @@ Abb.: Beispiel - Polygon mit Loch
    :figwidth: 100%
 
 Abb.: Beispiel - Nultipolygon
-
-: Feldname: 
-  Feldinhalt
