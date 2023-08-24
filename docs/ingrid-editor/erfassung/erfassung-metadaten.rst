@@ -634,7 +634,7 @@ Zeitbezug der Ressource
 
 Mit "Ressource" ist der eigentliche Datensatz gemeint, welcher mit Metadaten beschrieben wird. Mit "Zeitbezug der Ressource" sind die Datumsangaben gemeint, die sich auf den beschriebenen Datensatz beziehen. Den Recherchierenden soll mit diesen Angaben die Aktualität der beschriebenen Daten mitgeteilt werden.
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-07_zeitbezug/zeitbezug_ressource.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-07_zeitbezug/ressource.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -642,20 +642,6 @@ Mit "Ressource" ist der eigentliche Datensatz gemeint, welcher mit Metadaten bes
 Abb.: Felder Zeitbezug der Ressource
 
 Durch festhalten der sechs Punkte können mehrere Angaben durch verschieben sortiert werden.
-
-
-Erläuterungen
-^^^^^^^^^^^^^
-
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-zeitbezug_der-ressource_erlaeuterung.png
-   :width: 300
-
-Abb.: Textfeld für Erläuterungen
-
-
-Hier können z.B. die Angaben der Periodizität eingeschränkt, weitere Zeitangaben gemacht oder Unregelmäßigkeiten erklärt werden. Im Zusammenhang mit dem Eintrag im Feld Periodizität können hier Abstände, Perioden und Intervalle eingetragen werden, die sich nicht aus dem Zusammenhang der anderen Felder des Zeitbezuges erklären, z.B. Jahreszeiten, Dekaden, Tageszeiten.
-
-Beispiel: Die Messungen erfolgten nur am Tag.
 
 
 Durch die Ressource abgedeckte Zeitspanne
@@ -670,8 +656,10 @@ Den Recherchierenden soll mit diesen Angaben der Zeitraum für eine Datenerhebun
 
 Zeitbezug des Dateninhalts
 
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-zeitbezug_zeitspanne.png
-   :width: 400
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-07_zeitbezug/zeitspanne.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Angabe von Zeitpunkten, Zeiträumen / Zeitspannen
 
@@ -696,6 +684,25 @@ Abb.: Tabelle für die Angaben von Zeitspannen
 +----------------------------+-------------------------------------------------+
 | bis: Zeitpunkt des Abrufs  | seit tt.mm.jjjj, gegenwärtig aktuell            |
 +----------------------------+-------------------------------------------------+
+
+
+
+
+
+Erläuterungen
+^^^^^^^^^^^^^
+
+.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-zeitbezug_der-ressource_erlaeuterung.png
+   :width: 300
+
+Abb.: Textfeld für Erläuterungen
+
+
+Hier können z.B. die Angaben der Periodizität eingeschränkt, weitere Zeitangaben gemacht oder Unregelmäßigkeiten erklärt werden. Im Zusammenhang mit dem Eintrag im Feld Periodizität können hier Abstände, Perioden und Intervalle eingetragen werden, die sich nicht aus dem Zusammenhang der anderen Felder des Zeitbezuges erklären, z.B. Jahreszeiten, Dekaden, Tageszeiten.
+
+Beispiel: Die Messungen erfolgten nur am Tag.
+
+
 
 
 
