@@ -798,7 +798,7 @@ Beispiel: Baumfällungen#locale-eng:Tree felling
 Eignung/Nutzung
 """""""""""""""
 
-Beispiel: Präsentation des Raumordnungsprogramms auf Basis der topografischen Kartenwerke
+Beispiel: Anpassungsmaßnahmen an den Klimawandel - Dokumentation von Baumfällungen, Nachpflanzungen und Neupflanzungen
 
 Spezifische Nutzung: kurze Beschreibung zur Verwendung der Ressource.
 Angaben über die Verwendungsmöglichkeiten, die diese Daten in Verbindung mit weiteren Informationen erfüllen können.
