@@ -786,7 +786,7 @@ Herstellungszweck
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-08_zusatzinformation/weiteres.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Textfeld - Herstellungszweck / Eignung Nutzung
