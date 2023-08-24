@@ -10,7 +10,7 @@ Obwohl das ISO-Element Polygon heißt, können in diesem Feld auch andere Geomet
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/wkt/metaver_kartenclient.png
    :align: left
-   :scale: 35
+   :scale: 40
    :figwidth: 100%
 
 Abb.: Beispiel - Erstellung verschiedener Geometrien im METAVER Kartenclient
