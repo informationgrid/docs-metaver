@@ -755,7 +755,7 @@ Es erfolgt die Angabe der Sprache des Metadatensatzes, als Standard ist Deutsch 
 Feld: Sprache der Ressource
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/ige_abschnitt-08_zusatzinformation/sprache.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/ige_abschnitt-08_zusatzinformation/sprache-ressource.png
    :align: left
    :scale: 50
    :figwidth: 100%
