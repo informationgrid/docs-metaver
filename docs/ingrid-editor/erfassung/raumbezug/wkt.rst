@@ -10,15 +10,15 @@ Obwohl das ISO-Element Polygon heißt, können in diesem Feld auch andere Geomet
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/wkt/metaver_kartenclient.png
    :align: left
-   :scale: 30
-   :figwidth: 90%
+   :scale: 40
+   :figwidth: 100%
 
 Abb.: Beispiel - Erstellung eines Polygons im METAVER Kartenclient
 
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/wkt/beispiel_kml-koordinaten.png
    :align: left
-   :scale: 50
+   :scale: 40
    :figwidth: 100%
 
 Abb.: Beispiel - Koordinatenangaben in einer KML-Datei (Komma zwischen Breiten- und Längenangabe)
@@ -26,7 +26,7 @@ Abb.: Beispiel - Koordinatenangaben in einer KML-Datei (Komma zwischen Breiten- 
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/wkt/beispiel_wkt-koordinaten.png
    :align: left
-   :scale: 50
+   :scale: 40
    :figwidth: 100%
 
 Abb.: Beispiel - Koordinatenangaben als WKT (Komma nach den Punktkoordinaten)
@@ -46,7 +46,7 @@ Diese WKT-Klassen werden unterstützt:
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/wkt/beispiel_deutschland-mitte.png
    :align: left
-   :scale: 50
+   :scale: 40
    :figwidth: 100%
 
 Abb.: Beispiel - Mittelpunkt Deutschlands (nach Breiten- und Längengraden)
@@ -63,7 +63,7 @@ Abb.: Beispiel - Mittelpunkt Deutschlands (nach Breiten- und Längengraden)
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/wkt/beispiel_erhebungen.png
    :align: left
-   :scale: 50
+   :scale: 40
    :figwidth: 100%
 
 Abb.: Beispiel - Höchste Erhebungen in den Bunsländern
@@ -79,7 +79,7 @@ Abb.: Beispiel - Höchste Erhebungen in den Bunsländern
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/wkt/beispiel_strecke_nord-sued.png
    :align: left
-   :scale: 50
+   :scale: 40
    :figwidth: 100%
 
 Abb.: Beispiel - Strecke Nördlichster Punkt zum Südlichsten Punkt Deutschlands
@@ -95,7 +95,7 @@ Abb.: Beispiel - Strecke Nördlichster Punkt zum Südlichsten Punkt Deutschlands
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/wkt/beispiel_nosw.png
    :align: left
-   :scale: 50
+   :scale: 40
    :figwidth: 100%
 
 Abb.: Beispiel - Strecken Berlin - Würzburg, Hamburg - Düsseldorf
@@ -111,7 +111,7 @@ Abb.: Beispiel - Strecken Berlin - Würzburg, Hamburg - Düsseldorf
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/wkt/beispiel_starnberger-see.png
    :align: left
-   :scale: 50
+   :scale: 40
    :figwidth: 100%
 
 Abb.: Beispiel - Starnberger See
@@ -127,7 +127,7 @@ Abb.: Beispiel - Starnberger See
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/wkt/beispiel_brandenburg.png
    :align: left
-   :scale: 30
+   :scale: 40
    :figwidth: 100%
 
 Abb.: Beispiel - Brandenburg ohne Berlin
@@ -143,7 +143,7 @@ Abb.: Beispiel - Brandenburg ohne Berlin
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/wkt/beispiel_stadtstaaten.png
    :align: left
-   :scale: 30
+   :scale: 40
    :figwidth: 100%
 
 Abb.: Beispiel - Bremen, Hamburg, Berlin
