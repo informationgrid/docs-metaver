@@ -337,7 +337,7 @@ In die Felder für die Verschlagwortung werden die Begriffe eingegeben, über di
 Werden in die Felder "GEMET-" und "UMTHES Schlagworte" Wörter eingetragen, dann werden während des Schreibens bereits Vorschläge angezeigt. 
 
 
-Feld GEMET Schlagworte
+Feld: GEMET Schlagworte
 ^^^^^^^^^^^^^^^^^^^^^^
 
 GEneral Multilingual Environmental Thesaurus (Allgemeiner Mehrsprachiger Umwelt-Thesaurus)
@@ -349,7 +349,7 @@ GEMET ist eine Zusammenfassung mehrerer kontrollierter mehrsprachiger Vokabulare
 (Quelle: Wikipedia)
 
 
-Feld UMTHES Schlagworte
+Feld: UMTHES Schlagworte
 ^^^^^^^^^^^^^^^^^^^^^^^
 
 Umweltthesaurus des Umweltbundesamtes
@@ -362,7 +362,7 @@ Der Umweltthesaurus UMTHES thematisiert das Dokumentationsgebiet Umwelt. Neben B
 .. hint:: Ein Thesaurus ist ein strukturiertes Fachwörterbuch. Die enthaltenen Begriffe dienen dem Wiederauffinden durch Suchfunktionen.
 
 
-Feld Freie Schlagworte:
+Feld: Freie Schlagworte:
 ^^^^^^^^^^^^^^^^^^^^^^^
 
 In dieses Feld können Schlagworte eingetragen werden, die nicht in einem Thesaurus enthalten sind.
@@ -370,7 +370,7 @@ In dieses Feld können Schlagworte eingetragen werden, die nicht in einem Thesau
 Beispiel: Schlagwort "Kindergarten"
 
 
-Feld Schlagwortanalyse
+Feld: Schlagwortanalyse
 ^^^^^^^^^^^^^^^^^^^^^^
 
 Werden Begriffe in die Schlagwortanalyse eingegeben, die im "GEMET" oder im "UMTHES" enthalten sind, dann werden diese Bergriffe automatisch den entsprechenden Eingabefeldern zugeordnet. Sind diese Begriffe nicht in einem Thesarus enthalten, werden sie dem Feld "Freie Schlagworte" zugewiesen.
@@ -488,8 +488,8 @@ Die Symbole im Kartenviewer haben folgende Bedeutung:
 Abb.: Raumbezug Typen
 
 
-Freier Raumbezug
-""""""""""""""""
+Option: Freie Eingabe
+"""""""""""""""""""""
 
 Im Hintergrund arbeitet hier Nominatim, ein OpenStreetMap Werkzeug zum Auffinden von Adressen. Es kann nach Orten oder Naturräumen gesucht werden.
 
@@ -501,8 +501,8 @@ Im Hintergrund arbeitet hier Nominatim, ein OpenStreetMap Werkzeug zum Auffinden
 Abb.: Raumbezugtyp: Freier Raumbezug
 
 
-Raumbezug (WKT)
-"""""""""""""""
+Option: Raumbezug (WKT)
+"""""""""""""""""""""""
 
 WKT steht für Well-Known Text, dieses Feld dient der Eingabe von Geometrien. Unterstützt werden Punkte, Linien, mehrere Linien, Polygone, mehrere Polygone, unterschiedliche Geometrietypen. Die Angabe muss konform zur Spezifikation "OpenGIS Implementation Specification for Geographic information – Simple feature access" erfolgen.
 
@@ -516,8 +516,8 @@ WKT steht für Well-Known Text, dieses Feld dient der Eingabe von Geometrien. Un
 Abb.: Raumbezugtyp: WKT (Polygon)
 
 
-Geothesaurus (wfs_gnde, BKG Dienst)
-"""""""""""""""""""""""""""""""""""
+Option: Geothesaurus (wfs_gnde, BKG Dienst)
+"""""""""""""""""""""""""""""""""""""""""""
 
 wfs_gnde steht für Geographische Namen und ist ein Gazetteer (Ortsverzeichnis) des Bundesamt für Kartographie und Geodäsie. Dieses Werkzeug enthält den Amtlichen Regionalschlüssel (ASR)
 
@@ -555,7 +555,7 @@ Für das Bearbeiten des Raumbezuges, auf der rechten Seite auf die drei Punkte k
 Abb.: Raumbezug bearbeiten
 
 
-Raumbezugssystem (Koordinatenreferenzsystem oder Koordinatenbezugsystem)
+Feld: Raumbezugssystem (Koordinatenreferenzsystem oder Koordinatenbezugsystem)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_kbs.png
@@ -582,24 +582,24 @@ Höhe
 Abb.: Felder für Höhenangaben
 
 
-Minimum / Maximum
-"""""""""""""""""
+Felder: Minimum / Maximum
+"""""""""""""""""""""""""
 
 Angabe der Werte für die Höhe über einem Punkt (siehe Pegel) eingegeben. Ist eine vertikale Ausdehnung vorhanden, so kann für das Maximum ein größerer Wert eingegeben werden. Sollte dies nicht der Fall sein, so ist die Eingabe eines Minimalwerts ausreichend, dieser Wert wird dann automatisch ebenso für den Maximalwert übernommen.
 
 Beispiel: Minimum 100, Maximum 110
 
 
-Maßeinheit
-""""""""""
+Feld: Maßeinheit
+""""""""""""""""
 
 Angabe der Maßeinheit, in der die Höhe gemessen wird.
 
 Beispiel: Fuss, Kilometer, Meter, Zoll
 
 
-Vertikaldatum
-"""""""""""""
+Feld: Vertikaldatum
+"""""""""""""""""""
 
 Angabe des Referenzpegels, zu dem die Höhe relativ gemessen wird. In Deutschland ist dies i.A. der Pegel Amsterdam.
 
@@ -608,8 +608,8 @@ Beispiel: Pegel Amsterdam
 `Auswahlliste Vertikaldatum <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_raumbezug_vertikaldatum.html>`_
 
 
-Erläuterungen
-"""""""""""""
+Feld: Erläuterungen
+"""""""""""""""""""
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_erlaeuterungen.png
    :align: left
@@ -629,8 +629,8 @@ Abschnitt Zeitbezug
 Unter Zeitbezug werden Zeitpunkte, Zeiträume, Zeitspannen, Perioden oder Intervalle **der zu beschreibenden Daten (Ressourcen)** eingetragen. Diese Angaben sind bei der Recherche nach Metadaten wichtig, um die gesuchten Daten (Ressourcen) zeitlich eingrenzen zukönnen.
 
 
-Zeitbezug der Ressource
-^^^^^^^^^^^^^^^^^^^^^^^
+Feld: Zeitbezug der Ressource
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Mit "Ressource" ist der eigentliche Datensatz gemeint, welcher mit Metadaten beschrieben wird. Mit "Zeitbezug der Ressource" sind die Datumsangaben gemeint, die sich auf den beschriebenen Datensatz beziehen. Den Recherchierenden soll mit diesen Angaben die Aktualität der beschriebenen Daten mitgeteilt werden.
 
@@ -644,17 +644,10 @@ Abb.: Felder Zeitbezug der Ressource
 Durch festhalten der sechs Punkte können mehrere Angaben durch verschieben sortiert werden.
 
 
-Durch die Ressource abgedeckte Zeitspanne
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Feld: Durch die Ressource abgedeckte Zeitspanne
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Mit Ressource ist das eigentliche Objekt gemeint, welches mit Metadaten beschrieben wird.
-
-Mit "Durch die Ressource abgedeckte Zeitspanne" sind die Datumsangaben (Zeiträume) gemeint, die sich auf das beschriebene Objekt beziehen.
-
-Den Recherchierenden soll mit diesen Angaben der Zeitraum für eine Datenerhebung / einer Datenerfassung, einer Projektlaufzeit mitgeteilt werden.
-
-
-Zeitbezug des Dateninhalts
+Mit Ressource ist das eigentliche Objekt gemeint, welches mit Metadaten beschrieben wird. Mit "Durch die Ressource abgedeckte Zeitspanne" sind die Datumsangaben (Zeiträume) gemeint, die sich auf das beschriebene Objekt beziehen. Den Recherchierenden soll mit diesen Angaben der Zeitraum für eine Datenerhebung / einer Datenerfassung, einer Projektlaufzeit mitgeteilt werden.
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-07_zeitbezug/zeitspanne.png
    :align: left
@@ -663,33 +656,25 @@ Zeitbezug des Dateninhalts
 
 Abb.: Angabe von Zeitpunkten, Zeiträumen / Zeitspannen
 
-Es soll die Zeitspanne oder der Zeitpunkt der Erhebung der eigentlichen Daten eingetragen werden. Ein Zeitpunkt wird mit "am" im Auswahlmenü angegeben. Die Zeitspanne kann auf unterschiedliche Weise ausgedrückt werden.
+Es soll die Zeitspanne oder der Zeitpunkt der Erhebung der eigentlichen Daten eingetragen werden. 
+
+Die Zeitspannen werden mit fogenden Werten angegeben:
+
+**Beginn**
+ - am
+ - bis
+ - von
+
+**Ende**
+ - bis: gegenwärtige Aktualität unklar
+ - bis: gegenwärtig aktuell
+ - bis: genaues Datum
 
 Beispiele: Zeitraum einer Erhebung von Messdaten, Entwicklungszeitraum einer Anwendung, Laufzeit eines Projektes, Laufzeit einer Studie, Zeitraum für die Erstellung einer Basiskarte, Zeitraum einer Befliegung
 
-Zur Auswahl stehen:
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-07_zeitbezug/zeitspanne-tabelle.png
-   :align: left
-   :scale: 50
-   :figwidth: 100%
-
-Abb.: Tabelle für die Angaben von Zeitspannen
-
-
-**Spalte: Auswahl 2**
-
-+----------------------------+-------------------------------------------------+
-| **Angabe im Editor**       | **Ausgabe im Portal**                           |
-+----------------------------+-------------------------------------------------+
-| bis: unbekannter Zeitpunkt | seit tt.mm.jjjj, gegenwärtige Aktualität unklar |
-+----------------------------+-------------------------------------------------+
-| bis: Zeitpunkt des Abrufs  | seit tt.mm.jjjj, gegenwärtig aktuell            |
-+----------------------------+-------------------------------------------------+
-
-
-Status
-^^^^^^
+Feld: Status
+^^^^^^^^^^^^
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-07_zeitbezug/status.png
    :align: left
@@ -703,8 +688,8 @@ Abb.: Feld Status
 Der Status beschreibt den Bearbeitungsstand eines Projektes oder einer der Messung etc. Diese können sich in unterschiedlichen Stadien befinden, d.h. Projekte, Programme oder Messungen können in Planung sein, derzeit durchgeführt werden oder schon abgeschlossen sein.
 
 
-Periodizität
-^^^^^^^^^^^^
+Feld: Periodizität
+^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-07_zeitbezug/peripdizitaet.png
    :align: left
@@ -718,8 +703,8 @@ Abb.: Feld Priodizität
 Ist die Auswahl oder die Angabe des Zeitzyklus der Datenerhebung. Der Eintrag muss aus der Auswahlliste erfolgen, die über den Pfeil am Ende des Feldes geöffnet wird.
 
 
-Intervall der Erhebung
-^^^^^^^^^^^^^^^^^^^^^^
+Feld: Intervall der Erhebung
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-07_zeitbezug/intervall.png
    :align: left
@@ -733,8 +718,8 @@ Abb.: Feld Im Intervall
 Mit Intervall wird der zeitliche Abstand (Frequenz) der Datenerhebung angegeben. Erfolgt die Datenerhebung kontinuierlich oder periodisch (siehe Feld Periodizität), so wird diese Angabe hier präzisiert. Es stehen Felder für den freien Eintrag einer Ziffer und eine Auswahlliste zur Verfügung, die zeitliche Intervalle vorgibt. Der Eintrag von "10" und "Tage" bedeutet, dass die beschriebenen Daten alle 10 Tage aktualisiert werden.
 
 
-Erläuterungen
-^^^^^^^^^^^^^
+Feld: Erläuterungen
+^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-07_zeitbezug/erlaeuterungen.png
    :align: left
@@ -747,17 +732,7 @@ Hier können z.B. die Angaben der Periodizität eingeschränkt, weitere Zeitanga
 
 Beispiel: Die Messungen erfolgten nur am Tag.
 
-
-
-
-
-
-
-
-
-
-
-
+-----------------------------------------------------------------------------------------------------------------------
 
 
 Abschnitt Zusatzinformation
@@ -936,7 +911,7 @@ Abb.: Beispiel - Die Lieferzeit beträgt 3 Wochen
 
 Angabe von generellen Informationen wie Bedingungen oder Konditionen zur Bestellung.
 
-
+-----------------------------------------------------------------------------------------------------------------------
 
 Abschnitt Verweise
 ------------------
