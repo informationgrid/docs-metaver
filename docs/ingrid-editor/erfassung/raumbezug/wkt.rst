@@ -148,4 +148,4 @@ Abb.: Beispiel - Polygon mit Loch
    :scale: 40
    :figwidth: 100%
 
-Abb.: Beispiel - Nultipolygon
+Abb.: Beispiel - Multipolygon
