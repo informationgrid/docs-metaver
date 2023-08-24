@@ -425,7 +425,6 @@ Nachfolgend sind in den verschiedenen Datensatztypen (Verlinkung folgen) die zus
 
   | In diesen Datensatztyp befindet sich kein Abschnitt Fachbezug. Der Datensatztyp Fachaufgabe kann für Verweise auf Webseiten verwendet werden (z.B informationen zu Bebauungsplänen). Fachaufgabe ist der einzige Datensatztyp, dem keine weiteren Optionen zugeordnen werden können (z.B. OpenData).
 
-
 -----------------------------------------------------------------------------------------------------------------------
 
 
@@ -621,29 +620,28 @@ Abb.: Feld Erläuterungen für Zusätzliche Angaben zum Raumbezu
 
 Beispiel: Die Koordinaten für die Fachliche Gebietseinheit sind ungefähre Angaben.
 
+-----------------------------------------------------------------------------------------------------------------------
 
 
 Abschnitt Zeitbezug
 -------------------
 
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-abschnitt_zeitbezug.png
-
-.. important:: Unter Zeitbezug werden Zeitpunkte, Zeiträume, Zeitspannen, Perioden oder Intervalle **der zu beschreibenden Daten (Ressourcen)** eingetragen. Diese Angaben sind bei der Recherche nach Metadaten wichtig, um die gesuchten Daten (Ressourcen) zeitlich eingrenzen zukönnen.
+Unter Zeitbezug werden Zeitpunkte, Zeiträume, Zeitspannen, Perioden oder Intervalle **der zu beschreibenden Daten (Ressourcen)** eingetragen. Diese Angaben sind bei der Recherche nach Metadaten wichtig, um die gesuchten Daten (Ressourcen) zeitlich eingrenzen zukönnen.
 
 
 Zeitbezug der Ressource
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-Mit Ressource ist das eigentliche Objekt gemeint, welches mit Metadaten beschrieben wird.
+Mit "Ressource" ist der eigentliche Datensatz gemeint, welcher mit Metadaten beschrieben wird. Mit "Zeitbezug der Ressource" sind die Datumsangaben gemeint, die sich auf den beschriebenen Datensatz beziehen. Den Recherchierenden soll mit diesen Angaben die Aktualität der beschriebenen Daten mitgeteilt werden.
 
-Mit "Zeitbezug der Ressource" sind die Datumsangaben gemeint, die sich auf das beschriebene Objekt beziehen.
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-07_zeitbezug/zeitbezug_ressource.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
-Den Recherchierenden soll mit diesen Angaben die Aktualität der beschriebenen Daten mitgeteilt werden.
+Abb.: Felder Zeitbezug der Ressource
 
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-zeitbezug_der-ressource.png
-   :width: 300
-
-Abb.: Tabelle Zeitbezug der Ressource
+Durch festhalten der sechs Punkte können mehrere Angaben durch verschieben sortiert werden.
 
 
 Erläuterungen
