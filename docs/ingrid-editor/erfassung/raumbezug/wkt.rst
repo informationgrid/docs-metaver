@@ -13,7 +13,7 @@ Obwohl das ISO-Element Polygon heißt, können in diesem Feld auch andere Geomet
    :scale: 35
    :figwidth: 100%
 
-Abb.: Beispiel - Erstellung Geometrien im METAVER Kartenclient
+Abb.: Beispiel - Erstellung verschiedener Geometrien im METAVER Kartenclient
 
 Der METAVER Kartenclient bietet, über die Funktion "Zeichnen & Messen auf der Karte",  die Möglichkeit Geometrien zu erstellen und über "Exportieren" eine KML-Datei mit diesen Daten zu erzeugen.
 
