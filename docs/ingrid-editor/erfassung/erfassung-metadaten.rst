@@ -691,7 +691,7 @@ Das Feld Status beschreibt den Bearbeitungsstand eines Projektes oder eine der M
 Feld: Periodizität
 ^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-07_zeitbezug/peripdizitaet.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-07_zeitbezug/periodizitaet.png
    :align: left
    :scale: 50
    :figwidth: 100%
