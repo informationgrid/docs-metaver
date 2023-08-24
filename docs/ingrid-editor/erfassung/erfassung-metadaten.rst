@@ -669,8 +669,10 @@ Beispiele: Zeitraum einer Erhebung von Messdaten, Entwicklungszeitraum einer Anw
 
 Zur Auswahl stehen:
 
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ ige-zeitbezug_zeitspanne-tabelle.png
-   :width: 500
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-07_zeitbezug/zeitspanne-tabelle.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Tabelle für die Angaben von Zeitspannen
 
@@ -686,17 +688,60 @@ Abb.: Tabelle für die Angaben von Zeitspannen
 +----------------------------+-------------------------------------------------+
 
 
+Status
+^^^^^^
 
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-07_zeitbezug/status.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Feld Status
+
+`Auswahlliste Status <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_zeitbezug_status.html>`_
+
+Der Status beschreibt den Bearbeitungsstand eines Projektes oder einer der Messung etc. Diese können sich in unterschiedlichen Stadien befinden, d.h. Projekte, Programme oder Messungen können in Planung sein, derzeit durchgeführt werden oder schon abgeschlossen sein.
+
+
+Periodizität
+^^^^^^^^^^^^
+
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-07_zeitbezug/peripdizitaet.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Feld Priodizität
+
+`Auswahlliste der Priodizität <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_zeitbezug_periodizitaet.html>`_
+
+Ist die Auswahl oder die Angabe des Zeitzyklus der Datenerhebung. Der Eintrag muss aus der Auswahlliste erfolgen, die über den Pfeil am Ende des Feldes geöffnet wird.
+
+
+Intervall der Erhebung
+^^^^^^^^^^^^^^^^^^^^^^
+
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-07_zeitbezug/intervall.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Feld Im Intervall
+
+`Auswahlliste - Im Intervall <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_zeitbezug_intervalle.html>`_
+
+Mit Intervall wird der zeitliche Abstand (Frequenz) der Datenerhebung angegeben. Erfolgt die Datenerhebung kontinuierlich oder periodisch (siehe Feld Periodizität), so wird diese Angabe hier präzisiert. Es stehen Felder für den freien Eintrag einer Ziffer und eine Auswahlliste zur Verfügung, die zeitliche Intervalle vorgibt. Der Eintrag von "10" und "Tage" bedeutet, dass die beschriebenen Daten alle 10 Tage aktualisiert werden.
 
 
 Erläuterungen
 ^^^^^^^^^^^^^
 
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-zeitbezug_der-ressource_erlaeuterung.png
-   :width: 300
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-07_zeitbezug/erlaeuterungen.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Textfeld für Erläuterungen
-
 
 Hier können z.B. die Angaben der Periodizität eingeschränkt, weitere Zeitangaben gemacht oder Unregelmäßigkeiten erklärt werden. Im Zusammenhang mit dem Eintrag im Feld Periodizität können hier Abstände, Perioden und Intervalle eingetragen werden, die sich nicht aus dem Zusammenhang der anderen Felder des Zeitbezuges erklären, z.B. Jahreszeiten, Dekaden, Tageszeiten.
 
@@ -706,40 +751,13 @@ Beispiel: Die Messungen erfolgten nur am Tag.
 
 
 
-Periodizität
-^^^^^^^^^^^^
-
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-zeitbezug_periodizitaet.png
-
-Abb.: Feld Priodizität
-
-`Auswahlliste der Priodizität <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_zeitbezug_periodizitaet.html>`_
-
-Ist die Auswahl oder die Angabe des Zeitzyklus der Datenerhebung. Der Eintrag muss aus der Auswahlliste erfolgen, die über den Pfeil am Ende des Feldes geöffnet wird.
 
 
-Status
-^^^^^^
-
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-zeitbezug_status.png
-
-Abb.: Feld Status
-
-`Auswahlliste Status <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_zeitbezug_status.html>`_
-
-Der Status beschreibt den Bearbeitungsstand eines Projektes oder einer der Messung etc. Diese können sich in unterschiedlichen Stadien befinden, d.h. Projekte, Programme oder Messungen können in Planung sein, derzeit durchgeführt werden oder schon abgeschlossen sein.
 
 
-Im Intervall
-^^^^^^^^^^^^
 
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-07_zeitbezug/ige-zeitbezug_intervall.png
 
-Abb.: Feld Im Intervall
 
-`Auswahlliste - Im Intervall <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_zeitbezug_intervalle.html>`_
-
-Mit Intervall wird der zeitliche Abstand (Frequenz) der Datenerhebung angegeben. Erfolgt die Datenerhebung kontinuierlich oder periodisch (siehe Feld Periodizität), so wird diese Angabe hier präzisiert. Es stehen Felder für den freien Eintrag einer Ziffer und eine Auswahlliste zur Verfügung, die zeitliche Intervalle vorgibt. Der Eintrag von "10" und "Tage" bedeutet, dass die beschriebenen Daten alle 10 Tage aktualisiert werden.
 
 
 Abschnitt Zusatzinformation
