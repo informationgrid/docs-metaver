@@ -639,7 +639,7 @@ Mit "Ressource" ist der eigentliche Datensatz gemeint, welcher mit Metadaten bes
    :scale: 50
    :figwidth: 100%
 
-Abb.: Felder Zeitbezug der Ressource
+Abb.: Felder für den Zeitbezug der Ressource
 
 Durch festhalten der sechs Punkte können mehrere Angaben durch verschieben sortiert werden.
 
@@ -685,7 +685,7 @@ Abb.: Feld Status
 
 `Auswahlliste Status <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_zeitbezug_status.html>`_
 
-Der Status beschreibt den Bearbeitungsstand eines Projektes oder einer der Messung etc. Diese können sich in unterschiedlichen Stadien befinden, d.h. Projekte, Programme oder Messungen können in Planung sein, derzeit durchgeführt werden oder schon abgeschlossen sein.
+Das Feld Status beschreibt den Bearbeitungsstand eines Projektes oder eine der Messung etc. Diese können sich in unterschiedlichen Stadien befinden, d.h. Projekte, Programme oder Messungen können in Planung sein, derzeit durchgeführt werden oder schon abgeschlossen sein.
 
 
 Feld: Periodizität
@@ -700,7 +700,7 @@ Abb.: Feld Priodizität
 
 `Auswahlliste der Priodizität <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_zeitbezug_periodizitaet.html>`_
 
-Ist die Auswahl oder die Angabe des Zeitzyklus der Datenerhebung. Der Eintrag muss aus der Auswahlliste erfolgen, die über den Pfeil am Ende des Feldes geöffnet wird.
+Im Feld Periodizität wird der Zeitzyklus der Datenerhebung angegeben.
 
 
 Feld: Intervall der Erhebung
@@ -711,11 +711,11 @@ Feld: Intervall der Erhebung
    :scale: 50
    :figwidth: 100%
 
-Abb.: Feld Im Intervall
+Abb.: Feld Im Intervall der Erhebung
 
 `Auswahlliste - Im Intervall <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_zeitbezug_intervalle.html>`_
 
-Mit Intervall wird der zeitliche Abstand (Frequenz) der Datenerhebung angegeben. Erfolgt die Datenerhebung kontinuierlich oder periodisch (siehe Feld Periodizität), so wird diese Angabe hier präzisiert. Es stehen Felder für den freien Eintrag einer Ziffer und eine Auswahlliste zur Verfügung, die zeitliche Intervalle vorgibt. Der Eintrag von "10" und "Tage" bedeutet, dass die beschriebenen Daten alle 10 Tage aktualisiert werden.
+Mit Intervall wird der zeitliche Abstand (Frequenz) der Datenerhebung angegeben. Erfolgt die Datenerhebung kontinuierlich oder periodisch (siehe Feld Periodizität), so wird diese Angabe hier präzisiert. Es stehen Felder für den Eintrag einer Anzahl und eine Auswahlliste für die Einheit zur Verfügung. Der Eintrag von "6" und "Monaten" bedeutet, dass die beschriebenen Daten alle 6 Monate aktualisiert werden.
 
 
 Feld: Erläuterungen
