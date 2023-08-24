@@ -147,15 +147,3 @@ Abb.: Beispiel - Brandenburg ohne Berlin
    :figwidth: 100%
 
 Abb.: Beispiel - Bremen, Hamburg, Berlin
-
-
-| **GEOMETRYCOLLECTION: unterschiedliche Geometrien**
-| **Form:**  GEOMETRYCOLLECTION(POINT(10 10), LINESTRING(10 10, 20 20, 10 40), POLYGON((0 0, 0 10, 10 10, 10 0, 0 0)))
-| **Beispiel:**
-
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/wkt/beispiel_collection.png
-   :align: left
-   :scale: 50
-   :figwidth: 100%
-
-Abb.: Beispiel - 
