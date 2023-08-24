@@ -738,37 +738,17 @@ Beispiel: Die Messungen erfolgten nur am Tag.
 Abschnitt Zusatzinformation
 ---------------------------
 
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-08_zusatzinformation/ige-abschnitt_zusatzinformation.png
-
 Der Abschnitt Zusatzinformation enthält Angaben von allgemeinen Informationen wie Sprache und Veröffentlichungsbreite des Metadatensatzes.
 
 
-Sprache des Metadatensatzes
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Feld: Sprache des Metadatensatzes
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Es erfolgt die Angabe der Sprache des Metadatensatzes, als Standard ist Deutsch voreingestellt.
 
 
-Veröffentlichung
-^^^^^^^^^^^^^^^^
-
-Das Feld Veröffentlichung gibt an, welche Veröffentlichungsmöglichkeiten für das Objekt freigegeben sind. Die Liste der Möglichkeiten ist nach Freigabestufen hierarchisch geordnet. Wird einem Objekt eine niedrigere Freigabestufe zugeordnet (z.B. von Internet auf Intranet), werden automatisch auch alle untergeordneten Objekte dieser Stufe zugeordnet. Soll einem Objekt eine höhere Freigabestufe zugeordnet werden als die des übergeordneten Objektes, wird die Zuordnung verweigert. Wird einem Objekt eine höhere Freigabestufe zugeordnet (z.B. von amtsintern auf Intranet), kann auch allen untergeordneten Objekten die höhere Freigabestufe zugeordnet werden.
-
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-08_zusatzinformation/ige-zusatzinformation_datensatz-sprache.png
-
-Abb.: Auswahlfelder - Sprache des Metadatensatzes und Veröffentlichung
-
-Die Einstellung haben folgende Bedeutung:
-
- - Internet: Das Objekt darf auf allen Ebenen veröffentlicht werden.
- - Intranet: Das Objekt darf nur im Intranet veröffentlicht werden, aber nicht im Internet.
- - amtsintern: Das Objekt ist nur im internen Strukturbaum des Metadatenkataloges sichtbar. Es ist nicht für das Internet oder dem Intranet freigegeben.
- 
-.. hint:: Die Option Intranet wird für Sachsen-Anhalt nicht verwendet, da das System im Internet bereitgestellt wird.
-
-
-Sprache der Ressource
-^^^^^^^^^^^^^^^^^^^^^^
+Feld: Sprache der Ressource
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-08_zusatzinformation/ige-zusatzinformation_datensatz-sprache.png
 
@@ -777,18 +757,8 @@ Abb.: Auswahlfeld - Sprache der Ressource
 Es erfolgt die Angabe der Sprache des beschriebenen Datensatzes, als Standard ist Deutsch voreingestellt.
 
 
-XML-Export-Kriterium
-^^^^^^^^^^^^^^^^^^^^
-
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-08_zusatzinformation/ige-zusatzinformation_xml-export-kriterium.png
-
-Abb.: Auswahlfeld - XML-Export-Kriterium
-
-Eintrag eines Selektionskriteriums zur Steuerung des Exports der Daten. Um eine Teilmenge von Objekten exportieren zu können, kann in diesem Feld ein diese Teilmenge identifizierendes Schlagwort eingegeben werden. In der Exportfunktion kann dann eines der Schlagworte aus diesem Feld angegeben werden und alle Objekte exportiert werden, für die in diesem Feld das entsprechende Schlagwort vergeben wurde. Die Eingabe mehrerer Schlagworte ist möglich. Die Schlagworte können frei eingegeben werden. Zur Verhinderung von Schreibfehlern sollte jedoch der Eintrag aus der Auswahlliste vorgezogen werden.
-
-
-Weitere Rechtliche Grundlagen
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Feld: Weitere rechtliche Grundlagen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-08_zusatzinformation/ige-zusatzinformation_weitere-rechtliche-grundlagen.png
 
@@ -797,8 +767,11 @@ Abb.: Auswahlfeld - weitere rechtliche Grundlagen
 Angabe der rechtlichen Grundlage, die die Erhebung der beschriebenen Daten veranlasst hat. Hier können Kürzel von Gesetzen, Erlassen, Verordnungen usw. eingetragen werden, in denen z. B. die Methode oder die Form der Erhebung der im Objekt beschriebenen Daten festgelegt oder beschrieben wird. Es ist bei Bedarf der Eintrag mehrerer Angaben möglich.
 
 
+Felder: Weiteres
+^^^^^^^^^^^^^^^^
+
 Herstellungszweck
-^^^^^^^^^^^^^^^^^
+"""""""""""""""""
 
 .. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-08_zusatzinformation/ige-zusatzinformation_herstellungszweck.png
 
@@ -810,7 +783,7 @@ Beispiel: Apfelbaum#locale-eng:apple tree
 
 
 Eignung/Nutzung
-^^^^^^^^^^^^^^^
+"""""""""""""""
 
 .. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-08_zusatzinformation/ige-zusatzinformation_eignung-nutzung.png
 
@@ -819,11 +792,11 @@ Abb.: Beispiel - Präsentation des Raumordnungsprogramms auf Basis der topografi
 Spezifische Nutzung: kurze Beschreibung zur Verwendung der Ressource.
 Angaben über die Verwendungsmöglichkeiten, die diese Daten in Verbindung mit weiteren Informationen erfüllen können.
 
+-----------------------------------------------------------------------------------------------------------------------
+
 
 Abschnitt Verfügbarkeit
 -----------------------
-
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-abschnitt_verfuegbarkeit.png
 
 Im Abschnitt Verfügbarkeit wird angegeben, ob die zu beschreibenden Daten einer Zugriffsbeschränkung unterliegen und welche Nutzungsbedingungen für diese Daten gelten.
 
@@ -915,8 +888,6 @@ Angabe von generellen Informationen wie Bedingungen oder Konditionen zur Bestell
 
 Abschnitt Verweise
 ------------------
-
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-abschnitt_verweise.png
 
 Im Abschnitt Verweise können Verlinkungen zu anderen Objekten innerhalb des Kataloges angelegt, oder es können Verweise mit URLs angelegt werden. Bereits angelegte Verweise lassen sich erneut bearbeiten.
 
