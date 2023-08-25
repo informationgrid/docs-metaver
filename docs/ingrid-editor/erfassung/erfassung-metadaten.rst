@@ -892,15 +892,15 @@ Angabe des Formats der Daten in DV-technischer Hinsicht, in welchem diese verfü
 
 | **Feld: Version**
 
-  | Beschreibung: Version der verfügbaren Daten (Beispiel: Version: 3.2.1 oder "Version vom tt.mm.jjjj") 
+  - Version der verfügbaren Daten (Beispiel: Version: 3.2.1 oder "Version vom tt.mm.jjjj") 
 
 | **Feld: Kompressionstechnik**
 
-  | Beschreibung: Kompression, in welcher die Daten geliefert werden (Beispiel: Zip, keine)
+  - Kompression, in welcher die Daten geliefert werden (Beispiel: Zip, keine)
 
 | **Feld: Spezifikation**
 
-  | Beschreibung: Details zur Spezifikation (Beispiel: XML-basiertes Datenaustauschformat (OGC/ISO TC211)).
+  - Details zur Spezifikation (Beispiel: XML-basiertes Datenaustauschformat (OGC/ISO TC211)).
 
 
 Felder: Medienoption
@@ -918,15 +918,15 @@ Angabe auf welchen Medien oder über welche Medien die Daten zur Verfügung gest
 
 | **Feld: Medium**
 
-  | Beschreibung: Bezeichnung des Mediums, auf dem die Ressource erhältlich ist (Beispiel: HDD)
+  - Bezeichnung des Mediums, auf dem die Ressource erhältlich ist (Beispiel: HDD)
 
 | **Feld: Datenvolumen**
 
-  | Beschreibung: Angabe des Datenvolumens in MB (Beispiel: 20 MB)
+  - Angabe des Datenvolumens in MB (Beispiel: 20 MB)
 
 | **Feld: Speicherort**
 
-  | Beschreibung: Angabe eines Ortes, an dem die Daten abgelegt sind (Beispiel: Ordner: Daten/.../.../)
+  - Angabe eines Ortes, an dem die Daten abgelegt sind (Beispiel: Ordner: Daten/.../.../)
 
 
 `Auswahlliste Medium <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verfuegbarkeit_medienoption.html>`_
