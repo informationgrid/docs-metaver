@@ -995,4 +995,4 @@ Abb.: Verweise bearbeiten
   - Ergänzende Erläuerung zu einer Verlinkung (Beispiel: Downloadmöglichkeit der Landesfläche in 4 Teilen)
 
 
-  .. hint:: Der Inhalt der Auswahlliste im Feld: "Typ" richtet sich nach den gewählten Datensatztyp.
+  .. hint:: Der Inhalt der Auswahlliste im Feld: Verweistyp richtet sich nach den gewählten Datensatztyp.
