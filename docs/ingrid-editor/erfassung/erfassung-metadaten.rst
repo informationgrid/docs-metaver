@@ -918,7 +918,7 @@ Angabe auf welchen Medien oder über welche Medien die Daten zur Verfügung gest
 
 | **Feld: Medium**
 
-  | Beschreibung: Bezeichnung: Bezeichnung des Mediums, auf dem die Ressource erhältlich ist (Beispiel: HDD)
+  | Beschreibung: Bezeichnung des Mediums, auf dem die Ressource erhältlich ist (Beispiel: HDD)
 
 | **Feld: Datenvolumen**
 
