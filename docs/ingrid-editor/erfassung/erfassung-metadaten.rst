@@ -946,7 +946,7 @@ Verweise anlegen
    :scale: 50
    :figwidth: 100%
 
-Abb.: Verweise anlegen
+Abb.: Verweise HINZUFÜGEN
 
 
 .. hint:: Wenn die Option Open Data ausgewählt wurde, muss mindestens ein Verweis vom Typ „Datendownload“ angelegt werden, bevor der Metadatensatz veröffentlicht werden kann.
