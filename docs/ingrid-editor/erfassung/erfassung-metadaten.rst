@@ -820,7 +820,7 @@ Feld: Zugriffsbeschränkungen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-09_verfügbarkeit/zugriffsbeschraenkungen.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-09_verfuegbarkeit/zugriffsbeschraenkungen.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -838,7 +838,7 @@ Felder für Nutzungsbedingungen
 Feld: Lizenz
 """"""""""""
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-09_verfügbarkeit/nutzungsbedingungen.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-09_verfuegbarkeit/nutzungsbedingungen.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -862,7 +862,7 @@ Beispiel: © Landesamt für ... - jjjj
 Feld: Anwendungseinschränkungen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-09_verfügbarkeit/anwendungseinschraenkungen.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-09_verfuegbarkeit/anwendungseinschraenkungen.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -875,12 +875,14 @@ Das Feld Anwendungseinschränkungen dient der Beschreibung, welche Einschränkun
 Felder für Datenformat
 ^^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-09_verfügbarkeit/datenformat.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-09_verfuegbarkeit/datenformat.png
    :align: left
    :scale: 50
    :figwidth: 100%
 
 Abb.: Beispiel - TIFF / Version: 6.0 / Kompression: LZW / Spezifikation: WCS
+
+`Auswahlliste Datenformat <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verfuegbarkeit_datenformat.html>`_
 
 
 Angabe des Formats der Daten in DV-technischer Hinsicht, in welchem diese verfügbar sind. Das Format wird durch 4 unterschiedliche Eingaben spezifiziert. Wenn das erste Feld befüllt wird, müssen auch die anderen Eintragungen vorgenommen werden. 
@@ -898,7 +900,7 @@ Angabe des Formats der Daten in DV-technischer Hinsicht, in welchem diese verfü
 Felder: Medienoption
 ^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-09_verfügbarkeit/medienoption.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-09_verfuegbarkeit/medienoption.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -906,28 +908,18 @@ Felder: Medienoption
 Abb.: 
 
 
-Angabe, auf welchen Medien die Daten zur Verfügung gestellt werden können. Hier können elektronische Datenträger als auch Medien in Papierform angegeben werden, auf denen die im Objekt beschriebenen Daten dem Nutzer zur Verfügung stehen. Es können mehrere Medien eingetragen werden. Medium: Angabe der Medien, auf denen der Datensatz bereit gestellt werden kann (ISO-Auswahlliste) Datenvolumen: Umfang des Datenvolumens in MB (Fließkommazahl) Speicherort: Ort der Datenspeicherung im Intranet/Internet, Angabe als Verweis
-
+Angabe auf welchen Medien oder über welche Medien die Daten zur Verfügung gestellt werden können (digital und analog). Es können mehrere Medien eingetragen werden.
 
 | **Feld: Medium**
-  | Bezeichnung: Bezeichnung des Mediums, auf dem die Ressource erhältlich ist (Beispiel: eine URL oder CD-ROM)
+  | Bezeichnung: Bezeichnung des Mediums, auf dem die Ressource erhältlich ist (Beispiel: HDD oder eine URL)
 | **Feld: Datenvolumen**
-  | Angabe des Datenvolumens in MB (Beispiel: 32 MB)
+  | Angabe des Datenvolumens in MB (Beispiel: 20 MB)
 | **Feld: Speicherort**
-  | Angabe eines Ortes, an dem die Datenabgelegt sind (Beispiel: Explorer Z:/Bereich_51/Metainformation/2023-08-25_Hilfetexte.doc)
+  | Angabe eines Ortes, an dem die Daten abgelegt sind (Beispiel: Ordner: Daten/.../.../)
 
 
 `Auswahlliste Medium <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verfuegbarkeit_medienoption.html>`_
 
-
-Feld: Bestellinformation
-^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-verfuegbarkeit_bestellinformation.png
-
-Abb.: Beispiel - Die Lieferzeit beträgt 3 Wochen
-
-Angabe von generellen Informationen wie Bedingungen oder Konditionen zur Bestellung.
 
 -----------------------------------------------------------------------------------------------------------------------
 
