@@ -887,13 +887,13 @@ Abb.: Beispiel für Datenformatangaben
 Angabe des Formats der Daten in DV-technischer Hinsicht, in welchem diese verfügbar sind. Das Format wird durch 4 unterschiedliche Eingaben spezifiziert. Wenn das erste Feld befüllt wird, müssen auch die anderen Eintragungen vorgenommen werden. 
 
 | **Feld: Name**
- | Angabe des Formatnamens, wie (Beispiel: GML) 
+  | Angabe des Formatnamens, wie (Beispiel: GML) 
 | **Feld: Version**
- | Version der verfügbaren Daten (Beispiel: Version: 3.2.1 oder "Version vom tt.mm.jjjj") 
+  | Version der verfügbaren Daten (Beispiel: Version: 3.2.1 oder "Version vom tt.mm.jjjj") 
 | **Feld: Kompressionstechnik**
- | Kompression, in welcher die Daten geliefert werden (Beispiel: Zip, keine) 
+  | Kompression, in welcher die Daten geliefert werden (Beispiel: Zip, keine) 
 | **Feld: Spezifikation**
- | Details zur Spezifikation (Beispiel: XML-basiertes Datenaustauschformat (OGC/ISO TC211)).
+  | Details zur Spezifikation (Beispiel: XML-basiertes Datenaustauschformat (OGC/ISO TC211)).
 
 
 Felder: Medienoption
@@ -910,11 +910,11 @@ Abb.: Beispiel für Medienoptionangaben
 Angabe auf welchen Medien oder über welche Medien die Daten zur Verfügung gestellt werden können (digital und analog). Es können mehrere Medien eingetragen werden.
 
 | **Feld: Medium**
-    | Bezeichnung: Bezeichnung des Mediums, auf dem die Ressource erhältlich ist (Beispiel: HDD)
+  | Bezeichnung: Bezeichnung des Mediums, auf dem die Ressource erhältlich ist (Beispiel: HDD)
 | **Feld: Datenvolumen**
-    | Angabe des Datenvolumens in MB (Beispiel: 20 MB)
+  | Angabe des Datenvolumens in MB (Beispiel: 20 MB)
 | **Feld: Speicherort**
-    | Angabe eines Ortes, an dem die Daten abgelegt sind (Beispiel: Ordner: Daten/.../.../)
+  | Angabe eines Ortes, an dem die Daten abgelegt sind (Beispiel: Ordner: Daten/.../.../)
 
 
 `Auswahlliste Medium <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verfuegbarkeit_medienoption.html>`_
