@@ -773,7 +773,7 @@ Feld: Weitere rechtliche Grundlagen
    :scale: 50
    :figwidth: 100%
 
-Abb.: Auswahlfeld - weitere rechtliche Grundlagen
+Abb.: Auswahl-/Eingabefeld - weitere rechtliche Grundlagen
 
 Angabe der rechtlichen Grundlage, die die Erhebung der beschriebenen Daten veranlasst hat. Hier können Kürzel von Gesetzen, Erlassen, Verordnungen usw. eingetragen werden, in denen z. B. die Methode oder die Form der Erhebung der im Datensatz beschriebenen Daten festgelegt oder beschrieben wird. Es ist bei Bedarf der Eintrag mehrerer Angaben möglich.
 
@@ -816,82 +816,112 @@ Abschnitt Verfügbarkeit
 Im Abschnitt Verfügbarkeit wird angegeben, ob die zu beschreibenden Daten einer Zugriffsbeschränkung unterliegen und welche Nutzungsbedingungen für diese Daten gelten.
 
 
-Zugriffsbeschränkungen
-^^^^^^^^^^^^^^^^^^^^^^
+Feld: Zugriffsbeschränkungen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-verfuegbarkeit_zugriffsbeschraenkungen.png
 
-Abb.: Auswahlfeld - Zugriffsbeschränkungen
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-09_verfügbarkeit/zugriffsbeschraenkungen.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Auswahl-/Eingabefeld - Zugriffsbeschränkungen
 
 `Auswahlliste der Zugriffsbeschränkungen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verfuegbarkeit_zugriffsbeschraenkungen.html>`_
 
 Im Feld Zugriffsbeschränkungen kann aus einer Auswahlliste ein Grund angegeben werden, warum die Daten einer Einschränkung unterliegen. Trifft keiner dieser Gründe zu, ist der Eintrag „Es gelten keine Beschränkungen“ anzugeben.
 
-.. hint:: Für INSPIRE-Daten ist dieses Feld ein Pflichtfeld.
 
+Felder für Nutzungsbedingungen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Nutzungsbedingungen
-^^^^^^^^^^^^^^^^^^^
+Feld: Lizenz
+""""""""""""
 
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-verfuegbarkeit_nutzungsbedingungen.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-09_verfügbarkeit/nutzungsbedingungen.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Beispiel - Nutzungsbed.: Datenlizenz Deutschland Namensnennung 2.0 / Quellvermerk: © GeoBasis-DE / BKG (Jahr des letzten Datenbezugs)
 
 `Auswahlliste der Nutzungsbedingungen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verfuegbarkeit_nutzungsbedingungen.html>`_
 
 Nutzungsbedingungen sind ein einseitig vorformulierter Vertrag, mit dem der Anbieter (der Datenbereitsteller) die Nutzer der Daten über ihre Rechte und Pflichten informiert.
-In der Tabellenspalte Nutzungsbedingungen ist eine Auswahlliste mit Lizenzen hinterlegt, diese beschreiben vordefinierte Nutzungsbedingungen. Weiterhin besteht die Möglichkeit Nutzungsbedingungen per Freitext in die Zeile einzutragen oder auf Nutzungsbedingungen zu verweisen.
+In der Tabellenspalte Nutzungsbedingungen ist eine Auswahlliste mit Lizenzen hinterlegt, diese beschreiben vordefinierte Nutzungsbedingungen. Weiterhin besteht die Möglichkeit Nutzungsbedingungen per Freitext in die Zeile einzutragen oder unter Verweise Nutzungsbedingungen zu verlinken.
 
 
-Quellenvermerk
-^^^^^^^^^^^^^^
+Feld: Quellenvermerk
+""""""""""""""""""""
 
-In dieser Tabellenspalte wird das Copyright des Datenbreitstellers angegeben und die Angabe für das Jahr des Datenbezugs.
+In dieser Tabellenspalte wird das Copyright des Datenbreitstellers angegeben und optional die Angabe für das Jahr des Datenbezugs.
 
-Beispiel: © GeoBasis-DE / BKG (Jahr des letzten Datenbezugs)
+Beispiel: © Landesamt für ... - jjjj
 
 
-Anwendungseinschränkungen
-^^^^^^^^^^^^^^^^^^^^^^^^^
+Feld: Anwendungseinschränkungen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-verfuegbarkeit_anwendungseinschraenkungen.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-09_verfügbarkeit/anwendungseinschraenkungen.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Beispiel - Nicht für Navigationszwecke geeignet oder Registrierung erforderlich
 
 Das Feld Anwendungseinschränkungen dient der Beschreibung, welche Einschränkung oder Eignung auf die Ressourcen oder Metadaten zutreffen (ISO: useLimitation).
 
  
-Datenformat
-^^^^^^^^^^^
+Felder für Datenformat
+^^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-verfuegbarkeit_datenformat.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-09_verfügbarkeit/datenformat.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Beispiel - TIFF / Version: 6.0 / Kompression: LZW / Spezifikation: WCS
 
-Angabe des Formats der Daten in DV-technischer Hinsicht, in welchem diese verfügbar sind. Das Format wird durch 4 unterschiedliche Eingaben spezifiziert. Wenn die erste Spalte befüllt wird, müssen auch die anderen Eintragungen vorgenommen werden. 
 
- - Name: Angabe des Formatnamens, wie z.B. "Date" 
- - Version: Version der verfügbaren Daten (z.B. "Version 8" oder "Version vom 26.02.2020") 
- - Kompressionstechnik: Kompression, in welcher die Daten geliefert werden (z.B. "WinZip", "keine") 
- - Bildpunkttiefe: BitsPerSample
+Angabe des Formats der Daten in DV-technischer Hinsicht, in welchem diese verfügbar sind. Das Format wird durch 4 unterschiedliche Eingaben spezifiziert. Wenn das erste Feld befüllt wird, müssen auch die anderen Eintragungen vorgenommen werden. 
 
-.. hint:: Bei der Auswahl des INSPIRE-Datenformates GML muss die Version eingetragen werden.
+| **Feld: Name** 
+  | Angabe des Formatnamens, wie (Beispiel: DXF) 
+| **Feld: Version** 
+  | Version der verfügbaren Daten (Beispiel: Version: 6.0 oder "Version vom tt.mm.jjjj") 
+| **Feld: Kompressionstechnik** 
+  | Kompression, in welcher die Daten geliefert werden (Beispiel: Zip, keine) 
+| **Feld: Spezifikation** 
+  | Details zur Spezifikation (Beispiel: WCS)
 
 
-Medienoptionen
-^^^^^^^^^^^^^^
+Felder: Medienoption
+^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-verfuegbarkeit_medienoptionen.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-09_verfügbarkeit/medienoption.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
-Abb.: Beispiel - CD-ROM / 700 MB / Explorer Z:/Bereich_51/Metainformation/2020-02-26_Hilfetexte.doc
+Abb.: 
 
-Angabe, auf welchen Medien die Daten zur Verfügung gestellt werden können. Hier können elektronische Datenträger als auch Medien in Papierform angegeben werden, auf denen die im Objekt beschriebenen Daten dem Nutzer zur Verfügung stehen. Es können mehrere Medien eingetragen werden. Medium: Angabe der Medien, auf denen der Datensatz bereitgestellt werden kann (ISO-Auswahlliste) Datenvolumen: Umfang des Datenvolumens in MB (Fließkommazahl) Speicherort: Ort der Datenspeicherung im Intranet/Internet, Angabe als Verweis.
+
+Angabe, auf welchen Medien die Daten zur Verfügung gestellt werden können. Hier können elektronische Datenträger als auch Medien in Papierform angegeben werden, auf denen die im Objekt beschriebenen Daten dem Nutzer zur Verfügung stehen. Es können mehrere Medien eingetragen werden. Medium: Angabe der Medien, auf denen der Datensatz bereit gestellt werden kann (ISO-Auswahlliste) Datenvolumen: Umfang des Datenvolumens in MB (Fließkommazahl) Speicherort: Ort der Datenspeicherung im Intranet/Internet, Angabe als Verweis
+
+
+| **Feld: Medium**
+  | Bezeichnung: Bezeichnung des Mediums, auf dem die Ressource erhältlich ist (Beispiel: eine URL oder CD-ROM)
+| **Feld: Datenvolumen**
+  | Angabe des Datenvolumens in MB (Beispiel: 32 MB)
+| **Feld: Speicherort**
+  | Angabe eines Ortes, an dem die Datenabgelegt sind (Beispiel: Explorer Z:/Bereich_51/Metainformation/2023-08-25_Hilfetexte.doc)
+
 
 `Auswahlliste Medium <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verfuegbarkeit_medienoption.html>`_
 
 
-Bestellinformation
-^^^^^^^^^^^^^^^^^^
+Feld: Bestellinformation
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-09_verfügbarkeit/ige-verfuegbarkeit_bestellinformation.png
 
