@@ -886,14 +886,14 @@ Abb.: Beispiel für Datenformatangaben
 
 Angabe des Formats der Daten in DV-technischer Hinsicht, in welchem diese verfügbar sind. Das Format wird durch 4 unterschiedliche Eingaben spezifiziert. Wenn das erste Feld befüllt wird, müssen auch die anderen Eintragungen vorgenommen werden. 
 
-| **Feld: Name** 
-    | Angabe des Formatnamens, wie (Beispiel: GML) 
-| **Feld: Version** 
-    | Version der verfügbaren Daten (Beispiel: Version: 3.2.1 oder "Version vom tt.mm.jjjj") 
-| **Feld: Kompressionstechnik** 
-    | Kompression, in welcher die Daten geliefert werden (Beispiel: Zip, keine) 
-| **Feld: Spezifikation** 
-    | Details zur Spezifikation (Beispiel: XML-basiertes Datenaustauschformat (OGC/ISO TC211)).
+| **Feld: Name**
+ | Angabe des Formatnamens, wie (Beispiel: GML) 
+| **Feld: Version**
+ | Version der verfügbaren Daten (Beispiel: Version: 3.2.1 oder "Version vom tt.mm.jjjj") 
+| **Feld: Kompressionstechnik**
+ | Kompression, in welcher die Daten geliefert werden (Beispiel: Zip, keine) 
+| **Feld: Spezifikation**
+ | Details zur Spezifikation (Beispiel: XML-basiertes Datenaustauschformat (OGC/ISO TC211)).
 
 
 Felder: Medienoption
@@ -993,7 +993,7 @@ Im Abschnitt Verweise können Verlinkungen zu anderen Objekten innerhalb des Kat
 
 
 Verweise zu
-^^^^^^^^^^^
+
 
 .. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis-zu_tabelle.png
 
@@ -1006,7 +1006,7 @@ Es besteht die Möglichkeit, Verweise von einem Objekt zu einem anderen Objekt o
 
 
 Verweise von
-^^^^^^^^^^^^
+
 
 .. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis-von.png
 
@@ -1018,7 +1018,7 @@ Das Editieren oder Hinzufügen ist an dieser Stelle nicht möglich. Sollen die V
 
 
 Verweise anlegen
-----------------
+
 
 .. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis-zu_tabelle.png
 
@@ -1033,7 +1033,7 @@ Es gibt zwei mögliche Verweisziele:
  
  
 Verweistyp
-^^^^^^^^^^
+
 
 .. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis_bearbeiten.png
 
@@ -1058,7 +1058,7 @@ Die angebotenen Eintragungen der Dropdown-Liste hängen von dem gewählten Objek
 
 
 Verweisziel: „Objekt“
-^^^^^^^^^^^^^^^^^^^^^
+
 
 .. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweisziel_objekt.png
 
@@ -1072,20 +1072,20 @@ Abb.: Verweisziel: Objekt
 
 
 Objekt auswählen
-^^^^^^^^^^^^^^^^
+
 
 Über „Objekt auswählen“ öffnet sich der Objektstrukturbaum, aus dem das Zielobjekt auszuwählen ist.
 Ist das Objekt markiert, zu dem ein Verweis erstellt werden soll, kann der Eintrag durch einen Klick auf den Button „Zuweisen“ übernommen werden. Die Pflichtangaben „Objektname“ und „Objektklasse“ werden automatisch mit den entsprechenden Daten des ausgewählten Objekts gefüllt.
 
 
 Erläuterung
-^^^^^^^^^^^
+
 
 Hier können weitergehende Informationen zu dem Objekt eingegeben werden. Es können auch Erläuterungen zu der Beziehung zwischen den beschriebenen Daten des aktuellen Objektes und den Daten des Verweis-Objektes gegeben werden.
 
 
 Hinzufügen
-^^^^^^^^^^
+
 
 Sind alle Pflichtfelder und die gewünschten optionalen Felder gefüllt, kann der Verweis mit der Schaltfläche „Hinzufügen“ in der Tabelle angelegt werden.
 
@@ -1093,7 +1093,7 @@ Sind alle Pflichtfelder und die gewünschten optionalen Felder gefüllt, kann de
 
 
 Verweisziel "URL"
-^^^^^^^^^^^^^^^^^^
+
 
 .. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweisziel_url.png
 
@@ -1113,19 +1113,19 @@ Abb.: Verweis bearbeiten
 
 
 Bezeichnung des Verweises
-^^^^^^^^^^^^^^^^^^^^^^^^^
+
 
 Im Feld „Bezeichnung des Verweises“ soll eine möglichst aussagekräftige Bezeichnung für den Verweis angegeben werden, beispielsweise kann der dementsprechende Name der Webseite eingetragen werden. Die Eintragungen, die Sie hier angeben, erscheinen im Portal als Link. Klickt der Nutzer auf diesen Link, kommt er auf die Internetseite, die in dem Feld „Internet-Adresse (URL)“ angegeben wurde.
 
 
 Internet-Adresse (URL)
-^^^^^^^^^^^^^^^^^^^^^^
+
 
 Im Feld „Internet-Adresse (URL)“ wird die URL der Internetseite eingetragen, auf die verwiesen werden soll. Wichtig ist, die vollständige Internetadresse anzugeben, beginnend mit „https://“.
 
 
 Dateiformat
-^^^^^^^^^^^
+
 
 .. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_dateiformat.png
 
@@ -1140,7 +1140,7 @@ metaver_ige/ige_auswahllisten/auswahlliste_verweise_dateiformate.html
 metaver_ige\ige_auswahllisten/auswahlliste_verweise_dateiformate.html
 
 URL-Typ
-^^^^^^^^
+
 
 Bei URL-Verweisen für ein Objekt wird unterschieden ob diese URL für das Internet oder für das Intranet gilt.
 
@@ -1161,7 +1161,7 @@ In der Tabelle „Verweise zu“ werden in der ersten Spalte durch entsprechende
 
 
 Filter für Verweistypen
-^^^^^^^^^^^^^^^^^^^^^^^^
+
 
 .. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis-zu_filter.png
 
@@ -1171,7 +1171,7 @@ Es besteht die Möglichkeit die Verweistypen zu filtern. Die Einträge für die 
 
 
 Zeile löschen / bearbeiten
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 
 .. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis-zu_zeile-bearbeiten.png
 
@@ -1186,7 +1186,7 @@ Der Befehl „Zeile bearbeiten“ öffnet wieder das bekannte Dialogfenster mit 
 
 
 Verweise erben
-^^^^^^^^^^^^^^
+
 
 .. figure:: ../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-10_verweise/ige-verweise_verweis-zu_erben.png
 
@@ -1197,13 +1197,13 @@ Abb.: Tabelle Verweise - erben
 
 
 Verweis zu
-''''''''''
+
 
 Es gibt die Möglichkeit, Verweise von einem Objekt zu einem anderen Objekt oder zu einer Internetadresse (URL) zu erstellen. In dieser Tabelle werden alle Verweise zusammenfassend aufgeführt, welche im aktuellen Objekt angelegt wurden. Über dem Link "Verweise anlegen/bearbeiten" öffnet sich ein Dialog, mit dem weitere Einzelheiten zu den Verweisen eingesehen und editiert werden können. Es ist ferner möglich, weitere Verweise über diesen Dialog hinzuzufügen. Wenn Open-Data ausgewählt ist, muss mindestens ein Verweis vom Typ "Datendownload" vorhanden sein, bevor das Objekt veröffentlicht werden kann!
 
 
 Verweis von
-'''''''''''
+
 
 In dieser Tabelle werden alle Verweise von denjenigen Objekten aufgeführt, welche auf das aktuelle Objekt verweisen. Das Editieren oder Hinzufügen ist nicht möglich. Sollen die Verweise geändert oder ergänzt werden, so muss zu dem entsprechenden Objekt gewechselt werden.
 
