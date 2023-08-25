@@ -930,9 +930,7 @@ Feld: Bestellinformation
    :scale: 50
    :figwidth: 100%
 
-Abb.: Beispiel Bestellinformation - Die Lieferzeit beträgt 3 Wochen
-
-
+Abb.: Beispiel für eine Bestellinformation - Die Lieferzeit beträgt 3 Wochen.
 
 -----------------------------------------------------------------------------------------------------------------------
 
