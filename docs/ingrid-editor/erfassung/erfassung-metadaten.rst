@@ -888,7 +888,7 @@ Angabe des Formats der Daten in DV-technischer Hinsicht, in welchem diese verfü
 
 | **Feld: Name**
 
-  | Beschreibung: Angabe des Formatnamens (Beispiel: GML) 
+  - Angabe des Formatnamens (Beispiel: GML) 
 
 | **Feld: Version**
 
