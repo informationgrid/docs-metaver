@@ -398,7 +398,7 @@ Abschnitt Fachbezug
 Nachfolgend sind in den verschiedenen Datensatztypen (Verlinkung folgen) die zusätzlichen Eingabefelder beschrieben.
 
 | `Geodatensatz <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztyp-geodatensatz.html>`_
-
+^^^^^^^^^^^^^^^^
   | Beschreibung von digitalen Geodaten, analoge Karten oder Kartenwerke.
 
 | `Geodatendienst <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztyp-geodatendienst.html>`_
