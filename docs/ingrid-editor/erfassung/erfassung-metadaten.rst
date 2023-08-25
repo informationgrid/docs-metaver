@@ -950,8 +950,8 @@ Abb.: Beispiel für eine Bestellinformation - Die Lieferzeit beträgt 3 Wochen.
 Abschnitt Verweise
 ------------------
 
-Felder: Verweise hinzufügen
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Felder: Verweise
+^^^^^^^^^^^^^^^^
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-anlegen.png
    :align: left
@@ -991,6 +991,6 @@ Abb.: Verweise bearbeiten
 | **Feld: Erläuterungen**
 
   - Ergänzende Erläuerung zu einer Verlinkung (Beispiel: Downloadmöglichkeit der Landesfläche in 4 Teilen)
-  
+
 
   .. hint:: Der Inhalt der Auswahlliste im Feld: "Typ" richtet sich nach den gewählten Datensatztyp.
