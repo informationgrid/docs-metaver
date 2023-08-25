@@ -16,3 +16,5 @@ Verweistypen
 - Symbolkatalog
 - unspezifischer Verweis
 - Verweis zu Dienst
+
+  .. hint:: Der Inhalt der Auswahlliste im Feld: "Typ" richtet sich nach den gewählten Datensatztyp.
