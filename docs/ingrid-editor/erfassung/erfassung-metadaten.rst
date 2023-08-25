@@ -990,7 +990,7 @@ Abb.: Verweise anlegen
 
 
 
-
+-----------------------------------------------------------------------------------------------------------------------
 
 Im Abschnitt Verweise können Verlinkungen zu anderen Objekten innerhalb des Kataloges angelegt, oder es können Verweise mit URLs angelegt werden. Bereits angelegte Verweise lassen sich erneut bearbeiten.
 
