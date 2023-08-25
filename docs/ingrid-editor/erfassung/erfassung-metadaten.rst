@@ -938,15 +938,15 @@ Abb.: Beispiel für eine Bestellinformation - Die Lieferzeit beträgt 3 Wochen.
 Abschnitt Verweise
 ------------------
 
-Verweise anlegen
-^^^^^^^^^^^^^^^^
+Felder: Verweise hinzufügen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/anlegen.png
    :align: left
    :scale: 50
    :figwidth: 100%
 
-Abb.: Verweise HINZUFÜGEN
+Abb.: Verweise hinzufügen
 
 
 .. hint:: Wenn die Option Open Data ausgewählt wurde, muss mindestens ein Verweis vom Typ „Datendownload“ angelegt werden, bevor der Metadatensatz veröffentlicht werden kann.
