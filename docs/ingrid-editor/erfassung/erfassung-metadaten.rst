@@ -819,7 +819,6 @@ Im Abschnitt Verfügbarkeit wird angegeben, ob die zu beschreibenden Daten einer
 Feld: Zugriffsbeschränkungen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-09_verfuegbarkeit/zugriffsbeschraenkungen.png
    :align: left
    :scale: 50
@@ -880,21 +879,21 @@ Felder für Datenformat
    :scale: 50
    :figwidth: 100%
 
-Abb.: Beispiel - TIFF / Version: 6.0 / Kompression: LZW / Spezifikation: WCS
+Abb.: Beispiel für Datenformatangaben
 
-`Auswahlliste Datenformat <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verfuegbarkeit_datenformat.html>`_
+`Auswahlliste Datenformat <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verfuegbarkeit_datenformate.html>`_
 
 
 Angabe des Formats der Daten in DV-technischer Hinsicht, in welchem diese verfügbar sind. Das Format wird durch 4 unterschiedliche Eingaben spezifiziert. Wenn das erste Feld befüllt wird, müssen auch die anderen Eintragungen vorgenommen werden. 
 
 | **Feld: Name** 
-    | Angabe des Formatnamens, wie (Beispiel: DXF) 
+    | Angabe des Formatnamens, wie (Beispiel: GML) 
 | **Feld: Version** 
-    | Version der verfügbaren Daten (Beispiel: Version: 6.0 oder "Version vom tt.mm.jjjj") 
+    | Version der verfügbaren Daten (Beispiel: Version: 3.2.1 oder "Version vom tt.mm.jjjj") 
 | **Feld: Kompressionstechnik** 
     | Kompression, in welcher die Daten geliefert werden (Beispiel: Zip, keine) 
 | **Feld: Spezifikation** 
-    | Details zur Spezifikation (Beispiel: WCS)
+    | Details zur Spezifikation (Beispiel: XML-basiertes Datenaustauschformat (OGC/ISO TC211)).
 
 
 Felder: Medienoption
@@ -905,7 +904,7 @@ Felder: Medienoption
    :scale: 50
    :figwidth: 100%
 
-Abb.: 
+Abb.: Beispiel für Medienoptionangaben
 
 
 Angabe auf welchen Medien oder über welche Medien die Daten zur Verfügung gestellt werden können (digital und analog). Es können mehrere Medien eingetragen werden.
@@ -920,8 +919,23 @@ Angabe auf welchen Medien oder über welche Medien die Daten zur Verfügung gest
 
 `Auswahlliste Medium <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verfuegbarkeit_medienoption.html>`_
 
+Angabe von generellen Informationen zur Bestellung, wie z.B. Bedingungen oder Konditionen.
+
+
+Feld: Bestellinformation
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-09_verfuegbarkeit/bestellinformation.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Beispiel Bestellinformation - Die Lieferzeit beträgt 3 Wochen
+
+
 
 -----------------------------------------------------------------------------------------------------------------------
+
 
 Abschnitt Verweise
 ------------------
