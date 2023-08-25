@@ -423,7 +423,7 @@ Nachfolgend sind in den verschiedenen Datensatztypen (Verlinkung folgen) die zus
 
 | `Fachaufgabe <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztyp-fachaufgabe.html>`_
 
-  | In diesen Datensatztyp befindet sich kein Abschnitt Fachbezug. Der Datensatztyp Fachaufgabe kann für Verweise auf Webseiten verwendet werden (z.B informationen zu Bebauungsplänen). Fachaufgabe ist der einzige Datensatztyp, dem keine weiteren Optionen zugeordnen werden können (z.B. OpenData).
+  | In diesen Datensatztyp befindet sich kein Abschnitt Fachbezug. Der Datensatztyp Fachaufgabe kann für Verweise auf Webseiten verwendet werden (z.B Informationen zu Bebauungsplänen). Fachaufgabe ist der einzige Datensatztyp, dem keine weiteren Optionen zugeordnen werden können (z.B. OpenData).
 
 -----------------------------------------------------------------------------------------------------------------------
 
