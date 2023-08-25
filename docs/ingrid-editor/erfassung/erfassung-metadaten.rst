@@ -982,12 +982,12 @@ Abb.: Verweise bearbeiten
 
 | **Feld: URL**
 
-  - Angabe der Webseite-URL oder der Download-URL, auf die verwiesen werden soll.
+  - Angabe einer Webseite-URL oder einer Download-URL, auf die verwiesen werden soll.
 
 | **Feld: Datensatzverweis**
 
-  - Angabe des Datensatzes (einer UUID), auf den verwiesen werden soll. Die IDs der Metadatensätze stehen im Kopf der Erfassungsmasken.
+  - Angabe des Datensatzes (einer UUID Beispiel: 19bd40ac-8be8-464a-8273-f2ce87e0fe32), auf den verwiesen werden soll. Die IDs der Metadatensätze stehen versteckt im Kopf der Erfassungsmasken (mit Pfeil ausklappen). Es können auch externe Datensätze über die ID verlinkt werden.
 
 | **Feld: Erläuterungen**
 
-  - Ergänzende Erläuerung zu der Verlinkung (Beispiel: )
+  - Ergänzende Erläuerung zu der Verlinkung (Beispiel: Downloadmöglichkeit der Landesfläche in 4 Teilen)
