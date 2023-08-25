@@ -910,7 +910,7 @@ Abb.: Beispiel für Medienoptionangaben
 Angabe auf welchen Medien oder über welche Medien die Daten zur Verfügung gestellt werden können (digital und analog). Es können mehrere Medien eingetragen werden.
 
 | **Feld: Medium**
-    | Bezeichnung: Bezeichnung des Mediums, auf dem die Ressource erhältlich ist (Beispiel: HDD oder eine URL)
+    | Bezeichnung: Bezeichnung des Mediums, auf dem die Ressource erhältlich ist (Beispiel: HDD)
 | **Feld: Datenvolumen**
     | Angabe des Datenvolumens in MB (Beispiel: 20 MB)
 | **Feld: Speicherort**
