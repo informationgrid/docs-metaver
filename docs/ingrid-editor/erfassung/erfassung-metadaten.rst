@@ -950,8 +950,8 @@ Abb.: Beispiel für eine Bestellinformation - Die Lieferzeit beträgt 3 Wochen.
 Abschnitt Verweise
 ------------------
 
-Felder: Verweise
-^^^^^^^^^^^^^^^^
+Eingabefelder unter Verweise
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-anlegen.png
    :align: left
