@@ -986,8 +986,8 @@ Abb.: Verweise bearbeiten
 
 | **Feld: Datensatzverweis**
 
-  - Angabe des Datensatzes (einer UUID Beispiel: 19bd40ac-8be8-464a-8273-f2ce87e0fe32), auf den verwiesen werden soll. Die IDs der Metadatensätze stehen versteckt im Kopf der Erfassungsmasken (mit Pfeil ausklappen). Es können auch externe Datensätze über die ID verlinkt werden.
+  - Angabe einer Datensatz-UUID (Beispiel: 19bd40ac-8be8-464a-8273-f2ce87e0fe32). Die Datensatz-UUIDs stehen versteckt im Kopf der Erfassungsmasken (mit Pfeil ausklappen). Es können auch externe Datensätze über eine UUID verlinkt werden.
 
 | **Feld: Erläuterungen**
 
-  - Ergänzende Erläuerung zu der Verlinkung (Beispiel: Downloadmöglichkeit der Landesfläche in 4 Teilen)
+  - Ergänzende Erläuerung zu einer Verlinkung (Beispiel: Downloadmöglichkeit der Landesfläche in 4 Teilen)
