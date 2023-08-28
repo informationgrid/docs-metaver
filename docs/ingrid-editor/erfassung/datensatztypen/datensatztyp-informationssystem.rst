@@ -92,7 +92,6 @@ Typische Installation
 | 100 GB Plattenplatz
 
 
- 
 **Feld: Historie**
 
 Entwicklungsangaben: Hier können Vorläufer und Folgedienste oder -anwendungen bzw. -systeme genannt werden. Auch Informationen zu Initialforschungsprojekten oder -programmen sind von Interesse.
@@ -109,13 +108,11 @@ Beispiel:
   - Entwicklung seit 2006 bis 2023 (Version 6.2)
  
 
-
 **Feld: Basisdaten**
 
 Beschreibung Herkunft und Art der zugrundeliegenden Daten. Im Allgemeinen sind dies die Datensätze, auf die der Dienst aufgesetzt ist. Allgemein sollen die Herkunft oder die Ausgangsdaten der Daten beschrieben werden, die in dem Dienst, der Anwendung bzw. dem Informationssystem benutzt, gespeichert, angezeigt oder weiterverarbeitet werden. Zusätzlich kann die Art der Daten (z. B. digital, automatisch ermittelt oder aus Umfrageergebnissen, Primärdaten, fehlerbereinigte Daten) angegeben werden.
 
 Beispiel: Das Informationssystem enthält umweltbezogene Daten und Geodaten der öffentlichen Verwaltung.
-
 
 
 **Feld: Erläuterungen**
