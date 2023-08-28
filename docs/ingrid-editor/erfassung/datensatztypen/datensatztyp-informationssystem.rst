@@ -54,14 +54,15 @@ Versionsangaben des Dienstes. Bitte geben Sie sämtliche unterstützten Versione
 Weitere Informationen
 """""""""""""""""""""
 
-**Feld: Systemumgebung**
-
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_informationssystem/fachbezug_weitere-informationen.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_informationssystem/fachbezug_weitere-angaben.png
    :align: left
    :scale: 50
    :figwidth: 100%
 
-Abb.: Textfeld - Systemumgebung
+Abb.: Textfelder für weitere Informationen
+
+
+**Feld: Systemumgebung**
 
 Systemumgebung - Informationen über das Betriebssystem, die Software und ggfs. Hardware, die für die Implementierung des Dienstes verwendet wird.
 
