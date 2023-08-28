@@ -36,8 +36,8 @@ Folgende Einstellungen stehen zur Verfügung:
 
  
  
-Version
-"""""""
+Feld: Version
+"""""""""""""
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_informationssystem/fachbezug_version.png
    :align: left
@@ -122,3 +122,19 @@ Beispiel: Das Informationssystem enthält umweltbezogene Daten und Geodaten der 
 Zusätzliche Anmerkungen zu dem beschriebenen Dienst, der Anwendung oder dem Informationssystem. Hier können zusätzliche Informationen, z.B. technischer Art, gegeben werden, die für das Verständnis des Dienstes, der Anwendung, des Informationssystems erforderlich sind.
 
 Beispiel: Der Datensatz ist eine CSV-Datei, die alle Grundwassermessstellen mit Lage und Kennung enthält.
+
+
+Feld: Service-URLs
+""""""""""""""""""
+
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_informationssystem/fachbezug_service-url.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Feldder - Service-URLs
+
+Angaben zu der Zugriffsadresse auf den Dienst oder der Anwendung. Es soll der Name und der URL sowie eine kurzen Erläuterung zu der Adresse angegeben werden.
+Beispiel:
+
+Name: METAVER; URL: http://www.metaver.de; Erläuterung: Zugangspunkt zu Metadaten
