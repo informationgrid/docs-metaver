@@ -102,59 +102,23 @@ Beispiel:
 
   - Konzeption: 2021
   - Entwicklung: seit 2022
-  - Anwendungsbeispiele:
-
-METAVER (MetadatenVerbund) - ist das gemeinsame Metadatenportal der Länder Brandenburg, der Freien Hansestadt Bremen, der Freien und Hansestadt Hamburg, Hessen, Mecklenburg-Vorpommern, des Saarlands, Sachsens und Sachsen-Anhalts.
-
-UVP-Portal der Länder -  Informationen zu UVP-pflichtigen Vorhaben, deren Verfahrensstand, Auslegungs- und Erörterungsterminen, eingestellten Unterlagen, Berichten und Empfehlungen sowie der anschließenden Entscheidung in den Bundesländern.
 
 | Vorläufer: IGE - InGrid Editor (Webanwendung)
 
-  - Entwicklung seit 2006 bis 2023 Version 6.2
-  - Verwendung: PortalU (Umweltportal Deutschland)
+  - Entwicklung seit 2006 bis 2023 (Version 6.2)
+ 
 
-PortalU war ein Online-Dienst der Umweltverwaltungen des Bundes und der Länder Deutschlands.
 
-| Vorläufer: Umweldatenkatalog (UDK) 1996 - 2015
+**Feld: Basisdaten**
 
-  - Windows UDK mit UDK-Explorer, HTML-UDK
-  - Desktopanwendung, Client-Server Version, Web-UDK
-  - Verwendung: German Environmental Information Network - GEIN (Portal - Umweltinformationsnetz Deutschland)
+Beschreibung Herkunft und Art der zugrundeliegenden Daten. Im Allgemeinen sind dies die Datensätze, auf die der Dienst aufgesetzt ist. Allgemein sollen die Herkunft oder die Ausgangsdaten der Daten beschrieben werden, die in dem Dienst, der Anwendung bzw. dem Informationssystem benutzt, gespeichert, angezeigt oder weiterverarbeitet werden. Zusätzlich kann die Art der Daten (z. B. digital, automatisch ermittelt oder aus Umfrageergebnissen, Primärdaten, fehlerbereinigte Daten) angegeben werden.
 
-GEIN vereinte ein breites Spektrum an Umweltinformationen von öffentlichen Einrichtungen und Behörden im Internet, die zuvor nur über zahlreiche individuelle Websites erreichbar waren.  
-
-| Konzeption Umweltdatenkatalog (UDK) 1991 - 1995
-
-  - Konzeption im Niedersächsischen Umweltministerium
-
-Der Umweltdatenkatalog (UDK) war und ist ein System zur Metadatenbeschreibung von Umweltdaten der öffentlichen Verwaltung. 
+Beispiel: Das Informationssystem enthält umweltbezogene Daten und Geodaten der öffentlichen Verwaltung.
 
 
 
+**Feld: Erläuterungen**
 
-Basisdaten
-""""""""""
+Zusätzliche Anmerkungen zu dem beschriebenen Dienst, der Anwendung oder dem Informationssystem. Hier können zusätzliche Informationen, z.B. technischer Art, gegeben werden, die für das Verständnis des Dienstes, der Anwendung, des Informationssystems erforderlich sind.
 
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_anwendung/fachbezug_basisdaten.png
-
-
-Abb.: Textfeld - Basisdaten
-
-Herkunft und Art der zugrundeliegenden Daten.
-Im Allgemeinen sind dies die Datensätze, auf die der Dienst aufgesetzt ist. Allgemein sollen die Herkunft oder die Ausgangsdaten der Daten beschrieben werden, die in dem Dienst / der Anwendung bzw. dem Informationssystem benutzt, gespeichert, angezeigt oder weiterverarbeitet werden. Zusätzlich kann die Art der Daten (z. B. digital, automatisch ermittelt oder aus Umfrageergebnissen, Primärdaten, fehlerbereinigte Daten) angegeben werden.
-
-Der Eintrag kann hier direkt über die Auswahl der Registerkarte "Text" erfolgen oder es können Verweise eingetragen werden, indem der Link "Verweis anlegen" angewählt wird.
-
-
-Erläuterungen
-'''''''''''''
-
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_anwendung/fachbezug_erlaeuterungen.png
-
-
-Abb.: Textfeld - Erläuterungen
-
-Zusätzliche Anmerkungen zu dem beschriebenen Dienst, der Anwendung oder dem Informationssystem. Hier können weitergehende Angaben z. B. technischer Art gemacht werden, die zum Verständnis des Dienstes, der Anwendung, des Informationssystems notwendig sind.
-
-Beispiel:
-Die App beinhaltet Umweltinformationen, Informationen zu Umwelterlebnissen. GPS für den Umweltassistenten und für eine standortgenaue Meldefunktion zur Artenerfassung und die Erfassung von Umweltbeeinträchtigungen verwendet.
+Beispiel: Der Datensatz ist eine CSV-Datei, die alle Grundwassermessstellen mit Lage und Kennung enthält.
