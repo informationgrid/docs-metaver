@@ -98,7 +98,7 @@ Entwicklungsangaben: Hier können Vorläufer und Folgedienste oder -anwendungen 
 
 Beispiel: 
 
-| **IGE-NG - InGrid Editor neue Generation (Webanwendung)**
+| IGE-NG - InGrid Editor neue Generation (Webanwendung)
 
   - Konzeption: 2021
   - Entwicklung: seit 2022
@@ -108,14 +108,14 @@ METAVER (MetadatenVerbund) - ist das gemeinsame Metadatenportal der Länder Bran
 
 UVP-Portal der Länder -  Informationen zu UVP-pflichtigen Vorhaben, deren Verfahrensstand, Auslegungs- und Erörterungsterminen, eingestellten Unterlagen, Berichten und Empfehlungen sowie der anschließenden Entscheidung in den Bundesländern.
 
-| **Vorläufer: IGE - InGrid Editor (Webanwendung)**
+| Vorläufer: IGE - InGrid Editor (Webanwendung)
 
   - Entwicklung seit 2006 bis 2023 Version 6.2
   - Verwendung: PortalU (Umweltportal Deutschland)
 
 PortalU war ein Online-Dienst der Umweltverwaltungen des Bundes und der Länder Deutschlands.
 
-| **Vorläufer: Umweldatenkatalog (UDK) 1996 - 2015**
+| Vorläufer: Umweldatenkatalog (UDK) 1996 - 2015
 
   - Windows UDK mit UDK-Explorer, HTML-UDK
   - Desktopanwendung, Client-Server Version, Web-UDK
@@ -123,22 +123,17 @@ PortalU war ein Online-Dienst der Umweltverwaltungen des Bundes und der Länder 
 
 GEIN vereinte ein breites Spektrum an Umweltinformationen von öffentlichen Einrichtungen und Behörden im Internet, die zuvor nur über zahlreiche individuelle Websites erreichbar waren.  
 
-| **Konzeption Umweltdatenkatalog (UDK) 1991 - 1995**
+| Konzeption Umweltdatenkatalog (UDK) 1991 - 1995
 
   - Konzeption im Niedersächsischen Umweltministerium
 
-Der Umweltdatenkatalog (UDK) ist ein System zur Metadatenbeschreibung von Umweltdaten der öffentlichen Verwaltung. 
-
-
-
-
-
+Der Umweltdatenkatalog (UDK) war und ist ein System zur Metadatenbeschreibung von Umweltdaten der öffentlichen Verwaltung. 
 
 
 
 
 Basisdaten
-''''''''''
+""""""""""
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_anwendung/fachbezug_basisdaten.png
 
