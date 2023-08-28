@@ -174,7 +174,7 @@ Auswahlliste: Raster, Gitter, Stereomodell, Text, Tabelle, TIN, Vektor, Video
 Abb.: Auswahlfeld Digitale Repräsentation
 
 
-Feld<: Vektorformat
+Feld: Vektorformat
 ^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_vektorformat.png
