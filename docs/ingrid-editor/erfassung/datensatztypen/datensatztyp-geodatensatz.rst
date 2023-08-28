@@ -129,7 +129,7 @@ Abb.: Eingabefeld Fachliche Grundlage
 
 
 Feld: Identifikator der Datenquelle
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Hier muss ein eindeutiger Name (Identifikator) für die im Geodatensatz beschriebene Datenquelle (z.B. eine Karte) vergeben/eingetragen werden. Der Identifikator soll aus einem Namensraum (=codespace), sowie einem Code bestehen. (INSPIRE-Pflichtfeld).
 Wenn der Identifikator keinen Namensraum enthält, so wird dem Identifikator bei der Abgabe der Metadaten derjenige Wert vorangestellt, welcher im Bereich Katalogverwaltung/Katalogeinstellungen unter "Namensraum des Katalogs" eingetragen ist.
@@ -172,6 +172,23 @@ Auswahlliste: Raster, Gitter, Stereomodell, Text, Tabelle, TIN, Vektor, Video
    :figwidth: 100%
 
 Abb.: Auswahlfeld Digitale Repräsentation
+
+
+Vektor
+^^^^^^^
+
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_vektorformat.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Feld Vektorformat
+
+.. hint:: Dieses Feld ist nur aktiv nach Auswahl von "Vektor" im Feld "Digitale Repräsentation".
+
+Es können hier Topologie Informationen, Geometrietyp (Angabe der geometrischen Objekte, zur Beschreibung der geometrischen Lage) und Elementanzahl (Angaben der Anzahl der Punkt- oder Vektortypelemente) angegeben werden.
+
+Auswahlliste Topologieinformation: 3D-Oberfläche, Flächen, Flächen flächendeckend, Geometrie ohne Topologie, geschlossene Linien eben, geschlossene Linien flächendeckend, Körper, Linien, topologisches Gebilde ohne geometrischen Raum
 
 
 Feld: Erstellungsmaßstab
@@ -338,22 +355,3 @@ Abb.: Feld Konformität
    :figwidth: 100%
  
 Abb.: Feld Konformität - Spezifikation
-
------------------------------------------------------------------------------------------------------------------------
-
-
-Vektorformat
-^^^^^^^^^^^^
-
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_vektorformat.png
-   :align: left
-   :scale: 50
-   :figwidth: 100%
-
-Abb.: Feld Vektorformat
-
-.. hint:: Dieses Feld ist nur aktiv nach Auswahl von "Vektor" im Feld "Digitale Repräsentation".
-
-Es können hier Topologie Informationen, Geometrietyp (Angabe der geometrischen Objekte, zur Beschreibung der geometrischen Lage) und Elementanzahl (Angaben der Anzahl der Punkt- oder Vektortypelemente) angegeben werden.
-
-Auswahlliste Topologieinformation: 3D-Oberfläche, Flächen, Flächen flächendeckend, Geometrie ohne Topologie, geschlossene Linien eben, geschlossene Linien flächendeckend, Körper, Linien, topologisches Gebilde ohne geometrischen Raum
