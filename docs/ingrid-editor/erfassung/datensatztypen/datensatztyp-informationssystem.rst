@@ -6,8 +6,7 @@ Informationssystem
     :header: "Portal", "Editor"
     :widths: 20, 20
 
-    .. image:: ../../../img/ige/icons/datensatztypen/portal/informationssystem.png,
-    .. image:: ../../../img/ige/icons/datensatztypen/ige/informationssytem.png
+    .. image:: ../../../img/ige/icons/datensatztypen/portal/informationssystem.png, .. image:: ../../../img/ige/icons/datensatztypen/ige/informationssystem.png
 
 Mit dem Datensatztyp Informationssystem können Softwareprodukte, Webanwendungen oder zentrale Auskunfts- und Informationssysteme im Metadatenkatalog beschrieben werden.
 
