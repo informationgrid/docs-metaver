@@ -6,7 +6,8 @@ Informationssystem
     :header: "Portal", "Editor"
     :widths: 20, 20
 
-    .. image:: ../../../img/ige/icons/datensatztypen/portal/informationssystem.png, .. image:: ../../../img/ige/icons/datensatztypen/ige/informationssytem.png
+    .. image:: ../../../img/ige/icons/datensatztypen/portal/informationssystem.png,
+    .. image:: ../../../img/ige/icons/datensatztypen/ige/informationssytem.png
 
 Mit dem Datensatztyp Informationssystem können Softwareprodukte, Webanwendungen oder zentrale Auskunfts- und Informationssysteme im Metadatenkatalog beschrieben werden.
 
@@ -15,14 +16,11 @@ Mit dem Datensatztyp Informationssystem können Softwareprodukte, Webanwendungen
 -----------------------------------------------------------------------------------------------------------------------
 
 
-Erfassung
----------
-
 Abschnitt Fachbezug
-^^^^^^^^^^^^^^^^^^^
+-------------------
 
 Feld: Art des Dienstes
-""""""""""""""""""""""
+^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_informationssystem/fachbezug_dienstart.png
    :align: left
@@ -43,7 +41,7 @@ Folgende Einstellungen stehen zur Verfügung:
  
  
 Feld: Version
-"""""""""""""
+^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_informationssystem/fachbezug_version.png
    :align: left
@@ -58,7 +56,7 @@ Versionsangaben des Dienstes. Bitte geben Sie sämtliche unterstützten Versione
 
  
 Weitere Informationen
-"""""""""""""""""""""
+^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_informationssystem/fachbezug_weitere-angaben.png
    :align: left
@@ -68,7 +66,8 @@ Weitere Informationen
 Abb.: Textfelder für weitere Informationen
 
 
-**Feld: Systemumgebung**
+Feld: Systemumgebung
+""""""""""""""""""""
 
 Systemumgebung - Informationen über das Betriebssystem, die Software und ggfs. Hardware, die für die Implementierung des Dienstes verwendet wird.
 
@@ -98,7 +97,8 @@ Typische Installation
 | 100 GB Plattenplatz
 
 
-**Feld: Historie**
+Feld: Historie
+""""""""""""""
 
 Entwicklungsangaben: Hier können Vorläufer und Folgedienste oder -anwendungen bzw. -systeme genannt werden. Auch Informationen zu Initialforschungsprojekten oder -programmen sind von Interesse.
 
@@ -114,7 +114,8 @@ Beispiel:
   - Entwicklung seit 2006 bis 2023 (Version 6.2)
  
 
-**Feld: Basisdaten**
+Feld: Basisdaten
+""""""""""""""""
 
 Beschreibung Herkunft und Art der zugrundeliegenden Daten. Im Allgemeinen sind dies die Datensätze, auf die der Dienst aufgesetzt ist. Allgemein sollen die Herkunft oder die Ausgangsdaten der Daten beschrieben werden, die in dem Dienst, der Anwendung bzw. dem Informationssystem benutzt, gespeichert, angezeigt oder weiterverarbeitet werden. Zusätzlich kann die Art der Daten (z. B. digital, automatisch ermittelt oder aus Umfrageergebnissen, Primärdaten, fehlerbereinigte Daten) angegeben werden.
 
@@ -129,7 +130,7 @@ Beispiel: Die erfassten Daten werden über den Suchdienst Catalogue Service for 
 
 
 Feld: Service-URLs
-""""""""""""""""""
+^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_informationssystem/fachbezug_service-url.png
    :align: left
