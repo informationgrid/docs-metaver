@@ -14,9 +14,7 @@ Der Datensatztyp Datensammlung dient der Beschreibung von gemessenen, veredelten
 .. important:: Die Erfassung dieses Datensatztyps erfolgt wie unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_  beschrieben. Der hier beschriebene Abschnitt Fachbezug beinhaltet für diesen Datensatztyp spezielle Eingabefelder.
 
 
-
-Erfassung
----------
+-----------------------------------------------------------------------------------------------------------------------
 
 Abschnitt Fachbezug
 ^^^^^^^^^^^^^^^^^^^^
