@@ -6,74 +6,83 @@ Datensammlung
     :header: "Portal", "Editor"
     :widths: 20, 20
 
-	 .. image:: ../../../img/ige/icons/datensatztypen/portal/datensammlung.png,
-    .. image:: ../../../img/ige/icons/datensatztypen/ige/datensammlung.png
+	 .. image:: ../../../img/ige/icons/datensatztypen/portal/datensammlung.png, .. image:: ../../../img/ige/icons/datensatztypen/ige/datensammlung.png
 
-Der Datensatztyp Datensammlung dient der Beschreibung von gemessenen, veredelten oder gesammelten Daten. Dazu gehören: Messdaten, statistische Erhebungen, Modelldaten oder Daten zu Anlagen (Dienste/Anwendungen/Informationssysteme: zentrale Auskunftssysteme, welche in der Regel auf eine oder mehrere Datenbanken zugreifen und diese zugänglich machen.)
+Der Datensatztyp Datenerhebung dient der Beschreibung gemessener, aufbereiteter oder erhobener Daten. Dazu gehören Messdaten, statistische Erhebungen, Modelldaten oder Anlagendaten (Dienste/Anwendungen/Informationssysteme: zentrale Informationssysteme, die in der Regel auf eine oder mehrere Datenbanken zugreifen und diese zugänglich machen).
 
-.. important:: Die Erfassung dieses Datensatztyps erfolgt wie unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_  beschrieben. Der hier beschriebene Abschnitt Fachbezug beinhaltet für diesen Datensatztyp spezielle Eingabefelder.
-
+.. important:: Die Erfassung dieses Datensatztyps erfolgt wie unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>` beschrieben. Der hier beschriebene Abschnitt Fachbezug enthält spezielle Eingabefelder für diesen Datensatztyp.
 
 -----------------------------------------------------------------------------------------------------------------------
 
+
 Abschnitt Fachbezug
-^^^^^^^^^^^^^^^^^^^^
+-------------------
 
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-04_fachbezug/ige-abschnitt_fachbezug.png
+Feld: Objektartenkatalog
+^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_datenbank/datenbank_kopf.png
-   :width: 500
-
-Abb.: Objektklasse Datenbank - Kopf der Erfassungsmaske
-
-
-Objektartenkatalog
-''''''''''''''''''
-
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_datenbank/fachbezug_objektartenkatalog.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_datensammlung/fachbezug_objektartenkatalog.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Tabelle - Objektartenkatalog
 
-An dieser Stelle besteht die Möglichkeit, den Daten zugrunde liegende Klassifizierungsschlüssel zu benennen. Dabei ist die Eingabe mehrerer Kataloge mit zugehörigem Datum (Pflichteintrag) und Version (Optional) möglich.
-Beispiel:
+Hier können die den Daten zugrunde liegenden Klassifikationsschlüssel benannt werden. Es können mehrere Kataloge mit zugehörigem Datum (Pflichteintrag) und Version (Optional) eingegeben werden.
 
-Beispiel: Biotoptypenschlüssel, Datum 01.01.1998, Version 1.1
+Beispiel: Biotoptypenschlüssel, Datum 29.08.2023, Version 6.1
 
 
-Inhalte der Datensammlung
-'''''''''''''''''''''''''
+Feld: Inhalte der Datensammlung/Datenbank
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_datenbank/fachbezug_inhalte-datensammlung.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_datensammlung/fachbezug_inhalt.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Tabelle - Inhalte der Datensammlung
 
-Angabe der wichtigsten Parameter der Datenbank bzw. der Datensammlung. Um einen qualifizierten Einblick in die beschriebene Datensammlung bzw. Datenbank zu bekommen, sollen hier die aussagekräftigen Parameter der vorgehaltenen Daten genannt werden. In der linken Spalte werden diese Parameter eingetragen. Beispiele für Parameter: im Falle von Messdaten werden die wichtigsten Messparameter (z.B. NOx, SO2, Windgeschwindigkeit, pH-Wert), im Falle von statistischen Erhebungen werden die Erhebungsgrößen (z.B. Wasserverbrauch pro Kopf, Bevölkerungsdichte), im Falle von Modelldaten werden die Modellparameter (z.B. Meeresspiegel, CO2-Gehalt der Luft, Welttemperatur) angegeben In der rechten Spalte können pro Parameter ergänzende Angaben gemacht werden. Beispielsweise kommen Angaben zur Maßeinheit, Genauigkeit, Nachweisgrenze, Probematrix oder parameterspezifische Angaben zur Meßmethode in Frage.
-Beispiel:
+
+Feld: Parameter
+"""""""""""""""
+
+Angabe der wichtigsten Parameter der Datenbank bzw. der Datensammlung. Um einen qualifizierten Überblick über die beschriebene Datensammlung bzw. Datenbank zu erhalten, sollen hier die aussagekräftigen Parameter der vorgehaltenen Daten genannt werden. Diese Parameter sind in der linken Spalte aufgeführt. Beispiele für Parameter: Bei Messdaten werden die wichtigsten Messparameter (z.B. NOx, SO2, Windgeschwindigkeit, pH-Wert), bei statistischen Erhebungen die Erhebungsgrößen (z.B. Wasserverbrauch pro Kopf, Bevölkerungsdichte), bei Modelldaten die Modellparameter (z.B. Meeresspiegel, CO2-Gehalt der Luft, globale Temperatur) angegeben.
+
+
+Feld: Ergänzenden Angaben
+"""""""""""""""""""""""""
+
+In der rechten Spalte können zu jedem Parameter weitere Angaben gemacht werden. Dies können z.B. Angaben zur Maßeinheit, Genauigkeit, Nachweisgrenze, Probenmatrix oder parameterspezifische Angaben zur Messmethode sein.
 
 Beispiel: Blei / in Trinkwasser, Nachweisgrenze: 10 ppb Cadmium / in Schlacke, Nachweisgrenze: 3 ppm
 
 
-Methode / Datengrundlage
-''''''''''''''''''''''''
+Feld: Methode / Datengrundlage
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_datenbank/fachbezug_methode-datengrundlage.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_datensammlung/fachbezug_methode.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Tabelle - Methode/Datengrundlage
 
-Angabe der verwendeten Methoden und der Datenherkunft. Hier sollen die angewandten Methoden der Datengewinnung (z.B. Meßmethode, Erhebungsmethode) benannt und beschrieben werden. Außerdem können Angaben z. B. zu Qualität oder Umfang der Datengrundlage eingetragen werden. Der Eintrag kann direkt erfolgen, wenn die Registerkarte "Text" gewählt wurde, oder als Verweis über die Registerkarte "Verweise".
-Beispiel:
+Angabe der verwendeten Methoden und der Herkunft der Daten. Hier sind die angewandten Methoden der Datenerhebung (z.B. Messmethode, Erhebungsmethode) zu benennen und zu beschreiben. Darüber hinaus können Angaben z.B. zur Qualität oder zum Umfang der Datengrundlage gemacht werden. Die Eingabe kann direkt über den Reiter "Text" oder als Verweis über den Reiter "Verweise" erfolgen.
 
-Beispiel: Ionenchromatographie nach DIN 38405-D20 (Sept. 91)
+Beispiel: Ionenchromatographie nach DIN 38405-D20 (Sept. 2023)
  
 
-Erläuterung
-'''''''''''
+Feld: Erläuterungen
+^^^^^^^^^^^^^^^^^^^^
 
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_datenbank/fachbezug_erlaeuterungen.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_datensammlung/fachbezug_erlaeuterungen.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
-Abb.: Textfeld - Erläuterung
+Abb.: Textfeld - Erläuterungen
 
-Zusätzliche Angaben zur Datensammlung bzw. zur Datenbank
+Weitere Informationen zur Datensammlung/Datenbank
 
-Beispiel:
-Die angegebenen Inhalte der Datenbank stellen nur eine Auswahl aller gemessenen Parameter dar (insgesamt ca. 300).
+Beispiel: Die angegebenen Inhalte der Datenbank stellen nur eine Auswahl aller gemessenen Parameter dar (insgesamt ca. 300) dar.
