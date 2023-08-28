@@ -137,6 +137,4 @@ Abb.: Felder - Service-URLs
 
 Angaben zur Adresse für den Zugriff auf den Dienst oder die Anwendung. Der Name und die URL sowie eine kurze Erläuterung der Adresse sind anzugeben.
 
-Beispiel:
-
-Name: METAVER; URL: https://www.metaver.de; Erläuterung: Zugangspunkt zu Metadaten
+Beispiel: Name: METAVER; URL: https://www.metaver.de; Erläuterung: Zugangspunkt zu Metadaten
