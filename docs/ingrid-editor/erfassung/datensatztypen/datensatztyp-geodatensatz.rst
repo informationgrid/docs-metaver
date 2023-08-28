@@ -6,7 +6,7 @@ Geodatensatz
     :header: "Portal", "Editor"
     :widths: 20, 20
 
-.. figure:: ../../../img/ige/icons/datensatztypen/portal/geodatensatz.png, .. figure::../../../img/ige/icons/datensatztypen/ige/geodatensatz.png
+.. figure:: ../../../img/ige/icons/datensatztypen/portal/geodatensatz.png, .. figure:: ../../../img/ige/icons/datensatztypen/ige/geodatensatz.png
    :align: left
    :scale: 50
    :figwidth: 100%
