@@ -31,7 +31,7 @@ Abb.: Auswahlfeld - Art des Dienstes
 
 Bitte wählen Sie in diesem Feld die Art des Dienstes aus.
 
-Folgende Einstellungen stehen zur Verfügung: 
+Folgende Einstellungen sind möglich: 
 
   - Anwendung
   - Informationssystem
