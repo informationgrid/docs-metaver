@@ -1,16 +1,12 @@
 
-Informationsystem
-=================
+Informationssystem
+==================
 
-.. csv-table::
-    :header: "Portal", "Editor"
-    :widths: 20, 20
+Mit dem Datensatztyp Informationssystem können Softwareprodukte, Webanwendungen oder zentrale Auskunfts- und Informationssysteme im Metadatenkatalog beschrieben werden.
 
-	.. image:: ../../../img/ige/icons/datensatztypen/portal/informationssystem.png, .. image:: ../../../img/ige/icons/datensatztypen/ige/informationssystem.png
+.. important:: Die Erfassung dieser Objektklasse erfolgt wie unter `Erfassung von Objekten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html>`_ beschrieben. Der hier beschriebene Abschnitt Fachbezug enthält spezielle Eingabefelder für diesen Datensatztyp.
 
-Mit dem Datensatztyp Informationssystem lassen sich im Metadatenkatalog Softwareprodukte, Webanwendungen oder zentrale Auskunfts- und Informationssysteme, beschreiben.
-
-.. important:: Die Erfassung dieser Objektklasse erfolgt wie unter `Erfassung von Objekten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html>`_ beschrieben. Der hier beschriebene Abschnitt Fachbezug beinhaltet für diese Objektklasse spezielle Eingabefelder.
+-----------------------------------------------------------------------------------------------------------------------
 
 
 Erfassung
@@ -19,70 +15,127 @@ Erfassung
 Abschnitt Fachbezug
 ^^^^^^^^^^^^^^^^^^^
 
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-04_fachbezug/ige-abschnitt_fachbezug.png
-   :width: 700
+Feld: Art des Dienstes
+""""""""""""""""""""""
 
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_anwendung/anwendung_kopf.png
-   :width: 500
-
-Abb.: Objektklasse Anwendung - Kopf der Erfassungsmaske
-
-
-Art des Dienstes
-''''''''''''''''
-
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_anwendung/fachbezug_art-des-dienstes.png
-
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_informationssystem/fachbezug_dienstart.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Auswahlfeld - Art des Dienstes
 
-In diesem Feld muss die Art des Dienstes ausgewählt werden. Es stehen folgende Einstellungen zur Verfügung: "Informationssystem", "nicht geographischer Dienst" und "Anwendung". 
 
-Sollte es sich bei Ihrem Dienst um einen geographischen Dienst handeln, wählen Sie bitte bei der Erstellung einer neuen Objektklasse die Option "Geodatendienst" aus.
+Bitte wählen Sie in diesem Feld die Art des Dienstes aus.
 
-Beispiel: Informationssystem, nicht geographischer Dienst, Anwendung
+Folgende Einstellungen stehen zur Verfügung: 
+
+  - Anwendung
+  - Informationssystem
+  - nicht geographischer Dienst
+
  
  
 Version
-'''''''
+"""""""
 
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_anwendung/fachbezug_version.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_informationssystem/fachbezug_version.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 
-Abb.: Eingabezeile - Version
+Abb.: Eingabezeile für die Version
 
-Angaben zu Version des beschriebenen Dienstes (Bitte tragen Sie alle Versionen ein, die vom Dienst unterstützt werden).
+
+Versionsangaben des Dienstes. Bitte geben Sie sämtliche unterstützten Versionen des Dienstes an und bestätigen Sie jede Eingabe mit Enter.
 
  
-Systemumgebung
-''''''''''''''
+Weitere Informationen
+"""""""""""""""""""""
 
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_anwendung/fachbezug_systemumgebung.png
+**Feld: Systemumgebung**
 
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_informationssystem/fachbezug_weitere-informationen.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Textfeld - Systemumgebung
 
-Angaben zum Betriebssystem und der Software, ggf. auch Hardware, die zur Implementierung des Dienstes eingesetzt wird.
+Systemumgebung - Informationen über das Betriebssystem, die Software und ggfs. Hardware, die für die Implementierung des Dienstes verwendet wird.
 
 Beispiel:
-Android: Mindestens Android minSdkVersion="15" (ab 4.0.3 Ice Cream Sandwich)
-Für Android Wear Unterstützung wird mindestens 4.4W benötigt (KitKat Wear Edition, letzte Version vor 5.0 Lollipop) Verfügbar für Android-Geräte ab Android Version 2.3.3, optimiert für Version 4.0 und neuer.
+
+Die empfohlene Plattform ist Linux (Ubuntu/Redhat).
+
+Das System kann auch unter Windows installiert werden. Dies macht jedoch die Installation von CYGWIN erforderlich.
+Systemvoraussetzungen
+
+| JAVA 17 JDK (z.B. OpenJDK)
+| Cygwin (unter Windows)
+| MySQL, ORACLE oder PostgreSQL (ab InGrid 4.0.2)
+
+Basisinstallation
+
+Diese Konfiguration wird nur für einfache Systeme ohne hohe Last oder zum Testen empfohlen.
+
+| Dual Core CPU
+| 4 GB RAM
+| 10 GB Plattenplatz
+
+Typische Installation
+
+| Quad Core CPU
+| 8 GB RAM
+| 100 GB Plattenplatz
+
 
  
-Historie
-'''''''''
+**Feld: Historie**
 
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_anwendung/fachbezug_historie.png
+Entwicklungsangaben: Hier können Vorläufer und Folgedienste oder -anwendungen bzw. -systeme genannt werden. Auch Informationen zu Initialforschungsprojekten oder -programmen sind von Interesse.
+
+Beispiel: 
+
+| **IGE-NG - InGrid Editor neue Generation (Webanwendung)**
+
+  - Konzeption: 2021
+  - Entwicklung: seit 2022
+  - Anwendungsbeispiele:
+
+METAVER (MetadatenVerbund) - ist das gemeinsame Metadatenportal der Länder Brandenburg, der Freien Hansestadt Bremen, der Freien und Hansestadt Hamburg, Hessen, Mecklenburg-Vorpommern, des Saarlands, Sachsens und Sachsen-Anhalts.
+
+UVP-Portal der Länder -  Informationen zu UVP-pflichtigen Vorhaben, deren Verfahrensstand, Auslegungs- und Erörterungsterminen, eingestellten Unterlagen, Berichten und Empfehlungen sowie der anschließenden Entscheidung in den Bundesländern.
+
+| **Vorläufer: IGE - InGrid Editor (Webanwendung)**
+
+  - Entwicklung seit 2006 bis 2023 Version 6.2
+  - Verwendung: PortalU (Umweltportal Deutschland)
+
+PortalU war ein Online-Dienst der Umweltverwaltungen des Bundes und der Länder Deutschlands.
+
+| **Vorläufer: Umweldatenkatalog (UDK) 1996 - 2015**
+
+  - Windows UDK mit UDK-Explorer, HTML-UDK
+  - Desktopanwendung, Client-Server Version, Web-UDK
+  - Verwendung: German Environmental Information Network - GEIN (Portal - Umweltinformationsnetz Deutschland)
+
+GEIN vereinte ein breites Spektrum an Umweltinformationen von öffentlichen Einrichtungen und Behörden im Internet, die zuvor nur über zahlreiche individuelle Websites erreichbar waren.  
+
+| **Konzeption Umweltdatenkatalog (UDK) 1991 - 1995**
+
+  - Konzeption im Niedersächsischen Umweltministerium
+
+Der Umweltdatenkatalog (UDK) ist ein System zur Metadatenbeschreibung von Umweltdaten der öffentlichen Verwaltung. 
 
 
-Abb.: Textfeld -. Systemumgebung
 
-Angabe zur Entwicklungsgeschichte. Hier können Vorläufer und Folgedienste bzw. -anwendungen oder -systeme genannt werden. Ebenso sind Angaben zu initiierenden Forschungsvorhaben oder -programmen von Interesse.
 
-Beispiel: Version 2.9 veröffentlicht am 01.03.2018
-Neue Funktionen: In-App-Notification, scollbare Objektinfo, Speicherung Kontaktdaten, Umkreissuche für Flächen - UMO-Dienst (die Abkürzung steht für Umweltobjekte z.B. Geotope, Naturdenkmäler, Natura 2000-Gebiete oder auch Badegewässer)
 
-Beispiel: Messdaten, Sensordaten, Umweltdaten, POIs, Klimadaten (Zeitreihen), GPS*
+
+
+
 
 Basisdaten
 ''''''''''
