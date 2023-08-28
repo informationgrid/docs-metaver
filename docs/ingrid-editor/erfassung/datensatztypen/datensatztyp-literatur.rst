@@ -18,19 +18,13 @@ Mit dem Datensatztyp Literatur können Leitfäden, Handlungsempfehlungen, Berich
 Abschnitt Fachbezug
 -------------------
 
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_dokument/dokument_kopf.png
+Feld: Autor/Verfasser
+^^^^^^^^^^^^^^^^^^^^^
 
-Abb.: Objektklasse Dokument - Kopf der Erfassungsmaske
-
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_datenbank/datenbank_kopf.png
-   :width: 500
-
-
-Autor/Verfasser
-^^^^^^^^^^^^^^^
-
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_dokument/dokument_autor-verfasser.png
-   :width: 500
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_autor-verfasser.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Textfeld - Autor/Verfasser
 
@@ -41,11 +35,13 @@ Angabe des Autors bzw. des Verfassers der Literatur. Der Eintrag mehrerer Person
 Angabe der zuständigen Kontaktperson in der Reihenfolge Name, Vorname, Titel durch Trennzeichen getrennt.
 
 
-Herausgeber
-^^^^^^^^^^^
+Feld: Herausgeber
+^^^^^^^^^^^^^^^^^
 
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_dokument/dokument_herausgeber.png
-   :width: 500
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_herausgeber.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Eingabezeile - Herausgeber
 
@@ -56,13 +52,8 @@ Angabe des Herausgebers. Der Herausgeber ist z. B. die Institution, in der ein A
 Name der zuständigen Kontaktperson in der Reihenfolge Name, Vorname, Titel durch Trennzeichen getrennt
 
 
-Erscheinung
-^^^^^^^^^^^
-
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_dokument/dokument_erschienen-in.png
-
-Abb.: Eingabezeile - Erschienen in
-
+Feld: Erscheinung
+^^^^^^^^^^^^^^^^^
 
 Angabe des Sammelwerkes, in dem ein Aufsatz erschienen ist. Aufsätze und andere nicht selbständige Literatur sind häufig als Teil einer Zeitschrift oder eines Buches erschienen oder als gedruckte Version eines Vortrages im Rahmen einer Tagung. Hier ist der Titel der Zeitschrift bzw. des Sammelwerkes (Tagungsband (Proceedings), Jahresberichte etc.) anzugeben, in der bzw. in dem die beschriebene Literatur erschienen ist. Unter diesem Titel kann ein Artikel beim Herausgeber bezogen werden.
 
@@ -71,15 +62,25 @@ Angabe des Sammelwerkes, in dem ein Aufsatz erschienen ist. Aufsätze und andere
 Bezeichnung der Serie oder des Gesamtdatenbestands, wozu der Datenbestand gehört.
 
 
-Erschienen in ...
-"""""""""""""""""
+Feld: Erschienen in ...
+"""""""""""""""""""""""
+
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_erschienen-in.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Erschienen in
 
 
 
-Erscheinungsort
-"""""""""""""""
+Feld: Erscheinungsort
+""""""""""""""""""""""
 
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_dokument/dokument_erscheinungsort.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_erschinungsort.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Eingabezeile - Erscheinungsort
 
@@ -89,10 +90,13 @@ Angabe des Publikationsortes der Literatur. Diese Angabe bezieht sich auf die Li
 Beispiel: Hamburg - Ortsname (Stadt, Gemeinde)
 
 
-Band, Heft
-""""""""""
+Feld: Band, Heft
+""""""""""""""""
 
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_dokument/dokument_band-heft.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_band-heft.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Eingabezeile - Band, Heft
 
@@ -101,10 +105,13 @@ Angabe der Zählung des betreffenden Bandes einer Reihe. Zeitschriften und Samme
 **Beispiel:** *Band IV (Kennung eines Elements einer Serie)*
 
 
-Seiten
-""""""
+Feld: Seiten
+""""""""""""
 
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_dokument/dokument_seiten.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_seitenpng
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Eingabezeile - Seiten
 
@@ -114,10 +121,13 @@ Angabe der Anzahl der Seiten der Literatur. Hier ist die Anzahl der Seiten anzug
 Beispiel: 345; 256-268 (Seitenangabe zum Artikel in einer Publikation)*
 
 
-Erscheinungsjahr
-""""""""""""""""
+Feld: Erscheinungsjahr
+"""""""""""""""""""""""
 
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_dokument/dokument_erscheinungsjahr.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_erscheinungsjahr.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Eingabezeile - Erscheinungsjahr
 
@@ -127,10 +137,13 @@ Angabe der Jahreszahl der Publikation der Literatur. Das Erscheinungsjahr ist vo
 Beispiel: 1996 (Erscheinungsdatum der Ausgabe oder der Version)
 
 
-Standort
-^^^^^^^^
+Feld: Standort
+^^^^^^^^^^^^^^
 
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_dokument/dokument_standort.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_standort.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Textfeld - Standort
 
@@ -140,10 +153,13 @@ Angabe des Aufbewahrungsortes und evtl. Bezugsort der Literatur, für den Fall, 
 Beispiel: Bibliothek Umweltbundesamt (zusätzliche Angaben wie oder wann die verantwortliche Person oder Organisation zu erreichen ist)
 
 
-ISBN-Nr.
-^^^^^^^^
+Feld: ISBN-Nr.
+^^^^^^^^^^^^^^
 
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_dokument/dokument_isbn-nr.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_isbn.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Eingabezeile - ISBN-Nr.
 
@@ -152,10 +168,13 @@ Angabe der 10-stelligen Identifikationsnummer der Literatur.
 Beispiel: 3-456-7889-X (Internationale Standardbuchnummer)
 
 
-Verlag
-^^^^^^
+Feld: Verlag
+^^^^^^^^^^^^
 
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_dokument/dokument_verlag.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_verlag.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Eingabezeile - Verlag
 
@@ -164,10 +183,13 @@ Angabe des Verlages, in dem die Literatur erschienen ist.
 Beispiel: econ (Bezeichnung der verantwortlichen Organisation)
 
 
-Dokumententyp
-^^^^^^^^^^^
+Feld: Dokumententyp
+^^^^^^^^^^^^^^^^^^^
 
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_dokument/dokument_dokumententyp.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_autor-dokumententyp.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Auswahlfeld - Dokumententyp
 
@@ -177,10 +199,13 @@ Angabe der Art des Dokumentes. Es ist eine Kurzcharakteristik über die Art der 
 Beispiel: Zeitschriftenartikel (Format der Ressource: Formatbeschreibung der Ressource)*
 
 
-Basisdaten
-^^^^^^^^^^
+Feld: Basisdaten
+^^^^^^^^^^^^^^^^
 
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_dokument/dokument_basisdaten.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_basisdaten.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Textfeld - Basisdaten
 
@@ -189,14 +214,17 @@ Verweis auf zugrunde liegende Daten. Hier sollen Verweise zu anderen Objekten di
 Beispiel: Deponieüberwachung Berlin-Tegel, Statistikauswertungen seit 1974 (detaillierte Beschreibung der Ebene der Quelldaten)
 
 
-Weiteres
-^^^^^^^^
+Feld: Weiteres
+^^^^^^^^^^^^^^
 
 
-Weitere bibliographische Angaben
-""""""""""""""""""""""""""""""""
+Feld: Weitere bibliographische Angaben
+""""""""""""""""""""""""""""""""""""""
 
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_dokument/dokument_weitere-bibliographische-angaben.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_bibliographische-angaben.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Textfeld - Weitere bibliographische Angaben
 
@@ -205,10 +233,13 @@ Hier können bibliographische Angaben gemacht werden, für die kein Feld explizi
 Beispiel: Das Kartenwerk ist im DIN A3-Format erschienen. (Information, welche für eine vollständige Ressourcenbeschreibung benötigt wird und in keinem anderen Metadatenelement erfasst wurde.)
 
 
-Erläuterungen
-"""""""""""""
+Feld: Erläuterungen
+"""""""""""""""""""
 
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_dokument/dokument_erlaeuterungen.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_erlaeuterungen.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Textfeld - Erläuterungen
 
