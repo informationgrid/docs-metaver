@@ -25,7 +25,7 @@ Feld: Beteiligte
    :scale: 50
    :figwidth: 100%
 
-Abb.: Textfeld für die Angabe von Personen oder Organisationen
+Abb.: Beispiel - Angabe von Personen oder Organisationen
 
 Angabe von Personen oder Organisationen, die an dem Projekt, Programm oder Vorhaben beteiligt sind. Der Eintrag soll Hinweise auf wichtige Institutionen oder Personen geben, die beteiligt waren oder sind und über die ggf. nähere Informationen eingeholt werden können. Über "Adressen HINZUFÜGEN" können weitere Adressen oder Organisationen gesucht oder über die Ordnerstruktur ausgewählt werden.
 
@@ -38,7 +38,7 @@ Feld: Projektleiter
    :scale: 50
    :figwidth: 100%
 
-Abb.: Angabe des Projektleiters
+Abb.: Beispiel - Angabe des Projektleiters
 
 Weitere Adressen können über den Link "Adresse HINZUFÜGEN" gesucht oder über die Objektstruktur ausgewählt werden, sofern sie zuvor angelegt wurden.
 
