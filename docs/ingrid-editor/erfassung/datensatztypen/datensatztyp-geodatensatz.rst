@@ -6,7 +6,7 @@ Geodatensatz
     :header: "Portal", "Editor"
     :widths: 20, 20
 
-.. figure:: ../../../img/ige/icons/datensatztypen/portal/geodatensatz.png, .. figure:: ../../../img/ige/icons/datensatztypen/ige/geodatensatz.png
+.. image:: ../../../img/ige/icons/datensatztypen/portal/geodatensatz.png, .. image:: ../../../img/ige/icons/datensatztypen/ige/geodatensatz.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -174,8 +174,8 @@ Auswahlliste: Raster, Gitter, Stereomodell, Text, Tabelle, TIN, Vektor, Video
 Abb.: Auswahlfeld Digitale Repräsentation
 
 
-Vektor
-^^^^^^^
+Feld<: Vektorformat
+^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_vektorformat.png
    :align: left
