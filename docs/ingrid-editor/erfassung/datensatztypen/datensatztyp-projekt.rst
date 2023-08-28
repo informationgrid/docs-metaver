@@ -17,8 +17,8 @@ Der Datensatztyp Projekt wird verwendet, wenn laufende oder abgeschlossene Vorha
 Abschnitt Fachbezug
 -------------------
 
-Beteiligte
-^^^^^^^^^^
+Feld: Beteiligte
+^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_projekt/fachbezug_beteiligte.png
    :align: left
@@ -30,8 +30,8 @@ Abb.: Textfeld für die Angabe von Personen oder Organisationen
 Angabe von Personen oder Organisationen, die an dem Projekt, Programm oder Vorhaben beteiligt sind. Der Eintrag soll Hinweise auf wichtige Institutionen oder Personen geben, die beteiligt waren oder sind und über die ggf. nähere Informationen eingeholt werden können. Über "Adressen HINZUFÜGEN" können weitere Adressen oder Organisationen gesucht oder über die Ordnerstruktur ausgewählt werden.
 
 
-Projektleiter
-^^^^^^^^^^^^^
+Feld: Projektleiter
+^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_projekt/fachbezug_projektleiter.png
    :align: left
@@ -43,8 +43,8 @@ Abb.: Angabe des Projektleiters
 Weitere Adressen können über den Link "Adresse HINZUFÜGEN" gesucht oder über die Objektstruktur ausgewählt werden, sofern sie zuvor angelegt wurden.
 
  
-Erläuterungen
-^^^^^^^^^^^^^
+Feld: Erläuterungen
+^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_projekt/fachbezug_erlaeuterungen.png
    :align: left
