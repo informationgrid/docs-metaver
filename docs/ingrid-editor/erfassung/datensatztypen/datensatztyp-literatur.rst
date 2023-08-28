@@ -8,18 +8,15 @@ Literatur
 
 	 .. image:: ../../../img/ige/icons/datensatztypen/portal/literatur.png, .. image:: ../../../img/ige/icons/datensatztypen/ige/literatur.png
 
-Mit dem Datensatztyp Literatur lassen sich Leitfäden, Handlungsempfehlungen, Berichte, Gutachten, Studien, Genehmigungen, Rechtsdokumente, Broschüren, Bücher, Aufsätze oder Abschlussarbeiten beschreiben.
+Mit dem Datensatztyp Literatur können Leitfäden, Handlungsempfehlungen, Berichte, Gutachten, Studien, Genehmigungen, Rechtsdokumente, Broschüren, Bücher, Aufsätze oder Dissertationen beschrieben werden.
 
-.. important:: Die Erfassung dieses Datensatztyps erfolgt wie unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_ beschrieben. Der hier beschriebene Abschnitt Fachbezug beinhaltet für diese Objektklasse spezielle Eingabefelder.
+.. important:: Die Erfassung dieses Datensatztyps erfolgt wie unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>` beschrieben. Der hier beschriebene Abschnitt Fachbezug enthält spezielle Eingabefelder für diesen Datensatztyp.
 
-Erfassung
----------
+-----------------------------------------------------------------------------------------------------------------------
+
 
 Abschnitt Fachbezug
-^^^^^^^^^^^^^^^^^^^
-
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-04_fachbezug/ige-abschnitt_fachbezug.png
-
+-------------------
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_dokument/dokument_kopf.png
 
@@ -30,7 +27,7 @@ Abb.: Objektklasse Dokument - Kopf der Erfassungsmaske
 
 
 Autor/Verfasser
-'''''''''''''''
+^^^^^^^^^^^^^^^
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_dokument/dokument_autor-verfasser.png
    :width: 500
@@ -45,7 +42,7 @@ Angabe der zuständigen Kontaktperson in der Reihenfolge Name, Vorname, Titel du
 
 
 Herausgeber
-'''''''''''
+^^^^^^^^^^^
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_dokument/dokument_herausgeber.png
    :width: 500
@@ -59,8 +56,8 @@ Angabe des Herausgebers. Der Herausgeber ist z. B. die Institution, in der ein A
 Name der zuständigen Kontaktperson in der Reihenfolge Name, Vorname, Titel durch Trennzeichen getrennt
 
 
-Erschienen in
-'''''''''''''
+Erscheinung
+^^^^^^^^^^^
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_dokument/dokument_erschienen-in.png
 
@@ -74,8 +71,13 @@ Angabe des Sammelwerkes, in dem ein Aufsatz erschienen ist. Aufsätze und andere
 Bezeichnung der Serie oder des Gesamtdatenbestands, wozu der Datenbestand gehört.
 
 
+Erschienen in ...
+"""""""""""""""""
+
+
+
 Erscheinungsort
-'''''''''''''''
+"""""""""""""""
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_dokument/dokument_erscheinungsort.png
 
@@ -88,7 +90,7 @@ Beispiel: Hamburg - Ortsname (Stadt, Gemeinde)
 
 
 Band, Heft
-''''''''''
+""""""""""
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_dokument/dokument_band-heft.png
 
@@ -100,7 +102,7 @@ Angabe der Zählung des betreffenden Bandes einer Reihe. Zeitschriften und Samme
 
 
 Seiten
-''''''
+""""""
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_dokument/dokument_seiten.png
 
@@ -113,7 +115,7 @@ Beispiel: 345; 256-268 (Seitenangabe zum Artikel in einer Publikation)*
 
 
 Erscheinungsjahr
-''''''''''''''''
+""""""""""""""""
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_dokument/dokument_erscheinungsjahr.png
 
@@ -126,7 +128,7 @@ Beispiel: 1996 (Erscheinungsdatum der Ausgabe oder der Version)
 
 
 Standort
-''''''''
+^^^^^^^^
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_dokument/dokument_standort.png
 
@@ -139,7 +141,7 @@ Beispiel: Bibliothek Umweltbundesamt (zusätzliche Angaben wie oder wann die ver
 
 
 ISBN-Nr.
-''''''''
+^^^^^^^^
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_dokument/dokument_isbn-nr.png
 
@@ -151,7 +153,7 @@ Beispiel: 3-456-7889-X (Internationale Standardbuchnummer)
 
 
 Verlag
-''''''
+^^^^^^
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_dokument/dokument_verlag.png
 
@@ -162,8 +164,8 @@ Angabe des Verlages, in dem die Literatur erschienen ist.
 Beispiel: econ (Bezeichnung der verantwortlichen Organisation)
 
 
-Dokumenttyp
-'''''''''''
+Dokumententyp
+^^^^^^^^^^^
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_dokument/dokument_dokumententyp.png
 
@@ -175,20 +177,8 @@ Angabe der Art des Dokumentes. Es ist eine Kurzcharakteristik über die Art der 
 Beispiel: Zeitschriftenartikel (Format der Ressource: Formatbeschreibung der Ressource)*
 
 
-Weitere bibliographische Angaben
-''''''''''''''''''''''''''''''''
-
-.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_dokument/dokument_weitere-bibliographische-angaben.png
-
-Abb.: Textfeld - Weitere bibliographische Angaben
-
-Hier können bibliographische Angaben gemacht werden, für die kein Feld explizit vorgesehen ist. Dies können z.B. Angaben zu Abbildungen oder zum Format sein. Wichtig ist auch ein Hinweis, wenn dem Dokument eine Diskette oder eine CD-ROM beiliegt bzw. es identisch auf CD-ROM erschienen ist.
-
-Beispiel: Das Kartenwerk ist im DIN A3-Format erschienen. (Information, welche für eine vollständige Ressourcenbeschreibung benötigt wird und in keinem anderen Metadatenelement erfasst wurde.)
-
-
 Basisdaten
-''''''''''
+^^^^^^^^^^
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_dokument/dokument_basisdaten.png
 
@@ -199,8 +189,24 @@ Verweis auf zugrunde liegende Daten. Hier sollen Verweise zu anderen Objekten di
 Beispiel: Deponieüberwachung Berlin-Tegel, Statistikauswertungen seit 1974 (detaillierte Beschreibung der Ebene der Quelldaten)
 
 
-Erläuterung
-'''''''''''
+Weiteres
+^^^^^^^^
+
+
+Weitere bibliographische Angaben
+""""""""""""""""""""""""""""""""
+
+.. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_dokument/dokument_weitere-bibliographische-angaben.png
+
+Abb.: Textfeld - Weitere bibliographische Angaben
+
+Hier können bibliographische Angaben gemacht werden, für die kein Feld explizit vorgesehen ist. Dies können z.B. Angaben zu Abbildungen oder zum Format sein. Wichtig ist auch ein Hinweis, wenn dem Dokument eine Diskette oder eine CD-ROM beiliegt bzw. es identisch auf CD-ROM erschienen ist.
+
+Beispiel: Das Kartenwerk ist im DIN A3-Format erschienen. (Information, welche für eine vollständige Ressourcenbeschreibung benötigt wird und in keinem anderen Metadatenelement erfasst wurde.)
+
+
+Erläuterungen
+"""""""""""""
 
 .. image:: ../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_dokument/dokument_erlaeuterungen.png
 
