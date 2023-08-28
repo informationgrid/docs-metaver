@@ -24,8 +24,8 @@ Die ISO 19115 definiert einen international gültigen Standard zur Beschreibung 
 -----------------------------------------------------------------------------------------------------------------------
 
 
-Abschnitt Erweiterte Erfassung
-------------------------------
+Erweiterte Datenerfassung
+-------------------------
 
 Feld: Typ
 ^^^^^^^^^^
