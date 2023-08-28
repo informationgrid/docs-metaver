@@ -135,7 +135,7 @@ Feld: Service-URLs
 
 Abb.: Felder - Service-URLs
 
-Angaben zu der Zugriffsadresse auf den Dienst oder der Anwendung. Es soll der Name und der URL sowie eine kurzen Erläuterung zu der Adresse angegeben werden.
+Angaben zur Adresse für den Zugriff auf den Dienst oder die Anwendung. Der Name und die URL sowie eine kurze Erläuterung der Adresse sind anzugeben.
 
 Beispiel:
 
