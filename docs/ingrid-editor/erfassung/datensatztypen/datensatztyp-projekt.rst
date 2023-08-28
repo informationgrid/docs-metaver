@@ -53,4 +53,4 @@ Erläuterungen
 
 Abb.: Textfeld für Erläuterungen
 
-Weitere Angaben zum Projekt bzw. Programm oder Vorhaben. Hier können weitere wichtige Angaben eingetragen werden, z.B. Finanzierung, Förderkennzeichen, Bearbeitungsstatus. 
+Zusätzliche Angaben zu einem Projekt oder Programm.  Hier können weitere wichtige Angaben eingetragen werden, z.B. Finanzierung, Förderkennzeichen, Bearbeitungsstatus.
