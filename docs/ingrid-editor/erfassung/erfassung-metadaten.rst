@@ -8,7 +8,7 @@ Metadaten erfassen
 Metadatensätze anlegen
 -----------------------
 
-Für eine übersichtliche Verwaltung der Metadatensätze, können hierarchische Strukturen mit Ordnern angelegt werden. Zum Anlegen eines neuen Metadatensatzes muss zunächst der Ordner im Strukturbaum ausgewählt werden, unter dem der neue Metadatensatz angelegt werden soll.
+Für eine übersichtliche Verwaltung der Metadatensätze können hierarchische Strukturen mit Ordnern angelegt werden. Um einen neuen Metadatensatz anzulegen, muss zunächst der Ordner in der Ordnerstruktur ausgewählt werden, unter dem der neue Metadatensatz angelegt werden soll.
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/strukturbaum/ordner.png
    :align: left
@@ -28,7 +28,7 @@ Abb.: Symbolleiste - Neuen Datensatz anlegen / Ordner erstellen
 
 Um einen neuen Metadatensatz zu veröffentlichen, müssen alle Pflichtfelder ausgefüllt werden.
 
-Ist der neue Metadatensatz angelegt, besteht die Möglichkeit den ihn über die Funktion "Speichern" in seinem aktuellen Bearbeitungsstand zu sichern. Der Metadatensatz erscheint in der Farbe Orange im Strukturbaum.
+Nachdem der neue Metadatensatz angelegt wurde, kann er über die Funktion "Speichern" in seinem aktuellen Bearbeitungsstand gespeichert werden. Der Metadatensatz wird in der Ornerstruktur orange dargestellt.
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/symbolleiste/speichern.png
    :align: left
@@ -37,7 +37,7 @@ Ist der neue Metadatensatz angelegt, besteht die Möglichkeit den ihn über die 
 
 Abb.: Symbolleiste -  Speichern
 
-Sind alle Pflichtfelder und erforderliche optionale Felder ausgefüllt, kann der neue Metadatensatz mit "Abschließendes Speichern & Veröffentlichen", gemäß der ausgewählten Veröffentlichungsbreite, freigegeben werden. Der Metadatensatz erschein dann im Strukturbaum in der Farbe Schwarz.
+Wenn alle Pflichtfelder und alle erforderlichen optionalen Felder ausgefüllt sind, kann der neue Metadatensatz mit "Speichern & Veröffentlichen" entsprechend der gewählten Veröffentlichungsbreite freigegeben werden. Der Metadatensatz erscheint dann im Gliederungsbaum in schwarzer Farbe.
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/symbolleiste/veroeffentlichen.png
    :align: left
@@ -118,9 +118,9 @@ Metadaten (-Kopf) zum Metadatensatz
 - **Verantwortlich:** zuständiger Bearbeiter für die Metadaten (Wird automatisch bei der Erstellung gesetzt, kann aber geändert werden.)
 - **Metadaten-Datum:** Datum der veröffentlichten Version (wird automatisch gesetzt)
 
-**Verantwortlich:** Hier wird automatisiert der Erfasser eingetragen, der das Objekt angelegt hat. An dieser Stelle sollte jedoch die Person stehen, die für die Aktualisierung zuständig ist. In der Regel ist der Erfasser auch die fachlich Verantwortliche Person (Standardeinstellung).
+**Verantwortlich:** Hier wird automatisch der Erfasser eingetragen, der das Objekt angelegt hat. Hier sollte jedoch die für die Aktualisierung verantwortliche Person eingetragen werden. In der Regel ist der Erfasser auch der fachlich Verantwortliche (Standardeinstellung).
 
-**Metadaten-Datum:** Datum, zu dem der Metadatensatz veröffentlicht wurde. Dieses Datum wird immer dann aktualisiert, wenn ein Metadatensatz veröffentlicht wird und dieser sich geändert hat. Die Änderung eines Metadatensatzes wird anhand der Änderung von Inhalt und Struktur erkannt. Dazu wird ein Fingerabdruck der ISO 19139 XML Daten erstellt und gespeichert. Das Metadaten-Datum wird nur aktualisiert, wenn sich bei einer Veröffentlichung auch der Fingerabdruck ändert. Dadurch wird sichergestellt, dass das Metadaten-Datum auch nicht-inhaltliche Änderungen reflektiert, die sich z.B. durch eine Anpassung der Struktur des Metadatensatzes ergibt. Dies ist wichtig, weil nachfolgende Systeme sich auf dieses Datum beziehen, um z.B. geänderte Metadatensätze zu ermitteln.
+**Metadaten-Datum:** Datum, an dem der Metadatensatz veröffentlicht wurde. Dieses Datum wird jedes Mal aktualisiert, wenn ein Metadatensatz veröffentlicht wird und sich geändert hat. Die Änderung eines Metadatensatzes wird anhand der Änderung von Inhalt und Struktur erkannt. Dazu wird ein Fingerprint der ISO 19139 XML-Daten erstellt und gespeichert. Der Metadatensatz wird nur dann aktualisiert, wenn sich der Fingerprint bei einer Veröffentlichung ändert. Damit wird sichergestellt, dass das Metadatendatum auch nicht inhaltliche Änderungen widerspiegelt, die sich z.B. durch eine Anpassung der Struktur des Metadatensatzes ergeben. Dies ist wichtig, da nachfolgende Systeme auf dieses Datum zurückgreifen, um z.B. geänderte Metadatensätze zu identifizieren.
 
 
 -----------------------------------------------------------------------------------------------------------------------
