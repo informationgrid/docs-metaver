@@ -10,7 +10,7 @@ Datensammlung
 
 Der Datensatztyp Datenerhebung dient der Beschreibung gemessener, aufbereiteter oder erhobener Daten. Dazu gehören Messdaten, statistische Erhebungen, Modelldaten oder Anlagendaten (Dienste/Anwendungen/Informationssysteme: zentrale Informationssysteme, die in der Regel auf eine oder mehrere Datenbanken zugreifen und diese zugänglich machen).
 
-.. important:: Die Erfassung dieses Datensatztyps erfolgt wie unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>` beschrieben. Der hier beschriebene Abschnitt Fachbezug enthält spezielle Eingabefelder für diesen Datensatztyp.
+.. important:: Die Erfassung dieses Datensatztyps erfolgt wie unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_ beschrieben. Der hier beschriebene Abschnitt Fachbezug enthält spezielle Eingabefelder für diesen Datensatztyp.
 
 -----------------------------------------------------------------------------------------------------------------------
 
