@@ -19,17 +19,17 @@ Wenn ein Geodatensatz einem Geodatendienst zugeordnet wird, dann werden diese Me
 
 -----------------------------------------------------------------------------------------------------------------------
 
-Erfassung
----------
 
-Abschnitt Erweiterte Erfassung
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Erweiterte Datenerfassung
+-------------------------
 
 Funktion: Der GetCapabilities-Assistent
-"""""""""""""""""""""""""""""""""""""""
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilties-assistent_symbol.png
-   :width: 5%
+   :align: left
+   :scale: 50
+   :figwidth: 100%
    
 Abb.: GetCapabilitie-Assistent - Symbol (Zauberstab) in der Symbolleiste
 
@@ -40,7 +40,7 @@ Abb.: GetCapabilitie-Assistent - Symbol (Zauberstab) in der Symbolleiste
 
 
 Feld: Typ
-"""""""""
+^^^^^^^^^
 
 Unter Typ können weitere Eigenschaften (Eingabefelder) für den Metadatensatz festgelegt werden.
 
@@ -49,7 +49,9 @@ Unter Typ können weitere Eigenschaften (Eingabefelder) für den Metadatensatz f
 .. `(InVeKoS) <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/invekos.html>`_
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/typ_optionen.png
-   :width: 100%
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Optionen für weitere Eigenschaften
 
@@ -57,14 +59,14 @@ Abb.: Optionen für weitere Eigenschaften
 -----------------------------------------------------------------------------------------------------------------------
 
 Abschnitt Allgemeines
-^^^^^^^^^^^^^^^^^^^^^
+---------------------
 
 .. hint:: Dieser Abschnitt ist unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_ beschrieben.
 
 -----------------------------------------------------------------------------------------------------------------------
 
 Abschnitt Verschlagwortung
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------
 
 .. hint:: Dieser Abschnitt ist unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_ beschrieben.
 
@@ -75,13 +77,15 @@ Abschnitt Verschlagwortung
 -----------------------------------------------------------------------------------------------------------------------
 
 Abschnitt Fachbezug
-^^^^^^^^^^^^^^^^^^^
+-------------------
 
 Feld: Klassifikation des Dienstes
-"""""""""""""""""""""""""""""""""
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_klassifikation.png
-   :width: 70%
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Feld "Klassifikation des Dienstes"
 
@@ -92,12 +96,14 @@ Aus der vorgegebenen Auswahlliste ist der Eintrag zu wählen, der auf den Dienst
 
 
 Feld: Art des Dienstes
-""""""""""""""""""""""
+^^^^^^^^^^^^^^^^^^^^^^
 
 In diesem Pflichtfeld kann die Art des Dienstes ausgewählt werden. Über das Feld werden die zur weiteren Befüllung auszuwählenden Angaben zu Operationen gesteuert (siehe Tabelle unter Punkt: Name der Operation).
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_dienstart.png
-   :width: 70%
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Feld "Art des Dienstes"
 
@@ -115,14 +121,16 @@ Beispiel: Darstellungsdienst (automatischer Eintrag in Konformität/Spezifikatio
 
 
 Feld: Version des Dienstes
-""""""""""""""""""""""""""
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Angaben zur Version der Spezifikation, die dem Dienst zugrunde liegt
 
 Bitte alle Versionen eintragen, die vom Dienst unterstützt werden.
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_dienstversion.png
-   :width: 40%
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Feld "Version des Dienstes"
 
@@ -132,13 +140,15 @@ Beispiele Downloaddienste: OGC: WFS 2.0, WFS 1.1.0, predefined ATOM
 
 
 ATOM-Downloaddienste erstellen
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------
 
 Option: Als ATOM-Download Dienst bereitstellen
-""""""""""""""""""""""""""""""""""""""""""""""
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/atom-downloaddienst/fachbezug_als-atomdownloaddienst-bereitstellen.png
-   :width: 30%
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Checkbox "Als ATOM-Download Dienst bereitstellen"
 
@@ -146,27 +156,31 @@ Abb.: Checkbox "Als ATOM-Download Dienst bereitstellen"
 
 
 Anwendung: Der ATOM-Feed Client
-""""""""""""""""""""""""""""""""
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. seealso:: Beschreibung des `Atom-Feed Clients <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/atom-feed/client.html>`_
 
 
 Feld: Operationen
-"""""""""""""""""
+^^^^^^^^^^^^^^^^^
 
 Die Eingabefelder für die Operationen wurden im neuen Editor vereinfacht. Im Feld "Name" muss die getCapabilitie-URL eingetragen werden, in das Feld "Beschreibung" wird die Bezeichnung für den Dienst eingetragen und in das Feld "Zugriffs-URL" die entsprechende URL.
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_operationen.png
-   :width: 100%
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Felder für Operationen
 
 
 Feld: Erstellungsmaßstab
-"""""""""""""""""""""""""
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_erstellungsmassstab.png
-   :width: 100%
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Erstellungsmaßstab
 
@@ -176,10 +190,12 @@ Beispiel: Bodenauflösung: Auflösungseinheit in Linien/cm; Einheit: z.B. 1 cm g
 
 
 Felder: Systemumgebung & Historie
-"""""""""""""""""""""""""""""""""
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_systemumgebung_historie.png
-   :width: 100%
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Felder "Systemumgebung und Historie"
 Feld Systemumgebung: Angaben zum Betriebssystem und der Software, ggf. auch Hardware, die zur Implementierung des Dienstes eingesetzt wird.
@@ -188,10 +204,12 @@ Feld Historie: Angaben zur Implementierungsgeschichte des Dienstes.
 
 
 Feld: Erläuterungen
-"""""""""""""""""""
+^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_erlaeuterungen.png
-   :width: 100%
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Feld "Erläuterungen"
 
@@ -203,18 +221,20 @@ Beispiel: Der Datensatz ist eine ...-Datei, die alle Grundwassermessstellen in (
 -----------------------------------------------------------------------------------------------------------------------
 
 Daten-Dienstekopplung
-^^^^^^^^^^^^^^^^^^^^^
+---------------------
 
 Felder für Dargestellte Daten
-"""""""""""""""""""""""""""""
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_dargestellte-daten.png
-   :width: 100%
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Felder für Dargestellte Daten
 
 Feld: Dargestellte Daten
-''''''''''''''''''''''''
+""""""""""""""""""""""""
 
 Beschreibung Herkunft und Art der zugrundeliegenden Daten. Bei einem OGC Web Service können Verweise auf ein oder mehrere Geodatensätze eingefügt werden, die mit dem Dienst verknüpft sind. Im Allgemeinen sind dies die Datensätze, auf die der Dienst aufgesetzt ist. Allgemein sollen die Herkunft oder die Ausgangsdaten der Daten beschrieben werden, die in dem Dienst benutzt, werden.
 
@@ -226,16 +246,18 @@ Die Angabe eines Textes beschreibt die dargestellten Daten in Form eines Textes.
 
 
 Feld: Kopplungstyp
-''''''''''''''''''
+""""""""""""""""""
 
 Die Art der Kopplung vom Service zu den Daten. Der Typ 'tight' bewirkt, dass ein Verweis zu einem Datensatz existieren muss.
 
 
 Option: Zugang geschützt
-""""""""""""""""""""""""
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_zugang-geschuetzt.png
-   :width: 30%
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Option Zugang geschützt
 
@@ -245,13 +267,15 @@ Die Option "Zugang geschützt" sollte aktiviert werden, wenn der Zugang zu dem D
 -----------------------------------------------------------------------------------------------------------------------
 
 Abschnitt Zusatzinformation
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------
 
 Feld: Konformität
-"""""""""""""""""
+^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/zusatzinformation_konformitaet.png
-   :width: 100%
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Konformität
 
