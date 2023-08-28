@@ -2,6 +2,12 @@
 Informationssystem
 ==================
 
+.. csv-table::
+    :header: "Portal", "Editor"
+    :widths: 20, 20
+
+.. image:: ../../../img/ige/icons/datensatztypen/portal/informationssystem.png, .. image:: ../../../img/ige/icons/datensatztypen/ige/informationssytem.png
+
 Mit dem Datensatztyp Informationssystem können Softwareprodukte, Webanwendungen oder zentrale Auskunfts- und Informationssysteme im Metadatenkatalog beschrieben werden.
 
 .. important:: Die Erfassung dieser Objektklasse erfolgt wie unter `Erfassung von Objekten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html>`_ beschrieben. Der hier beschriebene Abschnitt Fachbezug enthält spezielle Eingabefelder für diesen Datensatztyp.
