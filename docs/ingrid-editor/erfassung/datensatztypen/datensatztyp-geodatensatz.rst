@@ -10,13 +10,13 @@ Geodatensatz
 
 Der Datensatztyp Geodatensatz dient der Beschreibung von Daten mit direktem oder indirektem Raumbezug (digital oder analog).
 
-Beispiele: GIS-Daten, analoge Karten oder Kartenwerke
+Beispiele sind: GIS-Daten, analoge Karten oder Kartenwerke
 
-Die Metadaten werden nach der ISO-Norm 19115 „Geographic Information – Metadata“ erfasst.
+Metadaten werden nach der ISO-Norm 19115 „Geographic Information - Metadata“ erfasst.
 
-Die ISO 19115 definiert einen international gültigen Standard zur Beschreibung geographischer Informationen und zugehöriger Dienstleistungen. Mit dieser Norm soll es ermöglicht werden, Geodaten anhand von Metadaten so zu beschreiben, dass damit ihre Eignung für bestimmte Anwendungszwecke beurteilt, oder auch sinnvolle Präsentations- und Verarbeitungsmethoden abgeleitet werden können. Das Schema der ISO 19115 beinhaltet u. a. Informationen über den Inhalt, räumlich-zeitliche Bezüge, Datenqualität, Datenzugangsmöglichkeit oder Nutzungsrechte. (Quelle: `Wikipedia <https://de.wikipedia.org/wiki/ISO_19115>`_)
+Die ISO 19115 definiert einen international gültigen Standard zur Beschreibung von Geoinformationen und zugehörigen Diensten. Dieser Standard soll es ermöglichen, Geodaten mit Hilfe von Metadaten so zu beschreiben, dass ihre Eignung für bestimmte Anwendungszwecke beurteilt werden kann oder auch sinnvolle Präsentations- und Verarbeitungsmethoden abgeleitet werden können. Das Schema der ISO 19115 enthält u.a. Informationen über den Inhalt, den raum-zeitlichen Bezug, die Datenqualität, die Zugriffsmöglichkeiten auf die Daten oder die Nutzungsrechte. (Quelle: `Wikipedia <https://de.wikipedia.org/wiki/ISO_19115>`_)
 
-.. note:: Die Erfassung dieses Datensatztyps erfolgt wie unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.htm>`_  beschrieben. Der hier beschriebene Abschnitt Fachbezug beinhaltet für diesen Datensatztyp spezielle Eingabefelder.
+.. note:: Die Erfassung dieses Datensatztyps erfolgt wie unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.htm>` beschrieben. Der hier beschriebene Abschnitt Fachbezug enthält spezielle Eingabefelder für diesen Datensatztyp.
 
 -----------------------------------------------------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@ Erweiterte Datenerfassung
 Feld: Typ
 ^^^^^^^^^^
 
-Unter Typ können weitere Eigenschaften (Eingabefelder) für den Metadatensatz festgelegt werden.
+Unter Typ können weitere Eigenschaften (Eingabefelder) für den Metadatensatz definiert werden.
 
 .. seealso:: Beschreibungen zu den Optionen: `INSPIRE-relevant | <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/inspire-relevant.html>`_ `AdV kompatibel | <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/adv-kompatibel.html>`_ `Open Data <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/opendata.html>`_
 
@@ -44,7 +44,7 @@ Abb.: Optionen für weitere Eigenschaften
 Feld: Datensatz/Datenserie
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Es wird unterschieden, ob es sich bei den beschriebenen Daten um einen einzelnen Datensatz mit bestimmtem räumlichen Bezug oder um eine Datenserie mit einheitlichem thematischen Bezug und mehreren Datensätzen mit unterschiedlichem räumlichen Bezug handelt.
+Es wird unterschieden, ob es sich bei den beschriebenen Daten um einen einzelnen Datensatz mit einem bestimmten räumlichen Bezug oder um eine Datenserie mit einem einheitlichen thematischen Bezug und mehreren Datensätzen mit unterschiedlichen räumlichen Bezügen handelt.
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_datensatz-datenserie.png
    :align: left
@@ -69,7 +69,7 @@ Abschnitt Verschlagwortung
 Feld: ISO 19115 - Themenkategorie
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Dieses Feld verlangt die Angabe von Themen, welche die Daten beschreiben.
+Dieses Feld erfordert die Angabe von Themen, die die Daten beschreiben.
 Die Auswahl erfolgt über die vorgegebene Auswahlliste.
 
 `Auswahlliste - ISO 19115 Themenkategorien <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/auswahllisten/auswahlliste_verschlagwortung_iso-themenkategorie.html>`_
@@ -85,10 +85,10 @@ Abb.: Auswahlfeld ISO Themenkategorie
 Optionale Verschlagwortung
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. hint:: Die Erfassung von freien bzw. optionalen Schlagworten und die Schlagwortanalyse sind unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html#abschnitt-verschlagwortung>`_ beschrieben.
+.. hint:: Die Erfassung von freien bzw. optionalen Schlagwörtern und die Schlagwortanalyse sind unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html#abschnitt-verschlagwortung>`_ beschrieben.
 
 
-.. seealso:: Beschreibungen zu den Optionen: `INSPIRE-relevant | <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/inspire-relevant.html>`_ `AdV kompatibel | <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/adv-kompatibel.html>`_ `Open Data <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/opendata.html>`_
+Beschreibung der Optionen: `INSPIRE-relevant | <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/inspire-relevant.html>`_ `AdV-kompatibel | <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/adv-kompatibel.html>`_ `Open Data <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/opendata.html>`_
 
 .. `(InVeKoS) <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/invekos.html>`_
 
