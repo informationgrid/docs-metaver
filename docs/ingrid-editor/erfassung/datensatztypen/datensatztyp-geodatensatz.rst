@@ -6,7 +6,10 @@ Geodatensatz
     :header: "Portal", "Editor"
     :widths: 20, 20
 
-    .. image:: ../../../img/ige/icons/datensatztypen/portal/geodatensatz.png, .. image:: ../../../img/ige/icons/datensatztypen/ige/geodatensatz.png
+.. figure:: ../../../img/ige/icons/datensatztypen/portal/geodatensatz.png, .. figure::../../../img/ige/icons/datensatztypen/ige/geodatensatz.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Der Datensatztyp Geodatensatz dient der Beschreibung von Daten mit direktem oder indirektem Raumbezug (digital oder analog).
 
@@ -20,14 +23,12 @@ Die ISO 19115 definiert einen international gültigen Standard zur Beschreibung 
 
 -----------------------------------------------------------------------------------------------------------------------
 
-Erfassung
----------
 
 Abschnitt Erweiterte Erfassung
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------------
 
 Feld: Typ
-"""""""""
+^^^^^^^^^^
 
 Unter Typ können weitere Eigenschaften (Eingabefelder) für den Metadatensatz festgelegt werden.
 
@@ -36,23 +37,29 @@ Unter Typ können weitere Eigenschaften (Eingabefelder) für den Metadatensatz f
 .. `(InVeKoS) <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/invekos.html>`_
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/typ_optionen.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Optionen für weitere Eigenschaften
 
 
 Feld: Datensatz/Datenserie
-""""""""""""""""""""""""""
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Es wird unterschieden, ob es sich bei den beschriebenen Daten um einen einzelnen Datensatz mit bestimmtem räumlichen Bezug oder um eine Datenserie mit einheitlichem thematischen Bezug und mehreren Datensätzen mit unterschiedlichem räumlichen Bezug handelt.
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_datensatz-datenserie.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
  
 Abb.: Auswahlfeld Datensatz / Datenserie
 
 -----------------------------------------------------------------------------------------------------------------------
 
 Abschnitt Allgemeines
-^^^^^^^^^^^^^^^^^^^^^
+---------------------
 
 .. hint:: Dieser Abschnitt ist unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_ beschrieben.
 
@@ -60,10 +67,10 @@ Abschnitt Allgemeines
 -----------------------------------------------------------------------------------------------------------------------
 
 Abschnitt Verschlagwortung
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+--------------------------
 
 Feld: ISO 19115 - Themenkategorie
-""""""""""""""""""""""""""""""""""
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Dieses Feld verlangt die Angabe von Themen, welche die Daten beschreiben.
 Die Auswahl erfolgt über die vorgegebene Auswahlliste.
@@ -71,12 +78,15 @@ Die Auswahl erfolgt über die vorgegebene Auswahlliste.
 `Auswahlliste - ISO 19115 Themenkategorien <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/auswahllisten/auswahlliste_verschlagwortung_iso-themenkategorie.html>`_
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/verschlagwortung_iso-themenkategorie.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Auswahlfeld ISO Themenkategorie
 
 
 Optionale Verschlagwortung
-''''''''''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. hint:: Die Erfassung von freien bzw. optionalen Schlagworten und die Schlagwortanalyse sind unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html#abschnitt-verschlagwortung>`_ beschrieben.
 
@@ -89,10 +99,10 @@ Optionale Verschlagwortung
 -----------------------------------------------------------------------------------------------------------------------
 
 Abschnitt Fachbezug
-^^^^^^^^^^^^^^^^^^^
+-------------------
 
 Feld: Fachliche Grundlage
-"""""""""""""""""""""""""
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
 (INSPIRE-Pflichtfeld für Datasets und Data series)
 
@@ -108,7 +118,9 @@ Die Grunddatenerfassung erfolgte durch Digitalisierung der Übersichtskarte 1:50
 ATKIS Basis-DLM der Bundesländer, der Digitalen Topographischen Karte 1:200 000 (DTK200) und anderen Quellen.
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_fachliche-grundlage.png
-   :width: 500
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Eingabefeld Fachliche Grundlage
 
@@ -117,7 +129,7 @@ Abb.: Eingabefeld Fachliche Grundlage
 
 
 Feld: Identifikator der Datenquelle
-"""""""""""""""""""""""""""""""""""
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Hier muss ein eindeutiger Name (Identifikator) für die im Geodatensatz beschriebene Datenquelle (z.B. eine Karte) vergeben/eingetragen werden. Der Identifikator soll aus einem Namensraum (=codespace), sowie einem Code bestehen. (INSPIRE-Pflichtfeld).
 Wenn der Identifikator keinen Namensraum enthält, so wird dem Identifikator bei der Abgabe der Metadaten derjenige Wert vorangestellt, welcher im Bereich Katalogverwaltung/Katalogeinstellungen unter "Namensraum des Katalogs" eingetragen ist.
@@ -138,13 +150,15 @@ Beispiel:
 
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_identifikator_01.png
-   :width: 500
+   :align: left
+   :scale: 50
+   :figwidth: 100%
  
 Abb.: Feld Identifikator der Datenquelle
 
 
 Feld: Digitale Repräsentation
-"""""""""""""""""""""""""""""
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 (optionales INSPIRE-Feld)
 
 Es kann eine Angabe der Methode erfolgen, mit der räumliche Daten präsentiert werden. Die Auswahl erfolgt über eine vorgegebene Liste.
@@ -153,14 +167,15 @@ Auswahlliste: Raster, Gitter, Stereomodell, Text, Tabelle, TIN, Vektor, Video
 
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_digitale-repaesentation.png
-   :width: 500
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
- 
 Abb.: Auswahlfeld Digitale Repräsentation
 
 
 Feld: Erstellungsmaßstab
-""""""""""""""""""""""""
+^^^^^^^^^^^^^^^^^^^^^^^^
 (optionales INSPIRE-Feld)
 
 Angabe des Erstellungsmaßstabes, der sich auf die erstellte Karte und/oder Digitalisiergrundlage bei Geodaten bezieht. 
@@ -171,71 +186,92 @@ Angabe des Erstellungsmaßstabes, der sich auf die erstellte Karte und/oder Digi
 Beispiel: Bodenauflösung: Auflösungseinheit in Linien/cm; Einheit: z.B. 1 cm geteilt durch 400 Linien multipliziert mit dem Maßstab 1:25.000 ergibt 62,5 cm als Bodenauflösung
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_erstellungsmassstab.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
  
 Abb.: Feld Erstellungsmaßstab
 
 
 Feld: Darstellender Dienst
-""""""""""""""""""""""""""
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Geodatensätze können mit Geodatendiensten gekoppelt werden. Das heißt, dass in einem Portal von einem Geodatensatz auf einen Geodendienst verwiesen wird und umgekehrt.
 Die Datenkopplung erfolgt in einem Geodatendienst. Der gekoppelte Dienst wird in der Erfassungsmaske des Geodatensatzes angezeigt.
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_darstellender-dienst.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
  
 Abb.: Feld Darstellender Dienst
 
 
 Feld: Datengrundlage
-""""""""""""""""""""
+^^^^^^^^^^^^^^^^^^^^
 
 Angabe der Unterlagen (Luftbilder, Karten, Datensammlungen), die bei der Erstellung der Karte oder der Geoinformation (des digitalen Datenbestandes) Verwendung finden.
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_datengrundlage.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
  
 Abb.: Feld Datengrundlage - Beispiel: Kartieroriginale der Pflanzenerfassung
 
 
 Feld: Herstellungsprozess
-"""""""""""""""""""""""""
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Angabe der Methode, die zur Erstellung des Datenobjektes geführt hat. Der Eintrag kann in Textform erfolgen, indem die Registerkarte "Text" ausgewählt wird.
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_herstellungsprozess.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
  
 Abb.: Feld Herstellungsprozess - Beispiel: Feldkartierung
 
 
 Feld: Symbolkatalog
-"""""""""""""
+^^^^^^^^^^^^^^^^^^^^
 
 Für die Präsentation genormter Objekte und Sachverhalte können für die Nutzer der Daten zur Herstellung von Karten abgestimmte Symbole vorgegeben werden. Die Angabe einer oder mehrerer analoger oder digitaler Symbolpaletten mit zugehörigem Datum (Pflichteintrag) und Version (Optional) ist hier möglich.
 
 Beispiel: Planzeichenverordnung, Datum 03.08.2023, Version 6.0
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_symbolkatalog.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
  
 Abb.: Feld Symbolkatalog
 
 
 Feld: Schlüsselkatalog
-""""""""""""""""
+^^^^^^^^^^^^^^^^^^^^^^
 
 An dieser Stelle besteht die Möglichkeit, den Daten zugrunde liegende Klassifizierungsschlüssel zu benennen. Dabei ist die Eingabe mehrerer Kataloge mit zugehörigem Datum (Pflichteintrag) und Version (Optional) möglich. Das Feld Schüsselkatalog wird zum Pflichtfeld, wenn in der Tabelle Sachdaten/Attributinformationen ein Eintrag vorgenommen wurde.
 
 Beispiel: Biotoptypenschlüssel, Datum 03.08.2023, Version 6.0
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_schluesselkatalog.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
  
 Abb.: Feld Schlüsselkatalog
 
 
 Feld: Sachdaten/Attributinformation
-"""""""""""""""""""""""""""""
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Angabe der mit der Geoinformation/Karte verbundenen Sachdaten. Bei Bedarf kann hier eine Auflistung der Attribute des Datenbestandes erfolgen. Die hauptsächliche Nutzung dieses Feldes ist für digitale Geoinformationen vorgesehen.
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_sachdaten-attributinformation.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
  
 Abb.: Feld Sachdaten/Attributinformation - Beispiel: Baumkartei
 
@@ -244,7 +280,7 @@ Abb.: Feld Sachdaten/Attributinformation - Beispiel: Baumkartei
 -----------------------------------------------------------------------------------------------------------------------
 
 Abschnitt Datenqualität
-^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------
 
 .. note:: Die optionalen Felder zur `Datenqualität sind hier <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/qualitaetssicherung/abschnitt_datenqualitaet.html>`_ beschrieben.
 
@@ -255,15 +291,17 @@ Abschnitt Datenqualität
 -----------------------------------------------------------------------------------------------------------------------
 
 Abschnitt Zusatzinformation
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------
   
 Feld: Zeichensatz des Datensatzes
-"""""""""""""""""""""""""""""""""
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Angabe zu dem im beschriebenen Datensatz benutzten Zeichensatz z.B. UTF-8.
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/zusatzinformation_zeichensatz.png
-   :width: 500
+   :align: left
+   :scale: 50
+   :figwidth: 100%
  
 Abb.: Feld Zeichensatz des Datensatzes
 
@@ -271,7 +309,7 @@ Abb.: Feld Zeichensatz des Datensatzes
   
 
 Feld: Konformität
-"""""""""""""""""
+^^^^^^^^^^^^^^^^^
 
 Hier kann angegeben werden, zu welcher Spezifikation die beschriebenen Daten konform sind. Einträge in dieses Feld erfolgen über den Button Konformität "+ Hinzufügen". Es ist möglich aus Vorgabelisten auszuwählen oder freie Eingaben zu tätigen.
 
@@ -288,12 +326,16 @@ Beschreibung unter der Option: `AdV kompatibel <https://metaver-bedienungsanleit
 Das Feld "geprüft mit" ist im Editor eine optionale Angabe, laut der ISO ist es aber verpflichtend.
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/zusatzinformation_konformitaet.png
-   :width: 500
+   :align: left
+   :scale: 50
+   :figwidth: 100%
  
 Abb.: Feld Konformität
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/zusatzinformation_konformitaet-spezifikation.png
-   :width: 500
+   :align: left
+   :scale: 50
+   :figwidth: 100%
  
 Abb.: Feld Konformität - Spezifikation
 
@@ -301,10 +343,13 @@ Abb.: Feld Konformität - Spezifikation
 
 
 Vektorformat
-''''''''''''
+^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_vektorformat.png
- 
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
 Abb.: Feld Vektorformat
 
 .. hint:: Dieses Feld ist nur aktiv nach Auswahl von "Vektor" im Feld "Digitale Repräsentation".
