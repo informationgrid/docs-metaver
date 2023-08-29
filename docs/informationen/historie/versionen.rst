@@ -8,7 +8,7 @@ Bedienungsanleitung Version
    - Status: in Bearbeitung
 
 
-IGE-NG Testversion AP5
+IGE-NG AP5 - Testversion (mit Migrationsdaten)
    - InGrid Editor-Version: 1.4.1-198, 28.08.2023, 10:52 
 
 
@@ -32,9 +32,7 @@ breitgestellt für die Installation
 (Ausfühliche Informationen auf GitHub: https://www.ingrid-oss.eu/latest/about/history.html)
 
 Version IGE-NG: 1.4.1-198, 28.08.2023, 10:52 
-
 Version IGE-NG: 1.4.1-126, 09.08.2023, 18:19
-
 Version IGE-NG: 1.3.1-193, 12.06.2023, 12:00
 
 --------------------------------------------------------------------------------------------------------------
