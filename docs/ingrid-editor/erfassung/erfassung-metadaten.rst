@@ -152,7 +152,7 @@ Abb.: Veröffentlichungsrecht setzten
 Optionen: Typ
 """""""""""""
 
-Unter "Typ" werden Optionen zu den einzelnen Datensatztypen angezeigt, die aktiviert werden können. Sie bewirken, dass zusätzliche Eingabefelder im Metadatensatz erscheinen. 
+Unter "Typ" werden die Optionen für die verschiedenen Datensatztypen angezeigt, die aktiviert werden können, um zusätzliche Eingabefelder im Metadatensatz anzuzeigen. 
 
 Datensatztypen mit den entsprechenden Optionen:
 
