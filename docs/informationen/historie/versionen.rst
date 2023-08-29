@@ -12,6 +12,7 @@ InGrid Versionen
 | IGE-NG AP5 - Demo- und Testversion mit Migrationsdaten
 
   - InGrid Editor-Version: 1.4.1-197, 25.08.2023, 10:34
+  
 
 | IGE-NG AP5 - Entwicklungsversion
 
