@@ -30,13 +30,19 @@ breitgestellt für die Installation
    - InGrid Editor-Version: 6.1.0
 
 
-**Änderungen in den InGrid Versionen (IGE Classic)**
 
-(Ausfühliche Informationen auf GitHub: https://www.ingrid-oss.eu/latest/about/history.html)
+
+**Historie der IGE-NG Versionen (IGE-NG)**
 
 Version IGE-NG: 1.4.1-198, 28.08.2023, 10:52 
 Version IGE-NG: 1.4.1-126, 09.08.2023, 18:19
 Version IGE-NG: 1.3.1-193, 12.06.2023, 12:00
+
+--------------------------------------------------------------------------------------------------------------
+
+**Historie der IGE Versionen (IGE Classic)**
+
+(Ausfühliche Informationen auf GitHub: https://www.ingrid-oss.eu/latest/about/history.html)
 
 --------------------------------------------------------------------------------------------------------------
 
