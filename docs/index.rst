@@ -10,12 +10,13 @@
    :figwidth: 100 %
    
 
-
+====================
 Bedienungsanleitung
 ====================
 
-.. hint:: Die Eingabemasken und die Eingabefelder können je nach Metadatenprofil variieren.
+.. hint::  Die Eingabefelder und Eingabemasken können je nach Metadatenprofil variieren.
 
+========================================
 InGrid Editor - Neue Generation (IGE-NG)
 ========================================
 
