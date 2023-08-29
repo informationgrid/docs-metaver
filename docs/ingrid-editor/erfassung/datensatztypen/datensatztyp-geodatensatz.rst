@@ -14,7 +14,7 @@ Beispiele sind: GIS-Daten, analoge Karten oder Kartenwerke
 
 Metadaten werden nach der ISO-Norm 19115 „Geographic Information - Metadata“ erfasst.
 
-Die ISO 19115 definiert einen international gültigen Standard zur Beschreibung von Geoinformationen und zugehörigen Diensten. Dieser Standard soll es ermöglichen, Geodaten mit Hilfe von Metadaten so zu beschreiben, dass ihre Eignung für bestimmte Anwendungszwecke beurteilt werden kann oder auch sinnvolle Präsentations- und Verarbeitungsmethoden abgeleitet werden können. Das Schema der ISO 19115 enthält u.a. Informationen über den Inhalt, den raum-zeitlichen Bezug, die Datenqualität, die Zugriffsmöglichkeiten auf die Daten oder die Nutzungsrechte. (Quelle: `Wikipedia <https://de.wikipedia.org/wiki/ISO_19115>`_)
+ISO 19115 definiert einen international gültigen Standard zur Beschreibung von Geoinformationen und zugehörigen Diensten. Dieser Standard soll es ermöglichen, Geodaten mit Hilfe von Metadaten so zu beschreiben, dass ihre Eignung für bestimmte Anwendungszwecke beurteilt oder auch sinnvolle Präsentations- und Verarbeitungsmethoden abgeleitet werden können. Das Schema der ISO 19115 enthält unter anderem Informationen über den Inhalt, den räumlich-zeitlichen Bezug, die Datenqualität, die Zugriffsmöglichkeiten auf die Daten oder die Nutzungsrechte. (Quelle: `Wikipedia <https://de.wikipedia.org/wiki/ISO_19115>`_)
 
 .. note:: Die Erfassung dieses Datensatztyps erfolgt wie unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.htm>` beschrieben. Der hier beschriebene Abschnitt Fachbezug enthält spezielle Eingabefelder für diesen Datensatztyp.
 

@@ -8,14 +8,13 @@ Geodatendienst
 
     .. image:: ../../../img/ige/icons/datensatztypen/portal/geodatendienst.png, .. image:: ../../../img/ige/icons/datensatztypen/ige/geodatendienst.png
 
-Ein Geodatendienst ist ein in der Regel über das Internet angebotener Dienst, mit dessen Hilfe man Geodaten anschauen, einbinden, bearbeiten oder abfragen kann. Geodatendienste sind Webservices, die raumbezogene Informationen verarbeiten und vom Open Geospatial Consortium (OGC) auf Basis von ISO-Normen international standardisiert wurden.
+Ein Geodatendienst ist ein in der Regel über das Internet angebotener Dienst, mit dem Geodaten visualisiert, integriert, bearbeitet oder abgefragt werden können. Geodatendienste sind Webdienste, die raumbezogene Informationen verarbeiten und vom Open Geospatial Consortium (OGC) auf der Basis von ISO-Normen international standardisiert wurden.
 
-Einem Geodatendienst kann ein Geodatensatz zu geordnet werden, dieser beschreibt die Daten die im Geodatendienst enthalten sind. Einem Geodatendienst können auch mehrere Geodatensätze zugeordnet werden, diese beschreiben dann die Layer, die im Geodatendienst enthalten sind. 
-Einem Geodatensatz können unterschiedliche Geodatendienste zugeordnet werden (z.B. WMS-, WFS-, Atom-Dienste), der Geodatensatz beschreibt dann die Daten, die durch die Geodatendienste bereitgestellt werden.
+Einem Geodatendienst kann ein Geodatensatz zugeordnet werden, dieser beschreibt die im Geodatendienst enthaltenen Daten. Einem Geodatendienst können auch mehrere Geodatensätze zugeordnet werden, diese beschreiben dann die im Geodatendienst enthaltenen Layer. Einem Geodatensatz können verschiedene Geodatendienste (z.B. WMS, WFS, Atom) zugeordnet werden, der Geodatensatz beschreibt dann die Daten, die durch die Geodatendienste bereitgestellt werden.
 
-Wenn ein Geodatensatz einem Geodatendienst zugeordnet wird, dann werden diese Metadatensätze miteinander gekoppelt (Datenkopplung). Das bedeutet, der Geodatensatz verweist durch eine Verlinkung auf den Geodatendienst und der Geodatendienst wiederum verweist durch eine Verlinkung auf den Geodatensatz.
+Wird ein Geodatensatz einem Geodatendienst zugeordnet, so werden diese Metadatensätze miteinander gekoppelt (Datenkopplung). Das bedeutet, dass der Geodatensatz über einen Link auf den Geodatendienst verweist und der Geodatendienst wiederum über einen Link auf den Geodatensatz verweist.
 
-.. note:: Die Erfassung dieses Datensatztyps erfolgt wie unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_  beschrieben. Der hier beschriebene Abschnitt Fachbezug beinhaltet für diesen Datensatztyp spezielle Eingabefelder.
+.. note:: Die Erfassung dieses Datensatztyps erfolgt wie unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_ beschrieben. Der hier beschriebene Abschnitt Fachbezug enthält spezielle Eingabefelder für diesen Datensatztyp.
 
 -----------------------------------------------------------------------------------------------------------------------
 

@@ -8,9 +8,9 @@ Datensammlung
 
 	 .. image:: ../../../img/ige/icons/datensatztypen/portal/datensammlung.png, .. image:: ../../../img/ige/icons/datensatztypen/ige/datensammlung.png
 
-Der Datensatztyp Datenerhebung dient der Beschreibung gemessener, aufbereiteter oder erhobener Daten. Dazu gehören Messdaten, statistische Erhebungen, Modelldaten oder Anlagendaten (Dienste/Anwendungen/Informationssysteme: zentrale Informationssysteme, die in der Regel auf eine oder mehrere Datenbanken zugreifen und diese zugänglich machen).
+Der Datensatztyp "Datensammlung" beschreibt gemessene, aufbereitete oder erhobene Daten. Dazu gehören Messdaten, statistische Erhebungen, Modelldaten oder Anlagendaten. Dies betrifft Dienste und Anwendungen, Informationssysteme, die in der Regel auf eine oder mehrere Datenbanken zuzugreifen um die enthaltenen Daten zugänglich zu machen.
 
-.. important:: Die Erfassung dieses Datensatztyps erfolgt wie unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_ beschrieben. Der hier beschriebene Abschnitt Fachbezug enthält spezielle Eingabefelder für diesen Datensatztyp.
+.. important::  Die Erfassung dieses Datensatztyps erfolgt gemäß den Anweisungen unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_. Der Abschnitt "Fachbezug" beinhaltet spezielle Eingabefelder für diesen Datensatztyp.
 
 -----------------------------------------------------------------------------------------------------------------------
 
@@ -28,7 +28,9 @@ Feld: Objektartenkatalog
 
 Abb.: Tabelle - Objektartenkatalog
 
-Hier können die den Daten zugrunde liegenden Klassifikationsschlüssel benannt werden. Es können mehrere Kataloge mit zugehörigem Datum (Pflichteintrag) und Version (Optional) eingegeben werden.
+Durch die Verwendung des Objektartenkatalogs können Projekte schneller und effizienter erstellt werden, da sie wiederverwendbare Bausteine bieten. Der Katalog enthält alle Eigenschaften, Methoden und Ereignisse jedes Objekttyps, die in der Software genutzt werden können. Mit dem Objektartenkatalog können Entwickler auch eigene Objekttypen definieren und sie in der Software verwenden. Der Objektartenkatalog ist eine Zusammenstellung von verschiedenen Objekttypen, die in einer Software zur Verfügung stehen.
+
+Hier können die den Daten zugrunde liegenden Klassifikationsschlüssel benannt werden. Mehrere Kataloge mit einem Pflichtdatum und optionaler Version können eingegeben werden.
 
 Beispiel: Biotoptypenschlüssel, Datum 29.08.2023, Version 6.1
 
@@ -46,14 +48,14 @@ Abb.: Tabelle - Inhalte der Datensammlung
 
 Feld: Parameter
 """""""""""""""
-
-Angabe der wichtigsten Parameter der Datenbank bzw. der Datensammlung. Um einen qualifizierten Überblick über die beschriebene Datensammlung bzw. Datenbank zu erhalten, sollen hier die aussagekräftigen Parameter der vorgehaltenen Daten genannt werden. Diese Parameter sind in der linken Spalte aufgeführt. Beispiele für Parameter: Bei Messdaten werden die wichtigsten Messparameter (z.B. NOx, SO2, Windgeschwindigkeit, pH-Wert), bei statistischen Erhebungen die Erhebungsgrößen (z.B. Wasserverbrauch pro Kopf, Bevölkerungsdichte), bei Modelldaten die Modellparameter (z.B. Meeresspiegel, CO2-Gehalt der Luft, globale Temperatur) angegeben.
+ 
+Um einen umfassenden Überblick über die beschriebene Datensammlung oder Datenbank zu erhalten, werden hier die relevanten Parameter aufgelistet. Die Parameter sind in der linken Spalte aufgeführt. Hier sind einige Beispiele für Parameter: Bei Messdaten werden die relevanten Messgrößen angegeben, wie beispielsweise NOx, SO2, Windgeschwindigkeit und pH-Wert. Bei statistischen Erhebungen werden die erhobenen Größen aufgeführt, wie etwa der Wasserverbrauch pro Kopf oder die Bevölkerungsdichte. Bei Modelldaten werden die Modellparameter wie Meeresspiegel, CO2-Gehalt der Luft und globale Temperatur angegeben.
 
 
 Feld: Ergänzenden Angaben
 """""""""""""""""""""""""
 
-In der rechten Spalte können zu jedem Parameter weitere Angaben gemacht werden. Dies können z.B. Angaben zur Maßeinheit, Genauigkeit, Nachweisgrenze, Probenmatrix oder parameterspezifische Angaben zur Messmethode sein.
+In der rechten Spalte können zusätzliche Angaben zu jedem Parameter hinterlegt werden, wie zum Beispiel Maßeinheiten, Genauigkeiten, Nachweisgrenzen, Probenmatrizen oder spezifische Angaben zur Messmethode.
 
 Beispiel: Blei / in Trinkwasser, Nachweisgrenze: 10 ppb Cadmium / in Schlacke, Nachweisgrenze: 3 ppm
 
@@ -68,7 +70,7 @@ Feld: Methode / Datengrundlage
 
 Abb.: Tabelle - Methode/Datengrundlage
 
-Angabe der verwendeten Methoden und der Herkunft der Daten. Hier sind die angewandten Methoden der Datenerhebung (z.B. Messmethode, Erhebungsmethode) zu benennen und zu beschreiben. Darüber hinaus können Angaben z.B. zur Qualität oder zum Umfang der Datengrundlage gemacht werden. Die Eingabe kann direkt über den Reiter "Text" oder als Verweis über den Reiter "Verweise" erfolgen.
+Die Angabe der verwendeten Methoden und der Herkunft der Daten sollte klar und präzise sein. Hierbei sind die angewandten Methoden der Datenerhebung, wie z. Messmethode und Erhebungsmethode, zu nennen und zu beschreiben. Darüber hinaus können Informationen zur Qualität und zum Umfang der Datengrundlage angeführt werden.
 
 Beispiel: Ionenchromatographie nach DIN 38405-D20 (Sept. 2023)
  
@@ -85,4 +87,4 @@ Abb.: Textfeld - Erläuterungen
 
 Weitere Informationen zur Datensammlung/Datenbank
 
-Beispiel: Die angegebenen Inhalte der Datenbank stellen nur eine Auswahl aller gemessenen Parameter dar (insgesamt ca. 300) dar.
+Beispiel: Die in der Datenbank angegebenen Inhalte repräsentieren lediglich eine Auswahl von etwa 300 gemessenen Parametern.

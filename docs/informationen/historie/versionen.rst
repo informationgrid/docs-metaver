@@ -2,37 +2,38 @@
 InGrid Versionen
 ================
 
-Version der Bedienungsanleitung
-   - InGrid-Version: 1.4.1-126, 09.08.2023, 18:19
-   - letzte Änderung: 28.08.2023
+Bedienungsanleitung Version
+   - InGrid-Version: 1.4.1-198
+   - letzte Änderung: 29.08.2023
    - Status: in Bearbeitung
 
 
-Installierte IGE-NG-Testversion AP5
-- InGrid-Version: 1.3.1-193
+IGE-NG Testversion AP5
+   - InGrid Editor-Version: 1.4.1-198, 28.08.2023, 10:52 
+
 
 auf metaver.de
-   - InGrid-Version: 6.1.1
-   - Update wurde installiert am: 10.05.2023
+   - InGrid Portal-Version: 6.2.0.2
+   - InGrid Editor-Version: 6.1.0
 
 
-Installierte InGrid-Version auf test.metaver.de
-   - InGrid-Version: 6.1.1
-   - Update wurde installiert am: 10.05.2023
-   - Datenbestand vom: 04.10.2022
+auf test.metaver.de
+   - InGrid Portal-Version: 6.2.0.2
+   - InGrid Editor-Version: 6.1.0
 
 
-InGrid-Version von Entwicklern für die Installation breitgestellt
-   - InGrid Portal-Version: 6.1.1
-   - InGrid Editor-Version: 6.1.1
-   - Release: 
-
+breitgestellt für die Installation
+   - InGrid Portal-Version: 6.2.0.2
+   - InGrid Editor-Version: 6.1.0
 
 
 **Änderungen in den InGrid Versionen (IGE Classic)**
 
 (Ausfühliche Informationen auf GitHub: https://www.ingrid-oss.eu/latest/about/history.html)
 
+Version IGE-NG: 1.4.1-198, 28.08.2023, 10:52 
+
+Version IGE-NG: 1.4.1-126, 09.08.2023, 18:19
 
 Version IGE-NG: 1.3.1-193, 12.06.2023, 12:00
 
