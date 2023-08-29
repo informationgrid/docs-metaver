@@ -36,7 +36,7 @@ Bedienungsanleitung Version
   - InGrid Editor-Version: 6.1.0
 
 
-
+--------------------------------------------------------------------------------------------------------------
 
 **Historie der IGE-NG Versionen (IGE-NG)**
 
