@@ -14,8 +14,6 @@
 Bedienungsanleitung
 ====================
 
-.. hint::  Die Eingabefelder und Eingabemasken können je nach Metadatenprofil variieren.
-
 ========================================
 InGrid Editor - Neue Generation (IGE-NG)
 ========================================
@@ -24,6 +22,10 @@ Version der Bedienungsanleitung
    - InGrid Editor-Version: 1.4.1-198
    - letzte Änderung: 29.08.2023
    - Status: in Bearbeitung
+
+
+   .. hint::  Die Eingabefelder und Eingabemasken können je nach Metadatenprofil variieren.
+
 
 .. image:: img/portal/uebersicht.png
 
