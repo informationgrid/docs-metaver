@@ -28,11 +28,9 @@ Feld: Objektartenkatalog
 
 Abb.: Tabelle - Objektartenkatalog
 
-Durch die Verwendung des Objektartenkatalogs können Projekte schneller und effizienter erstellt werden, da sie wiederverwendbare Bausteine bieten. Der Katalog enthält alle Eigenschaften, Methoden und Ereignisse jedes Objekttyps, die in der Software genutzt werden können. Mit dem Objektartenkatalog können Entwickler auch eigene Objekttypen definieren und sie in der Software verwenden. Der Objektartenkatalog ist eine Zusammenstellung von verschiedenen Objekttypen, die in einer Software zur Verfügung stehen.
+An dieser Stelle besteht die Möglichkeit, den Klassifizierungsschlüssel zu benennen, der den Daten zugrunde liegt. Dabei ist die Eingabe mehrerer Kataloge mit zugehörigem Datum und Version möglich.
 
-Hier können die den Daten zugrunde liegenden Klassifikationsschlüssel benannt werden. Mehrere Kataloge mit einem Pflichtdatum und optionaler Version können eingegeben werden.
-
-Beispiel: Biotoptypenschlüssel, Datum 29.08.2023, Version 6.1
+Beispiel:  Biotoptypenschlüssel Hamburg (tt.mm.jjjj), Version (xx.xx)
 
 
 Feld: Inhalte der Datensammlung/Datenbank
@@ -41,9 +39,9 @@ Feld: Inhalte der Datensammlung/Datenbank
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_datensammlung/fachbezug_inhalt.png
    :align: left
    :scale: 50
-   :figwidth: 100%
+   :figwidth: 80%
 
-Abb.: Tabelle - Inhalte der Datensammlung
+Abb.: Felder für Inhalte der Datensammlung
 
 
 Feld: Parameter
@@ -70,7 +68,7 @@ Feld: Methode / Datengrundlage
 
 Abb.: Tabelle - Methode/Datengrundlage
 
-Die Angabe der verwendeten Methoden und der Herkunft der Daten sollte klar und präzise sein. Hierbei sind die angewandten Methoden der Datenerhebung, wie z. Messmethode und Erhebungsmethode, zu nennen und zu beschreiben. Darüber hinaus können Informationen zur Qualität und zum Umfang der Datengrundlage angeführt werden.
+Angaben zu den verwendeten Methoden und der Datengrundlage. Hierbei sind die angewandten Methoden der Datenerhebung, wie z.B. Messmethode und Erhebungsmethode, zu nennen und zu beschreiben. Darüber hinaus können Informationen zur Qualität und zum Umfang der Datengrundlage angeführt werden.
 
 Beispiel: Ionenchromatographie nach DIN 38405-D20 (Sept. 2023)
  
@@ -85,6 +83,4 @@ Feld: Erläuterungen
 
 Abb.: Textfeld - Erläuterungen
 
-Weitere Informationen zur Datensammlung/Datenbank
-
-Beispiel: Das Objekt, auf das verwiesen wird, enthält weiterführende Literaturhinweise zum aktuellen Objekt.
+Weitere Informationen zur Datensammlung bzw. zur Datenbank.
