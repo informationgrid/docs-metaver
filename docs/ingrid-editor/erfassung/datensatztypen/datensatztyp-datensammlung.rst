@@ -49,6 +49,7 @@ Feld: Parameter
  
 Angabe der wichtigen Parameter der Datenbank oder Datensammlung. Um einen qualifizierten Einblick in die beschriebene Datensammlung oder Datenbank zu erhalten, werden hier die wesentlichen Parameter der gespeicherten Daten aufgeführt. Im Falle von Messdaten werden die wichtigsten Messparameter wie z. NOx, SO2, Windgeschwindigkeit und pH-Wert angegeben. Bei statistischen Erhebungen werden Erhebungsgrößen wie Wasserverbrauch pro Kopf und Bevölkerungsdichte angeführt. Im Falle von Modelldaten werden die Modellparameter, wie z. Meeresspiegel, CO2-Gehalt der Luft und Welttemperatur, dargestellt.
 
+Beispiel: 
 
 
 Feld: Ergänzenden Angaben
@@ -56,7 +57,7 @@ Feld: Ergänzenden Angaben
 
 Es können zusätzliche Angaben zu Parametern angegeben werden, wie zum Beispiel: Maßeinheiten, Genauigkeiten, Nachweisgrenzen, Probenmatrizen oder spezifische Angaben zur Messmethode.
 
-Beispiel: organische Gase (Benzol, Toluol, Xylol (flüchtige Aromaten, BTX))
+Beispiel: Wassertemperatur (°C) oder Wasserstand (cm)
 
 
 Feld: Methode / Datengrundlage
@@ -86,4 +87,4 @@ Abb.: Textfeld - Erläuterungen
 
 Weitere Informationen zur Datensammlung bzw. zur Datenbank.
 
-Beispiel: Datenbasis: 144 10-Minutenwerte pro Station, Messkomponente und Tag. Aus dieser Datenbasis können verdichtete Kenngrößen (Tagesmittelwerte, Jahresmittelwerte, 98-Perzentile, etc.) berechnet werden.
+Beispiel: Datengewinnung erfolgt im hydrologischen Messdienst, Datensammler, Beobachter
