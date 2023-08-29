@@ -3,13 +3,16 @@ InGrid Versionen
 ================
 
 Bedienungsanleitung Version
-   - InGrid-Version: 1.4.1-198
+   - InGrid Editor-Version: 1.4.1-198
    - letzte Änderung: 29.08.2023
    - Status: in Bearbeitung
 
 
-IGE-NG AP5 - Testversion (mit Migrationsdaten)
-   - InGrid Editor-Version: 1.4.1-198, 28.08.2023, 10:52 
+IGE-NG AP5 - Demo- und Testversion mit Migrationsdaten
+   - InGrid Editor-Version: 1.4.1-197, 25.08.2023, 10:34
+
+IGE-NG AP5 - Entwicklungsversion
+   - InGrid Editor-Version: 1.4.1-198, 28.08.2023, 10:52
 
 
 auf metaver.de
