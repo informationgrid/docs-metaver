@@ -24,10 +24,14 @@ Version der Bedienungsanleitung
    - Status: in Bearbeitung
 
 
-   .. hint::  Die Eingabefelder und Eingabemasken können je nach Metadatenprofil variieren.
+.. figure:: img/portal/uebersicht.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 
-.. image:: img/portal/uebersicht.png
+.. hint::  Die Eingabefelder und Eingabemasken können je nach Metadatenprofil variieren.
+
 
 .. toctree::
    :maxdepth: 2
