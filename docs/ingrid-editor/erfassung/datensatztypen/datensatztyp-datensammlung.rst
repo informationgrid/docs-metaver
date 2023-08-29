@@ -57,7 +57,7 @@ Feld: Ergänzenden Angaben
 
 Es können zusätzliche Angaben zu Parametern angegeben werden, wie zum Beispiel: Maßeinheiten, Genauigkeiten, Nachweisgrenzen, Probenmatrizen oder spezifische Angaben zur Messmethode.
 
-Beispiel für Belastung: Grenzwert 100/1 ml
+Beispiel: Grenzwert 100/1 ml
 
 
 Feld: Methode / Datengrundlage
