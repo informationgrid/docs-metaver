@@ -47,9 +47,9 @@ Abb.: Felder für Inhalte der Datensammlung
 Feld: Parameter
 """""""""""""""
  
-Angabe der wichtigen Parameter der Datenbank oder Datensammlung. Um einen qualifizierten Einblick in die beschriebene Datensammlung oder Datenbank zu erhalten, werden hier die wesentlichen Parameter der gespeicherten Daten aufgeführt. Im Falle von Messdaten werden die wichtigsten Messparameter wie z. NOx, SO2, Windgeschwindigkeit und pH-Wert angegeben. Bei statistischen Erhebungen werden Erhebungsgrößen wie Wasserverbrauch pro Kopf und Bevölkerungsdichte angeführt. Im Falle von Modelldaten werden die Modellparameter, wie z. Meeresspiegel, CO2-Gehalt der Luft und Welttemperatur, dargestellt.
+Angabe der wichtigen Parameter der Datenbank oder Datensammlung. Um einen qualifizierten Einblick in die beschriebene Datensammlung oder Datenbank zu erhalten, werden hier die wesentlichen Parameter der gespeicherten Daten aufgeführt. Im Falle von Messdaten werden die wichtigsten Messparameter wie z. NOx, SO2, Windgeschwindigkeit und pH-Wert angegeben. Bei statistischen Erhebungen werden Erhebungsgrößen wie Wasserverbrauch pro Kopf und Bevölkerungsdichte angeführt. Im Falle von Modelldaten werden die Modellparameter, wie z.B. Meeresspiegel, CO2-Gehalt der Luft und Welttemperatur, dargestellt.
 
-Beispiel: 
+Beispiel: Trinkwasserwerte: °C, °dH, [ph-Einheiten], [µS/cm], [mg/l], [Anz./100ml]
 
 
 Feld: Ergänzenden Angaben
@@ -57,7 +57,7 @@ Feld: Ergänzenden Angaben
 
 Es können zusätzliche Angaben zu Parametern angegeben werden, wie zum Beispiel: Maßeinheiten, Genauigkeiten, Nachweisgrenzen, Probenmatrizen oder spezifische Angaben zur Messmethode.
 
-Beispiel: Wassertemperatur (°C) oder Wasserstand (cm)
+Beispiele: Grenzwert 100/1 ml
 
 
 Feld: Methode / Datengrundlage
