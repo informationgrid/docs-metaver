@@ -30,7 +30,7 @@ Version der Bedienungsanleitung
    :figwidth: 100%
 
 
-..  note::  Die Eingabefelder und Eingabemasken in den Metadatenkatalogen können je nach Metadatenprofil variieren.
+..  note::  Die Eingabemasken und die Eingabefelder in den Metadatenkatalogen können je nach Metadatenprofil variieren.
 
 
 --------------------------------------------------------------------------------------------------------------
