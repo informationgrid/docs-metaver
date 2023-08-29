@@ -55,6 +55,7 @@ Version der Bedienungsanleitung
    ingrid-editor/erfassung/erfassung-metadaten.rst
    ingrid-editor/erfassung/datensatztypen/datensatztypen.rst
 
+--------------------------------------------------------------------------------------------------------------
 
 .. toctree::
    :maxdepth: 3
@@ -62,6 +63,7 @@ Version der Bedienungsanleitung
    
    informationen/kontakt/kontakt.rst
 
+--------------------------------------------------------------------------------------------------------------
 
 .. toctree::
    :maxdepth: 3
@@ -69,6 +71,7 @@ Version der Bedienungsanleitung
    
    ingrid-editor/administration/benutzerverwaltung/benutzerverwaltung.rst
 
+--------------------------------------------------------------------------------------------------------------
 
 .. toctree::
    :maxdepth: 2
