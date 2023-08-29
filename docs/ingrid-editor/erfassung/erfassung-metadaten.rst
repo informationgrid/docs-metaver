@@ -5,7 +5,7 @@
 Metadaten erfassen
 ==================
 
-.. important:: Bevor Sie mit der Erfassung der Metadaten beginnen, empfiehlt es sich, mit der Erfassung der Adressdaten anzufangen. Grund: Verweise von den Metadaten auf die Adressen.
+.. important::  Bevor Sie die Erfassung der Metadaten beginnen, empfehlen wir Ihnen, mit der Erfassung der Adressdaten zu beginnen. Der Grund hierfür sind Verweise der Metadaten auf die Adressen.
 
 Metadatensätze anlegen
 -----------------------
