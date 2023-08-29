@@ -35,7 +35,7 @@ breitgestellt für die Installation (IGE Classic)
 
 --------------------------------------------------------------------------------------------------------------
 
-**Historie der IGE-NG Versionen (IGE-NG)**
+**Historie der Versionen (IGE-NG)**
 
   - Version IGE-NG: 1.4.1-198, 28.08.2023, 10:52 
   - Version IGE-NG: 1.4.1-126, 09.08.2023, 18:19
@@ -43,7 +43,7 @@ breitgestellt für die Installation (IGE Classic)
 
 --------------------------------------------------------------------------------------------------------------
 
-**Historie der IGE Versionen (IGE Classic)**
+**Historie der Versionen (IGE Classic)**
 
 (Ausfühliche Informationen in der `GitHub History <https://www.ingrid-oss.eu/latest/about/history.html>`_)
 
