@@ -45,14 +45,14 @@ breitgestellt für die Installation (IGE Classic)
 
 **Historie der IGE Versionen (IGE Classic)**
 
-(Ausfühliche Informationen auf `GitHub <https://www.ingrid-oss.eu/latest/about/history.html>`_)
+(Ausfühliche Informationen auf `GitHub History <https://www.ingrid-oss.eu/latest/about/history.html>`_)
 
 
 Version: 6.1.0
-  - IGE:
+  - IGE: ARS-Tool in die Hilfe als Link eingefügt
 
 Version: 6.2.0.2
-  - Portal:
+  - Portal: Neue Facetten wurden hinzugefügt, jetzt Mehrfachauswahl möglich
 
 
 Version 6.0.1.1, Release 02.03.2023
