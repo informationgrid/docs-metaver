@@ -48,7 +48,7 @@ Bedienungsanleitung Version
 
 **Historie der IGE Versionen (IGE Classic)**
 
-(Ausfühliche Informationen auf GitHub: https://www.ingrid-oss.eu/latest/about/history.html)
+(Ausfühliche Informationen auf `GitHub <https://www.ingrid-oss.eu/latest/about/history.html>`_)
 
 --------------------------------------------------------------------------------------------------------------
 
