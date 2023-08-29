@@ -39,7 +39,7 @@ Feld: Inhalte der Datensammlung/Datenbank
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_datensammlung/fachbezug_inhalt.png
    :align: left
    :scale: 50
-   :figwidth: 80%
+   :figwidth: 100%
 
 Abb.: Felder für Inhalte der Datensammlung
 
