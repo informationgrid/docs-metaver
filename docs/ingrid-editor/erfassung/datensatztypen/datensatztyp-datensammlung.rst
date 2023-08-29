@@ -57,7 +57,7 @@ Feld: Ergänzenden Angaben
 
 In der rechten Spalte können zusätzliche Angaben zu jedem Parameter hinterlegt werden, wie zum Beispiel Maßeinheiten, Genauigkeiten, Nachweisgrenzen, Probenmatrizen oder spezifische Angaben zur Messmethode.
 
-Beispiel: Blei / in Trinkwasser, Nachweisgrenze: 10 ppb Cadmium / in Schlacke, Nachweisgrenze: 3 ppm
+Beispiel: Blei in Trinkwasser, Nachweisgrenze: 10 ppb Cadmium / in Schlacke, Nachweisgrenze: 3 ppm
 
 
 Feld: Methode / Datengrundlage
@@ -87,4 +87,4 @@ Abb.: Textfeld - Erläuterungen
 
 Weitere Informationen zur Datensammlung/Datenbank
 
-Beispiel: Die in der Datenbank angegebenen Inhalte repräsentieren lediglich eine Auswahl von etwa 300 gemessenen Parametern.
+Beispiel: Das Objekt, auf das verwiesen wird, enthält weiterführende Literaturhinweise zum aktuellen Objekt.
