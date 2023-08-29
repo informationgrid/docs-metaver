@@ -33,6 +33,8 @@ Version der Bedienungsanleitung
 .. hint::  Die Eingabefelder und Eingabemasken können je nach Metadatenprofil variieren.
 
 
+--------------------------------------------------------------------------------------------------------------
+
 .. toctree::
    :maxdepth: 2
    :caption: Portal
