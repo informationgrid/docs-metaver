@@ -52,6 +52,15 @@ Bedienungsanleitung Version
 
 --------------------------------------------------------------------------------------------------------------
 
+Editor-Version: 6.1.0
+
+   -
+
+Portal-Version: 6.2.0.2
+
+   -
+
+
 Version 6.0.1.1, Release 02.03.2023
 
    - IGE: Korrektur Regionalschlüssel erfassen - Minimallösung
