@@ -47,15 +47,16 @@ Abb.: Felder für Inhalte der Datensammlung
 Feld: Parameter
 """""""""""""""
  
-Um einen umfassenden Überblick über die beschriebene Datensammlung oder Datenbank zu erhalten, werden hier die relevanten Parameter aufgelistet. Die Parameter sind in der linken Spalte aufgeführt. Hier sind einige Beispiele für Parameter: Bei Messdaten werden die relevanten Messgrößen angegeben, wie beispielsweise NOx, SO2, Windgeschwindigkeit und pH-Wert. Bei statistischen Erhebungen werden die erhobenen Größen aufgeführt, wie etwa der Wasserverbrauch pro Kopf oder die Bevölkerungsdichte. Bei Modelldaten werden die Modellparameter wie Meeresspiegel, CO2-Gehalt der Luft und globale Temperatur angegeben.
+Angabe der wichtigen Parameter der Datenbank oder Datensammlung. Um einen qualifizierten Einblick in die beschriebene Datensammlung oder Datenbank zu erhalten, werden hier die wesentlichen Parameter der gespeicherten Daten aufgeführt. Im Falle von Messdaten werden die wichtigsten Messparameter wie z. NOx, SO2, Windgeschwindigkeit und pH-Wert angegeben. Bei statistischen Erhebungen werden Erhebungsgrößen wie Wasserverbrauch pro Kopf und Bevölkerungsdichte angeführt. Im Falle von Modelldaten werden die Modellparameter, wie z. Meeresspiegel, CO2-Gehalt der Luft und Welttemperatur, dargestellt.
+
 
 
 Feld: Ergänzenden Angaben
 """""""""""""""""""""""""
 
-In der rechten Spalte können zusätzliche Angaben zu jedem Parameter hinterlegt werden, wie zum Beispiel Maßeinheiten, Genauigkeiten, Nachweisgrenzen, Probenmatrizen oder spezifische Angaben zur Messmethode.
+Es können zusätzliche Angaben zu Parametern angegeben werden, wie zum Beispiel: Maßeinheiten, Genauigkeiten, Nachweisgrenzen, Probenmatrizen oder spezifische Angaben zur Messmethode.
 
-Beispiel: Blei in Trinkwasser, Nachweisgrenze: 10 ppb Cadmium / in Schlacke, Nachweisgrenze: 3 ppm
+Beispiel: organische Gase (Benzol, Toluol, Xylol (flüchtige Aromaten, BTX))
 
 
 Feld: Methode / Datengrundlage
@@ -70,7 +71,7 @@ Abb.: Tabelle - Methode/Datengrundlage
 
 Angaben zu den verwendeten Methoden und der Datengrundlage. Hierbei sind die angewandten Methoden der Datenerhebung, wie z.B. Messmethode und Erhebungsmethode, zu nennen und zu beschreiben. Darüber hinaus können Informationen zur Qualität und zum Umfang der Datengrundlage angeführt werden.
 
-Beispiel: Ionenchromatographie nach DIN 38405-D20 (Sept. 2023)
+Beispiel: kontinuierliche Messungen in vollautomatischen Messstationen
  
 
 Feld: Erläuterungen
@@ -84,3 +85,5 @@ Feld: Erläuterungen
 Abb.: Textfeld - Erläuterungen
 
 Weitere Informationen zur Datensammlung bzw. zur Datenbank.
+
+Beispiel: Datenbasis: 144 10-Minutenwerte pro Station, Messkomponente und Tag. Aus dieser Datenbasis können verdichtete Kenngrößen (Tagesmittelwerte, Jahresmittelwerte, 98-Perzentile, etc.) berechnet werden.
