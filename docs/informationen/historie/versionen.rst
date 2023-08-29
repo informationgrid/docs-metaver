@@ -45,7 +45,7 @@ breitgestellt für die Installation (IGE Classic)
 
 **Historie der IGE Versionen (IGE Classic)**
 
-(Ausfühliche Informationen auf `GitHub History <https://www.ingrid-oss.eu/latest/about/history.html>`_)
+(Ausfühliche Informationen in der `GitHub History <https://www.ingrid-oss.eu/latest/about/history.html>`_)
 
 
 Version: 6.1.0
