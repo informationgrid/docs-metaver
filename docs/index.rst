@@ -30,7 +30,7 @@ Version der Bedienungsanleitung
    :figwidth: 100%
 
 
-.. hint::  Die Eingabefelder und Eingabemasken können je nach Metadatenprofil variieren.
+..  note::  Die Eingabefelder und Eingabemasken können je nach Metadatenprofil variieren.
 
 
 --------------------------------------------------------------------------------------------------------------
