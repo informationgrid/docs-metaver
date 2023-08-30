@@ -1,4 +1,5 @@
 
+==============
 Datensatztypen
 ==============
 
@@ -10,6 +11,6 @@ Datensatztypen
    datensatztyp-geodatendienst.rst
    datensatztyp-informationssystem.rst
    datensatztyp-datensammlung.rst
-   datensatztyp-literatur.rst
+   datensatztyp-dokument.rst
    datensatztyp-projekt.rst
    datensatztyp-fachaufgabe.rst
