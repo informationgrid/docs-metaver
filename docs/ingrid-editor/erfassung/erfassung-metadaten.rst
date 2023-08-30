@@ -160,7 +160,7 @@ Datensatztypen mit den entsprechenden Optionen:
   - **Geodatensatz:** INSPIRE-relevant, AdV kompatibel, OpenData
   - **Geodatendienst:** INSPIRE-relevant, AdV kompatibel, OpenData
   - **Informationssystem:** INSPIRE-relevant, AdV kompatibel, OpenData
-  - **Literatur:** OpenData
+  - **Dokument:** OpenData
   - **Projekt:** -
   - **Fachaufgabe:** - 
 
@@ -413,7 +413,7 @@ Nachfolgend sind in den verschiedenen Datensatztypen (Verlinkung folgen) die zus
 
   | Digitale Sammlung von Daten. Beispiele: Messdaten, statistische Erhebungen, Modelldaten, Daten zu Anlagen.
 
-| `Literatur <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztyp-literatur.html>`_
+| `Dokument <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztyp-dokument.html>`_
 
   | Bücher, Broschüren, Aufsätze, Berichte, Gutachten etc. Von Interesse sind insbesondere Dokumente, welche nicht über den Buchhandel oder über Bibliotheken erhältlich sind (graue Literatur).
 
