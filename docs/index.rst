@@ -25,9 +25,11 @@ Version der Bedienungsanleitung
 
 
 .. figure:: img/portal/uebersicht.png
-   :align: center
+   :align: left
    :scale: 60
    :figwidth: 100%
+
+   Abb.: InGrid Editor - Neue Generation (IGE-NG) - Übersicht
 
 
 ..  note::  Die Eingabemasken und die Eingabefelder in den Metadatenkatalogen können je nach Metadatenprofil variieren.
