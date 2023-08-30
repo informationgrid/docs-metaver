@@ -25,7 +25,7 @@ Version der Bedienungsanleitung
 
 
 .. figure:: img/portal/uebersicht.png
-   :align: left
+   :align: center
    :scale: 60
    :figwidth: 100%
 
