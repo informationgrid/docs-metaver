@@ -95,7 +95,7 @@ Feld: Seiten
 
 Angabe der Seitenzahl des Dokuments. Bei einem Buch ist die Anzahl der Seiten anzugeben. Bei einem Artikel aus einer Zeitschrift sind die Seitenzahlen am Anfang und am Ende des Artikels anzugeben.
 
-Beispiel: 345; 256-268
+Beispiele: 345; 256-268
 
 
 Feld: Erscheinungsjahr
@@ -119,7 +119,7 @@ Abb.: Textfeld - Standort
 Angabe des Aufbewahrungsortes und ggf. des Bezugsortes des Dokuments, falls ein Bezug über die üblichen Wege (Handel, Bibliotheken) nicht möglich ist.
 
 
-Beispiel: Landesarchiv Saarland oder Bibliothek des Landesamtes für ... oder ein Online-Shop
+Beispiele: Landesarchiv Saarland oder Bibliothek des Landesamtes für ... oder ein Online-Shop
 
 
 Feld: ISBN-Nr.
@@ -134,7 +134,7 @@ Abb.: Eingabezeile - ISBN-Nr.
 
 Angabe der Identifikationsnummer der Literatur  (Internationale Standardbuchnummer - ISBN).
 
-Beispiel: ISBN-10-Stellig: 3942062356 ISBN-13-Stellig: 978-3942062350
+Beispiele: ISBN-10-Stellig: 3942062356 ISBN-13-Stellig: 978-3942062350
 
 
 
