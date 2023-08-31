@@ -82,7 +82,7 @@ Angabe, wo das Dokument veröffentlicht wurde. Diese Angabe bezieht sich auf das
 Beispiel: Hamburg
 
 
-Feld: Band, Heft
+Feld: Band/Heft
 """"""""""""""""
 
 Angabe der Zählung des betreffenden Bandes einer Reihe. Zeitschriften und Sammelwerke bzw. Reihen werden fortlaufend seit ihrem Erscheinen oder pro Jahrgang gezählt. Hier ist die Zählung des Bandes anzugeben, in dem der Artikel oder Bericht erschienen ist.
@@ -119,7 +119,7 @@ Abb.: Textfeld - Standort
 Angabe des Aufbewahrungsortes und ggf. des Bezugsortes des Dokuments, falls ein Bezug über die üblichen Wege (Handel, Bibliotheken) nicht möglich ist.
 
 
-Beispiel: Landesarchiv Saarland oder Bibliothek des Landesamtes für ...
+Beispiel: Landesarchiv Saarland oder Bibliothek des Landesamtes für ... oder ein Online-Shop
 
 
 Feld: ISBN-Nr.
