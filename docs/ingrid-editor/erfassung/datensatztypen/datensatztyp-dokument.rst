@@ -29,7 +29,7 @@ Feld: Autor/Verfasser
 
 Abb.: Textfeld - Autor/Verfasser
 
-Angabe des Autors bzw. des Verfassers der Literatur. Der Eintrag mehrerer Personen ist durch Semikolon zu trennen.
+Angabe des Autors bzw. des Verfassers des Dokuments. Der Eintrag mehrerer Personen ist durch Semikolon zu trennen.
 
 **Beispiel:** *Angelika Müller; Hans Meier*
 
@@ -217,7 +217,6 @@ Beispiel: Deponieüberwachung Berlin-Tegel, Statistikauswertungen seit 1974 (det
 
 Feld: Weiteres
 ^^^^^^^^^^^^^^
-
 
 Feld: Weitere bibliographische Angaben
 """"""""""""""""""""""""""""""""""""""

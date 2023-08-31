@@ -20,7 +20,7 @@ InGrid Editor - Neue Generation (IGE-NG)
 
 Version der Bedienungsanleitung
    - InGrid Editor-Version: 1.4.1-198
-   - letzte Änderung: 30.08.2023
+   - letzte Änderung: 31.08.2023
    - Status: in Bearbeitung
 
 
@@ -32,7 +32,7 @@ Version der Bedienungsanleitung
    Abb.: InGrid Editor - Neue Generation (IGE-NG) - Übersicht
 
 
-..  note::  Die Eingabemasken und die Eingabefelder in den Metadatenkatalogen können je nach Metadatenprofil variieren.
+..  note::  Die Eingabemasken und die Eingabefelder in den Metadatenkatalogen können je nach Metadatenprofil variieren (Beispiel: Kommunaler Metadatenkatalog Sachsen-Anhalt).
 
 
 --------------------------------------------------------------------------------------------------------------
