@@ -134,7 +134,7 @@ Abb.: Eingabezeile - ISBN-Nr.
 
 Angabe der Identifikationsnummer der Literatur  (Internationale Standardbuchnummer - ISBN).
 
-Beispiele: ISBN-10-Stellig: 3942062356 ISBN-13-Stellig: 978-3942062350
+Beispiele: ISBN-10-Stellig: 3942062356, ISBN-13-Stellig: 978-3942062350
 
 
 
