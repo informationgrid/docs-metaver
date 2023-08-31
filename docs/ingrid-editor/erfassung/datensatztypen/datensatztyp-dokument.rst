@@ -134,7 +134,8 @@ Abb.: Eingabezeile - ISBN-Nr.
 
 Angabe der Identifikationsnummer der Literatur  (Internationale Standardbuchnummer - ISBN).
 
-Beispiel: 468-4-32632-238-7
+Beispiel: ISBN-10-Stellig: 3942062356 ISBN-13-Stellig: 978-3942062350
+
 
 
 Feld: Verlag
@@ -199,7 +200,7 @@ Feld: Weitere bibliographische Angaben
 
 Hier können bibliographische Angaben gemacht werden, für die kein explizites Feld vorgesehen ist. Dies können z.B. Angaben zu Abbildungen oder zum Format sein. Wichtig ist auch ein Hinweis, ob das Dokument in Papierform oder als Datendownload vorliegt.
 
-Beispiel: 60. Jahrgang | 2023 | Jahresheft
+Beispiel: 60. Jahrgang | 2023 | Jahresheft; Sprache: deutsch
 
 
 Feld: Erläuterungen
