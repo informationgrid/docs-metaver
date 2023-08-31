@@ -87,7 +87,7 @@ Feld: Band/Heft
 
 Angabe der Zählung des betreffenden Bandes einer Reihe. Zeitschriften und Sammelwerke bzw. Reihen werden fortlaufend seit ihrem Erscheinen oder pro Jahrgang gezählt. Hier ist die Zählung des Bandes anzugeben, in dem der Artikel oder Bericht erschienen ist.
 
-Beispiel: Band IV
+Beispiel: Band 1 - Landkreise Dahme-Spreewald, Elbe-Elster, Oberspreewald-Lausitz, Spree-Neiße und Stadt Cottbus
 
 
 Feld: Seiten
@@ -119,7 +119,7 @@ Abb.: Textfeld - Standort
 Angabe des Aufbewahrungsortes und ggf. des Bezugsortes des Dokuments, falls ein Bezug über die üblichen Wege (Handel, Bibliotheken) nicht möglich ist.
 
 
-Beispiele: Landesarchiv Saarland oder Bibliothek des Landesamtes für ... oder ein Online-Shop
+Beispiele: Bibliothek des Landesamtes für ... oder Online-Shop XY
 
 
 Feld: ISBN-Nr.
@@ -150,7 +150,7 @@ Abb.: Eingabezeile - Verlag
 
 Angabe des Verlags, in dem das Dokument erschienen ist.
 
-Beispiel: Mensch und Natur + Ort
+Beispiel: Natur und Text
 
 
 Feld: Dokumententyp
@@ -192,15 +192,15 @@ Feld: Weiteres
    :scale: 50
    :figwidth: 100%
 
-Abb.: Textfeld - Weitere bibliographische Angaben
+Abb.: Textfelder für weitere bibliographische Angaben
 
 
 Feld: Weitere bibliographische Angaben
 """"""""""""""""""""""""""""""""""""""
 
-Hier können bibliographische Angaben gemacht werden, für die kein explizites Feld vorgesehen ist. Dies können z.B. Angaben zu Abbildungen oder zum Format sein. Wichtig ist auch ein Hinweis, ob das Dokument in Papierform oder als Datendownload vorliegt.
+Hier können bibliographische Angaben gemacht werden, für die kein explizites Feld vorgesehen ist. Dies können z.B. Angaben zu Abbildungen oder zum Format sein. Wichtig ist auch ein Hinweis, ob das Dokument in Papierform oder als Datendownload vorliegt, ob es gebraucht oder neu ist.
 
-Beispiel: 60. Jahrgang | 2023 | Jahresheft, Sprache: deutsch
+Beispiel: Gebundene Ausgabe, Sprache: deutsch, Abmessungen: 18.3 x 4.2 x 24.7 cm, Preis: XX,XX €
 
 
 Feld: Erläuterungen
