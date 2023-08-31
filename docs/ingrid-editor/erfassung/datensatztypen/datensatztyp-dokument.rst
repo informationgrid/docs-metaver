@@ -93,14 +93,6 @@ Beispiel: Band IV
 Feld: Seiten
 """"""""""""
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_seitenpng
-   :align: left
-   :scale: 50
-   :figwidth: 100%
-
-Abb.: Eingabezeile - Seiten
-
-
 Angabe der Seitenzahl des Dokuments. Bei einem Buch ist die Anzahl der Seiten anzugeben. Bei einem Artikel aus einer Zeitschrift sind die Seitenzahlen am Anfang und am Ende des Artikels anzugeben.
 
 Beispiel: 345; 256-268
@@ -108,14 +100,6 @@ Beispiel: 345; 256-268
 
 Feld: Erscheinungsjahr
 """""""""""""""""""""""
-
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_erscheinung.png
-   :align: left
-   :scale: 50
-   :figwidth: 100%
-
-Abb.: Eingabezeile - Erscheinungsjahr
-
 
 Angabe des Erscheinungsjahres des Dokuments. Das Erscheinungsjahr ist vor allem bei regelmäßig erscheinenden Dokumenten, wie z.B. jährlich erscheinenden Tagungsbänden, für die Identifizierung von großer Bedeutung. Das Erscheinungsjahr kann von den entsprechenden Angaben im Zeitbezug des Objekts abweichen, die sich auf den Inhalt des Dokuments und nicht auf das Dokument selbst beziehen.
 
@@ -133,6 +117,7 @@ Feld: Standort
 Abb.: Textfeld - Standort
 
 Angabe des Aufbewahrungsortes und ggf. des Bezugsortes des Dokuments, falls ein Bezug über die üblichen Wege (Handel, Bibliotheken) nicht möglich ist.
+
 
 Beispiel: Landesarchiv Saarland oder Bibliothek des Landesamtes für ...
 
@@ -170,7 +155,7 @@ Beispiel: Mensch und Natur + Ort
 Feld: Dokumententyp
 ^^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_autor-dokumententyp.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_dokumententyp.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -201,30 +186,24 @@ Beispiel: Deponieüberwachung (Ort), Statistikauswertungen seit (mm.jjjj)
 Feld: Weiteres
 ^^^^^^^^^^^^^^
 
-Feld: Weitere bibliographische Angaben
-""""""""""""""""""""""""""""""""""""""
-
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_bibliographische-angaben.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_weiteres.png
    :align: left
    :scale: 50
    :figwidth: 100%
 
 Abb.: Textfeld - Weitere bibliographische Angaben
 
-Hier können bibliographische Angaben gemacht werden, für die kein explizites Feld vorgesehen ist. Dies können z.B. Angaben zu Abbildungen oder zum Format sein. Wichtig ist auch ein Hinweis, wenn dem Dokument eine Diskette oder CD-ROM beiliegt oder es identisch auf CD-ROM erschienen ist.
+
+Feld: Weitere bibliographische Angaben
+""""""""""""""""""""""""""""""""""""""
+
+Hier können bibliographische Angaben gemacht werden, für die kein explizites Feld vorgesehen ist. Dies können z.B. Angaben zu Abbildungen oder zum Format sein. Wichtig ist auch ein Hinweis, ob das Dokument in Papierform oder als Datendownload vorliegt.
 
 Beispiel: 60. Jahrgang | 2023 | Jahresheft
 
 
 Feld: Erläuterungen
 """""""""""""""""""
-
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_erlaeuterungen.png
-   :align: left
-   :scale: 50
-   :figwidth: 100%
-
-Abb.: Textfeld - Erläuterungen
 
 Ergänzende Anmerkungen zum beschriebenen Dokument.
 
