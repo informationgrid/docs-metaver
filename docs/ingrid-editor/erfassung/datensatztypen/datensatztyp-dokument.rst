@@ -48,7 +48,7 @@ Abb.: Eingabezeile - Herausgeber
 
 Angabe des Herausgebers. Der Herausgeber ist z. B. die Institution, für die der Autor arbeitet und in deren Auftrag er geschrieben hat. Es kann sich aber auch um einen Verlag, eine Vereinigung oder eine andere Einrichtung handeln, die Beiträge zu einem Thema sammelt und als Buch herausgibt oder Bücher zu einem Thema als Reihe herausgibt.
 
-Beispiel: Landesamt für ...
+Beispiel: Ministerium für ...
 
 Name der verantwortlichen Kontaktperson in der Reihenfolge Name, Vorname, Titel, getrennt durch ein Trennzeichen.
 
@@ -200,7 +200,7 @@ Feld: Weitere bibliographische Angaben
 
 Hier können bibliographische Angaben gemacht werden, für die kein explizites Feld vorgesehen ist. Dies können z.B. Angaben zu Abbildungen oder zum Format sein. Wichtig ist auch ein Hinweis, ob das Dokument in Papierform oder als Datendownload vorliegt.
 
-Beispiel: 60. Jahrgang | 2023 | Jahresheft; Sprache: deutsch
+Beispiel: 60. Jahrgang | 2023 | Jahresheft, Sprache: deutsch
 
 
 Feld: Erläuterungen
