@@ -29,11 +29,11 @@ Feld: Autor/Verfasser
 
 Abb.: Textfeld - Autor/Verfasser
 
-Angabe des Autors bzw. des Verfassers des Dokuments. Der Eintrag mehrerer Personen ist durch Semikolon zu trennen.
+Angabe des Autors oder Verfassers des Dokuments. Mehrere Personen sind durch Semikolon zu trennen.
 
-**Beispiel:** *Angelika Müller; Hans Meier*
+Beispiel: Lieschen Müller, Max Mustermann, Reiner Zufall
 
-Angabe der zuständigen Kontaktperson in der Reihenfolge Name, Vorname, Titel durch Trennzeichen getrennt.
+Angabe der zuständigen Kontaktperson in der Reihenfolge Name, Vorname, Titel, getrennt durch ein Trennzeichen.
 
 
 Feld: Herausgeber
@@ -46,64 +46,48 @@ Feld: Herausgeber
 
 Abb.: Eingabezeile - Herausgeber
 
-Angabe des Herausgebers. Der Herausgeber ist z. B. die Institution, in der ein Autor arbeitet und in deren Auftrag er geschrieben hat. Es kann auch ein Verlag, ein Verein oder eine andere Körperschaft sein, der/die Beiträge zu einem Thema sammelt und als Buch erscheinen lässt bzw. Bücher zu einem Thema als Reihe herausgibt.
+Angabe des Herausgebers. Der Herausgeber ist z. B. die Institution, für die der Autor arbeitet und in deren Auftrag er geschrieben hat. Es kann sich aber auch um einen Verlag, eine Vereinigung oder eine andere Einrichtung handeln, die Beiträge zu einem Thema sammelt und als Buch herausgibt oder Bücher zu einem Thema als Reihe herausgibt.
 
-**Beispiel:** *Umweltbundesamt*
+Beispiel: Landesamt für ...
 
-Name der zuständigen Kontaktperson in der Reihenfolge Name, Vorname, Titel durch Trennzeichen getrennt
+Name der verantwortlichen Kontaktperson in der Reihenfolge Name, Vorname, Titel, getrennt durch ein Trennzeichen.
 
 
-Feld: Erscheinung
-^^^^^^^^^^^^^^^^^
+Felder: Erscheinung
+^^^^^^^^^^^^^^^^^^^
 
-Angabe des Sammelwerkes, in dem ein Aufsatz erschienen ist. Aufsätze und andere nicht selbständige Literatur sind häufig als Teil einer Zeitschrift oder eines Buches erschienen oder als gedruckte Version eines Vortrages im Rahmen einer Tagung. Hier ist der Titel der Zeitschrift bzw. des Sammelwerkes (Tagungsband (Proceedings), Jahresberichte etc.) anzugeben, in der bzw. in dem die beschriebene Literatur erschienen ist. Unter diesem Titel kann ein Artikel beim Herausgeber bezogen werden.
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_erscheinung.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
-**Beispiel:** *Jahresberichte zur Abfallwirtschaft*
-
-Bezeichnung der Serie oder des Gesamtdatenbestands, wozu der Datenbestand gehört.
+Abb.: Felder Erscheinung
 
 
 Feld: Erschienen in ...
 """""""""""""""""""""""
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_erschienen-in.png
-   :align: left
-   :scale: 50
-   :figwidth: 100%
+Bezeichnung der Serie oder des Datensatzes, zu der/dem der Datensatz gehört.
 
-Abb.: Erschienen in
+Angabe des Sammelwerks, in dem der Aufsatz erschienen ist. Aufsätze und andere nicht selbstständige Dokumente erscheinen häufig als Teil einer Zeitschrift oder eines Buches oder als gedruckte Fassung eines Tagungsbeitrags. Hier ist der Titel der Zeitschrift bzw. des Sammelwerkes (Tagungsband, Jahresbericht etc.) anzugeben, in dem das beschriebene Dokument erschienen ist. Unter diesem Titel kann der Artikel beim Verlag bezogen werden.
 
+Beispiel: Jahresberichte zur Abfallwirtschaft
 
 
 Feld: Erscheinungsort
 """"""""""""""""""""""
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_erschinungsort.png
-   :align: left
-   :scale: 50
-   :figwidth: 100%
+Angabe, wo das Dokument veröffentlicht wurde. Diese Angabe bezieht sich auf das Dokument und nicht auf den Inhalt des Dokuments. Die räumliche Zuordnung des Dokumentinhalts erfolgt in den Angaben zum Raumbezug des aktuellen Metadatensatzes.
 
-Abb.: Eingabezeile - Erscheinungsort
-
-
-Angabe des Publikationsortes der Literatur. Diese Angabe bezieht sich auf die Literatur und nicht auf die Inhalte der Literatur. Die räumliche Zuordnung der Inhalte der Literatur erfolgt in den Angaben zum Raumbezug des aktuellen Objektes.
-
-Beispiel: Hamburg - Ortsname (Stadt, Gemeinde)
+Beispiel: Hamburg
 
 
 Feld: Band, Heft
 """"""""""""""""
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_band-heft.png
-   :align: left
-   :scale: 50
-   :figwidth: 100%
+Angabe der Zählung des betreffenden Bandes einer Reihe. Zeitschriften und Sammelwerke bzw. Reihen werden fortlaufend seit ihrem Erscheinen oder pro Jahrgang gezählt. Hier ist die Zählung des Bandes anzugeben, in dem der Artikel oder Bericht erschienen ist.
 
-Abb.: Eingabezeile - Band, Heft
-
-Angabe der Zählung des betreffenden Bandes einer Reihe. Zeitschriften und Sammelwerke bzw. Reihen haben eine durchgängige Zählung seit ihrem Erscheinen oder pro Jahr. Hier ist die Zählung des Bandes anzugeben, in dem der Artikel bzw. der Bericht erschienen ist.
-
-**Beispiel:** *Band IV (Kennung eines Elements einer Serie)*
+Beispiel: Band IV
 
 
 Feld: Seiten
@@ -117,15 +101,15 @@ Feld: Seiten
 Abb.: Eingabezeile - Seiten
 
 
-Angabe der Anzahl der Seiten der Literatur. Hier ist die Anzahl der Seiten anzugeben, wenn es sich um ein Buch handelt. Bei einem Artikel, der in einer Zeitschrift erschienen ist, sollen die Seitenzahlen des Artikelanfangs und des Endes eingegeben werden.
+Angabe der Seitenzahl des Dokuments. Bei einem Buch ist die Anzahl der Seiten anzugeben. Bei einem Artikel aus einer Zeitschrift sind die Seitenzahlen am Anfang und am Ende des Artikels anzugeben.
 
-Beispiel: 345; 256-268 (Seitenangabe zum Artikel in einer Publikation)*
+Beispiel: 345; 256-268
 
 
 Feld: Erscheinungsjahr
 """""""""""""""""""""""
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_erscheinungsjahr.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_erscheinung.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -133,9 +117,9 @@ Feld: Erscheinungsjahr
 Abb.: Eingabezeile - Erscheinungsjahr
 
 
-Angabe der Jahreszahl der Publikation der Literatur. Das Erscheinungsjahr ist vor allem für regelmäßig erscheinende Literatur wie z.B. jährliche Tagungsbände äußerst wichtig zur Identifikation. Das Erscheinungsjahr kann sich von den entsprechenden Angaben im Zeitbezug des Objektes unterscheiden, die sich auf den Inhalt der Literatur beziehen und nicht auf die Literatur selbst.
+Angabe des Erscheinungsjahres des Dokuments. Das Erscheinungsjahr ist vor allem bei regelmäßig erscheinenden Dokumenten, wie z.B. jährlich erscheinenden Tagungsbänden, für die Identifizierung von großer Bedeutung. Das Erscheinungsjahr kann von den entsprechenden Angaben im Zeitbezug des Objekts abweichen, die sich auf den Inhalt des Dokuments und nicht auf das Dokument selbst beziehen.
 
-Beispiel: 1996 (Erscheinungsdatum der Ausgabe oder der Version)
+Beispiel: 2023
 
 
 Feld: Standort
@@ -148,10 +132,9 @@ Feld: Standort
 
 Abb.: Textfeld - Standort
 
+Angabe des Aufbewahrungsortes und ggf. des Bezugsortes des Dokuments, falls ein Bezug über die üblichen Wege (Handel, Bibliotheken) nicht möglich ist.
 
-Angabe des Aufbewahrungsortes und evtl. Bezugsort der Literatur, für den Fall, dass ein Bezug auf üblichem Wege (Handel, Bibliotheken) nicht möglich ist. Der Eintrag kann direkt über die Auswahl der Registerkarte "Text" erfolgen oder es können Adressverweise eingetragen werden, indem die Registerkarte "Verweise" aktiviert und der Link "Adresse hinzufügen" betätigt werden. Es können Adressen nach Vorname, Nachname oder Name der Einheit/Institution des aktuellen Kataloges gesucht werden. Alternativ kann der Eintrag über den Hierarchiebaum erfolgen.
-
-Beispiel: Bibliothek Umweltbundesamt (zusätzliche Angaben wie oder wann die verantwortliche Person oder Organisation zu erreichen ist)
+Beispiel: Landesarchiv Saarland oder Bibliothek des Landesamtes für ...
 
 
 Feld: ISBN-Nr.
@@ -164,9 +147,9 @@ Feld: ISBN-Nr.
 
 Abb.: Eingabezeile - ISBN-Nr.
 
-Angabe der 10-stelligen Identifikationsnummer der Literatur.
+Angabe der Identifikationsnummer der Literatur  (Internationale Standardbuchnummer - ISBN).
 
-Beispiel: 3-456-7889-X (Internationale Standardbuchnummer)
+Beispiel: 468-4-32632-238-7
 
 
 Feld: Verlag
@@ -179,9 +162,9 @@ Feld: Verlag
 
 Abb.: Eingabezeile - Verlag
 
-Angabe des Verlages, in dem die Literatur erschienen ist.
+Angabe des Verlags, in dem das Dokument erschienen ist.
 
-Beispiel: econ (Bezeichnung der verantwortlichen Organisation)
+Beispiel: Mensch und Natur + Ort
 
 
 Feld: Dokumententyp
@@ -195,9 +178,9 @@ Feld: Dokumententyp
 Abb.: Auswahlfeld - Dokumententyp
 
 
-Angabe der Art des Dokumentes. Es ist eine Kurzcharakteristik über die Art der Literatur anzugeben. Der Eintrag kann direkt erfolgen oder mit Hilfe einer Auswahlliste, die über den Pfeil am rechten Ende des Feldes geöffnet werden kann.
+Angabe der Art des Dokuments. Es ist eine kurze Beschreibung der Art des Dokuments anzugeben. Die Eingabe kann direkt oder über eine Auswahlliste erfolgen, die über den Pfeil am rechten Ende des Feldes geöffnet werden kann.
 
-Beispiel: Zeitschriftenartikel (Format der Ressource: Formatbeschreibung der Ressource)*
+Beispiel: Broschüre/Bericht
 
 
 Feld: Basisdaten
@@ -210,9 +193,9 @@ Feld: Basisdaten
 
 Abb.: Textfeld - Basisdaten
 
-Verweis auf zugrunde liegende Daten. Hier sollen Verweise zu anderen Objekten dieses Katalogs gelegt werden, die Auskunft über Herkunft und Art der zugrunde liegenden Daten geben. Es kann über den Link (Verweis anlegen/bearbeiten) ein neuer Verweis angelegt werden.
+Verweis auf zugrundeliegende Daten. Hier werden Verweise auf andere Objekte dieses Katalogs angelegt, die Auskunft über Herkunft und Art der zugrunde liegenden Daten geben. Über den Link (Verweis anlegen/bearbeiten) kann ein neuer Verweis angelegt werden.
 
-Beispiel: Deponieüberwachung Berlin-Tegel, Statistikauswertungen seit 1974 (detaillierte Beschreibung der Ebene der Quelldaten)
+Beispiel: Deponieüberwachung (Ort), Statistikauswertungen seit (mm.jjjj)
 
 
 Feld: Weiteres
@@ -228,9 +211,9 @@ Feld: Weitere bibliographische Angaben
 
 Abb.: Textfeld - Weitere bibliographische Angaben
 
-Hier können bibliographische Angaben gemacht werden, für die kein Feld explizit vorgesehen ist. Dies können z.B. Angaben zu Abbildungen oder zum Format sein. Wichtig ist auch ein Hinweis, wenn dem Dokument eine Diskette oder eine CD-ROM beiliegt bzw. es identisch auf CD-ROM erschienen ist.
+Hier können bibliographische Angaben gemacht werden, für die kein explizites Feld vorgesehen ist. Dies können z.B. Angaben zu Abbildungen oder zum Format sein. Wichtig ist auch ein Hinweis, wenn dem Dokument eine Diskette oder CD-ROM beiliegt oder es identisch auf CD-ROM erschienen ist.
 
-Beispiel: Das Kartenwerk ist im DIN A3-Format erschienen. (Information, welche für eine vollständige Ressourcenbeschreibung benötigt wird und in keinem anderen Metadatenelement erfasst wurde.)
+Beispiel: 60. Jahrgang | 2023 | Jahresheft
 
 
 Feld: Erläuterungen
@@ -243,6 +226,6 @@ Feld: Erläuterungen
 
 Abb.: Textfeld - Erläuterungen
 
-Zusätzliche Anmerkungen zur beschriebenen Literatur.
+Ergänzende Anmerkungen zum beschriebenen Dokument.
 
-Beispiel: Der Artikel beruht auf der Diplomarbeit des Autors aus dem Jahr 1995 an der Universität (Ergänzende, den Datenbestand beschreibende Information.)
+Beispiel: Der Artikel basiert auf der Dissertation des Autors von 2023 an der ... Universität (Ort).
