@@ -8,6 +8,9 @@ Der ARS kann einfach in den Raumbezügen im Feld "Amtlicher Regionalschlüssel (
 wfs_gnde - steht für Geographische Namen Deutschlands es handelt sich um einen Downloaddienst des Bundesamtes für Kartographie und Geodäsie.
 
 
+..hint:: Der Gemeindeschlüssel ist im Amtichen Regionalschlüssel enthalten.
+
+
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug-hinzufuegen_ars.png
    :align: left
    :scale: 50
@@ -53,6 +56,15 @@ Abb.: Beispiel ARS Dargun (MV) 130710027027
 | 13 0 71 Mecklenburgische Seenplatte (Landkreis)
 | 13 0 71 0027 Dargun (Amtsfreie Gemeinde)
 | 13 0 71 0027 027 Dargun (Stadt)
+
+
+Beispiel Regierungsbezirk Darmstadt (HE) 064110000000
+
+| 06 Hessen
+| 06 4 Regierungsbezirk Darmstadt
+| 06 4 11 Darmstadt (Kreisfreie Stadt)
+| 06 4 11 0000 Darmstadt (Gemeinschaftsfreie Gemeinde)
+| 06 4 11 0000 000 Darmstadt (Stadt)
 
 
 ARS Bundesland
