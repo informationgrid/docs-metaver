@@ -528,13 +528,11 @@ wfs_gnde steht für Geographische Namen und ist ein Gazetteer (Ortsverzeichnis) 
 
 Abb.: Raumbezugtyp: GN-DE mit Amtlichen Regionalschlüssel (ASR)
 
-Der Amtliche Regionalschlüssel ist wie folgt aufgebaut:
 
-| 1.–2. Stelle   = Kennzahl des Bundeslandes
-| 3. Stelle      = Kennzahl des Regierungsbezirks; wenn nicht vorhanden: 0
-| 4.–5. Stelle   = Kennzahl des Landkreises oder der kreisfreien Stadt
-| 6.–9. Stelle   = Verbandsschlüssel
-| 10.–12. Stelle = Gemeindekennzahl
+Feld: Amtlicher Regionalschlüssel (ARS)
+"""""""""""""""""""""""""""""""""""""""
+
+Den `Amtlichen Regionalschlüssel (ARS) <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/raumbezug/asr.html>`_ erfassen.
 
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_optionen.png
