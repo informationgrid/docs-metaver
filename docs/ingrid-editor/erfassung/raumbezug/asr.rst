@@ -28,7 +28,7 @@ Abb.: Typ - Geo-Thesaurus - (wfs_gnde, BKG Dienst)
 
 
 
-Beispiel ARS Hamburg: 02
+Beispiel ARS Freie Hansestadt Hamburg (02)
 
 | 02 Hamburg (Freie und Hansestadt)
 | 02 0 00 Hamburg (Kreisfreie Stadt)
