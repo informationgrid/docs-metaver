@@ -68,7 +68,7 @@ Beispiel: ARS Darmstadt (HE) 064110000000
 | 06 4 11 0000 000 Darmstadt (Stadt)
 
 
-ARS + Bundesland
+**ARS + Bundesland**
 
 | 01 Schleswig-Holstein 
 | 02 Hamburg
