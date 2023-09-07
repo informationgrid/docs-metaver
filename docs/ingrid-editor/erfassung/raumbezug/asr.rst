@@ -24,11 +24,7 @@ Abb.: Angabe des ARS
    :scale: 40
    :figwidth: 100%
 
-Abb.: Typ - Geo-Thesaurus - (wfs_gnde, BKG Dienst)
-
-
-
-Beispiel: ARS Hamburg 02
+Abb.: Beispiel: ARS Hamburg 02 mit Geo-Thesaurus (wfs_gnde, BKG Dienst)
 
 | 02 Hamburg (Freie und Hansestadt)
 | 02 0 00 Hamburg (Kreisfreie Stadt)
@@ -59,7 +55,12 @@ Abb.: Beispiel: ARS Dargun (MV) 130710027027
 | 13 0 71 0027 027 Dargun (Stadt)
 
 
-Beispiel: ARS Darmstadt (HE) 064110000000
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/ars/ars_darmstadt.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Beispiel: ARS Darmstadt (HE) 064110000000
 
 | 06 Hessen (Bundesland)
 | 06 4 Darmstadt (Regierungsbezirk)
