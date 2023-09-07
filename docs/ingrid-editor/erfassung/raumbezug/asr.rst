@@ -87,4 +87,4 @@ ARS Bundesland
 | 15 Sachsen-Anhalt
 | 16 Thüringen
 
-Sie können auch auf https://opengovtech.de/ars/ nach einem Amtlicher Regionalschlüssel suchen.
+.. tip:: Sie können auch auf https://opengovtech.de/ars/ nach einem Amtlicher Regionalschlüssel suchen.
