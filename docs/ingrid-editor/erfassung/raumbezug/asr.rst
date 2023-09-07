@@ -8,7 +8,7 @@ Der ARS kann einfach in den Raumbezügen im Feld "Amtlicher Regionalschlüssel (
 wfs_gnde - steht für Geographische Namen Deutschlands es handelt sich um einen Downloaddienst des Bundesamtes für Kartographie und Geodäsie.
 
 
-..hint:: Der Gemeindeschlüssel ist im Amtichen Regionalschlüssel enthalten.
+.. hint:: Der Gemeindeschlüssel ist im Amtichen Regionalschlüssel enthalten.
 
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/ars/raumbezug-hinzufuegen_ars.png
