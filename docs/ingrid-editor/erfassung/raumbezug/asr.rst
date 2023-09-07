@@ -7,7 +7,7 @@ Der ARS kann einfach in den Raumbezügen im Feld "ARS" oder durch den BKG-Dienst
 
 
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug-hinzufuegen_ars.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug-hinzufuegen_ars.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -15,7 +15,7 @@ Der ARS kann einfach in den Raumbezügen im Feld "ARS" oder durch den BKG-Dienst
 Abb.: Raumbezug mit Angabe des ARS
 
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/ars_hamburg.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/ars_hamburg.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -40,7 +40,7 @@ Der ARS ist wie folgt aufgebaut:
 | 10.–12. Stelle = Gemeindekennzahl
 
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/ars_dargun.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/ars_dargun.png
    :align: left
    :scale: 50
    :figwidth: 100%
