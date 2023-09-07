@@ -55,7 +55,7 @@ Abb.: Beispiel ARS Dargun (MV) 130710027027
 | 13 0 71 0027 027 Dargun (Stadt)
 
 
-ARS, Bundesland
+ARS Bundesland
 | 01 Schleswig-Holstein 
 | 02 Hamburg
 | 03 Niedersachsen
