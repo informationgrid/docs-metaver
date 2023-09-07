@@ -45,7 +45,7 @@ Der ARS ist wie folgt aufgebaut:
    :scale: 50
    :figwidth: 100%
 
-Abb.: Beispiel ARS Dargun (MV): 130710027027
+Abb.: Beispiel ARS Dargun (MV) 130710027027
 
 | 13 Mecklenburg-Vorpommern
 | 13 0 Kein Regierungsbezirk
