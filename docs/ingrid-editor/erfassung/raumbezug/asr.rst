@@ -87,4 +87,4 @@ Beispiel: ARS Darmstadt (HE) 064110000000
 | 15 Sachsen-Anhalt
 | 16 Thüringen
 
-.. tip:: Sie können auch auf https://opengovtech.de/ars/ nach einem Amtlicher Regionalschlüssel suchen.
+.. tip:: Sie können auch auf https://opengovtech.de/ars/ nach einem Amtlichen Regionalschlüssel suchen.
