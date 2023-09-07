@@ -5,6 +5,7 @@ Amtlicher Regionalschlüssel (ARS)
 
 Der ARS kann einfach in den Raumbezügen im Feld "Amtlicher Regionalschlüssel (ARS)" oder durch den BKG-Dienst (wfs_gnde) eingetragen werden.
 
+wfs_gnde - steht für Geographische Namen Deutschlands es handelt sich um einen Downloaddienst des Bundesamtes für Kartographie und Geodäsie.
 
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug-hinzufuegen_ars.png
@@ -22,7 +23,7 @@ Abb.: Raumbezug mit Angabe des ARS
 
 Abb.: Typ - Geo-Thesaurus - (wfs_gnde, BKG Dienst)
 
-(wfs_gnde - steht für Geographische Namen Deutschlands es handelt sich um einen Downloaddienst des Bundesamtes für Kartographie und Geodäsie.)
+
 
 Beispiel ARS Hamburg: 02
 
