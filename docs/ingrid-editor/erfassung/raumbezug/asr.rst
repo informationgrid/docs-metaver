@@ -33,10 +33,10 @@ Beispiel ARS Hamburg: 02
 
 Der ARS ist wie folgt aufgebaut:
 
-| 1.–2. Stelle   = Kennzahl des Bundeslandes
-| 3. Stelle      = Kennzahl des Regierungsbezirks; wenn nicht vorhanden: 0
-| 4.–5. Stelle   = Kennzahl des Landkreises oder der kreisfreien Stadt
-| 6.–9. Stelle   = Verbandsschlüssel
+| 1.–2. Stelle = Kennzahl des Bundeslandes
+| 3. Stelle = Kennzahl des Regierungsbezirks; wenn nicht vorhanden: 0
+| 4.–5. Stelle = Kennzahl des Landkreises oder der kreisfreien Stadt
+| 6.–9. Stelle = Verbandsschlüssel
 | 10.–12. Stelle = Gemeindekennzahl
 
 
@@ -47,11 +47,11 @@ Der ARS ist wie folgt aufgebaut:
 
 Abb.: Beispiel ARS Dargun (MV): 130710027027
 
-| 13: Mecklenburg-Vorpommern
-| 13 0: Kein Regierungsbezirk
-| 13 0 71: Mecklenburgische Seenplatte (Landkreis)
-| 13 0 71 0027: Dargun (Amtsfreie Gemeinde)
-| 13 0 71 0027 027: Dargun (Stadt)
+| 13 Mecklenburg-Vorpommern
+| 13 0 Kein Regierungsbezirk
+| 13 0 71 Mecklenburgische Seenplatte (Landkreis)
+| 13 0 71 0027 Dargun (Amtsfreie Gemeinde)
+| 13 0 71 0027 027 Dargun (Stadt)
 
 
  ARS Bundesland
