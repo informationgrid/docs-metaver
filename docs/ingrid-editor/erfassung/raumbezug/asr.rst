@@ -61,8 +61,8 @@ Abb.: Beispiel: ARS Dargun (MV) 130710027027
 
 Beispiel: ARS Darmstadt (HE) 064110000000
 
-| 06 Hessen
-| 06 4 Regierungsbezirk Darmstadt
+| 06 Hessen (Bundesland)
+| 06 4 Darmstadt (Regierungsbezirk)
 | 06 4 11 Darmstadt (Kreisfreie Stadt)
 | 06 4 11 0000 Darmstadt (Gemeinschaftsfreie Gemeinde - Gemeindeschlüssel)
 | 06 4 11 0000 000 Darmstadt (Stadt)
