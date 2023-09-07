@@ -3,7 +3,7 @@ Amtlicher Regionalschlüssel (ARS)
 =================================
 
 
-Der ARS kann einfach in den Raumbezügen im Feld "ARS" oder durch den BKG-Dienst (wfs_gnde) eingetragen werden.
+Der ARS kann einfach in den Raumbezügen im Feld "Amtlicher Regionalschlüssel (ARS)" oder durch den BKG-Dienst (wfs_gnde) eingetragen werden.
 
 
 
