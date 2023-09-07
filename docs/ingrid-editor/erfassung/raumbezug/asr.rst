@@ -28,7 +28,7 @@ Abb.: Typ - Geo-Thesaurus - (wfs_gnde, BKG Dienst)
 
 
 
-Beispiel ARS Freie Hansestadt Hamburg (02)
+Beispiel: ARS Freie Hansestadt Hamburg (02)
 
 | 02 Hamburg (Freie und Hansestadt)
 | 02 0 00 Hamburg (Kreisfreie Stadt)
@@ -50,7 +50,7 @@ Der ARS ist wie folgt aufgebaut:
    :scale: 50
    :figwidth: 100%
 
-Abb.: Beispiel ARS Dargun (MV) 130710027027
+Abb.: Beispiel: ARS Dargun (MV) 130710027027
 
 | 13 Mecklenburg-Vorpommern
 | 13 0 Kein Regierungsbezirk
@@ -59,7 +59,7 @@ Abb.: Beispiel ARS Dargun (MV) 130710027027
 | 13 0 71 0027 027 Dargun (Stadt)
 
 
-Beispiel ARS Darmstadt (HE) 064110000000
+Beispiel: ARS Darmstadt (HE) 064110000000
 
 | 06 Hessen
 | 06 4 Regierungsbezirk Darmstadt
