@@ -32,7 +32,8 @@ Beispiel ARS Hamburg: 02
 
 | 02 Hamburg (Freie und Hansestadt)
 | 02 0 00 Hamburg (Kreisfreie Stadt)
-| 02 0 00 000 Gemeinschaftsfreie Gemeinde (Gemeindeschlüssel) 
+| 02 0 00 000 Gemeinschaftsfreie Gemeinde (Gemeindeschlüssel)
+| 02 0 00 000 0000 Hamburg (Stadt)
 
 
 Der ARS ist wie folgt aufgebaut:
@@ -58,7 +59,7 @@ Abb.: Beispiel ARS Dargun (MV) 130710027027
 | 13 0 71 0027 027 Dargun (Stadt)
 
 
-Beispiel Regierungsbezirk Darmstadt (HE) 064110000000
+Beispiel ARS Darmstadt (HE) 064110000000
 
 | 06 Hessen
 | 06 4 Regierungsbezirk Darmstadt
