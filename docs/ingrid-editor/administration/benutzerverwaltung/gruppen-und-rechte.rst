@@ -11,8 +11,8 @@ Gruppen erstellen
 
 Um Gruppen in unserem System zu erstellen, gehen Sie wie folgt vor:
 
-1. Klicken Sie auf "Gruppen" in der Navigationsleiste.
-2. Wählen Sie "Gruppe erstellen".
+1. Klicken Sie auf "Gruppen & Rechte" in der Navigationsleiste.
+2. Wählen Sie "HINZUFÜGEN".
 3. Geben Sie einen Namen und eine Beschreibung für die Gruppe ein.
 4. Wählen Sie die Mitglieder aus der Liste der verfügbaren Benutzer aus.
 5. Speichern Sie die Gruppe. Bitte beachten Sie, dass diese Gruppe nur von Benutzern angesehen werden kann, die Teil der Gruppe sind oder Zugriffsberechtigungen haben. Änderungen an den Gruppenmitgliedschaften können jederzeit vorgenommen werden.
