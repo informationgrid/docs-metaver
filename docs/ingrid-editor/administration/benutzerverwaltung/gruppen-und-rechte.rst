@@ -6,10 +6,16 @@ Gruppen & Rechte
 In der Gruppenverwaltung werden einen bestimmten Personenkreis die Lese- oder Schreibrechte auf Vorhaben und Adressen erteilt.
 
 
+Gruppen erstellen
+-----------------
 
-Gruppen anlegen
----------------
+Um Gruppen in unserem System zu erstellen, gehen Sie wie folgt vor:
 
+1. Klicken Sie auf "Gruppen" in der Navigationsleiste.
+2. Wählen Sie "Gruppe erstellen".
+3. Geben Sie einen Namen und eine Beschreibung für die Gruppe ein.
+4. Wählen Sie die Mitglieder aus der Liste der verfügbaren Benutzer aus.
+5. Speichern Sie die Gruppe. Bitte beachten Sie, dass diese Gruppe nur von Benutzern angesehen werden kann, die Teil der Gruppe sind oder Zugriffsberechtigungen haben. Änderungen an den Gruppenmitgliedschaften können jederzeit vorgenommen werden.
 
 .. figure:: ../../../img/benutzerverwaltung/gruppen.png
    :align: left
@@ -54,5 +60,7 @@ Abb.: Vergabe von allgemeinen Rechten
 Abb.: Vergabe von allgemeinen Rechten
 
 
-Rechte vergeben
----------------
+Rechte Vergabe
+--------------
+
+Bitte beachten Sie bei der Vergabe von Rechten, dass nur befugtes Personal Zugang zu vertraulichen Informationen hat. Stellen Sie sicher, dass die Rechte auf ein Minimum beschränkt sind und nur den Bedürfnissen der betreffenden Mitarbeiter entsprechen. Überwachen Sie regelmäßig die Vergabe von Rechten und nehmen Sie Änderungen vor, wenn sich die Umgebung oder die Position eines Mitarbeiters ändert.
