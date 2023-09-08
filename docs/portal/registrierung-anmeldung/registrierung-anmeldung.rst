@@ -83,7 +83,7 @@ Nach dem Laden des Editors wird zuerst die Übersicht gezeigt. Hier wird dargest
 
 .. figure:: ../../img/registrierung-anmeldung/ige_dashboard.png
    :align: left
-   :scale: 40
+   :scale: 30
    :figwidth: 100%
 
 Abb.: Home-Seite - Übersicht
@@ -125,7 +125,7 @@ Es erscheint die Seite "E-Mail gesendet" mit der Nachricht: "Sie haben eine E-Ma
 
 .. figure:: ../../img/registrierung-anmeldung/anmeldung_passwort-vergessen_meldung.png
    :align: left
-   :scale: 60
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Seite E-Mail gesendet
@@ -144,7 +144,7 @@ Es öffnet sich die Seite "Passwort ändern" mit der Aufforderung: "Ändern Sie 
 
 .. figure:: ../../img/registrierung-anmeldung/anmeldung_passwort-vergessen_passwort-aendern.png
    :align: left
-   :scale: 40
+   :scale: 50
    :figwidth: 100%
 
 Abb.: Seite Passwort ändern
@@ -154,7 +154,7 @@ Die Weiterleitung zur Anmeldeseite erfolgt automatisch, wo man sich direkt mit d
 
 .. figure:: ../../img/registrierung-anmeldung/anmeldung.png
    :align: left
-   :scale: 40
+   :scale: 30
    :figwidth: 100%
 
 Abb.: Seite Anmeldung
