@@ -21,7 +21,7 @@ Durch Anklicken des "HINZUFÜGEN"-Buttons wird ein Dialogfenster geöffnet.
 
 .. figure:: ../../../img/ige/administration/benutzerverwaltung/hinzufuegen.png
    :align: left
-   :scale: 40
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Button "HINZUFÜGEN"
@@ -35,7 +35,7 @@ Feld Login
 
 .. figure:: ../../../img/ige/administration/benutzerverwaltung/benutzer-hinzufuegen.png
    :align: left
-   :scale: 40
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Dialogfenster - Benutzer hinzufügen
@@ -46,7 +46,7 @@ Feld Rolle
 
 .. figure:: ../../../img/ige/administration/benutzerverwaltung/rolle-zuweisen.png
    :align: left
-   :scale: 40
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Rolle zuweisen
@@ -67,7 +67,7 @@ Nachdem alle Felder im Dialogfenster ausgefüllt wurden, muss der Button "ANLEGE
 
 .. figure:: ../../../img/ige/administration/benutzerverwaltung/gruppe-zuweisen.png
    :align: left
-   :scale: 40
+   :scale: 50
    :figwidth: 100%
 
 Abb.: Gruppe zuweisen
@@ -77,7 +77,7 @@ Mit "SPEICHERN" (Schaltfläche oben rechts) schließen Sie den Vorgang ab.
 
 .. figure:: ../../../img/ige/administration/benutzerverwaltung/speichern.png
    :align: left
-   :scale: 40
+   :scale: 50
    :figwidth: 100%
 
 Abb.: Button "SPEICHERN"
