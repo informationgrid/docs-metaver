@@ -1,23 +1,28 @@
 
+======
 Rollen
 ======
 
-Die Rechte der Benutzer im UVP-Editor werden in der Gruppenadministration der UVP-Editor-Benutzerverwaltung festgelegt. Zunächst werden Gruppen definiert, die spezifische Rechte für einen Teilbereich des Katalogs aufweisen und anschließend die Benutzer einer oder mehreren Gruppen zugeordnet.
+Die Benutzerrechte im InGrid Editor werden in der Verwaltung der Benutzer des InGrid Editors in der Gruppenadministration festgelegt. Zunächst müssen Gruppen definiert werden, die spezifische Rechte für einen Bereich des Katalogs aufweisen, und anschließend werden die Benutzer einer oder mehreren Gruppen zugeordnet.
 
-Im UVP-Editor werden hierbei folgende Rechte (Rollen) unterschieden:
+Dabei werden im InGrid Editor folgende Rechte (Rollen) unterschieden:
 
-**1. Autor:** Er hat Schreibrechte auf einen Teilbaum des Kataloges, hat aber keinen Zugang zur Benutzerverwaltung oder zu anderen Verwaltungsfunktionen.
+**1. Autor:** Er hat Zugriff auf einen Teil des Verzeichnisbaums, aber keine Berechtigung zur Benutzerverwaltung oder anderen Verwaltungsfunktionen.
 
-**2. Metadaten-Administrator:** Er darf von den Verwaltungsfunktionen nur die Benutzerverwaltung bedienen. Er darf Benutzer mit der Rolle Metadaten-Autor erstellen. Die Rechte dieser Benutzer dürfen aber maximal den Rechten des jeweiligen Metadaten-Administrators entsprechen (z.B. Schreibrechte nur auf einen Teilbaum des Katalogs).
+**2. Metadaten-Administrator:** Er soll nur die Benutzerverwaltungsfunktionen bedienen und hat keinen Zugang zu anderen Administrationsfunktionen. Der Metadaten-Administrator hat ausschließlich Zugriff auf die Verwaltungsfunktionen für Benutzer und darf lediglich Benutzer mit der Rolle Metadaten-Autor erstellen. Die Rechte der erstellten Benutzer dürfen maximal denen des Metadaten-Administrators entsprechen, z. B. Beschränkung der Schreibrechte auf einen bestimmten Teilbaum des Katalogs.
 
-**3. Katalog-Administrator:** Es gibt nur einen Benutzer mit diesen Rechten. Er hat das Recht alle Verwaltungsfunktionen bedienen zu dürfen und kann Benutzer auf allen darunterliegenden Hierarchieebenen mit Schreibrechten auf beliebige Teilbäume erstellen.
+**3. Katalog-Administrator:** Er ist befugt, sämtliche Verwaltungsfunktionen zu bedienen und kann Benutzer auf allen untergeordneten Hierarchieebenen mit Schreibrechten für beliebige Teilbäume erstellen.
 
-Eine Ebene über den Katalogadmnistrator ist der Superadministrator, dieser wird durch den Katalogadministrator bei technischen Problemen kontaktiert.
+Eine Stufe über dem Katalogadministrator befindet sich der Superadministrator, der vom Katalogadministrator bei technischen Problemen kontaktiert wird.
 
-.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_rollen.png
+
+.. figure:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_rollen.png
+   :align: left
+   :scale: 40
+   :figwidth: 100%
 
 Abb.: Benutzerverwaltung - Rollen
 
-Der Katalog-Administrator kann Autoren und Metadaten-Administratoren einrichten. Ein Metadaten-Administrator hat immer das Recht, die ihm nachgeordneten Autoren zu administrieren.
+Der Katalog-Administrator kann Autoren und Metadaten-Administratoren einrichten. Ein Metadaten-Administrator hat immer das Recht, die ihm nachgeordneten Autoren zu verwalten.
 
 
