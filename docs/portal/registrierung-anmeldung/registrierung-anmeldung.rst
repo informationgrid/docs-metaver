@@ -68,7 +68,7 @@ Wenn Sie über eine Benutzerkennung verfügen und als InGrid Editor registriert 
 
 .. figure:: ../../img/registrierung-anmeldung/anmeldung.png
    :align: left
-   :scale: 40
+   :scale: 30
    :figwidth: 100%
 
 Abb: Seitenanmeldung - Benutzername und Passwort eingeben
@@ -103,7 +103,7 @@ Aufruf der Seite "Anmeldung": https://metaver.de/log-in. Klicken Sie auf den Lin
 
 .. figure:: ../../img/registrierung-anmeldung/log-in.png
    :align: left
-   :scale: 50
+   :scale: 40
    :figwidth: 100%
 
 Abb: Funktion Passwort vergessen
@@ -113,7 +113,7 @@ Es öffnet sich die „Passwort vergessen“ - Seite, deren Aufforderung bitte f
 
 .. figure:: ../../img/registrierung-anmeldung/anmeldung.png
    :align: left
-   :scale: 40
+   :scale: 30
    :figwidth: 100%
 
 Abb.: Angabe der E-Mail-Adresse
@@ -144,7 +144,7 @@ Es öffnet sich die Seite "Passwort ändern" mit der Aufforderung: "Ändern Sie 
 
 .. figure:: ../../img/registrierung-anmeldung/anmeldung_passwort-vergessen_passwort-aendern.png
    :align: left
-   :scale: 50
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Seite Passwort ändern
