@@ -10,28 +10,46 @@ In der Gruppenverwaltung werden einen bestimmten Personenkreis die Lese- oder Sc
 Gruppen anlegen
 ---------------
 
-.. image:: ../../../img/benutzerverwaltung/gruppen.png
+
+.. figure:: ../../../img/benutzerverwaltung/gruppen.png
+   :align: left
+   :scale: 40
+   :figwidth: 100%
 
 Abb.: Verwaltung von Gruppen
 
 
-.. image:: ../../../img/benutzerverwaltung/hinzufuegen.png
-   :width: 300
+
+.. figure:: ../../../img/benutzerverwaltung/hinzufuegen.png
+   :align: left
+   :scale: 40
+   :figwidth: 100%
 
 Abb.: Gruppe hinzufügen
 
 
-.. image:: ../../../img/benutzerverwaltung/gruppe-hinzufuegen.png
+
+.. figure:: ../../../img/benutzerverwaltung/gruppe-hinzufuegen.png
+   :align: left
+   :scale: 40
+   :figwidth: 100%
 
 Abb.: Fenster Gruppe hinzufügen
 
 
-.. image:: ../../../iimg/benutzerverwaltung/allgemeine-rechte.png
+
+.. figure:: ../../../iimg/benutzerverwaltung/allgemeine-rechte.png
+   :align: left
+   :scale: 40
+   :figwidth: 100%
 
 Abb.: Vergabe von allgemeinen Rechten
 
 
-.. image:: ../../../img/benutzerverwaltung/allgemeine-rechte-erteilt.png
+.. figure:: ../../../img/benutzerverwaltung/allgemeine-rechte-erteilt.png
+   :align: left
+   :scale: 40
+   :figwidth: 100%
 
 Abb.: Vergabe von allgemeinen Rechten
 
