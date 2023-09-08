@@ -9,7 +9,7 @@ Suche
 Mit der Suchfunktion in der Benutzer- und Gruppenverwaltung können Benutzer und Gruppen einfach gefunden werden.
 Bereits während der Eingabe des Nutzers oder der Gruppe werden passende Einträge automatisch ausgewählt.
 
-.. figure:: ../../../img/ige/administration/benutzerverwaltung/suche-nutzer.png
+.. figure:: ../../../img/ige/administration/benutzerverwaltung/suche-benutzer.png
    :align: left
    :scale: 50
    :figwidth: 100%
