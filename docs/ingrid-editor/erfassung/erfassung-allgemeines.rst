@@ -1,16 +1,22 @@
+
+======================
 Der neue InGrid Editor
 ======================
 
-Der neue InGrid Editor ist fertig programmiert und kann für die Erfassung von Metadaten eingesetzt werden.
-Es sind viele Neuerungen eingeflossen. Es wurden Erfahrungen aus den letzten Jahren, eine benutzerfreundliche Bedienung, die Barrierefreiheit, ein responsives Layout (Darstellung auf unterschiedlichen Bildschirmen), eine Touch Bedienung für Tablets und Touch-Monitoren berücksichtigt.
-Eine intuitive Bedienung soll die Eingabe von Daten erleichtern. Die Bedienungsanleitung wird fortlaufend an den Neuerungen des Editors angepasst und befindet sich noch in der Bearbeitung. Sie können uns gerne zum neuen InGrid Editor und zur Bedienungsanleitung ein Feedback über das `METAVER Kontaktformular <https://metaver.de/kontakt>`_ senden, wir sind an Ihrer Meinung interessiert.
+Der neue InGrid Editor ist programmiert und einsatzbereit für die Erfassung von Metadaten.
+Viele Neuerungen wurden berücksichtigt, darunter Erfahrungen aus den vergangenen Jahren, Benutzerfreundlichkeit, Barrierefreiheit, responsives Layout (geeignet für unterschiedliche Bildschirme) sowie die Touch-Bedienung für Tablets und Touch-Monitore.
+Eine intuitive Bedienung erleichtert die Eingabe von Daten. Die Bedienungsanleitung wird laufend an die Änderungen des Editors angepasst und befindet sich derzeit noch in Bearbeitung. Falls Sie Feedback zum neuen InGrid Editor oder zur Bedienungsanleitung haben, können Sie uns gerne über das `METAVER Kontaktformular <https://metaver.de/kontakt>`_ kontaktieren. Wir sind an Ihrer Meinung interessiert.
 
 InGrid Editor im Ausgangszustand
 --------------------------------
  
-Nach dem Laden des InGrid Editors wird die Übersicht angezeigt. Dargestellt werden Metadaten bzw. Adressen die zuletzt bearbeitet wurden und eine Statistik wie viele Metadaten sich in Bearbeitung befinden und wie viele veröffentlicht wurden.
+ Nachdem der InGrid Editor geladen wurde, wird die Übersicht angezeigt. Es werden die zuletzt bearbeiteten Metadaten bzw. Adressen sowie eine Statistik angezeigt, die angibt, wie viele Metadaten sich derzeit in Bearbeitung und wie viele bereits veröffentlicht sind.
+
 
 .. figure:: ../../img/ige/allgemein/uebersicht.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
    
 Abb.: Übersicht
 
@@ -19,6 +25,9 @@ Aufbau der Benutzeroberfläche
 -----------------------------
 
 .. figure:: ../../img/ige/allgemein/benutzeroberflaeche.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
    
 Abb.: InGrid Editor - Benutzeroberfläche
 
@@ -32,37 +41,48 @@ Aufbau der Benutzeroberfläche:
 Strukturierung der Daten
 ------------------------
 
-Im InGrid Editor können die Daten mit Hilfe von Ordnern strukturiert werden.
+Im InGrid Editor können Daten mithilfe von Ordnern strukturiert werden.
 
 .. figure:: ../../img/ige/allgemein/symbolleiste_ordner-erstellen.png
-   :width: 50
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: InGrid - Ordnersymbol im Eingabeformular
 
+
 .. figure:: ../../img/ige/allgemein/datenstruktur.png
-   :width: 400
+   :align: left
+   :scale: 50
+   :figwidth: 100%
    
 Abb.: InGrid Editor - Aufbau der Ordnerstruktur
 
-Durch Klicken auf den Pfeil nach rechts wird die Ordnerstruktur ausgeklappt bzw. durch Anklicken des Pfeils nach unten wird die Struktur geschlossen.
+Durch Klicken auf den Pfeil nach rechts wird die Ordnerstruktur geöffnet und durch Klicken auf den Pfeil nach unten wird sie geschlossen.
  
 
 Metadatentypen
 --------------
 
-Im InGrid Editor gibt es verschiedene Metadatentypen bzw. Adresstypen. 
+Im InGrid-Editor gibt es verschiedene Arten von Metadaten oder Adressestypen. 
 
 **Daten**
 
+
 .. figure:: ../../img/ige/allgemein/icons-metadaten.png
-   :width: 400
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Metadatentypen in der Ordnerstruktur
 
 **Adressen**
 
+
 .. figure:: ../../img/ige/allgemein/icons-adressen.png
-   :width: 250
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Adresstypen in der Ordnerstruktur
 
@@ -71,7 +91,7 @@ Abb.: Adresstypen in der Ordnerstruktur
 Symbole - Bearbeitungsstatus
 ----------------------------
 
-Neben Metadatentypen bzw. dem Adresstyp zeigen die Icons zusätzlich den jeweiligen Bearbeitungsstatus an.
+Neben den Metadaten- und Adresstypen zeigen die Icons auch den Bearbeitungsstatus an, um eine bessere Übersicht zu gewährleisten.
 
 .. csv-table::
    :widths: 50, 150, 300
@@ -80,7 +100,6 @@ Neben Metadatentypen bzw. dem Adresstyp zeigen die Icons zusätzlich den jeweili
    .. figure:: ../../img/ige/allgemein/icon_bearbeitungsstatus-gespeichert.png , orange , Der Metadatensatz bzw. die Adresse wurde angelegt und gespeichert und befinden sich in Bearbeitung.
 	.. figure:: ../../img/ige/allgemein/icon_bearbeitungsstatus-veroeffentlicht.png, schwarz , Der Metadatensatz bzw. die Adresse wurde veröffentlicht
    .. figure:: ../../img/ige/allgemein/icon_bearbeitungsstatus-in-bearbeitung.png , orange und schwarz , Es handelt sich um eine veröffentlichte Version des Metadatensatzes bzw. der Adresse - der Metadatensatz wurde bearbeitet aber noch nicht erneut veröffentlicht.
-
 
 
 Berechtigungen zu den Metadaten 
@@ -105,7 +124,7 @@ Veröffenlichungsrecht setzten ...
 
 Abb.: Veröffentlichungsrechte für Internet, Intranet und amtsintern
 
-An den Symbolen in der Ordnerstruktur, wird durch einen Punkt das Veröffentlichungsrecht der Adresse oder des Metadatensatzes angezeigt.
+Anhand der Symbole in der Ordnerstruktur wird durch einen Punkt das Veröffentlichungsrecht der Adresse oder des Metadatensatzes angezeigt.
 
 .. csv-table::
    :widths: 50, 150, 300
@@ -138,29 +157,41 @@ Verantwortlichkeit ändern
 
 Abb.: Auswahl Verantwortung für den Metadatensatz
 
-Nach der Erstellung eines neuen Metadatensates wird automatisch die Person als Verantworwortliche eingetragen, die den Metadatensatz erstellt hat. In der Regel ist der Erfasser auch die fachlich Verantwortliche Person (Standardeinstellung). Als Verantwortlich sollte die Person eingetragen werden, die für die Aktualisierung der Metadaten zuständig ist.
+
+Nachdem ein neuer Metadatensatz erstellt wurde, wird automatisch die Person als verantwortlich eingetragen, die den Metadatensatz erstellt hat. In der Regel ist der Erfasser auch die fachlich verantwortliche Person (Standardeinstellung). Die Person, die für die Aktualisierung der Metadaten zuständig ist, sollte als Verantwortliche eingetragen werden.
 
 
 Menü
 ----
 
+
 .. figure:: ../../img/ige/allgemein/menue.png
-   :width: 300
+   :align: left
+   :scale: 50
+   :figwidth: 100%
    
 Abb.: Menü Symbole mit Beschriftung
 
 .. figure:: ../../img/ige/allgemein/menu_verkleinern.png
-   :width: 150
+   :align: left
+   :scale: 50
+   :figwidth: 100%
    
 Abb.: Menü verkleinern
 
+
 .. figure:: ../../img/ige/allgemein/menue_verkleinert.png
-   :height: 300
+   :align: left
+   :scale: 50
+   :figwidth: 100%
    
 Abb.: Menü (verkleinernert) - Symbole
 
+
 .. figure:: ../../img/ige/allgemein/menue_vergroessern.png
-   :width: 50
+   :align: left
+   :scale: 50
+   :figwidth: 100%
    
 Abb.: Menü vergrößern
 
@@ -169,7 +200,9 @@ Symbolleiste
 ------------
 
 .. figure:: ../../img/ige/allgemein/toolbar.png
-   :width: 600
+   :align: left
+   :scale: 50
+   :figwidth: 100%
    
 Abb.: Symbolleiste
 
@@ -191,7 +224,9 @@ Hier im Einzelnen die zur Verfügung stehenden Werkzeuge:
 
 
 .. figure:: ../../img/ige/allgemein/toolbar_submenue.png
-   :width: 250
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Symbolleiste - Untermenü für Kopieren / Verschieben
 
@@ -206,20 +241,20 @@ Der getCapabilities Assistent
 
 Abb.: Symbolleiste -  getCapabilities-Assistent
 
-Für die Erfassung von Geodatendiensten (WMS, WFS, WCS, WCTS, WMTS und CSW) kann der getCapabilities-Assistent genutzt werden. Neu ist, dass der Assistent über die Symbolleiste aufgerufen werden muss. In dem sich öffnenden Fenster ist die getCapabilitie-URL einzutragen. Mit den Button "ÜBERNEHMEN" die Opreationen im Hintergrund verarbeitet, so dass die Erfassung von OGC konformen Diensten erheblich vereinfacht wird. Die Ergebnisse der Analyse werden angezeigt, es kann eine Auswahl der Metadaten vorgenommen werden, die in den Metadatensatz übernommen werden sollen. Anschließend kann der Datensatz im InGrid Editor weiterbearbeitet und gespeichert werden.
+Für die Erfassung von Geodatendiensten (WMS, WFS, WCS, WCTS, WMTS und CSW) kann der getCapabilities-Assistent genutzt werden. Es ist neu, dass der Assistent über die Symbolleiste aufgerufen werden muss. In dem sich öffnenden Fenster muss die getCapabilities-URL eingetragen werden. Nachdem der Button "ÜBERNEHMEN" betätigt wurde, werden die Operationen im Hintergrund verarbeitet, wodurch die Erfassung von OGC-konformen Diensten erheblich vereinfacht wird. Die Analyseergebnisse werden angezeigt und es besteht die Möglichkeit, auszuwählen, welche Metadaten in den Metadatensatz übernommen werden sollen. Danach kann der Datensatz im InGrid Editor weiter bearbeitet und gespeichert werden.
 
 Eine ausführliche Beschreibung für diese Funktion erfolgt im Datensatztyp `Geodatendienst <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztyp-geodatendienst.html>`_.
 
 
-.. hint:: Der Allgemeine Erfassungsassistent ist im neuen InGrid Editor entfallen.
+.. hint:: Der Allgemeine Erfassungsassistent wurde aus dem neuen InGrid Editor entfernt.
 
 
 Alle - Felder anzeigen
 ----------------------
 
-Je nach Auswahl des Datensatztyps, werden in der Erfassungsmaske des InGrid Editors unterschiedliche Felder angezeigt. Die Pflichtfelder unterscheiden sich zwischen den Datensatztypen. Am umfangreichsten ist der Datensatztyp "Geodatensatz", der Typ "Fachaufgabe" ist dagegen am schnellsten zu befüllen.
+Je nach gewähltem Datensatztyp werden in der Erfassungsmaske des InGrid-Editors verschiedene Felder angezeigt. Die Pflichtfelder sind abhängig von dem jeweiligen Datensatztyp und variieren dementsprechend. Der Datensatztyp "Geodatensatz" ist dabei am umfangreichsten, während der Typ "Fachaufgabe" am schnellsten zu befüllen ist.
 
-Über den Schalter "Alle" oben. rechts (im grauen Bereich) können weitere Optionalke Felder eingeblendet werde.
+Über den Schalter "Alle" oben rechts im grauen Bereich können weitere optionale Felder eingeblendet werden.
 
 .. figure:: ../../img/ige/allgemein/alle.png
    :align: left
@@ -228,13 +263,13 @@ Je nach Auswahl des Datensatztyps, werden in der Erfassungsmaske des InGrid Edit
 
 Abb.: Schalter für das Ein- und Ausblenden von optionalen Feldern
 
-.. hint:: Grundsätzlich wird empfohlen, nicht nur die Pflichtfelder auszufüllen, sondern auch die optionalen Felder (soweit möglich) mit Einträgen zu versehen, um einen Mehrwert zu erzielen.
+.. hint:: Grundsätzlich empfehlen wir, nicht nur die Pflichtfelder auszufüllen, sondern auch soweit wie möglich die optionalen Felder mit Einträgen zu versehen, um einen Mehrwert zu erzielen. 
 
 
 Ordner-Navigation
 -----------------
 
-Im grauen Bereich der Erfassungsmaske befindet sich die Ordner-Navigation. Hier benommen Benutzer anzeigt, in welcher Ordner-Ebene sie sich gerade befinden.
+Im grauen Bereich der Erfassungsmaske befindet sich die Ordner-Navigation, die dem Benutzer anzeigt, in welcher Ordner-Ebene er sich gerade befindet.
 
 .. figure:: ../../img/ige/allgemein/ordner-navigation.png
    :align: left
@@ -246,7 +281,7 @@ Abb.: Ordner-Navigation
 Sprungmarken
 ------------
 
-Unter dem Titel des Datensates (ebenfalls im grauen Bereich) befindet sich die Sprungmarken, über diese Navigation können Benutzer schnell in die verschiedenen Abschnitte der Erfassungsmaske springen ohne lange scrollen zu müssen.
+Unter dem Titel des Datensatzes (ebenfalls im grauen Bereich) sind Sprungmarken zu finden, mit deren Hilfe Benutzer schnell zu verschiedenen Abschnitten der Erfassungsmaske springen können, ohne lange scrollen zu müssen.
 
 .. figure:: ../../img/ige/allgemein/sprungmarken.png
    :align: left
@@ -259,10 +294,12 @@ Abb.: Sprungmarken
 Eingabefelder
 -------------
 
-Im InGrid Editor gibt es eine Vielzahl von Feldern, die ausgefüllt werden können, es müssen jedoch nicht immer alle Felder belegt werden. Für jedes Verfahren bzw. jede Adresse gibt es jedoch sogenannte Pflichtfelder, die auf jeden Fall ausgefüllt werden müssen. Ohne die Befüllung dieser Pflichtfelder lässt sich der Datensatz nicht abspeichern! Gekennzeichnet sind diese Pflichtfelder durch ein Sternchen. 
+Im InGrid Editor stehen eine Vielzahl an Feldern zur Verfügung, doch nicht alle Felder müssen zwingend ausgefüllt werden. Jeder Metadatensatz oder jede Adresse hat jedoch Pflichtfelder, die unbedingt ausgefüllt werden müssen. Ohne die Befüllung dieser Pflichtfelder ist das Abspeichern des Datensatzes nicht möglich. Diese Pflichtfelder sind durch ein Sternchen gekennzeichnet. 
 
 .. figure:: ../../img/ige/allgemein/felder.png
-
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Eingabefelder mit * sind Pflichtfelder
 
@@ -277,7 +314,9 @@ Zum Füllen von Textfeldern klicken Sie in das Feld. Zum Vergrößern des Feldes
 
 
 .. figure:: ../../img/ige/allgemein/feldtyp_textfeld.png
-
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.:  Feldtyp - Textfeld
 
@@ -286,16 +325,19 @@ In Textfeldern dürfen die folgenden Tags verwendet werden:
 
 **Datumsangaben**
 
-Der Kalender wird über das Kalendersymbol an der rechten Seite des Feldes aufgeklappt.
+Der Kalender lässt sich über das Kalendersymbol auf der rechten Seite des Feldes öffnen.
 
 
 
 **Auswahllisten**
 
-Auswahllisten werden über den Pfeil an der rechten Seite des Feldes aufgeklappt. Das „Autocomplete Feature“ sorgt dafür, dass bei der Eingabe Vorschläge angezeigt werden.
+Auswahl-Listen können über den Pfeil auf der rechten Seite des Feldes aufgeklappt werden. Das "Autocomplete"-Feature zeigt Vorschläge während der Eingabe an.
+
 
 .. figure:: ../../img/ige/allgemein/feldtyp_auswahl.png
-   :width: 500
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Feldtyp - Auswahllisten und Datumsangabe
 
@@ -303,36 +345,44 @@ Abb.: Feldtyp - Auswahllisten und Datumsangabe
 Speichern & Veröffentlichen
 ---------------------------
 
-Im InGrid Editor werden zwei Speicherarten unterschieden: 
+Im InGrid Editor gibt es zwei Speicheroptionen: "Speichern" speichert den bearbeiteten oder neu erstellten Datensatz, aber die Daten werden noch nicht im Internet veröffentlicht. Sie bleiben nur in der Ordnerstruktur des InGrid Editors sichtbar. Das Speichern ist jederzeit möglich, auch wenn alle Pflichtfelder noch nicht ausgefüllt wurden.
 
-Das "SPEICHERN" speichert den geänderten bzw. neu erfassten Datensatz, die Daten werden allerdings noch nicht für die Veröffentlichung im Internet freigegeben, d.h. sie bleiben weiterhin nur in der Ordnerstruktur des InGrid Editors sichtbar. Das Speichern ist jederzeit möglich, auch wenn noch nicht alle Pflichtfelder ausgefüllt sind.
 
 .. figure:: ../../img/ige/allgemein/speichern.png
-   :width: 300
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Speichern
 
 
 Mit dem abschließenden "VERÖFFENTLICHEN" werden die Daten für das Internet freigegeben.
 
+
 .. figure:: ../../img/ige/allgemein/veroeffentlichen.png
-   :width: 300
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Veröffentlichen
 
 
-Voraussetzung für das "VERÖFFENTLICHEN" ist die Befüllung sämtlicher Pflichtfelder. Fehlen entsprechende Angaben, erscheint bei der Betätigung des Buttons "VERÖFFENTLICHEN" eine Fehlermeldung und die Überschriften der entsprechenden Felder werden in rot angezeigt. 
+Um den Vorgang "Veröffentlichen" zu ermöglichen, müssen alle Pflichtfelder ausgefüllt werden. Fehlen notwendige Angaben, erscheint beim Betätigen des Buttons "Veröffentlichen" eine Fehlermeldung und die Überschriften der fehlenden Felder werden rot angezeigt. 
 
 .. figure:: ../../img/ige/allgemein/fehler_felder-korrekt-ausfuellen.png
-   :width: 300
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Hinweis - Alle Pflichtfelder ausfüllen
 
-Um trotz der Fehlermeldung die Bearbeitung sichern zu können, wählen Sie die Funktion "SPEICHERN".
+Um trotz der Fehlermeldung die Bearbeitung zu sichern, wählen Sie die Funktion "SPEICHERN".
 
 
 .. figure:: ../../img/ige/allgemein/meldungen_ein-eintrag-erwartet.png
-   :width: 400
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Hinweis am Feld - Dieses Feld muss ausgefüllt sein
 
@@ -343,70 +393,102 @@ Zeitgesteuerte Veröffentlichung
 -------------------------------
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichen.png
-   :width: 300
+   :align: left
+   :scale: 50
+   :figwidth: 100%
    
 Abb.: VERÖFFENTLICHEN
 
+
+.. figure:: ../../img/ige/allgemein/veroeffentlichungsvarianten.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
 Abb.: Dialogfenster - Auswahl für Veröffentlichungsvarianten
-   
+
+
+
 .. figure:: ../../img/ige/allgemein/veroeffentlichung-planen-kalender.png
-   :width: 300
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Dialogfenster - Auswahl für Veröffentlichungsdatum
 
 Das Veröffentlichungsdatum wird danach im Kopfbereich des Datensatzes angezeigt.
 
+
 .. figure:: ../../img/ige/allgemein/anzeige-veroeffentlichung.png
-   :width: 500
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Kopfbereich der Eingabemaske - Anzeige des Veröffentlichungsdatums
 
-Unter dem Veröffentlichungsdatum befindet sich der Button "VERÖFFENTLICHUNG ABBRECHEN UND DATENSATZ BEARBEITEN". Nach Betätigung erscheint ein grünes Feld mit dem Hinweis: "Die geplante Veröffentlichung wurde abgebrochen."
+Unterhalb des Veröffentlichungsdatums befindet sich ein Button mit der Beschriftung "Veröffentlichung abbrechen und Datensatz bearbeiten". Nach dem Klick darauf erscheint ein grünes Feld mit der Meldung: "Die geplante Veröffentlichung wurde abgebrochen".
 
 
 Optionen für die Veröffentlichung
 ---------------------------------
    
-Rechts von VERÖFFENTLICHEN befindet sich der Button für verschiedene Optionen (Pfeil nach unten).
+Rechts neben VERÖFFENTLICHEN befindet sich der Button für verschiedene Optionen (Pfeil nach unten).
+
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichung_planen.png
-   :width: 300
-   
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
 Abb.: Fenster mit Optionen für die Veröffentlichung
    
 
 Option: "Jetzt veröffentlichen"
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Der Button VERÖFFENTLICHEN und die Option "Jetzt veröffentlichen" haben die selbe Funktionalität.
+Der Button "Veröffentlichen" und die Option "Jetzt veröffentlichen" haben dieselbe Funktionalität.
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichung.png
-   :width: 500
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Dialogfenster - Auswahl für Veröffentlichungsvarianten
 
+
 .. figure:: ../../img/ige/allgemein/veroeffentlichen_meldung.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Meldung: Das Dokument wurde veröffentlicht
 
 
 Option: "Veröffentlichung planen"
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Datensätze können zu einem zukünftigen Zeitpunkt veröffentlicht werden. Bei der Veröffentlichung wird nach der Validierung das Dialogfenster "Veröffentlichen" angezeigt, in dem ein zukünftiges Veröffentlichungsdatum "VERÖFFENTLICHUNG PLANEN" ausgewählt werden kann. Es öffnet sich dann ein weiteres Fenster "Veröffentlichen planen" mit einer Kalenderfunktion, hier kann das Veröffentlichungsdatum gewählt werden.
+Datensätze können in Zukunft veröffentlicht werden. Nach der Validierung wird beim Veröffentlichen das Dialogfenster "Veröffentlichen" angezeigt, in dem das zukünftige Veröffentlichungsdatum "VERÖFFENTLICHUNG PLANEN" ausgewählt werden kann. Im Anschluss öffnet sich ein weiteres Fenster mit der Kalenderfunktion "Veröffentlichen planen", in dem das Veröffentlichungsdatum gewählt werden kann.
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichen_planen.png
-   :width: 300
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Funktion Veröffentlichung planen - Angabe eines Datums
-   
-   
+
+
 .. figure:: ../../img/ige/allgemein/veroeffentlichen_planen_meldung.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Meldung für die geplante Veröffentlichung
 
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichung_abgebrochen.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Meldung für: VERÖFFENTLICHUNG ABBRECHEN UND DATENSATZ BEARBEITEN
 
@@ -414,9 +496,13 @@ Abb.: Meldung für: VERÖFFENTLICHUNG ABBRECHEN UND DATENSATZ BEARBEITEN
 Option: "Auf letzte Veröffentlichung zurücksetzten"
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Wurde ein Metadatensatz veröffentlicht und danach eine Änderung in die Metadaten eingefügt und gespeichert (Symbol orange/schwarz), so lässt sich diese Änderung über die Funktion "Auf letzte Veröffentlichung zurücksetzen" rückgängig machen (Symbol schwarz).
+Wenn ein Metadatensatz veröffentlicht und danach geändert und gespeichert wurde (Symbol orange/schwarz), kann die Änderung über die Funktion "Auf letzte Veröffentlichung zurücksetzen" (Symbol schwarz) rückgängig gemacht werden.
+
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichung_auf-letzte-veroeffentlichung-zuruecksetzen.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Auf letzte Veröffentlichung zurücksetzen
 
@@ -424,62 +510,80 @@ Abb.: Auf letzte Veröffentlichung zurücksetzen
 Option: "Veröffentlichung zurückziehen"
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Für diese Option müssen im jeweiligen Bundesland Festlegungen getroffen werden, wann veröffentlichte Datensätze zurückgezogen werden dürfen.
+Für diese Option müssen in den Bundesländern Regelungen getroffen werden, die festlegen, wann veröffentlichte Datensätze zurückgezogen werden dürfen.
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichung_zurueckziehen.png
-   :width: 400
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Abfrage ob die Veröffentlichung wirklich zurückgezogen werden soll
 
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichung_zurueckgezogen.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
-Abb.: Meldung, dass für diesen Datensatz die Veröffentlichung zurückgezogen wurde.
+Abb.: Die Veröffentlichung für diesen Datensatz wurde zurückgezogen.
 
-
-Adressen und Metadaten suchen
------------------------------
-
-Die Beschreibung wie Adressen oder Metadaten gesucht werden können, steht unter dem Block "Funktionen im InGrid Editor", Abschnitt `"Suche" <...>`_.
 
 
 Metadaten anzeigen
 ------------------
 
 .. figure:: ../../img/ige/allgemein/kopf_metadaten-anzeigen.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Metadaten - Metainformationen anzeigen
 
 
 .. figure:: ../../img/ige/allgemein/kopf_metadaten-ansicht.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Metadaten - Metainformationen  - Metadaten
 
 
 Besuchszeit ist abgelaufen (Logout)
--------------------------------------------
+-----------------------------------
 
-Wenn eine längere Zeit (30 Minuten) keine Interaktion mit dem Editor stattfindet, läuft die Besuchszeit ab. 5 Minuten vor Ablauf der Besuchszeit erscheint oben in der Seite ein Countdown. Ist der Countdown angelaufen wird der Benutzer aus dem InGrid Editor ausgeloggt und muss sich am Editor neu anmelden. Optional kann der "Refresh-Button" betätigt werden, dann beginnt der Countdown erneut. 
+Wenn der Editor für eine längere Zeit (30 Minuten) nicht genutzt wird, läuft die Besuchszeit ab. 5 Minuten vor Ablauf der Besuchszeit erscheint oben auf der Seite ein Countdown. Ist der Countdown angelaufen wird der Benutzer aus dem InGrid Editor abgemeldet und muss sich neu anmelden. Der "Refresh-Button" kann optional betätigt werden, um den Countdown neu zu starten. 
+
+
+.. hint:: Wurden Sie aus dem Editor abgemeldet, laden Sie die Login-Seite neu (Taste F5), sonst kommt bei einem erneuten Anmeldeversuch die Meldung: "Sie haben zu lange gebraucht, um sich anzumelden. Bitte versuchen Sie es erneut."
 
 .. figure:: ../../img/ige/allgemein/editor_countdown.png
-   :width: 300
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Countdown für den Logout und "Session-refresh-Button"
 
+
 .. figure:: ../../img/ige/allgemein/fehler_timeout.png
-   :width: 400
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Meldung - Besuchszeit abgelaufen
 
-Damit gehen leider auch alle Änderungen und Neueingaben verloren, die bis zu diesem Zeitpunkt noch nicht gespeichert worden sind. Es gibt keine automatische Zwischenspeicherung! Es empfiehlt sich daher, bei der Erfassung von Verfahrenen und Adressen immer wieder zwischendurch zwischen zu speichern. (Ein automatisches Zwischenspeichern ist zukünftig vorgesehen.)
+
+Leider gehen alle Änderungen und Neueingaben verloren, die bis zu diesem Zeitpunkt nicht gespeichert wurden. Es erfolgt keine automatische Zwischenspeicherung! Daher empfiehlt es sich, während der Erfassung von Verfahren und Adressen regelmäßig zwischenspeichern. Eine automatische Zwischenspeicherung ist zukünftig vorgesehen.
 
 
 InGrid Editor schließen
 -----------------------
 
-Soll der InGrid Editor beendet werden, muss auf der Seite (oben rechts) der Punkt für die Profilverwaltung betätigt werden.
+Soll der InGrid Editor beendet werden, müssen Sie auf der Seite oben rechts den Punkt für die Profilverwaltung anklicken
+
 
 .. figure:: ../../img/ige/allgemein/abmeldung.png
-   :width: 300
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Profilverwaltung mit Button "ABMELDEN"
