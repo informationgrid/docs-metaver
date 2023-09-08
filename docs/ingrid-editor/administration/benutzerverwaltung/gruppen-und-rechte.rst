@@ -1,4 +1,5 @@
 
+=================
 Gruppen & Rechte
 =================
 
@@ -9,42 +10,31 @@ In der Gruppenverwaltung werden einen bestimmten Personenkreis die Lese- oder Sc
 Gruppen anlegen
 ---------------
 
-.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_gruppen.png
+.. image:: ../../../img/benutzerverwaltung/gruppen.png
 
 Abb.: Verwaltung von Gruppen
 
 
-.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_hinzufuegen.png
+.. image:: ../../../img/benutzerverwaltung/hinzufuegen.png
    :width: 300
 
 Abb.: Gruppe hinzufügen
 
 
-.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_gruppe-hinzufuegen.png
+.. image:: ../../../img/benutzerverwaltung/gruppe-hinzufuegen.png
 
 Abb.: Fenster Gruppe hinzufügen
 
 
-.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_allgemeine-rechte.png
+.. image:: ../../../iimg/benutzerverwaltung/allgemeine-rechte.png
 
 Abb.: Vergabe von allgemeinen Rechten
 
-.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_allgemeine-rechte-erteilt.png
+
+.. image:: ../../../img/benutzerverwaltung/allgemeine-rechte-erteilt.png
 
 Abb.: Vergabe von allgemeinen Rechten
 
 
 Rechte vergeben
 ---------------
-
-
-
-
-
-
-
-
-
-
-
-
