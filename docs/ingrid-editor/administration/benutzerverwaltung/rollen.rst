@@ -16,7 +16,7 @@ Dabei werden im InGrid Editor folgende Rechte (Rollen) unterschieden:
 Eine Stufe über dem Katalogadministrator befindet sich der Superadministrator, der vom Katalogadministrator bei technischen Problemen kontaktiert wird.
 
 
-.. figure:: ../../img/ige/administration/benutzerverwaltung_rollen.png
+.. figure:: ../../../img/ige/administration/benutzerverwaltung_rollen.png
    :align: left
    :scale: 40
    :figwidth: 100%
