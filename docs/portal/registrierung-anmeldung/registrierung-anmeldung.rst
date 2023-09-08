@@ -149,9 +149,13 @@ Es öffnet sich die Seite "Passwort ändern" mit der Aufforderung: "Ändern Sie 
 
 Abb.: Seite Passwort ändern
 
-Es erfolgt automatisch eine Weiterleitung zur Anmeldeseite, auf der man sich direkt mit dem neuen Passwort einloggen kann.
+Die Weiterleitung zur Anmeldeseite erfolgt automatisch, wo man sich direkt mit dem neuen Passwort einloggen kann.
 
-.. image:: ../../img/registrierung-anmeldung/anmeldung.png
+
+.. figure:: ../../img/registrierung-anmeldung/anmeldung.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Seite Anmeldung
 
@@ -159,4 +163,4 @@ Abb.: Seite Anmeldung
 Benutzername vergessen
 ----------------------
 
-Wenn Sie Ihren Benutzernamen vergessen haben, füllen Sie bitte in METAVER das Kontaktformular (https://metaver.de/kontakt) aus, geben Sie bitte Ihr Bundesland an, so wird die Anfrage Ihren zuständigen Katalogadministrator zugestellt.
+Wenn Sie Ihren Benutzernamen vergessen haben, füllen Sie bitte das Kontaktformular auf METAVER (https://metaver.de/kontakt) aus und geben Sie Ihr Bundesland an. So wird Ihre Anfrage an den zuständigen Katalogadministrator zugestellt.
