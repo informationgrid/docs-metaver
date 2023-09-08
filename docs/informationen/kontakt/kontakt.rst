@@ -6,7 +6,7 @@ https://metaver.de/kontakt
 
 **Ticketsystem Zammad**
 
-Hinter dem METAVER Kontaktformular verbirgt sich das Ticketsystem Zammad. Dieses ermöglicht, die Anfragen unterschiedlichen Personen zuzuordnen. Dabei greifen unterschiedliche Support-Level.
+Hinter dem Kontaktformular von METAVER verbirgt sich das Ticketsystem Zammad, das es ermöglicht, Anfragen verschiedenen Personen zuzuordnen. Dabei kommen unterschiedliche Support-Level zum Einsatz.
 
 **Support-Level**
 
@@ -16,16 +16,21 @@ Hinter dem METAVER Kontaktformular verbirgt sich das Ticketsystem Zammad. Dieses
 
 **First Level Support**
 
-Der First Level Support wird angesprochen, wenn das Kontaktformular ohne Angabe eines Bundeslandes und ohne Option Checkbox „Ich habe eine technische Frage zur Website oder möchte eine Störung melden.“ versendet wird. Die Nachricht wird so an den Support im LGV Hamburg gerichtet. Dieser ist Ansprechpartner für das gesamte System.
+Der First Level Support wird kontaktiert, wenn das Kontaktformular versendet wird, jedoch kein Bundesland angegeben und auch die Option Checkbox "Ich habe eine technische Frage zur Website oder möchte eine Störung melden." nicht angewählt wurde. Die Nachricht wird direkt an den First Level Support im LGV Hamburg weitergeleitet, welcher als Ansprechpartner für das gesamte System fungiert.
+
 
 **Second Level Support**
 
-Der Second Level Support wird angesprochen, wenn das Kontaktformular ohne Angabe eines Bundeslandes und mit der Option Checkbox „Ich habe eine technische Frage zur Website oder möchte eine Störung melden.“ versendet wird. Die Nachricht wird an die Software-Entwickler gerichtet.
+Wenn das Kontaktformular ohne Angabe eines Bundeslandes versendet und dabei die Option "Ich habe eine technische Frage zur Website oder möchte eine Störung melden." ausgewählt wird, wird der Second Level Support kontaktiert. Die Nachricht wird dann an die Software-Entwickler weitergeleitet.
 
 **Gruppen in den Bundesländern**
 
-Eine Gruppe eines Bundeslandes wird angesprochen, wenn das Kontaktformular mit Angabe eines Bundeslandes und ohne Option Checkbox „Ich habe eine technische Frage zur Website oder möchte eine Störung melden.“ versendet wird. Die Nachricht wird an den Katalogadministrator oder einen anderen Ansprechpartner des ausgewählten Bundeslandes gerichtet.
+Wenn das Kontaktformular ohne Ankreuzen der Option "Ich habe eine technische Frage zur Website oder möchte eine Störung melden" und mit Angabe des betreffenden Bundeslandes abgeschickt wird, dann wird die Nachricht an den entsprechenden Katalogadministrator oder einen anderen Ansprechpartner des Bundeslandes weitergeleitet.
 
-    .. image:: ../../img_ige/metaver_portal/metaver_kontakt.png
+
+.. figure:: ../../img_ige/metaver_portal/metaver_kontakt.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: METAVER - Ansicht Kontaktformular
