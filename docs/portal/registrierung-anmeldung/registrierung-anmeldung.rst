@@ -21,7 +21,7 @@ Auf der Anmeldeseite müssen Sie mindestens alle Pflichtfelder ausfüllen, welch
 
 .. figure:: ../../img/registrierung-anmeldung/registrierung.png
    :align: left
-   :scale: 40
+   :scale: 50
    :figwidth: 100%
 
 Abb.: Seite Registrierung
@@ -32,7 +32,7 @@ Um die Registrierung abzuschließen, klicken Sie bitte auf den Button "KONTO ERS
 
 .. figure:: ../../img/registrierung-anmeldung/account-angelegt.png
    :align: left
-   :scale: 50
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Seite "Account erfolgreich angelegt"
@@ -42,7 +42,7 @@ Außerdem erhalten Sie eine E-Mail an die zuvor von Ihnen eingegebene E-Mail-Adr
 
 .. figure:: ../../img/registrierung-anmeldung/e-mail.png
    :align: left
-   :scale: 50
+   :scale: 60
    :figwidth: 100%
 
 Abb.: vom System versendete E-Mail
@@ -52,7 +52,7 @@ Um Ihre neue Benutzerkennung freizuschalten, klicken Sie bitte auf den Link in I
 
 .. figure:: ../../img/registrierung-anmeldung/account-freigeschaltet.png
    :align: left
-   :scale: 50
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Seite "Ihr Account wurde erfolgreich freigeschaltet. ..."
@@ -68,7 +68,7 @@ Wenn Sie über eine Benutzerkennung verfügen und als InGrid Editor registriert 
 
 .. figure:: ../../img/registrierung-anmeldung/anmeldung.png
    :align: left
-   :scale: 50
+   :scale: 40
    :figwidth: 100%
 
 Abb: Seitenanmeldung - Benutzername und Passwort eingeben
@@ -83,7 +83,7 @@ Nach dem Laden des Editors wird zuerst die Übersicht gezeigt. Hier wird dargest
 
 .. figure:: ../../img/registrierung-anmeldung/ige_dashboard.png
    :align: left
-   :scale: 50
+   :scale: 40
    :figwidth: 100%
 
 Abb.: Home-Seite - Übersicht
@@ -113,7 +113,7 @@ Es öffnet sich die „Passwort vergessen“ - Seite, deren Aufforderung bitte f
 
 .. figure:: ../../img/registrierung-anmeldung/anmeldung.png
    :align: left
-   :scale: 50
+   :scale: 40
    :figwidth: 100%
 
 Abb.: Angabe der E-Mail-Adresse
@@ -125,7 +125,7 @@ Es erscheint die Seite "E-Mail gesendet" mit der Nachricht: "Sie haben eine E-Ma
 
 .. figure:: ../../img/registrierung-anmeldung/anmeldung_passwort-vergessen_meldung.png
    :align: left
-   :scale: 50
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Seite E-Mail gesendet
@@ -135,16 +135,16 @@ Das System versendet folgende E-Mail:
 
 .. figure:: ../../img/registrierung-anmeldung/anmeldung_passwort-vergessen_e-mail.png
    :align: left
-   :scale: 50
+   :scale: 60
    :figwidth: 100%
 
 Abb.: versendete E-Mail
 
 Es öffnet sich die Seite "Passwort ändern" mit der Aufforderung: "Ändern Sie bitte Ihr Passwort und melden Sie sich dann bitte erneut an.". Tragen Sie den Benutzernamen und das neue Passwort zweimal in das entsprechende Feld ein und klicken Sie abschließend auf "SPEICHERN".
 
-.. figure:: ../../datentyp/registrierung-anmeldung/anmeldung_passwort-vergessen_passwort-aendern.png
+.. figure:: ../../img/registrierung-anmeldung/anmeldung_passwort-vergessen_passwort-aendern.png
    :align: left
-   :scale: 50
+   :scale: 40
    :figwidth: 100%
 
 Abb.: Seite Passwort ändern
@@ -154,7 +154,7 @@ Die Weiterleitung zur Anmeldeseite erfolgt automatisch, wo man sich direkt mit d
 
 .. figure:: ../../img/registrierung-anmeldung/anmeldung.png
    :align: left
-   :scale: 50
+   :scale: 40
    :figwidth: 100%
 
 Abb.: Seite Anmeldung
