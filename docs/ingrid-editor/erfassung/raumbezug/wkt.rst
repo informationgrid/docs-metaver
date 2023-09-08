@@ -3,9 +3,9 @@
 Raumbezug als WKT
 =================
 
-Obwohl das ISO-Element Polygon heißt, können in diesem Feld auch andere Geometrietypen angegeben werden.
+Obwohl das ISO-Element als Polygon bezeichnet wird, können in diesem Feld auch andere Geometrietypen angegeben werden.
 
-.. tip:: Die Koordinaten für diese WKT-Klassen können im `METAVER Kartenclient <https://www.metaver.de/kartendienste;jsessionid=4E59B98F4D03F8E421F336E4426B30EE?lang=de&topic=themen&bgLayer=sgx_geodatenzentrum_de_web_light_grau_EU_EPSG_25832_TOPPLUS&E=583462.99&N=5550415.02&zoom=5&layers=20850f0888de4fe4a8063ac3e9eb69fe>`_, mit der Funktion "Zeichnen & Messen auf der Karte", erstellt werden. Die Koordinaten müssen dann als KML-Datei, über die Funktion "Exportieren", gespeichert werden. Bei der Angabe der WKT ist darauf zu achten, dass jeweils eine Punktkoordinate durch ein Komma getrennt ist. In KML-Dateien zum Beispiel, werden die Angaben der Koordinaten durch ein Komma getrennt angegeben.
+.. tip:: Die Koordinaten für die WKT-Klassen können im 'METAVER Kartenclient <https://www.metaver.de/kartendienste; jsessionid=4E59B98F4D03F8E421F336E4426B30EE? lang=de&topic=themen&bgLayer=sgx_geodatenzentrum_de_web_light_grau_EU_EPSG_25832_TOPPLUS&E=583462.99& N=5550415.02&zoom=5&layers=20850f0888de4fe4a8063ac3e9eb69fe>`_ durch die Funktion "Zeichnen & Messen auf der Karte" festgelegt werden. Diese Koordinaten müssen dann in einer KML-Datei über die Funktion "Exportieren" gespeichert werden. Bei der Angabe der WKT ist darauf zu achten, dass jeweils eine Punktkoordinate durch ein Komma getrennt wird. In KML-Dateien werden beispielsweise die Koordinatenangaben durch ein Komma getrennt.
 
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/wkt/metaver_kartenclient.png
@@ -15,7 +15,8 @@ Obwohl das ISO-Element Polygon heißt, können in diesem Feld auch andere Geomet
 
 Abb.: Beispiel - Erstellung verschiedener Geometrien im METAVER Kartenclient
 
-Der METAVER Kartenclient bietet, über die Funktion "Zeichnen & Messen auf der Karte",  die Möglichkeit Geometrien zu erstellen und über "Exportieren" eine KML-Datei mit diesen Daten zu erzeugen.
+
+Der METAVER Kartenclient ermöglicht es über die Funktion "Zeichnen & Messen auf der Karte" Geometrien zu erstellen und diese Daten anschließend über "Exportieren" in einer KML-Datei zu speichern. 
 
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/wkt/beispiel_kml-koordinaten.png
