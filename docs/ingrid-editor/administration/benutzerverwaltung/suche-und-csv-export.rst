@@ -1,18 +1,26 @@
 
+====================
 Suche und CSV-Export
 ====================
 
 Suche
 -----
 
-Über die Suche in der Benutzer und Gruppenverwaltung, lassen sich einfach die Benutzer oder angelegten Gruppen finden.
-Während der Eigabe des Nutzers oder der Gruppe werden schon die Einträge selektiert.
+Mit der Suchfunktion in der Benutzer- und Gruppenverwaltung können Benutzer und Gruppen einfach gefunden werden.
+Bereits während der Eingabe des Nutzers oder der Gruppe werden passende Einträge automatisch ausgewählt.
 
-.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_suche-nutzer.png
+.. figure:: ../../../img/ige/administration/benutzerverwaltung/suche-nutzer.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Suche eines Nutzers
 
-.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_suche-gruppe.png
+
+.. figure:: ../../../img/ige/administration/benutzerverwaltung/suche-gruppe.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Suche einer Gruppe
 
@@ -20,14 +28,20 @@ Abb.: Suche einer Gruppe
 CSV-Export
 ----------
 
-Über die CSV-Exportfunktion, hat der Administrator die Möglichkeit die Nutzer als CSV-Datei zu exportieren und in eine Excel-Tabelle zu importieren. Diese Funktion ermöglicht den Katalogadministrator z.B. die E-Mail-Adressen der Nutzer aktuell zu selektieren, wenn die Benutzer angeschrieben werden sollen.
+Über die CSV-Exportfunktion kann der Administrator die Nutzer als CSV-Datei exportieren und in eine Excel-Tabelle importieren. Diese Funktion ermöglicht es dem Katalogadministrator zum Beispiel, die E-Mail-Adressen der Nutzer aktuell zu selektieren, wenn diese angeschrieben werden sollen.
 
-.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_csv-export.png
-   :width: 50
+
+.. figure:: ../../../img/ige/administration/benutzerverwaltung/csv-export.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: CSV-Export
 
 
-.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_csv.png
+.. figure:: ../../../img/ige/administration/benutzerverwaltung/csv.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: CSV-Export
