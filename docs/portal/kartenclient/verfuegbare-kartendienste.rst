@@ -1,4 +1,5 @@
 
+============
 Kartenclient
 ============
 
@@ -14,8 +15,10 @@ Der Metaver-Kartenclient enthält eine Auswahl an unterschiedlichen Basiskarten.
 - BKG - Bundesamt für Kartographie und Geodäsie
 - AdV - Arbeitsgemeinschaft der Vermessungsverwaltungen
 
-
-.. image:: ../../img/kartenclient/metaver_verfuegbare-kartendienste.png
+.. figure:: ../../img/kartenclient/metaver_verfuegbare-kartendienste.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: METAVER-Kartenclient - Verfügbare Basiskarten
 
