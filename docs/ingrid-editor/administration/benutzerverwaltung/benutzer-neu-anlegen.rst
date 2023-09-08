@@ -29,6 +29,7 @@ Abb.: Button "HINZUFÜGEN"
 
 Folgende Felder müssen ausgefüllt werden:
 
+
 Feld Login
 ----------
 
@@ -42,7 +43,6 @@ Abb.: Dialogfenster - Benutzer hinzufügen
 
 Feld Rolle
 ----------
-
 
 .. figure:: ../../../img/ige/administration/benutzerverwaltung/rolle-zuweisen.png
    :align: left
