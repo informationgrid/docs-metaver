@@ -5,7 +5,7 @@ Adressen erfassen
 
 Für eine effiziente Adressverwaltung empfiehlt es sich, hierarchische Strukturen aufzubauen, so dass erkennbar wird, welchem Referat bzw. welchem Fachbereich innerhalb welcher Institution der jeweilige Ansprechpartner angehört. Für Personen, die keiner Institution zugeordnet werden können, besteht die Möglichkeit, diese im Adress-Strukturbaum unterhalb des Bereiches "Freie Adressen" anzulegen. 
 
-.. figure:: ../../img/ige/adressen/ige-ng_adressen-struktur.png
+.. figure:: ../../img/ige/adressen/struktur.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -27,7 +27,7 @@ Im Strukturbaum den entsprechenden Ordner oder eine vorhandene Adresse auswähle
 
 Abb.: Auswahl der Adresstypen
 
-.. figure:: ../../img/ige/adressen/ige-ng_adressen_typ-waehlen.png
+.. figure:: ../../img/ige/adressen/typ-waehlen.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -46,7 +46,7 @@ Standardmäßig werden zunächst nur die Pflichtfelder angezeigt. Neben den verp
 Abb.: Eingabemaske für Adressen
 
 
-.. figure:: ../../img/ige/adressen/ige-ng_adressen_organisation-anlegen.png
+.. figure:: ../../img/ige/adressen/organisation-anlegen.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -54,7 +54,7 @@ Abb.: Eingabemaske für Adressen
 Abb.: Eingabefenster für die Wahl des Adresstyps
 
 
-.. figure:: ../../img/ige/adressen/ige-ng_adressen_anrede.png
+.. figure:: ../../img/ige/adressen/anrede.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -62,7 +62,7 @@ Abb.: Eingabefenster für die Wahl des Adresstyps
 Abb.: Auswahlfeld Anrede
 
 
-.. figure:: ../../img/ige/adressen/ige-ng_adressen_titel.png
+.. figure:: ../../img/ige/adressen/titel.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -73,7 +73,7 @@ Abb.: Auswahlfeld Titel
 .. hint:: Das Feld "Kontakt" ist ein Pflichtfeld und muss ausgefüllt werden. Es ist erforderlich, mindestens eine E-Mail-Adresse anzugeben. Fehlt diese Angabe, kann die Adresse zwar gespeichert werden, bei der Veröffentlichung kommt es jedoch zu folgender Fehlermeldung:
  
 
-.. figure:: ../../img/ige/meldungen/ige-ng_fehler_felder-korrekt-ausfuellen.png
+.. figure:: ../../img/ige/meldungen/fehler_felder-korrekt-ausfuellen.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -86,7 +86,7 @@ Wenn Sie die Reihenfolge der Kommunikationsmöglichkeiten ändern möchten, kön
 Soll ein vorhandener Eintrag unter Kommunikation entfernt werden, ist es erforderlich, auf das Kreuz in der Zeile (rechts) zu klicken.
 
 
-.. figure:: ../../img/ige/adressen/ige-ng_adressen_eingabefelder-loeschen.png
+.. figure:: ../../img/ige/adressen/eingabefelder-loeschen.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -97,7 +97,7 @@ Abb.: Zeile löschen
 .. hint:: In den Adressen vom Typ "Person" gibt es eine Checkbox mit dem Titel "Daten der übergeordneten Organisation für die Anzeige verwenden". Wenn diese Checkbox aktiviert ist, werden nur die Kontaktdaten der übergeordneten Organisation im Portal angezeigt, jedoch keine personenbezogenen Daten.
 
 
-.. figure:: ../../img/ige/adressen/ige-ng_adressen_uebergeordnete-organisation-verwenden.png
+.. figure:: ../../img/ige/adressen/uebergeordnete-organisation-verwenden.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -110,7 +110,7 @@ Abb.: Checkbox - für Anzeige Daten der übergeordneten Organisation verwenden
 
 Am Ende des Adressformulars befindet sich der Bereich "Zugeordnete Datensätze". Über den Button "ANZEIGEN" werden alle Metadatensätze aufgelistet, die mit diesem Adressdatensatz verknüpft sind.
 
-.. figure:: ../../img/ige/adressen/ige-ng_adressen_zugeordnete-datensaetze_anzeigen.png
+.. figure:: ../../img/ige/adressen/zugeordnete-datensaetze_anzeigen.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -118,7 +118,7 @@ Am Ende des Adressformulars befindet sich der Bereich "Zugeordnete Datensätze".
 Abb: 
 
 
-.. figure:: ../../img/ige/adressen/ige-ng_adressen_zugeordnete-datensaetze.png
+.. figure:: ../../img/ige/adressen/zugeordnete-datensaetze.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -128,7 +128,7 @@ Abb.: Zugeordnete Datensätze
 Sind alle erforderlichen Felder ausgefüllt, kann die Adresse mit dem Button "VERÖFFENTLICHEN" für des Internet freigegeben werden.
 
 
-.. figure:: ../../img/ige/adressen/ige-ng_veroeffentlichen.png
+.. figure:: ../../img/ige/adressen/veroeffentlichen.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -144,7 +144,7 @@ Ordner/Adresse löschen
 Wenn versucht wird, einen Ordner/Adressdatensatz zu löschen, dem weitere Adressdatensätze untergeordnet sind, erscheint eine Fehlermeldung.
 
 
-.. figure:: ../../img/ige/adressen/ige-ng_ordner-adressen-loeschen.png
+.. figure:: ../../img/ige/adressen/ordner-adressen-loeschen.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -154,7 +154,7 @@ Abb: Fehlermeldung - Adresse löschen mit Unteradressen
 .. hint:: Eine Adresse kann nur gelöscht werden, wenn ihr keine Metadatensätze mehr zugeordnet sind. Das heißt, die Liste der zugeordneten (Meta-)Datensätze muss leer sein.
 
 
-.. figure:: ../../img/ige/adressen/ige-ng_adresse-loeschen.png
+.. figure:: ../../img/ige/adressen/loeschen.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -164,9 +164,9 @@ Abb.: Hinweis zum Löschen des Adressdatensatzes
 Wenn ein Adressdatensatz gelöscht werden soll und dieser noch mit (Meta-)Datensätzen verknüpft ist, müssen diese erst einer anderen Adresse zugeordnet werden. 
 
 
-.. figure:: ../../img/ige/adressen/ige-ng_adresse-ersetzen.png
+.. figure:: ../../img/ige/adressen/ersetzen.png
    :align: left
    :scale: 50
    :figwidth: 100%
-   
+
 Abb.: Adresse ersetzen
