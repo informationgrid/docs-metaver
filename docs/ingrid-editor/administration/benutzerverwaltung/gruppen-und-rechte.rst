@@ -28,7 +28,7 @@ Abb.: Verwaltung von Gruppen
 
 .. figure:: ../../../img/ige/administration/benutzerverwaltung/hinzufuegen.png
    :align: left
-   :scale: 60
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Gruppe hinzufügen
@@ -37,7 +37,7 @@ Abb.: Gruppe hinzufügen
 
 .. figure:: ../../../img/ige/administration/benutzerverwaltung/gruppe-hinzufuegen.png
    :align: left
-   :scale: 60
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Fenster Gruppe hinzufügen
@@ -46,7 +46,7 @@ Abb.: Fenster Gruppe hinzufügen
 
 .. figure:: ../../../img/ige/administration/benutzerverwaltung/allgemeine-rechte.png
    :align: left
-   :scale: 60
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Vergabe von allgemeinen Rechten
@@ -54,7 +54,7 @@ Abb.: Vergabe von allgemeinen Rechten
 
 .. figure:: ../../../img/ige/administration/benutzerverwaltung/allgemeine-rechte-erteilt.png
    :align: left
-   :scale: 60
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Vergabe von allgemeinen Rechten
