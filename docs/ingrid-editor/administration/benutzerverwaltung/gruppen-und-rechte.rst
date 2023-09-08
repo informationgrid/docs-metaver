@@ -17,7 +17,7 @@ Um Gruppen in unserem System zu erstellen, gehen Sie wie folgt vor:
 4. Wählen Sie die Mitglieder aus der Liste der verfügbaren Benutzer aus.
 5. Speichern Sie die Gruppe. Bitte beachten Sie, dass diese Gruppe nur von Benutzern angesehen werden kann, die Teil der Gruppe sind oder Zugriffsberechtigungen haben. Änderungen an den Gruppenmitgliedschaften können jederzeit vorgenommen werden.
 
-.. figure:: ../../../img/benutzerverwaltung/gruppen.png
+.. figure:: ../../../img/ige/administration/benutzerverwaltung/gruppen.png
    :align: left
    :scale: 40
    :figwidth: 100%
@@ -26,7 +26,7 @@ Abb.: Verwaltung von Gruppen
 
 
 
-.. figure:: ../../../img/benutzerverwaltung/hinzufuegen.png
+.. figure:: ../../../img/ige/administration/benutzerverwaltung/hinzufuegen.png
    :align: left
    :scale: 40
    :figwidth: 100%
@@ -35,7 +35,7 @@ Abb.: Gruppe hinzufügen
 
 
 
-.. figure:: ../../../img/benutzerverwaltung/gruppe-hinzufuegen.png
+.. figure:: ../../../img/ige/administration/benutzerverwaltung/gruppe-hinzufuegen.png
    :align: left
    :scale: 40
    :figwidth: 100%
@@ -44,7 +44,7 @@ Abb.: Fenster Gruppe hinzufügen
 
 
 
-.. figure:: ../../../iimg/benutzerverwaltung/allgemeine-rechte.png
+.. figure:: ../../../img/ige/administration/benutzerverwaltung/allgemeine-rechte.png
    :align: left
    :scale: 40
    :figwidth: 100%
@@ -52,7 +52,7 @@ Abb.: Fenster Gruppe hinzufügen
 Abb.: Vergabe von allgemeinen Rechten
 
 
-.. figure:: ../../../img/benutzerverwaltung/allgemeine-rechte-erteilt.png
+.. figure:: ../../../img/ige/administration/benutzerverwaltung/allgemeine-rechte-erteilt.png
    :align: left
    :scale: 40
    :figwidth: 100%
