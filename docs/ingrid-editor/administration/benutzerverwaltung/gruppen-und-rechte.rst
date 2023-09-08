@@ -3,7 +3,7 @@
 Gruppen & Rechte
 =================
 
-In der Gruppenverwaltung werden einen bestimmten Personenkreis die Lese- oder Schreibrechte auf Vorhaben und Adressen erteilt.
+In der Gruppenverwaltung werden einen bestimmten Personenkreis die Lese- oder Schreibrechte auf Metadaten und Adressen erteilt.
 
 
 Gruppen erstellen
