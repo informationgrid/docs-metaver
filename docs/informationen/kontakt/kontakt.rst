@@ -28,7 +28,7 @@ Wenn das Kontaktformular ohne Angabe eines Bundeslandes versendet und dabei die 
 Wenn das Kontaktformular ohne Ankreuzen der Option "Ich habe eine technische Frage zur Website oder möchte eine Störung melden" und mit Angabe des betreffenden Bundeslandes abgeschickt wird, dann wird die Nachricht an den entsprechenden Katalogadministrator oder einen anderen Ansprechpartner des Bundeslandes weitergeleitet.
 
 
-.. figure:: ../../portal/kontakt.png
+.. figure:: ../../img/portal/kontakt.png
    :align: left
    :scale: 40
    :figwidth: 100%
