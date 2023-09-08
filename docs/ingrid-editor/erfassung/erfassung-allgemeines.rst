@@ -16,7 +16,7 @@ InGrid Editor im Ausgangszustand
 
 .. figure:: ../../img/ige/allgemein/uebersicht.png
    :align: left
-   :scale: 50
+   :scale: 30
    :figwidth: 100%
    
 Abb.: Übersicht
@@ -27,7 +27,7 @@ Aufbau der Benutzeroberfläche
 
 .. figure:: ../../img/ige/allgemein/benutzeroberflaeche.png
    :align: left
-   :scale: 50
+   :scale: 30
    :figwidth: 100%
    
 Abb.: InGrid Editor - Benutzeroberfläche
