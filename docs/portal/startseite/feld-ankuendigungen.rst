@@ -1,9 +1,14 @@
 
+=============
 Ankündigungen
 =============
 
 Auf der Startseite können Ankündigungen angezeigt werden z.B. für Wartungsarbeiten.
 
-.. image:: ../../img/portal/startseite_feld-ankuendigungen.png
+.. figure:: ../../img/portal/startseite_feld-ankuendigungen.png
+
+   :align: left
+   :scale: 40
+   :figwidth: 100%
 
 Abb.: Startseite mit Feld für Hinweise, Meldungen bzw. Ankündigungen

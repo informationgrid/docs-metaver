@@ -179,9 +179,8 @@ Feld: Basisdaten
 
 Abb.: Textfeld - Basisdaten
 
-Verweis auf zugrundeliegende Daten. Hier werden Verweise auf andere Objekte dieses Katalogs angelegt, die Auskunft über Herkunft und Art der zugrunde liegenden Daten geben. Über den Link (Verweis anlegen/bearbeiten) kann ein neuer Verweis angelegt werden.
 
-Beispiel: Deponieüberwachung (Ort), Statistikauswertungen seit (mm.jjjj)
+Beispiel: Quellenangaben
 
 
 Feld: Weiteres

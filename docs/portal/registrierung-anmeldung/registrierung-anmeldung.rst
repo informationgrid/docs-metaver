@@ -1,56 +1,77 @@
 
-
+============================
 Registrierung und Anmeldung
-=========================
+============================
 
 Öffnen Sie die Anmeldeseite!
 
 URL: https://metaver.de/log-in
 
-.. image:: ../../img/registrierung-anmeldung/log-in.png
+.. figure:: ../../img/registrierung-anmeldung/log-in.png
+   :align: left
+   :scale: 40
+   :figwidth: 100%
 
 Abb.: Seite Anmeldung
 
-Zum Anlegen eines neuen Benutzers wählen Sie: "REGISTRIEREN".
+Um einen neuen Benutzer anzulegen, wählen Sie "REGISTRIEREN".
 
-Auf der Seite Anmeldung müssen mindestens alle Pflichtfelder (Kennzeichnung durch Sternchen) ausgefüllt werden. Ihren zukünftigen Benutzernamen sowie das zugehörige Passwort können Sie frei wählen.
+Auf der Anmeldeseite müssen Sie mindestens alle Pflichtfelder ausfüllen, welche durch ein Sternchen gekennzeichnet sind. Sie haben die Freiheit, Ihren Benutzernamen und das zugehörige Passwort selbst zu wählen.
 
-.. image:: ../../img/registrierung-anmeldung/registrierung.png
+
+.. figure:: ../../img/registrierung-anmeldung/registrierung.png
+   :align: left
+   :scale: 40
+   :figwidth: 100%
 
 Abb.: Seite Registrierung
 
-Es erfolgt eine Passwortprüfung, wählen Sie bitte ein starkes Passwort (grüner Balken).
+Es wird eine Überprüfung des Passworts durchgeführt, bitte wählen Sie ein sicheres Passwort (grüner Balken).
 
-Zum Abschließen der Registrierung betätigen Sie den Button "KONTO ERSTELLEN". Sie erhalten daraufhin folgende Nachricht in Ihrem Browserfenster
+Um die Registrierung abzuschließen, klicken Sie bitte auf den Button "KONTO ERSTELLEN". Anschließend erhalten Sie die folgende Nachricht in Ihrem Browserfenster.
 
-.. image:: ../../img/registrierung-anmeldung/account-angelegt.png
+.. figure:: ../../img/registrierung-anmeldung/account-angelegt.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
-Abb.: Seite Account erfolgreich angelegt
+Abb.: Seite "Account erfolgreich angelegt"
 
 Außerdem erhalten Sie eine E-Mail an die zuvor von Ihnen eingegebene E-Mail-Adresse: 
 
-.. image:: ../../img/registrierung-anmeldung/e-mail.png
+
+.. figure:: ../../img/registrierung-anmeldung/e-mail.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: vom System versendete E-Mail
 
-Zur Freischaltung ihrer neuen Benutzerkennung klicken Sie bitte auf den Link in Ihrer E-Mail. Es öffnet sich daraufhin der Browser mit folgender Anzeige:
+Um Ihre neue Benutzerkennung freizuschalten, klicken Sie bitte auf den Link in Ihrer E-Mail. Anschließend öffnet sich der Browser mit der folgenden Anzeige.
 
-.. image:: ../../img/registrierung-anmeldung/account-freigeschaltet.png
+
+.. figure:: ../../img/registrierung-anmeldung/account-freigeschaltet.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Seite "Ihr Account wurde erfolgreich freigeschaltet. ..."
 
-Bevor Sie Metadaten erfassen und pflegen können, muss Ihre neue Benutzerkennung für die Erfassung und Pflege der Metadaten freigeschaltet werden. Bisher dürfen Sie sich nur am Portal anmelden und persönliche Einstellungen vornehmen, aber noch keine Änderungen an den Metadaten vornehmen. 
-Schicken Sie uns eine Nachricht über das METAVER-Kontaktformular (wählen Sie das zutreffende Bundesland aus) und teilen uns mit, dass wir für Sie einen Zugang zum InGrid Editor anlegen sollen (dafür benötigen wir den von Ihnen gewählten Benutzernamen). Wir richten Ihnen dann den entsprechenden Zugang mit den entsprechenden Berechtigungen ein. 
+Bevor Sie Metadaten erfassen und pflegen können, muss Ihre neue Benutzerkennung für die Erfassung und Pflege der Metadaten freigeschaltet werden. Bisher ist es Ihnen lediglich gestattet, sich am Portal anzumelden und persönliche Einstellungen vorzunehmen. Sie können jedoch noch keine Änderungen an den Metadaten vornehmen. 
+Schreiben Sie uns über das METAVER-Kontaktformular und wählen Sie Ihr Bundesland aus, um uns mitzuteilen, dass Sie einen Zugang zum InGrid Editor benötigen. Geben Sie uns hierbei Ihren gewünschten Benutzernamen an. Wir richten den Zugang mit den notwendigen Berechtigungen ein. 
 
 
 Anmeldung in METAVER
 ---------------------
 
-Wenn Sie eine Benutzerkennung haben und als InGrid Editor-Nutzer angelegt wurden, rufen Sie die Anmeldeseite auf (https://metaver.de/log-in), tragen Ihren Benutzernamen und Ihr Passwort ein und betätigen abschließend den Button "ANMELDEN".
+Wenn Sie über eine Benutzerkennung verfügen und als InGrid Editor registriert sind, rufen Sie die Login-Seite auf (https://metaver.de/log-in), geben Ihre Benutzerdaten ein und klicken abschließend auf die Schaltfläche "ANMELDEN".
 
-.. image:: ../../img/registrierung-anmeldung/anmeldung.png
+.. figure:: ../../img/registrierung-anmeldung/anmeldung.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
-Abb: Seite Anmeldung - Benutzernamen und Passwort eingeben
+Abb: Seitenanmeldung - Benutzername und Passwort eingeben
 
 
 
@@ -60,53 +81,75 @@ Der InGrid Editor im Ausgangszustand
 Nach dem Laden des Editors wird zuerst die Übersicht gezeigt. Hier wird dargestellt, welche Objekte bzw. Adressen zuletzt bearbeitet wurden und wann das geschehen ist.
 
 
-.. image:: ../../img/registrierung-anmeldung/ige_dashboard.png
+.. figure:: ../../img/registrierung-anmeldung/ige_dashboard.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Home-Seite - Übersicht
 
 
-Zuletzt bearbeitet im Katalog - Es weden alle Metadaten angezeigt die zuletzt durch Bearbeiter geändert wurden.
+Zuletzt im Katalog bearbeitet - Alle Metadaten anzeigen, die zuletzt von einem Bearbeiter geändert wurden.
 
-Zuletzt veröffentlicht im Katalog - Es weden alle Metadaten angezeigt die zuletzt durch Bearbeiter veröffentlicht wurden.
+Zuletzt veröffentlicht im Katalog - Es werden alle Metadaten angezeigt, die zuletzt vom Bearbeiter veröffentlicht wurden.
 
 
 
 Passwort vergessen
 ------------------
 
-Aufruf der Seite „Anmeldung“: https://metaver.de/log-in Betätigen Sie den Link „Passwort vergessen?“.
+Aufruf der Seite "Anmeldung": https://metaver.de/log-in. Klicken Sie auf den Link "Passwort vergessen?".
 
-.. image:: ../../img/registrierung-anmeldung/log-in.png
+
+.. figure:: ../../img/registrierung-anmeldung/log-in.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb: Funktion Passwort vergessen
 
 Es öffnet sich die „Passwort vergessen“ - Seite, deren Aufforderung bitte folgen.
 
-.. image:: ../../img/registrierung-anmeldung/anmeldung.png
+
+.. figure:: ../../img/registrierung-anmeldung/anmeldung.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Angabe der E-Mail-Adresse
 
-Feld „E-Mail*:“ Tragen Sie hier Ihre E-Mail-Adresse ein, betätigen Sie anschließend den Button „E-MAIL ANFORDERN“.
+Feld "E-Mail*": Bitte geben Sie hier Ihre E-Mail-Adresse ein und klicken Sie auf "E-MAIL ANFORDERN".
 
-Es öffnet sich die Seite „E-Mail gesendet“ mit der Information: „Sie haben eine E-Mail erhalten mit Informationen zu Ihrer Passwort-Änderung.“
+Es erscheint die Seite "E-Mail gesendet" mit der Nachricht: "Sie haben eine E-Mail mit Informationen zur Änderung Ihres Passworts erhalten".
 
-.. image:: ../../img/registrierung-anmeldung/anmeldung_passwort-vergessen_meldung.png
+
+.. figure:: ../../img/registrierung-anmeldung/anmeldung_passwort-vergessen_meldung.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Seite E-Mail gesendet
 
 Das System versendet folgende E-Mail:
 
-.. image:: ../../img/registrierung-anmeldung/anmeldung_passwort-vergessen_e-mail.png
+
+.. figure:: ../../img/registrierung-anmeldung/anmeldung_passwort-vergessen_e-mail.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: versendete E-Mail
 
-Es öffnet sich die Seite „Passwort ändern“ mit der Aufforderung: „Ändern Sie bitte Ihr Passwort und melden Sie sich dann bitte erneut an.“ Im Feld „Benutzername“ den Benutzernamen und darunter zweimal das neue Passwort eintragen, abschließend den Button „SPEICHERN“ betätigen.
+Es öffnet sich die Seite "Passwort ändern" mit der Aufforderung: "Ändern Sie bitte Ihr Passwort und melden Sie sich dann bitte erneut an.". Tragen Sie den Benutzernamen und das neue Passwort zweimal in das entsprechende Feld ein und klicken Sie abschließend auf "SPEICHERN".
 
-.. image:: ../../datentyp/registrierung-anmeldung/anmeldung_passwort-vergessen_passwort-aendern.png
+.. figure:: ../../datentyp/registrierung-anmeldung/anmeldung_passwort-vergessen_passwort-aendern.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Seite Passwort ändern
 
-Es wird automatisch auf die Seite „Anmeldung“ weitergeleitet, auf der man sich direkt mit dem neuen Passwort einloggen kann.
+Es erfolgt automatisch eine Weiterleitung zur Anmeldeseite, auf der man sich direkt mit dem neuen Passwort einloggen kann.
 
 .. image:: ../../img/registrierung-anmeldung/anmeldung.png
 
