@@ -10,7 +10,8 @@ Informationssystem
 
 Mit dem Datensatztyp Informationssystem können Softwareprodukte, Webanwendungen oder zentrale Auskunfts- und Informationssysteme im Metadatenkatalog beschrieben werden.
 
-.. important:: Die Erfassung dieser Objektklasse erfolgt wie unter `Erfassung von Objekten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html>`_ beschrieben. Der hier beschriebene Abschnitt Fachbezug enthält spezielle Eingabefelder für diesen Datensatztyp.
+.. note:: Die Erfassung dieser Objektklasse erfolgt wie unter `Erfassung von Objekten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html>`_ beschrieben. Der hier beschriebene Abschnitt Fachbezug enthält spezielle Eingabefelder für diesen Datensatztyp.
+
 
 -----------------------------------------------------------------------------------------------------------------------
 
@@ -51,7 +52,7 @@ Feld: Version
 Abb.: Eingabezeile für die Version
 
 
-Versionsangaben des Dienstes. Bitte geben Sie sämtliche unterstützten Versionen des Dienstes an und bestätigen Sie jede Eingabe mit Enter.
+Version des Dienstes. Bitte geben Sie alle unterstützten Versionen des Dienstes an und bestätigen Sie jede Eingabe mit Enter.
 
  
 Weitere Informationen
@@ -68,7 +69,7 @@ Abb.: Textfelder für weitere Informationen
 Feld: Systemumgebung
 """"""""""""""""""""
 
-Systemumgebung - Informationen über das Betriebssystem, die Software und ggfs. Hardware, die für die Implementierung des Dienstes verwendet wird.
+Systemumgebung - Informationen über das Betriebssystem, die Software und ggf. die Hardware, die für die Implementierung des Dienstes verwendet werden.
 
 Beispiel:
 
@@ -99,8 +100,7 @@ Typische Installation
 Feld: Historie
 """"""""""""""
 
-Entwicklungsangaben: Hier können Vorläufer und Folgedienste oder -anwendungen bzw. -systeme genannt werden. Auch Informationen zu Initialforschungsprojekten oder -programmen sind von Interesse.
-
+Entwicklungsangaben: Hier können Vorläufer und Nachfolger von Diensten, Anwendungen oder Systemen genannt werden. Informationen über anfängliche Forschungsprojekte oder -programme sind ebenfalls von Interesse.
 Beispiel: 
 
 | IGE-NG - InGrid Editor neue Generation (Webanwendung)
@@ -116,9 +116,9 @@ Beispiel:
 Feld: Basisdaten
 """"""""""""""""
 
-Beschreibung Herkunft und Art der zugrundeliegenden Daten. Im Allgemeinen sind dies die Datensätze, auf die der Dienst aufgesetzt ist. Allgemein sollen die Herkunft oder die Ausgangsdaten der Daten beschrieben werden, die in dem Dienst, der Anwendung bzw. dem Informationssystem benutzt, gespeichert, angezeigt oder weiterverarbeitet werden. Zusätzlich kann die Art der Daten (z. B. digital, automatisch ermittelt oder aus Umfrageergebnissen, Primärdaten, fehlerbereinigte Daten) angegeben werden.
+Beschreibung Herkunft und Art der zugrundeliegenden Daten. Im Allgemeinen sind dies die Datensätze, auf denen der Dienst basiert. Im Allgemeinen sollte die Herkunft oder der Ursprung der Daten beschrieben werden, die in dem Dienst, der Anwendung oder dem Informationssystem verwendet, gespeichert, angezeigt oder weiterverarbeitet werden. Zusätzlich kann die Art der Daten (z. B. numerisch, automatisch oder aus Erhebungsergebnissen gewonnen, Primärdaten, fehlerbereinigte Daten) angegeben werden.
 
-Beispiel: Das Informationssystem enthält umweltbezogene Daten und Geodaten der öffentlichen Verwaltung.
+Beispiel: Das Informationssystem enthält Umwelt- und Geodaten der öffentlichen Verwaltung.
 
 
 **Feld: Erläuterungen**

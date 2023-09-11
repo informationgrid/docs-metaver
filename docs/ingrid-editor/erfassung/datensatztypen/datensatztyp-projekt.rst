@@ -8,9 +8,9 @@ Projekt
 
     .. image:: ../../../img/ige/icons/datensatztypen/portal/projekt.png, .. image:: ../../../img/ige/icons/datensatztypen/ige/projekt.png
 
-Der Datensatztyp Projekt wird verwendet, wenn laufende oder abgeschlossene Vorhaben, Projekte bzw. Programme beschrieben werden sollen. Dazu gehören: Forschungs- und Entwicklungsvorhaben, Projekte unter Beteiligung anderer Institutionen oder privater Unternehmen, Schutzprogramme, von besonderem Interesse sind Vorhaben/Projekte/Programme, in denen umweltrelevante Datenbestände entstehen.
+Der Datensatztyp Projekt wird verwendet, um laufende oder abgeschlossene Vorhaben, Projekte oder Programme zu beschreiben. Dazu gehören Forschungs- und Entwicklungsvorhaben, Projekte unter Beteiligung anderer Institutionen oder privater Unternehmen, Schutzprogramme, von besonderem Interesse sind Vorhaben/Projekte/Programme, bei denen umweltrelevante Datenbestände entstehen.
 
-.. important:: Die Erfassung dieses Datensatztyps erfolgt wie unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_ beschrieben. Der hier beschriebene Abschnitt Fachbezug beinhaltet für diesen Datensatztyp spezielle Eingabefelder.
+.. note:: Die Erfassung dieses Datensatztyps erfolgt wie unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_ beschrieben. Der hier beschriebene Abschnitt Fachbezug enthält spezielle Eingabefelder für diesen Datensatztyp.
 
 -----------------------------------------------------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ Feld: Beteiligte
 
 Abb.: Beispiel - Angabe von Personen oder Organisationen
 
-Angabe von Personen oder Organisationen, die an dem Projekt, Programm oder Vorhaben beteiligt sind. Der Eintrag soll Hinweise auf wichtige Institutionen oder Personen geben, die beteiligt waren oder sind und über die ggf. nähere Informationen eingeholt werden können. Über "Adressen HINZUFÜGEN" können weitere Adressen oder Organisationen gesucht oder über die Ordnerstruktur ausgewählt werden.
+Angabe der Personen oder Organisationen, die an dem Projekt, Programm oder Vorhaben beteiligt sind. Der Eintrag soll Hinweise auf wichtige Institutionen oder Personen geben, die beteiligt waren oder sind und über die ggf. weitere Informationen eingeholt werden können. Über "Adressen HINZUFÜGEN" können weitere Adressen oder Organisationen gesucht oder über die Ordnerstruktur ausgewählt werden.
 
 
 Feld: Projektleiter
@@ -54,4 +54,4 @@ Feld: Erläuterungen
 
 Abb.: Textfeld für Erläuterungen
 
-Zusätzliche Angaben zu einem Projekt oder Programm.  Hier können weitere wichtige Angaben eingetragen werden, z.B. Finanzierung, Förderkennzeichen, Bearbeitungsstatus.
+Zusätzliche Informationen zu einem Projekt oder Programm.  Hier können weitere wichtige Informationen eingetragen werden, z.B. Finanzierung, Förderkennzeichen, Bearbeitungsstatus.

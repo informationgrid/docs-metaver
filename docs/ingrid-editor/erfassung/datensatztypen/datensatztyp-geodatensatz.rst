@@ -16,7 +16,8 @@ Metadaten werden nach der ISO-Norm 19115 „Geographic Information - Metadata“
 
 ISO 19115 definiert einen international gültigen Standard zur Beschreibung von Geoinformationen und zugehörigen Diensten. Dieser Standard soll es ermöglichen, Geodaten mit Hilfe von Metadaten so zu beschreiben, dass ihre Eignung für bestimmte Anwendungszwecke beurteilt oder auch sinnvolle Präsentations- und Verarbeitungsmethoden abgeleitet werden können. Das Schema der ISO 19115 enthält unter anderem Informationen über den Inhalt, den räumlich-zeitlichen Bezug, die Datenqualität, die Zugriffsmöglichkeiten auf die Daten oder die Nutzungsrechte. (Quelle: `Wikipedia <https://de.wikipedia.org/wiki/ISO_19115>`_)
 
-.. note:: Die Erfassung dieses Datensatztyps erfolgt wie unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.htm>` beschrieben. Der hier beschriebene Abschnitt Fachbezug enthält spezielle Eingabefelder für diesen Datensatztyp.
+.. note:: Die Erfassung dieses Datensatztyps erfolgt wie unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_ beschrieben. Der hier beschriebene Abschnitt Fachbezug enthält spezielle Eingabefelder für diesen Datensatztyp.
+
 
 -----------------------------------------------------------------------------------------------------------------------
 
@@ -103,16 +104,18 @@ Feld: Fachliche Grundlage
 
 (INSPIRE-Pflichtfeld für Datasets und Data series)
 
-In diesem Feld soll eine kurze Zusammenfassung zur Erstellung der zu beschreibenden Geodaten erfolgen. Hierzu können die Datengrundlage, die Methode der Datenerhebung und der Verarbeitungsprozess erwähnt werden. Der Eintrag soll in Textform erfolgen. 
+In diesem Feld soll eine kurze Zusammenfassung über die Entstehung der zu beschreibenden Geodaten gegeben werden. Dazu können die Datengrundlage, die Methode der Datenerhebung und der Verarbeitungsprozess genannt werden. Der Eintrag sollte in Textform erfolgen.
 
 .. hint:: Für genauere Angaben sind die Felder Datenquelle und Herstellungsprozess zu verwenden.
 
 Beispiele:
 
-Kombination verschiedenster Vektordatenquellen zu einem harmonisierten digitalen kartographischen Modell.
+Kombination verschiedener Vektordatenquellen zu einem harmonisierten digitalen Kartenmodell.
 
-Die Grunddatenerfassung erfolgte durch Digitalisierung der Übersichtskarte 1:500 000 (ÜK500). Die fortlaufende Aktualisierung erfolgt durch Auswertungen der jüngsten Editionen des
-ATKIS Basis-DLM der Bundesländer, der Digitalen Topographischen Karte 1:200 000 (DTK200) und anderen Quellen.
+
+Die Grunddatenerfassung erfolgte durch Digitalisierung der Übersichtskarte 1:500 000 (ÜK500). Die laufende Aktualisierung erfolgt durch Auswertungen der aktuellen Ausgaben der
+ATKIS Basis-DLM der Länder, der Digitalen Topographischen Karte 1:200 000 (DTK200) und anderer Quellen.
+
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_fachliche-grundlage.png
    :align: left
@@ -128,16 +131,11 @@ Abb.: Eingabefeld Fachliche Grundlage
 Feld: Identifikator der Datenquelle
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Hier muss ein eindeutiger Name (Identifikator) für die im Geodatensatz beschriebene Datenquelle (z.B. eine Karte) vergeben/eingetragen werden. Der Identifikator soll aus einem Namensraum (=codespace), sowie einem Code bestehen. (INSPIRE-Pflichtfeld).
-Wenn der Identifikator keinen Namensraum enthält, so wird dem Identifikator bei der Abgabe der Metadaten derjenige Wert vorangestellt, welcher im Bereich Katalogverwaltung/Katalogeinstellungen unter "Namensraum des Katalogs" eingetragen ist.
-Der Identifikator kann von Hand eingetragen werden oder mit Hilfe des Buttons "Erzeuge ID". Bei der automatischen Erzeugung wird eine UUID als Identifikator in dieses Feld eingetragen. Da diese UUID keinen Namespace enthält, wird bei dieser Variante immer der Namensraum aus der Katalogverwaltung hinzugefügt.
+Hier muss ein Identifikator (ein eindeutiger Name) für die hier beschriebene Ressource (den Datensatz) vergeben werden. Dieser muss unverändert bleiben. Er soll eine auflösbare URL sein, die den Direktzugriff auf das XML des Daten-Metadatensatzes ermöglicht. Der Identifikator setzt sich aus einem Namensraum, einem Schrägstrich und einer lokalen ID zusammen (namespace/localId). Soll der Identifikator den im Editor voreingestellten Namensraum beinhalten, ist die Eingabe einer lokalen ID ausreichend. 
 
+Der Identifier kann manuell oder über die Schaltfläche "Erzeuge ID" eingegeben werden. Bei der automatischen Generierung wird eine UUID als Identifikator in dieses Feld eingetragen. Da diese UUID keinen Namensraum enthält, wird bei dieser Variante immer der Namensraum aus der Katalogverwaltung hinzugefügt.
 
-Hier muss ein Identifikator (ein eindeutiger Name) für die hier beschriebene Ressource (den Datensatz) vergeben werden. Dieser muss unverändert bleiben. Er soll eine auflösbare URL sein, die den Direktzugriff auf das XML des Daten-Metadatensatzes ermöglicht. Der Identifikator setzt sich aus einem Namensraum, einem Schrägstrich und einer lokalen ID zusammen (namespace/localId). (Pflichtfeld).
-
-Soll der Identifikator den im Editor voreingestellten Namensraum beinhalten, ist die Eingabe einer lokalen ID ausreichend. Für die Erzeugung kann der Button "Erzeuge ID" verwendet werden. Der endgültige Identifikator wird anschließend unter dem Feld angezeigt. Ist durch den Katalogadministrator kein Namensraum definiert, wird ein Defaultwert (https://registry.gdi-de.org/id/) verwendet.
-
-Alternativ kann hier eine aufrufbare URL als individueller Identifikator manuell eingegeben werden. Diese wird unverändert übernommen.
+Alternativ kann hier eine aufrufbare URL als individueller Identifikator manuell eingegeben werden. Diese wird dann unverändert übernommen.
 
 Beispiel:
 
@@ -158,7 +156,7 @@ Feld: Digitale Repräsentation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 (optionales INSPIRE-Feld)
 
-Es kann eine Angabe der Methode erfolgen, mit der räumliche Daten präsentiert werden. Die Auswahl erfolgt über eine vorgegebene Liste.
+Es kann angegeben werden, mit welcher Methode die räumlichen Daten dargestellt werden. Die Auswahl erfolgt über eine vorgegebene Liste.
 
 Auswahlliste: Raster, Gitter, Stereomodell, Text, Tabelle, TIN, Vektor, Video
 
@@ -183,10 +181,10 @@ Abb.: Feld Vektorformat
 
 .. hint:: Dieses Feld ist nur aktiv nach Auswahl von "Vektor" im Feld "Digitale Repräsentation".
 
-Es können hier Topologie Informationen, Geometrietyp (Angabe der geometrischen Objekte, zur Beschreibung der geometrischen Lage) und Elementanzahl (Angaben der Anzahl der Punkt- oder Vektortypelemente) angegeben werden.
+Es können hier Topologieinformationen, Geometrietyp (Angabe der geometrischen Objekte, zur Beschreibung der geometrischen Lage) und Elementanzahl (Angabe der Anzahl der Punkt- oder Vektortypelemente) angegeben werden.
 
-Auswahlliste Topologieinformation: 3D-Oberfläche, Flächen, Flächen flächendeckend, Geometrie ohne Topologie, geschlossene Linien eben, geschlossene Linien flächendeckend, Körper, Linien, topologisches Gebilde ohne geometrischen Raum
 
+`Auswahlliste Topologieinformation <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/auswahllisten/auswahlliste_fachbezug_topologieinformation.html>`_
 
 Feld: Erstellungsmaßstab
 ^^^^^^^^^^^^^^^^^^^^^^^^
@@ -211,7 +209,7 @@ Feld: Darstellender Dienst
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Geodatensätze können mit Geodatendiensten gekoppelt werden. Das heißt, dass in einem Portal von einem Geodatensatz auf einen Geodendienst verwiesen wird und umgekehrt.
-Die Datenkopplung erfolgt in einem Geodatendienst. Der gekoppelte Dienst wird in der Erfassungsmaske des Geodatensatzes angezeigt.
+Die Kopplung der Daten erfolgt in einem Geodatendienst. Der gekoppelte Dienst wird in der Eingabemaske des Geodatensatzes angezeigt.
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_darstellender-dienst.png
    :align: left
@@ -224,7 +222,7 @@ Abb.: Feld Darstellender Dienst
 Feld: Datengrundlage
 ^^^^^^^^^^^^^^^^^^^^
 
-Angabe der Unterlagen (Luftbilder, Karten, Datensammlungen), die bei der Erstellung der Karte oder der Geoinformation (des digitalen Datenbestandes) Verwendung finden.
+Angabe der Unterlagen (Luftbilder, Karten, Datensammlungen), die zur Erstellung der Karte oder der Geoinformation (des digitalen Datenbestands) verwendet wurden.
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_datengrundlage.png
    :align: left
@@ -250,7 +248,7 @@ Abb.: Feld Herstellungsprozess - Beispiel: Feldkartierung
 Feld: Symbolkatalog
 ^^^^^^^^^^^^^^^^^^^^
 
-Für die Präsentation genormter Objekte und Sachverhalte können für die Nutzer der Daten zur Herstellung von Karten abgestimmte Symbole vorgegeben werden. Die Angabe einer oder mehrerer analoger oder digitaler Symbolpaletten mit zugehörigem Datum (Pflichteintrag) und Version (Optional) ist hier möglich.
+Für die Darstellung von normierten Objekten und Sachverhalten können für die Nutzer der Daten zur Kartenherstellung abgestimmte Symbole vorgegeben werden. Die Angabe einer oder mehrerer analoger oder digitaler Symbolpaletten mit zugehörigem Datum (Pflichteintrag) und Version (Optional) ist hier möglich.
 
 Beispiel: Planzeichenverordnung, Datum 03.08.2023, Version 6.0
 
@@ -265,7 +263,7 @@ Abb.: Feld Symbolkatalog
 Feld: Schlüsselkatalog
 ^^^^^^^^^^^^^^^^^^^^^^
 
-An dieser Stelle besteht die Möglichkeit, den Daten zugrunde liegende Klassifizierungsschlüssel zu benennen. Dabei ist die Eingabe mehrerer Kataloge mit zugehörigem Datum (Pflichteintrag) und Version (Optional) möglich. Das Feld Schüsselkatalog wird zum Pflichtfeld, wenn in der Tabelle Sachdaten/Attributinformationen ein Eintrag vorgenommen wurde.
+Hier können die den Daten zugrunde liegenden Klassifikationsschlüssel benannt werden. Es können mehrere Kataloge mit zugehörigem Datum (Pflichtfeld) und Version (optional) angegeben werden. Das Feld Schlüsselkatalog wird zum Pflichtfeld, wenn in der Tabelle Sachdaten/Attributinformation ein Eintrag vorgenommen wurde.
 
 Beispiel: Biotoptypenschlüssel, Datum 03.08.2023, Version 6.0
 
@@ -280,7 +278,7 @@ Abb.: Feld Schlüsselkatalog
 Feld: Sachdaten/Attributinformation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Angabe der mit der Geoinformation/Karte verbundenen Sachdaten. Bei Bedarf kann hier eine Auflistung der Attribute des Datenbestandes erfolgen. Die hauptsächliche Nutzung dieses Feldes ist für digitale Geoinformationen vorgesehen.
+Angabe der mit der Geoinformation/Karte verbundenen Sachdaten. Bei Bedarf kann hier eine Auflistung der Attribute des Datensatzes erfolgen. Die hauptsächliche Verwendung dieses Feldes ist für digitale Geoinformationen vorgesehen.
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_sachdaten-attributinformation.png
    :align: left
@@ -289,7 +287,7 @@ Angabe der mit der Geoinformation/Karte verbundenen Sachdaten. Bei Bedarf kann h
  
 Abb.: Feld Sachdaten/Attributinformation - Beispiel: Baumkartei
 
-.. hint:: Mit einem Eintrag unter Sachdaten/Attributinformation werden die Eingabefelder zum Schlüsselkatalog zu Pflichtfeldern. Bitte geben Sie dort den Schlüsselkatalog an, welcher das eingetragene Attribut verzeichnet.
+.. hint:: Mit einem Eintrag unter Sachdaten/Attributinformation werden die Eingabefelder für den Schlüsselkatalog zu Pflichtfeldern. Bitte geben Sie dort den Schlüsselkatalog an, in dem das eingetragene Attribut verzeichnet ist.
 
 -----------------------------------------------------------------------------------------------------------------------
 
@@ -310,7 +308,7 @@ Abschnitt Zusatzinformation
 Feld: Zeichensatz des Datensatzes
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Angabe zu dem im beschriebenen Datensatz benutzten Zeichensatz z.B. UTF-8.
+Angabe des Zeichensatzes, der in dem beschriebenen Datensatz verwendet wird, z. B. UTF-8.
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/zusatzinformation_zeichensatz.png
    :align: left
@@ -325,15 +323,15 @@ Abb.: Feld Zeichensatz des Datensatzes
 Feld: Konformität
 ^^^^^^^^^^^^^^^^^
 
-Hier kann angegeben werden, zu welcher Spezifikation die beschriebenen Daten konform sind. Einträge in dieses Feld erfolgen über den Button Konformität "+ Hinzufügen". Es ist möglich aus Vorgabelisten auszuwählen oder freie Eingaben zu tätigen.
+Hier kann angegeben werden, mit welcher Spezifikation die beschriebenen Daten konform sind. Die Eingaben in diesem Feld erfolgen über die Schaltfläche Konformität "+ Hinzufügen". Es kann aus vordefinierten Listen ausgewählt werden oder eine freie Eingabe erfolgen.
 
-Sind die zu beschreibenden Daten INSPIRE-relevant, muss die zutreffende Durchführungsbestimmung der INSPIRE-Richtlinie angegeben werden (INSPIRE-Pflichtfeld).
+Wenn die zu beschreibenden Daten INSPIRE-relevant sind, muss die zutreffende Durchführungsbestimmung der INSPIRE-Richtlinie angegeben werden (INSPIRE-Pflichtfeld).
 
 Beschreibung unter der Option: `INSPIRE-relevant <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/inspire-relevant.html>`_
 
-Dieses Feld wird bei Eintragungen in "INSPIRE-Themen" oder "Art des Dienstes" automatisch befüllt. Es muss dann nur der "Grad der Konformität" manuell angepasst werden.
+Dieses Feld wird automatisch ausgefüllt, wenn Einträge unter "INSPIRE-Themen" oder "Art des Dienstes" vorgenommen werden. Lediglich der "Konformitätsgrad" muss manuell angepasst werden.
 
-.. hint:: Bei Aktivierung der Checkbox "AdV-kompatibel", bitte entsprechend den Empfehlungen des AdV-Metadatenprofils nur die Werte "konform" und "nicht konform" für "Grad der Konformität" verwenden.
+.. hint:: Bei Aktivierung des Kontrollkästchens "AdV-kompatibel" bitte gemäß den Empfehlungen des AdV-Metadatenprofils nur die Werte "konform" und "nicht konform" für "Grad der Konformität" verwenden.
 
 Beschreibung unter der Option: `AdV kompatibel <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/adv-kompatibel.html>`_
 
