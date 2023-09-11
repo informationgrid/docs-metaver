@@ -73,7 +73,7 @@ Abb.: Auswahlfeld Titel
 .. hint:: Das Feld "Kontakt" ist ein Pflichtfeld und muss ausgefüllt werden. Es ist erforderlich, mindestens eine E-Mail-Adresse anzugeben. Fehlt diese Angabe, kann die Adresse zwar gespeichert werden, bei der Veröffentlichung kommt es jedoch zu folgender Fehlermeldung:
  
 
-.. figure:: ../../img/ige/meldungen/fehler_felder-korrekt-ausfuellen.png
+.. figure:: ../../img/ige/meldungen/felder-korrekt-ausfuellen.png
    :align: left
    :scale: 50
    :figwidth: 100%
