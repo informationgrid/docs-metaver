@@ -8,9 +8,9 @@ Geodatendienst
 
     .. image:: ../../../img/ige/icons/datensatztypen/portal/geodatendienst.png, .. image:: ../../../img/ige/icons/datensatztypen/ige/geodatendienst.png
 
-Ein Geodatendienst ist ein in der Regel über das Internet angebotener Dienst, mit dem Geodaten visualisiert, integriert, bearbeitet oder abgefragt werden können. Geodatendienste sind Webdienste, die raumbezogene Informationen verarbeiten und vom Open Geospatial Consortium (OGC) auf der Basis von ISO-Normen international standardisiert wurden.
+Ein Geodatendienst ist ein in der Regel über das Internet angebotener Dienst, mit dem Geodaten visualisiert, integriert, verarbeitet oder abgefragt werden können. Geodatendienste sind Webdienste, die raumbezogene Informationen verarbeiten und vom Open Geospatial Consortium (OGC) auf der Basis von ISO-Normen international standardisiert wurden.
 
-Einem Geodatendienst kann ein Geodatensatz zugeordnet werden, dieser beschreibt die im Geodatendienst enthaltenen Daten. Einem Geodatendienst können auch mehrere Geodatensätze zugeordnet werden, diese beschreiben dann die im Geodatendienst enthaltenen Layer. Einem Geodatensatz können verschiedene Geodatendienste (z.B. WMS, WFS, Atom) zugeordnet werden, der Geodatensatz beschreibt dann die Daten, die durch die Geodatendienste bereitgestellt werden.
+Einem Geodatendienst kann ein Geodatensatz zugeordnet werden, der die im Geodatendienst enthaltenen Daten beschreibt. Einem Geodatendienst können auch mehrere Geodatensätze zugeordnet werden, diese beschreiben dann die im Geodatendienst enthaltenen Layer. Einem Geodatensatz können verschiedene Geodatendienste (z.B. WMS, WFS, Atom) zugeordnet werden, der Geodatensatz beschreibt dann die durch die Geodatendienste bereitgestellten Daten.
 
 Wird ein Geodatensatz einem Geodatendienst zugeordnet, so werden diese Metadatensätze miteinander gekoppelt (Datenkopplung). Das bedeutet, dass der Geodatensatz über einen Link auf den Geodatendienst verweist und der Geodatendienst wiederum über einen Link auf den Geodatensatz verweist.
 
@@ -32,7 +32,7 @@ Funktion: Der GetCapabilities-Assistent
    
 Abb.: GetCapabilitie-Assistent - Symbol (Zauberstab) in der Symbolleiste
 
-.. seealso:: Hier wird die Erfassung von Metadaten mit dem `GetCapabilities-Assistent <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/erfassungsassistent/getcapabilitie-assistent.html>`_  beschrieben.
+.. seealso:: Hier wird die Erfassung von Metadaten mit dem `GetCapabilities-Assistenten <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/erfassungsassistent/getcapabilitie-assistent.html>`_  beschrieben.
 
 
 -----------------------------------------------------------------------------------------------------------------------
@@ -41,9 +41,9 @@ Abb.: GetCapabilitie-Assistent - Symbol (Zauberstab) in der Symbolleiste
 Feld: Typ
 ^^^^^^^^^
 
-Unter Typ können weitere Eigenschaften (Eingabefelder) für den Metadatensatz festgelegt werden.
+Unter Typ können weitere Eigenschaften (Eingabefelder) für den Metadatensatz definiert werden.
 
-.. seealso:: Beschreibungen zu den Optionen: `INSPIRE-relevant | <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/inspire-relevant.html>`_ `AdV kompatibel | <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/adv-kompatibel.html>`_ `Open Data <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/opendata.html>`_
+.. seealso:: Beschreibungen der Optionen: `INSPIRE-relevant | <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/inspire-relevant.html>`_ `AdV-kompatibel | <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/adv-kompatibel.html>`_ `Open Data <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/opendata.html>`_
 
 .. `(InVeKoS) <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/invekos.html>`_
 
@@ -69,7 +69,7 @@ Abschnitt Verschlagwortung
 
 .. hint:: Dieser Abschnitt ist unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_ beschrieben.
 
-.. seealso:: Beschreibungen zu den Optionen: `INSPIRE-relevant | <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/inspire-relevant.html>`_ `AdV kompatibel | <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/adv-kompatibel.html>`_ `Open Data <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/opendata.html>`_
+.. seealso:: Beschreibungen der Optionen: `INSPIRE-relevant | <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/inspire-relevant.html>`_ `AdV-kompatibel | <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/adv-kompatibel.html>`_ `Open Data <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/opendata.html>`_
 
 .. `(InVeKoS) <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/invekos.html>`_
 
@@ -88,16 +88,16 @@ Feld: Klassifikation des Dienstes
 
 Abb.: Feld "Klassifikation des Dienstes"
 
-`Auswahlliste - Klassifikation des Dienstes <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/auswahllisten/auswahlliste_fachbezug_geodatendienst_klassifikation.html>`_
+`Auswahlliste - Klassifizierung des Dienstes <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/auswahllisten/auswahlliste_fachbezug_geodatendienst_klassifikation.html>`_
 
 
-Aus der vorgegebenen Auswahlliste ist der Eintrag zu wählen, der auf den Dienst zutrifft. Bei WebMapDiensten (WMS) kann beispielsweise „Dienst für den Zugriff auf grafische Darstellungen ausgewählt werden. Dieses Feld dient in erster Linie der Identifikation eines Dienstes durch den recherchierenden Nutzer. 
+Aus der vorgegebenen Auswahlliste ist der für den Dienst zutreffende Eintrag auszuwählen. Für WebMap-Dienste (WMS) kann beispielsweise "Dienst für den Zugriff auf grafische Darstellungen" ausgewählt werden. Dieses Feld dient in erster Linie der Identifikation eines Dienstes durch den recherchierenden Nutzer. 
 
 
 Feld: Art des Dienstes
 ^^^^^^^^^^^^^^^^^^^^^^
 
-In diesem Pflichtfeld kann die Art des Dienstes ausgewählt werden. Über das Feld werden die zur weiteren Befüllung auszuwählenden Angaben zu Operationen gesteuert (siehe Tabelle unter Punkt: Name der Operation).
+In diesem Pflichtfeld kann die Art des Vorgangs ausgewählt werden. Das Feld steuert, welche Vorgangsdetails zur weiteren Befüllung ausgewählt werden (siehe Tabelle unter Punkt: Name der Operation).
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_dienstart.png
    :align: left
@@ -114,7 +114,7 @@ Beispiel Downloaddienst: Download-Dienste
 `Auswahlliste - Art des Dienstes <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/auswahllisten/auswahlliste_fachbezug_geodatendienst_dienstarten.html>`_
 
 
-.. hint:: Die Auswahl der Dienstart hat Auswirkungen auf das Feld Konformität. Je nach gewählter Art des Dienstes wird das Feld Konformität schon vorbelegt (gilt nicht für alle Dienstarten).
+.. hint:: Die Auswahl der Dienstart wirkt sich auf das Feld Konformität aus. Je nach gewählter Dienstart ist das Feld Konformität bereits vorbelegt (gilt nicht für alle Dienstarten).
 
 Beispiel: Darstellungsdienst (automatischer Eintrag in Konformität/Spezifikation: "Technical Guidance for the implementation of INSPIRE View Services")
 
@@ -163,7 +163,7 @@ Anwendung: Der ATOM-Feed Client
 Feld: Operationen
 ^^^^^^^^^^^^^^^^^
 
-Die Eingabefelder für die Operationen wurden im neuen Editor vereinfacht. Im Feld "Name" muss die getCapabilitie-URL eingetragen werden, in das Feld "Beschreibung" wird die Bezeichnung für den Dienst eingetragen und in das Feld "Zugriffs-URL" die entsprechende URL.
+Die Eingabefelder für die Operationen wurden im neuen Editor vereinfacht. Im Feld "Name" muss die getCapabilitie-URL, im Feld "Beschreibung" die Beschreibung des Dienstes und im Feld "Zugriffs-URL" die entsprechende URL eingegeben werden.
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_operationen.png
    :align: left
@@ -183,7 +183,7 @@ Feld: Erstellungsmaßstab
 
 Abb.: Erstellungsmaßstab
 
-Angabe des Erstellungsmaßstabes, der sich auf die erstellte Karte und/oder Digitalisiergrundlage bei Geodaten bezieht. Maßstab: Maßstab der Karte, z.B 1:12 Bodenauflösung: Einheit geteilt durch Auflösung multipliziert mit dem Maßstab (Angabe in Meter, Fließkommazahl) Scanauflösung: Auflösung z.B. einer eingescannten Karte, z.B. 120dpi (Angabe in dpi, Integerzahl). Es handelt sich um ein optionales INSPIRE-Feld.
+Angabe des Erstellungsmaßstabes, der sich auf die erstellte Karte bzw. bei Geodaten auf die Digitalisierungsgrundlage bezieht. Maßstab: Maßstab der Karte, z. B. 1:12 Bodenauflösung: Einheit geteilt durch Auflösung multipliziert mit Maßstab (Angabe in Meter, Fließkommazahl) Scanauflösung: Auflösung z. B. einer gescannten Karte, z. B. 120 dpi. Dies ist ein optionales INSPIRE-Feld.
 
 Beispiel: Bodenauflösung: Auflösungseinheit in Linien/cm; Einheit: z.B. 1 cm geteilt durch 400 Linien multipliziert mit dem Maßstab 1:25.000 ergibt 62,5 cm als Bodenauflösung
 
@@ -197,9 +197,10 @@ Felder: Systemumgebung & Historie
    :figwidth: 100%
 
 Abb.: Felder "Systemumgebung und Historie"
-Feld Systemumgebung: Angaben zum Betriebssystem und der Software, ggf. auch Hardware, die zur Implementierung des Dienstes eingesetzt wird.
 
-Feld Historie: Angaben zur Implementierungsgeschichte des Dienstes.
+Feld Systemumgebung: Angaben zum Betriebssystem und zur Software, ggf. auch zur Hardware, die zur Implementierung des Dienstes verwendet werden.
+
+Feld Historie: Informationen zur Implementierungsgeschichte des Dienstes.
 
 
 Feld: Erläuterungen
@@ -212,9 +213,9 @@ Feld: Erläuterungen
 
 Abb.: Feld "Erläuterungen"
 
-Zusätzliche Anmerkungen zu dem beschriebenen Dienst. Hier können weitergehende Angaben z. B. technischer Art gemacht werden, die zum Verständnis des Dienstes notwendig sind.
+Zusätzliche Bemerkungen zum beschriebenen Dienst. Hier können zusätzliche Informationen, z.B. technischer Art, gegeben werden, die für das Verständnis des Dienstes notwendig sind.
 
-Beispiel: Der Datensatz ist eine ...-Datei, die alle Grundwassermessstellen in (Ortsangabe) mit Lage und Kennung beinhaltet.
+Beispiel: Der Datensatz ist eine ...-Datei, die alle Grundwassermessstellen in (Ortsangabe) mit Lage und Kennung enthält.
 
 
 -----------------------------------------------------------------------------------------------------------------------
@@ -235,13 +236,13 @@ Abb.: Felder für Dargestellte Daten
 Feld: Dargestellte Daten
 """"""""""""""""""""""""
 
-Beschreibung Herkunft und Art der zugrundeliegenden Daten. Bei einem OGC Web Service können Verweise auf ein oder mehrere Geodatensätze eingefügt werden, die mit dem Dienst verknüpft sind. Im Allgemeinen sind dies die Datensätze, auf die der Dienst aufgesetzt ist. Allgemein sollen die Herkunft oder die Ausgangsdaten der Daten beschrieben werden, die in dem Dienst benutzt, werden.
+Beschreibung Ursprung und Art der zugrunde liegenden Daten. Ein OGC Web Service kann Verweise auf einen oder mehrere Geodatensätze enthalten, die mit dem Dienst verknüpft sind. In der Regel sind dies die Datensätze, auf denen der Dienst basiert. Im Allgemeinen sollte der Ursprung oder die Ausgangsdaten der im Dienst verwendeten Daten beschrieben werden.
 
-Als bevorzugte Methode können über "Gekoppelte Daten auswählen" Geodatensätze aus dem gleichen Katalog ausgewählt werden oder externe Metadatensätze über einen GetRecordsByID HTTP-GET-Request referenziert werden. Bei der Angabe eines GetRecordsByID HTTP-GET-Request wird die Resource analysiert und zusätzlich noch der Titel und der Resource-Identfier ermittelt und gespeichert.
+Die bevorzugte Methode ist die Auswahl von Geodatensätzen aus demselben Katalog über "Gekoppelte Daten auswählen" oder die Referenzierung externer Metadatensätze über einen GetRecordsByID HTTP-GET-Request. Bei der Angabe eines GetRecordsByID HTTP-GET-Requests wird die Ressource analysiert und zusätzlich der Titel und der Ressource-Identifier ermittelt und gespeichert.
 
-Die Angabe eines Textes beschreibt die dargestellten Daten in Form eines Textes. Zusätzlich kann hier auch die Art der Daten (z. B. digital, automatisch ermittelt oder aus Umfrageergebnissen, Primärdaten, fehlerbereinigte Daten) angegeben werden.
+Die Angabe eines Textes beschreibt die dargestellten Daten in Textform. Zusätzlich kann hier die Art der Daten (z.B. numerisch, automatisch oder aus Erhebungsergebnissen gewonnen, Primärdaten, fehlerbereinigte Daten) angegeben werden.
 
-..hint:: Ist die Option "Als ATOM-Download Dienst bereitstellen" ausgewählt, so muss darauf geachtet werden, dass die extern verkoppelten dargestellten Daten einen Downloadlink besitzen.
+..hint:: Wird die Option "Als ATOM-Download Dienst bereitstellen" gewählt, ist darauf zu achten, dass die extern dargestellten Daten über einen Downloadlink verfügen.
 
 
 Feld: Kopplungstyp
@@ -260,8 +261,7 @@ Option: Zugang geschützt
 
 Abb.: Option Zugang geschützt
 
-Die Option "Zugang geschützt" sollte aktiviert werden, wenn der Zugang zu dem Dienst z.B. durch ein Passwort geschützt ist. Bei aktiviertem Kontrollkästchen wird kein direkter Link (Zeige Karte) aus dem Portal zu dem Dienst generiert. In der Portalansicht erscheint am Dienst eine Grafik als Vorhängeschloss.
-
+Die Option "Zugriff geschützt" sollte aktiviert werden, wenn der Zugriff auf den Dienst z.B. durch ein Passwort geschützt ist. Wenn das Kontrollkästchen aktiviert ist, wird kein direkter Link (Karte anzeigen) vom Portal zum Dienst erzeugt. In der Portalansicht erscheint eine Grafik in Form eines Vorhängeschlosses neben dem Dienst.
 
 -----------------------------------------------------------------------------------------------------------------------
 
@@ -278,11 +278,10 @@ Feld: Konformität
 
 Abb.: Konformität
 
-Hier muss angegeben werden, zu welcher Durchführungsbestimmung der INSPIRE-Richtlinie bzw. zu welcher anderweitigen Spezifikation die beschriebenen Daten konform sind. (INSPIRE-Pflichtfeld)
+Anzugeben ist, welcher Durchführungsbestimmung der INSPIRE-Richtlinie oder sonstigen Spezifikation die beschriebenen Daten entsprechen. (INSPIRE-Pflichtfeld)
 
-Dieses Feld wird bei der Auswahl der "INSPIRE-Themen" oder der "Art des Dienstes" automatisch befüllt. Es muss dann nur der Grad der Konformität manuell eingetragen werden.
+Dieses Feld wird automatisch ausgefüllt, wenn "INSPIRE-Themen" oder "Art des Dienstes" ausgewählt wird. Es muss dann nur noch der Konformitätsgrad manuell eingegeben werden.
 
-Bitte entsprechend den Empfehlungen des AdV-Metadatenprofils nur die Werte "konform" und "nicht konform" im Feld "Grad der Konformität" verwenden. Für alle nicht INSPIRE-Objekte, sollte hier die „INSPIRE-Richtlinie“ mit dem Wert „nicht evaluiert“ ausgewählt werden.
+Gemäß den Empfehlungen des AdV-Metadatenprofils sind im Feld "Konformitätsgrad" nur die Werte "konform" und "nicht konform" zu verwenden. Für alle Nicht-INSPIRE-Objekte ist hier die „INSPIRE-Richtlinie“ mit dem Wert „nicht evaluiert“ auszuwählen.
 
-
-.. hint:: Die Abschnitte Raumbezugsystem, Zeitbezug, Zusatzinformation, Verfügbarkeit und Verweise sind ausführlich unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_ beschrieben, da sie auf mehrere Metadatentypen zutreffen.
+.. hint:: Die Abschnitte Raumbezug, Zeitbezug, Zusatzinformationen, Verfügbarkeit und Verweise werden unter `Metadaten erfassen `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_ ausführlich beschrieben, da sie für mehrere Metadatentypen gelten.
