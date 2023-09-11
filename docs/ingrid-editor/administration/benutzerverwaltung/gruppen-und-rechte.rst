@@ -64,3 +64,24 @@ Rechte Vergabe
 --------------
 
 Bitte beachten Sie bei der Vergabe von Rechten, dass nur befugtes Personal Zugang zu vertraulichen Informationen hat. Stellen Sie sicher, dass die Rechte auf ein Minimum beschränkt sind und nur den Bedürfnissen der betreffenden Mitarbeiter entsprechen. Überwachen Sie regelmäßig die Vergabe von Rechten und nehmen Sie Änderungen vor, wenn sich die Umgebung oder die Position eines Mitarbeiters ändert.
+
+.. figure:: ../../../img/ige/administration/benutzerverwaltung/rechte-vergabe.png
+   :align: left
+   :scale: 40
+   :figwidth: 100%
+
+Abb.: Vergabe von Berechtigungen
+
+Rechtevergabe Daten und Adressen - Bedeutung der Symbole
+
+- Symbol Auge: Leserechtevergabe
+- Symbol Strukturbaum: Nur Unterordner
+- Symbol Stift Schreibrechte
+- Drei Punkte: Bearbeiten
+
+.. figure:: ../../../img/ige/administration/benutzerverwaltung/berechtigungen.png
+   :align: left
+   :scale: 40
+   :figwidth: 100%
+
+   Abb.: Berechtigungen

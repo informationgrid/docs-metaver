@@ -20,7 +20,7 @@ Ordner/Adresse anlegen
 
 Im Strukturbaum den entsprechenden Ordner oder eine vorhandene Adresse auswählen. In der Symbolleiste auf das entsprechende Symbol klicken "Neue Adresse anlegen" oder "Ordner erstellen". Für die Strukturierung der Adressdaten kann zwischen Adresstypen "Organisation" und "Person" gewählt werden.
 
-.. figure:: ../../img/ige/adressen/ige-ng_adresse-anlegen.png
+.. figure:: ../../img/ige/adressen/adresse-anlegen.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -38,7 +38,7 @@ Nach Auswahl des Adresstyps erscheint die Eingabemaske für die  Adresse rechts 
 
 Standardmäßig werden zunächst nur die Pflichtfelder angezeigt. Neben den verpflichtenden Angaben (Bezeichnung / Name, Kontakt) können weitere Adressangaben (Anschrift, usw.) gespeichert werden. Durch einen Klick auf "+ HINZUFÜGEN", können weitere Kommunikationsmöglichkeiten eingetragen werden.
 
-.. figure:: ../../img/ige/adressen/ige-ng_adresse-eingabemaske.png
+.. figure:: ../../img/ige/adressen/adresse-eingabemaske.png
    :align: left
    :scale: 50
    :figwidth: 100%
