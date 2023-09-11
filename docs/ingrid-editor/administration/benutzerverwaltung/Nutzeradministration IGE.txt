@@ -32,14 +32,14 @@ Um dem neuen Nutzer passende Rechte zuordnen zu können, muss in der Gruppenadmi
 
 Nachdem gehen Sie bitte wie folgt vor:
 
-    Klicken Sie in der Nutzeradministration (IGE-Nutzerverwaltung) auf den Administrator, der für den neuen Nutzer zuständig sein soll (Hierarchiebaum auf der linken Seite). Der Name des Administrators wird rot markiert.
-    Als Katalog-Administrator können Sie Metadaten-Administratoren und Metadaten-Autoren im gesamten Katalog anlegen. Als Metadaten-Administrator können Sie nur Metadaten-Autoren unterhalb ihres eigenen Eintrags anlegen. Unterhalb von Metadaten-Autoren können keine weiteren Nutzer angelegt werden.
-    Klicken Sie auf die Schalfläche Nutzer anlegen (unterhalb des Hierarchiebaums). Geben Sie nun in das Dialogfeld die Anfangsbuchstaben des neuen Portal-Nutzers ein und wählen Sie dann aus der Auswahlliste den entsprechenden Nutzer aus. Klicken Sie anschließend auf die Schalfläche Übernehmen, um dem neuen Nutzer dem ausgewählten IGE-Administrator zuzuordnen.
-    Hinweis 1: Die Auswahlliste öffnet sich nur durch die Eingabe von Buchstaben und nicht wie üblich über einen Klick auf das Symbol an der rechten Seite der Eingabezeile. Namen, die mit großen Anfangsbuchstaben beginnen, werden in der Auswahlliste zuerst gelistet.
-    Hinweis 2: Ein Portal-Nutzer, der bereits einem IGE-Katalog zugeordnet ist, kann keinem zweiten Katalog zugeordnet werden. Diese Regelung betrifft auch Schulungskataloge. Deshalb werden Nutzer, die bereits mit IGE-Rechten ausgestattet sind, nicht mehr in der Auswahlliste angezeigt.
-    Für den neuen IGE-Nutzer müssen nun einige Nutzerdaten (Name, Email, Institution) erfasst.
-    Weisen Sie dem neuen IGE-Nutzer einer oder mehreren Gruppen zu. In der Auswahlliste werden alle in der Gruppenadministration definierten Gruppen angezeigt für die Sie die Berechtigung zur Administration besitzen.
-    Mit Speichern (Schaltfläche unten rechts) schließen Sie den Vorgang ab.
+Klicken Sie in der Nutzeradministration (IGE-Nutzerverwaltung) auf den Administrator, der für den neuen Nutzer zuständig sein soll (Hierarchiebaum auf der linken Seite). Der Name des Administrators wird rot markiert.
+Als Katalog-Administrator können Sie Metadaten-Administratoren und Metadaten-Autoren im gesamten Katalog anlegen. Als Metadaten-Administrator können Sie nur Metadaten-Autoren unterhalb ihres eigenen Eintrags anlegen. Unterhalb von Metadaten-Autoren können keine weiteren Nutzer angelegt werden.
+Klicken Sie auf die Schalfläche Nutzer anlegen (unterhalb des Hierarchiebaums). Geben Sie nun in das Dialogfeld die Anfangsbuchstaben des neuen Portal-Nutzers ein und wählen Sie dann aus der Auswahlliste den entsprechenden Nutzer aus. Klicken Sie anschließend auf die Schalfläche Übernehmen, um dem neuen Nutzer dem ausgewählten IGE-Administrator zuzuordnen.
+Hinweis 1: Die Auswahlliste öffnet sich nur durch die Eingabe von Buchstaben und nicht wie üblich über einen Klick auf das Symbol an der rechten Seite der Eingabezeile. Namen, die mit großen Anfangsbuchstaben beginnen, werden in der Auswahlliste zuerst gelistet.
+Hinweis 2: Ein Portal-Nutzer, der bereits einem IGE-Katalog zugeordnet ist, kann keinem zweiten Katalog zugeordnet werden. Diese Regelung betrifft auch Schulungskataloge. Deshalb werden Nutzer, die bereits mit IGE-Rechten ausgestattet sind, nicht mehr in der Auswahlliste angezeigt.
+Für den neuen IGE-Nutzer müssen nun einige Nutzerdaten (Name, Email, Institution) erfasst.
+Weisen Sie dem neuen IGE-Nutzer einer oder mehreren Gruppen zu. In der Auswahlliste werden alle in der Gruppenadministration definierten Gruppen angezeigt für die Sie die Berechtigung zur Administration besitzen.
+Mit Speichern (Schaltfläche unten rechts) schließen Sie den Vorgang ab.
 
 
 Bearbeiten und Löschen eines bereits existierenden Nutzers

@@ -86,7 +86,7 @@ Abb.: Vergabe von Berechtigungen
 Rechtevergabe Daten und Adressen - Bedeutung der Symbole
 
 - Symbol Auge - Vergabe von Leserechten für einen Ordner und die darunter befindlichen Ordner und  Daten.
-- Symbol Strukturbaum - Es können nur Unterordner 
+- Symbol Strukturbaum - Wenn die Berechtigungen auf "Nur Unterordner" gesetzt sind, kann weder der Name noch das Veröffentlichungsrecht des ausgewählten Ordners geändert werden. Der Ordner wird in der Ordnerstruktur grau dargestellt.
 - Symbol Stift - Vergabe von Schreibrechten für einen Ordner und die darunter befindlichen Ordner und Adressen.
 - Drei Punkte: Bearbeiten/Entfernen
 
