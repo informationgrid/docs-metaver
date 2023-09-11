@@ -67,21 +67,23 @@ Bitte beachten Sie bei der Vergabe von Rechten, dass nur befugtes Personal Zugan
 
 .. figure:: ../../../img/ige/administration/benutzerverwaltung/rechte-vergabe.png
    :align: left
-   :scale: 40
+   :scale: 50
    :figwidth: 100%
 
 Abb.: Vergabe von Berechtigungen
 
 Rechtevergabe Daten und Adressen - Bedeutung der Symbole
 
-- Symbol Auge: Leserechtevergabe
-- Symbol Strukturbaum: Nur Unterordner
-- Symbol Stift Schreibrechte
+- Symbol Auge - Vergabe von Leserechten für einen Ordner und die untergeordneten Daten.
+- Symbol Strukturbaum - Nur Unterordner
+- Symbol Stift - Vergabe von Schreibrechten für einen Ordner und die untergeordneten Adressen.
 - Drei Punkte: Bearbeiten
+
+Um Berechtigungen zu vergeben, klicken Sie auf das entsprechende Symbol und wählen Sie in der Ordnerstruktur den Ordner aus, ab dem die Berechtigungen gelten sollen.
 
 .. figure:: ../../../img/ige/administration/benutzerverwaltung/berechtigungen.png
    :align: left
-   :scale: 40
+   :scale: 50
    :figwidth: 100%
 
    Abb.: Berechtigungen
