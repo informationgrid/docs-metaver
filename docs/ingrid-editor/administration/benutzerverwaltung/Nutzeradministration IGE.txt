@@ -1,0 +1,125 @@
+Nutzeradministration
+
+Konzept der Nutzerverwaltung des InGridEditors
+
+Der InGridEditor (IGE) ist eine Komponente der Portal-Software InGrid, die in erster Linie für das Umweltportal Deutschland InGrid-Portal konzipiert und weiterentwickelt wird. Durch die Verknüpfung der Nutzverwaltungen des Umweltportals und des IGEs ergibt sich der Vorteil, dass sich ein Nutzer nur einmal zentral im Portal (unter Mein InGrid-Portal) oder in einer anderen externen Benutzerverwaltung anmelden muss.
+
+Die IGE-Nutzerrechte, die sowohl Schreibrechte als auch das Recht zur Qualitätssicherung umfassen können, werden in der Gruppenadministration der IGE-Nutzerverwaltung festgelegt. Zunächst werden Gruppen definiert, die spezifische Rechte für einen Teilbereich des Katalogs aufweisen und anschließend die Nutzer einer oder mehreren Gruppen zugeordnet.
+
+
+
+
+Im IGE werden hierbei folgende Rechte (Rollen) unterschieden:
+
+Katalog-Administrator: Es gibt nur einen Nutzer mit diesen Rechten. Er hat das Recht alle Verwaltungsfunktionen bedienen zu dürfen und kann Nutzer auf allen darunterliegenden Hierarchieebenen mit Schreibrechten auf beliebige Teilbäume erstellen.
+
+Metadaten-Administrator: Er darf von den Verwaltungsfunktionen nur die Nutzerverwaltung bedienen. Er darf Nutzer mit der Rolle Metadaten-Autor erstellen. Die Rechte dieser Nutzer dürfen aber maximal den Rechten des jeweiligen Metadaten-Administrators entsprechen (z.B. Schreibrechte nur auf einen Teilbaum des Katalogs).
+
+Metadaten-Autor: Er hat Schreibrechte auf einen Teilbaum des Kataloges, hat aber keinen Zugang zur Nutzerverwaltung oder zu anderen Verwaltungsfunktionen.
+
+Der Katalog-Administrator kann Metadaten-Autoren unter beliebigen Metadaten-Administratoren einrichten. Ein Metadaten-Administrator hat immer das Recht, die ihm nachgeordneten Metadaten-Autoren zu administrieren.
+
+
+
+
+Neuanlegen eines Nutzers
+
+Vorbereitende Schritte:
+
+Der Nutzer muss in der externen Benutzerverwaltung registriert worden sein (Portal-Nutzer). Wird als externe Nutzerverwaltung das Portal verwendet, kann sich der Nutzer selbst anmelden oder vom Administrator im Portal unter Mein InGrid-Portal angemeldet werden.
+Der Nutzer erhält eine Email zur Bestätigung seiner Anmeldung. Mit der Bestätigung des Links in der Email wird die Anmeldung aktiviert.
+Um dem neuen Nutzer passende Rechte zuordnen zu können, muss in der Gruppenadministration der IGE-Nutzerverwaltung geprüft werden, ob bereits eine oder mehrere Gruppen existieren, die mit entsprechenden Rechten ausgestattet sind. Ist dies nicht der Fall, müssen eine oder mehrere neue Gruppen angelegt werden.
+
+Nachdem gehen Sie bitte wie folgt vor:
+
+    Klicken Sie in der Nutzeradministration (IGE-Nutzerverwaltung) auf den Administrator, der für den neuen Nutzer zuständig sein soll (Hierarchiebaum auf der linken Seite). Der Name des Administrators wird rot markiert.
+    Als Katalog-Administrator können Sie Metadaten-Administratoren und Metadaten-Autoren im gesamten Katalog anlegen. Als Metadaten-Administrator können Sie nur Metadaten-Autoren unterhalb ihres eigenen Eintrags anlegen. Unterhalb von Metadaten-Autoren können keine weiteren Nutzer angelegt werden.
+    Klicken Sie auf die Schalfläche Nutzer anlegen (unterhalb des Hierarchiebaums). Geben Sie nun in das Dialogfeld die Anfangsbuchstaben des neuen Portal-Nutzers ein und wählen Sie dann aus der Auswahlliste den entsprechenden Nutzer aus. Klicken Sie anschließend auf die Schalfläche Übernehmen, um dem neuen Nutzer dem ausgewählten IGE-Administrator zuzuordnen.
+    Hinweis 1: Die Auswahlliste öffnet sich nur durch die Eingabe von Buchstaben und nicht wie üblich über einen Klick auf das Symbol an der rechten Seite der Eingabezeile. Namen, die mit großen Anfangsbuchstaben beginnen, werden in der Auswahlliste zuerst gelistet.
+    Hinweis 2: Ein Portal-Nutzer, der bereits einem IGE-Katalog zugeordnet ist, kann keinem zweiten Katalog zugeordnet werden. Diese Regelung betrifft auch Schulungskataloge. Deshalb werden Nutzer, die bereits mit IGE-Rechten ausgestattet sind, nicht mehr in der Auswahlliste angezeigt.
+    Für den neuen IGE-Nutzer müssen nun einige Nutzerdaten (Name, Email, Institution) erfasst.
+    Weisen Sie dem neuen IGE-Nutzer einer oder mehreren Gruppen zu. In der Auswahlliste werden alle in der Gruppenadministration definierten Gruppen angezeigt für die Sie die Berechtigung zur Administration besitzen.
+    Mit Speichern (Schaltfläche unten rechts) schließen Sie den Vorgang ab.
+
+
+Bearbeiten und Löschen eines bereits existierenden Nutzers
+
+Wählen Sie durch Mausklick im Hierarchiebaum auf der linken Seite des Fensters einen Nutzer aus, den Sie bearbeiten oder löschen wollen.
+
+Die Nutzerdaten werden in die Felder auf der rechten Seite des Fensters geladen. Sie können das Login, die Adressdaten und die Gruppe ändern. Über Speichern sichern Sie die Änderungen.
+
+Hinweis: Dem Katalog-Administrator ist immer automatisch die Gruppe administrators zugewiesen. Diese Zuordnung kann nicht geändert werden. Die Gruppe steht anderen Nutzern nicht zur Verfügung.
+
+Zum Löschen des Nutzers klicken Sie auf die Schaltfläche Nutzer löschen und bestätigen den Vorgang in dem sich öffnenden Dialog.
+
+Anzeige der Verantwortlichkeiten
+
+Über den Reiter "Als Verantwortlicher" werden zwei Tabellen angezeigt, die die Objekte und Adressen auflisten, in denen der ausgewählte Benutzer als Verantwortlicher eingetragen ist. Es ist möglich direkt von diesen Tabellen auf ein Objekt bzw. Adresse zu springen.
+Gruppenadministration
+
+Über die (Nutzer-)Gruppen werden die Schreibrechte auf Objekte und Adressen sowie das Recht zur Qualitätssicherung festgelegt.
+
+In der Gruppenadministration können Sie:
+
+    Eine Gruppe bearbeiten: Klicken Sie auf den Namen der Gruppe in der Liste links oben im Fenster. Sie können nun den Namen der Gruppe ändern sowie die Rechte für die Gruppe (siehe unten). Änderungen müssen mit Speichern abgeschlossen werden und stehen dann sofort zur Verfügung.
+    Eine Gruppe neu anlegen: Klicken Sie auf die Schaltfläche Neue Gruppe anlegen. Sie müssen den Gruppennamen angeben und den Vorgang mit Speichern abschließen. Sie können nun die Rechte für die Gruppe angeben (siehe unten).
+    Eine Gruppe löschen: Klicken Sie mit der rechten Maustaste auf den Namen der Gruppe, die Sie löschen wollen. Wählen Sie Zeile löschen aus dem Kontextmenü und bestätigen Sie den Vorgang in dem sich öffnenden Dialog.
+
+Wichtig: Alle Änderungen an den Gruppeneigenschaften (auch die an den untenstehenden Berechtigungen) müssen über Speichern abgeschlossen werden, damit die Änderungen wirksam werden und nicht verloren gehen.
+
+Sie können folgende Berechtigungen für eine Gruppe vergeben:
+
+Berechtigungen für Objekte
+
+Sie können Schreibberechtigungen für Objekte vergeben. Wählen sie dazu das Objekt unter Berechtigungen für Objekte aus dem Hierarchiebaum aus, für das Sie oder ab dem Sie die Schreibberechtigung vergeben wollen. Ein Klick auf das Objekt färbt es rot ein. Über die Schaltfläche > können Sie das markierte Objekt in die Liste der Berechtigungen übernehmen.
+
+Sie haben drei Einstellungsmöglichkeiten für die Berechtigung pro Objekt:
+
+    Teilbaum: Dies ist die Standardeinstellung. Sie haben für dieses und alle nachgeordneten Objekte eine Schreibberechtigung. Sie können unterhalb dieses Objektes und allen nachgeordneten Objekten neue Objekte anlegen.
+    Unterobjekte: Sie können direkt unterhalb dieses Objektes ein neues Objekt anlegen, für das Sie dann den vollen Zugriff bekommen (Teilbaum Recht auf neuem Unterobjekt). Alle Benutzer Ihrer Gruppe bekommen damit ebenfalls vollen Zugriff (alle Benutzer der Gruppe, die das Unterobjekterecht beinhaltet).
+    Einzelobjekt: Sie haben nur auf diesem Objekt eine Schreibberechtigung, auf nachgeordnete Objekte nicht. Sie können keine neuen Objekte unterhalb dieses Objektes anlegen.
+
+Hinweis: Sie können keine Schreibrechte auf den Strukturbaumknoten Objekte vergeben. Alle Teilbäume des Kataloges, auf die ein Schreibrecht bestehen soll, müssen einzeln ausgewählt werden.
+
+Berechtigungen für Adressen
+
+Sie können Schreibberechtigungen für Adressen vergeben. Wählen sie dazu die Adresse unter Berechtigungen für Adressen aus dem Hierarchiebaum aus, für die Sie oder ab der Sie die Schreibberechtigung vergeben wollen. Ein Klick auf die Adresse färbt sie rot ein. Über die Schaltfläche > können Sie die markierte Adresse in die Liste der Berechtigungen übernehmen.
+
+Sie haben drei Einstellungsmöglichkeiten für die Berechtigung pro Adresse:
+
+    Teilbaum: Dies ist die Standardeinstellung. Sie haben für diese Adresse und alle nachgeordneten Adressen eine Schreibberechtigung. Sie können unterhalb dieser und allen nachgeordneten Adressen neue Adressen anlegen.
+    Unteradressen: Sie können direkt unterhalb dieser Adresse eine neue Adresse anlegen, für die Sie dann den vollen Zugriff bekommen (Teilbaum Recht auf neuer Unteradresse). Alle Benutzer Ihrer Gruppe bekommen damit ebenfalls vollen Zugriff (alle Benutzer der Gruppe, die das Unteradressenrecht beinhaltet).
+    Einzeladresse: Sie haben nur auf diese Adresse eine Schreibberechtigung, auf nachgeordnete Adressen nicht. Sie können keine neuen Adressen unterhalb dieser Adresse anlegen.
+
+Hinweis: Sie können keine Schreibrechte auf die Strukturbaumknoten Adressen und freie Adressen vergeben. Alle Teilbäume des Kataloges, auf die ein Schreibrecht bestehen soll, müssen einzeln ausgewählt werden.
+
+Root-Objekte und -Adressen anlegen
+
+Dies ist ein gesondertes Schreibrecht. Wird es für eine Gruppe vergeben, haben die Mitglieder dieser Gruppe das Recht, neue Objekte und Adressen auf der obersten Ebene des Kataloges anzulegen. Sie erhalten dann automatisch die Schreibrechte auf den ganzen Teilbaum des neuangelegten Objektes bzw. der neuangelegten Adresse.
+
+Wichtig: Durch dieses Recht hat die Gruppe nicht automatisch das Schreibrecht auf schon vorhandene Teilbäume, für die ihr nicht explizit Schreibrechte eingeräumt wurden.
+
+Qualitätssichernder
+
+Über die Berechtigung Qualitätssichernder werden die Nutzer der Gruppe für alle Objekte und Adressen, für die sie ein Schreibrecht besitzen, zu Qualitätssichernden. Sie haben also das Recht (und auch die Pflicht), an sie überwiesene Objekte und Adressen zur Veröffentlichung freizugeben bzw. endgültig zu löschen oder bei Qualitätsmängeln die Objekte bzw. Adressen an den Zuständigen zurück zu überweisen.
+
+Hinweis: Dieses Recht wird nur im Zusammenhang mit der eingeschalteten Workflow-Kontrolle in den Katalogeinstellungen wirksam.
+
+Zugeordnete Nutzer
+
+Auf dem dritten Reiter werden alle Benutzer aufgelistet, welche der gewählten Gruppe zugeordnet wurden.
+
+Die spezielle Gruppe administrators des Katalogadministrators
+
+Dem Katalogadministrator wird immer automatisch die Gruppe administrators zugewiesen. Diese Zuweisung kann nicht verändert werden. Die Gruppe hat Schreibrechte auf den gesamten Katalog (natürlich einschließlich des Rechts auf Anlegen von neuen Objekten und Adressen auf der obersten Ebene). Die Gruppe hat feste Rechte und ist in jedem Katalog automatisch vorhanden. Sie lässt sich nicht über die Gruppenadministration pflegen und wird daher auch nicht in der Liste der Gruppen angezeigt.
+Berechtigungsübersicht
+
+In der Berechtigungsübersicht werden alle Nutzer angezeigt, die auf ein Objekt, eine Adresse oder einen Teilbaum Schreibrechte oder das Recht für Unterobjekte/Unteradressen oder zur Qualitätssicherung haben.
+
+Klicken Sie auf ein beliebiges Objekt unter Berechtigung für Objekte oder auf eine beliebige Adresse unter Berechtigung für Adressen. Das ausgewählte Objekt bzw. die ausgewählte Adresse wird rot markiert. Es werden die Nutzernamen und die Rollen aller Nutzer angezeigt, die auf das Objekt bzw. die Adresse mindestens eines der folgenden Rechte haben:
+
+- Schreibrecht auf das Einzelobjekt bzw. die Einzeladresse
+- Schreibrecht auf den Teilbaum
+- Recht zur Erstellung direkter Unterobjekte bzw. Unteradressen
+- Recht zur Qualitätssicherung (QS)
+

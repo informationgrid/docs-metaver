@@ -6,10 +6,21 @@ Gruppen & Rechte
 In der Gruppenverwaltung werden einen bestimmten Personenkreis die Lese- oder Schreibrechte auf Metadaten und Adressen erteilt.
 
 
+In der Gruppenadministration können Sie:
+
+Eine Gruppe bearbeiten: Klicken Sie auf den Namen der Gruppe in der Liste links oben im Fenster. Sie können nun den Namen der Gruppe ändern sowie die Rechte für die Gruppe (siehe unten). Änderungen müssen mit Speichern abgeschlossen werden und stehen dann sofort zur Verfügung.
+
+Eine Gruppe neu anlegen: Klicken Sie auf die Schaltfläche Neue Gruppe anlegen. Sie müssen den Gruppennamen angeben und den Vorgang mit Speichern abschließen. Sie können nun die Rechte für die Gruppe angeben (siehe unten).
+
+Eine Gruppe löschen: Klicken Sie mit der rechten Maustaste auf den Namen der Gruppe, die Sie löschen wollen. Wählen Sie Zeile löschen aus dem Kontextmenü und bestätigen Sie den Vorgang in dem sich öffnenden Dialog.
+
+Wichtig: Alle Änderungen an den Gruppeneigenschaften (auch die an den untenstehenden Berechtigungen) müssen über Speichern abgeschlossen werden, damit die Änderungen wirksam werden und nicht verloren gehen.
+
+
 Gruppen erstellen
 -----------------
 
-Um Gruppen in unserem System zu erstellen, gehen Sie wie folgt vor:
+Um Gruppen im InGrid Editor zu erstellen, gehen Sie wie folgt vor:
 
 1. Klicken Sie auf "Gruppen & Rechte" in der Navigationsleiste.
 2. Wählen Sie "HINZUFÜGEN".
@@ -74,10 +85,10 @@ Abb.: Vergabe von Berechtigungen
 
 Rechtevergabe Daten und Adressen - Bedeutung der Symbole
 
-- Symbol Auge - Vergabe von Leserechten für einen Ordner und die untergeordneten Daten.
-- Symbol Strukturbaum - Nur Unterordner
-- Symbol Stift - Vergabe von Schreibrechten für einen Ordner und die untergeordneten Adressen.
-- Drei Punkte: Bearbeiten
+- Symbol Auge - Vergabe von Leserechten für einen Ordner und die darunter befindlichen Ordner und  Daten.
+- Symbol Strukturbaum - Es können nur Unterordner 
+- Symbol Stift - Vergabe von Schreibrechten für einen Ordner und die darunter befindlichen Ordner und Adressen.
+- Drei Punkte: Bearbeiten/Entfernen
 
 Um Berechtigungen zu vergeben, klicken Sie auf das entsprechende Symbol und wählen Sie in der Ordnerstruktur den Ordner aus, ab dem die Berechtigungen gelten sollen.
 
@@ -86,4 +97,4 @@ Um Berechtigungen zu vergeben, klicken Sie auf das entsprechende Symbol und wäh
    :scale: 50
    :figwidth: 100%
 
-   Abb.: Berechtigungen
+Abb.: Berechtigungen
