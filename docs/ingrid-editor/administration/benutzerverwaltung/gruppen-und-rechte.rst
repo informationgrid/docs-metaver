@@ -63,7 +63,7 @@ Abb.: Vergabe von allgemeinen Rechten
 Rechte Vergabe
 --------------
 
-Bitte beachten Sie bei der Vergabe von Rechten, dass nur befugtes Personal Zugang zu vertraulichen Informationen hat. Stellen Sie sicher, dass die Rechte auf ein Minimum beschränkt sind und nur den Bedürfnissen der betreffenden Mitarbeiter entsprechen. Überwachen Sie regelmäßig die Vergabe von Rechten und nehmen Sie Änderungen vor, wenn sich die Umgebung oder die Position eines Mitarbeiters ändert.
+Bitte beachten Sie bei der Vergabe von Rechten, dass nur befugtes Personal Zugang zu den Daten hat. Stellen Sie sicher, dass die Rechte auf ein Minimum beschränkt sind und nur den Bedürfnissen der betreffenden Mitarbeiter entsprechen. Überwachen Sie regelmäßig die Vergabe von Rechten und nehmen Sie Änderungen vor, wenn sich die Umgebung oder die Position eines Mitarbeiters ändert.
 
 .. figure:: ../../../img/ige/administration/benutzerverwaltung/rechte-vergabe.png
    :align: left
