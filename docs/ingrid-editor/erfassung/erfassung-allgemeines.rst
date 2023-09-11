@@ -554,8 +554,7 @@ Besuchszeit ist abgelaufen (Logout)
 
 Wenn der Editor für eine längere Zeit (30 Minuten) nicht genutzt wird, läuft die Besuchszeit ab. 5 Minuten vor Ablauf der Besuchszeit erscheint oben auf der Seite ein Countdown. Ist der Countdown angelaufen wird der Benutzer aus dem InGrid Editor abgemeldet und muss sich neu anmelden. Der "Refresh-Button" kann optional betätigt werden, um den Countdown neu zu starten. 
 
-
-.. hint:: Wurden Sie aus dem Editor abgemeldet, laden Sie die Login-Seite neu (Taste F5), sonst kommt bei einem erneuten Anmeldeversuch die Meldung: "Sie haben zu lange gebraucht, um sich anzumelden. Bitte versuchen Sie es erneut."
+.. hint:: Wenn Sie aus dem Editor ausgeloggt wurden, laden Sie die Login-Seite neu (Taste F5), sonst erhalten Sie bei einem erneuten Login-Versuch die Meldung: „Sie haben zu lange gebraucht, um sich anzumelden. Bitte versuchen Sie es erneut.“
 
 .. figure:: ../../img/ige/allgemein/editor_countdown.png
    :align: left
