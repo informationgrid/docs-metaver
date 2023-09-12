@@ -2,69 +2,87 @@ Operationen
 ^^^^^^^^^^^
 
 .. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/fachbezug_operation_aktualisieren.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Feld - Operationen
 
-Angabe von Operationen bezüglich Webdiensten wie GetMap, GetCapabilities und getFeatureInfo. Neue Operationen können entweder über den GetCapabilities-Assistenten beim Neuanlegen des Objektes eingetragen werden, oder aber manuell über den Link "Operation hinzufügen". 
+Angabe von Operationen für Webservices wie GetMap, GetCapabilities und getFeatureInfo. Neue Operationen können entweder über den GetCapabilities-Assistenten beim Erstellen des Objekts oder manuell über den Link "Operation hinzufügen" eingegeben werden. 
+
 
  
 Operation bearbeiten
-'''''''''''''''''''''
+""""""""""""""""""""
 
 .. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/operationen_operation-bearbeiten.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Feld - Operation bearbeiten
 
-Bestehende Operation können bearbeitet werden, indem der entsprechende Eintrag in der Liste mit der rechten Maustaste angeklickt und die Funktion „Zeile bearbeiten“ aus dem Kontextmenü ausgewählt wird. (rechte Maustaste). Es öffnet sich ein separater Dialog mit folgenden Feldern.
+Bestehende Operationen können bearbeitet werden, indem der entsprechende Eintrag in der Liste mit der rechten Maustaste angeklickt und aus dem Kontextmenü die Funktion „Zeile bearbeiten“ ausgewählt wird. (rechte Maustaste) gewählt wird. Es öffnet sich ein separater Dialog mit folgenden Feldern.
 
 
 Name der Operation
-''''''''''''''''''
+""""""""""""""""""
 
 .. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/operationen_name-der-operation.png
-
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Feld - Name der Operation
 
 `Auswahlliste - Name der Operation <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_fachbezug_geodatendienst_operation_name.html>`_
 
-Name der von einem Dienst bereitgestellten Funktion/Operation. Hier muss ein eindeutiger Bezeichner für die beschriebene Operation eingegeben werden.
+Name der Funktion/Operation, die von einem Dienst bereitgestellt wird. Hier muss eine eindeutige Kennung für den beschriebenen Vorgang eingegeben werden.
 
 
 Zugriffsadresse
-'''''''''''''''
+"""""""""""""""
 
 .. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/operationen_operation.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Feld - Zugriffsadresse
 
 
-Eindeutige URL über die die Operation aufgerufen werden kann.
-
+Eindeutige URL, unter der die Operation aufgerufen werden kann.
 
 Beispiel: https://my.host.com/cgi-bin/mapserv?map=mywms.map&
 
 
 Unterstützte Plattformen
-''''''''''''''''''''''''
+""""""""""""""""""""""""
 
 .. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/operationen_unterstuetzte-plattformen.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Auswahlliste - Unterstützte Plattformen
 
 
-Abb.: `Auswahlliste - Unterstützte Plattformen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_fachbezug_geodatendienst_operation_unterstuetzte-plattformen.html>`_
+`Auswahlliste - Unterstützte Plattformen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_fachbezug_geodatendienst_operation_unterstuetzte-plattformen.html>`_
 
 
-Angaben zur Art der Plattform bzw. Schnittstelle über die der Dienst angesprochen werden kann.
+Angaben zur Art der Plattform oder Schnittstelle, über die der Dienst angesprochen werden kann.
 
 
 .. note:: Beispiel: HTTPGet oder WebServices (WMS, WFS, Atom)
 
 
 Parameter
-'''''''''
-
+"""""""""
 
 .. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/operationen_parameter.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Operation bearbeiten
 
@@ -86,40 +104,46 @@ Optional: Nein
 Mehrfacheingabe: Nein
 
 
-GetCapabilities-Request-Parameter weglassen
-'''''''''''''''''''''''''''''''''''''''''''
+GetCapabilities-Request-Parameter angeben
+"""""""""""""""""""""""""""""""""""""""""
 
 .. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/operationen_parameter-weglassen.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
-Abb.: Parameter weglassen
+Abb.: Parameter
 
+.. important:: Im neuen InGrid Editor muss die URL in den Operationen korrekt angegeben werden.
 
-Der GetCapabilities-Assistent füllt für Objekte des Typs Geodatendienst u.a. auch die Tabelle „Operationen“ aus. Die Zugriffsadresse endet mit: „?“. 
-Dies ist eine Forderung der ISO. 
+Es ist darauf zu achten, dass in der URL nach dem Fragezeichen der Requestparameter angegeben wird. (z.B.: https://www.....de/wss/service/WMS_OpenData/guest?REQUEST=GetCapabilities&SERVICE=WMS) Ist die URL korrekt angegeben, so kann dies durch Drücken der Schaltfläche AKTUALISIEREN, am Anfang des Eingabeformulars, überprüft werden. Ist die URL korrekt, werden die Metadaten des Dienstes abgerufen. Andernfalls wird eine Fehlermeldung angezeigt.
 
-Die Request-Parameter (z.B. REQUEST=GetCapabilities&SERVICE=WMS) sollen daher auch nicht manuell nachgetragen werden. Für die Darstellung in der Detailansicht im Portal werden die Parameter automatisch an die Zugriffsadresse angehängt - auch für gekoppelte Daten.
-
-Sollten die Parameter noch in Geodatendiensten, Tabelle "Operationen" vorhanden sein, so sind diese zu löschen. Streng genommen sind die Objekte, bei denen die Parameter in der Zugriffsadresse enthalten sind, nicht ISO-konform.
 
 
 Aufruf
-''''''
+""""""
 
 .. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/operationen_aufruf.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Aufruf
 
-Eindeutiger Funktionsname über den die Operation aufgerufen werden kann. Bei OGC Web-Diensten sind die jeweiligen spezifizierten REQUEST-Aufrufe zu verwenden.
+Eindeutiger Funktionsname, mit dem die Operation aufgerufen werden kann. Für OGC Web Services sind die jeweils spezifizierten REQUEST-Aufrufe zu verwenden.
 
 
 Beispiel: GetMap oder GetCapabilities oder GetFeatureInfo
 
 
 Beschreibung
-''''''''''''
+""""""""""""
 
 
 .. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/operationen_beschreibung.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Beschreibung
 
@@ -130,10 +154,13 @@ Beispiel: Die GetMap Operation des WMS gibt eine Raster-Repräsentation der in "
 
 
 Abhängigkeiten
-''''''''''''''
+""""""""""""""
 
 
 .. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/operationen_abhaengigkeiten.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Abhängigkeiten
 
@@ -148,9 +175,12 @@ Durch das Anklicken der Schaltfläche "Hinzufügen" übernehmen Sie die geänder
 
 
 Aktualisieren von Operationen und Metadaten
-'''''''''''''''''''''''''''''''''''''''''''
+"""""""""""""""""""""""""""""""""""""""""""
 
 .. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/operationen/operationen_aktualisierung.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Aktualisierung
 
@@ -164,5 +194,8 @@ Dieser bewirkt, dass die Informationen in dem Metadatenobjekt aus dem Capabiliti
  
  
 .. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_objektklassen/objektklasse_geodatendienst/fachbezug/fachbezug/operationen_aktualisierung_hinweis.png
- 
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
 Abb.: Dieser Hinweis kann bei der Aktualisierung einer Operation erscheinen.
