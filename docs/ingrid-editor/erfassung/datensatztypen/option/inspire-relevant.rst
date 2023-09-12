@@ -9,7 +9,7 @@ INSPIRE - Bedeutung
 | Übersetzt: Geodateninfrastruktur (GDI) in der Europäischen Gemeinschaft
 
 
-.. note:: INSPIRE ist eine Initiative der europäischen Kommission mit dem Ziel, eine europäische Geodateninfrastruktur für die Zwecke einer gemeinschaftlichen Umweltpolitik zu schaffen. Die Richtlinie 2007/2/EG vom 14. März 2007 des Europäischen Parlaments und des Rates zur Schaffung einer Geodateninfrastruktur in der Europäischen Gemeinschaft (INSPIRE), in Kraft seit dem 15. Mai 2007, verpflichtet die Mitgliedstaaten, Geobasisdaten sowie Geofachdaten, die in einem der 34 Anhangthemen aufgeführt sind, stufenweise zunächst konform und dann interoperabel über Netzdienste bereitzustellen. Die Verpflichtung, Daten verfügbar zu machen, gilt nur für bereits vorhandene und in digitaler Form vorliegende Geodaten; die Richtlinie fordert nicht die Neuerfassung von analog vorliegenden Geodaten. (Quelle: `Wikipedia <https://de.wikipedia.org/wiki/Infrastructure_for_Spatial_Information_in_the_European_Community>`_)
+.. note:: INSPIRE ist eine Initiative der Europäischen Kommission zur Schaffung einer europäischen Geodateninfrastruktur für die Zwecke der gemeinschaftlichen Umweltpolitik. Die am 15. Mai 2007 in Kraft getretene Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates vom 14. März 2007 zur Schaffung einer Geodateninfrastruktur in der Europäischen Gemeinschaft (INSPIRE) verpflichtet die Mitgliedstaaten, Geobasisdaten und Geofachdaten, die in einem der 34 Themen des Anhangs aufgeführt sind, schrittweise zunächst konform und dann interoperabel über Geodatendienste bereitzustellen. Die Verpflichtung zur Datenbereitstellung gilt nur für bereits vorhandene Geodaten, die in digitaler Form vorliegen; eine Neuerfassung analog vorliegender Geodaten wird durch die Richtlinie nicht gefordert. (Quelle: `Wikipedia <https://de.wikipedia.org/wiki/Infrastructure_for_Spatial_Information_in_the_European_Community>`_)
 
 .. hint:: Nachfolgend werden die Felder beschrieben, die nach der Aktivierung dieser Option zusätzlich in der Erfassungsmaske angezeigt werden.
 
@@ -27,26 +27,29 @@ Beispiele:
 
 
 Checkbox INSPIRE-relevant
-'''''''''''''''''''''''''
+"""""""""""""""""""""""""
 
 Abb.: Checkbox INSPIRE-relevant
 
-
-.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/checkbox-inspire-relevant.png
-   :width: 200
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/checkbox-inspire-relevant.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Checkbox INSPIRE relevant
 
-Mit der Aktivierung wird in der ISO-XML das Schlüsselwort "inspireidentifiziert" gesetzt.
+Mit der Aktivierung wird das Schlüsselwort "inspireidentified" im ISO-XML gesetzt.
 
-.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/iso-xml-inspireidentifiziert.png
-   :width: 500
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/iso-xml-inspireidentifiziert.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: ISO-XML - Angabe des Schlüsselwortes "inspireidentifiziert"
 
-Wenn diese Checkbox aktiviert ist, werden die Metadaten an den `Geodatenkatalog Deutschland <https://gdk.gdi-de.org/>`_, an das `Geoportal der Geodateninfrastruktur-Deutschland (GDI-DE) <https://www.geoportal.de/>`_ und an das `INSPIRE Geoportal <https://inspire-geoportal.ec.europa.eu/>`_ der EU abgegeben und veröffentlicht. Die Daten und die Metadaten unterliegen in dem Fall der INSPIRE-Richtlinie.
+Wenn diese Checkbox aktiviert ist, werden die Metadaten an den `Geodatenkatalog Deutschland <https://gdk.gdi-de.org/>`_, an das `Geoportal der Geodateninfrastruktur-Deutschland (GDI-DE) <https://www.geoportal.de/>`_ und an das `INSPIRE Geoportal <https://inspire-geoportal.ec.europa.eu/>`_ der EU geliefert und veröffentlicht. Die Daten und Metadaten unterliegen damit der INSPIRE-Richtlinie.
 
-Der Geodatensatz wird über die Registry der GDI-DE an die EU gemeldet und in einem `Monitoringprozess <https://registry.gdi-de.org/register/moni/>`_ überwacht.
+Der Geodatensatz wird über die Registry der GDI-DE an die EU gemeldet und im Rahmen eines `Monitoringprozesses <https://registry.gdi-de.org/register/moni/>`_ überwacht.
 
 
  - Checkbox INSPIRE-relevant: Aktivierung der Optionen "konform ja / nein
@@ -58,77 +61,98 @@ Der Geodatensatz wird über die Registry der GDI-DE an die EU gemeldet und in ei
 
 
 Option konform
-''''''''''''''
+""""""""""""""
 
-.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/checkbox-inspire-relevant_konform.png
-   :width: 400
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/checkbox-inspire-relevant_konform.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: INSPIRE-Optionen konform
 
 
-.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/checkbox-inspire-relevant_konform-hinweis.png
-   :width: 500
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/checkbox-inspire-relevant_konform-hinweis.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Hinweis
 
 
-Der Geodatensatz wird an INSPIRE gemeldet und liegt im INSPIRE-Datenschema vor. Der Grad der Konformität (im Abschnitt: "Zusatzinformation", Tabelle: Konformität) zur Spezifikation (VO 1089/2010) wird auf "konform" gesetzt.
+Der Geodatensatz ist an INSPIRE gemeldet und liegt im INSPIRE-Datenschema vor. Der Konformitätsgrad (im Abschnitt: "Weitere Informationen", Tabelle: Konformität) mit der Spezifikation (VO 1089/2010) ist auf "konform" gesetzt.
 
 In der ISO-XML erscheint "true".
 
-.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/iso-xml-inspireidentifiziert_true.png
-   :width: 300
+
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/iso-xml-inspireidentifiziert_true.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Darstellung in der ISO-XML
 
 
 Option nicht konform
-''''''''''''''''''''
+""""""""""""""""""""
 
-.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/checkbox-inspire-relevant_nicht-konform.png
-   :width: 400
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/checkbox-inspire-relevant_nicht-konform.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb: INSPIRE-Option nicht konform
 
-.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/checkbox-inspire-relevant_konform-hinweis.png
-   :width: 500
+
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/checkbox-inspire-relevant_konform-hinweis.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Hinweis
-  
-  
+
 Geodatensatz wird an INSPIRE gemeldet, liegt aber nicht im INSPIRE-DatenSchema vor. Der Grad der Konformität zur Spezifikation (VO 1089/2010) kann durch den Anwender (im Abschnitt: "Zusatzinformation", Tabelle: Konformität) nur auf "false" oder "nicht evaluiert" gesetzt werden.
 
 In der ISO-XML erscheint "false".
 
-.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/iso-xml-inspireidentifiziert_false.png
-   :width: 300
+
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/iso-xml-inspireidentifiziert_false.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Darstellung in der ISO-XML
 
 -----------------------------------------------------------------------------------------------------------------------
 
 Abschnitt Verschlagwortung
-''''''''''''''''''''''''''
+""""""""""""""""""""""""""
 
-Werden INSPIRE-konforme Daten beschrieben, ist die Angabe einer ISO-Themenkategorie notwendig. Um eine korrekte inhaltliche Zuordnung von INSPIRE-Themen zu ISO-Themenkategorien zu gewährleisten und es dem Erfasser möglichst einfach zu machen, übernimmt die InGrid Software die Zuordnung. Bei Auswahl eines INSPIRE-Themas wird die entsprechende ISO-Kategorie automatisch hinzugefügt. Der Nutzer wird per Tooltip über den Automatismus informiert.
+Bei der Beschreibung von INSPIRE-konformen Daten ist die Angabe einer ISO-Themenkategorie erforderlich. Um eine inhaltlich korrekte Zuordnung von INSPIRE-Themen zu ISO-Themenkategorien zu gewährleisten und dem Erfasser die Arbeit zu erleichtern, übernimmt die InGrid-Software diese Zuordnung. Bei der Auswahl eines INSPIRE-Themas wird die entsprechende ISO-Kategorie automatisch hinzugefügt. Der Benutzer wird durch einen Tooltip auf diese Automatik hingewiesen.
 
 Beispiel: 
-Wird das INSPIRE-Thema "Energiequellen" ausgewählt, so wird automatisch die passende ISO-Themenkategorie "Wirtschaft" hinzugefügt.
+Wenn das INSPIRE-Thema "Energiequellen" ausgewählt wird, wird automatisch die entsprechende ISO-Themenkategorie "Wirtschaft" hinzugefügt.
 
-Wird versucht eine ISO-Kategorie zu löschen, die an ein INSPIRE-Thema geknüpft ist, so wird dies verhindert und der Nutzer über einen Tooltip darüber informiert. Die ISO-Kategorie kann nur entfernt werden, wenn das INSPIRE-Thema entfernt wird.
+Wenn versucht wird, eine ISO-Kategorie zu löschen, die mit einem INSPIRE-Thema verknüpft ist, wird dies verhindert und der Benutzer wird durch einen Tooltip darüber informiert. Die ISO-Kategorie kann nur gelöscht werden, wenn das INSPIRE-Thema gelöscht wird.
 
-Umgekehrt gilt der Automatismus nicht: Beim Hinzufügen einer ISO Kategorie wird kein INSPIRE Thema gesetzt.
+Umgekehrt gilt der Automatismus nicht: Beim Hinzufügen einer ISO-Kategorie wird kein INSPIRE-Thema gesetzt.
 
 
 **Aktivierung der Tabelle "INSPIRE-Themen" mit Pflichtangaben.**
 
 `Auswahlliste - INSPIRE-Themen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_inspire_themen.html>`_
 
-.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/verschlagwortung_inspire-themen.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/verschlagwortung_inspire-themen.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Auswahl des INSPIRE-Themas "Energiequellen" ...
 
-.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/verschlagwortung_iso-themenkategorie.png
+
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/verschlagwortung_iso-themenkategorie.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: es erfolgt die automatische Zuordnung der ISO-Themenkategorie "Wirtschaft"
 
@@ -138,7 +162,10 @@ Abb.: es erfolgt die automatische Zuordnung der ISO-Themenkategorie "Wirtschaft"
 
 `Auswahlliste - INSPIRE - priority data set <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_inspire_priority-data-set.html>`_
 
-.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/verschlagwortung_inspire-priority-data-set.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/verschlagwortung_inspire-priority-data-set.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
  
 Abb.: Feld INSPIRE - priority data set, Beispiel: "ausgewiesene Gewässer ..."
 
@@ -147,7 +174,11 @@ Abb.: Feld INSPIRE - priority data set, Beispiel: "ausgewiesene Gewässer ..."
 
 `Auswahlliste - INSPIRE - Räumlicher Anwendungsbereich <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_inspire_raeumlicher-anwendungsbereich.html>`_
 
-.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/verschlagwortung_inspire_raeumlicher-anwendungsbereich.png
+
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/verschlagwortung_inspire_raeumlicher-anwendungsbereich.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
  
 Abb.: Feld INSPIRE - Räumlicher Anwendungsbereich, Beispiel: "Regional"
 
@@ -155,30 +186,42 @@ Abb.: Feld INSPIRE - Räumlicher Anwendungsbereich, Beispiel: "Regional"
 ----------------------------------------------------------------------------------------------------------------------
 
 Abschnitt Zusatzinformation
-'''''''''''''''''''''''''''
+"""""""""""""""""""""""""""
+
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/zusatzinformation_konformitaet.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/zusatzinformation_konformitaet.png
  
 Abb.: Tabelle Konformität
 
-Hier muss angegeben werden, zu welcher Durchführungsbestimmung der INSPIRE-Richtlinie bzw. zu welcher anderweitigen Spezifikation die beschriebenen Daten konform sind. (INSPIRE-Pflichtfeld)
+Anzugeben ist, welcher Durchführungsbestimmung der INSPIRE-Richtlinie oder sonstigen Spezifikation die beschriebenen Daten entsprechen. (INSPIRE-Pflichtfeld)
 
 Dieses Feld wird bei der Auswahl der "INSPIRE-Themen" oder der "Art des Dienstes" automatisch befüllt. Es muss dann nur der Grad der Konformität manuell eingetragen werden.
 
-.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/zusatzinformation-konformitaet_bearbeiten.png
-   :width: 500
+
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/zusatzinformation-konformitaet_bearbeiten.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Feld Konformität - Aktion / Bearbeiten
 
 
-.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/zusatzinformation-konformitaet_auswahl.png
-   :width: 500
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/zusatzinformation-konformitaet_auswahl.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
  
 Abb.: Feld Konformität - Auswahlmöglichkeiten
 
 
-.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/zusatzinformation-konformitaet_grad.png
-   :width: 500
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/zusatzinformation-konformitaet_grad.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Tabelle "Konformität" - Grad der Konformität - Auswahlmöglichkeit
 
