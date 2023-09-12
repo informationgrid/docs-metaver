@@ -11,7 +11,7 @@ Dokument
 
 Mit dem Datensatztyp Literatur können Leitfäden, Handlungsempfehlungen, Berichte, Gutachten, Studien, Genehmigungen, Rechtsdokumente, Broschüren, Bücher, Aufsätze oder Dissertationen beschrieben werden.
 
-.. important:: Die Erfassung dieses Datensatztyps erfolgt wie unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_ beschrieben. Der hier beschriebene Abschnitt Fachbezug enthält spezielle Eingabefelder für diesen Datensatztyp.
+.. note:: Die Erfassung dieser Objektklasse erfolgt wie unter `Erfassung von Objekten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html>`_ beschrieben. Der hier beschriebene Abschnitt Fachbezug enthält spezielle Eingabefelder für diesen Datensatztyp.
 
 -----------------------------------------------------------------------------------------------------------------------
 
@@ -46,7 +46,8 @@ Feld: Herausgeber
 
 Abb.: Eingabezeile - Herausgeber
 
-Angabe des Herausgebers. Der Herausgeber ist z. B. die Institution, für die der Autor arbeitet und in deren Auftrag er geschrieben hat. Es kann sich aber auch um einen Verlag, eine Vereinigung oder eine andere Einrichtung handeln, die Beiträge zu einem Thema sammelt und als Buch herausgibt oder Bücher zu einem Thema als Reihe herausgibt.
+
+Angabe des Herausgebers. Der Herausgeber kann z.B. die Institution sein, für die der Autor arbeitet und in deren Auftrag er geschrieben hat. Es kann sich aber auch um einen Verlag, eine Vereinigung oder eine andere Einrichtung handeln, die Beiträge zu einem Thema sammelt und als Buch herausgibt oder Bücher zu einem Thema als Reihe herausgibt.
 
 Beispiel: Ministerium für ...
 
@@ -77,7 +78,7 @@ Beispiel: Jahresberichte zur Abfallwirtschaft
 Feld: Erscheinungsort
 """"""""""""""""""""""
 
-Angabe, wo das Dokument veröffentlicht wurde. Diese Angabe bezieht sich auf das Dokument und nicht auf den Inhalt des Dokuments. Die räumliche Zuordnung des Dokumentinhalts erfolgt in den Angaben zum Raumbezug des aktuellen Metadatensatzes.
+Angabe, wo das Dokument veröffentlicht wurde. Diese Angabe bezieht sich auf das Dokument und nicht auf seinen Inhalt des Dokuments. Die räumliche Zuordnung des Dokumentinhalts erfolgt in den Angaben zum Raumbezug des aktuellen Metadatensatzes.
 
 Beispiel: Hamburg
 
@@ -85,7 +86,7 @@ Beispiel: Hamburg
 Feld: Band/Heft
 """"""""""""""""
 
-Angabe der Zählung des betreffenden Bandes einer Reihe. Zeitschriften und Sammelwerke bzw. Reihen werden fortlaufend seit ihrem Erscheinen oder pro Jahrgang gezählt. Hier ist die Zählung des Bandes anzugeben, in dem der Artikel oder Bericht erschienen ist.
+Angabe der Ausgabe des betreffenden Bandes einer Reihe. Zeitschriften und Sammelwerke bzw. Reihen werden fortlaufend seit ihrem Erscheinen oder nach Jahrgängen gezählt. Hier ist die Nummer des Bandes anzugeben, in dem der Artikel oder Bericht erschienen ist.
 
 Beispiel: Band 1 - Landkreise Dahme-Spreewald, Elbe-Elster, Oberspreewald-Lausitz, Spree-Neiße und Stadt Cottbus
 
@@ -93,7 +94,7 @@ Beispiel: Band 1 - Landkreise Dahme-Spreewald, Elbe-Elster, Oberspreewald-Lausit
 Feld: Seiten
 """"""""""""
 
-Angabe der Seitenzahl des Dokuments. Bei einem Buch ist die Anzahl der Seiten anzugeben. Bei einem Artikel aus einer Zeitschrift sind die Seitenzahlen am Anfang und am Ende des Artikels anzugeben.
+Geben Sie die Seitenzahl des Dokuments an. Bei einem Buch ist die Anzahl der Seiten anzugeben. Bei einem Zeitschriftenartikel sind die Seitenzahlen vom Anfang und vom Ende des Artikels anzugeben.
 
 Beispiele: 345; 256-268
 
@@ -101,7 +102,7 @@ Beispiele: 345; 256-268
 Feld: Erscheinungsjahr
 """""""""""""""""""""""
 
-Angabe des Erscheinungsjahres des Dokuments. Das Erscheinungsjahr ist vor allem bei regelmäßig erscheinenden Dokumenten, wie z.B. jährlich erscheinenden Tagungsbänden, für die Identifizierung von großer Bedeutung. Das Erscheinungsjahr kann von den entsprechenden Angaben im Zeitbezug des Objekts abweichen, die sich auf den Inhalt des Dokuments und nicht auf das Dokument selbst beziehen.
+Geben Sie das Erscheinungsjahr des Dokuments an. Das Erscheinungsjahr ist vor allem bei regelmäßig erscheinenden Dokumenten, wie z.B. jährlich erscheinenden Tagungsbänden, von großer Bedeutung für die Identifizierung. Das Erscheinungsjahr kann von den entsprechenden Angaben im Zeitbezug des Objekts abweichen, die sich auf den Inhalt des Dokuments und nicht auf das Dokument selbst beziehen.
 
 Beispiel: 2023
 
@@ -116,8 +117,7 @@ Feld: Standort
 
 Abb.: Textfeld - Standort
 
-Angabe des Aufbewahrungsortes und ggf. des Bezugsortes des Dokuments, falls ein Bezug über die üblichen Wege (Handel, Bibliotheken) nicht möglich ist.
-
+Angabe des Ortes, an dem das Dokument aufbewahrt wird, und ggf. des Ortes, an dem es erhältlich ist, wenn es nicht über die üblichen Kanäle (Handel, Bibliotheken) beschafft werden kann.
 
 Beispiele: Bibliothek des Landesamtes für ... oder Online-Shop XY
 
@@ -197,7 +197,7 @@ Abb.: Textfelder für weitere bibliographische Angaben
 Feld: Weitere bibliographische Angaben
 """"""""""""""""""""""""""""""""""""""
 
-Hier können bibliographische Angaben gemacht werden, für die kein explizites Feld vorgesehen ist. Dies können z.B. Angaben zu Abbildungen oder zum Format sein. Wichtig ist auch ein Hinweis, ob das Dokument in Papierform oder als Datendownload vorliegt, ob es gebraucht oder neu ist.
+Hier können bibliographische Angaben gemacht werden, für die kein explizites Feld vorgesehen ist. Dies können z.B. Angaben zu Abbildungen oder zum Format sein. Wichtig ist auch ein Hinweis, ob das Dokument in Papierform oder als Daten-Download vorliegt, ob es gebraucht oder neu ist.
 
 Beispiel: Gebundene Ausgabe, Sprache: deutsch, Abmessungen: 18.3 x 4.2 x 24.7 cm, Preis: XX,XX €
 

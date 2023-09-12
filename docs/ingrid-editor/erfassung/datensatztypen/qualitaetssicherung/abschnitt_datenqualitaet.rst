@@ -2,13 +2,13 @@
 Abschnitt Datenqualität
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/ige-abschnitt_datenqualitaet.png
-
 Datendefizit
-''''''''''''
-
-.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/ige-datenqualitaet_datendefizit.png
  
+.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/ige-datenqualitaet_datendefizit.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
 Abb.: Feld Datendefizit
 
 Eingabe einer Prozentangabe zum Anteil der Daten, die im Vergleich zum beschriebenen Geltungsbereich fehlen. Diese kann sich auf die Anzahl der Kartenblätter aber auch auf das Datendefizit einer Gesamtkarte beziehen.
@@ -19,9 +19,12 @@ Wenn der Erfassungsgrad bei 100% liegt, ist in dem Feld Datendefizit 0% einzutra
 
 
 Höhengenauigkeit
-''''''''''''''''
+""""""""""""""""
 
-.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/ige-datenqualitaet_hoehengenauigkeit.png
+.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/ige-datenqualitaet_hoehengenauigkeit.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
  
 Abb.: Feld Höhengenauigkeit
 
@@ -31,7 +34,13 @@ Beispiel: 3 (m)
 
 
 Lagegenauigkeit
-'''''''''''''''
+"""""""""""""""
+
+.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/ige-datenqualitaet_lagegenauigkeit.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
 
 .. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/ige-datenqualitaet_lagegenauigkeit.png
  
@@ -45,9 +54,12 @@ Beispiel: 3 (m)
 
 
 Datenüberschuss
-'''''''''''''''
+"""""""""""""""
 
-.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/ige-datenqualitaet_datenueberschuss.png
+.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/ige-datenqualitaet_datenueberschuss.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
  
 Abb.: Feld Datenüberschuss
 
@@ -59,9 +71,12 @@ Beispiel: Anzahl der überflüssigen Elemente zur Anzahl der gesamten Elemente: 
 
 
 Konzeptionelle Konsistenz
-'''''''''''''''''''''''''
+"""""""""""""""""""""""""
 
-.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/ige-datenqualitaet_konzeptionelle-konsistenz.png
+.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/ige-datenqualitaet_konzeptionelle-konsistenz.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
  
 Abb.: Feld Konzeptionelle Konsistenz
 
@@ -71,9 +86,13 @@ Beispiel: Anzahl der überlappenden Oberflächen innerhalb des Datensatzes: 23
 
 
 Konsistenz des Wertebereichs
-''''''''''''''''''''''''''''
+""""""""""""""""""""""""""""
 
-.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/ige-datenqualitaet_konsistenz-wertebereich.png
+
+.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/ige-datenqualitaet_konsistenz-wertebereich.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
  
 Abb.: Feld Konsistenz des Wertebereichs
 
@@ -81,9 +100,12 @@ Angaben zur Übereinstimmung des Wertebereichs - Angegeben wird die Anzahl der �
 
 
 Formatkonsistenz
-''''''''''''''''
+""""""""""""""""
 
-.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/ige-datenqualitaet_formatkonsistenz.png
+.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/ige-datenqualitaet_formatkonsistenz.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
  
 Abb.: Feld Formatkonsistenz
 
@@ -91,9 +113,12 @@ Angaben darüber, wie viele Elemente sich im Konflikt zu der physikalischen Stru
 
  
 Zeitliche Genauigkeit
-'''''''''''''''''''''
+"""""""""""""""""""""
 
-.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/ige-datenqualitaet_zeiliche-genauigkeit.png
+.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/ige-datenqualitaet_zeiliche-genauigkeit.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
  
 Abb.: Feld Zeitliche Genauigkeit
 
@@ -101,9 +126,12 @@ Angabe der Anzahl der zeitlich korrekt zugeordneten Elemente zur Gesamtzahl der 
 
 
 Topologische Konsistenz
-'''''''''''''''''''''''
+"""""""""""""""""""""""
 
-.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/ige-datenqualitaet_topologische-konsistenz.png
+.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/ige-datenqualitaet_topologische-konsistenz.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
  
 Abb.: Feld Topologische Konsistenz
 
@@ -113,19 +141,27 @@ Beispiel: Anzahl fehlender Verbindungen zwischen Unterelementen aufgrund von Und
 
 
 Korrektheit der thematischen Klassifizierung
-''''''''''''''''''''''''''''''''''''''''''''
+""""""""""""""""""""""""""""""""""""""""""""
 
-.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/ige-datenqualitaet_korrektheit-thematische-klassifizierung.png
- 
+.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/ige-datenqualitaet_korrektheit-thematische-klassifizierung.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
 Abb.: Feld Korrektheit der thematischen Klassifizierung
 
 Angabe der Anzahl der thematisch falsch klassifizierten Elemente zur Gesamtanzahl der Elemente.
 
 
 Genauigkeit nicht-quantitativer Attribute
-'''''''''''''''''''''''''''''''''''''''''
+"""""""""""""""""""""""""""""""""""""""""
 
-.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/ige-datenqualitaet_genauigkeit-nicht-qualitativer-attribute.png
+
+.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/ige-datenqualitaet_genauigkeit-nicht-qualitativer-attribute.png
+ 
+   :align: left
+   :scale: 50
+   :figwidth: 100%
  
 Abb.: Feld Genauigkeit nicht-quantitativer Attribute
 
@@ -133,9 +169,13 @@ Angabe der Anzahl der inkorrekten nicht-quantitativen Attributwerte im Verhältn
 
 
 Genauigkeit quantitativer Attribute
-'''''''''''''''''''''''''''''''''''
+"""""""""""""""""""""""""""""""""""
 
-.. image:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/ige-datenqualitaet_genauigkeit-qualitativer-attribute.png
+.. figure::  ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/ige-datenqualitaet_genauigkeit-qualitativer-attribute.png
+ 
+   :align: left
+   :scale: 50
+   :figwidth: 100%
  
 Abb.: Feld Genauigkeit quantitativer Attribute
 
