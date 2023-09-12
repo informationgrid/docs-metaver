@@ -26,4 +26,4 @@ Nach Eingabe der URL kann der Dienst über den Button "AKTUALISIEREN" am Anfang 
 Abb.: Funktionen
 
 
-.. hint:: Werden die Operationen aus dem Dienst in den Metadatensatz übernommen, stehen die Funktionen (GetMap, GetFeatureInfo für den WMS und DescribeFeatureType, GetFeature für den WFS) nur im Editor zur Verfügung. Im Portal werden diese nicht angezeigt.
+.. hint:: Wenn die Operationen aus dem Service in den Metadatensatz übernommen werden, sind die Funktionen (GetMap, GetFeatureInfo für den WMS und DescribeFeatureType, GetFeature für den WFS) nur im Editor verfügbar. Im Portal wird nur die URL GetCapabilitie angezeigt.
