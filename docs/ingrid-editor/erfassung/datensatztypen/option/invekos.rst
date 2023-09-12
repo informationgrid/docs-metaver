@@ -8,7 +8,7 @@ InVekoS - Bedeutung
 InVeKoS - Integriertes Verwaltungs- und Kontrollsystem in Agrarsektor
 
 
-.. note:: InVeKoS ist ein System von Verordnungen zur Durchsetzung einer einheitlichen Agrarpolitik in den Mitgliedstaaten der Europäischen Union. Die schrittweise Einführung des Integrierten Verwaltungs- und Kontrollsystems durch die Europäische Kommission wurde im Zuge der Reform der Gemeinsamen Agrarpolitik (GAP) im Jahre 1992 beschlossen. InVeKoS ist ein wesentliches Kontrollinstrument für die Agrarausgaben der EU. Die durch das InVeKoS ermittelten Daten fließen in das Rechnungsabschlussverfahren der EU ein. Die Konzeption, Koordinierung sowie Kontrollfunktionen des InVeKoS erfolgen durch die Europäische Kommission, für die konkrete Umsetzung sind die EU-Mitgliedstaaten zuständig. (Quelle: `Wikipedia <https://de.wikipedia.org/wiki/Integriertes_Verwaltungs-_und_Kontrollsystem>`_)
+.. note:: Das InVeKoS ist ein System von Verordnungen zur Durchführung einer einheitlichen Agrarpolitik in den Mitgliedstaaten der Europäischen Union. Die schrittweise Einführung des Integrierten Verwaltungs- und Kontrollsystems durch die Europäische Kommission wurde im Zuge der Reform der Gemeinsamen Agrarpolitik (GAP) im Jahr 1992 beschlossen. Das InVeKoS ist ein wesentliches Instrument zur Kontrolle der Agrarausgaben der EU. Die durch das InVeKoS gewonnenen Daten fließen in das Rechnungsabschlussverfahren der EU ein. Konzeption, Koordinierung und Kontrolle des InVeKoS erfolgen durch die Europäische Kommission, die konkrete Umsetzung obliegt den EU-Mitgliedstaaten. (Quelle: `Wikipedia <https://de.wikipedia.org/wiki/Integriertes_Verwaltungs-_und_Kontrollsystem>`_)
 
 .. hint:: Nachfolgend werden die Felder beschrieben, die nach der Aktivierung dieser Option zusätzlich in der Erfassungsmaske befüllt werden müssen.
 
@@ -18,19 +18,21 @@ Erfassung
 ^^^^^^^^^
 
 Checkbox InVeKoS
-''''''''''''''''
+""""""""""""""""
 
-.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/invekos/checkbox-invekos.png
-  :width: 150
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/invekos/checkbox-invekos.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
 Abb.: Checkbox InVeKoS
 
 -----------------------------------------------------------------------------------------------------------------------
 
 
-Die EU-Kommission erwartet eine INSPIRE-Kompatibilität der GIS-InVeKoS-Daten. Zunächst bedeutet dies die Bereitstellung von Metadaten zu den relevanten Daten.
+Die EU-Kommission erwartet eine INSPIRE-Kompatibilität der GIS-InVeKoS-Daten. Dies bedeutet zunächst die Bereitstellung von Metadaten zu den relevanten Daten.
 
-Die Anforderungen an InVeKoS-Metadaten wurden seitens der GDI-DE im April 2023 kommuniziert. Demnach sind Keywords einer entsprechenden codelist (INSPIRE-registry unter https://inspire.ec.europa.eu/metadata-codelist/IACSData) zu verwenden.
+Die Anforderungen an die InVeKoS-Metadaten wurden von der GDI-DE im April 2023 bekannt gegeben. Demnach sind folgende Schlüsselwörter zu verwenden.
 
 **InVeKoS/IACS**
 
