@@ -2,7 +2,7 @@
 Der ATOM-Feed Client
 ^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/atom-feed-client/atom-feed-client.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/atom-feed-client/atom-feed-client.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -13,7 +13,7 @@ Abb.: `Der InGrid ATOM-Feed Client mit allen Atom-Feeds <https://metaver.de/sear
 Da Webbrowser für den Datendownload von ATOM-Feeds nur Erweiterungen unterstützen, wurde der webbasierte InGrid ATOM-Feed Client als Alternative bereitgestellt. Weitere Informationen dazu finden sich hier: "Als ATOM-Download Dienst bereitstellen" <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/atom-feed/bereitstellung.html>`_. Im InGrid Editor kann der Nutzer das Feld "Als ATOM-Download Dienst bereitstellen" aktivieren, um die Übernahme der ATOM-Dienste vom InGrid Editor in den ATOM-Feed Client zu ermöglichen.
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/atom-downloaddienst/fachbezug_als-atomdownloaddienst-bereitstellen.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/atom-downloaddienst/fachbezug_als-atomdownloaddienst-bereitstellen.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -24,7 +24,7 @@ Der ATOM-Feed Client wurde an die spezifischen Anforderungen der Bundesländer u
 
 Folgende Partner-Bundesländer verfügen über den ATOM-Feed Client.
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/atom-feed-client/atom-feed-client_bb.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/atom-feed-client/atom-feed-client_bb.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -32,14 +32,14 @@ Folgende Partner-Bundesländer verfügen über den ATOM-Feed Client.
 Abb.: `ATOM-Feed Client Brandenburg <https://metaver.de/search/dls/?partner=bb>`_
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/atom-feed-client/atom-feed-client_hb.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/atom-feed-client/atom-feed-client_hb.png
    :align: left
    :scale: 50
    :figwidth: 100%
  
 Abb.: `ATOM-Feed Client Hansestadt Bremen <https://metaver.de/search/dls/?partner=hb>`_
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/atom-feed-client/atom-feed-client_hh.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/atom-feed-client/atom-feed-client_hh.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -47,7 +47,7 @@ Abb.: `ATOM-Feed Client Hansestadt Bremen <https://metaver.de/search/dls/?partne
 Abb.: `ATOM-Feed Client Hansestadt Hamburg <https://metaver.de/search/dls/?partner=hh>`_
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/atom-feed-client/atom-feed-client_st.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/atom-feed-client/atom-feed-client_st.png
    :align: left
    :scale: 50
    :figwidth: 100%
