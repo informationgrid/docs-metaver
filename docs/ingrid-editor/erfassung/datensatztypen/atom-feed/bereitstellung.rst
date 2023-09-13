@@ -1,31 +1,33 @@
 
 Datendownloads mit einem ATOM-Feed bereitstellen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-In der Geodateninfrastruktur ist ein ATOM-Downloaddienst ein Dienst für den Download von Geodaten, der meist im Zusammenhang mit der Geodatenbereitstellung als Open Data bzw. der Geodatenbereitstellung nach der INSPIRE-Richtlinie verwendet wird.
+
+In der Geodateninfrastruktur handelt es sich bei einem ATOM-Downloaddienst um einen Service zum Herunterladen von Geodaten, der hauptsächlich im Kontext der Open Data Geodatenbereitstellung oder im Rahmen der Umsetzung der INSPIRE-Richtlinie zum Einsatz kommt.
 
  
 Was ist ein ATOM-Feed?
 """"""""""""""""""""""
 
-Ein ATOM-Feed ist ein (XML-) Format, das von Benutzern verwendet werden kann, um über neue Inhalte einer Website informiert zu werden.
+Ein ATOM-Feed ist ein (XML-) Format, das Benutzern ermöglicht, sich über neue Inhalte einer Website zu informieren.
 
-Benutzer können einen ATOM-Feed, mit Hilfe eines ATOM-Feed-Readers (Browsererweiterung) abonnieren.
+Benutzer können einen ATOM-Feed mithilfe eines Browser-Plugins für ATOM-Feed-Reader abonnieren. Es ist ratsam, eine Browsererweiterung zu verwenden, um dies problemlos durchzuführen und die automatischen Updates zu erhalten.
 
-Ein ATOM-Feed ermöglicht, mit Hilfe eines ATOM-Feed-Readers oder des `ATOM-Feed Clients <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/ATOM-feed/client.html>`_, eine plattformunabhängige Beschreibung und den Download von Geodaten.
+Ein Atom-Feed erlaubt mithilfe eines Atom-Feed-Readers oder eines `ATOM-Feed Clients <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/ATOM-feed/client.html>`_ eine plattformunabhängige Beschreibung und den Download von Geodaten.
 
 
 Abschnitt Fachbezug
 ^^^^^^^^^^^^^^^^^^^
 
-.. important:: Für ATOM-Downloaddienste, die im ATOM-Feed Client erscheinen sollen, muss im Objekttyp Geodatensatz (im Abschnitt "Verweise") eine Download-URL angelegt werden.
+.. important:: Für ATOM-Downloaddienste, die im ATOM-Feed Client erscheinen sollen, muss im Geodatensatz (im Abschnitt "Verweise") eine Download-URL eingetragen werden.
 
 
 Erfassung/Erzeugung eines ATOM-Feeds
 """"""""""""""""""""""""""""""""""""
 
-Folgende Voraussetzungen müssen erfüllt sein, damit ATOM-Feeds erstellt und über den `ATOM-Feed Client <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/ATOM-feed/client.html>`_ bereitgestellt werden können.
+Damit ATOM-Feeds über den `ATOM-Feed Client <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/ATOM-feed/client.html>`_ bereitgestellt werden können, müssen bestimmte Voraussetzungen erfüllt sein.
 
-Die Felder (im Abschnitt Fachbezug) müssen wie folgt befüllt werden:
+
+Die Felder im Abschnitt Fachbezug sollen wie folgt ausgefüllt werden:
 
 **Variante 1) Kopplung des Geodatendienstes mit einem Geodatensatz aus dem gleichen Katalog**
 
@@ -70,16 +72,17 @@ Die Felder (im Abschnitt Fachbezug) müssen wie folgt befüllt werden:
 Anmerkungen zur Download-URL
 """"""""""""""""""""""""""""
 
-Die Daten, welche für den Download bereitgestellt werden, müssen über das Internet verfügbar sein und über eine URL direkt abrufbar sein. Dabei ist es egal, ob die Daten gezippt oder ungezipt bereitgestellt werden.
+Die für den Download bereitgestellten Daten müssen über das Internet verfügbar sein und über eine URL direkt abrufbar sein. Dabei spielt es keine Rolle, ob die Daten gezippt oder ungezippt zur Verfügung gestellt werden.
 
 Beispiel-Formate für den Daten-Download: .zip, .gml, .tif, .shp, ...
 
 Beispiel-URL: https://www.host.de/.../downloads/name_der_datei.zip
 
 
-GetFeature-Request werden dagegen nicht ausgewertet. Der Service-Feed enthält hierbei zwar den Verweis zum Daten-Feed, ruft man aber den Daten-Feed auf, so fehlt der Link zum Download. 
+GetFeature-Requests werden nicht ausgewertet. Der Service-Feed enthält den Verweis zum Daten-Feed, jedoch fehlt der Download-Link, wenn der Daten-Feed aufgerufen wird. 
 
 
-.. hint:: Die allgemeinen Felder sind wie unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_, die Spezialfelder wie unter `Datensatztyp / Geodatendienst <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztyp-geodatendienst.html>`_ beschrieben, zu befüllen.
+.. hint:: Das Ausfüllen der allgemeinen Felder erfolgt gemäß den Angaben unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_. Für die Spezialfelder sind die Vorgaben unter `Datensatztyp / Geodatendienst <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztyp-geodatendienst.html>`_ zu beachten.
 
-.. important:: Sollte es Schwierigkeiten bei der Erstellung eines ATOM-Downloaddienstes geben, setzen Sie sich bitte, über das `METAVER Kontaktformular <https://metaver.de/kontakt>`_, mit Ihrem zuständigen Katalogadministrator (Bundesland angeben) in Verbindung.
+
+.. important:: Sollten Schwierigkeiten bei der Erstellung eines ATOM-Download-Services auftreten, kontaktieren Sie bitte über das `METAVER Kontaktformular <https://metaver.de/kontakt>`_ Ihren zuständigen Katalogadministrator (bitte das Bundesland angeben).
