@@ -38,7 +38,7 @@ Abb.: GetCapabilitie-Assistent - Metadaten
 
 Der Assistent "GetCapabilities" extrahiert Metadaten aus der XML des Geodatendienstes. Diese können genutzt werden, um den Datensatztyp "Geodatendienst" zu füllen.
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilties-assistent_metadaten-auswahl.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilties-assistent_metadaten-auswahl.png
    :align: left
    :scale: 50
    :figwidth: 100%
