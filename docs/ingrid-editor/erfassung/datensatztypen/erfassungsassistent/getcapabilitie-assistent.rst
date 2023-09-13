@@ -3,9 +3,7 @@
 Der GetCapabilitie-Assistent
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-img\ige\erfassung\ige_metadaten\datensatztypen\datensatztyp_geodatendienst\assistent
-
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilties-assistent_symbol.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilties-assistent_symbol.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -19,7 +17,7 @@ Der GetCapabilities Assistent ist ein Erfassungsassistent, der Metadatenerfasser
 Starten Sie den Assistenten über das Zauberstab-Symbol in der Symbolleiste. Geben Sie die getCapability-URL des Dienstes in das Fenster ein und klicken Sie auf "ÜBERNEHMEN".
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilties-assistent_url.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilties-assistent_url.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -30,7 +28,7 @@ Abb.: GetCapabilitie-Assistent - URL Eingabe
 Der Assistent ruft die Dienst-URL ab und listet alle in getCapabilitie verfügbaren Metadaten auf. Der Erfasser kann dann die Metainformationen auswählen, die ins Erfassungsformular übernommen werden sollen.
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilties-assistent_metadaten.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilties-assistent_metadaten.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -53,7 +51,7 @@ Werden die Adressen aus den Metadaten übernommen, erscheint im Assistenten der 
 Mit der Funktion ABBRECHEN können Sie den Assistenten schließen und mit einem leeren Objekt starten.
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilties-assistent_metadaten-uebernommen.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilties-assistent_metadaten-uebernommen.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -75,7 +73,7 @@ Eine Ausnahme bildet der Atom-Feed, da dieser nicht über den GetCapabilities-As
 Die übernommenen Metadaten können mithilfe des Buttons "AKTUALISIEREN" am Anfang der Erfassungsmaske aktualisiert werden.
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilities_aktualisierung.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilities_aktualisierung.png
    :align: left
    :scale: 50
    :figwidth: 100%
