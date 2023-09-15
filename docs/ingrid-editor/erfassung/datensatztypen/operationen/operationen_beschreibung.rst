@@ -3,7 +3,7 @@ Operationen
 ^^^^^^^^^^^
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/getcapabilties-assistent_symbol.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilties-assistent_symbol.png
    :align: left
    :scale: 50
    :figwidth: 100%
