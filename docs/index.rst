@@ -6,7 +6,7 @@
 
 .. figure:: img/logos/logo-metaver.png
    :align: left
-   :scale: 30
+   :scale: 10
    :figwidth: 100 %
    
 
