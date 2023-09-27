@@ -59,6 +59,14 @@ Abb.: InGrid - Ordnersymbol im Eingabeformular
    
 Abb.: InGrid Editor - Aufbau der Ordnerstruktur
 
+
+.. figure:: ../../img/ige/allgemein/ordner.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+   
+Abb.: InGrid Editor - Ordner öffnen und schließen
+
 Durch Klicken auf den Pfeil nach rechts wird die Ordnerstruktur geöffnet und durch Klicken auf den Pfeil nach unten wird sie geschlossen.
  
 
