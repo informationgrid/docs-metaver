@@ -32,7 +32,7 @@ Version der Bedienungsanleitung
    Abb.: InGrid Editor - Neue Generation (IGE-NG) - Übersicht
 
 
-..  note::  Die Eingabemasken und die Eingabefelder in den Metadatenkatalogen können je nach Metadatenprofil variieren (Beispiel: Kommunaler Metadatenkatalog Sachsen-Anhalt).
+..  note::  Die Eingabemasken und die Eingabefelder in den Metadatenkatalogen können je nach Metadatenprofil variieren (z.B.: Hamburger Metadatenkatalog, Kommunaler Metadatenkatalog Sachsen-Anhalt).
 
 
 --------------------------------------------------------------------------------------------------------------
