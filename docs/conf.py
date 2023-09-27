@@ -50,7 +50,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'METAVER - Bedienungsanleitung'
+project = 'IGE-NG - Bedienungsanleitung'
 copyright = '2021-{}, wemove'.format(
     datetime.datetime.now().year
 )
