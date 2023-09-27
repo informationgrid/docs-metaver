@@ -8,8 +8,8 @@ Der neue InGrid Editor ist programmiert und einsatzbereit für die Erfassung von
 .. hint:: Falls Sie Rückmeldungen zum neuen InGrid-Editor oder zur Bedienungsanleitung haben, können Sie uns gerne über das `METAVER-Kontaktformular <https://metaver.de/kontakt>`_ kontaktieren. Wir sind an Ihrer Meinung interessiert.
 
 
-InGrid Editor Übersicht
------------------------
+InGrid Editor - Übersicht
+-------------------------
  
  Nachdem der InGrid Editor geladen wurde, wird die Übersicht angezeigt. Es werden die zuletzt bearbeiteten Metadaten bzw. Adressen sowie eine Statistik angezeigt, die angibt, wie viele Metadaten sich derzeit in Bearbeitung und wie viele bereits veröffentlicht sind.
 
