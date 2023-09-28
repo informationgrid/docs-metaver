@@ -170,22 +170,43 @@ Auswahlliste: Raster, Gitter, Stereomodell, Text, Tabelle, TIN, Vektor, Video
 Abb.: Auswahlfeld Digitale Repräsentation
 
 
-Feld: Vektorformat
-^^^^^^^^^^^^^^^^^^^
+`Auswahlliste Digitale Repräsentation  <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/auswahllisten/auswahlliste_fachbezug_geodatensatz_digitale-repraesentation.html>`_
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_vektorformat.png
+
+
+Auswahl: Vektor
+^^^^^^^^^^^^^^^
+
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_digitale-repaesentation_vektor.png
    :align: left
    :scale: 50
    :figwidth: 100%
 
-Abb.: Feld Vektorformat
-
-.. hint:: Dieses Feld ist nur aktiv nach Auswahl von "Vektor" im Feld "Digitale Repräsentation".
-
-Es können hier Topologieinformationen, Geometrietyp (Angabe der geometrischen Objekte, zur Beschreibung der geometrischen Lage) und Elementanzahl (Angabe der Anzahl der Punkt- oder Vektortypelemente) angegeben werden.
+Abb.: Auswahl Vektor
 
 
-`Auswahlliste Topologieinformation <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/auswahllisten/auswahlliste_fachbezug_topologieinformation.html>`_
+Felder: Topologieinformation
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. hint:: Dieses Feld ist nur aktiv, wenn im Feld "Digitale Repräsentation" die Option "Vektor" gewählt wurde.
+
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_digitale-repaesentation_vektor_topologie.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Felder für Topologieinformationen
+
+
+`Auswahlliste Topologieinformation <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/auswahllisten/auswahlliste_fachbezug_geodatensatz_topologieinformation.html>`_
+
+
+`Auswahlliste Geometrietyp <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/auswahllisten/auswahlliste_fachbezug_geodatensatz_topologieinformation_geometrietyp.html>`_
+
+
+Hier können Topologieinformationen, Geometrietyp (Angabe der geometrischen Objekte zur Beschreibung der geometrischen Lage) und Elementanzahl (Angabe der Anzahl der Punkt- oder Vektortypelemente) angegeben werden.
+
+
 
 Feld: Erstellungsmaßstab
 ^^^^^^^^^^^^^^^^^^^^^^^^
