@@ -50,7 +50,7 @@ Es wird unterschieden, ob es sich bei den beschriebenen Daten um einen einzelnen
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_datensatz-datenserie.png
    :align: left
-   :scale: 50
+   :scale: 60
    :figwidth: 100%
  
 Abb.: Auswahlfeld Datensatz / Datenserie
