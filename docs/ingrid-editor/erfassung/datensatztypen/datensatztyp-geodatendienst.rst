@@ -243,7 +243,7 @@ Die bevorzugte Methode ist die Auswahl von Geodatensätzen aus demselben Katalog
 
 Die Angabe eines Textes beschreibt die dargestellten Daten in Textform. Zusätzlich kann hier die Art der Daten (z.B. numerisch, automatisch oder aus Erhebungsergebnissen gewonnen, Primärdaten, fehlerbereinigte Daten) angegeben werden.
 
-..hint:: Wird die Option "Als ATOM-Download Dienst bereitstellen" gewählt, ist darauf zu achten, dass die extern dargestellten Daten über einen Downloadlink verfügen.
+.. hint:: Wird die Option "Als ATOM-Download Dienst bereitstellen" gewählt, ist darauf zu achten, dass die extern dargestellten Daten über einen Downloadlink verfügen.
 
 
 Feld: Kopplungstyp
