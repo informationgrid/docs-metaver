@@ -108,14 +108,14 @@ Abb.: Metadaten des Datensatzes
 
 .. hint:: Nach der Eingabe der Basisinformationen bietet es sich an, den Metadatensatz schon einmal zu speichern. Grundsätzlich empfiehlt es sich, beim Ausfüllen der Felder von Zeit zu Zeit die eingegebenen Daten zu sichern, um beispielsweise bei einer abgelaufenen Session, die eingegebenen Daten nicht zu verlieren. Das Zwischenspeichern ist jederzeit möglich, auch wenn noch nicht alle Pflichtfelder ausgefüllt sind.
 
-Metadaten (-Kopf) zum Metadatensatz
+Metadatenkopf
 
 - **Status:** in Bearbeitung oder Veröffentlichung geplant oder Veröffentlicht
 - **Typ:** Datensatztypbezeichnung (Wird bei der Erstellung des Metadatensatzes erstellt.)
 - **ID:** ID des Metadatensatzes (Wird nach dem ersten Speichern automatisch vergeben.)
-- **Erstellt am:** Erstellungsdatum für den Metadatensatz (wird atomaisch gesetzt)
-- **Geändert am:** Änderungsdatum für den Metadatensatz (wird atomaisch gesetzt)
-- **Verantwortlich:** zuständiger Bearbeiter für die Metadaten (Wird automatisch bei der Erstellung gesetzt, kann aber geändert werden.)
+- **Erstellt am:** Erstellungsdatum für den Metadatensatz (wird atomatisch gesetzt)
+- **Geändert am:** Änderungsdatum für den Metadatensatz (wird atomatisch gesetzt)
+- **Verantwortlich:** zuständiger Bearbeiter für die Metadaten (Wird beim Anlegen automatisch gesetzt, kann aber geändert werden.)
 - **Metadaten-Datum:** Datum der veröffentlichten Version (wird automatisch gesetzt)
 
 **Verantwortlich:** Hier wird automatisch der Erfasser eingetragen, der das Objekt angelegt hat. Hier sollte jedoch die für die Aktualisierung verantwortliche Person eingetragen werden. In der Regel ist der Erfasser auch der fachlich Verantwortliche (Standardeinstellung).
