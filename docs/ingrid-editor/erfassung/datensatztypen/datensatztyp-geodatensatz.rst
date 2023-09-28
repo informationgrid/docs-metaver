@@ -188,7 +188,7 @@ Abb.: Auswahl Vektor
 Felder: Topologieinformation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. hint:: Dieses Feld ist nur aktiv, wenn im Feld "Digitale Repräsentation" die Option "Vektor" gewählt wurde.
+.. hint:: Diese Felder sind nur aktiv, wenn im Feld "Digitale Repräsentation" die Option "Vektor" gewählt wurde.
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_digitale-repaesentation_vektor_topologie.png
    :align: left
