@@ -285,4 +285,4 @@ Dieses Feld wird automatisch ausgefüllt, wenn "INSPIRE-Themen" oder "Art des Di
 
 Gemäß den Empfehlungen des AdV-Metadatenprofils sind im Feld "Konformitätsgrad" nur die Werte "konform" und "nicht konform" zu verwenden. Für alle Nicht-INSPIRE-Objekte ist hier die „INSPIRE-Richtlinie“ mit dem Wert „nicht evaluiert“ auszuwählen.
 
-.. hint:: Die Abschnitte Raumbezug, Zeitbezug, Zusatzinformationen, Verfügbarkeit und Verweise werden unter `Metadaten erfassen `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_ ausführlich beschrieben, da sie für mehrere Metadatentypen gelten.
+.. hint:: Die Abschnitte Raumbezug, Zeitbezug, Zusatzinformationen, Verfügbarkeit und Verweise werden unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_ ausführlich beschrieben, da sie für mehrere Metadatentypen gelten.
