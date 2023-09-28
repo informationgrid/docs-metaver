@@ -207,7 +207,6 @@ Abb.: Felder für Topologieinformationen
 Hier können Topologieinformationen, Geometrietyp (Angabe der geometrischen Objekte zur Beschreibung der geometrischen Lage) und Elementanzahl (Angabe der Anzahl der Punkt- oder Vektortypelemente) angegeben werden.
 
 
-
 Feld: Erstellungsmaßstab
 ^^^^^^^^^^^^^^^^^^^^^^^^
 (optionales INSPIRE-Feld)
