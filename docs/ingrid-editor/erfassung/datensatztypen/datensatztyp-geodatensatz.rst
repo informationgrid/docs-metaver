@@ -37,7 +37,7 @@ Unter Typ können weitere Eigenschaften (Eingabefelder) für den Metadatensatz d
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/typ_optionen.png
    :align: left
-   :scale: 70
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Optionen für weitere Eigenschaften
@@ -50,7 +50,7 @@ Es wird unterschieden, ob es sich bei den beschriebenen Daten um einen einzelnen
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_datensatz-datenserie.png
    :align: left
-   :scale: 70
+   :scale: 80
    :figwidth: 100%
  
 Abb.: Auswahlfeld Datensatz / Datenserie
