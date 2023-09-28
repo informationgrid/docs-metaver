@@ -412,7 +412,7 @@ Zeitgesteuerte Veröffentlichung
 Abb.: VERÖFFENTLICHEN
 
 
-.. figure:: ../../img/ige/allgemein/veroeffentlichungsvarianten.png
+.. figure:: ../../img/ige/allgemein/veroeffentlichung_planen.png
    :align: left
    :scale: 50
    :figwidth: 100%
