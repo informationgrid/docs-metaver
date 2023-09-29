@@ -1026,7 +1026,7 @@ Abb.: Interner Verweis auf einen Datendownload
    :scale: 70
    :figwidth: 100%
 
-Abb.: Verweis auf einen Dienst
+Abb.: Interner Verweis auf einen Dienst
 
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-datensatzverweis_basisdaten.png
