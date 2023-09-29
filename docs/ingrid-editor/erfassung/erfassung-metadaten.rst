@@ -1006,12 +1006,14 @@ Kataloginterne und externe Verweise
 
 Abb.: Feld Datensatzverweis - Angabe einer Datensatz-ID
 
+
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-intern-extern.png
    :align: left
    :scale: 50
    :figwidth: 100%
 
 Abb.: Beispiele für Kataloginterne Verweise
+
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-datensatzverweis_datendownload.png
    :align: left
@@ -1027,6 +1029,7 @@ Abb.: Verweis auf Datendownload
    :figwidth: 100%
 
 Abb.: Verweis auf einen Dienst
+
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-datensatzverweis_basisdaten.png
    :align: left
