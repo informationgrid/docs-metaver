@@ -176,7 +176,8 @@ Abb.: Felder für Operationen
 Beispiel GetCapabilitie-URL eines WMS: https://www.geodatenportal.sachsen-anhalt.de/wss/service/INSPIRE_LAU_Schutzgebiete_WMS/guest?REQUEST=GetCapabilities&SERVICE=WMS
 
 
-Sind alle Felder ausgefüllt, kann der Dienst durch Betätigen des Buttons "AKTUALISIEREN" (vor dem Abschnitt "Allgemeines") abgerufen werden. 
+Sind alle Felder ausgefüllt, kann der Dienst durch Betätigen des Buttons "AKTUALISIEREN" (vor dem Abschnitt "Allgemeines") abgerufen werden.
+
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_operationen_aktualisieren.png
    :align: left
    :scale: 50
