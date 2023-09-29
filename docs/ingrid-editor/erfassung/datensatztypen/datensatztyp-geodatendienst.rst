@@ -176,7 +176,7 @@ Abb.: Felder für Operationen
 
 .. important:: In der Capabilities-URL **müssen** nach dem Fragezeichen folgende Angaben stehen: REQUEST=GetCapabilities&SERVICE=WMS
 
-Beispiel GetCapabilities URL: https://www.geodatenportal.sachsen-anhalt.de/wss/service/INSPIRE_LAU_Schutzgebiete_WMS/guest?REQUEST=GetCapabilities&SERVICE=WMS
+Beispiel GetCapabilitie-URL eines WMS: https://www.geodatenportal.sachsen-anhalt.de/wss/service/INSPIRE_LAU_Schutzgebiete_WMS/guest?REQUEST=GetCapabilities&SERVICE=WMS
 
 
 Sind alle Felder ausgefüllt, kann der Dienst durch Betätigen des Buttons "AKTUALISIEREN" (vor dem Abschnitt "Allgemeines") abgerufen werden. Nach dem Abrufen werden die im Dienst hinterlegten Metadaten angezeigt. Hier können Operationen durch Anklicken aktiviert werden. Durch Betätigen des Buttons "ÜBERNEHMEN" werden weitere URLs zu den Diensten nachgeladen. Für die Ausgabe in den Portalen wird jedoch nur die CetCapabilitie-URL benötigt.
