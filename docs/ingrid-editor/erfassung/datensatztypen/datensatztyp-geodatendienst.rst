@@ -139,7 +139,6 @@ Beispiele Darstellungsdienste: OGC: WMS 1.3.0, OGC: WMS 1.1.1, OGC: WMTS 1.0.0
 Beispiele Downloaddienste: OGC: WFS 2.0, WFS 1.1.0, predefined ATOM
 
 
-
 Option: Als ATOM-Download Dienst bereitstellen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -177,14 +176,15 @@ Abb.: Felder für Operationen
 Beispiel GetCapabilitie-URL eines WMS: https://www.geodatenportal.sachsen-anhalt.de/wss/service/INSPIRE_LAU_Schutzgebiete_WMS/guest?REQUEST=GetCapabilities&SERVICE=WMS
 
 
-Sind alle Felder ausgefüllt, kann der Dienst durch Betätigen des Buttons "AKTUALISIEREN" (vor dem Abschnitt "Allgemeines") abgerufen werden. Nach dem Abrufen werden die im Dienst hinterlegten Metadaten angezeigt. Hier können Operationen durch Anklicken aktiviert werden. Durch Betätigen des Buttons "ÜBERNEHMEN" werden weitere URLs zu den Diensten nachgeladen. Für die Ausgabe in den Portalen wird jedoch nur die CetCapabilitie-URL benötigt.
-
+Sind alle Felder ausgefüllt, kann der Dienst durch Betätigen des Buttons "AKTUALISIEREN" (vor dem Abschnitt "Allgemeines") abgerufen werden. 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_operationen_aktualisieren.png
    :align: left
    :scale: 50
    :figwidth: 100%
 
 Abb.: Button AKTUALISIEREN
+
+Nach dem Abrufen werden die im Dienst hinterlegten Metadaten angezeigt. Hier können Operationen durch Anklicken aktiviert werden. Durch Betätigen des Buttons "ÜBERNEHMEN" werden weitere URLs zu den Diensten nachgeladen. Für die Ausgabe in den Portalen wird jedoch nur die CetCapabilitie-URL benötigt.
 
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_operationen_wms.png
