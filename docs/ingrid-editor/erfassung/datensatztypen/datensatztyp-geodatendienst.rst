@@ -213,10 +213,10 @@ Abb.: URLs eines WFS
 Abb.: Felder für Operationen nach der Übernahme der Metadaten aus dem Dienst
 
 
+.. tip:: Überprüfen Sie Ihre Geodatendienste durch Betätigen des Buttons "AKTUALISIEREN". Wenn der Dienst und die URL korrekt sind, werden die Metadaten des Dienstes angezeigt (außer bei geschützten Diensten).
+
 .. seealso:: Erstellung eines Geodatendienstes mit dem  `GetCapabilitie Assistenten <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/erfassungsassistent/getcapabilitie-assistent.html>`_.
 
-
-.. tip:: Überprüfen Sie Ihre Geodatendienste durch Betätigen des Buttons "AKTUALISIEREN". Wenn der Dienst und die URL korrekt sind, werden die Metadaten des Dienstes angezeigt (außer bei geschützten Diensten).
 
 
 Feld: Erstellungsmaßstab
