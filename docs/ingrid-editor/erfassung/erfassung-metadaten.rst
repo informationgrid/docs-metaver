@@ -986,7 +986,7 @@ Abb.: Verweise bearbeiten
 
 | **Feld: Datensatzverweis**
 
-  - Angabe einer Datensatz-UUID (Beispiel: 19bd40ac-8be8-464a-8273-f2ce87e0fe32). Die Datensatz-UUIDs stehen versteckt im Kopf der Erfassungsmasken (mit Pfeil ausklappen). Es können auch externe Datensätze über eine UUID verlinkt werden.
+  - Verweise auf interne und Externe Metadatensätze - Angabe einer Datensatz-UUID (Beispiel: 19bd40ac-8be8-464a-8273-f2ce87e0fe32). Die Datensatz-UUIDs stehen versteckt im Kopf der Erfassungsmasken (mit Pfeil ausklappen). Es können auch externe Datensätze über eine UUID verlinkt werden.
 
 | **Feld: Erläuterungen**
 
@@ -994,3 +994,22 @@ Abb.: Verweise bearbeiten
 
 
   .. hint:: Der Inhalt der Auswahlliste im Feld: Verweistyp richtet sich nach den gewählten Datensatztyp.
+
+
+Kataloginterne und externe Verweise
+"""""""""""""""""""""""""""""""""""
+
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-intern-extern.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Kataloginterne Verweise
+
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-datensatzverweis.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Feld Datensatzverweis - Angabe einer Datensatz-ID
+
