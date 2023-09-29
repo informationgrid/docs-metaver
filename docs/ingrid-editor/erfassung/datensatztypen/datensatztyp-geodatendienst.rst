@@ -208,7 +208,7 @@ Abb.: URLs eines WFS
    :scale: 50
    :figwidth: 100%
 
-Abb.: Felder für Operationen nach der Übernahme der Metadaten aus dem Dienst
+Abb.: Felder für Operationen im Editor nach der Übernahme der Metadaten aus dem Dienst
 
 
 .. tip:: Überprüfen Sie Ihre Geodatendienste durch Betätigen des Buttons "AKTUALISIEREN". Wenn der Dienst und die URL korrekt sind, werden die Metadaten des Dienstes angezeigt (außer bei geschützten Diensten).
