@@ -173,6 +173,38 @@ Die Eingabefelder für die Operationen wurden im neuen Editor vereinfacht. Im Fe
 
 Abb.: Felder für Operationen
 
+
+Sind alle Felder ausgefüllt, kann der Dienst durch Betätigen des Buttons "AKTUALISIEREN" (vor dem Abschnitt "Allgemeines") abgerufen werden. Nach dem Abrufen werden die im Dienst hinterlegten Metadaten angezeigt. Hier können Operationen durch Anklicken aktiviert werden. Durch Betätigen des Buttons "ÜBERNEHMEN" werden weitere URLs zu den Diensten nachgeladen. Für die Ausgabe in den Portalen wird jedoch nur die CetCapabilitie-URL benötigt.
+
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_operationen_aktualisieren.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Button AKTUALISIEREN
+
+
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_operationen_aktualisieren_WMS.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: URLs WMS
+
+
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_operationen_aktualisieren_WFS.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: URLs WFS
+
+
+
+In der Capabilities-URL müssen nach dem Fragezeichen folgende Angaben stehen: ?REQUEST=GetCapabilities&SERVICE=WMS
+
+Beispiel GetCapabilities URL: https://www.geodatenportal.sachsen-anhalt.de/wss/service/INSPIRE_LAU_Schutzgebiete_WMS/guest?REQUEST=GetCapabilities&SERVICE=WMS
+
 .. seealso:: Erstellung eines Geodatendienstes mit dem  `GetCapabilitie Assistenten <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/erfassungsassistent/getcapabilitie-assistent.html>`_.
 
 
