@@ -1036,5 +1036,5 @@ Abb.: Verweis auf einen Dienst
 Abb.: Verweis von INSPIRE Daten auf die Basisdaten
 
 
-..hint:: Für externe Verweise ist die Vorgehensweise gleich.
+.. hint:: Für externe Verweise ist die Vorgehensweise gleich.
 
