@@ -173,6 +173,8 @@ Die Eingabefelder für die Operationen wurden im neuen Editor vereinfacht. Im Fe
 
 Abb.: Felder für Operationen
 
+.. seealso:: Erstellung eines Geodatendienstes mit dem  `GetCapabilitie Assistenten <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/erfassungsassistent/getcapabilitie-assistent.html>`_.
+
 
 Feld: Erstellungsmaßstab
 ^^^^^^^^^^^^^^^^^^^^^^^^
