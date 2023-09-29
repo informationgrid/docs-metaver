@@ -999,6 +999,13 @@ Abb.: Verweise bearbeiten
 Kataloginterne und externe Verweise
 """""""""""""""""""""""""""""""""""
 
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-datensatzverweis.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Feld Datensatzverweis - Angabe einer Datensatz-ID
+
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-intern-extern.png
    :align: left
    :scale: 50
@@ -1006,10 +1013,22 @@ Kataloginterne und externe Verweise
 
 Abb.: Kataloginterne Verweise
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-datensatzverweis.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-datensatzverweis_datendownload.png
    :align: left
    :scale: 50
    :figwidth: 100%
 
-Abb.: Feld Datensatzverweis - Angabe einer Datensatz-ID
+Abb.: Verweis auf Datendownload
+
+
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-datensatzverweis_dienstverweis.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Verweis auf einen Dienst
+
+
+
+..hint:: Für externe Verweise ist die Vorgehensweise gleich.
 
