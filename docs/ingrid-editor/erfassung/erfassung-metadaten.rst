@@ -1055,4 +1055,4 @@ Abb.: Verweis auf Basisdaten
 Abb.: Verweis Fachliche Grundlage
 
 
-.. hint:: Für externe Verweise ist die Vorgehensweise gleich.
+.. hint:: Für Verweise auf externe Metadaten ist die Vorgehensweise gleich.
