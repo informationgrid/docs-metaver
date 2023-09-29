@@ -194,7 +194,7 @@ Abb.: Button AKTUALISIEREN
    :scale: 50
    :figwidth: 100%
 
-Abb.: URLs WMS
+Abb.: URLs eines WMS
 
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_operationen_wfs.png
@@ -202,7 +202,7 @@ Abb.: URLs WMS
    :scale: 50
    :figwidth: 100%
 
-Abb.: URLs WFS
+Abb.: URLs eines WFS
 
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_operationen.png
