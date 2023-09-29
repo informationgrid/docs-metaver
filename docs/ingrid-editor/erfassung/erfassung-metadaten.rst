@@ -1028,7 +1028,7 @@ Abb.: Beispiele für Kataloginterne Verweise
    :scale: 70
    :figwidth: 100%
 
-Abb.: Verweis auf Datendownload
+Abb.: Interner Verweis auf einen Datendownload
 
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-datensatzverweis_dienstverweis.png
@@ -1044,7 +1044,7 @@ Abb.: Verweis auf einen Dienst
    :scale: 70
    :figwidth: 100%
 
-Abb.: Verweis auf Basisdaten
+Abb.: Interner Verweis auf Basisdaten
 
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-datensatzverweis_fachliche-grundlage.png
@@ -1052,7 +1052,7 @@ Abb.: Verweis auf Basisdaten
    :scale: 70
    :figwidth: 100%
 
-Abb.: Verweis Fachliche Grundlage
+Abb.: Interner Verweis auf eine Fachliche Grundlage
 
 
 .. hint:: Für Verweise auf externe Metadaten ist die Vorgehensweise gleich.
