@@ -992,6 +992,14 @@ Abb.: Verweise bearbeiten
 
   - Ergänzende Erläuerung zu einer Verlinkung (Beispiel: Downloadmöglichkeit der Landesfläche in 4 Teilen)
 
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-unspezifisch.png
+   :align: left
+   :scale: 70
+   :figwidth: 100%
+
+Abb.: Beispiel für einen Verweis auf eine Webseite
+
+
 
 .. hint:: Der Inhalt der Auswahlliste im Feld: Verweistyp richtet sich nach den gewählten Datensatztyp.
 
@@ -1001,7 +1009,7 @@ Kataloginterne und externe Verweise
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-datensatzverweis.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Feld Datensatzverweis - Angabe einer Datensatz-ID
@@ -1009,7 +1017,7 @@ Abb.: Feld Datensatzverweis - Angabe einer Datensatz-ID
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-intern-extern.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Beispiele für Kataloginterne Verweise
@@ -1017,7 +1025,7 @@ Abb.: Beispiele für Kataloginterne Verweise
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-datensatzverweis_datendownload.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Verweis auf Datendownload
@@ -1025,7 +1033,7 @@ Abb.: Verweis auf Datendownload
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-datensatzverweis_dienstverweis.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Verweis auf einen Dienst
@@ -1033,11 +1041,18 @@ Abb.: Verweis auf einen Dienst
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-datensatzverweis_basisdaten.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
-Abb.: Verweis von INSPIRE Daten auf die Basisdaten
+Abb.: Verweis auf Basisdaten
+
+
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-datensatzverweis_fachliche-grundlage.png
+   :align: left
+   :scale: 70
+   :figwidth: 100%
+
+Abb.: Verweis Fachliche Grundlage
 
 
 .. hint:: Für externe Verweise ist die Vorgehensweise gleich.
-
