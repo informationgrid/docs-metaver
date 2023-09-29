@@ -184,7 +184,7 @@ Sind alle Felder ausgefüllt, kann der Dienst durch Betätigen des Buttons "AKTU
 Abb.: Button AKTUALISIEREN
 
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_operationen_aktualisieren_WMS.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_operationen_operationen_WMS.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -192,7 +192,7 @@ Abb.: Button AKTUALISIEREN
 Abb.: URLs WMS
 
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_operationen_aktualisieren_WFS.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_operationen_operationen_WFS.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -201,7 +201,7 @@ Abb.: URLs WFS
 
 
 
-In der Capabilities-URL müssen nach dem Fragezeichen folgende Angaben stehen: ?REQUEST=GetCapabilities&SERVICE=WMS
+In der Capabilities-URL müssen nach dem Fragezeichen folgende Angaben stehen: REQUEST=GetCapabilities&SERVICE=WMS
 
 Beispiel GetCapabilities URL: https://www.geodatenportal.sachsen-anhalt.de/wss/service/INSPIRE_LAU_Schutzgebiete_WMS/guest?REQUEST=GetCapabilities&SERVICE=WMS
 
