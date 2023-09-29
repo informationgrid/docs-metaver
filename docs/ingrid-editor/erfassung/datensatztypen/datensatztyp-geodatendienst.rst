@@ -166,12 +166,17 @@ Feld: Operationen
 
 Die Eingabefelder für die Operationen wurden im neuen Editor vereinfacht. Im Feld "Name" muss die getCapabilitie-URL, im Feld "Beschreibung" die Beschreibung des Dienstes und im Feld "Zugriffs-URL" die entsprechende URL eingegeben werden.
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_operationen.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_operationen_getcapabilitie.png
    :align: left
    :scale: 50
    :figwidth: 100%
 
 Abb.: Felder für Operationen
+
+
+.. important:: In der Capabilities-URL **müssen** nach dem Fragezeichen folgende Angaben stehen: REQUEST=GetCapabilities&SERVICE=WMS
+
+Beispiel GetCapabilities URL: https://www.geodatenportal.sachsen-anhalt.de/wss/service/INSPIRE_LAU_Schutzgebiete_WMS/guest?REQUEST=GetCapabilities&SERVICE=WMS
 
 
 Sind alle Felder ausgefüllt, kann der Dienst durch Betätigen des Buttons "AKTUALISIEREN" (vor dem Abschnitt "Allgemeines") abgerufen werden. Nach dem Abrufen werden die im Dienst hinterlegten Metadaten angezeigt. Hier können Operationen durch Anklicken aktiviert werden. Durch Betätigen des Buttons "ÜBERNEHMEN" werden weitere URLs zu den Diensten nachgeladen. Für die Ausgabe in den Portalen wird jedoch nur die CetCapabilitie-URL benötigt.
@@ -200,10 +205,13 @@ Abb.: URLs WMS
 Abb.: URLs WFS
 
 
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_operationen.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
-In der Capabilities-URL müssen nach dem Fragezeichen folgende Angaben stehen: REQUEST=GetCapabilities&SERVICE=WMS
+Abb.: Felder für Operationen
 
-Beispiel GetCapabilities URL: https://www.geodatenportal.sachsen-anhalt.de/wss/service/INSPIRE_LAU_Schutzgebiete_WMS/guest?REQUEST=GetCapabilities&SERVICE=WMS
 
 .. seealso:: Erstellung eines Geodatendienstes mit dem  `GetCapabilitie Assistenten <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/erfassungsassistent/getcapabilitie-assistent.html>`_.
 
