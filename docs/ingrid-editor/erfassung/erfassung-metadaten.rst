@@ -978,8 +978,12 @@ Abb.: Verweise bearbeiten
 
 | Feld: Titel - Titel, der mit einem Link hinterlegt werden soll.
 | Feld: URL - Angabe einer Webseite-URL oder einer Download-URL, auf die verwiesen werden soll.
-| Feld: Datensatzverweis - Verweise auf interne und Externe Metadatensätze - Angabe einer Datensatz-UUID (Beispiel: 19bd40ac-8be8-464a-8273-f2ce87e0fe32). Die Datensatz-UUIDs stehen versteckt im Kopf der Erfassungsmasken (mit Pfeil ausklappen). Es können auch externe Datensätze über eine UUID verlinkt werden.
-| Feld: Erläuterungen - Ergänzende Erläuerung zu einer Verlinkung (Beispiel: Downloadmöglichkeit der Landesfläche in 4 Teilen)
+| Feld: Datensatzverweis - Verweise auf interne und Externe Metadatensätze
+| Feld: Erläuterungen - Ergänzende Erläuerung zu einer Verlinkung
+
+Beispiel für eine Erläuterung: Downloadmöglichkeit der Landesfläche in 4 Teilen
+
+Im Feld Datensatzverweis muss die Datensatz-UUID (Beispiel: 19bd40ac-8be8-464a-8273-f2ce87e0fe32) des Metadatensatzes angegeben werden, auf den intern bzw. extern verlinkt werden soll. Die Datensatz-UUIDs befinden sich versteckt im Kopf der Erfassungsmasken (mit Pfeil ausklappen).
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-unspezifisch.png
    :align: left
