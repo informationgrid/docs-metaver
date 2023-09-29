@@ -1028,6 +1028,12 @@ Abb.: Verweis auf Datendownload
 
 Abb.: Verweis auf einen Dienst
 
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-datensatzverweis_basisdaten.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Verweis von INSPIRE Daten auf die Basisdaten
 
 
 ..hint:: Für externe Verweise ist die Vorgehensweise gleich.
