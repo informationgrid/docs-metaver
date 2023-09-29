@@ -139,8 +139,6 @@ Beispiele Darstellungsdienste: OGC: WMS 1.3.0, OGC: WMS 1.1.1, OGC: WMTS 1.0.0
 Beispiele Downloaddienste: OGC: WFS 2.0, WFS 1.1.0, predefined ATOM
 
 
-ATOM-Downloaddienste erstellen
--------------------------------
 
 Option: Als ATOM-Download Dienst bereitstellen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
