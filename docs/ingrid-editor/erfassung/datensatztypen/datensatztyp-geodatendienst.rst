@@ -184,7 +184,7 @@ Sind alle Felder ausgefüllt, kann der Dienst durch Betätigen des Buttons "AKTU
 Abb.: Button AKTUALISIEREN
 
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_operationen_operationen_WMS.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_operationen_wms.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -192,7 +192,7 @@ Abb.: Button AKTUALISIEREN
 Abb.: URLs WMS
 
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_operationen_operationen_WFS.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_operationen_wfs.png
    :align: left
    :scale: 50
    :figwidth: 100%
