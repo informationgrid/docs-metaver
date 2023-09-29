@@ -993,11 +993,11 @@ Abb.: Verweise bearbeiten
   - Ergänzende Erläuerung zu einer Verlinkung (Beispiel: Downloadmöglichkeit der Landesfläche in 4 Teilen)
 
 
-  .. hint:: Der Inhalt der Auswahlliste im Feld: Verweistyp richtet sich nach den gewählten Datensatztyp.
+.. hint:: Der Inhalt der Auswahlliste im Feld: Verweistyp richtet sich nach den gewählten Datensatztyp.
 
 
 Kataloginterne und externe Verweise
-"""""""""""""""""""""""""""""""""""
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-datensatzverweis.png
    :align: left
@@ -1011,7 +1011,7 @@ Abb.: Feld Datensatzverweis - Angabe einer Datensatz-ID
    :scale: 50
    :figwidth: 100%
 
-Abb.: Kataloginterne Verweise
+Abb.: Beispiele für Kataloginterne Verweise
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-datensatzverweis_datendownload.png
    :align: left
