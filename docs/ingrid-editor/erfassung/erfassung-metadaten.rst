@@ -972,11 +972,11 @@ Abb.: Verweise hinzufügen
 Abb.: Verweise bearbeiten
 
 
-| Feld Typ: `Auswahlliste <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/auswahllisten/auswahlliste_verweise_verweistypen.html>`_
-| Feld Titel: Titel, der mit einem Link hinterlegt werden soll.
-| Feld URL: Angabe einer Webseite-URL oder einer Download-URL, auf die verwiesen werden soll.
-| Feld Datensatzverweis: Verweise auf interne und Externe Metadatensätze (UUID)
-| Feld Erläuterungen: Ergänzende Erläuerung zu einer Verlinkung
+| **Feld Typ: `Auswahlliste <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/auswahllisten/auswahlliste_verweise_verweistypen.html>`_
+| **Feld Titel:** Titel, der mit einem Link hinterlegt werden soll.
+| **Feld URL:** Angabe einer Webseite-URL oder einer Download-URL, auf die verwiesen werden soll.
+| **Feld Datensatzverweis:** Verweise auf interne und Externe Metadatensätze (UUID)
+| **Feld Erläuterungen:** Ergänzende Erläuerung zu einer Verlinkung
 
 Beispiel für eine Erläuterung: Downloadmöglichkeit der Landesfläche in 4 Teilen
 
