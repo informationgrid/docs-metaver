@@ -200,7 +200,7 @@ Abb.: URLs WMS
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_operationen_wfs.png
    :align: left
    :scale: 50
-   :figwidth: 90%
+   :figwidth: 100%
 
 Abb.: URLs WFS
 
@@ -208,7 +208,7 @@ Abb.: URLs WFS
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_operationen.png
    :align: left
    :scale: 50
-   :figwidth: 90%
+   :figwidth: 100%
 
 Abb.: Felder für Operationen
 
