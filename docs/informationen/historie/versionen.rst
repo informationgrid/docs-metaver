@@ -2,14 +2,17 @@
 InGrid Versionen
 ================
 
-Bedienungsanleitung (IGE-NG AP5) Version 
-  - InGrid Editor-Version: 1.6.0, 17.10.2023, 10:34
+Bedienungsanleitung (IGE-NG) Version 
   - letzte Änderung: 19.10.2023
   - Status: in Bearbeitung
 
 --------------------------------------------------------------------------------------------------------------
 
-IGE-NG Testversion
+IGE-NG Live-System
+  - InGrid Editor-Version: 1.6.0, 17.10.2023, 10:34
+
+
+IGE-NG Test-System
   - InGrid Editor-Version: 1.5.1-28, 16.10.2023, 15:07 
 
 --------------------------------------------------------------------------------------------------------------
