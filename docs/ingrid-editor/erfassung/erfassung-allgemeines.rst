@@ -560,6 +560,52 @@ Abb.: Metadaten - Metainformationen anzeigen
 Abb.: Metadaten - Metainformationen  - Metadaten
 
 
+Metadaten/Ordner verschieben
+----------------------------
+
+Wenn ein Ordner oder ein Metadatensatz in der Ordnerstruktur angeklickt wird, während die Steuerungstaste gedrückt gehalten wird, erscheinen Kontrollkästchen vor den jeweiligen Ordnern oder Metadaten. Der Ordner oder Metadatensatz kann dann mit einem Haken markiert werden und durch Ziehen mit der linken Maustaste innerhalb der Ordnerstruktur verschoben werden. 
+
+.. figure:: ../../img/ige/allgemein/auswahl_ordner_drag-drop.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Auswahl - per Drag and Drop verschieben
+
+Dies funktioniert auch mit aktiviertem Kontrollkästchen "Auswahl" unterhalb der Symbolleiste. Dann erscheinen Kontrollkästchen für die Auswahl vor den Ordnern und Metadaten. 
+
+
+.. figure:: ../../img/ige/allgemein/auswahl_metadaten.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Auswahl - Kontrollkästchen
+
+
+Bei aktiviertem Kontrollkästchen "Auswahl" erscheint das Wort "Alle". Wenn hier ein Haken gesetzt wird, werden alle Ordner und Metadaten mit einem Haken im Kontrollkästchen versehen.
+
+
+.. figure:: ../../img/ige/allgemein/auswahl_alle.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Auswahl - Kontrollkästchen  für "Alle"
+
+
+Zur Beendigung der Auswahl muss das Kreuz im Kontrollkästchen unterhalb der Symbolleiste angeklickt werden.
+
+
+.. figure:: ../../img/ige/allgemein/auswahl_beenden.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Auswahl - Beenden
+
+
+
 Besuchszeit ist abgelaufen (Logout)
 -----------------------------------
 
