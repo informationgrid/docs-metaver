@@ -26,7 +26,7 @@ Version der Bedienungsanleitung
 
 .. figure:: img/portal/uebersicht.png
    :align: left
-   :scale: 50
+   :scale: 40
    :figwidth: 100%
 
    Abb.: InGrid Editor - Neue Generation (IGE-NG) - Übersicht
