@@ -7,7 +7,7 @@ Dokument
     :header: "Portal", "Editor"
     :widths: 20, 20
 
-	 .. image:: ../../../img/ige/icons/datensatztypen/portal/literatur.png, .. image:: ../../../img/ige/icons/datensatztypen/ige/literatur.png
+	 .. image:: ../../../img/ige/icons/datensatztypen/portal/dokument.png, .. image:: ../../../img/ige/icons/datensatztypen/ige/dokument.png
 
 Mit dem Datensatztyp Literatur können Leitfäden, Handlungsempfehlungen, Berichte, Gutachten, Studien, Genehmigungen, Rechtsdokumente, Broschüren, Bücher, Aufsätze oder Dissertationen beschrieben werden.
 
