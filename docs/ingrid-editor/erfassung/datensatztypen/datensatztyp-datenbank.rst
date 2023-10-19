@@ -7,9 +7,9 @@ Datenbank
     :header: "Portal", "Editor"
     :widths: 20, 20
 
-	 .. image:: ../../../img/ige/icons/datensatztypen/portal/datensammlung.png, .. image:: ../../../img/ige/icons/datensatztypen/ige/datensammlung.png
+	 .. image:: ../../../img/ige/icons/datensatztypen/portal/datensammlung.png, .. image:: ../../../img/ige/icons/datensatztypen/ige/datenbank.png
 
-Der Datensatztyp "Datensammlung" beschreibt gemessene, aufbereitete oder erhobene Daten. Dies können Messdaten, statistische Erhebungen, Modelldaten oder Anlagendaten sein. Dies betrifft Dienste und Anwendungen, Informationssysteme, die in der Regel auf eine oder mehrere Datenbanken zugreifen, um die enthaltenen Daten zugänglich zu machen.
+Der Datensatztyp "Datenbank" beschreibt gemessene, aufbereitete oder erhobene Daten. Dies können Messdaten, statistische Erhebungen, Modelldaten oder Anlagendaten sein. Dies betrifft Dienste und Anwendungen, Informationssysteme, die in der Regel auf eine oder mehrere Datenbanken zugreifen, um die enthaltenen Daten zugänglich zu machen.
 
 .. note:: Die Erfassung dieser Objektklasse erfolgt wie unter `Erfassung von Objekten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html>`_ beschrieben. Der hier beschriebene Abschnitt Fachbezug enthält spezielle Eingabefelder für diesen Datensatztyp.
 
@@ -22,7 +22,7 @@ Abschnitt Fachbezug
 Feld: Objektartenkatalog
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_datensammlung/fachbezug_objektartenkatalog.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_datenbank/fachbezug_objektartenkatalog.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -37,12 +37,12 @@ Beispiel:  Biotoptypenschlüssel Hamburg (tt.mm.jjjj), Version (xx.xx)
 Feld: Inhalte der Datensammlung/Datenbank
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_datensammlung/fachbezug_inhalt.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_datenbank/fachbezug_inhalt.png
    :align: left
    :scale: 50
    :figwidth: 100%
 
-Abb.: Felder für Inhalte der Datensammlung
+Abb.: Felder für Inhalte der Datensammlung/Datenbank
 
 
 Feld: Parameter
@@ -64,7 +64,7 @@ Beispiel: Grenzwert 100/1 ml
 Feld: Methode / Datengrundlage
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_datensammlung/fachbezug_methode.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_datenbank/fachbezug_methode.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -79,7 +79,7 @@ Beispiel: kontinuierliche Messungen in vollautomatischen Messstationen
 Feld: Erläuterungen
 ^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_datensammlung/fachbezug_erlaeuterungen.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_datenbank/fachbezug_erlaeuterungen.png
    :align: left
    :scale: 50
    :figwidth: 100%

@@ -7,9 +7,9 @@ Anwendung
     :header: "Portal", "Editor"
     :widths: 20, 20
 
-    .. image:: ../../../img/ige/icons/datensatztypen/portal/informationssystem.png, .. image:: ../../../img/ige/icons/datensatztypen/ige/informationssystem.png
+    .. image:: ../../../img/ige/icons/datensatztypen/portal/anwendung.png, .. image:: ../../../img/ige/icons/datensatztypen/ige/anwendung.png
 
-Mit dem Datensatztyp Informationssystem können Softwareprodukte, Webanwendungen oder zentrale Auskunfts- und Informationssysteme im Metadatenkatalog beschrieben werden.
+Mit dem Datensatztyp Anwendung können Softwareprodukte, Webanwendungen oder zentrale Auskunfts- und Anwendunge im Metadatenkatalog beschrieben werden.
 
 .. note:: Die Erfassung dieser Objektklasse erfolgt wie unter `Erfassung von Objekten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_erfassung/erfassung-objekte.html>`_ beschrieben. Der hier beschriebene Abschnitt Fachbezug enthält spezielle Eingabefelder für diesen Datensatztyp.
 
@@ -23,7 +23,7 @@ Abschnitt Fachbezug
 Feld: Art des Dienstes
 ^^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_informationssystem/fachbezug_dienstart.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_anwendung/fachbezug_dienstart.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -36,7 +36,7 @@ Bitte wählen Sie in diesem Feld die Art des Dienstes aus.
 Folgende Einstellungen sind möglich: 
 
   - Anwendung
-  - Informationssystem
+  - Anwendung
   - nicht geographischer Dienst
 
  
@@ -44,7 +44,7 @@ Folgende Einstellungen sind möglich:
 Feld: Version
 ^^^^^^^^^^^^^
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_informationssystem/fachbezug_version.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_anwendung/fachbezug_version.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -59,7 +59,7 @@ Version des Dienstes. Bitte geben Sie alle unterstützten Versionen des Dienstes
 Weitere Informationen
 ^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_informationssystem/fachbezug_weitere-angaben.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_anwendung/fachbezug_weitere-angaben.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -117,14 +117,14 @@ Beispiel:
 Feld: Basisdaten
 """"""""""""""""
 
-Beschreibung Herkunft und Art der zugrundeliegenden Daten. Im Allgemeinen sind dies die Datensätze, auf denen der Dienst basiert. Im Allgemeinen sollte die Herkunft oder der Ursprung der Daten beschrieben werden, die in dem Dienst, der Anwendung oder dem Informationssystem verwendet, gespeichert, angezeigt oder weiterverarbeitet werden. Zusätzlich kann die Art der Daten (z. B. numerisch, automatisch oder aus Erhebungsergebnissen gewonnen, Primärdaten, fehlerbereinigte Daten) angegeben werden.
+Beschreibung Herkunft und Art der zugrundeliegenden Daten. Im Allgemeinen sind dies die Datensätze, auf denen der Dienst basiert. Im Allgemeinen sollte die Herkunft oder der Ursprung der Daten beschrieben werden, die in dem Dienst, der Anwendung oder dem Anwendung verwendet, gespeichert, angezeigt oder weiterverarbeitet werden. Zusätzlich kann die Art der Daten (z. B. numerisch, automatisch oder aus Erhebungsergebnissen gewonnen, Primärdaten, fehlerbereinigte Daten) angegeben werden.
 
-Beispiel: Das Informationssystem enthält Umwelt- und Geodaten der öffentlichen Verwaltung.
+Beispiel: Das Anwendung enthält Umwelt- und Geodaten der öffentlichen Verwaltung.
 
 
 **Feld: Erläuterungen**
 
-Zusätzliche Anmerkungen zu dem beschriebenen Dienst, der Anwendung oder dem Informationssystem. Hier können zusätzliche Informationen, z.B. technischer Art, gegeben werden, die für das Verständnis des Dienstes, der Anwendung, des Informationssystems erforderlich sind.
+Zusätzliche Anmerkungen zu dem beschriebenen Dienst, der Anwendung oder dem Anwendung. Hier können zusätzliche Informationen, z.B. technischer Art, gegeben werden, die für das Verständnis des Dienstes, der Anwendung, des Anwendungs erforderlich sind.
 
 Beispiel: Die erfassten Daten werden über den Suchdienst Catalogue Service for the Web (CSW) an andere Datenbanken/Portale übergeben.
 
@@ -132,7 +132,7 @@ Beispiel: Die erfassten Daten werden über den Suchdienst Catalogue Service for 
 Feld: Service-URLs
 ^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_informationssystem/fachbezug_service-url.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_anwendung/fachbezug_service-url.png
    :align: left
    :scale: 50
    :figwidth: 100%
