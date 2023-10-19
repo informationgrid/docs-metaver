@@ -57,7 +57,7 @@ Abb.: InGrid - Ordnersymbol im Eingabeformular
    :scale: 50
    :figwidth: 100%
    
-Abb.: InGrid Editor - Aufbau der Ordnerstruktur
+Abb.: InGrid Editor - Aufbau der Ordnerstruktur (Beispiel)
 
 
 .. figure:: ../../img/ige/allgemein/ordner.png
