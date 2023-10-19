@@ -80,7 +80,7 @@ Im InGrid-Editor gibt es verschiedene Arten von Metadaten oder Adressestypen.
 
 .. figure:: ../../img/ige/allgemein/icons-metadaten.png
    :align: left
-   :scale: 50
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Metadatentypen in der Ordnerstruktur
@@ -90,7 +90,7 @@ Abb.: Metadatentypen in der Ordnerstruktur
 
 .. figure:: ../../img/ige/allgemein/icons-adressen.png
    :align: left
-   :scale: 50
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Adresstypen in der Ordnerstruktur
