@@ -37,9 +37,8 @@ breitgestellt für die Installation (IGE Classic)
 
 **Historie der Versionen (IGE-NG)**
 
-Version: 1.6.0, 17.10.2023
-Version: 1.5.1-36, 26.09.2023
-
+| Version: 1.6.0, 17.10.2023
+| Version: 1.5.1-36, 26.09.2023
 - IGE: Migration IGE (Classic) auf IGE-NG
 
 --------------------------------------------------------------------------------------------------------------
