@@ -7,7 +7,7 @@ Datenbank
     :header: "Portal", "Editor"
     :widths: 20, 20
 
-	 .. image:: ../../../img/ige/icons/datensatztypen/portal/datensammlung.png, .. image:: ../../../img/ige/icons/datensatztypen/ige/datenbank.png
+	 .. image:: ../../../img/ige/icons/datensatztypen/portal/datenbank.png, .. image:: ../../../img/ige/icons/datensatztypen/ige/datenbank.png
 
 Der Datensatztyp "Datenbank" beschreibt gemessene, aufbereitete oder erhobene Daten. Dies können Messdaten, statistische Erhebungen, Modelldaten oder Anlagendaten sein. Dies betrifft Dienste und Anwendungen, Informationssysteme, die in der Regel auf eine oder mehrere Datenbanken zugreifen, um die enthaltenen Daten zugänglich zu machen.
 
