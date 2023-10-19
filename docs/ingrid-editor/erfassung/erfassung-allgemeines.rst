@@ -572,6 +572,16 @@ Wenn ein Ordner oder ein Metadatensatz in der Ordnerstruktur angeklickt wird, w�
 
 Abb.: Auswahl - per Drag and Drop verschieben
 
+
+Die markierten Ordner und Metadaten können auch über das Symbol in der Symbolleiste verschoben oder kopiert werden.
+
+.. figure:: ../../img/ige/allgemein/auswahl_verschieben-kopieren.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Verschieben / Kopieren
+
 Dies funktioniert auch mit aktiviertem Kontrollkästchen "Auswahl" unterhalb der Symbolleiste. Dann erscheinen Kontrollkästchen für die Auswahl vor den Ordnern und Metadaten. 
 
 
