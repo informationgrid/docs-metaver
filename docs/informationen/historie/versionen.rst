@@ -9,29 +9,8 @@ Bedienungsanleitung (IGE-NG AP5) Version
 
 --------------------------------------------------------------------------------------------------------------
 
-IGE-NG AP5 - Demo- und Testversion mit Migrationsdaten
-  - InGrid Editor-Version: 1.5.1-28, 16.10.2023, 15:07
-
-
-IGE-NG AP5 - Entwicklungsversion
-  - InGrid Editor-Version: 1.5.1-28, 16.10.2023, 15:07
-
---------------------------------------------------------------------------------------------------------------
-
-auf metaver.de (IGE Classic)
-  - InGrid Portal-Version: 6.2.0.2
-  - InGrid Editor-Version: 6.1.0
-
-
-auf test.metaver.de (IGE Classic)
-  - InGrid Portal-Version: 6.2.0.2
-  - InGrid Editor-Version: 6.1.0
-
---------------------------------------------------------------------------------------------------------------
-
-breitgestellt für die Installation (IGE Classic)
-  - InGrid Portal-Version: 6.2.0.2
-  - InGrid Editor-Version: 6.1.0
+IGE-NG Testversion mit Migrationsdaten
+  - InGrid Editor-Version: 1.5.1-28, 16.10.2023, 15:07 
 
 --------------------------------------------------------------------------------------------------------------
 
