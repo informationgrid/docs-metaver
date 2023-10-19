@@ -584,6 +584,13 @@ Abb.: Verschieben / Kopieren
 
 Dies funktioniert auch mit aktiviertem Kontrollkästchen "Auswahl" unterhalb der Symbolleiste. Dann erscheinen Kontrollkästchen für die Auswahl vor den Ordnern und Metadaten. 
 
+.. figure:: ../../img/ige/allgemein/auswahl.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Kontrollkästchen "Auswahl"
+
 
 .. figure:: ../../img/ige/allgemein/auswahl_metadaten.png
    :align: left
