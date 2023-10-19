@@ -22,7 +22,7 @@ Der First Level Support wird kontaktiert, wenn das Kontaktformular versendet wir
 
 **Second Level Support**
 
-Wenn das Kontaktformular ohne Angabe eines Bundeslandes versendet und dabei die Option "Ich habe eine technische Frage zur Website oder möchte eine Störung melden." ausgewählt wird, wird der Second Level Support kontaktiert. Die Nachricht wird dann an die Software-Entwickler der Firma wemove digital solutions gmbh weitergeleitet. Die Nachricht wird dann an die Software-Entwickler der Firma wemove digital solutions gmbh weitergeleitet.
+Wenn das Kontaktformular ohne Angabe eines Bundeslandes versendet und dabei die Option "Ich habe eine technische Frage zur Website oder möchte eine Störung melden." ausgewählt wird, wird der Second Level Support kontaktiert. Die Nachricht wird dann an die Software-Entwickler der Firma wemove digital solutions gmbh weitergeleitet.
 
 **Gruppen in den Bundesländern**
 
