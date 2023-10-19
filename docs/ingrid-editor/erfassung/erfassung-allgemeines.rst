@@ -560,7 +560,7 @@ Abb.: Metadaten - Metainformationen anzeigen
 Abb.: Metadaten - Metainformationen  - Metadaten
 
 
-Metadaten/Ordner verschieben
+Ordner/Metadaten verschieben
 ----------------------------
 
 Wenn ein Ordner oder ein Metadatensatz in der Ordnerstruktur angeklickt wird, während die Steuerungstaste gedrückt gehalten wird, erscheinen Kontrollkästchen vor den jeweiligen Ordnern oder Metadaten. Der Ordner oder Metadatensatz kann dann mit einem Haken markiert werden und durch Ziehen mit der linken Maustaste innerhalb der Ordnerstruktur verschoben werden. 
