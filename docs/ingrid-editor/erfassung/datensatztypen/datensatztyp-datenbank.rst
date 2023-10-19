@@ -1,7 +1,7 @@
 
-=============
-Datensammlung
-=============
+=========
+Datenbank
+=========
 
 .. csv-table::
     :header: "Portal", "Editor"

@@ -1,7 +1,7 @@
 
-==================
-Informationssystem
-==================
+=========
+Anwendung
+=========
 
 .. csv-table::
     :header: "Portal", "Editor"
