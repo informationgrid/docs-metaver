@@ -24,7 +24,7 @@ Feld: Autor/Verfasser
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_autor-verfasser.png
    :align: left
-   :scale: 80
+   :scale: 90
    :figwidth: 100%
 
 Abb.: Textfeld - Autor/Verfasser
@@ -41,7 +41,7 @@ Feld: Herausgeber
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_herausgeber.png
    :align: left
-   :scale: 80
+   :scale: 90
    :figwidth: 100%
 
 Abb.: Eingabezeile - Herausgeber
@@ -59,7 +59,7 @@ Felder: Erscheinung
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_erscheinung.png
    :align: left
-   :scale: 80
+   :scale: 90
    :figwidth: 100%
 
 Abb.: Felder Erscheinung
@@ -112,7 +112,7 @@ Feld: Standort
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_standort.png
    :align: left
-   :scale: 80
+   :scale: 90
    :figwidth: 100%
 
 Abb.: Textfeld - Standort
@@ -127,7 +127,7 @@ Feld: ISBN-Nr.
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_isbn.png
    :align: left
-   :scale: 80
+   :scale: 90
    :figwidth: 100%
 
 Abb.: Eingabezeile - ISBN-Nr.
@@ -143,7 +143,7 @@ Feld: Verlag
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_verlag.png
    :align: left
-   :scale: 80
+   :scale: 90
    :figwidth: 100%
 
 Abb.: Eingabezeile - Verlag
@@ -158,7 +158,7 @@ Feld: Dokumententyp
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_dokumententyp.png
    :align: left
-   :scale: 80
+   :scale: 90
    :figwidth: 100%
 
 Abb.: Auswahlfeld - Dokumententyp
@@ -174,7 +174,7 @@ Feld: Basisdaten
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_basisdaten.png
    :align: left
-   :scale: 80
+   :scale: 90
    :figwidth: 100%
 
 Abb.: Textfeld - Basisdaten
@@ -188,7 +188,7 @@ Feld: Weiteres
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_weiteres.png
    :align: left
-   :scale: 80
+   :scale: 90
    :figwidth: 100%
 
 Abb.: Textfelder für weitere bibliographische Angaben
