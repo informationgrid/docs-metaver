@@ -526,7 +526,7 @@ Für diese Option müssen in den Bundesländern Regelungen getroffen werden, die
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichung_zurueckziehen.png
    :align: left
-   :scale: 70
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Abfrage ob die Veröffentlichung wirklich zurückgezogen werden soll
@@ -534,7 +534,7 @@ Abb.: Abfrage ob die Veröffentlichung wirklich zurückgezogen werden soll
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichung_zurueckgezogen.png
    :align: left
-   :scale: 80
+   :scale: 100
    :figwidth: 100%
 
 Abb.: Die Veröffentlichung für diesen Datensatz wurde zurückgezogen.
