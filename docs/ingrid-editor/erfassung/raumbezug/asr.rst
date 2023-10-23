@@ -13,7 +13,7 @@ wfs_gnde - steht für Geographische Namen Deutschlands es handelt sich um einen 
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/ars/raumbezug-hinzufuegen_ars.png
    :align: left
-   :scale: 80
+   :scale: 100
    :figwidth: 100%
 
 Abb.: Angabe des ARS
@@ -21,7 +21,7 @@ Abb.: Angabe des ARS
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/ars/ars_hamburg.png
    :align: left
-   :scale: 80
+   :scale: 100
    :figwidth: 100%
 
 Abb.: Beispiel: ARS Hamburg 02 mit Geo-Thesaurus (wfs_gnde, BKG Dienst)
