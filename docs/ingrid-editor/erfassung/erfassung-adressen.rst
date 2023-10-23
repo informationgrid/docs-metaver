@@ -7,7 +7,7 @@ Für eine effiziente Adressverwaltung empfiehlt es sich, hierarchische Strukture
 
 .. figure:: ../../img/ige/adressen/struktur.png
    :align: left
-   :scale: 70
+   :scale: 100
    :figwidth: 100%
 
 Abb.: Anlegen einer Adressstruktur
