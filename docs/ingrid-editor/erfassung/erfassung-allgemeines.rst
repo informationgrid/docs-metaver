@@ -491,7 +491,7 @@ Abb.: Funktion Veröffentlichung planen - Angabe eines Datums
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichen_planen_meldung.png
    :align: left
-   :scale: 90
+   :scale: 100
    :figwidth: 100%
 
 Abb.: Meldung für die geplante Veröffentlichung
