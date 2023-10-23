@@ -483,7 +483,7 @@ Datensätze können in Zukunft veröffentlicht werden. Nach der Validierung wird
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichen_planen.png
    :align: left
-   :scale: 50
+   :scale: 100
    :figwidth: 100%
 
 Abb.: Funktion Veröffentlichung planen - Angabe eines Datums
@@ -491,7 +491,7 @@ Abb.: Funktion Veröffentlichung planen - Angabe eines Datums
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichen_planen_meldung.png
    :align: left
-   :scale: 50
+   :scale: 100
    :figwidth: 100%
 
 Abb.: Meldung für die geplante Veröffentlichung
@@ -499,7 +499,7 @@ Abb.: Meldung für die geplante Veröffentlichung
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichung_abgebrochen.png
    :align: left
-   :scale: 80
+   :scale: 100
    :figwidth: 100%
 
 Abb.: Meldung für: VERÖFFENTLICHUNG ABBRECHEN UND DATENSATZ BEARBEITEN
