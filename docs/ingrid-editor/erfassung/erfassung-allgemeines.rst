@@ -483,7 +483,7 @@ Datensätze können in Zukunft veröffentlicht werden. Nach der Validierung wird
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichen_planen.png
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Funktion Veröffentlichung planen - Angabe eines Datums
