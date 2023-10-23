@@ -17,7 +17,7 @@ Der Metaver-Kartenclient enthält eine Auswahl an unterschiedlichen Basiskarten.
 
 .. figure:: ../../img/kartenclient/metaver_verfuegbare-kartendienste.png
    :align: left
-   :scale: 50
+   :scale: 100
    :figwidth: 100%
 
 Abb.: METAVER-Kartenclient - Verfügbare Basiskarten
