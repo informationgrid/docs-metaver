@@ -88,7 +88,7 @@ Soll ein vorhandener Eintrag unter Kommunikation entfernt werden, ist es erforde
 
 .. figure:: ../../img/ige/adressen/eingabefelder-loeschen.png
    :align: left
-   :scale: 100
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Zeile löschen
