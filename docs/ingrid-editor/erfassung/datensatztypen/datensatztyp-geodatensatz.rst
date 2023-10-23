@@ -234,7 +234,7 @@ Die Kopplung der Daten erfolgt in einem Geodatendienst. Der gekoppelte Dienst wi
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_darstellender-dienst.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
  
 Abb.: Feld Darstellender Dienst
