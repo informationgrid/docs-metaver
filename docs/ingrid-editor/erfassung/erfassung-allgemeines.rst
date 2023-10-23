@@ -362,7 +362,7 @@ Im InGrid Editor gibt es zwei Speicheroptionen: "Speichern" speichert den bearbe
 
 .. figure:: ../../img/ige/allgemein/speichern.png
    :align: left
-   :scale: 50
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Speichern
@@ -373,7 +373,7 @@ Mit dem abschließenden "VERÖFFENTLICHEN" werden die Daten für das Internet fr
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichen.png
    :align: left
-   :scale: 50
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Veröffentlichen
@@ -406,7 +406,7 @@ Zeitgesteuerte Veröffentlichung
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichen.png
    :align: left
-   :scale: 50
+   :scale: 60
    :figwidth: 100%
    
 Abb.: VERÖFFENTLICHEN
@@ -433,7 +433,7 @@ Das Veröffentlichungsdatum wird danach im Kopfbereich des Datensatzes angezeigt
 
 .. figure:: ../../img/ige/allgemein/anzeige-veroeffentlichung.png
    :align: left
-   :scale: 80
+   :scale: 90
    :figwidth: 100%
 
 Abb.: Kopfbereich der Eingabemaske - Anzeige des Veröffentlichungsdatums
@@ -449,7 +449,7 @@ Rechts neben VERÖFFENTLICHEN befindet sich der Button für verschiedene Optione
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichung_planen.png
    :align: left
-   :scale: 50
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Fenster mit Optionen für die Veröffentlichung
@@ -462,7 +462,7 @@ Der Button "Veröffentlichen" und die Option "Jetzt veröffentlichen" haben dies
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichung.png
    :align: left
-   :scale: 50
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Dialogfenster - Auswahl für Veröffentlichungsvarianten
@@ -499,7 +499,7 @@ Abb.: Meldung für die geplante Veröffentlichung
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichung_abgebrochen.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Meldung für: VERÖFFENTLICHUNG ABBRECHEN UND DATENSATZ BEARBEITEN
@@ -513,7 +513,7 @@ Wenn ein Metadatensatz veröffentlicht und danach geändert und gespeichert wurd
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichung_auf-letzte-veroeffentlichung-zuruecksetzen.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Auf letzte Veröffentlichung zurücksetzen
@@ -526,7 +526,7 @@ Für diese Option müssen in den Bundesländern Regelungen getroffen werden, die
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichung_zurueckziehen.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Abfrage ob die Veröffentlichung wirklich zurückgezogen werden soll
@@ -534,7 +534,7 @@ Abb.: Abfrage ob die Veröffentlichung wirklich zurückgezogen werden soll
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichung_zurueckgezogen.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Die Veröffentlichung für diesen Datensatz wurde zurückgezogen.
@@ -546,7 +546,7 @@ Metadaten anzeigen
 
 .. figure:: ../../img/ige/allgemein/kopf_metadaten-anzeigen.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Metadaten - Metainformationen anzeigen
@@ -554,7 +554,7 @@ Abb.: Metadaten - Metainformationen anzeigen
 
 .. figure:: ../../img/ige/allgemein/kopf_metadaten-ansicht.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Metadaten - Metainformationen  - Metadaten
@@ -567,7 +567,7 @@ Wenn ein Ordner oder ein Metadatensatz in der Ordnerstruktur angeklickt wird, w�
 
 .. figure:: ../../img/ige/allgemein/auswahl_ordner_drag-drop.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Auswahl - per Drag and Drop verschieben
@@ -594,7 +594,7 @@ Abb.: Kontrollkästchen "Auswahl"
 
 .. figure:: ../../img/ige/allgemein/auswahl_metadaten.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Auswahl - Kontrollkästchen
@@ -632,7 +632,7 @@ Wenn der Editor für eine längere Zeit (30 Minuten) nicht genutzt wird, läuft 
 
 .. figure:: ../../img/ige/allgemein/editor_countdown.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Countdown für den Logout und "Session-refresh-Button"
@@ -640,7 +640,7 @@ Abb.: Countdown für den Logout und "Session-refresh-Button"
 
 .. figure:: ../../img/ige/allgemein/fehler_timeout.png
    :align: left
-   :scale: 50
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Meldung - Besuchszeit abgelaufen
