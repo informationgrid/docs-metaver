@@ -7,7 +7,7 @@ https://metaver.de/kontakt
 
 **Ticketsystem Zammad**
 
-Hinter dem Kontaktformular von METAVER verbirgt sich das Ticketsystem Zammad, das es ermöglicht, Anfragen verschiedenen Personen zuzuordnen. Dabei kommen unterschiedliche Support-Level zum Einsatz.
+Das Kontaktformular von METAVER führt zum Ticketsystem Zammad, das es erlaubt, Anfragen an verschiedene Personen zu verteilen. Dabei werden unterschiedliche Support-Level genutzt.
 
 **Support-Level**
 
