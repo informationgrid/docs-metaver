@@ -8,7 +8,7 @@ Um einem neuen Benutzer passende Rechte für den InGrid-Editor zuzuweisen, muss 
 
 .. figure:: ../../../img/ige/administration/benutzerverwaltung/gruppenberechtigung.png
    :align: left
-   :scale: 40
+   :scale: 100
    :figwidth: 100%
 
 Abb.: Benutzer Gruppenberechtigung zuordnen
@@ -21,7 +21,7 @@ Durch Anklicken des "HINZUFÜGEN"-Buttons wird ein Dialogfenster geöffnet.
 
 .. figure:: ../../../img/ige/administration/benutzerverwaltung/hinzufuegen.png
    :align: left
-   :scale: 60
+   :scale: 50
    :figwidth: 100%
 
 Abb.: Button "HINZUFÜGEN"
@@ -35,7 +35,7 @@ Feld Login
 
 .. figure:: ../../../img/ige/administration/benutzerverwaltung/benutzer-hinzufuegen.png
    :align: left
-   :scale: 60
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Dialogfenster - Benutzer hinzufügen
@@ -46,7 +46,7 @@ Feld Rolle
 
 .. figure:: ../../../img/ige/administration/benutzerverwaltung/rolle-zuweisen.png
    :align: left
-   :scale: 60
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Rolle zuweisen
@@ -67,7 +67,7 @@ Nachdem alle Felder im Dialogfenster ausgefüllt wurden, muss der Button "ANLEGE
 
 .. figure:: ../../../img/ige/administration/benutzerverwaltung/gruppe-zuweisen.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Gruppe zuweisen
