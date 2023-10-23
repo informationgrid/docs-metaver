@@ -13,7 +13,7 @@ wfs_gnde - steht für Geographische Namen Deutschlands es handelt sich um einen 
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/ars/raumbezug-hinzufuegen_ars.png
    :align: left
-   :scale: 40
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Angabe des ARS
@@ -21,7 +21,7 @@ Abb.: Angabe des ARS
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/ars/ars_hamburg.png
    :align: left
-   :scale: 40
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Beispiel: ARS Hamburg 02 mit Geo-Thesaurus (wfs_gnde, BKG Dienst)
@@ -43,7 +43,7 @@ Der ARS ist wie folgt aufgebaut:
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/ars/ars_dargun.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Beispiel: ARS Dargun (MV) 130710027027
@@ -57,7 +57,7 @@ Abb.: Beispiel: ARS Dargun (MV) 130710027027
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/ars/ars_darmstadt.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Beispiel: ARS Darmstadt (HE) 064110000000
