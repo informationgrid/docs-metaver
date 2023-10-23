@@ -299,7 +299,7 @@ Es sind mindestens zwei Adressen anzugeben:
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/adressen_anlegen.png
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Verknüpfung des Metadatensatzes mit Adressdatensätzen
@@ -309,7 +309,7 @@ Abb.: Verknüpfung des Metadatensatzes mit Adressdatensätzen
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/adressen_bearbeiten.png
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Adressen bearbeiten
