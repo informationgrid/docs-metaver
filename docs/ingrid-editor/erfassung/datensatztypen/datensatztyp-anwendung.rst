@@ -25,7 +25,7 @@ Feld: Art des Dienstes
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_anwendung/fachbezug_dienstart.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Auswahlfeld - Art des Dienstes
@@ -46,7 +46,7 @@ Feld: Version
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_anwendung/fachbezug_version.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 
@@ -61,7 +61,7 @@ Weitere Informationen
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_anwendung/fachbezug_weitere-angaben.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Textfelder für weitere Informationen
@@ -134,7 +134,7 @@ Feld: Service-URLs
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_anwendung/fachbezug_service-url.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Felder - Service-URLs
