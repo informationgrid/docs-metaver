@@ -24,7 +24,7 @@ Feld: Beteiligte
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_projekt/fachbezug_beteiligte.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Beispiel - Angabe von Personen oder Organisationen
@@ -37,7 +37,7 @@ Feld: Projektleiter
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_projekt/fachbezug_projektleiter.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Beispiel - Angabe des Projektleiters
@@ -50,7 +50,7 @@ Feld: Erläuterungen
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_projekt/fachbezug_erlaeuterungen.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Textfeld für Erläuterungen
