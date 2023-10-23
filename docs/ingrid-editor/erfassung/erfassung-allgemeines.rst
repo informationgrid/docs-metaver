@@ -462,7 +462,7 @@ Der Button "Veröffentlichen" und die Option "Jetzt veröffentlichen" haben dies
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichung.png
    :align: left
-   :scale: 60
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Dialogfenster - Auswahl für Veröffentlichungsvarianten
@@ -470,7 +470,7 @@ Abb.: Dialogfenster - Auswahl für Veröffentlichungsvarianten
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichen_meldung.png
    :align: left
-   :scale: 50
+   :scale: 100
    :figwidth: 100%
 
 Abb.: Meldung: Das Dokument wurde veröffentlicht
