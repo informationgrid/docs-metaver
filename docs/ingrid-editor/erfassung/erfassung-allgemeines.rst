@@ -546,15 +546,15 @@ Metadaten anzeigen
 
 .. figure:: ../../img/ige/allgemein/kopf_metadaten-anzeigen.png
    :align: left
-   :scale: 70
+   :scale: 100
    :figwidth: 100%
 
-Abb.: Metadaten - Metainformationen anzeigen
+Abb.: Metadaten - Menü für Metainformationen anzeigen
 
 
 .. figure:: ../../img/ige/allgemein/kopf_metadaten-ansicht.png
    :align: left
-   :scale: 70
+   :scale: 100
    :figwidth: 100%
 
 Abb.: Metadaten - Metainformationen  - Metadaten
