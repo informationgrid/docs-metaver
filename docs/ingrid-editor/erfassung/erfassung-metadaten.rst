@@ -12,7 +12,7 @@ Für eine übersichtliche Verwaltung der Metadatensätze können hierarchische S
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/strukturbaum/ordner.png
    :align: left
-   :scale: 40
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Ordnerstruktur
@@ -32,7 +32,7 @@ Nachdem der neue Metadatensatz angelegt wurde, kann er über die Funktion "Speic
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/symbolleiste/speichern.png
    :align: left
-   :scale: 50
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Symbolleiste -  Speichern
@@ -41,7 +41,7 @@ Wenn alle Pflichtfelder und alle erforderlichen optionalen Felder ausgefüllt si
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/symbolleiste/veroeffentlichen.png
    :align: left
-   :scale: 50
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Symbolleiste -  Veröffentlichen
@@ -77,7 +77,7 @@ Angabe einer kurzen prägnanten Bezeichnung. Soweit ein gängiges Kürzel vorhan
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/titel.png
    :align: left
-   :scale: 50
+   :scale: 90
    :figwidth: 100%
 
 Abb.: Titel eines Metadatensatzes
@@ -101,7 +101,7 @@ Wird der Pfeil nach unten betätigt, öffnen sich die Metadaten des Datensatzes.
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/metadaten.png
    :align: left
-   :scale: 40
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Metadaten des Datensatzes
@@ -133,7 +133,7 @@ Wird das Dreipunktemenü betätigt, öffnet sich die Optionen: Veröffentlichung
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/option_veroeffentlichungsrecht_setzen.png
    :align: left
-   :scale: 50
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Option Veröffentlichungsrecht setzen ...
@@ -166,7 +166,7 @@ Datensatztypen mit den entsprechenden Optionen:
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/optionen.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Optionen
@@ -182,7 +182,7 @@ Feld: Identifikator des übergeordneten Metadatensatzes
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/identifikator-des-uebergeordneten-datensatzes.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Identifikator des übergeordneten Metadatensatzes
@@ -195,7 +195,7 @@ Feld: Kurzbezeichnung
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/kurzbezeichnung.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Kurzbezeichnung
@@ -206,14 +206,14 @@ Angabe einer Kurzbezeichnung für ein Objekt.
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/titel.png
    :align: left
-   :scale: 50
+   :scale: 90
    :figwidth: 100%
 
 Abb.: Beispiel Portalansicht in METAVER - Titel
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/kurzbezeichnung_beispiel.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Beispiel Portalansicht in METAVER - Kurzbezeichnung
@@ -224,7 +224,7 @@ Feld: Beschreibung
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/beschreibung.png
    :align: left
-   :scale: 40
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Eingabefeld für die Beschreibung
@@ -239,7 +239,7 @@ Feld: Vorschaugrafik
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/vorschaugrafik.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Vorschaugrafik hochladen oder Link angeben
@@ -249,7 +249,7 @@ Grafik (-en) zu zum bereitgestellten Dateninhalt (einschließlich Legenden) hoch
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/vorschaugrafik_editor.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Vorschaugrafiken im InGrid Editor
@@ -279,7 +279,7 @@ Abb.: Ausgabegröße einer Vorschaugrafik in der METAVER Portalausgabe
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/vorschaugrafik_portalausgabe.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Beispiel - MV 344x245 px - Vorschaugrafik in der METAVER Portalausgabe
@@ -299,7 +299,7 @@ Es sind mindestens zwei Adressen anzugeben:
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/adressen_anlegen.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Verknüpfung des Metadatensatzes mit Adressdatensätzen
@@ -309,7 +309,7 @@ Abb.: Verknüpfung des Metadatensatzes mit Adressdatensätzen
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/adressen_bearbeiten.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Adressen bearbeiten
@@ -327,7 +327,7 @@ Abschnitt Verschlagwortung
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-03_verschlagwortung/verschlagwortung.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Felder für eine einfache Verschlagwortung
@@ -441,7 +441,7 @@ Im Raumbezugssystem einen Raumbezug hinzufügen - In der Karte auf das blaue Kre
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug.png
    :align: left
-   :scale: 30
+   :scale: 90
    :figwidth: 100%
 
 Abb.: Raumbezug hinzufügen
@@ -451,7 +451,7 @@ Suchen Sie nach einem Gebiet oder Ort und wählen Sie aus der angezeigten Liste 
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_ort.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Raumbezug-Typ - Freie Eingabe - Suche nach Orten
@@ -459,7 +459,7 @@ Abb.: Raumbezug-Typ - Freie Eingabe - Suche nach Orten
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/kartenviewer_symbole.png
    :align: left
-   :scale: 50
+   :scale: 90
    :figwidth: 100%
 
 Abb.: Symbole im Kartenviewer
@@ -482,7 +482,7 @@ Die Symbole im Kartenviewer haben folgende Bedeutung:
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_typ.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Raumbezug Typen
@@ -495,7 +495,7 @@ Im Hintergrund arbeitet hier Nominatim, ein OpenStreetMap Werkzeug zum Auffinden
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_freier.png
    :align: left
-   :scale: 35
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Raumbezugtyp: Freier Raumbezug
@@ -510,7 +510,7 @@ WKT steht für Well-Known Text, dieses Feld dient der Eingabe von Geometrien. Un
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_wkt.png
    :align: left
-   :scale: 35
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Raumbezugtyp: WKT (Polygon)
@@ -523,7 +523,7 @@ wfs_gnde steht für Geographische Namen und ist ein Gazetteer (Ortsverzeichnis) 
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_gnde.png
    :align: left
-   :scale: 35
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Raumbezugtyp: GN-DE mit Amtlichen Regionalschlüssel (ASR)
@@ -537,7 +537,7 @@ Den `Amtlichen Regionalschlüssel (ARS) <https://metaver-bedienungsanleitung.rea
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_optionen.png
    :align: left
-   :scale: 35
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Unterschiedliche Raumbezugtypen nach ÜBERNEHMEN in die Metadaten
@@ -558,7 +558,7 @@ Feld: Raumbezugssystem (Koordinatenreferenzsystem oder Koordinatenbezugsystem)
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_kbs.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Felde Koordinatenreferenzsystem
@@ -576,7 +576,7 @@ Höhe
 ^^^^
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_hoehe.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Felder für Höhenangaben
@@ -613,7 +613,7 @@ Feld: Erläuterungen
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_erlaeuterungen.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Feld Erläuterungen für Zusätzliche Angaben zum Raumbezu
@@ -636,7 +636,7 @@ Mit "Ressource" ist der eigentliche Datensatz gemeint, welcher mit Metadaten bes
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-07_zeitbezug/ressource.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Felder für den Zeitbezug der Ressource
@@ -651,7 +651,7 @@ Mit Ressource ist das eigentliche Objekt gemeint, welches mit Metadaten beschrie
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-07_zeitbezug/zeitspanne.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Angabe von Zeitpunkten, Zeiträumen / Zeitspannen
@@ -678,7 +678,7 @@ Feld: Status
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-07_zeitbezug/status.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Feld Status
@@ -693,7 +693,7 @@ Feld: Periodizität
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-07_zeitbezug/periodizitaet.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Feld Priodizität
@@ -708,7 +708,7 @@ Feld: Intervall der Erhebung
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-07_zeitbezug/intervall.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Feld Im Intervall der Erhebung
@@ -723,7 +723,7 @@ Feld: Erläuterungen
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-07_zeitbezug/erlaeuterungen.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Textfeld für Erläuterungen - Beispiel: Die Messungen erfolgten nur am Tag.
@@ -744,7 +744,7 @@ Feld: Sprache des Metadatensatzes
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-08_zusatzinformation/sprache-metadatensatz.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Auswahlfeld - Sprache des Metadatensatzes
@@ -757,7 +757,7 @@ Feld: Sprache der Ressource
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-08_zusatzinformation/sprache-ressource.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Auswahlfeld - Sprache der Ressource
@@ -770,7 +770,7 @@ Feld: Weitere rechtliche Grundlagen
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-08_zusatzinformation/rechtliche-grundlagen.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Auswahl-/Eingabefeld - weitere rechtliche Grundlagen
@@ -786,7 +786,7 @@ Feld: Herstellungszweck
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-08_zusatzinformation/weiteres.png
    :align: left
-   :scale: 70
+   :scale: 90
    :figwidth: 100%
 
 Abb.: Textfeld - Herstellungszweck / Eignung Nutzung
@@ -821,7 +821,7 @@ Feld: Zugriffsbeschränkungen
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-09_verfuegbarkeit/zugriffsbeschraenkungen.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Auswahl-/Eingabefeld - Zugriffsbeschränkungen
@@ -839,7 +839,7 @@ Feld: Lizenz
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-09_verfuegbarkeit/nutzungsbedingungen.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Beispiel - Nutzungsbed.: Datenlizenz Deutschland Namensnennung 2.0 / Quellvermerk: © GeoBasis-DE / BKG (Jahr des letzten Datenbezugs)
@@ -863,7 +863,7 @@ Feld: Anwendungseinschränkungen
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-09_verfuegbarkeit/anwendungseinschraenkungen.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Beispiel - Nicht für Navigationszwecke geeignet oder Registrierung erforderlich
@@ -876,7 +876,7 @@ Felder für Datenformat
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-09_verfuegbarkeit/datenformat.png
    :align: left
-   :scale: 50
+   :scale: 90
    :figwidth: 100%
 
 Abb.: Beispiel für Datenformatangaben
@@ -908,7 +908,7 @@ Felder: Medienoption
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-09_verfuegbarkeit/medienoption.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Beispiel für Medienoptionangaben
@@ -939,7 +939,7 @@ Feld: Bestellinformation
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-09_verfuegbarkeit/bestellinformation.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Beispiel für eine Bestellinformation - Die Lieferzeit beträgt 3 Wochen.
@@ -955,7 +955,7 @@ Eingabefelder unter Verweise
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-anlegen.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Verweise hinzufügen
@@ -966,7 +966,7 @@ Abb.: Verweise hinzufügen
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-bearbeiten.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Verweise bearbeiten
@@ -984,7 +984,7 @@ Im Feld Datensatzverweis muss die Datensatz-UUID (Beispiel: 19bd40ac-8be8-464a-8
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-unspezifisch.png
    :align: left
-   :scale: 70
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Beispiel für einen Verweis auf eine Webseite
@@ -999,7 +999,7 @@ Kataloginterne und externe Verweise
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-datensatzverweis.png
    :align: left
-   :scale: 70
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Feld Datensatzverweis - Angabe einer Datensatz-ID
@@ -1007,7 +1007,7 @@ Abb.: Feld Datensatzverweis - Angabe einer Datensatz-ID
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-intern-extern.png
    :align: left
-   :scale: 70
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Beispiele für Kataloginterne Verweise
@@ -1015,7 +1015,7 @@ Abb.: Beispiele für Kataloginterne Verweise
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-datensatzverweis_datendownload.png
    :align: left
-   :scale: 70
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Interner Verweis auf einen Datendownload
@@ -1023,7 +1023,7 @@ Abb.: Interner Verweis auf einen Datendownload
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-datensatzverweis_dienstverweis.png
    :align: left
-   :scale: 70
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Interner Verweis auf einen Dienst
@@ -1031,7 +1031,7 @@ Abb.: Interner Verweis auf einen Dienst
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-datensatzverweis_basisdaten.png
    :align: left
-   :scale: 70
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Interner Verweis auf Basisdaten
@@ -1039,7 +1039,7 @@ Abb.: Interner Verweis auf Basisdaten
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-datensatzverweis_fachliche-grundlage.png
    :align: left
-   :scale: 70
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Interner Verweis auf eine Fachliche Grundlage
