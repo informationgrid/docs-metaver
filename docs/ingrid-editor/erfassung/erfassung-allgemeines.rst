@@ -362,7 +362,7 @@ Im InGrid Editor gibt es zwei Speicheroptionen: "Speichern" speichert den bearbe
 
 .. figure:: ../../img/ige/allgemein/speichern.png
    :align: left
-   :scale: 70
+   :scale: 100
    :figwidth: 100%
 
 Abb.: Speichern
@@ -373,7 +373,7 @@ Mit dem abschließenden "VERÖFFENTLICHEN" werden die Daten für das Internet fr
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichen.png
    :align: left
-   :scale: 70
+   :scale: 100
    :figwidth: 100%
 
 Abb.: Veröffentlichen
