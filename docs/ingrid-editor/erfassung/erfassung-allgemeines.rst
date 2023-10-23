@@ -513,7 +513,7 @@ Wenn ein Metadatensatz veröffentlicht und danach geändert und gespeichert wurd
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichung_auf-letzte-veroeffentlichung-zuruecksetzen.png
    :align: left
-   :scale: 80
+   :scale: 100
    :figwidth: 100%
 
 Abb.: Auf letzte Veröffentlichung zurücksetzen
