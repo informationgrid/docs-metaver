@@ -50,7 +50,7 @@ Es wird unterschieden, ob es sich bei den beschriebenen Daten um einen einzelnen
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_datensatz-datenserie.png
    :align: left
-   :scale: 80
+   :scale: 90
    :figwidth: 100%
  
 Abb.: Auswahlfeld Datensatz / Datenserie
@@ -120,7 +120,7 @@ ATKIS Basis-DLM der Länder, der Digitalen Topographischen Karte 1:200 000 (DTK2
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_fachliche-grundlage.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Eingabefeld Fachliche Grundlage
@@ -147,7 +147,7 @@ Beispiel:
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_identifikator_01.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
  
 Abb.: Feld Identifikator der Datenquelle
@@ -247,7 +247,7 @@ Angabe der Unterlagen (Luftbilder, Karten, Datensammlungen), die zur Erstellung 
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_datengrundlage.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
  
 Abb.: Feld Datengrundlage - Beispiel: Kartieroriginale der Pflanzenerfassung
@@ -260,7 +260,7 @@ Angabe der Methode, die zur Erstellung des Datenobjektes geführt hat. Der Eintr
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_herstellungsprozess.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
  
 Abb.: Feld Herstellungsprozess - Beispiel: Feldkartierung
@@ -275,7 +275,7 @@ Beispiel: Planzeichenverordnung, Datum 03.08.2023, Version 6.0
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_symbolkatalog.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
  
 Abb.: Feld Symbolkatalog
@@ -290,7 +290,7 @@ Beispiel: Biotoptypenschlüssel, Datum 03.08.2023, Version 6.0
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_schluesselkatalog.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
  
 Abb.: Feld Schlüsselkatalog
@@ -303,7 +303,7 @@ Angabe der mit der Geoinformation/Karte verbundenen Sachdaten. Bei Bedarf kann h
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_sachdaten-attributinformation.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
  
 Abb.: Feld Sachdaten/Attributinformation - Beispiel: Baumkartei
@@ -333,7 +333,7 @@ Angabe des Zeichensatzes, der in dem beschriebenen Datensatz verwendet wird, z. 
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/zusatzinformation_zeichensatz.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
  
 Abb.: Feld Zeichensatz des Datensatzes
