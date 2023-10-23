@@ -220,7 +220,7 @@ Beispiel: Bodenauflösung: Auflösungseinheit in Linien/cm; Einheit: z.B. 1 cm g
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_erstellungsmassstab.png
    :align: left
-   :scale: 90
+   :scale: 100
    :figwidth: 100%
  
 Abb.: Feld Erstellungsmaßstab
