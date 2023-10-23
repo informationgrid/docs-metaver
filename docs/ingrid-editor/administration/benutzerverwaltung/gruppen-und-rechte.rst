@@ -30,7 +30,7 @@ Um Gruppen im InGrid Editor zu erstellen, gehen Sie wie folgt vor:
 
 .. figure:: ../../../img/ige/administration/benutzerverwaltung/gruppen.png
    :align: left
-   :scale: 90
+   :scale: 100
    :figwidth: 100%
 
 Abb.: Verwaltung von Gruppen
@@ -39,7 +39,7 @@ Abb.: Verwaltung von Gruppen
 
 .. figure:: ../../../img/ige/administration/benutzerverwaltung/hinzufuegen.png
    :align: left
-   :scale: 70
+   :scale: 50
    :figwidth: 100%
 
 Abb.: Gruppe hinzufügen
@@ -78,7 +78,7 @@ Bitte beachten Sie bei der Vergabe von Rechten, dass nur befugtes Personal Zugan
 
 .. figure:: ../../../img/ige/administration/benutzerverwaltung/rechte-vergabe.png
    :align: left
-   :scale: 100
+   :scale: 90
    :figwidth: 100%
 
 Abb.: Vergabe von Berechtigungen
@@ -94,7 +94,7 @@ Um Berechtigungen zu vergeben, klicken Sie auf das entsprechende Symbol und wäh
 
 .. figure:: ../../../img/ige/administration/benutzerverwaltung/berechtigungen.png
    :align: left
-   :scale: 100
+   :scale: 90
    :figwidth: 100%
 
 Abb.: Berechtigungen
