@@ -16,7 +16,7 @@ InGrid Editor - Übersicht
 
 .. figure:: ../../img/ige/allgemein/uebersicht.png
    :align: left
-   :scale: 30
+   :scale: 100
    :figwidth: 100%
    
 Abb.: Übersicht
@@ -27,7 +27,7 @@ Aufbau der Benutzeroberfläche
 
 .. figure:: ../../img/ige/allgemein/benutzeroberflaeche.png
    :align: left
-   :scale: 30
+   :scale: 100
    :figwidth: 100%
    
 Abb.: InGrid Editor - Benutzeroberfläche
@@ -152,7 +152,7 @@ Berechtigungen anzeigen
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/berechtigungen_anzeigen.png
    :align: left
-   :scale: 40
+   :scale: 50
    :figwidth: 100%
 
 Abb.: Berechtigungen anzeigen
@@ -179,14 +179,14 @@ Menü
 
 .. figure:: ../../img/ige/allgemein/menue.png
    :align: left
-   :scale: 50
+   :scale: 60
    :figwidth: 100%
    
 Abb.: Menü Symbole mit Beschriftung
 
 .. figure:: ../../img/ige/allgemein/menu_verkleinern.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
    
 Abb.: Menü verkleinern
@@ -194,7 +194,7 @@ Abb.: Menü verkleinern
 
 .. figure:: ../../img/ige/allgemein/menue_verkleinert.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
    
 Abb.: Menü (verkleinernert) - Symbole
@@ -202,7 +202,7 @@ Abb.: Menü (verkleinernert) - Symbole
 
 .. figure:: ../../img/ige/allgemein/menue_vergroessern.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
    
 Abb.: Menü vergrößern
@@ -213,7 +213,7 @@ Symbolleiste
 
 .. figure:: ../../img/ige/allgemein/toolbar.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
    
 Abb.: Symbolleiste
@@ -285,7 +285,7 @@ Im grauen Bereich der Erfassungsmaske befindet sich die Ordner-Navigation, die d
 
 .. figure:: ../../img/ige/allgemein/ordner-navigation.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Ordner-Navigation
@@ -297,7 +297,7 @@ Unter dem Titel des Datensatzes (ebenfalls im grauen Bereich) sind Sprungmarken 
 
 .. figure:: ../../img/ige/allgemein/sprungmarken.png
    :align: left
-   :scale: 50
+   :scale: 100
    :figwidth: 100%
 
 Abb.: Sprungmarken
@@ -310,7 +310,7 @@ Im InGrid Editor stehen eine Vielzahl an Feldern zur Verfügung, doch nicht alle
 
 .. figure:: ../../img/ige/allgemein/felder.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Eingabefelder mit * sind Pflichtfelder
@@ -327,7 +327,7 @@ Zum Füllen von Textfeldern klicken Sie in das Feld. Zum Vergrößern des Feldes
 
 .. figure:: ../../img/ige/allgemein/feldtyp_textfeld.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.:  Feldtyp - Textfeld
@@ -348,7 +348,7 @@ Auswahl-Listen können über den Pfeil auf der rechten Seite des Feldes aufgekla
 
 .. figure:: ../../img/ige/allgemein/feldtyp_auswahl.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Feldtyp - Auswahllisten und Datumsangabe
@@ -383,7 +383,7 @@ Um den Vorgang "Veröffentlichen" zu ermöglichen, müssen alle Pflichtfelder au
 
 .. figure:: ../../img/ige/allgemein/fehler_felder-korrekt-ausfuellen.png
    :align: left
-   :scale: 50
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Hinweis - Alle Pflichtfelder ausfüllen
@@ -393,7 +393,7 @@ Um trotz der Fehlermeldung die Bearbeitung zu sichern, wählen Sie die Funktion 
 
 .. figure:: ../../img/ige/allgemein/meldungen_ein-eintrag-erwartet.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Hinweis am Feld - Dieses Feld muss ausgefüllt sein
@@ -433,7 +433,7 @@ Das Veröffentlichungsdatum wird danach im Kopfbereich des Datensatzes angezeigt
 
 .. figure:: ../../img/ige/allgemein/anzeige-veroeffentlichung.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Kopfbereich der Eingabemaske - Anzeige des Veröffentlichungsdatums
