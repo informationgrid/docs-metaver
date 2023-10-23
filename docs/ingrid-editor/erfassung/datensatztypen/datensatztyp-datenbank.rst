@@ -24,7 +24,7 @@ Feld: Objektartenkatalog
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_datenbank/fachbezug_objektartenkatalog.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Tabelle - Objektartenkatalog
@@ -39,7 +39,7 @@ Feld: Inhalte der Datensammlung/Datenbank
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_datenbank/fachbezug_inhalt.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Felder für Inhalte der Datensammlung/Datenbank
@@ -81,7 +81,7 @@ Feld: Erläuterungen
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_datenbank/fachbezug_erlaeuterungen.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Textfeld - Erläuterungen
