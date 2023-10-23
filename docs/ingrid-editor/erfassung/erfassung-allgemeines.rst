@@ -567,7 +567,7 @@ Wenn ein Ordner oder ein Metadatensatz in der Ordnerstruktur angeklickt wird, w√
 
 .. figure:: ../../img/ige/allgemein/auswahl_ordner_drag-drop.png
    :align: left
-   :scale: 70
+   :scale: 90
    :figwidth: 100%
 
 Abb.: Auswahl - per Drag and Drop verschieben
