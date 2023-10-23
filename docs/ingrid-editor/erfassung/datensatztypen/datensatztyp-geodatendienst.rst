@@ -50,7 +50,7 @@ Unter Typ können weitere Eigenschaften (Eingabefelder) für den Metadatensatz d
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/typ_optionen.png
    :align: left
-   :scale: 80
+   :scale: 90
    :figwidth: 100%
 
 Abb.: Optionen für weitere Eigenschaften
@@ -84,7 +84,7 @@ Feld: Klassifikation des Dienstes
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_klassifikation.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Feld "Klassifikation des Dienstes"
@@ -102,7 +102,7 @@ In diesem Pflichtfeld kann die Art des Vorgangs ausgewählt werden. Das Feld ste
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_dienstart.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Feld "Art des Dienstes"
@@ -129,7 +129,7 @@ Bitte alle Versionen eintragen, die vom Dienst unterstützt werden.
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_dienstversion.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Feld "Version des Dienstes"
@@ -144,7 +144,7 @@ Option: Als ATOM-Download Dienst bereitstellen
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/atom-downloaddienst/fachbezug_als-atomdownloaddienst-bereitstellen.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Checkbox "Als ATOM-Download Dienst bereitstellen"
@@ -165,7 +165,7 @@ Die Eingabefelder für die Operationen wurden im neuen Editor vereinfacht. Im Fe
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_operationen_getcapabilitie.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Felder für Operationen
@@ -180,7 +180,7 @@ Sind alle Felder ausgefüllt, kann der Dienst durch Betätigen des Buttons "AKTU
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_operationen_aktualisieren.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Button AKTUALISIEREN
@@ -190,7 +190,7 @@ Nach dem Abrufen werden die im Dienst hinterlegten Metadaten angezeigt. Hier kö
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_operationen_wms.png
    :align: left
-   :scale: 50
+   :scale: 90
    :figwidth: 100%
 
 Abb.: URLs eines WMS
@@ -198,7 +198,7 @@ Abb.: URLs eines WMS
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_operationen_wfs.png
    :align: left
-   :scale: 50
+   :scale: 90
    :figwidth: 100%
 
 Abb.: URLs eines WFS
@@ -206,7 +206,7 @@ Abb.: URLs eines WFS
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_operationen.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Felder für Operationen im Editor nach der Übernahme der Metadaten aus dem Dienst
@@ -223,7 +223,7 @@ Feld: Erstellungsmaßstab
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_erstellungsmassstab.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Erstellungsmaßstab
@@ -238,7 +238,7 @@ Felder: Systemumgebung & Historie
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_systemumgebung_historie.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Felder "Systemumgebung und Historie"
@@ -253,7 +253,7 @@ Feld: Erläuterungen
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_erlaeuterungen.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Feld "Erläuterungen"
@@ -273,7 +273,7 @@ Felder für Dargestellte Daten
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_dargestellte-daten.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Felder für Dargestellte Daten
@@ -301,7 +301,7 @@ Option: Zugang geschützt
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_zugang-geschuetzt.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Option Zugang geschützt
@@ -318,7 +318,7 @@ Feld: Konformität
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/zusatzinformation_konformitaet.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Konformität
