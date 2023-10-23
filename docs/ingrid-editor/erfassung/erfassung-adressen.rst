@@ -7,7 +7,7 @@ Für eine effiziente Adressverwaltung empfiehlt es sich, hierarchische Strukture
 
 .. figure:: ../../img/ige/adressen/struktur.png
    :align: left
-   :scale: 50
+   :scale:80
    :figwidth: 100%
 
 Abb.: Anlegen einer Adressstruktur
@@ -22,7 +22,7 @@ Im Strukturbaum den entsprechenden Ordner oder eine vorhandene Adresse auswähle
 
 .. figure:: ../../img/ige/adressen/anlegen.png
    :align: left
-   :scale: 50
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Auswahl der Adresstypen
@@ -40,7 +40,7 @@ Standardmäßig werden zunächst nur die Pflichtfelder angezeigt. Neben den verp
 
 .. figure:: ../../img/ige/adressen/eingabemaske.png
    :align: left
-   :scale: 50
+   :scale: 100
    :figwidth: 100%
 
 Abb.: Eingabemaske für Adressen
@@ -48,7 +48,7 @@ Abb.: Eingabemaske für Adressen
 
 .. figure:: ../../img/ige/adressen/organisation-anlegen.png
    :align: left
-   :scale: 50
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Eingabefenster für die Wahl des Adresstyps
@@ -56,7 +56,7 @@ Abb.: Eingabefenster für die Wahl des Adresstyps
 
 .. figure:: ../../img/ige/adressen/anrede.png
    :align: left
-   :scale: 50
+   :scale: 40
    :figwidth: 100%
 
 Abb.: Auswahlfeld Anrede
@@ -64,7 +64,7 @@ Abb.: Auswahlfeld Anrede
 
 .. figure:: ../../img/ige/adressen/titel.png
    :align: left
-   :scale: 50
+   :scale: 40
    :figwidth: 100%
 
 Abb.: Auswahlfeld Titel
@@ -88,7 +88,7 @@ Soll ein vorhandener Eintrag unter Kommunikation entfernt werden, ist es erforde
 
 .. figure:: ../../img/ige/adressen/eingabefelder-loeschen.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Zeile löschen
@@ -99,7 +99,7 @@ Abb.: Zeile löschen
 
 .. figure:: ../../img/ige/adressen/uebergeordnete-organisation-verwenden.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Checkbox - für Anzeige Daten der übergeordneten Organisation verwenden
@@ -112,7 +112,7 @@ Am Ende des Adressformulars befindet sich der Bereich "Zugeordnete Datensätze".
 
 .. figure:: ../../img/ige/adressen/zugeordnete-datensaetze_anzeigen.png
    :align: left
-   :scale: 50
+   :scale: 60
    :figwidth: 100%
 
 Abb: 
@@ -120,7 +120,7 @@ Abb:
 
 .. figure:: ../../img/ige/adressen/zugeordnete-datensaetze.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Zugeordnete Datensätze
@@ -130,7 +130,7 @@ Sind alle erforderlichen Felder ausgefüllt, kann die Adresse mit dem Button "VE
 
 .. figure:: ../../img/ige/adressen/veroeffentlichen.png
    :align: left
-   :scale: 50
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Veröffentlichen
@@ -146,7 +146,7 @@ Wenn versucht wird, einen Ordner/Adressdatensatz zu löschen, dem weitere Adress
 
 .. figure:: ../../img/ige/adressen/ordner-adressen-loeschen.png
    :align: left
-   :scale: 50
+   :scale: 60
    :figwidth: 100%
 
 Abb: Fehlermeldung - Adresse löschen mit Unteradressen
@@ -156,7 +156,7 @@ Abb: Fehlermeldung - Adresse löschen mit Unteradressen
 
 .. figure:: ../../img/ige/adressen/loeschen.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Hinweis zum Löschen des Adressdatensatzes
@@ -166,7 +166,7 @@ Wenn ein Adressdatensatz gelöscht werden soll und dieser noch mit (Meta-)Datens
 
 .. figure:: ../../img/ige/adressen/ersetzen.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Adresse ersetzen
