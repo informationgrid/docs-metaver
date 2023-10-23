@@ -11,7 +11,7 @@ Bereits während der Eingabe des Nutzers oder der Gruppe werden passende Einträ
 
 .. figure:: ../../../img/ige/administration/benutzerverwaltung/suche-benutzer.png
    :align: left
-   :scale: 60
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Suche eines Nutzers
@@ -19,7 +19,7 @@ Abb.: Suche eines Nutzers
 
 .. figure:: ../../../img/ige/administration/benutzerverwaltung/suche-gruppe.png
    :align: left
-   :scale: 60
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Suche einer Gruppe
