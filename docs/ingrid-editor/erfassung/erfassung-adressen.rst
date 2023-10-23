@@ -88,7 +88,7 @@ Soll ein vorhandener Eintrag unter Kommunikation entfernt werden, ist es erforde
 
 .. figure:: ../../img/ige/adressen/eingabefelder-loeschen.png
    :align: left
-   :scale: 80
+   :scale: 90
    :figwidth: 100%
 
 Abb.: Zeile löschen
@@ -112,15 +112,15 @@ Am Ende des Adressformulars befindet sich der Bereich "Zugeordnete Datensätze".
 
 .. figure:: ../../img/ige/adressen/zugeordnete-datensaetze_anzeigen.png
    :align: left
-   :scale: 60
+   :scale: 70
    :figwidth: 100%
 
-Abb: 
+Abb: Zugeordnete Datensätze anzeigen
 
 
 .. figure:: ../../img/ige/adressen/zugeordnete-datensaetze.png
    :align: left
-   :scale: 80
+   :scale: 90
    :figwidth: 100%
 
 Abb.: Zugeordnete Datensätze
@@ -146,7 +146,7 @@ Wenn versucht wird, einen Ordner/Adressdatensatz zu löschen, dem weitere Adress
 
 .. figure:: ../../img/ige/adressen/ordner-adressen-loeschen.png
    :align: left
-   :scale: 60
+   :scale: 50
    :figwidth: 100%
 
 Abb: Fehlermeldung - Adresse löschen mit Unteradressen
@@ -166,7 +166,7 @@ Wenn ein Adressdatensatz gelöscht werden soll und dieser noch mit (Meta-)Datens
 
 .. figure:: ../../img/ige/adressen/ersetzen.png
    :align: left
-   :scale: 70
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Adresse ersetzen
