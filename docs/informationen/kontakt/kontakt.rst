@@ -34,4 +34,4 @@ Wenn das Kontaktformular ohne Ankreuzen der Option "Ich habe eine technische Fra
    :scale: 100
    :figwidth: 100%
 
-Abb.: METAVER - Ansicht Kontaktformular
+Abb.: METAVER Kontaktformular: https://metaver.de/kontakt
