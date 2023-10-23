@@ -78,7 +78,7 @@ Die Auswahl erfolgt über die vorgegebene Auswahlliste.
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/verschlagwortung_iso-themenkategorie.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Auswahlfeld ISO Themenkategorie
@@ -147,7 +147,7 @@ Beispiel:
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_identifikator_01.png
    :align: left
-   :scale: 90
+   :scale: 100
    :figwidth: 100%
  
 Abb.: Feld Identifikator der Datenquelle
@@ -164,7 +164,7 @@ Auswahlliste: Raster, Gitter, Stereomodell, Text, Tabelle, TIN, Vektor, Video
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_digitale-repaesentation.png
    :align: left
-   :scale: 70
+   :scale: 100
    :figwidth: 100%
 
 Abb.: Auswahlfeld Digitale Repräsentation
@@ -179,7 +179,7 @@ Auswahl: Vektor
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_digitale-repaesentation_vektor.png
    :align: left
-   :scale: 70
+   :scale: 100
    :figwidth: 100%
 
 Abb.: Auswahl Vektor
@@ -192,7 +192,7 @@ Felder: Topologieinformation
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_digitale-repaesentation_vektor_topologie.png
    :align: left
-   :scale: 70
+   :scale: 100
    :figwidth: 100%
 
 Abb.: Felder für Topologieinformationen
@@ -303,7 +303,7 @@ Angabe der mit der Geoinformation/Karte verbundenen Sachdaten. Bei Bedarf kann h
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_sachdaten-attributinformation.png
    :align: left
-   :scale: 90
+   :scale: 80
    :figwidth: 100%
  
 Abb.: Feld Sachdaten/Attributinformation - Beispiel: Baumkartei
@@ -360,14 +360,14 @@ Das Feld "geprüft mit" ist im Editor eine optionale Angabe, laut der ISO ist es
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/zusatzinformation_konformitaet.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
  
 Abb.: Feld Konformität
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/zusatzinformation_konformitaet-spezifikation.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
  
 Abb.: Feld Konformität - Spezifikation
