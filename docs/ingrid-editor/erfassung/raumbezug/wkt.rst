@@ -10,7 +10,7 @@ Obwohl das ISO-Element als Polygon bezeichnet wird, können in diesem Feld auch 
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/wkt/metaver_kartenclient.png
    :align: left
-   :scale: 40
+   :scale: 90
    :figwidth: 100%
 
 Abb.: Beispiel - Erstellung verschiedener Geometrien im METAVER Kartenclient
@@ -21,7 +21,7 @@ Der METAVER Kartenclient ermöglicht es über die Funktion "Zeichnen & Messen au
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/wkt/beispiel_kml-koordinaten.png
    :align: left
-   :scale: 40
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Beispiel - Koordinatenangaben in einer KML-Datei (Komma zwischen Breiten- und Längenangabe)
@@ -29,7 +29,7 @@ Abb.: Beispiel - Koordinatenangaben in einer KML-Datei (Komma zwischen Breiten- 
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/wkt/beispiel_wkt-koordinaten.png
    :align: left
-   :scale: 40
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Beispiel - Koordinatenangaben als WKT (Komma nach den Punktkoordinaten)
@@ -49,7 +49,7 @@ Diese WKT-Klassen werden unterstützt:
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/wkt/beispiel_deutschland-mitte.png
    :align: left
-   :scale: 40
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Beispiel - Punkt
@@ -66,7 +66,7 @@ Abb.: Beispiel - Punkt
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/wkt/beispiel_erhebungen.png
    :align: left
-   :scale: 40
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Beispiel - mehrere Punkte
@@ -82,7 +82,7 @@ Abb.: Beispiel - mehrere Punkte
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/wkt/beispiel_nord-sued.png
    :align: left
-   :scale: 40
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Beispiel - eine Linie
@@ -98,7 +98,7 @@ Abb.: Beispiel - eine Linie
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/wkt/beispiel_nosw.png
    :align: left
-   :scale: 40
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Beispiel - mehrere Linien
@@ -114,7 +114,7 @@ Abb.: Beispiel - mehrere Linien
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/wkt/beispiel_hamburg.png
    :align: left
-   :scale: 40
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Beispiel - Polygon
@@ -130,7 +130,7 @@ Abb.: Beispiel - Polygon
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/wkt/beispiel_brandenburg.png
    :align: left
-   :scale: 40
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Beispiel - Polygon mit Loch
@@ -146,7 +146,7 @@ Abb.: Beispiel - Polygon mit Loch
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/wkt/beispiel_stadtstaaten.png
    :align: left
-   :scale: 40
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Beispiel - Multipolygon
