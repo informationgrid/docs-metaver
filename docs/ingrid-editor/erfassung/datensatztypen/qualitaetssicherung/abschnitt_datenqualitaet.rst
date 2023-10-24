@@ -249,6 +249,7 @@ Relative Positionsgenauigkeit
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/abschnitt-05_datenqualitaet/relative-positionsgenauigkeit.png
  
+ 
    :align: left
    :scale: 100
    :figwidth: 100%
