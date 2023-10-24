@@ -204,12 +204,11 @@ Angabe der Anzahl der thematisch falsch klassifizierten Elemente zur Gesamtanzah
 Genauigkeit nicht-quantitativer Attribute
 """""""""""""""""""""""""""""""""""""""""
 
+
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/abschnitt-05_datenqualitaet/genauigkeit-nicht-quantitativer-attribute.png
- 
-   :align: left
    :scale: 100
    :figwidth: 100%
- 
+
 Abb.: Feld Genauigkeit nicht-quantitativer Attribute
 
 
@@ -225,12 +224,12 @@ Angabe der Anzahl der inkorrekten nicht-quantitativen Attributwerte im Verhältn
 Genauigkeit quantitativer Attribute
 """""""""""""""""""""""""""""""""""
 
+
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/abschnitt-05_datenqualitaet/genauigkeit-quantitativer-attribute.png
- 
    :align: left
    :scale: 100
    :figwidth: 100%
- 
+
 Abb.: Feld Genauigkeit quantitativer Attribute
 
 
@@ -248,8 +247,6 @@ Relative Positionsgenauigkeit
 """""""""""""""""""""""""""""
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/abschnitt-05_datenqualitaet/relative-positionsgenauigkeit-1.png
- 
- 
    :align: left
    :scale: 100
    :figwidth: 100%
