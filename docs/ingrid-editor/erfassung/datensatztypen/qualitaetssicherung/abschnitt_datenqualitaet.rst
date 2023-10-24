@@ -50,6 +50,15 @@ Beispiel: 3 (m)
 .. hint:: Die folgenden Eingabefelder erscheinen bei der Auswahl (Verschlagwortung) der INSPIRE-Themen: Adressen, Gewässernetz, Schutzgebiete, Verwaltungseinheiten und Verkehrsnetze.
 
 
+.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/qualitaetsinformation-hinzufuegen.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+ 
+Abb.: Feld+ für weitere Qualitätsinformationen
+
+
+
 Datenüberschuss
 """""""""""""""
 
