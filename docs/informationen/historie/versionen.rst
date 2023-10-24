@@ -3,7 +3,7 @@ InGrid Versionen
 ================
 
 Bedienungsanleitung (IGE-NG) Version 
-  - letzte Änderung: 23.10.2023
+  - letzte Änderung: 24.10.2023
   - Status: in Bearbeitung
 
 --------------------------------------------------------------------------------------------------------------
