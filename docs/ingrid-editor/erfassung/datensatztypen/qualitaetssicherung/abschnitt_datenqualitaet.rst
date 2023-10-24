@@ -23,7 +23,7 @@ Datengenauigkeit
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/abschnitt-05_datenqualitaet/daten-genauigkeit.png
    :align: left
-   :scale: 90
+   :scale: 100
    :figwidth: 100%
  
 Abb.: Felder für die Datengenauigkeit
@@ -57,7 +57,7 @@ Datenüberschuss
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/abschnitt-05_datenqualitaet/daten-ueberschuss.png
    :align: left
-   :scale: 90
+   :scale: 100
    :figwidth: 100%
  
 Abb.: Feld Datenüberschuss
@@ -82,7 +82,7 @@ Konzeptionelle Konsistenz
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/abschnitt-05_datenqualitaet/konsistenz-konzeptionelle.png
 
    :align: left
-   :scale: 90
+   :scale: 100
    :figwidth: 100%
  
 Abb.: Feld Konzeptionelle Konsistenz
@@ -106,7 +106,7 @@ Konsistenz des Wertebereichs
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/abschnitt-05_datenqualitaet/konsistenz-wertebereich.png
    :align: left
-   :scale: 90
+   :scale: 100
    :figwidth: 100%
  
 Abb.: Feld Konsistenz des Wertebereichs
@@ -125,7 +125,7 @@ Formatkonsistenz
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/abschnitt-05_datenqualitaet/konsistenz-format.png
    :align: left
-   :scale: 90
+   :scale: 100
    :figwidth: 100%
  
 Abb.: Feld Formatkonsistenz
@@ -144,7 +144,7 @@ Topologische Konsistenz
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/abschnitt-05_datenqualitaet/konsistenz-topologie.png
    :align: left
-   :scale: 90
+   :scale: 100
    :figwidth: 100%
  
 Abb.: Feld Topologische Konsistenz
@@ -169,7 +169,7 @@ Zeitliche Genauigkeit
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/abschnitt-05_datenqualitaet/genauigkeit-zeitlich.png
    :align: left
-   :scale: 90
+   :scale: 100
    :figwidth: 100%
  
 Abb.: Feld Zeitliche Genauigkeit
@@ -188,7 +188,7 @@ Korrektheit der thematischen Klassifizierung
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/abschnitt-05_datenqualitaet/klassifizierung-thematisch.png
    :align: left
-   :scale: 90
+   :scale: 100
    :figwidth: 100%
 
 Abb.: Feld Korrektheit der thematischen Klassifizierung
@@ -208,7 +208,7 @@ Genauigkeit nicht-quantitativer Attribute
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/abschnitt-05_datenqualitaet/genauigkeit-nicht-quantitativer-attribute.png
  
    :align: left
-   :scale: 90
+   :scale: 100
    :figwidth: 100%
  
 Abb.: Feld Genauigkeit nicht-quantitativer Attribute
@@ -229,7 +229,7 @@ Genauigkeit quantitativer Attribute
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/abschnitt-05_datenqualitaet/genauigkeit-quantitativer-attribute.png
  
    :align: left
-   :scale: 90
+   :scale: 100
    :figwidth: 100%
  
 Abb.: Feld Genauigkeit quantitativer Attribute
@@ -251,7 +251,7 @@ Relative Positionsgenauigkeit
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/abschnitt-05_datenqualitaet/relative-positionsgenauigkeit.png
  
    :align: left
-   :scale: 90
+   :scale: 100
    :figwidth: 100%
  
 Abb.: Feld Relative Positionsgenauigkeit
