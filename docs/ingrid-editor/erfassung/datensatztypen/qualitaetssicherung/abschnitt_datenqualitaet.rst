@@ -52,7 +52,6 @@ Beispiel: 3 (m)
 Abb.: Feld+ für weitere Qualitätsinformationen
 
 
-
 Datenüberschuss
 """""""""""""""
 
@@ -62,6 +61,11 @@ Datenüberschuss
    :figwidth: 100%
  
 Abb.: Feld Datenüberschuss
+
+Auswahl im Feld Art der Messung: 
+
+- Number of duplicate feature instances
+- Rate of excess items
 
 Angaben zu den überschüssigen Features, Attributen oder ihren Relationen.
 
@@ -80,6 +84,12 @@ Konzeptionelle Konsistenz
  
 Abb.: Feld Konzeptionelle Konsistenz
 
+Auswahl im Feld Art der Messung:
+
+- Compliance rate with the rules of the conceptual schema
+- Conceptual Schema compliance
+- Number of invalid overlaps of surfaces
+
 Angaben zu Fehlern bezüglich der Verletzung der Regeln des konzeptionellen Schemas
 
 Beispiel: Anzahl der überlappenden Oberflächen innerhalb des Datensatzes: 23
@@ -95,6 +105,10 @@ Konsistenz des Wertebereichs
    :figwidth: 100%
  
 Abb.: Feld Konsistenz des Wertebereichs
+
+Auswahl im Feld Art der Messung:
+
+- Value domain non conformance rate
 
 Angaben zur Übereinstimmung des Wertebereichs - Angegeben wird die Anzahl der Übereinstimmungen im Verhältnis zur Gesamtmenge der Elemente.
 
@@ -156,7 +170,6 @@ Angabe der Anzahl der thematisch falsch klassifizierten Elemente zur Gesamtanzah
 Genauigkeit nicht-quantitativer Attribute
 """""""""""""""""""""""""""""""""""""""""
 
-
 .. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/genauigkeit-nicht-qualitativer-attribute.png
  
    :align: left
@@ -181,4 +194,4 @@ Abb.: Feld Genauigkeit quantitativer Attribute
 
 Angabe der Anzahl der quantitativen Attribute, die inkorrekt sind.
 
-Beispiel: Anzahl aller quantitativen Werte, die nicht mit 95% Wahrscheinlichkeit dem wahren Wert entsprechen.*
+Beispiel: Anzahl aller quantitativen Werte, die nicht mit 95% Wahrscheinlichkeit dem wahren Wert entsprechen.
