@@ -62,10 +62,12 @@ Datenüberschuss
  
 Abb.: Feld Datenüberschuss
 
+
 Auswahlmöglichkeit für das Feld Art der Messung:
 
 - Number of duplicate feature instances
 - Rate of excess items
+
 
 Angaben zu den überschüssigen Features, Attributen oder ihren Relationen.
 
@@ -84,11 +86,13 @@ Konzeptionelle Konsistenz
  
 Abb.: Feld Konzeptionelle Konsistenz
 
+
 Auswahlmöglichkeit für das Feld Art der Messung:
 
 - Compliance rate with the rules of the conceptual schema
 - Conceptual Schema compliance
 - Number of invalid overlaps of surfaces
+
 
 Angaben zu Fehlern bezüglich der Verletzung der Regeln des konzeptionellen Schemas
 
@@ -106,9 +110,11 @@ Konsistenz des Wertebereichs
  
 Abb.: Feld Konsistenz des Wertebereichs
 
+
 Auswahlmöglichkeit für das Feld Art der Messung:
 
 - Value domain non conformance rate
+
 
 Angaben zur Übereinstimmung des Wertebereichs - Angegeben wird die Anzahl der Übereinstimmungen im Verhältnis zur Gesamtmenge der Elemente.
 
@@ -123,9 +129,11 @@ Formatkonsistenz
  
 Abb.: Feld Formatkonsistenz
 
+
 Auswahlmöglichkeit für das Feld Art der Messung:
 
 - Physical structure conflict rate
+
 
 Angaben darüber, wie viele Elemente sich im Konflikt zu der physikalischen Struktur des Datensatzes befinden.
 
@@ -140,6 +148,7 @@ Topologische Konsistenz
  
 Abb.: Feld Topologische Konsistenz
 
+
 Auswahlmöglichkeit für das Feld Art der Messung:
 
 - Number of closed watercourse links
@@ -147,6 +156,7 @@ Auswahlmöglichkeit für das Feld Art der Messung:
 - Number of invalid overlaps of surfaces
 - Number of invalid self-intersect errors
 - Number of invalid self-overlap errors
+
 
 Angaben zu topologischen Fehlern, die zwischen verschiedenen Unterelementen des Datensatzes auftreten.
 
@@ -168,6 +178,7 @@ Auswahlmöglichkeit für das Feld Art der Messung:
 
 - Percentage of items that are correctly events ordered
 
+
 Angabe der Anzahl der zeitlich korrekt zugeordneten Elemente zur Gesamtzahl der Elemente.
 
 
@@ -180,6 +191,7 @@ Korrektheit der thematischen Klassifizierung
    :figwidth: 100%
 
 Abb.: Feld Korrektheit der thematischen Klassifizierung
+
 
 Auswahlmöglichkeit für das Feld Art der Messung:
 
@@ -200,6 +212,13 @@ Genauigkeit nicht-quantitativer Attribute
  
 Abb.: Feld Genauigkeit nicht-quantitativer Attribute
 
+
+Auswahlmöglichkeit für das Feld Art der Messung:
+
+- Number of incorrect attribute values
+- Rate of incorrect classification for national identifier
+
+
 Angabe der Anzahl der inkorrekten nicht-quantitativen Attributwerte im Verhältnis zur Gesamtzahl der Attribute.
 
 
@@ -214,6 +233,34 @@ Genauigkeit quantitativer Attribute
  
 Abb.: Feld Genauigkeit quantitativer Attribute
 
+
+Auswahlmöglichkeit für das Feld Art der Messung:
+
+- Attribute value uncertainty at 95 % significance level
+
+
 Angabe der Anzahl der quantitativen Attribute, die inkorrekt sind.
 
 Beispiel: Anzahl aller quantitativen Werte, die nicht mit 95% Wahrscheinlichkeit dem wahren Wert entsprechen.
+
+
+Relative Positionsgenauigkeit
+"""""""""""""""""""""""""""""
+
+.. figure::  ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/relative-positionsgenauihkeit.png
+ 
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+ 
+Abb.: Feld Relative Positionsgenauigkeit
+
+
+Auswahlmöglichkeit für das Feld Art der Messung:
+
+- mean value of positional uncertainties (1D)
+- mean value of positional uncertainties (2D)
+- mean value of positional uncertainties (3D)
+
+
+Genauigkeitsangabe bezüglich einer als richtig akzeptierten Bezugs- oder Sollposition
