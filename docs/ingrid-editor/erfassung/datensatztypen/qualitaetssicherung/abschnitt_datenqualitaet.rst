@@ -62,7 +62,7 @@ Datenüberschuss
  
 Abb.: Feld Datenüberschuss
 
-Auswahl im Feld Art der Messung: 
+Auswahlmöglichkeit für das Feld Art der Messung:
 
 - Number of duplicate feature instances
 - Rate of excess items
@@ -84,7 +84,7 @@ Konzeptionelle Konsistenz
  
 Abb.: Feld Konzeptionelle Konsistenz
 
-Auswahl im Feld Art der Messung:
+Auswahlmöglichkeit für das Feld Art der Messung:
 
 - Compliance rate with the rules of the conceptual schema
 - Conceptual Schema compliance
@@ -106,7 +106,7 @@ Konsistenz des Wertebereichs
  
 Abb.: Feld Konsistenz des Wertebereichs
 
-Auswahl im Feld Art der Messung:
+Auswahlmöglichkeit für das Feld Art der Messung:
 
 - Value domain non conformance rate
 
@@ -123,20 +123,11 @@ Formatkonsistenz
  
 Abb.: Feld Formatkonsistenz
 
+Auswahlmöglichkeit für das Feld Art der Messung:
+
+- Physical structure conflict rate
+
 Angaben darüber, wie viele Elemente sich im Konflikt zu der physikalischen Struktur des Datensatzes befinden.
-
- 
-Zeitliche Genauigkeit
-"""""""""""""""""""""
-
-.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/genauigkeit-zeitlich.png
-   :align: left
-   :scale: 50
-   :figwidth: 100%
- 
-Abb.: Feld Zeitliche Genauigkeit
-
-Angabe der Anzahl der zeitlich korrekt zugeordneten Elemente zur Gesamtzahl der Elemente.
 
 
 Topologische Konsistenz
@@ -149,9 +140,35 @@ Topologische Konsistenz
  
 Abb.: Feld Topologische Konsistenz
 
+Auswahlmöglichkeit für das Feld Art der Messung:
+
+- Number of closed watercourse links
+- Number of faulty point-curve connections
+- Number of invalid overlaps of surfaces
+- Number of invalid self-intersect errors
+- Number of invalid self-overlap errors
+
 Angaben zu topologischen Fehlern, die zwischen verschiedenen Unterelementen des Datensatzes auftreten.
 
-Beispiel: Anzahl fehlender Verbindungen zwischen Unterelementen aufgrund von Undershoots/Overshoots.
+Beispiel: Anzahl fehlender Verbindungen zwischen Unterelementen aufgrund von Undershoots/Überschreitungen.
+
+ 
+Zeitliche Genauigkeit
+"""""""""""""""""""""
+
+.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/genauigkeit-zeitlich.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+ 
+Abb.: Feld Zeitliche Genauigkeit
+
+
+Auswahlmöglichkeit für das Feld Art der Messung:
+
+- Percentage of items that are correctly events ordered
+
+Angabe der Anzahl der zeitlich korrekt zugeordneten Elemente zur Gesamtzahl der Elemente.
 
 
 Korrektheit der thematischen Klassifizierung
@@ -163,6 +180,11 @@ Korrektheit der thematischen Klassifizierung
    :figwidth: 100%
 
 Abb.: Feld Korrektheit der thematischen Klassifizierung
+
+Auswahlmöglichkeit für das Feld Art der Messung:
+
+- Misclassification rate
+
 
 Angabe der Anzahl der thematisch falsch klassifizierten Elemente zur Gesamtanzahl der Elemente.
 
