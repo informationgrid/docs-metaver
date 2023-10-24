@@ -4,7 +4,7 @@ Abschnitt Datenqualität
 
 Datendefizit
  
-.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/datendefizit.png
+.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/daten-defizit.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -18,30 +18,24 @@ Beispiel: 55
 Wenn der Erfassungsgrad bei 100% liegt, ist in dem Feld Datendefizit 0% einzutragen. (Datendefizit = 100 – Erfassungsgrad) 
 
 
-Höhengenauigkeit
+Datengenauigkeit
 """"""""""""""""
 
-.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/hoehengenauigkeit.png
+.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/daten-genauigkeit.png
    :align: left
    :scale: 50
    :figwidth: 100%
  
-Abb.: Feld Höhengenauigkeit
+Abb.: Felder für die Datengenauigkeit
+
+**Höhengenauigkeit**
 
 Angabe über die Genauigkeit der Höhe z.B. in einem Geländemodell.
 
 Beispiel: 3 (m)
 
 
-Lagegenauigkeit
-"""""""""""""""
-
-.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/lagegenauigkeit.png
-   :align: left
-   :scale: 50
-   :figwidth: 100%
- 
-Abb.: Feld Lagegenauigkeit
+**Lagegenauigkeit**
 
 Angabe über die Genauigkeit z.B. in einer Karte.
 
@@ -50,7 +44,7 @@ Beispiel: 3 (m)
 .. hint:: Die folgenden Eingabefelder erscheinen bei der Auswahl (Verschlagwortung) der INSPIRE-Themen: Adressen, Gewässernetz, Schutzgebiete, Verwaltungseinheiten und Verkehrsnetze.
 
 
-.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/qualitaetsinformation-hinzufuegen.png
+.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/qualitaetsinformationen-hinzufuegen.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -62,7 +56,7 @@ Abb.: Feld+ für weitere Qualitätsinformationen
 Datenüberschuss
 """""""""""""""
 
-.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/datenueberschuss.png
+.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/daten-ueberschuss.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -79,7 +73,7 @@ Beispiel: Anzahl der überflüssigen Elemente zur Anzahl der gesamten Elemente: 
 Konzeptionelle Konsistenz
 """""""""""""""""""""""""
 
-.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/konzeptionelle-konsistenz.png
+.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/konsistenz-konzeptionelle.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -121,7 +115,7 @@ Angaben darüber, wie viele Elemente sich im Konflikt zu der physikalischen Stru
 Zeitliche Genauigkeit
 """""""""""""""""""""
 
-.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/zeiliche-genauigkeit.png
+.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/genauigkeit-zeitlich.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -149,7 +143,7 @@ Beispiel: Anzahl fehlender Verbindungen zwischen Unterelementen aufgrund von Und
 Korrektheit der thematischen Klassifizierung
 """"""""""""""""""""""""""""""""""""""""""""
 
-.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/ige-datenqualitaet_thematische-klassifizierung.png
+.. figure:: ../../../../img_ige/metaver_ige/ige_erfassung/ige_objekte/ige_abschnitt-05_datenqualitaet/klassifizierung-thematisch.png
    :align: left
    :scale: 50
    :figwidth: 100%
