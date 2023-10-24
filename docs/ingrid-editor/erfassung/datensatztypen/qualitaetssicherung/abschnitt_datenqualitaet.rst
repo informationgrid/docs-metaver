@@ -248,7 +248,7 @@ Beispiel: Anzahl aller quantitativen Werte, die nicht mit 95% Wahrscheinlichkeit
 Relative Positionsgenauigkeit
 """""""""""""""""""""""""""""
 
-.. figure::  ../../../../img/ige/erfassung/ige_metadaten/abschnitt-05_datenqualitaet/relative-positionsgenauihkeit.png
+.. figure::  ../../../../img/ige/erfassung/ige_metadaten/abschnitt-05_datenqualitaet/relative-positionsgenauigkeit.png
  
    :align: left
    :scale: 70
