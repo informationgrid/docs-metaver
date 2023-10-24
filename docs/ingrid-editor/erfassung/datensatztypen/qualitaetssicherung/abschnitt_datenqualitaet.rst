@@ -4,7 +4,7 @@ Abschnitt Datenqualität
 
 Datendefizit
 
-                        
+
  
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/abschnitt-05_datenqualitaet/daten-defizit.png
    :align: left
@@ -66,7 +66,6 @@ Abb.: Feld Datenüberschuss
 
 
 Auswahlmöglichkeit für das Feld Art der Messung:
-
 - Number of duplicate feature instances
 - Rate of excess items
 
@@ -90,7 +89,6 @@ Abb.: Feld Konzeptionelle Konsistenz
 
 
 Auswahlmöglichkeit für das Feld Art der Messung:
-
 - Compliance rate with the rules of the conceptual schema
 - Conceptual Schema compliance
 - Number of invalid overlaps of surfaces
@@ -114,7 +112,6 @@ Abb.: Feld Konsistenz des Wertebereichs
 
 
 Auswahlmöglichkeit für das Feld Art der Messung:
-
 - Value domain non conformance rate
 
 
@@ -133,7 +130,6 @@ Abb.: Feld Formatkonsistenz
 
 
 Auswahlmöglichkeit für das Feld Art der Messung:
-
 - Physical structure conflict rate
 
 
@@ -152,7 +148,6 @@ Abb.: Feld Topologische Konsistenz
 
 
 Auswahlmöglichkeit für das Feld Art der Messung:
-
 - Number of closed watercourse links
 - Number of faulty point-curve connections
 - Number of invalid overlaps of surfaces
@@ -177,7 +172,6 @@ Abb.: Feld Zeitliche Genauigkeit
 
 
 Auswahlmöglichkeit für das Feld Art der Messung:
-
 - Percentage of items that are correctly events ordered
 
 
@@ -196,7 +190,6 @@ Abb.: Feld Korrektheit der thematischen Klassifizierung
 
 
 Auswahlmöglichkeit für das Feld Art der Messung:
-
 - Misclassification rate
 
 
@@ -216,7 +209,6 @@ Abb.: Feld Genauigkeit nicht-quantitativer Attribute
 
 
 Auswahlmöglichkeit für das Feld Art der Messung:
-
 - Number of incorrect attribute values
 - Rate of incorrect classification for national identifier
 
@@ -237,7 +229,6 @@ Abb.: Feld Genauigkeit quantitativer Attribute
 
 
 Auswahlmöglichkeit für das Feld Art der Messung:
-
 - Attribute value uncertainty at 95 % significance level
 
 
@@ -259,7 +250,6 @@ Abb.: Feld Relative Positionsgenauigkeit
 
 
 Auswahlmöglichkeit für das Feld Art der Messung:
-
 - mean value of positional uncertainties (1D)
 - mean value of positional uncertainties (2D)
 - mean value of positional uncertainties (3D)
