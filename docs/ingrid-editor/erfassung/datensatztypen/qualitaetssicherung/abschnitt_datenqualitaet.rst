@@ -81,6 +81,7 @@ Konzeptionelle Konsistenz
 """""""""""""""""""""""""
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/abschnitt-05_datenqualitaet/konsistenz-konzeptionelle.png
+
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -121,7 +122,7 @@ Angaben zur Übereinstimmung des Wertebereichs - Angegeben wird die Anzahl der �
 Formatkonsistenz
 """"""""""""""""
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/abschnitt-05_datenqualitaet/kosistenz-format.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/abschnitt-05_datenqualitaet/konsistenz-format.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -199,7 +200,7 @@ Angabe der Anzahl der thematisch falsch klassifizierten Elemente zur Gesamtanzah
 Genauigkeit nicht-quantitativer Attribute
 """""""""""""""""""""""""""""""""""""""""
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/abschnitt-05_datenqualitaet/genauigkeit-nicht-qualitativer-attribute.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/abschnitt-05_datenqualitaet/genauigkeit-nicht-quantitativer-attribute.png
  
    :align: left
    :scale: 50
@@ -219,7 +220,7 @@ Angabe der Anzahl der inkorrekten nicht-quantitativen Attributwerte im Verhältn
 Genauigkeit quantitativer Attribute
 """""""""""""""""""""""""""""""""""
 
-.. figure::  ../../../../img/ige/erfassung/ige_metadaten/abschnitt-05_datenqualitaet/genauigkeit-qualitativer-attribute.png
+.. figure::  ../../../../img/ige/erfassung/ige_metadaten/abschnitt-05_datenqualitaet/genauigkeit-quantitativer-attribute.png
  
    :align: left
    :scale: 50
