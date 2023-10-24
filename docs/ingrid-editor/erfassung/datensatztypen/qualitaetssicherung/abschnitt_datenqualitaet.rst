@@ -80,7 +80,6 @@ Konzeptionelle Konsistenz
 """""""""""""""""""""""""
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/abschnitt-05_datenqualitaet/konsistenz-konzeptionelle.png
-
    :align: left
    :scale: 100
    :figwidth: 100%
