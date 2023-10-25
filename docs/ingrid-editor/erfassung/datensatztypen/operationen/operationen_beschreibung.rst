@@ -20,7 +20,7 @@ Nach Eingabe der URL kann der Dienst über den Button "AKTUALISIEREN" am Anfang 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_funktionen.png
    :align: left
-   :scale: 90
+   :scale: 100
    :figwidth: 100%
 
 Abb.: Funktionen
