@@ -57,8 +57,6 @@ Die folgenden Schlagworte werden dem Datensatz im Abschnitt Verschlagwortung hin
   - ISO-Themenkategorie: Landwirtschaft
   - INSPIRE-Themen: Bodenbedeckung
 
-In der Testsuite der GDI-DE ist die Testklasse bereits eingerichtet (`GDI-DE Testsuite <https://testsuite.gdi-de.org/#/quicktest>`_, Auswahl „ST34_INSPIRE…“) und somit eine Kompatibilitätsprüfung möglich.
-
 -----------------------------------------------------------------------------------------------------------------------
 
 Erläuterungen
