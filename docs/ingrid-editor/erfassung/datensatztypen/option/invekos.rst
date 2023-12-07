@@ -53,6 +53,9 @@ Die folgenden Schlagworte werden dem Datensatz im Abschnitt Verschlagwortung hin
   - INSPIRE-Themen: Bodenbedeckung
 
 
+-----------------------------------------------------------------------------------------------------------------------
+
+
 **Glossar**
 
 **InVeKoS** - Integriertes Verwaltungs- und Kontrollsystem in Agrarsektor
