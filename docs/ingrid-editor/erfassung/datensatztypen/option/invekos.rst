@@ -36,9 +36,9 @@ Die Anforderungen an die InVeKoS-Metadaten wurden von der GDI-DE im April 2023 b
 
 Das Auswahlfeld InVeKoS erscheint in INSPIRE-identifizierten Geodatensätzen. Folgende Funktionalitäten sind hinterlegt.
 
-**InVeKoS/IACS** - Integrated Administration and Control System
+**InVeKoS/IACS** = Integrated Administration and Control System
 
-**InVeKoS/IACS (GSAA)** - Geospatial Aid Application (Antrag auf raumbezogene Hilfe)
+**Option: InVeKoS/IACS (GSAA)** - Geospatial Aid Application (Antrag auf raumbezogene Hilfe)
 
 Die folgenden Schlüsselwörter werden dem Datensatz hinzugefügt:
 
@@ -48,7 +48,7 @@ Die folgenden Schlüsselwörter werden dem Datensatz hinzugefügt:
   - INSPIRE-Themen: Bodennutzung
 
 
-**InVeKoS/IACS (LPIS)** - Land Parcel Identification System (Identifizierung landwirtschaftlicher Parzellen)
+**Option: InVeKoS/IACS (LPIS)** - Land Parcel Identification System (Identifizierung landwirtschaftlicher Parzellen)
 
 Die folgenden Schlüsselwörter werden dem Datensatz hinzugefügt:
 
