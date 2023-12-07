@@ -40,7 +40,7 @@ Das Auswahlfeld InVeKoS erscheint in INSPIRE-identifizierten Geodatensätzen. Fo
 
 **Option 1: InVeKoS/IACS (GSAA)** - Geospatial Aid Application (Antrag auf raumbezogene Hilfe)
 
-Die folgenden Schlüsselwörter werden dem Datensatz hinzugefügt:
+Die folgenden Schlagworte werden dem Datensatz im Abschnitt Verschlagwortung hinzugefügt:
 
   - InVeKoS: InVeKoS + GSAA
   - Gemet: Gemeinsame Agrarpolitik
@@ -50,7 +50,7 @@ Die folgenden Schlüsselwörter werden dem Datensatz hinzugefügt:
 
 **Option 2: InVeKoS/IACS (LPIS)** - Land Parcel Identification System (Identifizierung landwirtschaftlicher Parzellen)
 
-Die folgenden Schlüsselwörter werden dem Datensatz hinzugefügt:
+Die folgenden Schlagworte werden dem Datensatz im Abschnitt Verschlagwortung hinzugefügt:
 
   - InVeKoS: InVeKoS + LPIS
   - Gemet: Gemeinsame Agrarpolitik
