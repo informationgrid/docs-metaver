@@ -2,9 +2,6 @@
 Option: InVekoS
 ---------------
 
-InVekoS - Bedeutung
-^^^^^^^^^^^^^^^^^^^
-
 **InVeKoS** - Integriertes Verwaltungs- und Kontrollsystem in Agrarsektor
 
 
