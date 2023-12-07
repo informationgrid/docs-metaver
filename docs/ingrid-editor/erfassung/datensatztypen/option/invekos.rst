@@ -5,7 +5,7 @@ Option: InVekoS
 InVekoS - Bedeutung
 ^^^^^^^^^^^^^^^^^^^
 
-InVeKoS - Integriertes Verwaltungs- und Kontrollsystem in Agrarsektor
+**InVeKoS** - Integriertes Verwaltungs- und Kontrollsystem in Agrarsektor
 
 
 .. note:: Das InVeKoS ist ein System von Verordnungen zur Durchführung einer einheitlichen Agrarpolitik in den Mitgliedstaaten der Europäischen Union. Die schrittweise Einführung des Integrierten Verwaltungs- und Kontrollsystems durch die Europäische Kommission wurde im Zuge der Reform der Gemeinsamen Agrarpolitik (GAP) im Jahr 1992 beschlossen. Das InVeKoS ist ein wesentliches Instrument zur Kontrolle der Agrarausgaben der EU. Die durch das InVeKoS gewonnenen Daten fließen in das Rechnungsabschlussverfahren der EU ein. Konzeption, Koordinierung und Kontrolle des InVeKoS erfolgen durch die Europäische Kommission, die konkrete Umsetzung obliegt den EU-Mitgliedstaaten. (Quelle: `Wikipedia <https://de.wikipedia.org/wiki/Integriertes_Verwaltungs-_und_Kontrollsystem>`_)
@@ -36,7 +36,7 @@ Die Anforderungen an die InVeKoS-Metadaten wurden von der GDI-DE im April 2023 b
 
 Das Auswahlfeld InVeKoS erscheint in INSPIRE-identifizierten Geodatensätzen. Folgende Funktionalitäten sind hinterlegt.
 
-**InVeKoS/IACS** = Integrated Administration and Control System
+**IACS** - Integrated Administration and Control System
 
 **Option 1: InVeKoS/IACS (GSAA)** - Geospatial Aid Application (Antrag auf raumbezogene Hilfe)
 
