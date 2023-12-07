@@ -3,21 +3,25 @@ InGrid Versionen
 ================
 
 Bedienungsanleitung (IGE-NG) Version 
-  - letzte Änderung: 24.10.2023
+  - letzte Änderung: 07.12.2023
   - Status: in Bearbeitung
 
 --------------------------------------------------------------------------------------------------------------
 
 IGE-NG Live-System
-  - InGrid Editor-Version: 1.6.0, 17.10.2023, 10:34
+  - InGrid Editor-Version: 1.7.2, 16.11.2023, 21:26
 
 
 IGE-NG Test-System
-  - InGrid Editor-Version: 1.5.1-28, 16.10.2023, 15:07 
+  - InGrid Editor-Version: 1.7.1-97, 01.12.2023, 17:49
 
 --------------------------------------------------------------------------------------------------------------
 
 **Historie der Versionen (IGE-NG)**
+
+Version: 1.7.2, 16.11.2023
+  -  IGE-NG: INSPIRE Geodatendatz - Funktionalität InVeKoS
+
 
 | Version: 1.6.0, 17.10.2023
 | Version: 1.5.1-36, 26.09.2023
