@@ -40,22 +40,22 @@ Das Auswahlfeld InVeKoS erscheint in INSPIRE-identifizierten Geodatensätzen. Fo
 
 **InVeKoS/IACS (GSAA)** - Geospatial Aid Application (Antrag auf raumbezogene Hilfe)
 
-Dem Datensatz werden folgende Schlagworte hinzugefügt:
+Die folgenden Schlüsselwörter werden dem Datensatz hinzugefügt:
 
-| InVeKoS: InVeKoS + GSAA
-| Gemet: Gemeinsame Agrarpolitik
-| ISO-Themenkategorie: Landwirtschaft
-| INSPIRE-Themen: Bodennutzung
+  - InVeKoS: InVeKoS + GSAA
+  - Gemet: Gemeinsame Agrarpolitik
+  - ISO-Themenkategorie: Landwirtschaft
+  - INSPIRE-Themen: Bodennutzung
 
 
 **InVeKoS/IACS (LPIS)** - Land Parcel Identification System (Identifizierung landwirtschaftlicher Parzellen)
 
-Dem Datensatz werden folgende Schlagworte hinzugefügt:
+Die folgenden Schlüsselwörter werden dem Datensatz hinzugefügt:
 
-| InVeKoS: InVeKoS + LPIS
-| Gemet: Gemeinsame Agrarpolitik
-| ISO-Themenkategorie: Landwirtschaft
-| INSPIRE-Themen: Bodenbedeckung
+  - InVeKoS: InVeKoS + LPIS
+  - Gemet: Gemeinsame Agrarpolitik
+  - ISO-Themenkategorie: Landwirtschaft
+  - INSPIRE-Themen: Bodenbedeckung
 
 In der Testsuite der GDI-DE ist die Testklasse bereits eingerichtet (`GDI-DE Testsuite <https://testsuite.gdi-de.org/#/quicktest>`_, Auswahl „ST34_INSPIRE…“) und somit eine Kompatibilitätsprüfung möglich.
 
