@@ -20,7 +20,7 @@ Erfassung
 Auswahlfeld InVeKoS
 """""""""""""""""""
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/invekos/auswahlfeld-invekos.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/invekos/auswahlfeld-invekos.png
    :align: left
    :scale: 100
    :figwidth: 100%
