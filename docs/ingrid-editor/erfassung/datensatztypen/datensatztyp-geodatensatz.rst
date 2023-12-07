@@ -53,7 +53,7 @@ Das Auswahlfeld InVeKoS erscheint in INSPIRE-relevanten Geodatensätzen, wenn es
 
 Abb.: Auswahlfeld InVeKoS
 
-.. seealso:: Funktionsbeschereibung Feld: `InVeKoS <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/invekos.html>`_
+.. seealso:: Funktionsbeschreibung Feld: `InVeKoS <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/invekos.html>`_
 
 
 Feld: Datensatz/Datenserie
