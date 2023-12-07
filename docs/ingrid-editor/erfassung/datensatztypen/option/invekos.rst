@@ -34,7 +34,7 @@ Die EU-Kommission erwartet eine INSPIRE-Kompatibilität der GIS-InVeKoS-Daten. D
 
 Die Anforderungen an die InVeKoS-Metadaten wurden von der GDI-DE im April 2023 bekannt gegeben.
 
-Folgende Funktionalitäten sind hinterlegt.
+Das Auswahlfeld InVeKoS erscheint in INSPIRE-identifizierten Geodatensätzen. Folgende Funktionalitäten sind hinterlegt.
 
 **InVeKoS/IACS** - Integrated Administration and Control System
 
