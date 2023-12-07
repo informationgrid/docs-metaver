@@ -44,7 +44,7 @@ Abb.: Optionen für weitere Eigenschaften
 Feld: InVeKoS
 ^^^^^^^^^^^^^
 
-Das Auswahlfeld InVeKoS erscheint in INSPIRE-identifizierten Geodatensätzen.
+Das Auswahlfeld InVeKoS erscheint in INSPIRE-relevanten Geodatensätzen.
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/invekos/auswahlfeld-invekos.png
    :align: left
