@@ -17,7 +17,7 @@ Erfassung
 Auswahlfeld InVeKoS
 """""""""""""""""""
 
-Damit die Eingabefelder für InVeKoS in der Erfassungsmaske des Geodatensatzes erscheinen, muss in der Katalogverwaltung unter Verhalten / Datensätze der Schalter für InVeKoS-Daten eingeschaltet sein. Zusätzlich muss im Geodatensatz die Checkbox INSPIRE-relevant angekreuzt sein, dann erscheint darunter das Auswahlfeld für InVeKoS. Hier kann eine von drei Optionen ausgewählt werden. Weiterhin erscheint im Abschnitt Verschlagwortung neben den INSPIRE-Feldern das Auswahlfeld für die InVeKoS-Schlagworte.
+Damit die Eingabefelder für InVeKoS in der Erfassungsmaske des Geodatensatzes erscheinen, muss in der Katalogverwaltung unter Verhalten / Datensätze der Schalter für InVeKoS-Daten eingeschaltet sein. Zusätzlich muss im Geodatensatz die Checkbox INSPIRE-relevant angekreuzt sein, dann erscheint darunter das Auswahlfeld für InVeKoS. Hier kann eine von drei Optionen ausgewählt werden. Weiterhin erscheint im Abschnitt Verschlagwortung neben den INSPIRE-Feldern auch das Auswahlfeld für die InVeKoS-Schlagworte.
 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/invekos/katalogverwaltung-invekos.png
