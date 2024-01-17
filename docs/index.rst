@@ -15,7 +15,7 @@ Bedienungsanleitung
 ====================
 
 ========================================
-InGrid Editor - Neue Generation (IGE-NG)
+InGrid Editor - Neue Generation (IGE-NG), Profil HMDK
 ========================================
 
 Version der Bedienungsanleitung
