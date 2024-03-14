@@ -308,6 +308,8 @@ Abb.: Option Zugang geschützt
 
 Die Option "Zugriff geschützt" sollte aktiviert werden, wenn der Zugriff auf den Dienst z.B. durch ein Passwort geschützt ist. Wenn das Kontrollkästchen aktiviert ist, wird kein direkter Link (Karte anzeigen) vom Portal zum Dienst erzeugt. In der Portalansicht erscheint eine Grafik in Form eines Vorhängeschlosses neben dem Dienst.
 
+.. hint:: Die Option "Zugriff geschützt" ist nicht ISO-konform, erscheint daher auch nicht im ISO-XML und wird daher auch nicht in anderen Portalen außer InGrid-Portalen angezeigt.
+
 -----------------------------------------------------------------------------------------------------------------------
 
 Abschnitt Zusatzinformation
@@ -329,4 +331,4 @@ Dieses Feld wird automatisch ausgefüllt, wenn "INSPIRE-Themen" oder "Art des Di
 
 Gemäß den Empfehlungen des AdV-Metadatenprofils sind im Feld "Konformitätsgrad" nur die Werte "konform" und "nicht konform" zu verwenden. Für alle Nicht-INSPIRE-Objekte ist hier die „INSPIRE-Richtlinie“ mit dem Wert „nicht evaluiert“ auszuwählen.
 
-.. hint:: Die Abschnitte Raumbezug, Zeitbezug, Zusatzinformationen, Verfügbarkeit und Verweise werden unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_ ausführlich beschrieben, da sie für mehrere Metadatentypen gelten.
+Die Abschnitte Raumbezug, Zeitbezug, Zusatzinformationen, Verfügbarkeit und Verweise werden unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_ ausführlich beschrieben, da sie für mehrere Metadatentypen gelten.
