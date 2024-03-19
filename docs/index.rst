@@ -13,14 +13,16 @@
 ====================
 Bedienungsanleitung
 ====================
-
 ========================================
-InGrid Editor - Neue Generation (IGE-NG), Profil Hamburger Metadaten Katalog (HMDK)
+InGrid Editor - Neue Generation (IGE-NG)
 ========================================
+=========================================
+Profil Hamburger Metadaten Katalog (HMDK)
+=========================================
 
 Version der Bedienungsanleitung
    - InGrid Editor-Version: 1.7.2, 16.11.2023, 21:26
-   - letzte Änderung: 07.12.2023
+   - letzte Änderung: 19.03.2024
    - Status: in Bearbeitung
 
 
