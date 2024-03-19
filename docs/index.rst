@@ -1,10 +1,12 @@
 .. meta::
   :description: Der InGrid-OS Metadateneditor IGE-NG
   :keywords: Metadaten, Editor, Geodatensätze, Geodatendienste, Webdienste, Anwendungen, Informationssysteme, Datenbanken, Datensammlungen, Dokumente, Literatur, Projekte, Fachinformationen, Umweltdaten, Geodaten, Erfassung, Beschreibung, Dokumentation, IGE-NG, InGrid Editor - Neue Generation
-  :keywords lang=de: Geodatensatz, Geodatendienst, Webdienst, Anwendung, Informationssystem, Datenbank, Datensammlung, Dokument, Literatur, Projekt, Fachinformation
+  :keywords lang=de: Geodatensatz, Geodatendienst, Anwendung, Datenbank, Dokument, Projekt, Fachinformation
 
 
-.. figure:: img/logos/logo-metaver.png
+
+
+.. figure:: img/logos/logo-hmdk.png
    :align: left
    :scale: 20
    :figwidth: 100 %
