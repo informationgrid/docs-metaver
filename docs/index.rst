@@ -23,7 +23,7 @@ Profil Hamburger Metadaten Katalog (HMDK)
 =========================================
 
 Version der Bedienungsanleitung
-   - InGrid Editor-Version: 1.7.2, 16.11.2023, 21:26
+   - InGrid Editor-Version: 7.0.1
    - letzte Änderung: 19.03.2024
    - Status: in Bearbeitung
 
@@ -36,7 +36,7 @@ Version der Bedienungsanleitung
    Abb.: InGrid Editor - Neue Generation (IGE-NG) - Übersicht
 
 
-..  note::  Die Eingabemasken und die Eingabefelder in den Metadatenkatalogen können je nach Metadatenprofil variieren (z.B.: Hamburger Metadatenkatalog, Kommunaler Metadatenkatalog Sachsen-Anhalt).
+..  note::  Die Eingabemasken und die Eingabefelder können sich derzeit noch zum Hamburger Metadatenkatalog unterscheiden.
 
 
 --------------------------------------------------------------------------------------------------------------
