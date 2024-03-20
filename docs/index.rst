@@ -16,6 +16,10 @@ Bedienungsanleitung
 ========================================
 InGrid Editor - Neue Generation (IGE-NG)
 ========================================
+========================================
+Profil: MetadatenVerbund (METAVER)
+========================================
+
 
 Version der Bedienungsanleitung
    - InGrid Editor-Version: 7.0.1, 11.01.2024, 19:09
