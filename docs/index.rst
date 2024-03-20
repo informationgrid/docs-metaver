@@ -8,7 +8,7 @@
 
 .. figure:: img/logos/logo-hmdk.png
    :align: left
-   :scale: 20
+   :scale: 50
    :figwidth: 100 %
    
 
