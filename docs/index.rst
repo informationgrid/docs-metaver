@@ -4,11 +4,9 @@
   :keywords lang=de: Geodatensatz, Geodatendienst, Anwendung, Datenbank, Dokument, Projekt, Fachinformation
 
 
-
-
 .. figure:: img/logos/logo-hmdk.png
    :align: left
-   :scale: 50
+   :scale: 40
    :figwidth: 100 %
    
 
