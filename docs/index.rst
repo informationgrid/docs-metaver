@@ -24,7 +24,7 @@ Version der Bedienungsanleitung
    - InGrid Editor-Version: 7.0.1
    - letzte Änderung: 20.03.2024
    - Status: in Bearbeitung
-   - Test LGV
+   - Test LGV neu
 
 
 .. figure:: img/portal/uebersicht.png
