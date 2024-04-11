@@ -51,7 +51,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'IGE-NG Bedienungsanleitung Profil METAVER'
+project = 'Bedienungsanleitung IGE-NG Profil METAVER'
 copyright = '2021-{}, wemove'.format(
     datetime.datetime.now().year
 )
