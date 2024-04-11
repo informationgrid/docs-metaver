@@ -3,7 +3,6 @@
 METAVER Kontakt
 ===============
 
-https://metaver.de/kontakt
 
 **Ticketsystem Zammad**
 

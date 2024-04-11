@@ -61,8 +61,8 @@ Bevor Sie Metadaten erfassen und pflegen können, muss Ihre neue Benutzerkennung
 Schreiben Sie uns über das METAVER-Kontaktformular und wählen Sie Ihr Bundesland aus, um uns mitzuteilen, dass Sie einen Zugang zum InGrid Editor benötigen. Geben Sie uns hierbei Ihren gewünschten Benutzernamen an. Wir richten den Zugang mit den notwendigen Berechtigungen ein. 
 
 
-Anmeldung in METAVER
----------------------
+Anmeldung im HMDK
+------------------
 
 Wenn Sie über eine Benutzerkennung verfügen und als InGrid Editor registriert sind, rufen Sie die Login-Seite auf (https://metaver.de/log-in), geben Ihre Benutzerdaten ein und klicken abschließend auf die Schaltfläche "ANMELDEN".
 
@@ -163,4 +163,4 @@ Abb.: Seite Anmeldung
 Benutzername vergessen
 ----------------------
 
-Wenn Sie Ihren Benutzernamen vergessen haben, füllen Sie bitte das Kontaktformular auf METAVER (https://metaver.de/kontakt) aus und geben Sie Ihr Bundesland an. So wird Ihre Anfrage an den zuständigen Katalogadministrator zugestellt.
+Wenn Sie Ihren Benutzernamen vergessen haben, füllen Sie bitte das Kontaktformular des HMDK (https://metaver.de/kontakt) aus und geben Sie Ihr Bundesland an. So wird Ihre Anfrage an den zuständigen Katalogadministrator zugestellt.

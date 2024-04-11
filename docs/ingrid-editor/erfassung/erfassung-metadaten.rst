@@ -209,14 +209,14 @@ Angabe einer Kurzbezeichnung für ein Objekt.
    :scale: 90
    :figwidth: 100%
 
-Abb.: Beispiel Portalansicht in METAVER - Titel
+Abb.: Beispiel Portalansicht HMDK - Titel
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/kurzbezeichnung_beispiel.png
    :align: left
    :scale: 70
    :figwidth: 100%
 
-Abb.: Beispiel Portalansicht in METAVER - Kurzbezeichnung
+Abb.: Beispiel Portalansicht HMDK - Kurzbezeichnung
 
 
 Feld: Beschreibung
@@ -275,14 +275,14 @@ Abb.: Beispiel - MV 600x400 px (für Originalgröße Grafik anklicken)
    :scale: 50
    :figwidth: 100%
 
-Abb.: Ausgabegröße einer Vorschaugrafik in der METAVER Portalausgabe
+Abb.: Ausgabegröße einer Vorschaugrafik in der HMDK Portalausgabe
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/vorschaugrafik_portalausgabe.png
    :align: left
    :scale: 80
    :figwidth: 100%
 
-Abb.: Beispiel - MV 344x245 px - Vorschaugrafik in der METAVER Portalausgabe
+Abb.: Beispiel - MV 344x245 px - Vorschaugrafik in der HMDK Portalausgabe
 
 
 Metadatensatz mit Adressen verküpfen
