@@ -51,7 +51,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'HMDK - Bedienungsanleitung (IGE-NG)'
+project = 'IGE-NG - Bedienungsanleitung Profil HMDK'
 copyright = '2021-{}, wemove'.format(
     datetime.datetime.now().year
 )
