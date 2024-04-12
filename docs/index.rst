@@ -22,7 +22,7 @@ Profil: Hamburger Metadatenkatalog (HMDK)
 
 Version der Bedienungsanleitung
    - InGrid Editor-Version: 7.0.1
-   - letzte Änderung: 11.04.2024
+   - letzte Änderung: 12.04.2024
    - Status: in Bearbeitung
 
 
