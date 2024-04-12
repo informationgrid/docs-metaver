@@ -11,4 +11,4 @@ Organisationseinheit (Fachaufgabe)
 
 Der Datensatztyp Fachaufgabe kann verwendet werden, um z. B. auf Internetseiten zu verweisen.
 
-.. important:: Die Eingabemaske des Datensatztyps Fachaufgabe enthält keinen Abschnitt Fachbezug. Die Erfassung dieses Datensatztyps erfolgt wie unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_ beschrieben.
+.. important:: Die Eingabemaske des Datensatztyps Fachaufgabe enthält keinen Abschnitt Fachbezug. Die Erfassung dieses Datensatztyps erfolgt wie unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/erfassung-metadaten.html>`_ beschrieben.

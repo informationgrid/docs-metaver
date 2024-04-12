@@ -15,7 +15,7 @@ Einem Geodatendienst kann ein Geodatensatz zugeordnet werden, der die im Geodate
 
 Wird ein Geodatensatz einem Geodatendienst zugeordnet, so werden diese Metadatensätze miteinander gekoppelt (Datenkopplung). Das bedeutet, dass der Geodatensatz über einen Link auf den Geodatendienst verweist und der Geodatendienst wiederum über einen Link auf den Geodatensatz verweist.
 
-.. note:: Die Erfassung dieses Datensatztyps erfolgt wie unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_ beschrieben. Der hier beschriebene Abschnitt Fachbezug enthält spezielle Eingabefelder für diesen Datensatztyp.
+.. note:: Die Erfassung dieses Datensatztyps erfolgt wie unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/erfassung-metadaten.html>`_ beschrieben. Der hier beschriebene Abschnitt Fachbezug enthält spezielle Eingabefelder für diesen Datensatztyp.
 
 -----------------------------------------------------------------------------------------------------------------------
 
