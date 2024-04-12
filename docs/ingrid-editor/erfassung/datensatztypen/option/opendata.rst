@@ -62,7 +62,7 @@ Adressen
 OpenData Kategorie
 """""""""""""""""""
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_pflichfelder-kategorie.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_pflichtfelder-kategorie.png
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -74,7 +74,7 @@ Abb.: Feld - Kategorie
 Die folgenden Kategorien stehen zur Verfügung:
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_pflichfelder-kategorie-liste.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_pflichtfelder-kategorie-liste.png
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -89,7 +89,7 @@ Die Veröffentlichung für Objekte, die für Open Data gekennzeichnet sind, müs
 
 Siehe drei Punkte Menü neben dem Titel
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_pflichfelder-veroeffentlichungsrecht-setzen.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_pflichtfelder-veroeffentlichungsrecht-setzen.png
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -97,7 +97,7 @@ Siehe drei Punkte Menü neben dem Titel
 Abb.: Feld - Veröffentlichungsrecht setzen
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_pflichfelder-veroeffentlichungsrecht.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_pflichtfelder-veroeffentlichungsrecht.png
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -108,7 +108,7 @@ Abb.: Fenster - Veröffentlichungsrecht
 Nutzungsbedingungen
 """"""""""""""""""""
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_pflichfelder-verfuegbarkeit.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_pflichtfelder-verfuegbarkeit.png
    :align: left
    :scale: 70
    :figwidth: 100%
