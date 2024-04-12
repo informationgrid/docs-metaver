@@ -11,7 +11,7 @@ Operationen
 Abb.: Feld - Operationen
 
 
-In der Regel werden die Metadaten für Geodatendienste mit dem `GetCapabilities Assistent <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/erfassungsassistent/getcapabilitie-assistent.html>`_ aus dem Dienst übernommen, da beim Aufruf des Dienstes die Metadaten angezeigt werden, die in den Editor übernommen werden können. Wenn der Dienst korrekt aufgesetzt wurde und dieser einen Identifikator für die Datenquelle enthält, können die zugehörigen Geodatensätze gleich automatisch mit angelegt werden.
+In der Regel werden die Metadaten für Geodatendienste mit dem `GetCapabilities Assistent <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/erfassungsassistent/getcapabilitie-assistent.html>`_ aus dem Dienst übernommen, da beim Aufruf des Dienstes die Metadaten angezeigt werden, die in den Editor übernommen werden können. Wenn der Dienst korrekt aufgesetzt wurde und dieser einen Identifikator für die Datenquelle enthält, können die zugehörigen Geodatensätze gleich automatisch mit angelegt werden.
 (Beispiel: https://www.....de/wss/service/.._..._..._WMS_OpenData/.....?REQUEST=GetCapabilities&SERVICE=WMS)
 
 Wenn der Metadatensatz ohne den Assistenten erstellt wurde, müssen die Felder für die Operationen ausgefüllt werden. Dabei ist darauf zu achten, dass die URL korrekt angegeben wird. Das bedeutet, dass nach dem Fragezeichen der Requestparameter für den Dienst angegeben werden muss.

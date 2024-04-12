@@ -59,7 +59,7 @@ Bedeutung der Symbolfarben:
 
 Abb.: Ordnerstruktur -  Symbolfarben
 
-.. seealso:: Der neue InGrid Editor: `Symbole - Bearbeitungsstatus, Berechtigungen zu den Metadaten <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-allgemeines.html>`_ 
+.. seealso:: Der neue InGrid Editor: `Symbole - Bearbeitungsstatus, Berechtigungen zu den Metadaten <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/erfassung-allgemeines.html>`_ 
 
 -----------------------------------------------------------------------------------------------------------------------
 
@@ -67,7 +67,7 @@ Abb.: Ordnerstruktur -  Symbolfarben
 Erfassungsmasken ausfüllen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Die nachfolgenden Felder der Erfassungsmasken wurden in diesem Dokument allgemein beschrieben. Spezielle und ausführliche Angaben, sind unter dem Punkt `Datensatztypen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztypen.html>`_ beschrieben.
+Die nachfolgenden Felder der Erfassungsmasken wurden in diesem Dokument allgemein beschrieben. Spezielle und ausführliche Angaben, sind unter dem Punkt `Datensatztypen <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/datensatztypen.html>`_ beschrieben.
 
 
 Feld: Titel
@@ -304,7 +304,7 @@ Es sind mindestens zwei Adressen anzugeben:
 
 Abb.: Verknüpfung des Metadatensatzes mit Adressdatensätzen
 
-`Auswahlliste Adressen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/auswahllisten/auswahlliste_allgemeines_adressen.html>`_
+`Auswahlliste Adressen <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/auswahllisten/auswahlliste_allgemeines_adressen.html>`_
 
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/adressen_bearbeiten.png
@@ -317,7 +317,7 @@ Abb.: Adressen bearbeiten
 Über das Dreipunkt-Menü können die Optionen "Bearbeiten", "Hinzufügen" und "Entfernen" gewählt werden.
 
 
-Querverweis: `Adressen anlegen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-adressen.html>`_
+Querverweis: `Adressen anlegen <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/erfassung-adressen.html>`_
 
 -----------------------------------------------------------------------------------------------------------------------
 
@@ -382,7 +382,7 @@ Beispiele für die Zuordung von Suchbegriffen:
 - "Kindergarten" automatische Zuordnung dem Feld "UMTHES Schlagworte" als Synonym "Kindertagesstätte"
 
 
-.. seealso:: Weitere Eingabefelder für die Verschlagwortung, werden in den unterschiedlichen Datensatztypen, bei der Aktivierung der Optionen (OpenData, INSPIRE-relevant, AdV kompatibel) angezeigt. Die Beschreibung dieser Felder erfolgt unter den entsprechenden `Datensatztypen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztypen.html>`_.
+.. seealso:: Weitere Eingabefelder für die Verschlagwortung, werden in den unterschiedlichen Datensatztypen, bei der Aktivierung der Optionen (OpenData, INSPIRE-relevant, AdV kompatibel) angezeigt. Die Beschreibung dieser Felder erfolgt unter den entsprechenden `Datensatztypen <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/datensatztypen.html>`_.
 
 
 -----------------------------------------------------------------------------------------------------------------------
@@ -391,37 +391,37 @@ Beispiele für die Zuordung von Suchbegriffen:
 Abschnitt Fachbezug
 -------------------
 
-.. hint:: Die Eingabemasken im Abschnitt Fachbezug richten sich nach dem gewählten `Datensatztyp <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztypen.>`_.
+.. hint:: Die Eingabemasken im Abschnitt Fachbezug richten sich nach dem gewählten `Datensatztyp <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/datensatztypen.>`_.
 
 **Beschreibung der Datensatztypen**
 
 Nachfolgend sind in den verschiedenen Datensatztypen (Verlinkung folgen) die zusätzlichen Eingabefelder beschrieben.
 
-| `Geodatensatz <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztyp-geodatensatz.html>`_
+| `Geodatensatz <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/datensatztyp-geodatensatz.html>`_
 
   | Beschreibung von digitalen Geodaten, analoge Karten oder Kartenwerke.
 
-| `Geodatendienst <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztyp-geodatendienst.html>`_
+| `Geodatendienst <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/datensatztyp-geodatendienst.html>`_
 
   | Dienste die raumbezogenen Daten zur Verfügung stellen, insbesondere Dienste im Rahmen von INSPIRE, der GDI-DE oder der GDIs der Länder.
 
-| `Informationssystem <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztyp-informationssystem.html>`_
+| `Informationssystem <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/datensatztyp-informationssystem.html>`_
 
   | Zentrale Auskunftssysteme, welche in der Regel auf eine oder mehrere Datenbanken zugreifen und diese zugänglich machen.
 
-| `Datensammlung <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztyp-datensammlung.html>`_
+| `Datensammlung <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/datensatztyp-datensammlung.html>`_
 
   | Digitale Sammlung von Daten. Beispiele: Messdaten, statistische Erhebungen, Modelldaten, Daten zu Anlagen.
 
-| `Dokument <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztyp-dokument.html>`_
+| `Dokument <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/datensatztyp-dokument.html>`_
 
   | Bücher, Broschüren, Aufsätze, Berichte, Gutachten etc. Von Interesse sind insbesondere Dokumente, welche nicht über den Buchhandel oder über Bibliotheken erhältlich sind (graue Literatur).
 
-| `Projekt <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztyp-projekt.html>`_
+| `Projekt <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/datensatztyp-projekt.html>`_
 
   | Forschungs- und Entwicklungsvorhaben, Projekte unter Beteiligung anderer Institutionen oder privater Unternehmen, Schutzprogramme - Von besonderem Interesse sind Vorhaben/Projekte/Programme, in denen umweltrelevante Datenbestände entstehen.
 
-| `Fachaufgabe <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztyp-fachaufgabe.html>`_
+| `Fachaufgabe <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/datensatztyp-fachaufgabe.html>`_
 
   | In diesen Datensatztyp befindet sich kein Abschnitt Fachbezug. Der Datensatztyp Fachaufgabe kann für Verweise auf Webseiten verwendet werden (z.B Informationen zu Bebauungsplänen). Fachaufgabe ist der einzige Datensatztyp, dem keine weiteren Optionen (z.B. OpenData) zugeordnen werden können.
 
@@ -506,7 +506,7 @@ Option: Raumbezug (WKT)
 
 WKT steht für Well-Known Text, dieses Feld dient der Eingabe von Geometrien. Unterstützt werden Punkte, Linien, mehrere Linien, Polygone, mehrere Polygone, unterschiedliche Geometrietypen. Die Angabe muss konform zur Spezifikation "OpenGIS Implementation Specification for Geographic information – Simple feature access" erfolgen.
 
-.. seealso:: `Ausfühliche Bescheibung Erfassung von WKT <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/raumbezug/wkt.html>`_
+.. seealso:: `Ausfühliche Bescheibung Erfassung von WKT <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/raumbezug/wkt.html>`_
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_wkt.png
    :align: left
@@ -532,7 +532,7 @@ Abb.: Raumbezugtyp: GN-DE mit Amtlichen Regionalschlüssel (ASR)
 Feld: Amtlicher Regionalschlüssel (ARS)
 """""""""""""""""""""""""""""""""""""""
 
-Den `Amtlichen Regionalschlüssel (ARS) <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/raumbezug/asr.html>`_ erfassen.
+Den `Amtlichen Regionalschlüssel (ARS) <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/raumbezug/asr.html>`_ erfassen.
 
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_optionen.png
@@ -565,7 +565,7 @@ Abb.: Felde Koordinatenreferenzsystem
 
 
 
-`Auswahlliste Koordinatenrefernzsystem <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/auswahllisten/auswahlliste_raumbezug_raumbezugsysteme.html>`_
+`Auswahlliste Koordinatenrefernzsystem <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/auswahllisten/auswahlliste_raumbezug_raumbezugsysteme.html>`_
 
 Über ein Dropdownmenü erfolgt an dieser Stelle die Auswahl des Raumbezugssystems, welches in der Ressource verwendet wurde. 
 
@@ -605,7 +605,7 @@ Angabe des Referenzpegels, zu dem die Höhe relativ gemessen wird. In Deutschlan
 
 Beispiel: Pegel Amsterdam
 
-`Auswahlliste Vertikaldatum <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/auswahllisten/auswahlliste_raumbezug_vertikaldatum.html>`_
+`Auswahlliste Vertikaldatum <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/auswahllisten/auswahlliste_raumbezug_vertikaldatum.html>`_
 
 
 Feld: Erläuterungen
@@ -683,7 +683,7 @@ Feld: Status
 
 Abb.: Feld Status
 
-`Auswahlliste Status <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/auswahllisten/auswahlliste_zeitbezug_status.html>`_
+`Auswahlliste Status <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/auswahllisten/auswahlliste_zeitbezug_status.html>`_
 
 Das Feld Status beschreibt den Bearbeitungsstand eines Projektes oder eine der Messung etc. Diese können sich in unterschiedlichen Stadien befinden, d.h. Projekte, Programme oder Messungen können in Planung sein, derzeit durchgeführt werden oder schon abgeschlossen sein.
 
@@ -698,7 +698,7 @@ Feld: Periodizität
 
 Abb.: Feld Priodizität
 
-`Auswahlliste der Priodizität <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/auswahllisten/auswahlliste_zeitbezug_periodizitaet.html>`_
+`Auswahlliste der Priodizität <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/auswahllisten/auswahlliste_zeitbezug_periodizitaet.html>`_
 
 Im Feld Periodizität wird der Zeitzyklus der Datenerhebung angegeben.
 
@@ -713,7 +713,7 @@ Feld: Intervall der Erhebung
 
 Abb.: Feld Im Intervall der Erhebung
 
-`Auswahlliste Intervall <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/auswahllisten/auswahlliste_zeitbezug_intervalle.html>`_
+`Auswahlliste Intervall <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/auswahllisten/auswahlliste_zeitbezug_intervalle.html>`_
 
 Mit Intervall wird der zeitliche Abstand (Frequenz) der Datenerhebung angegeben. Erfolgt die Datenerhebung kontinuierlich oder periodisch (siehe Feld Periodizität), so wird diese Angabe hier präzisiert. Es stehen Felder für den Eintrag einer Anzahl und eine Auswahlliste für die Einheit zur Verfügung. Der Eintrag von "6" und "Monaten" bedeutet, dass die beschriebenen Daten alle 6 Monate aktualisiert werden.
 
@@ -826,7 +826,7 @@ Feld: Zugriffsbeschränkungen
 
 Abb.: Auswahl-/Eingabefeld - Zugriffsbeschränkungen
 
-`Auswahlliste der Zugriffsbeschränkungen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/auswahllisten/auswahlliste_verfuegbarkeit_zugriffsbeschraenkungen.html>`_
+`Auswahlliste der Zugriffsbeschränkungen <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/auswahllisten/auswahlliste_verfuegbarkeit_zugriffsbeschraenkungen.html>`_
 
 Im Feld Zugriffsbeschränkungen kann aus einer Auswahlliste ein Grund angegeben werden, warum die Daten einer Einschränkung unterliegen. Trifft keiner dieser Gründe zu, ist der Eintrag „Es gelten keine Beschränkungen“ anzugeben.
 
@@ -844,7 +844,7 @@ Feld: Lizenz
 
 Abb.: Beispiel - Nutzungsbed.: Datenlizenz Deutschland Namensnennung 2.0 / Quellvermerk: © GeoBasis-DE / BKG (Jahr des letzten Datenbezugs)
 
-`Auswahlliste der Nutzungsbedingungen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/auswahllisten/auswahlliste_verfuegbarkeit_nutzungsbedingungen.html>`_
+`Auswahlliste der Nutzungsbedingungen <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/auswahllisten/auswahlliste_verfuegbarkeit_nutzungsbedingungen.html>`_
 
 Nutzungsbedingungen sind ein einseitig vorformulierter Vertrag, mit dem der Anbieter (der Datenbereitsteller) die Nutzer der Daten über ihre Rechte und Pflichten informiert.
 In der Tabellenspalte Nutzungsbedingungen ist eine Auswahlliste mit Lizenzen hinterlegt, diese beschreiben vordefinierte Nutzungsbedingungen. Weiterhin besteht die Möglichkeit Nutzungsbedingungen per Freitext in die Zeile einzutragen oder unter Verweise Nutzungsbedingungen zu verlinken.
@@ -881,7 +881,7 @@ Felder für Datenformat
 
 Abb.: Beispiel für Datenformatangaben
 
-`Auswahlliste Datenformat <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/auswahllisten/auswahlliste_verfuegbarkeit_datenformate.html>`_
+`Auswahlliste Datenformat <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/auswahllisten/auswahlliste_verfuegbarkeit_datenformate.html>`_
 
 
 Angabe des Formats der Daten in DV-technischer Hinsicht, in welchem diese verfügbar sind. Das Format wird durch 4 unterschiedliche Eingaben spezifiziert. Wenn das erste Feld befüllt wird, müssen auch die anderen Eintragungen vorgenommen werden. 
@@ -929,7 +929,7 @@ Angabe auf welchen Medien oder über welche Medien die Daten zur Verfügung gest
   - Angabe eines Ortes, an dem die Daten abgelegt sind (Beispiel: Ordner: Daten/.../.../)
 
 
-`Auswahlliste Medium <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/auswahllisten/auswahlliste_verfuegbarkeit_medienoption.html>`_
+`Auswahlliste Medium <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/auswahllisten/auswahlliste_verfuegbarkeit_medienoption.html>`_
 
 Angabe von generellen Informationen zur Bestellung, wie z.B. Bedingungen oder Konditionen.
 
@@ -972,7 +972,7 @@ Abb.: Verweise hinzufügen
 Abb.: Verweise bearbeiten
 
 
-| **Feld Typ:** `Auswahlliste <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/auswahllisten/auswahlliste_verweise_verweistypen.html>`_
+| **Feld Typ:** `Auswahlliste <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/auswahllisten/auswahlliste_verweise_verweistypen.html>`_
 | **Feld Titel:** Titel, der mit einem Link hinterlegt werden soll.
 | **Feld URL:** Angabe einer Webseite-URL oder einer Download-URL, auf die verwiesen werden soll.
 | **Feld Datensatzverweis:** Verweise auf interne und Externe Metadatensätze (UUID)
