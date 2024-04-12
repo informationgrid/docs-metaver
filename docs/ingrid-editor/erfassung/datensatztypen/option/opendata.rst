@@ -52,6 +52,42 @@ Wird die Open Data Checkbox angehakt, wird gleichzeitig die Checkbox „Veröffe
 Sobald jedoch nur Open Data aktiv ist, wird automatisch im Feld „Informationsgegenstand“ der Wert „Ohne gesetzliche Verpflichtung“ gesetzt. Wird der Haken bei Open Data wieder entfernt, wird der Eintrag bei Informationsgegenstand gelöscht.
 
 
+Adressen
+"""""""""
+
+ - Es muss mindestens einen 'Ansprechpartner MD' geben.
+ - Es muss mindestens einen 'Herausgeber' geben
+
+
+OpenData Kategorie
+"""""""""""""""""""
+
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_pflichfelder-kategorie.png
+   :align: left
+   :scale: 70
+   :figwidth: 100%
+
+Abb.: Feld - Informationsgegenstand
+
+
+Über die Auswahlliste muss mindestens eine Open Data DCAT-AP-DE Kategorie ausgewählt werden.
+Die folgenden Kategorien stehen zur Verfügung:
+
+
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_pflichfelder-lategorie-liste.png
+   :align: left
+   :scale: 70
+   :figwidth: 100%
+
+Abb.: Feld - Informationsgegenstand
+
+
+
+
+
+
+
+
 
 
 
