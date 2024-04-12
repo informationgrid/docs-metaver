@@ -29,7 +29,7 @@ Wird die Checkbox „Open Data“ aktiviert, erscheint diese Meldung und es werd
    :scale: 70
    :figwidth: 100%
 
-Abb.: Hinweis
+Abb.: Fenster - Hinweis
 
 
 
@@ -67,19 +67,43 @@ OpenData Kategorie
    :scale: 70
    :figwidth: 100%
 
-Abb.: Feld - Informationsgegenstand
+Abb.: Feld - Kategorie
 
 
 Über die Auswahlliste muss mindestens eine Open Data DCAT-AP-DE Kategorie ausgewählt werden.
 Die folgenden Kategorien stehen zur Verfügung:
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_pflichfelder-lategorie-liste.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_pflichfelder-kategorie-liste.png
    :align: left
    :scale: 70
    :figwidth: 100%
 
-Abb.: Feld - Informationsgegenstand
+Abb.: Feld - Kategorieauswahlliste
+
+
+Veröffentlichungsrecht
+"""""""""""""""""""""""
+
+Die Veröffentlichung für Objekte, die für Open Data gekennzeichnet sind, müssen auf „Internet“ gesetzt sein. Bitte kontrollieren!
+
+Siehe drei Punkte Menü neben dem Titel
+
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_pflichfelder-veroeffentlichungsrecht-setzen.png
+   :align: left
+   :scale: 70
+   :figwidth: 100%
+
+Abb.: Feld - Veröffentlichungsrecht setzen
+
+
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_pflichfelder-veroeffentlichungsrecht.png
+   :align: left
+   :scale: 70
+   :figwidth: 100%
+
+Abb.: Fenster - Veröffentlichungsrecht
+
 
 
 
