@@ -41,7 +41,7 @@ Folgende Eigenschaften ändern sich bei der Aktivierung der Checkbox Open Data:
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hinweis.png
    :align: left
-   :scale: 90
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Hinweis
