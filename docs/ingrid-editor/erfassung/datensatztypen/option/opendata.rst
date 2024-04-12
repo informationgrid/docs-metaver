@@ -39,7 +39,7 @@ Pflichtfelder
 Informationsgegenstand
 '''''''''''''''''''''''
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_pflichfelder-informationsgegenstand.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_pflichtfelder-informationsgegenstand.png
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -76,7 +76,7 @@ Die folgenden Kategorien stehen zur Verfügung:
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_pflichtfelder-kategorie-liste.png
    :align: left
-   :scale: 70
+   :scale: 50
    :figwidth: 100%
 
 Abb.: Feld - Kategorieauswahlliste
@@ -99,7 +99,7 @@ Abb.: Feld - Veröffentlichungsrecht setzen
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_pflichtfelder-veroeffentlichungsrecht.png
    :align: left
-   :scale: 70
+   :scale: 50
    :figwidth: 100%
 
 Abb.: Fenster - Veröffentlichungsrecht
@@ -162,7 +162,7 @@ Das keyword für Open Data ist „opendata“, es wird automatisch beim Anklicke
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_pflichtfelder-keyword-opendata.png
    :align: left
-   :scale: 70
+   :scale: 50
    :figwidth: 100%
 
 Abb.: Fenster - Keyword opendata
@@ -173,7 +173,7 @@ Neben dem fest vorgegebenen Schlagwort „opendata“ wird zusätzlich das Kürz
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_pflichtfelder-keyword-hmbtg.png
    :align: left
-   :scale: 70
+   :scale: 50
    :figwidth: 100%
 
 Abb.: Fenster - Keyword hmbtg_09_geodaten
