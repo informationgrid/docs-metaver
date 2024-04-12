@@ -15,7 +15,7 @@ Open Data - offene Verwaltungsdaten
 .. hint:: Nachfolgend werden die Felder beschrieben, die nach der Aktivierung dieser Option zusätzlich in der Erfassungsmaske befüllt werden müssen.
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/open-data/checkbox-open-data.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/checkbox-open-data.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -26,7 +26,7 @@ Abb.: Checkbox Open Data
 Diese Checkbox kennzeichnet den Metadatensatz als "Open Data", es wird das Schlagwort "opendata" im ISO-XML generiert. Wenn das Bundesland der GovData-Kooperation beigetreten ist und die DCAT-AP.de Schnittstelle des Bundeslandes im Portal GovData aktiviert ist, werden diese Metadaten an das Portal `GovData <https://www.govdata.de/>`_ übergeben. In einem weiteren Schritt werden diese Daten vom Portal `data.europa.eu <https://data.europa.eu/de/trening/what-open-data>`_ der Europäischen Kommission geharvestet (abgeerntet). 
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/open-data/open-data_iso-keyword.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_iso-keyword.png
    :scale: 50
    :figwidth: 100%
 
@@ -39,7 +39,7 @@ Folgende Eigenschaften ändern sich bei der Aktivierung der Checkbox Open Data:
  - Im Abschnitt „Verweise“ muss ein Verweis vom Typ "Datendownload" eingegeben werden.
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/open-data/open-data_hinweis.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hinweis.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -60,7 +60,7 @@ Die Tabelle "Kategorien" enthält eine Auswahlliste zur näheren Bestimmung des 
 `Auswahlliste der Open Data Kategorien <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_allgemeines_opendata-kategorien.html>`_
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/open-data/open-data_kategorie.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_kategorie.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -74,7 +74,7 @@ Abschnitt Verfügbarkeit
 
 In den Nutzungsbedingungen muss eine Lizenz ausgewählt werden, die die Nutzung der Daten unter bestimmten Bedingungen erlaubt. 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/open-data/open-data_nutzungsbedingungen_lizenz.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_nutzungsbedingungen_lizenz.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -84,7 +84,7 @@ Abb.: Nutzungsbedingungen - Lizenz
 
 Im Feld Quelle kann eine Datenquelle angegeben werden, z.B: *Quelle © Daten: Landesamt für ...* oder *Quellenvermerk: © GeoBasis-DE / LVermGeo LSA*. Diese Angabe ist z.B. in Basiskarten relevant, da diese Information in einem Kartenviewer in der Basiskarte angezeigt werden muss.
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/open-data/open-data_nutzungsbedingungen_quelle.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_nutzungsbedingungen_quelle.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -109,7 +109,7 @@ Abschnitt Verweise
 Wenn ein Metadatensatz als Open Data gekennzeichnet ist, muss der Metadatensatz einen Download-Link zu den beschriebenen Daten enthalten. Dies geschieht an dieser Stelle. Der Datenhalter ist dafür verantwortlich, dass die verlinkten Daten jederzeit verfügbar sind.
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/open-data/open-data_verweis.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_verweis.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -117,7 +117,7 @@ Wenn ein Metadatensatz als Open Data gekennzeichnet ist, muss der Metadatensatz 
 Abb.: Datendownload anlegen
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/open-data/open-data_verweis_angelegt.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_verweis_angelegt.png
    :align: left
    :scale: 50
    :figwidth: 100%
