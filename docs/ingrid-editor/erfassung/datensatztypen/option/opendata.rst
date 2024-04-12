@@ -14,7 +14,7 @@ Open Data - offene Verwaltungsdaten
 
 .. hint:: Es gibt Datensätze, die nicht unter das Transparenzgesetz fallen, aber freiwillig nach Open Data (GovData) veröffentlicht werden können. Bei diesen Objekten sollte im InGrid-Editor nur die Checkbox „Open Data“ angehakt werden. Die Checkbox „Veröffentlichung gemäß HmbTG“ muss deaktiviert sein.
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_checkboxen-hmdk.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_checkboxen.png
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -30,6 +30,29 @@ Wird die Checkbox „Open Data“ aktiviert, erscheint diese Meldung und es werd
    :figwidth: 100%
 
 Abb.: Hinweis
+
+
+
+Pflichtfelder
+""""""""""""""
+
+Informationsgegenstand
+'''''''''''''''''''''''
+
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_pflichfelder-informationsgegenstand.png
+   :align: left
+   :scale: 70
+   :figwidth: 100%
+
+Abb.: Feld - Informationsgegenstand
+
+
+Wird die Open Data Checkbox angehakt, wird gleichzeitig die Checkbox „Veröffentlichung gemäß HmbTG“ aktiviert. Sind die Daten von der Veröffentlichungspflicht nach dem Hamburger Transparenzgesetz ausgenommen sollte der Haken bei „Veröffentlichung gemäß HmbTG“ wieder entfernt werden.
+(In den meisten Fällen hängt jedoch die Veröffentlichung in GovData auch mit der Veröffentlichung im Transparenzportal zusammen.)
+Sobald jedoch nur Open Data aktiv ist, wird automatisch im Feld „Informationsgegenstand“ der Wert „Ohne gesetzliche Verpflichtung“ gesetzt. Wird der Haken bei Open Data wieder entfernt, wird der Eintrag bei Informationsgegenstand gelöscht.
+
+
+
 
 
 Folgende Eigenschaften ändern sich bei der Aktivierung der Checkbox Open Data:
