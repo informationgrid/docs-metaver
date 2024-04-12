@@ -31,7 +31,7 @@ Checkbox INSPIRE-relevant
 
 Abb.: Checkbox INSPIRE-relevant
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/checkbox-inspire-relevant.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/checkbox-inspire-relevant.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -40,7 +40,7 @@ Abb.: Checkbox INSPIRE relevant
 
 Mit der Aktivierung wird das Schlüsselwort "inspireidentified" im ISO-XML gesetzt.
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/iso-xml-inspireidentifiziert.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/iso-xml-inspireidentifiziert.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -63,7 +63,7 @@ Der Geodatensatz wird über die Registry der GDI-DE an die EU gemeldet und im Ra
 Option konform
 """"""""""""""
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/checkbox-inspire-relevant_konform.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/checkbox-inspire-relevant_konform.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -71,7 +71,7 @@ Option konform
 Abb.: INSPIRE-Optionen konform
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/checkbox-inspire-relevant_konform-hinweis.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/checkbox-inspire-relevant_konform-hinweis.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -84,7 +84,7 @@ Der Geodatensatz ist an INSPIRE gemeldet und liegt im INSPIRE-Datenschema vor. D
 In der ISO-XML erscheint "true".
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/iso-xml-inspireidentifiziert_true.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/iso-xml-inspireidentifiziert_true.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -95,7 +95,7 @@ Abb.: Darstellung in der ISO-XML
 Option nicht konform
 """"""""""""""""""""
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/checkbox-inspire-relevant_nicht-konform.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/checkbox-inspire-relevant_nicht-konform.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -103,7 +103,7 @@ Option nicht konform
 Abb: INSPIRE-Option nicht konform
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/checkbox-inspire-relevant_konform-hinweis.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/checkbox-inspire-relevant_konform-hinweis.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -115,7 +115,7 @@ Geodatensatz wird an INSPIRE gemeldet, liegt aber nicht im INSPIRE-DatenSchema v
 In der ISO-XML erscheint "false".
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/iso-xml-inspireidentifiziert_false.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/iso-xml-inspireidentifiziert_false.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -141,7 +141,7 @@ Umgekehrt gilt der Automatismus nicht: Beim Hinzufügen einer ISO-Kategorie wird
 
 `Auswahlliste - INSPIRE-Themen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_inspire_themen.html>`_
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/verschlagwortung_inspire-themen.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/verschlagwortung_inspire-themen.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -149,7 +149,7 @@ Umgekehrt gilt der Automatismus nicht: Beim Hinzufügen einer ISO-Kategorie wird
 Abb.: Auswahl des INSPIRE-Themas "Energiequellen" ...
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/datensatztyp_geodatensatz/verschlagwortung_iso-themenkategorie.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/verschlagwortung_iso-themenkategorie.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -162,7 +162,7 @@ Abb.: es erfolgt die automatische Zuordnung der ISO-Themenkategorie "Wirtschaft"
 
 `Auswahlliste - INSPIRE - priority data set <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_inspire_priority-data-set.html>`_
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/verschlagwortung_inspire-priority-data-set.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/verschlagwortung_inspire-priority-data-set.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -175,7 +175,7 @@ Abb.: Feld INSPIRE - priority data set, Beispiel: "ausgewiesene Gewässer ..."
 `Auswahlliste - INSPIRE - Räumlicher Anwendungsbereich <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_inspire_raeumlicher-anwendungsbereich.html>`_
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/verschlagwortung_inspire_raeumlicher-anwendungsbereich.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/verschlagwortung_inspire_raeumlicher-anwendungsbereich.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -188,12 +188,12 @@ Abb.: Feld INSPIRE - Räumlicher Anwendungsbereich, Beispiel: "Regional"
 Abschnitt Zusatzinformation
 """""""""""""""""""""""""""
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/zusatzinformation_konformitaet.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/zusatzinformation_konformitaet.png
    :align: left
    :scale: 50
    :figwidth: 100%
 
-.. image:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/zusatzinformation_konformitaet.png
+.. image:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/zusatzinformation_konformitaet.png
  
 Abb.: Tabelle Konformität
 
@@ -202,7 +202,7 @@ Anzugeben ist, welcher Durchführungsbestimmung der INSPIRE-Richtlinie oder sons
 Dieses Feld wird bei der Auswahl der "INSPIRE-Themen" oder der "Art des Dienstes" automatisch befüllt. Es muss dann nur der Grad der Konformität manuell eingetragen werden.
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/zusatzinformation-konformitaet_bearbeiten.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/zusatzinformation-konformitaet_bearbeiten.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -210,7 +210,7 @@ Dieses Feld wird bei der Auswahl der "INSPIRE-Themen" oder der "Art des Dienstes
 Abb.: Feld Konformität - Aktion / Bearbeiten
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/zusatzinformation-konformitaet_auswahl.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/zusatzinformation-konformitaet_auswahl.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -218,7 +218,7 @@ Abb.: Feld Konformität - Aktion / Bearbeiten
 Abb.: Feld Konformität - Auswahlmöglichkeiten
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/zusatzinformation-konformitaet_grad.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/zusatzinformation-konformitaet_grad.png
    :align: left
    :scale: 50
    :figwidth: 100%
