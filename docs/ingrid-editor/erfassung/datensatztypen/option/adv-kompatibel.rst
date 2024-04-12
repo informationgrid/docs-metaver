@@ -20,7 +20,7 @@ Erfassung
 Checkbox AdV kompatibel
 """""""""""""""""""""""
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/adv-kompatibel/checkbox-adv-kompatibel.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/adv-kompatibel/checkbox-adv-kompatibel.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -38,7 +38,7 @@ Folgende Eigenschaften ändern sich bei der Aktivierung der Checkbox AdV kompati
 Abschnitt Verschlagwortung
 """"""""""""""""""""""""""
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/adv-kompatibel/verschlagwortung_adv-produktgruppe.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/adv-kompatibel/verschlagwortung_adv-produktgruppe.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -48,7 +48,7 @@ Abb.: Tabelle "AdV-Produktgruppe" - (Pflichtangaben)
 `Auswahlliste - AdV-Produktgruppe <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_adv_produktgruppe.html>`_
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/adv-kompatibel/iso-xml-keyword-advmis.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/adv-kompatibel/iso-xml-keyword-advmis.png
    :align: left
    :scale: 50
    :figwidth: 100%
