@@ -33,7 +33,7 @@ Unter Typ können weitere Eigenschaften (Eingabefelder) für den Metadatensatz d
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/hmdk_optionen.png
    :align: left
-   :scale: 100
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Optionen für weitere Eigenschaften
