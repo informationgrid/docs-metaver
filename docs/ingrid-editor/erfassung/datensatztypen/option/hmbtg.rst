@@ -181,7 +181,7 @@ Abb.: XML Keyword - hmbtg
 Neben dem fest vorgegebenen Schlagwort „hmbtg“ wird zusätzlich das Kürzel des ausgewählten Informationsgegenstandes gesetzt (z.B. „hmbtg_09_geodaten“ für den Informationsgegenstand „Geodaten“).
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/hmbtg/hmdk_hmbtg-pflichtfelder-keyword-hmbtg.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/hmbtg/hmdk_hmbtg-keyword-hmbtg_09_geodaten.png
    :align: left
    :scale: 50
    :figwidth: 100%
