@@ -78,7 +78,7 @@ Die folgenden Kategorien stehen zur Verfügung:
 Abb.: Open Data Kategorien
 
 
-`Auswahlliste der Open Data Kategorien <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/metaver_ige/ige_auswahllisten/auswahlliste_allgemeines_opendata-kategorien.html>`_
+`Auswahlliste der Open Data Kategorien <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/auswahllisten/auswahlliste_allgemeines_opendata-kategorien.html>`_
 
 
 
