@@ -5,7 +5,7 @@
 .. note:: Metadaten die nur im Transparenzportal und nicht bei GovData veröffentlicht werden sollen, benötigen nur das Häkchen bei „Veröffentlichung gemäß HmbTG“.
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/hmbtg/hmdk_checkbox-hmbtg.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/hmbtg/hmdk_hmbg-checkbox.png
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -64,7 +64,7 @@ Wird der Haken bei der Checkbox wieder entfernt, so werden automatisch auch die 
 2.1.3 Open Data Kategorie
 ''''''''''''''''''''''''''
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/hmbtg/hmdk_hmbtg-opendata-kategorie-hinweis.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/hmbtg/hmdk_hmbtg-opendata-kategorie.png
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -76,7 +76,7 @@ Abb.: Feld - Hinweis zu den Zugriffsbeschränkungen
 Die folgenden Kategorien stehen zur Verfügung:
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/hmbtg/hmdk_hmbtg-opendata-kategorie.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/hmbtg/hmdk_hmbtg-opendata-kategorie-liste.png
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -170,7 +170,7 @@ Bitte geben Sie an dieser Stelle das Format der eigentlichen Daten an. Handelt e
 Das keyword für Veröffentlichung gemäß HmbTG ist „hmbtg“, es wird automatisch beim Anklicken der Checkbox „Veröffentlichung gemäß HmbTG“ gesetzt. Es erscheint im Portal bei Schlagworte, sowie in der ISO im Element <gmd:keyword>
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/hmbtg/hmdk_pflichtfelder-keyword-hmbtg.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/hmbtg/hmdk_hmbtg-pflichtfelder-keyword-hmbtg.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -181,7 +181,7 @@ Abb.: XML Keyword - hmbtg
 Neben dem fest vorgegebenen Schlagwort „hmbtg“ wird zusätzlich das Kürzel des ausgewählten Informationsgegenstandes gesetzt (z.B. „hmbtg_09_geodaten“ für den Informationsgegenstand „Geodaten“).
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/hmbtg/hmdk_pflichtfelder-keyword-hmbtg.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/hmbtg/hmdk_hmbtg-pflichtfelder-keyword-hmbtg.png
    :align: left
    :scale: 50
    :figwidth: 100%
