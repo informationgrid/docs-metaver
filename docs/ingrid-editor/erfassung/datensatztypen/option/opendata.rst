@@ -172,7 +172,7 @@ Abb.: XML Keyword - opendata
 Neben dem fest vorgegebenen Schlagwort „opendata“ wird zusätzlich das Kürzel des ausgewählten Informationsgegenstandes gesetzt (z.B. „hmbtg_09_geodaten“ für den Informationsgegenstand „Geodaten“).
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_pflichtfelder-keyword-hmbtg.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_pflichtfelder-keyword-hmbtg_09_geodaten.png
    :align: left
    :scale: 50
    :figwidth: 100%
