@@ -264,6 +264,34 @@ Die folgenden Kategorien stehen zur Verfügung:
 Abb.: Fenster - Hinweis zu den Zugriffsbeschränkungen
 
 
+Veröffentlichungsrecht
+'''''''''''''''''''''''
+
+Die Veröffentlichung für Objekte, die für das Hamburger Transparenzportal gekennzeichnet sind, müssen auf „Internet“ gesetzt sein. Bitte kontrollieren!
+
+Siehe drei Punkte Menü neben dem Titel
+
+
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_hmbtg-veroeffentlichungsrecht-setzen.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Veröffentlichungsrecht setzen
+
+
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_hmbtg-veroeffentlichungsrecht.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Fenster - Veröffentlichungsrecht
+
+
+Nutzungsbedingeungen
+'''''''''''''''''''''
+
+
 
 
 
