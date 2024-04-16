@@ -79,7 +79,11 @@ Die folgenden Kategorien stehen zur Verfügung:
    :scale: 50
    :figwidth: 100%
 
-Abb.: Feld - Kategorieauswahlliste
+Abb.: Open Data Kategorien
+
+
+`Auswahlliste der Open Data Kategorien <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_allgemeines_opendata-kategorien.html>`_
+
 
 
 Veröffentlichungsrecht
@@ -261,7 +265,11 @@ Die folgenden Kategorien stehen zur Verfügung:
    :scale: 50
    :figwidth: 100%
 
-Abb.: Fenster - Hinweis zu den Zugriffsbeschränkungen
+Abb.: Open Data Kategorien
+
+
+`Auswahlliste der Open Data Kategorien <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_allgemeines_opendata-kategorien.html>`_
+
 
 
 Veröffentlichungsrecht
