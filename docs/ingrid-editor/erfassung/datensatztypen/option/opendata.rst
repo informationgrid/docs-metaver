@@ -151,6 +151,7 @@ Da über das Transparenzportal mindestens ein Bezug zu den echten Daten hergeste
 Abb.: Fenster - Eintrag bearbeiten
 
 Dateiformat:
+
 Bitte geben Sie an dieser Stelle das Format der eigentlichen Daten an. Handelt es sich beispielsweise um JPEG-Dateien, die in einer ZIP-Datei bereitgestellt werden, ist als Dateiformat des Verweises „JPEG“ auszuwählen.
 
 
