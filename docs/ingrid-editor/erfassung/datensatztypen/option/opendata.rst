@@ -249,7 +249,7 @@ Open Data Kategorie
    :scale: 50
    :figwidth: 100%
 
-Abb.: Fenster - Hinweis zu den Zugriffsbeschränkungen
+Abb.: Feld - Hinweis zu den Zugriffsbeschränkungen
 
 
 Über die Auswahlliste muss mindestens eine Open Data DCAT-AP-DE Kategorie ausgewählt werden.
@@ -290,6 +290,50 @@ Abb.: Fenster - Veröffentlichungsrecht
 
 Nutzungsbedingeungen
 '''''''''''''''''''''
+
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_hmbtg-nutzungsbedingungen.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Feld - Nutzungsbedingungen
+
+
+Durch das Anklicken der Checkbox wird bei den Nutzungsbedingungen automatisch der Eintrag „Datenlizenz Deutschland Namensnennung 2.0“ gesetzt. Eventuell bereits vorhandene ältere Einträge werden überschrieben.
+
+**Quellenvermerk**
+
+Der Quellenvermerk wird automatisch mit „Freie und Hansestadt Hamburg, zuständige Behörde“ gefüllt
+Bitte nicht vergessen, den Eintrag „zuständige Behörde“ durch die eigene Behörde zu ersetzen (z.B. Behörde für Umwelt und Energie).
+Zugriffsbeschränkungen
+Das Feld „Zugriffsbeschränkungen“ wird jetzt nur noch mit „Es gelten keine Zugriffsbeschränkungen“ befüllt, wenn zusätzlich zu Open Data die Checkbox „INSPIRE-relevant“ aktiv ist.
+
+**Begründung:** 
+
+*Das Feld Zugriffsbeschränkungen wird nur mit INSPIRE-relevanten Werten befüllt und findet daher nur im INSPIRE-Kontext Verwendung. Datensätze mit Open Data-Kennzeichnung und ohne INSPIRE-Relevanz sollten nicht gezwungenermaßen eine Wertangabe mit INSPIRE-Bezug beinhalten. Für Open Data-MD, insbesondere bei Weiterleitung über den Geodatenkatalog.de nach GovData, ist diese Angabe nicht notwendig. (Anmerkung: Hier ist demnächst eine Änderung eingeplant).*
+
+
+
+Verweise vom Typ Datendownload
+'''''''''''''''''''''''''''''''
+
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_hmbtg-verweise.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Feld - Verweise
+
+
+Da über das Hamburger Transparenzportal die echten Daten heruntergeladen werden sollen, muss im HMDK bei den HmbTG-Objekten ebenfalls ein Verweis zum Download der eigentlichen Daten eingetragen sein. Aus diesem Grund wird bei Anhaken der Checkbox „Veröffentlichung gemäß HmbTG“ das Anlegen eines Verweises vom Typ „Datendownload“ Pflicht. Der Verweistyp wird im Dialog „Verweis anlegen“ über die vorgegebene Liste ausgewählt. 
+
+
+
+
+
+
+
+
 
 
 
