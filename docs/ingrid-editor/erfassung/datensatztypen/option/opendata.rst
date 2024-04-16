@@ -188,7 +188,7 @@ Metadaten die nur im Transparenzportal und nicht bei GovData veröffentlicht wer
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_checkbox-hmbtg.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Checkbox - Veröffentlichung gemäß HmbTG
@@ -199,7 +199,7 @@ Nach dem erstmaligen Aktivieren erscheint die folgende Meldung, die Sie bitte je
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_hmbtg-hinweis-checkbox.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Fenster - Hinweis zur Veröffentlichung im Hamburger Transparentportal
@@ -207,7 +207,7 @@ Abb.: Fenster - Hinweis zur Veröffentlichung im Hamburger Transparentportal
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_hmbtg-hinweis-zugriffsbeschraenkungen.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Fenster - Hinweis zu den Zugriffsbeschränkungen
@@ -223,7 +223,7 @@ Wird die Checkbox „Veröffentlichung gemäß HmbTG“ angehakt, werden folgend
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_hmbtg-informationsgegenstand.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Fenster - Hinweis zu den Zugriffsbeschränkungen
@@ -247,7 +247,7 @@ Wird der Haken bei der Checkbox wieder entfernt, so werden automatisch auch die 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_hmbtg-opendata-kategorie.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Feld - Hinweis zu den Zugriffsbeschränkungen
@@ -259,7 +259,7 @@ Die folgenden Kategorien stehen zur Verfügung:
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_kategorie.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Open Data Kategorien
@@ -279,7 +279,7 @@ Siehe drei Punkte Menü neben dem Titel
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_hmbtg-veroeffentlichungsrecht-setzen.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Veröffentlichungsrecht setzen
@@ -298,7 +298,7 @@ Abb.: Fenster - Veröffentlichungsrecht
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_hmbtg-nutzungsbedingungen.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Feld - Nutzungsbedingungen
@@ -324,7 +324,7 @@ Das Feld „Zugriffsbeschränkungen“ wird jetzt nur noch mit „Es gelten kein
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_hmbtg-verweise.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Feld - Verweise
@@ -335,7 +335,7 @@ Da über das Hamburger Transparenzportal die echten Daten heruntergeladen werden
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_hmbtg-verweise.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Fenster - Eintrag bearbeiten
