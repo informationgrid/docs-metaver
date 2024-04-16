@@ -196,7 +196,7 @@ Abb.: Checkbox - Veröffentlichung gemäß HmbTG
 Nach dem erstmaligen Aktivieren erscheint die folgende Meldung, die Sie bitte jeweils mit „OK“ bestätigen.
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_hmbtg-hinweis.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_hmbtg-hinweis-checkbox.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -204,7 +204,7 @@ Nach dem erstmaligen Aktivieren erscheint die folgende Meldung, die Sie bitte je
 Abb.: Fenster - Hinweis zur Veröffentlichung im Hamburger Transparentportal
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_hmbtg-zugriffsbeschraenkungen.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_hmbtg-hinweis-zugriffsbeschraenkungen.png
    :align: left
    :scale: 50
    :figwidth: 100%
