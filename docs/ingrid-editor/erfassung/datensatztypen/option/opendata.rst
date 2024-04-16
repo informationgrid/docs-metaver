@@ -166,7 +166,7 @@ Das keyword für Open Data ist „opendata“, es wird automatisch beim Anklicke
    :scale: 50
    :figwidth: 100%
 
-Abb.: Fenster - Keyword opendata
+Abb.: XML Keyword - opendata
 
 
 Neben dem fest vorgegebenen Schlagwort „opendata“ wird zusätzlich das Kürzel des ausgewählten Informationsgegenstandes gesetzt (z.B. „hmbtg_09_geodaten“ für den Informationsgegenstand „Geodaten“).
@@ -177,7 +177,7 @@ Neben dem fest vorgegebenen Schlagwort „opendata“ wird zusätzlich das Kürz
    :scale: 50
    :figwidth: 100%
 
-Abb.: Fenster - Keyword hmbtg_09_geodaten
+Abb.: XML Keyword - hmbtg_09_geodaten
 
 
 2 Veröffentlichung gemäß HMBTG
@@ -333,14 +333,38 @@ Abb.: Feld - Verweise
 Da über das Hamburger Transparenzportal die echten Daten heruntergeladen werden sollen, muss im HMDK bei den HmbTG-Objekten ebenfalls ein Verweis zum Download der eigentlichen Daten eingetragen sein. Aus diesem Grund wird bei Anhaken der Checkbox „Veröffentlichung gemäß HmbTG“ das Anlegen eines Verweises vom Typ „Datendownload“ Pflicht. Der Verweistyp wird im Dialog „Verweis anlegen“ über die vorgegebene Liste ausgewählt. 
 
 
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_hmbtg-verweise.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Fenster - Eintrag bearbeiten
 
 
+**Dateiformat:**
+
+Bitte geben Sie an dieser Stelle das Format der eigentlichen Daten an. Handelt es sich beispielsweise um JPEG-Dateien, die in einer ZIP-Datei bereitgestellt werden, ist als Dateiformat des Verweises „JPEG“ auszuwählen.
 
 
+2.1.7 Schlagworte (Keywords)
+
+Das keyword für Veröffentlichung gemäß HmbTG ist „hmbtg“, es wird automatisch beim Anklicken der Checkbox „Veröffentlichung gemäß HmbTG“ gesetzt. Es erscheint im Portal bei Schlagworte, sowie in der ISO im Element <gmd:keyword>
 
 
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_pflichtfelder-keyword-hmbtg.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: XML Keyword - hmbtg
 
 
+Neben dem fest vorgegebenen Schlagwort „hmbtg“ wird zusätzlich das Kürzel des ausgewählten Informationsgegenstandes gesetzt (z.B. „hmbtg_09_geodaten“ für den Informationsgegenstand „Geodaten“).
 
 
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_pflichtfelder-keyword-hmbtg.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
+Abb.: XML Keyword - hmbtg_09_geodaten
