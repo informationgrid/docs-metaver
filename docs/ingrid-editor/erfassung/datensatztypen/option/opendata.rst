@@ -185,10 +185,83 @@ Veröffentlichung gemäß HMBTG
 Metadaten die nur im Transparenzportal und nicht bei GovData veröffentlicht werden sollen, benötigen nur das Häkchen bei „Veröffentlichung gemäß HmbTG“.
 
 
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_checkbox-hmbtg.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Checkbox - Veröffentlichung gemäß HmbTG
+
 
 Nach dem erstmaligen Aktivieren erscheint die folgende Meldung, die Sie bitte jeweils mit „OK“ bestätigen.
 
 
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_hmbtg-hinweis.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Fenster - Hinweis zur Veröffentlichung im Hamburger Transparentportal
+
+
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_hmbtg-zugriffsbeschraenkungen.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Fenster - Hinweis zu den Zugriffsbeschränkungen
+
+
+Pflichtfelder
+""""""""""""""
+Wird die Checkbox „Veröffentlichung gemäß HmbTG“ angehakt, werden folgende Felder automatisch zum Pflichtfeld:
+
+
+Informationsgegenstand
+'''''''''''''''''''''''
+
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_hmbtg-informationsgegenstand.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Fenster - Hinweis zu den Zugriffsbeschränkungen
+
+
+
+Es muss mindestens ein Informationsgegenstand der Auswahlliste ausgewählt werden. Möglich ist auch die Angabe „Ohne gesetzliche Verpflichtung“.
+
+Wird der Haken bei der Checkbox wieder entfernt, so werden automatisch auch die ausgewählten Informationsgegenstände gelöscht.
+
+
+Adressen
+'''''''''
+
+•  Es muss mindestens einen 'Ansprechpartner MD' geben.
+•  Es muss mindestens einen 'Herausgeber' geben
+
+
+Open Data Kategorie
+''''''''''''''''''''
+
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hmdk_hmbtg-opendata-kategorie.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Fenster - Hinweis zu den Zugriffsbeschränkungen
+
+
+Über die Auswahlliste muss mindestens eine Open Data DCAT-AP-DE Kategorie ausgewählt werden.
+Die folgenden Kategorien stehen zur Verfügung:
+
+
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_kategorie.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Fenster - Hinweis zu den Zugriffsbeschränkungen
 
 
 
