@@ -7,7 +7,7 @@ Option: Open Data
 1 Open Data
 ^^^^^^^^^^^
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/hmdk_checkboxen.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/hmdk_checkbox-opendata.png
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -17,7 +17,7 @@ Abb.: Checkbox Open Data
 
 Wird die Checkbox „Open Data“ aktiviert, erscheint diese Meldung und es werden folgende Felder automatisch zum Pflichtfeld:
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/hinweis.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/hmdk_open-data/hinweis.png
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -32,7 +32,7 @@ Abb.: Fenster - Hinweis
 1.1.1 Informationsgegenstand
 '''''''''''''''''''''''''''''
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/hmdk_pflichtfelder-informationsgegenstand.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/hmdk_option/open-data/hmdk_pflichtfelder-informationsgegenstand.png
    :align: left
    :scale: 70
    :figwidth: 100%
