@@ -2,7 +2,7 @@
 2 Veröffentlichung gemäß HMBTG
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Metadaten die nur im Transparenzportal und nicht bei GovData veröffentlicht werden sollen, benötigen nur das Häkchen bei „Veröffentlichung gemäß HmbTG“.
+.. note:: Metadaten die nur im Transparenzportal und nicht bei GovData veröffentlicht werden sollen, benötigen nur das Häkchen bei „Veröffentlichung gemäß HmbTG“.
 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/hmbtg/hmdk_checkbox-hmbtg.png
