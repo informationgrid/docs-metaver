@@ -170,7 +170,7 @@ Bitte geben Sie an dieser Stelle das Format der eigentlichen Daten an. Handelt e
 Das keyword für Veröffentlichung gemäß HmbTG ist „hmbtg“, es wird automatisch beim Anklicken der Checkbox „Veröffentlichung gemäß HmbTG“ gesetzt. Es erscheint im Portal bei Schlagworte, sowie in der ISO im Element <gmd:keyword>
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/hmbtg/hmdk_hmbtg-pflichtfelder-keyword-hmbtg.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/hmbtg/hmdk_hmbtg-keyword-hmbtg.png
    :align: left
    :scale: 50
    :figwidth: 100%
