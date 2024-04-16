@@ -160,7 +160,7 @@ Da über das Hamburger Transparenzportal die echten Daten heruntergeladen werden
 Abb.: Fenster - Eintrag bearbeiten
 
 
-**Dateiformat:**
+Dateiformat:
 
 Bitte geben Sie an dieser Stelle das Format der eigentlichen Daten an. Handelt es sich beispielsweise um JPEG-Dateien, die in einer ZIP-Datei bereitgestellt werden, ist als Dateiformat des Verweises „JPEG“ auszuwählen.
 
