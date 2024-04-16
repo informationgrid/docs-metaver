@@ -182,6 +182,17 @@ Abb.: Fenster - Keyword hmbtg_09_geodaten
 Veröffentlichung gemäß HMBTG
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Metadaten die nur im Transparenzportal und nicht bei GovData veröffentlicht werden sollen, benötigen nur das Häkchen bei „Veröffentlichung gemäß HmbTG“.
+
+
+
+Nach dem erstmaligen Aktivieren erscheint die folgende Meldung, die Sie bitte jeweils mit „OK“ bestätigen.
+
+
+
+
+
+
 
 -----------------------------------------------------------------------------------------------------------------------
 
