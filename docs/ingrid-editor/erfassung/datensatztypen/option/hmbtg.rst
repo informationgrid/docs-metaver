@@ -78,7 +78,7 @@ Die folgenden Kategorien stehen zur Verfügung:
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/hmbtg/hmdk_hmbtg-opendata-kategorie-liste.png
    :align: left
-   :scale: 70
+   :scale: 50
    :figwidth: 100%
 
 Abb.: Open Data Kategorien
