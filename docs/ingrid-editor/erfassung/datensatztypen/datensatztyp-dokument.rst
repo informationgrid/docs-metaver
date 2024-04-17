@@ -22,7 +22,7 @@ Unter Typ können weitere Eigenschaften (Eingabefelder) für den Metadatensatz d
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkbox_opendata.png
    :align: left
-   :scale: 90
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Optionen für weitere Eigenschaften
