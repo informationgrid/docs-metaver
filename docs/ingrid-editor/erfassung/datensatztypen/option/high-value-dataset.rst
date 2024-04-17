@@ -10,3 +10,8 @@ Der öffentliche Sektor verfügt über eine Vielzahl von Informationen - z. B. S
 Im Jahr 2019 wurde die PSI-Richtlinie überarbeitet: Die überarbeitete Richtlinie sieht unter anderem die Definition von **hochwertigen Datensätzen**, sogenannten High Value Datasets (HVD), vor. Als HVD klassifizierte Datensätze sollen künftig von Behörden oder öffentlichen Unternehmen als Open Data kostenfrei, maschinenlesbar und über Schnittstellen zur Verfügung gestellt werden. 
 
 (Quelle: Fraunhofer FOKUS / Offene Daten in der EU: Studie zu "High Value Datasets")
+
+..seealso:: `GovData - Hochwertige Datensätze: <https://www.govdata.de/hochwertige-datensaetze>`_
+
+
+ 

@@ -33,7 +33,7 @@ Funktion: Der GetCapabilities-Assistent
    
 Abb.: GetCapabilitie-Assistent - Symbol (Zauberstab) in der Symbolleiste
 
-.. seealso:: Hier wird die Erfassung von Metadaten mit dem `GetCapabilities-Assistenten <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/erfassungsassistent/getcapabilitie-assistent.html>`_  beschrieben.
+.. seealso:: Hier wird die Erfassung von Metadaten mit dem `GetCapabilities-Assistenten <https://metaver-bedienungsanleitung.readthedocs.io/de/hmbtg/ingrid-editor/erfassung/datensatztypen/erfassungsassistent/getcapabilitie-assistent.html>`_  beschrieben.
 
 
 -----------------------------------------------------------------------------------------------------------------------
@@ -44,9 +44,9 @@ Feld: Typ
 
 Unter Typ können weitere Eigenschaften (Eingabefelder) für den Metadatensatz definiert werden.
 
-.. seealso:: Beschreibungen der Optionen: `INSPIRE-relevant | <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/inspire-relevant.html>`_ `AdV-kompatibel | <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/adv-kompatibel.html>`_ `Open Data <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/opendata.html>`_
+.. seealso:: Beschreibungen der Optionen: `INSPIRE-relevant | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmbtg/ingrid-editor/erfassung/datensatztypen/option/inspire-relevant.html>`_ `AdV-kompatibel | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmbtg/ingrid-editor/erfassung/datensatztypen/option/adv-kompatibel.html>`_ `Open Data <https://metaver-bedienungsanleitung.readthedocs.io/de/hmbtg/ingrid-editor/erfassung/datensatztypen/option/opendata.html>`_
 
-.. `(InVeKoS) <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/invekos.html>`_
+.. `(InVeKoS) <https://metaver-bedienungsanleitung.readthedocs.io/de/hmbtg/ingrid-editor/erfassung/datensatztypen/option/invekos.html>`_
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/typ_optionen.png
    :align: left
@@ -61,18 +61,18 @@ Abb.: Optionen für weitere Eigenschaften
 Abschnitt Allgemeines
 ---------------------
 
-.. hint:: Dieser Abschnitt ist unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_ beschrieben.
+.. hint:: Dieser Abschnitt ist unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/hmbtg/ingrid-editor/erfassung/erfassung-metadaten.html>`_ beschrieben.
 
 -----------------------------------------------------------------------------------------------------------------------
 
 Abschnitt Verschlagwortung
 ---------------------------
 
-.. hint:: Dieser Abschnitt ist unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_ beschrieben.
+.. hint:: Dieser Abschnitt ist unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/hmbtg/ingrid-editor/erfassung/erfassung-metadaten.html>`_ beschrieben.
 
-.. seealso:: Beschreibungen der Optionen: `INSPIRE-relevant | <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/inspire-relevant.html>`_ `AdV-kompatibel | <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/adv-kompatibel.html>`_ `Open Data <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/opendata.html>`_
+.. seealso:: Beschreibungen der Optionen: `INSPIRE-relevant | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmbtg/ingrid-editor/erfassung/datensatztypen/option/inspire-relevant.html>`_ `AdV-kompatibel | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmbtg/ingrid-editor/erfassung/datensatztypen/option/adv-kompatibel.html>`_ `Open Data <https://metaver-bedienungsanleitung.readthedocs.io/de/hmbtg/ingrid-editor/erfassung/datensatztypen/option/opendata.html>`_
 
-.. `(InVeKoS) <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/option/invekos.html>`_
+.. `(InVeKoS) <https://metaver-bedienungsanleitung.readthedocs.io/de/hmbtg/ingrid-editor/erfassung/datensatztypen/option/invekos.html>`_
 
 -----------------------------------------------------------------------------------------------------------------------
 
@@ -89,7 +89,7 @@ Feld: Klassifikation des Dienstes
 
 Abb.: Feld "Klassifikation des Dienstes"
 
-`Auswahlliste - Klassifizierung des Dienstes <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/auswahllisten/auswahlliste_fachbezug_geodatendienst_klassifikation.html>`_
+`Auswahlliste - Klassifizierung des Dienstes <https://metaver-bedienungsanleitung.readthedocs.io/de/hmbtg/ingrid-editor/auswahllisten/auswahlliste_fachbezug_geodatendienst_klassifikation.html>`_
 
 
 Aus der vorgegebenen Auswahlliste ist der für den Dienst zutreffende Eintrag auszuwählen. Für WebMap-Dienste (WMS) kann beispielsweise "Dienst für den Zugriff auf grafische Darstellungen" ausgewählt werden. Dieses Feld dient in erster Linie der Identifikation eines Dienstes durch den recherchierenden Nutzer. 
@@ -112,7 +112,7 @@ Beispiel Darstellungsdienst: Dienst für den Zugriff auf grafische Daten
 Beispiel Downloaddienst: Download-Dienste
 
 
-`Auswahlliste - Art des Dienstes <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/auswahllisten/auswahlliste_fachbezug_geodatendienst_dienstarten.html>`_
+`Auswahlliste - Art des Dienstes <https://metaver-bedienungsanleitung.readthedocs.io/de/hmbtg/ingrid-editor/auswahllisten/auswahlliste_fachbezug_geodatendienst_dienstarten.html>`_
 
 
 .. hint:: Die Auswahl der Dienstart wirkt sich auf das Feld Konformität aus. Je nach gewählter Dienstart ist das Feld Konformität bereits vorbelegt (gilt nicht für alle Dienstarten).
@@ -149,13 +149,13 @@ Option: Als ATOM-Download Dienst bereitstellen
 
 Abb.: Checkbox "Als ATOM-Download Dienst bereitstellen"
 
-.. seealso:: Beschreibung der Funktion: `Als ATOM-Download Dienst bereitstellen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/atom-feed/bereitstellung.html>`_
+.. seealso:: Beschreibung der Funktion: `Als ATOM-Download Dienst bereitstellen <https://metaver-bedienungsanleitung.readthedocs.io/de/hmbtg/ingrid-editor/erfassung/datensatztypen/atom-feed/bereitstellung.html>`_
 
 
 Anwendung: Der ATOM-Feed Client
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. seealso:: Beschreibung des `Atom-Feed Clients <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/atom-feed/client.html>`_
+.. seealso:: Beschreibung des `Atom-Feed Clients <https://metaver-bedienungsanleitung.readthedocs.io/de/hmbtg/ingrid-editor/erfassung/datensatztypen/atom-feed/client.html>`_
 
 
 Feld: Operationen
@@ -214,7 +214,7 @@ Abb.: Felder für Operationen im Editor nach der Übernahme der Metadaten aus de
 
 .. tip:: Überprüfen Sie Ihre Geodatendienste durch Betätigen des Buttons "AKTUALISIEREN". Wenn der Dienst und die URL korrekt sind, werden die Metadaten des Dienstes angezeigt (außer bei geschützten Diensten).
 
-.. seealso:: Erstellung eines Geodatendienstes mit dem  `GetCapabilitie Assistenten <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/erfassungsassistent/getcapabilitie-assistent.html>`_.
+.. seealso:: Erstellung eines Geodatendienstes mit dem  `GetCapabilitie Assistenten <https://metaver-bedienungsanleitung.readthedocs.io/de/hmbtg/ingrid-editor/erfassung/datensatztypen/erfassungsassistent/getcapabilitie-assistent.html>`_.
 
 
 
@@ -329,4 +329,4 @@ Dieses Feld wird automatisch ausgefüllt, wenn "INSPIRE-Themen" oder "Art des Di
 
 Gemäß den Empfehlungen des AdV-Metadatenprofils sind im Feld "Konformitätsgrad" nur die Werte "konform" und "nicht konform" zu verwenden. Für alle Nicht-INSPIRE-Objekte ist hier die „INSPIRE-Richtlinie“ mit dem Wert „nicht evaluiert“ auszuwählen.
 
-.. hint:: Die Abschnitte Raumbezug, Zeitbezug, Zusatzinformationen, Verfügbarkeit und Verweise werden unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/erfassung-metadaten.html>`_ ausführlich beschrieben, da sie für mehrere Metadatentypen gelten.
+.. hint:: Die Abschnitte Raumbezug, Zeitbezug, Zusatzinformationen, Verfügbarkeit und Verweise werden unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/hmbtg/ingrid-editor/erfassung/erfassung-metadaten.html>`_ ausführlich beschrieben, da sie für mehrere Metadatentypen gelten.
