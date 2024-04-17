@@ -15,6 +15,22 @@ Der Datensatztyp "Datenbank" beschreibt gemessene, aufbereitete oder erhobene Da
 
 -----------------------------------------------------------------------------------------------------------------------
 
+Feld: Typ
+^^^^^^^^^
+
+Unter Typ können weitere Eigenschaften (Eingabefelder) für den Metadatensatz definiert werden.
+
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/hmdk_checkboxen_opendata-hmbtg.png
+   :align: left
+   :scale: 80
+   :figwidth: 100%
+
+Abb.: Optionen für weitere Eigenschaften
+
+.. seealso:: Optionen: `Open Data | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/option/opendata.html>`_ `Veröffentlichung gemäß HmbTG <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/option/hmbtg.html>`_
+
+-----------------------------------------------------------------------------------------------------------------------
+
 
 Abschnitt Fachbezug
 -------------------
