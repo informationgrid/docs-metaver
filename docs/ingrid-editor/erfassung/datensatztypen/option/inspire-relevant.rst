@@ -31,7 +31,7 @@ Checkbox INSPIRE-relevant
 
 Abb.: Checkbox INSPIRE-relevant
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/checkbox-inspire-relevant.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkbox_opendata_typ_inspire.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -42,7 +42,7 @@ Mit der Aktivierung wird das Schlüsselwort "inspireidentified" im ISO-XML geset
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/iso-xml-inspireidentifiziert.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: ISO-XML - Angabe des Schlüsselwortes "inspireidentifiziert"
