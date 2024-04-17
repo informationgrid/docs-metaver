@@ -164,7 +164,7 @@ Datensatztypen mit den entsprechenden Optionen:
   - **Projekt:** -
   - **Organisationseinheit (Fachaufgabe):** - 
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/optionen.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkboxen.png
    :align: left
    :scale: 80
    :figwidth: 100%
