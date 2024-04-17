@@ -17,21 +17,28 @@ AdV: Arbeitsgemeinschaft der Vermessungsverwaltungen
 Erfassung
 ^^^^^^^^^
 
-Checkbox AdV kompatibel
+Option: AdV kompatibel
 """""""""""""""""""""""
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/adv-kompatibel/checkbox-adv-kompatibel.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkbox_typ_inspire.png
    :align: left
    :scale: 50
    :figwidth: 100%
 
-Abb.: Checkbox AdV kompatibel
+Abb.: Option: AdV kompatibel
 
-Wenn die Checkbox "AdV-kompatibel" aktiviert ist, dann werden die Anforderungen des AdV-Metadatenprofils umgesetzt.
+Wenn die Option "AdV-kompatibel" aktiviert ist, dann werden die Anforderungen des AdV-Metadatenprofils umgesetzt.
 
 Folgende Eigenschaften ändern sich bei der Aktivierung der Checkbox AdV kompatibel:
  - Abschnitt Verschlagwortung: Aktivierung der Tabelle "AdV-Produktgruppe"
  - Aktivierung des Schlagwortes "AdVMIS" in der ISO-XML
+
+ .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/adv-kompatibel/iso-xml-keyword-advmis.png
+   :align: left
+   :scale: 90
+   :figwidth: 100%
+
+Abb.: ISO-XML - Angabe des Schlüsselwortes "advmis"
 
 -----------------------------------------------------------------------------------------------------------------------
 
