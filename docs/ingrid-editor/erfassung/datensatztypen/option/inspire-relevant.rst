@@ -29,8 +29,6 @@ Beispiele:
 Option: INSPIRE-relevant
 """""""""""""""""""""""""
 
-Abb.: Typ INSPIRE-relevant
-
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkbox_typ_inspire.png
    :align: left
    :scale: 90
