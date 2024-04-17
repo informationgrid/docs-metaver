@@ -31,7 +31,7 @@ Checkbox INSPIRE-relevant
 
 Abb.: Checkbox INSPIRE-relevant
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkbox_opendata_typ_inspire.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkbox_typ_inspire.png
    :align: left
    :scale: 50
    :figwidth: 100%
