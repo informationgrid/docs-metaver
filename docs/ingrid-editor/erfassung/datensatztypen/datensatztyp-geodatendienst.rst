@@ -44,16 +44,14 @@ Feld: Typ
 
 Unter Typ können weitere Eigenschaften (Eingabefelder) für den Metadatensatz definiert werden.
 
-.. seealso:: Optionen: `INSPIRE-relevant | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/option/inspire-relevant.html>`_ `AdV kompatibel | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/option/adv-kompatibel.html>`_ `Open Data | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/option/opendata.html>`_ `Veröffentlichung gemäß HmbTG <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/option/hmbtg.html>`_
-
-
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/typ_optionen.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/hmdk_optionen.png
    :align: left
-   :scale: 90
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Optionen für weitere Eigenschaften
 
+.. seealso:: Optionen: `INSPIRE-relevant | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/option/inspire-relevant.html>`_ `AdV kompatibel | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/option/adv-kompatibel.html>`_ `Open Data | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/option/opendata.html>`_ `Veröffentlichung gemäß HmbTG <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/option/hmbtg.html>`_
 
 -----------------------------------------------------------------------------------------------------------------------
 
