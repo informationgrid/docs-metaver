@@ -156,14 +156,14 @@ Unter "Typ" werden die Optionen für die verschiedenen Datensatztypen angezeigt,
 
 Datensatztypen mit den entsprechenden Optionen:
 
-- **Datensammlung:** OpenData, Veröffentlichung gemäß HmbTG
-- **Geodatensatz:** INSPIRE-relevant, AdV kompatibel, OpenData, Veröffentlichung gemäß HmbTG
-  - InVeKoS
-- **Geodatendienst:** INSPIRE-relevant, AdV kompatibel, OpenData, Veröffentlichung gemäß HmbTG
-- **Informationssystem:** INSPIRE-relevant, AdV kompatibel, OpenData, Veröffentlichung gemäß HmbTG
-- **Dokument:** OpenData, Veröffentlichung gemäß HmbTG
-- **Projekt:** -
-- **Fachaufgabe:** - 
+| **Datensammlung:** OpenData, Veröffentlichung gemäß HmbTG
+| **Geodatensatz:** INSPIRE-relevant, AdV kompatibel, OpenData, Veröffentlichung gemäß HmbTG
+  | InVeKoS
+| **Geodatendienst:** INSPIRE-relevant, AdV kompatibel, OpenData, Veröffentlichung gemäß HmbTG
+| **Informationssystem:** INSPIRE-relevant, AdV kompatibel, OpenData, Veröffentlichung gemäß HmbTG
+| **Dokument:** OpenData, Veröffentlichung gemäß HmbTG
+| **Projekt:** -
+| **Fachaufgabe:** - 
 
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/datensatztypen/option/hmdk_optionen.png
