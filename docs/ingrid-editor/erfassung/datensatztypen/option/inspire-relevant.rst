@@ -33,7 +33,7 @@ Abb.: Typ INSPIRE-relevant
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkbox_typ_inspire.png
    :align: left
-   :scale: 50
+   :scale: 90
    :figwidth: 100%
 
 Abb.: Option: INSPIRE relevant
