@@ -31,7 +31,7 @@ Feld: Typ
 
 Unter Typ können weitere Eigenschaften (Eingabefelder) für den Metadatensatz definiert werden.
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/hmdk_optionen.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/hmdk_checkboxen.png
    :align: left
    :scale: 80
    :figwidth: 100%
