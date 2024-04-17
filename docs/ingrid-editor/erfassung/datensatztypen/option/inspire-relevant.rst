@@ -26,17 +26,17 @@ Beispiele:
  - INSPIRE ST Umweltüberwachung - Gewässerkundlicher Landesdienst
 
 
-Checkbox INSPIRE-relevant
+Option INSPIRE-relevant
 """""""""""""""""""""""""
 
-Abb.: Checkbox INSPIRE-relevant
+Abb.: Typ INSPIRE-relevant
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkbox_typ_inspire.png
    :align: left
    :scale: 50
    :figwidth: 100%
 
-Abb.: Checkbox INSPIRE relevant
+Abb.: Option INSPIRE relevant
 
 Mit der Aktivierung wird das Schlüsselwort "inspireidentified" im ISO-XML gesetzt.
 
@@ -47,7 +47,7 @@ Mit der Aktivierung wird das Schlüsselwort "inspireidentified" im ISO-XML geset
 
 Abb.: ISO-XML - Angabe des Schlüsselwortes "inspireidentifiziert"
 
-Wenn diese Checkbox aktiviert ist, werden die Metadaten an den `Geodatenkatalog Deutschland <https://gdk.gdi-de.org/>`_, an das `Geoportal der Geodateninfrastruktur-Deutschland (GDI-DE) <https://www.geoportal.de/>`_ und an das `INSPIRE Geoportal <https://inspire-geoportal.ec.europa.eu/>`_ der EU geliefert und veröffentlicht. Die Daten und Metadaten unterliegen damit der INSPIRE-Richtlinie.
+Wenn diese Option aktiviert ist, werden die Metadaten an den `Geodatenkatalog Deutschland <https://gdk.gdi-de.org/>`_, an das `Geoportal der Geodateninfrastruktur-Deutschland (GDI-DE) <https://www.geoportal.de/>`_ und an das `INSPIRE Geoportal <https://inspire-geoportal.ec.europa.eu/>`_ der EU geliefert und veröffentlicht. Die Daten und Metadaten unterliegen damit der INSPIRE-Richtlinie.
 
 Der Geodatensatz wird über die Registry der GDI-DE an die EU gemeldet und im Rahmen eines `Monitoringprozesses <https://registry.gdi-de.org/register/moni/>`_ überwacht.
 
