@@ -157,8 +157,7 @@ Unter "Typ" werden die Optionen für die verschiedenen Datensatztypen angezeigt,
 Datensatztypen mit den entsprechenden Optionen:
 
 | **Datenbank:** OpenData, Veröffentlichung gemäß HmbTG
-| **Geodatensatz:** INSPIRE-relevant, AdV kompatibel, OpenData, Veröffentlichung gemäß HmbTG
-  - InVeKoS
+| **Geodatensatz:** INSPIRE-relevant | InVeKoS, AdV kompatibel, OpenData, Veröffentlichung gemäß HmbTG
 | **Geodatendienst:** INSPIRE-relevant, AdV kompatibel, OpenData, Veröffentlichung gemäß HmbTG
 | **Anwendung:** INSPIRE-relevant, AdV kompatibel, OpenData, Veröffentlichung gemäß HmbTG
 | **Dokument:** OpenData, Veröffentlichung gemäß HmbTG
