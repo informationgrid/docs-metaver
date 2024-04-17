@@ -156,20 +156,22 @@ Unter "Typ" werden die Optionen für die verschiedenen Datensatztypen angezeigt,
 
 Datensatztypen mit den entsprechenden Optionen:
 
-  - **Datensammlung:** OpenData
-  - **Geodatensatz:** INSPIRE-relevant, AdV kompatibel, OpenData
-  - **Geodatendienst:** INSPIRE-relevant, AdV kompatibel, OpenData
-  - **Informationssystem:** INSPIRE-relevant, AdV kompatibel, OpenData
-  - **Dokument:** OpenData
+  - **Datensammlung:** OpenData, Veröffentlichung gemäß HmbTG
+  - **Geodatensatz:** INSPIRE-relevant, AdV kompatibel, OpenData, Veröffentlichung gemäß HmbTG
+  - **Geodatendienst:** INSPIRE-relevant, AdV kompatibel, OpenData, Veröffentlichung gemäß HmbTG
+  - **Informationssystem:** INSPIRE-relevant, AdV kompatibel, OpenData, Veröffentlichung gemäß HmbTG
+  - **Dokument:** OpenData, Veröffentlichung gemäß HmbTG
   - **Projekt:** -
   - **Fachaufgabe:** - 
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/optionen.png
+
+.. figure:: ../../img/ige/erfassung/ige_metadaten/datensatztypen/option/hmdk_optionen.png
    :align: left
    :scale: 80
    :figwidth: 100%
 
-Abb.: Optionen
+Abb.: Optionen für weitere Eigenschaften
+
 
 -----------------------------------------------------------------------------------------------------------------------
 
