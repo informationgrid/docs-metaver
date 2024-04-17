@@ -26,7 +26,7 @@ Unter Typ können weitere Eigenschaften (Eingabefelder) für den Metadatensatz d
    :scale: 70
    :figwidth: 100%
 
-Abb.: Optionen für weitere Eigenschaften
+Abb.: Option für weitere Eigenschaften
 
 .. seealso:: Beschreibungen der Option: `Open Data <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/option/opendata.html>`_
 
