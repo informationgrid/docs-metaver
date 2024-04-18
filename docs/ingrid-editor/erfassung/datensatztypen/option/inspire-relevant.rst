@@ -22,11 +22,9 @@ Erfassung
 Option: INSPIRE-relevant
 """""""""""""""""""""""""
 
-Wenn die beschriebenen Geodaten der INSPIRE-Richtlinie unterliegen, müssen sie in den Metadaten als "INSPIRE-relevant" gekennzeichnet werden. Im ISO-XML wird dann das Schlagwort "INSPIRE-relevant" generiert. 
+Wenn die Option "INSPIRE-relevant" aktiviert ist, werden die Metadaten an den `Geodatenkatalog Deutschland <https://gdk.gdi-de.org/>`_, an das `Geoportal der Geodateninfrastruktur-Deutschland (GDI-DE) <https://www.geoportal.de/>`_ und an das `INSPIRE Geoportal <https://inspire-geoportal.ec.europa.eu/>`_ der EU geliefert und veröffentlicht. Die Daten und Metadaten unterliegen damit der INSPIRE-Richtlinie.
 
-Die Metadaten werden vom `Geodatenkatalog.de <https://gdk.gdi-de.org/gdi-de/srv/ger/catalog.search#/home>`_, über die bereitgestellte CSW-Schnittstelle, geharvestet (abgeerntet). In einem weiteren Schritt werden die Metadaten vom Portal der `GDI-DE <https://www.gdi-de.org>`_ übernommen.
-
-Darüber hinaus werden die INSPIRE-relevanten Metadaten an das `INSPIRE-Geoportal <https://inspire-geoportal.ec.europa.eu/>`_ der Europäischen Kommission übermittelt.
+Der Geodatensatz wird über die Registry der GDI-DE an die EU gemeldet und im Rahmen eines `Monitoringprozesses <https://registry.gdi-de.org/register/moni/>`_ überwacht.
 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkbox_typ_inspire.png
