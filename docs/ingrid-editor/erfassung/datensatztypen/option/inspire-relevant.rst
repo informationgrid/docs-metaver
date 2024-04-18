@@ -219,7 +219,7 @@ Abb.: Feld Konformität - Auswahlmöglichkeiten
 Abb.:  Auswahlfeld "Grad der Konformität" - Auswahlmöglichkeiten
 
 
- Das Datum wird automatisch gesetzt, wenn das Feld "Spezifikation der Konformität" befüllt wird.
+Das Datum wird automatisch gesetzt, wenn das Feld "Spezifikation der Konformität" befüllt wird.
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/zusatzinformation_datum.png
    :align: left
