@@ -243,4 +243,4 @@ Abb.: Feld "geprüft mit": Angabe des Validators - z.B.: https://testsuite.gdi-d
    :scale: 70
    :figwidth: 100%
 
-Abb.: Feld "geprüft mit": Angabe des Validators - z.B.: https://testsuite.gdi-de.org/
+Abb.: Feld "geprüft mit": Angabe des Validators - z.B.: GDI-DE Testsuite
