@@ -219,12 +219,14 @@ Abb.: Feld Konformität - Auswahlmöglichkeiten
 Abb.: Tabelle "Konformität" - Grad der Konformität - Auswahlmöglichkeit
 
 
+ Das Datum wird automatisch gesetzt, wenn das Feld "Spezifikation der Konformität" befüllt wird.
+
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/zusatzinformation_datum.png
    :align: left
    :scale: 70
    :figwidth: 100%
 
-Abb.: Feld Datum: Dieses Feld wird automatisch befüllt, wenn das Feld "Spezifikation der Konformität" befüllt wird.
+Abb.: Feld Datum
 
 
 Das Feld "geprüft mit" ist im Editor eine optionale Angabe, laut der ISO ist es aber verpflichtend, wenn eine Konformität angegeben wird. Deswegen wird in der ISO-XML-Ausgabe das folgende Element mit ausgegeben, wenn keine Eingabe bei "geprüft mit" erfolgt ist:
