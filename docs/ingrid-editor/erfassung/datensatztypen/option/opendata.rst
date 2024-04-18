@@ -8,7 +8,7 @@ Open Data - Bedeutung
 
 Open Data - offene Verwaltungsdaten
 
-.. hint:: `Open-Data-Leitfaden Schleswig-Holstein <https://opendata.schleswig-holstein.de/leitfaden/>`_
+.. tip:: `Open-Data-Leitfaden Schleswig-Holstein <https://opendata.schleswig-holstein.de/leitfaden/>`_
 
 -----------------------------------------------------------------------------------------------------------------------
 
