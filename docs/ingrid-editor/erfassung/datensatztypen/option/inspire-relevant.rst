@@ -197,7 +197,7 @@ Anzugeben ist, welcher Durchführungsbestimmung der INSPIRE-Richtlinie oder sons
 Dieses Feld wird bei der Auswahl der "INSPIRE-Themen" oder der "Art des Dienstes" automatisch befüllt. Es muss dann nur der Grad der Konformität manuell eingetragen werden.
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/zusatzinformation-konformitaet_bearbeiten.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/zusatzinformation_konformitaet_bearbeiten.png
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -205,7 +205,7 @@ Dieses Feld wird bei der Auswahl der "INSPIRE-Themen" oder der "Art des Dienstes
 Abb.: Feld Konformität - Aktion / Bearbeiten
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/zusatzinformation-konformitaet_auswahl.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/zusatzinformation_konformitaet_auswahl.png
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -213,7 +213,7 @@ Abb.: Feld Konformität - Aktion / Bearbeiten
 Abb.: Feld Konformität - Auswahlmöglichkeiten
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/zusatzinformation-konformitaet_grad.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/zusatzinformation_konformitaet_grad.png
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -221,8 +221,19 @@ Abb.: Feld Konformität - Auswahlmöglichkeiten
 Abb.: Tabelle "Konformität" - Grad der Konformität - Auswahlmöglichkeit
 
 
-Feld Datum: Angabe des Datums, wann der Datensatz geprüft wurde.
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/zusatzinformation_datum.png
+   :align: left
+   :scale: 70
+   :figwidth: 100%
 
-Feld "geprüft mit": Angabe des Validators
+Abb.: Feld Datum: Angabe des Datums, wann der Datensatz geprüft wurde.
 
-z.B.: https://testsuite.gdi-de.org/#/
+
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/zusatzinformation_geprueft-mit.png
+   :align: left
+   :scale: 70
+   :figwidth: 100%
+
+Abb.: Feld "geprüft mit": Angabe des Validators - z.B.: https://testsuite.gdi-de.org/
+
+
