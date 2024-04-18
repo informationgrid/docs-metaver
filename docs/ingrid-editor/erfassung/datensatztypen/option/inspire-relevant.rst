@@ -22,14 +22,14 @@ Erfassung
 Option: INSPIRE-relevant
 """""""""""""""""""""""""
 
-Wenn die Option "INSPIRE-relevant" aktiviert ist, werden die Metadaten an den `Geodatenkatalog Deutschland <https://gdk.gdi-de.org/>`_, an das `Geoportal der Geodateninfrastruktur-Deutschland (GDI-DE) <https://www.geoportal.de/>`_ und an das `INSPIRE Geoportal <https://inspire-geoportal.ec.europa.eu/>`_ der EU geliefert und veröffentlicht. Die Daten und Metadaten unterliegen damit der INSPIRE-Richtlinie.
+Wenn die Option "INSPIRE-relevant" aktiviert ist, werden die Metadaten an den `Geodatenkatalog Deutschland <https://gdk.gdi-de.org/>`_, an das `Geoportal der Geodateninfrastruktur-Deutschland (GDI-DE) <https://www.geoportal.de/>`_ und an das `INSPIRE Geoportal <https://inspire-geoportal.ec.europa.eu/srv/eng/catalog.search#/home>`_ der EU geliefert und veröffentlicht. Die Daten und Metadaten unterliegen damit der INSPIRE-Richtlinie.
 
 Der Geodatensatz wird über die Registry der GDI-DE an die EU gemeldet und im Rahmen eines `Monitoringprozesses <https://registry.gdi-de.org/register/moni/>`_ überwacht.
 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkbox_typ_inspire.png
    :align: left
-   :scale: 100
+   :scale: 90
    :figwidth: 100%
 
 Abb.: Option: INSPIRE relevant
@@ -68,7 +68,7 @@ Abb.: INSPIRE-Optionen konform
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/checkbox-inspire-relevant_konform-hinweis.png
    :align: left
-   :scale: 70
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Hinweis
@@ -100,7 +100,7 @@ Abb: INSPIRE-Option nicht konform
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/checkbox-inspire-relevant_konform-hinweis.png
    :align: left
-   :scale: 70
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Hinweis
@@ -134,11 +134,11 @@ Umgekehrt gilt der Automatismus nicht: Beim Hinzufügen einer ISO-Kategorie wird
 
 **Aktivierung der Tabelle "INSPIRE-Themen" mit Pflichtangaben.**
 
-`Auswahlliste - INSPIRE-Themen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/auswahllisten/auswahlliste_verschlagwortung_inspire_themen.html>`_
+`Auswahlliste - INSPIRE-Themen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/auswahllisten/auswahlliste_verschlagwortung_inspire_themen.html>`_
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/verschlagwortung_inspire-themen.png
    :align: left
-   :scale: 56
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Auswahl des INSPIRE-Themas "Energiequellen" ...
@@ -155,7 +155,7 @@ Abb.: es erfolgt die automatische Zuordnung der ISO-Themenkategorie "Wirtschaft"
 
 **Aktivierung der Tabelle "INSPIRE - priority data set" mit optionalen Angaben.**
 
-`Auswahlliste - INSPIRE - priority data set <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/auswahllisten/auswahlliste_verschlagwortung_inspire_priority-data-set.html>`_
+`Auswahlliste - INSPIRE - priority data set <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/auswahllisten/auswahlliste_verschlagwortung_inspire_priority-data-set.html>`_
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/verschlagwortung_inspire-priority-data-set.png
    :align: left
@@ -167,7 +167,7 @@ Abb.: Feld INSPIRE - priority data set, Beispiel: "ausgewiesene Gewässer ..."
 
 **Aktivierung der Auswahlliste "INSPIRE - Räumlicher Anwendungsbereich" mit Pflichtangaben.**
 
-`Auswahlliste - INSPIRE - Räumlicher Anwendungsbereich <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/auswahllisten/auswahlliste_verschlagwortung_inspire_raeumlicher-anwendungsbereich.html>`_
+`Auswahlliste - INSPIRE - Räumlicher Anwendungsbereich <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/auswahllisten/auswahlliste_verschlagwortung_inspire_raeumlicher-anwendungsbereich.html>`_
 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/verschlagwortung_inspire_raeumlicher-anwendungsbereich.png
