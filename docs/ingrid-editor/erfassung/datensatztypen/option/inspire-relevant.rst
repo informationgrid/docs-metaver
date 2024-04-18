@@ -200,7 +200,7 @@ Dieses Feld wird bei der Auswahl der "INSPIRE-Themen" oder der "Art des Dienstes
    :scale: 70
    :figwidth: 100%
 
-Abb.: Feld Konformität - Bearbeiten
+Abb.: Fenster Konformität - Bearbeiten
 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/zusatzinformation_konformitaet_auswahl.png
