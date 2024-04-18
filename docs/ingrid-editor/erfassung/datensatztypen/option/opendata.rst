@@ -20,7 +20,7 @@ Die Option Open Data kennzeichnet den Metadatensatz als "Open Data", es wird das
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkbox_typ_opendata.png
    :align: left
-   :scale: 80
+   :scale: 100
    :figwidth: 100%
 
 Abb.: Option: Open Data
