@@ -44,7 +44,7 @@ Im Folgenden werden die Felder beschrieben, die nach Aktivierung der Option "AdV
 Folgende Eigenschaften ändern sich bei der Aktivierung der Option "AdV kompatibel":
 
  - Abschnitt Verschlagwortung: Aktivierung der Tabelle "AdV-Produktgruppe"
- - Aktivierung des Schlagwortes "AdVMIS" in der ISO-XML
+
 
 -----------------------------------------------------------------------------------------------------------------------
 
