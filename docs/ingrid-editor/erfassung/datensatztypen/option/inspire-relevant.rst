@@ -53,7 +53,6 @@ Folgende Eigenschaften ändern sich bei der Aktivierung der Option "INSPIRE-rele
  - Abschnitt Verschlagwortung: Aktivierung der Tabelle "INSPIRE - priority data set"
  - Abschnitt Verschlagwortung: Auswahlliste "INSPIRE - Räumlicher Anwendungsbereich"
  - Abschnitt Zusatzinformation: Aktivierung der Tabelle "Konformität"
- - Aktivierung des Schlagwortes "inspireidentifiziert" in der ISO-XML
 
 
 Option konform
@@ -69,7 +68,7 @@ Abb.: INSPIRE-Optionen konform
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/checkbox-inspire-relevant_konform-hinweis.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Hinweis
@@ -101,7 +100,7 @@ Abb: INSPIRE-Option nicht konform
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/checkbox-inspire-relevant_konform-hinweis.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Hinweis
@@ -135,11 +134,11 @@ Umgekehrt gilt der Automatismus nicht: Beim Hinzufügen einer ISO-Kategorie wird
 
 **Aktivierung der Tabelle "INSPIRE-Themen" mit Pflichtangaben.**
 
-`Auswahlliste - INSPIRE-Themen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_inspire_themen.html>`_
+`Auswahlliste - INSPIRE-Themen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/auswahllisten/auswahlliste_verschlagwortung_inspire_themen.html>`_
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/verschlagwortung_inspire-themen.png
    :align: left
-   :scale: 50
+   :scale: 56
    :figwidth: 100%
 
 Abb.: Auswahl des INSPIRE-Themas "Energiequellen" ...
@@ -147,7 +146,7 @@ Abb.: Auswahl des INSPIRE-Themas "Energiequellen" ...
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/verschlagwortung_iso-themenkategorie.png
    :align: left
-   :scale: 50
+   :scale: 60
    :figwidth: 100%
 
 Abb.: es erfolgt die automatische Zuordnung der ISO-Themenkategorie "Wirtschaft"
@@ -156,9 +155,9 @@ Abb.: es erfolgt die automatische Zuordnung der ISO-Themenkategorie "Wirtschaft"
 
 **Aktivierung der Tabelle "INSPIRE - priority data set" mit optionalen Angaben.**
 
-`Auswahlliste - INSPIRE - priority data set <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_inspire_priority-data-set.html>`_
+`Auswahlliste - INSPIRE - priority data set <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/auswahllisten/auswahlliste_verschlagwortung_inspire_priority-data-set.html>`_
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/ige_datensatztypen/option/inspire-relevant/verschlagwortung_inspire-priority-data-set.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/verschlagwortung_inspire-priority-data-set.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -168,12 +167,12 @@ Abb.: Feld INSPIRE - priority data set, Beispiel: "ausgewiesene Gewässer ..."
 
 **Aktivierung der Auswahlliste "INSPIRE - Räumlicher Anwendungsbereich" mit Pflichtangaben.**
 
-`Auswahlliste - INSPIRE - Räumlicher Anwendungsbereich <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_inspire_raeumlicher-anwendungsbereich.html>`_
+`Auswahlliste - INSPIRE - Räumlicher Anwendungsbereich <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/auswahllisten/auswahlliste_verschlagwortung_inspire_raeumlicher-anwendungsbereich.html>`_
 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/verschlagwortung_inspire_raeumlicher-anwendungsbereich.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
  
 Abb.: Feld INSPIRE - Räumlicher Anwendungsbereich, Beispiel: "Regional"

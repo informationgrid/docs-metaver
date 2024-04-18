@@ -58,4 +58,4 @@ Abschnitt Verschlagwortung
 
 Abb.: Tabelle "AdV-Produktgruppe" - (Pflichtangaben)
 
-`Auswahlliste - AdV-Produktgruppe <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_adv_produktgruppe.html>`_
+`Auswahlliste - AdV-Produktgruppe <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/auswahllisten/auswahlliste_verschlagwortung_adv_produktgruppe.html>`_
