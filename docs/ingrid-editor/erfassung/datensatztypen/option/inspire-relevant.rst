@@ -227,6 +227,12 @@ Abb.: Tabelle "Konformität" - Grad der Konformität - Auswahlmöglichkeit
 Abb.: Feld Datum: Angabe des Datums, wann der Datensatz geprüft wurde.
 
 
+Das Feld "geprüft mit" ist im Editor eine optionale Angabe, laut der ISO ist es aber verpflichtend, wenn eine Konformität angegeben wird. Deswegen wird in der ISO-XML-Ausgabe das folgende Element mit ausgegeben, wenn keine Eingabe bei "geprüft mit" erfolgt ist:
+
+|.. code-block:: <gmd:explanation>
+                   <gco:CharacterString>see the referenced specification</gco:CharacterString>
+                 </gmd:explanation>
+
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/zusatzinformation_geprueft-mit.png
    :align: left
    :scale: 70
