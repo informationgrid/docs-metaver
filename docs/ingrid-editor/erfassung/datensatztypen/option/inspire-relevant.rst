@@ -159,7 +159,7 @@ Abb.: es erfolgt die automatische Zuordnung der ISO-Themenkategorie "Wirtschaft"
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/verschlagwortung_inspire-priority-data-set.png
    :align: left
-   :scale: 50
+   :scale: 60
    :figwidth: 100%
  
 Abb.: Feld INSPIRE - priority data set, Beispiel: "ausgewiesene Gewässer ..."
@@ -185,7 +185,7 @@ Abschnitt Zusatzinformation
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/zusatzinformation_konformitaet.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 .. image:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/zusatzinformation_konformitaet.png
@@ -199,7 +199,7 @@ Dieses Feld wird bei der Auswahl der "INSPIRE-Themen" oder der "Art des Dienstes
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/zusatzinformation-konformitaet_bearbeiten.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Feld Konformität - Aktion / Bearbeiten
@@ -207,7 +207,7 @@ Abb.: Feld Konformität - Aktion / Bearbeiten
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/zusatzinformation-konformitaet_auswahl.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
  
 Abb.: Feld Konformität - Auswahlmöglichkeiten
@@ -215,7 +215,7 @@ Abb.: Feld Konformität - Auswahlmöglichkeiten
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/zusatzinformation-konformitaet_grad.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Tabelle "Konformität" - Grad der Konformität - Auswahlmöglichkeit
@@ -225,4 +225,4 @@ Feld Datum: Angabe des Datums, wann der Datensatz geprüft wurde.
 
 Feld "geprüft mit": Angabe des Validators
 
-z.B.: https://testsuite.gdi-de.org/#/ oder https://testsuite.gdi-de.org/#/quicktest
+z.B.: https://testsuite.gdi-de.org/#/
