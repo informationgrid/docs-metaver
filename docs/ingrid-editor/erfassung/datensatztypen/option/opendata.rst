@@ -118,7 +118,7 @@ Wenn ein Metadatensatz als Open Data gekennzeichnet ist, muss der Metadatensatz 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_verweis.png
    :align: left
-   :scale: 70
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Datendownload anlegen
