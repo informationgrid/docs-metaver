@@ -17,6 +17,10 @@ Erfassung
 Option: AdV kompatibel
 """""""""""""""""""""""
 
+Wenn die Option "INSPIRE-relevant" aktiviert ist, werden die Metadaten an den `Geodatenkatalog Deutschland <https://gdk.gdi-de.org/>`_, an das `Geoportal der Geodateninfrastruktur-Deutschland (GDI-DE) <https://www.geoportal.de/>`_ und an das `INSPIRE Geoportal <https://inspire-geoportal.ec.europa.eu/>`_ der EU geliefert und veröffentlicht. Die Daten und Metadaten unterliegen damit der INSPIRE-Richtlinie.
+
+Der Geodatensatz wird über die Registry der GDI-DE an die EU gemeldet und im Rahmen eines `Monitoringprozesses <https://registry.gdi-de.org/register/moni/>`_ überwacht.
+
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkbox_typ_adv.png
    :align: left
    :scale: 100
@@ -24,6 +28,7 @@ Option: AdV kompatibel
 
 Abb.: Option: AdV kompatibel
 
+Durch die Aktivierung der Option "AdV kompatibel" wird das Schlüsselwort "AdVMIS" im ISO-XML gesetzt.
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/adv-kompatibel/iso-xml-keyword-advmis.png
    :align: left
@@ -47,17 +52,9 @@ Abschnitt Verschlagwortung
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/adv-kompatibel/verschlagwortung_adv-produktgruppe.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Tabelle "AdV-Produktgruppe" - (Pflichtangaben)
 
 `Auswahlliste - AdV-Produktgruppe <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/ige_auswahllisten/auswahlliste_verschlagwortung_adv_produktgruppe.html>`_
-
-
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/adv-kompatibel/iso-xml-keyword-advmis.png
-   :align: left
-   :scale: 50
-   :figwidth: 100%
-
-Abb.: ISO-XML - Angabe des Schlüsselwortes "AdVMIS"
