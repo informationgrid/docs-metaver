@@ -30,7 +30,7 @@ Abb.: Option: Open Data
 Abb.: ISO-XML - Angabe des Schlüsselwortes "opendata"
 
 
-.. hint:: Nachfolgend werden die Felder beschrieben, die nach der Aktivierung der Option "Open Data" zusätzlich in der Erfassungsmaske befüllt werden müssen.
+Im Folgenden werden die Felder beschrieben, die nach Aktivierung der Option "Open Data" in der Erfassungsmaske zusätzlich ausgefüllt werden müssen.
 
 Folgende Eigenschaften ändern sich bei der Aktivierung der Checkbox Open Data:
 
