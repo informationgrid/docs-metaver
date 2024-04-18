@@ -22,7 +22,7 @@ Option: AdV kompatibel
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkbox_typ_adv.png
    :align: left
-   :scale: 50
+   :scale: 90
    :figwidth: 100%
 
 Abb.: Option: AdV kompatibel
@@ -35,7 +35,7 @@ Folgende Eigenschaften ändern sich bei der Aktivierung der Checkbox AdV kompati
 
  .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/adv-kompatibel/iso-xml-keyword-advmis.png
    :align: left
-   :scale: 90
+   :scale: 80
    :figwidth: 100%
 
 Abb.: ISO-XML - Angabe des Schlüsselwortes "advmis"
