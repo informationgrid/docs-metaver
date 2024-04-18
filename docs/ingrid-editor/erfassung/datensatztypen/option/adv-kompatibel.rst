@@ -53,7 +53,7 @@ Abschnitt Verschlagwortung
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/adv-kompatibel/verschlagwortung_adv-produktgruppe.png
    :align: left
-   :scale: 70
+   :scale: 90
    :figwidth: 100%
 
 Abb.: Tabelle "AdV-Produktgruppe" - (Pflichtangaben)
