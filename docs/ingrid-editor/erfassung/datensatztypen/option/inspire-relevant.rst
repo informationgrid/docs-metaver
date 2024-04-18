@@ -8,26 +8,26 @@ INSPIRE - Bedeutung
 | INSPIRE: Infrastructure for Spatial Information in the European Community
 | Übersetzt: Geodateninfrastruktur (GDI) in der Europäischen Gemeinschaft
 
+.. note:: INSPIRE ist eine Initiative der Europäischen Kommission zur Schaffung einer europäischen Geodateninfrastruktur für die Zwecke der gemeinschaftlichen Umweltpolitik. 
 
-.. note:: INSPIRE ist eine Initiative der Europäischen Kommission zur Schaffung einer europäischen Geodateninfrastruktur für die Zwecke der gemeinschaftlichen Umweltpolitik. Die am 15. Mai 2007 in Kraft getretene Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates vom 14. März 2007 zur Schaffung einer Geodateninfrastruktur in der Europäischen Gemeinschaft (INSPIRE) verpflichtet die Mitgliedstaaten, Geobasisdaten und Geofachdaten, die in einem der 34 Themen des Anhangs aufgeführt sind, schrittweise zunächst konform und dann interoperabel über Geodatendienste bereitzustellen. Die Verpflichtung zur Datenbereitstellung gilt nur für bereits vorhandene Geodaten, die in digitaler Form vorliegen; eine Neuerfassung analog vorliegender Geodaten wird durch die Richtlinie nicht gefordert. (Quelle: `Wikipedia <https://de.wikipedia.org/wiki/Infrastructure_for_Spatial_Information_in_the_European_Community>`_)
+Die am 15. Mai 2007 in Kraft getretene Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates vom 14. März 2007 zur Schaffung einer Geodateninfrastruktur in der Europäischen Gemeinschaft (INSPIRE) verpflichtet die Mitgliedstaaten, Geobasisdaten und Geofachdaten, die in einem der 34 Themen des Anhangs aufgeführt sind, schrittweise zunächst konform und dann interoperabel über Geodatendienste bereitzustellen. 
 
-
+Die Verpflichtung zur Datenbereitstellung gilt nur für bereits vorhandene Geodaten, die in digitaler Form vorliegen; eine Neuerfassung analog vorliegender Geodaten wird durch die Richtlinie nicht gefordert. (Quelle: `Wikipedia <https://de.wikipedia.org/wiki/Infrastructure_for_Spatial_Information_in_the_European_Community>`_)
 
 -----------------------------------------------------------------------------------------------------------------------
 
 Erfassung
 ^^^^^^^^^
 
-Alle im Rahmen von INSPIRE zu erfassenden Geodaten müssen als Datensatztyp „Geodatensatz“ angelegt werden.
-
-Beispiele:
- - INSPIRE ST Geografische Bezeichnungen ATKIS Basis-DLM
- - INSPIRE ST Gewässernetz - Gewässerkundlicher Landesdienst
- - INSPIRE ST Umweltüberwachung - Gewässerkundlicher Landesdienst
-
-
 Option: INSPIRE-relevant
 """""""""""""""""""""""""
+
+Wenn die beschriebenen Geodaten der INSPIRE-Richtlinie unterliegen, müssen sie in den Metadaten als "INSPIRE-relevant" gekennzeichnet werden. Im ISO-XML wird dann das Schlagwort "INSPIRE-relevant" generiert. 
+
+Die Metadaten werden vom `Geodatenkatalog.de <https://gdk.gdi-de.org/gdi-de/srv/ger/catalog.search#/home>`_, über die bereitgestellte CSW-Schnittstelle, geharvestet (abgeerntet). In einem weiteren Schritt werden die Metadaten vom Portal der `GDI-DE <https://www.gdi-de.org>`_ übernommen.
+
+Darüber hinaus werden die INSPIRE-relevanten Metadaten an das `INSPIRE-Geoportal <https://inspire-geoportal.ec.europa.eu/>`_ der Europäischen Kommission übermittelt.
+
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkbox_typ_inspire.png
    :align: left
@@ -36,7 +36,7 @@ Option: INSPIRE-relevant
 
 Abb.: Option: INSPIRE relevant
 
-Mit der Aktivierung wird das Schlüsselwort "inspireidentified" im ISO-XML gesetzt.
+Durch die Aktivierung der Option "INSPIRE-relevant" wird das Schlüsselwort "inspireidentified" im ISO-XML gesetzt.
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/iso-xml-inspireidentifiziert.png
    :align: left
@@ -46,12 +46,9 @@ Mit der Aktivierung wird das Schlüsselwort "inspireidentified" im ISO-XML geset
 Abb.: ISO-XML - Angabe des Schlüsselwortes "inspireidentifiziert"
 
 
-Wenn die Option "INSPIRE-relevant" aktiviert ist, werden die Metadaten an den `Geodatenkatalog Deutschland <https://gdk.gdi-de.org/>`_, an das `Geoportal der Geodateninfrastruktur-Deutschland (GDI-DE) <https://www.geoportal.de/>`_ und an das `INSPIRE Geoportal <https://inspire-geoportal.ec.europa.eu/>`_ der EU geliefert und veröffentlicht. Die Daten und Metadaten unterliegen damit der INSPIRE-Richtlinie.
-
-Der Geodatensatz wird über die Registry der GDI-DE an die EU gemeldet und im Rahmen eines `Monitoringprozesses <https://registry.gdi-de.org/register/moni/>`_ überwacht.
-
-
 Im Folgenden werden die Felder beschrieben, die nach Aktivierung der Option "INSPIRE-relevant" in der Erfassungsmaske zusätzlich ausgefüllt werden müssen.
+
+Folgende Eigenschaften ändern sich bei der Aktivierung der Option "INSPIRE-relevant":
 
  - Checkbox INSPIRE-relevant: Aktivierung der Optionen "konform ja / nein
  - Abschnitt Verschlagwortung: Aktivierung der Tabelle "INSPIRE-Themen"
