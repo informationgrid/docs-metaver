@@ -69,7 +69,7 @@ Die Tabelle "Kategorien" enthält eine Auswahlliste zur näheren Bestimmung des 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_kategorie.png
    :align: left
-   :scale: 70
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Auswahlfeld - Open Data Kategorien
@@ -83,7 +83,7 @@ In den Nutzungsbedingungen muss eine Lizenz ausgewählt werden, die die Nutzung 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_nutzungsbedingungen_lizenz.png
    :align: left
-   :scale: 70
+   :scale: 90
    :figwidth: 100%
 
 Abb.: Nutzungsbedingungen - Lizenz
@@ -93,7 +93,7 @@ Im Feld Quelle kann eine Datenquelle angegeben werden, z.B: *Quelle © Daten: La
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_nutzungsbedingungen_quelle.png
    :align: left
-   :scale: 90
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Nutzungsbedingungen - Quellenangabe
