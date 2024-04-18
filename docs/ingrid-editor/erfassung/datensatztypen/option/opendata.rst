@@ -15,7 +15,7 @@ Open Data - offene Verwaltungsdaten
 .. hint:: Nachfolgend werden die Felder beschrieben, die nach der Aktivierung dieser Option zusätzlich in der Erfassungsmaske befüllt werden müssen.
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/checkbox-open-data.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkbox_typ_opendata.png
    :align: left
    :scale: 50
    :figwidth: 100%

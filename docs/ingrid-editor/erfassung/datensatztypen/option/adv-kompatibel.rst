@@ -20,7 +20,7 @@ Erfassung
 Option: AdV kompatibel
 """""""""""""""""""""""
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkbox_typ_inspire.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkbox_typ_adv.png
    :align: left
    :scale: 50
    :figwidth: 100%
