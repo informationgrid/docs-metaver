@@ -8,7 +8,7 @@ Open Data - Bedeutung
 
 Open Data - offene Verwaltungsdaten
 
-.. tip:: `GovData - Informationen <https://www.govdata.de/web/guest/open-government>`_ und `Open-Data-Leitfaden Schleswig-Holstein <https://opendata.schleswig-holstein.de/leitfaden/>`_
+.. tip:: `GovData - Informationen <https://www.govdata.de/web/guest/open-government>`_ und `DCAT-AP.de <https://www.dcat-ap.de>`_ und `Open-Data-Leitfaden Schleswig-Holstein <https://opendata.schleswig-holstein.de/leitfaden/>`_
 
 -----------------------------------------------------------------------------------------------------------------------
 
