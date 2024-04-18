@@ -7,7 +7,8 @@ AdV - Bedeutung
 
 AdV: Arbeitsgemeinschaft der Vermessungsverwaltungen
 
-.. note:: Mit der Aktivierung der Option AdV kompatibel, wird die Kompatibilität der Metadaten mit dem Metadatenprofil der Arbeitsgemeinschaft der Vermessungsverwaltungen (AdV) sichergestellt. Die Metadaten werden über die CSW-Schnittstelle an das `AdV Metainformationssystem (AdV-MIS) <https://advmis.geodatenzentrum.de/>`_ abgegeben. 
+.. note:: Hier finden Sie Informationen zum `Metainformationssystem (MIS)<https://www.adv-online.de/AdV-Produkte/Metadateninformationssystem/>`_ der Arbeitsgemeinschaft der Vermessungsverwaltungen (AdV).
+
 
 -----------------------------------------------------------------------------------------------------------------------
 
@@ -17,7 +18,9 @@ Erfassung
 Option: AdV kompatibel
 """""""""""""""""""""""
 
+Mit der Aktivierung der Option "AdV kompatibel", wird die Kompatibilität der Metadaten mit dem Metadatenprofil der Arbeitsgemeinschaft der Vermessungsverwaltungen (AdV) sichergestellt. 
 
+Die Metadaten werden über die CSW-Schnittstelle an das `AdV Metainformationssystem (AdV-MIS) <https://advmis.geodatenzentrum.de/>`_ abgegeben.
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkbox_typ_adv.png
    :align: left
