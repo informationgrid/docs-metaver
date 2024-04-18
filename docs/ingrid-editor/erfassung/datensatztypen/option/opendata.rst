@@ -22,7 +22,7 @@ Die Option Open Data kennzeichnet den Metadatensatz als "Open Data", es wird das
 Abb.: Option: Open Data
 
 
- .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/opendata/iso-xml-opendata.png
+ .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/iso-xml-opendata.png
    :align: left
    :scale: 50
    :figwidth: 100%
