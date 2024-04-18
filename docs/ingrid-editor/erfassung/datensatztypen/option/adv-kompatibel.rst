@@ -9,9 +9,6 @@ AdV: Arbeitsgemeinschaft der Vermessungsverwaltungen
 
 .. note:: Mit der Aktivierung dieser Option, wird die Kompatibilität der Metadaten mit dem Metadatenprofil der Arbeitsgemeinschaft der Vermessungsverwaltungen (AdV) sichergestellt. Die Metadaten werden über die CSW-Schnittstelle an das `AdV Metainformationssystem (AdV-MIS) <https://advmis.geodatenzentrum.de/>`_ abgegeben. 
 
-.. hint:: Im Folgenden werden die Felder beschrieben, die nach Aktivierung dieser Option zusätzlich in der Erfassungsmaske angezeigt werden.
-
-
 -----------------------------------------------------------------------------------------------------------------------
 
 Erfassung
@@ -22,12 +19,16 @@ Option: AdV kompatibel
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkbox_typ_adv.png
    :align: left
-   :scale: 80
+   :scale: 100
    :figwidth: 100%
 
 Abb.: Option: AdV kompatibel
 
 Wenn die Option "AdV-kompatibel" aktiviert ist, dann werden die Anforderungen des AdV-Metadatenprofils umgesetzt.
+
+
+.. hint:: Nachfolgend werden die Felder beschrieben, die nach der Aktivierung der Option "Open Data" zusätzlich in der Erfassungsmaske befüllt werden müssen.
+
 
 Folgende Eigenschaften ändern sich bei der Aktivierung der Checkbox AdV kompatibel:
  - Abschnitt Verschlagwortung: Aktivierung der Tabelle "AdV-Produktgruppe"
