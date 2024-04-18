@@ -7,7 +7,7 @@ AdV - Bedeutung
 
 AdV: Arbeitsgemeinschaft der Vermessungsverwaltungen
 
-.. note:: Hier finden Sie Informationen zum `Metainformationssystem (MIS)<https://www.adv-online.de/AdV-Produkte/Metadateninformationssystem/>`_ der Arbeitsgemeinschaft der Vermessungsverwaltungen (AdV).
+.. note:: Hier finden Sie Informationen zum `Metainformationssystem (MIS) <https://www.adv-online.de/AdV-Produkte/Metadateninformationssystem/>`_ der Arbeitsgemeinschaft der Vermessungsverwaltungen (AdV).
 
 
 -----------------------------------------------------------------------------------------------------------------------
