@@ -11,10 +11,6 @@ Open Data - offene Verwaltungsdaten
 
 .. note:: Open Data sind Daten, die von jedermann für jeden Zweck genutzt, weiterverbreitet und weiterverwendet werden können. Nutzungseinschränkungen sind nur zulässig, um den Ursprung und die Offenheit des Wissens zu gewährleisten. Dahinter steht die Annahme, dass frei nutzbare Daten zu mehr Transparenz und Kooperation führen. Um die Nachnutzbarkeit zu gewährleisten, werden freie Lizenzen verwendet. Die Bereitstellung offener Daten durch die öffentliche Hand wird als Voraussetzung für Open Government angesehen. (Quelle: `Wikipedia <https://de.wikipedia.org/wiki/Open_Data>`_)
 
-
-.. hint:: Nachfolgend werden die Felder beschrieben, die nach der Aktivierung dieser Option zusätzlich in der Erfassungsmaske befüllt werden müssen.
-
-
 Die Option Open Data kennzeichnet den Metadatensatz als "Open Data", es wird das Schlagwort "opendata" im ISO-XML generiert. Wenn das Bundesland der GovData-Kooperation beigetreten ist und die DCAT-AP.de Schnittstelle des Bundeslandes im Portal GovData aktiviert ist, werden diese Metadaten an das Portal `GovData <https://www.govdata.de/>`_ übergeben. In einem weiteren Schritt werden diese Daten vom Portal `data.europa.eu <https://data.europa.eu/de/trening/what-open-data>`_ der Europäischen Kommission geharvestet (abgeerntet). 
 
 
@@ -32,6 +28,9 @@ Abb.: Option: Open Data
    :figwidth: 100%
 
 Abb.: ISO-XML - Angabe des Schlüsselwortes "opendata"
+
+
+.. hint:: Nachfolgend werden die Felder beschrieben, die nach der Aktivierung der Option "Open Data" zusätzlich in der Erfassungsmaske befüllt werden müssen.
 
 Folgende Eigenschaften ändern sich bei der Aktivierung der Checkbox Open Data:
 
