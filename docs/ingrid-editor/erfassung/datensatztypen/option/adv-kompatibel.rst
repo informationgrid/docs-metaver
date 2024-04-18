@@ -33,7 +33,7 @@ Durch die Aktivierung der Option "AdV kompatibel" wird das Schlüsselwort "AdVMI
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/adv-kompatibel/iso-xml-keyword-advmis.png
    :align: left
-   :scale: 70
+   :scale: 60
    :figwidth: 100%
 
 Abb.: ISO-XML - Angabe des Schlüsselwortes "advmis"
@@ -53,7 +53,7 @@ Abschnitt Verschlagwortung
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/adv-kompatibel/verschlagwortung_adv-produktgruppe.png
    :align: left
-   :scale: 90
+   :scale: 100
    :figwidth: 100%
 
 Abb.: Tabelle "AdV-Produktgruppe" - (Pflichtangaben)

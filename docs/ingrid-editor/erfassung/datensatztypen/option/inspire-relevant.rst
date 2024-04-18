@@ -38,7 +38,7 @@ Durch die Aktivierung der Option "INSPIRE-relevant" wird das Schlüsselwort "ins
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/iso-xml-inspireidentifiziert.png
    :align: left
-   :scale: 70
+   :scale: 60
    :figwidth: 100%
 
 Abb.: ISO-XML - Angabe des Schlüsselwortes "inspireidentifiziert"
