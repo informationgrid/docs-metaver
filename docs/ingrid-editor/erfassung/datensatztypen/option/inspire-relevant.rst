@@ -185,10 +185,8 @@ Abschnitt Zusatzinformation
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/zusatzinformation_konformitaet.png
    :align: left
-   :scale: 70
+   :scale: 90
    :figwidth: 100%
-
-.. image:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/zusatzinformation_konformitaet.png
  
 Abb.: Tabelle Konformität
 
