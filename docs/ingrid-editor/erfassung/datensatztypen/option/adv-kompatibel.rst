@@ -20,7 +20,7 @@ Option: AdV kompatibel
 
 Mit der Aktivierung der Option "AdV kompatibel", wird die Kompatibilität der Metadaten mit dem Metadatenprofil der Arbeitsgemeinschaft der Vermessungsverwaltungen (AdV) sichergestellt. 
 
-Die Metadaten werden über die CSW-Schnittstelle an das `AdV Metainformationssystem (AdV-MIS) <https://advmis.geodatenzentrum.de/>`_ abgegeben.
+Die Metadaten werden über die CSW-Schnittstelle an das `Metainformationssystem (MIS) <https://advmis.geodatenzentrum.de/>`_ der AdV abgegeben.
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkbox_typ_adv.png
    :align: left
