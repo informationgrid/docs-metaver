@@ -231,9 +231,12 @@ Abb.: Feld Datum
 
 Das Feld "geprüft mit" ist im Editor eine optionale Angabe, laut der ISO ist es aber verpflichtend, wenn eine Konformität angegeben wird. Deswegen wird in der ISO-XML-Ausgabe das folgende Element mit ausgegeben, wenn keine Eingabe bei "geprüft mit" erfolgt ist:
 
-|.. code-block:: <gmd:explanation>
-                   <gco:CharacterString>see the referenced specification</gco:CharacterString>
-                 </gmd:explanation>
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/zusatzinformation_xml_geprueft-mit.png
+   :align: left
+   :scale: 70
+   :figwidth: 100%
+
+Abb.: Feld "geprüft mit": Angabe des Validators - z.B.: https://testsuite.gdi-de.org/
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/zusatzinformation_geprueft-mit.png
    :align: left
