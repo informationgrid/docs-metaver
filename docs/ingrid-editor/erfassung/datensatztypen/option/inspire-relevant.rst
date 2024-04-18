@@ -2,8 +2,8 @@
 Option: INSPIRE relevant
 -------------------------
 
-INSPIRE - Bedeutung
-^^^^^^^^^^^^^^^^^^^
+INSPIRE - Erläuterungen
+^^^^^^^^^^^^^^^^^^^^^^^^<
 
 | INSPIRE: Infrastructure for Spatial Information in the European Community
 | Übersetzt: Geodateninfrastruktur (GDI) in der Europäischen Gemeinschaft
@@ -13,6 +13,8 @@ INSPIRE - Bedeutung
 Die am 15. Mai 2007 in Kraft getretene Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates vom 14. März 2007 zur Schaffung einer Geodateninfrastruktur in der Europäischen Gemeinschaft (INSPIRE) verpflichtet die Mitgliedstaaten, Geobasisdaten und Geofachdaten, die in einem der 34 Themen des Anhangs aufgeführt sind, schrittweise zunächst konform und dann interoperabel über Geodatendienste bereitzustellen. 
 
 Die Verpflichtung zur Datenbereitstellung gilt nur für bereits vorhandene Geodaten, die in digitaler Form vorliegen; eine Neuerfassung analog vorliegender Geodaten wird durch die Richtlinie nicht gefordert. (Quelle: `Wikipedia <https://de.wikipedia.org/wiki/Infrastructure_for_Spatial_Information_in_the_European_Community>`_)
+
+.. hint:: Geodateninfrastruktur Deutschland `GDI-DE INSPIRE <https://www.gdi-de.org/INSPIRE>`_
 
 -----------------------------------------------------------------------------------------------------------------------
 
