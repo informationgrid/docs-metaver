@@ -24,7 +24,7 @@ Die Metadaten werden über die CSW-Schnittstelle an das `AdV Metainformationssys
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkbox_typ_adv.png
    :align: left
-   :scale: 100
+   :scale: 90
    :figwidth: 100%
 
 Abb.: Option: AdV kompatibel
@@ -58,4 +58,4 @@ Abschnitt Verschlagwortung
 
 Abb.: Tabelle "AdV-Produktgruppe" - (Pflichtangaben)
 
-`Auswahlliste - AdV-Produktgruppe <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/metaver_ige/auswahllisten/auswahlliste_verschlagwortung_adv_produktgruppe.html>`_
+`Auswahlliste - AdV-Produktgruppe <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/auswahllisten/auswahlliste_verschlagwortung_adv_produktgruppe.html>`_
