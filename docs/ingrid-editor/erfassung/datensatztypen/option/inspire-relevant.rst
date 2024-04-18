@@ -3,7 +3,7 @@ Option: INSPIRE relevant
 -------------------------
 
 INSPIRE - Erläuterungen
-^^^^^^^^^^^^^^^^^^^^^^^^<
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 | INSPIRE: Infrastructure for Spatial Information in the European Community
 | Übersetzt: Geodateninfrastruktur (GDI) in der Europäischen Gemeinschaft
