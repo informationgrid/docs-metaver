@@ -40,7 +40,7 @@ Mit der Aktivierung wird das Schlüsselwort "inspireidentified" im ISO-XML geset
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/iso-xml-inspireidentifiziert.png
    :align: left
-   :scale: 90
+   :scale: 50
    :figwidth: 100%
 
 Abb.: ISO-XML - Angabe des Schlüsselwortes "inspireidentifiziert"
