@@ -126,7 +126,7 @@ Abb.: Datendownload anlegen
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_verweis_angelegt.png
    :align: left
-   :scale: 70
+   :scale: 80
    :figwidth: 100%
 
 Abb.: angelegter Datendownload
