@@ -3,8 +3,8 @@
 Option: Open Data
 -----------------
 
-Open Data - Bedeutung
-^^^^^^^^^^^^^^^^^^^^^
+Open Data - Erläuterungen
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Open Data - offene Verwaltungsdaten
 
