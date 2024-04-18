@@ -216,7 +216,7 @@ Abb.: Feld Konformität - Auswahlmöglichkeiten
    :scale: 70
    :figwidth: 100%
 
-Abb.: Tabelle "Konformität" - Grad der Konformität - Auswahlmöglichkeit
+Abb.:  Auswahlfeld "Grad der Konformität" - Auswahlmöglichkeiten
 
 
  Das Datum wird automatisch gesetzt, wenn das Feld "Spezifikation der Konformität" befüllt wird.
