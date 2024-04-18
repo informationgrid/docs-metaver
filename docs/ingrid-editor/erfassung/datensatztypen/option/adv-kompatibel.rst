@@ -36,7 +36,7 @@ Durch die Aktivierung der Option "AdV kompatibel" wird das Schlüsselwort "AdVMI
    :scale: 60
    :figwidth: 100%
 
-Abb.: ISO-XML - Angabe des Schlüsselwortes "advmis"
+Abb.: ISO-XML - Angabe des Schlüsselwortes "AdVMIS"
 
 
 Im Folgenden werden die Felder beschrieben, die nach Aktivierung der Option "AdV-kompatibel" in der Erfassungsmaske zusätzlich ausgefüllt werden müssen.
