@@ -10,11 +10,9 @@
    :figwidth: 100 %
    
 
-====================
-Bedienungsanleitung
-====================
-========================================
-InGrid Editor - Neue Generation (IGE-NG)
+==================================
+Bedienungsanleitung InGrid Editor
+==================================
 ========================================
 =========================================
 Profil: Hamburger Metadatenkatalog (HMDK)
