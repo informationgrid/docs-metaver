@@ -29,7 +29,7 @@ Wenn die Option "INSPIRE-relevant" aktiviert ist, werden die Metadaten an den `G
 Der Geodatensatz wird über die Registry der GDI-DE an die EU gemeldet und im Rahmen eines `Monitoringprozesses <https://registry.gdi-de.org/register/moni/>`_ überwacht.
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkbox_typ_inspire.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkbox_typ_inspire-relevant.png
    :align: left
    :scale: 90
    :figwidth: 100%
