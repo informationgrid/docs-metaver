@@ -24,7 +24,7 @@ Erfassung
 Option: High-Value-Dataset (HVD)
 """"""""""""""""""""""""""""""""
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkbox_typ_opendata+hvd
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkbox_typ_opendata+hvd.png
    :align: left
    :scale: 90
    :figwidth: 100%
