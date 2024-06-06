@@ -1,5 +1,6 @@
 
-Option - hochwertiger Datensätze (HVD)
+--------------------------------------
+Option - Hochwertige Datensätze (HVD)
 --------------------------------------
 
 Grundlage
@@ -10,3 +11,37 @@ Der öffentliche Sektor verfügt über eine Vielzahl von Informationen - z. B. S
 Im Jahr 2019 wurde die PSI-Richtlinie überarbeitet: Die überarbeitete Richtlinie sieht unter anderem die Definition von **hochwertigen Datensätzen**, sogenannten High Value Datasets (HVD), vor. Als HVD klassifizierte Datensätze sollen künftig von Behörden oder öffentlichen Unternehmen als Open Data kostenfrei, maschinenlesbar und über Schnittstellen zur Verfügung gestellt werden. 
 
 (Quelle: Fraunhofer FOKUS / Offene Daten in der EU: Studie zu "High Value Datasets")
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Erfassung
+^^^^^^^^^
+
+Option: High-Value-Dataset (HVD)
+""""""""""""""""""""""""""""""""
+
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkbox_typ_hvd.png
+   :align: left
+   :scale: 90
+   :figwidth: 100%
+
+Abb.: Option: High-Value-Dataset (HVD) + Option Open Data
+
+.. hint:: Wenn die Option 'High-Value-Dataset (HVD)' gewählt wurde, wird automatisch auch die Option 'Open Data' gesetzt.
+
+Wenn die Option "Open Data" ausgewählt und der Metadatenkatalog über die Schnittstelle DCAT-AP.de an `GovData <https://www.govdata.de/>`_ angebunden ist, werden die als "Open Data" gekennzeichneten Metadaten an dieses Portal übergeben. In einem weiteren Schritt werden diese Daten von `data.europa.eu <https://data.europa.eu/de/trening/what-open-data>`_, einem Portal der Europäischen Kommission, geharvested (geerntet).
+
+
+Wird die Option HVD gewählt, so:
+
+  - werden alle Zugriffsbeschränkungen entfernt
+  - wird die Angabe einer Opendata-Kategorie unter "Verschlagwortung" verpflichtend
+  - wird dem Datensatz beim Export in ISO19139 Format automatisch das Schlagwort "opendata" hinzugefügt
+
+
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkbox_typ_hvd.png
+   :align: left
+   :scale: 90
+   :figwidth: 100%
+
+Abb.: Verschlagwortung Opendatakatagorien
