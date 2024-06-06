@@ -48,4 +48,4 @@ Wird die Option HVD gewählt, so:
    :scale: 90
    :figwidth: 100%
 
-Abb.: Verschlagwortung im Geodatensatz: Opendatakatagorien
+Abb.: Verschlagwortung im Geodatensatz: HVD-Kategorien
