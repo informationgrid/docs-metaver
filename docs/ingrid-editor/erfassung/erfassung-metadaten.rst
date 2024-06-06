@@ -152,14 +152,14 @@ Abb.: Veröffentlichungsrecht setzten
 Optionen: Typ
 """""""""""""
 
-Unter "Typ" werden die Optionen für die verschiedenen Datensatztypen angezeigt, die aktiviert werden können, um zusätzliche Eingabefelder im Metadatensatz anzuzeigen. 
+Unter der Bezeichnung "Typ" und unter der Bezeichnung "Open Data" werden die Optionen für die verschiedenen Datensatztypen angezeigt, die aktiviert werden können, um zusätzliche Eingabefelder im Metadatensatz zuaktivieren. 
 
 Datensatztypen mit den entsprechenden Optionen:
 
 
   - **Geodatensatz:** OpenData , High-Value-Dataset (HVD) | INSPIRE-relevant, InVeKoS | AdV kompatibel
-  - **Geodatendienst:** OpenData, INSPIRE-relevant, AdV kompatibel
-  - **Anwendung:** OpenData, INSPIRE-relevant, AdV kompatibel
+  - **Geodatendienst:** OpenData | INSPIRE-relevant | AdV kompatibel
+  - **Anwendung:** OpenData | INSPIRE-relevant | AdV kompatibel
   - **Datenbank:** OpenData
   - **Dokument:** OpenData
   - **Projekt:** -
