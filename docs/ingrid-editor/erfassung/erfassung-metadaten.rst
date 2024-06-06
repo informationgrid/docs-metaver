@@ -157,13 +157,13 @@ Unter der Bezeichnung "Typ" und unter der Bezeichnung "Open Data" werden die Opt
 Datensatztypen mit den entsprechenden Optionen:
 
 
-  - **Geodatensatz:** OpenData , High-Value-Dataset (HVD) | INSPIRE-relevant, InVeKoS | AdV kompatibel
-  - **Geodatendienst:** OpenData | INSPIRE-relevant | AdV kompatibel
-  - **Anwendung:** OpenData | INSPIRE-relevant | AdV kompatibel
-  - **Datenbank:** OpenData
-  - **Dokument:** OpenData
-  - **Projekt:** -
-  - **Organisationseinheit (Fachaufgabe):** - 
+- **Geodatensatz:** OpenData , High-Value-Dataset (HVD) | INSPIRE-relevant, InVeKoS | AdV kompatibel
+- **Geodatendienst:** OpenData | INSPIRE-relevant | AdV kompatibel
+- **Anwendung:** OpenData | INSPIRE-relevant | AdV kompatibel
+- **Datenbank:** OpenData
+- **Dokument:** OpenData
+- **Projekt:** -
+- **Organisationseinheit (Fachaufgabe):** - 
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkboxen.png
    :align: left
