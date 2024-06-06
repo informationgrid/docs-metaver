@@ -48,4 +48,4 @@ Wird die Option HVD gewählt, so:
    :scale: 90
    :figwidth: 100%
 
-Abb.: HVD-Kategorien in der Verschlagwortung von Geodatensätzen
+Abb.: HVD-Kategorien in der Verschlagwortung des Metadatentyps Geodatensatz
