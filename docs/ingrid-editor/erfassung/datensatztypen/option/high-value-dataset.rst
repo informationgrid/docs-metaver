@@ -31,7 +31,8 @@ Option: High-Value-Dataset (HVD) im Metadatentyp Geodatensatz
 
 Abb.: Option: High-Value-Dataset (HVD) + Option Open Data
 
-.. hint:: Wird die Option „High-Value-Dataset (HVD)” ausgewählt, erfolgt automatisch auch die Auswahl der Option „Open Data”.
+.. hint:: Wird die Option „High-Value-Dataset (HVD)” ausgewählt, erfolgt automatisch auch die Auswahl der Option `OpenData <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/option/opendata.html
+>`_.
 
 Wenn die Option "Open Data" ausgewählt und der Metadatenkatalog über die Schnittstelle DCAT-AP.de an `GovData <https://www.govdata.de/>`_ angebunden ist, werden die als "Open Data" gekennzeichneten Metadaten an dieses Portal übergeben. In einem weiteren Schritt werden diese Daten von `data.europa.eu <https://data.europa.eu/de/trening/what-open-data>`_, einem Portal der Europäischen Kommission, geharvested (geerntet).
 
