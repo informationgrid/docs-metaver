@@ -12,6 +12,10 @@ Im Jahr 2019 wurde die PSI-Richtlinie überarbeitet: Die überarbeitete Richtlin
 
 (Quelle: Fraunhofer FOKUS / Offene Daten in der EU: Studie zu "High Value Datasets")
 
+High-Value-Datasets (HVD) sind besonders hochwertige Datensätze, die von öffentlichen Stellen kostenfrei und unter einer offenen Lizenz zur Verfügung gestellt werden sollen. Die Europäische Kommission hat eine Liste solcher Datensätze veröffentlicht, die ab dem 9. Juni 2024 gelten soll1 . Diese Datensätze sind in der Metadatenbeschreibung als solche zu kennzeichnen und die entsprechende Kategorie ist anzugeben. Die Metadaten der HVDs müssen die für die jeweilige Kategorie spezifizierten Eigenschaften enthalten
+
+**High-Value-Datasets (HVD) sollen von Behörden oder öffentlichen Unternehmen als Open Data kostenlos, maschinenlesbar und über Schnittstellen zur Verfügung gestellt werden. Gegebenenfalls können sie auch als Massendownload zur Verfügung gestellt werden.**
+
 -----------------------------------------------------------------------------------------------------------------------
 
 Erfassung
@@ -20,7 +24,7 @@ Erfassung
 Option: High-Value-Dataset (HVD)
 """"""""""""""""""""""""""""""""
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkbox_typ_hvd.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkbox_typ_opendata+hvd
    :align: left
    :scale: 90
    :figwidth: 100%
