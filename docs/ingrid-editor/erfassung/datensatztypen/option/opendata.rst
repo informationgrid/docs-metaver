@@ -12,6 +12,13 @@ Offene Verwaltungsdaten
 
 Offene Verwaltungsdaten (Open Government Data, kurz OGD) sind nicht personenbezogene Daten, die von öffentlichen Stellen gesammelt, erstellt oder bezahlt wurden und der Allgemeinheit kostenlos zur Verfügung gestellt werden. Diese Daten stellen eine Basisinfrastruktur für die Digitalisierung dar. **Open Government Data sollen maschinenlesbar, frei verfügbar, vollständig, aktuell und dauerhaft zugänglich sein. Zusammengefasst: Offene Verwaltungsdaten sollen leicht zugänglich, gut strukturiert und für die Allgemeinheit nützlich sein.**
 
+
+| **Maschinenlesbarkeit:** Die Daten sollten in einem standardisierten Format vorliegen, das von Computern verarbeitet werden kann. Beispiele sind CSV, JSON oder XML.
+| **Freie Verfügbarkeit:** Die Daten sollten ohne Einschränkungen kostenlos zugänglich sein. Es dürfen keine technischen oder rechtlichen Hürden bestehen.
+| **Vollständigkeit:** Die bereitgestellten Daten sollten so umfassend wie möglich sein und alle relevanten Informationen enthalten.
+| **Aktualität:** Die Daten sollten regelmäßig aktualisiert werden, um ihre Relevanz zu gewährleisten.
+| **Dauerhafte Zugänglichkeit:** Die Verwaltungsdaten sollten über einen längeren Zeitraum hinweg verfügbar sein, um ihre Nutzung zu ermöglichen.
+
 .. hint:: `GovData - Informationen <https://www.govdata.de/web/guest/open-government>`_ und `DCAT-AP.de <https://www.dcat-ap.de>`_ und `Open-Data-Leitfaden Schleswig-Holstein <https://opendata.schleswig-holstein.de/leitfaden/>`_
 
 -----------------------------------------------------------------------------------------------------------------------
