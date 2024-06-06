@@ -21,8 +21,8 @@ High-Value-Datasets (HVD) sind besonders hochwertige Datensätze, die von öffen
 Erfassung
 ^^^^^^^^^
 
-Option: High-Value-Dataset (HVD)
-""""""""""""""""""""""""""""""""
+Option: High-Value-Dataset (HVD) im Metadatentyp Geodatensatz
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkbox_typ_opendata+hvd.png
    :align: left
@@ -48,4 +48,4 @@ Wird die Option HVD gewählt, so:
    :scale: 90
    :figwidth: 100%
 
-Abb.: Verschlagwortung Opendatakatagorien
+Abb.: Verschlagwortung im Geodatensatz: Opendatakatagorien
