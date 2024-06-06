@@ -18,8 +18,8 @@ Profil: MetadatenVerbund (METAVER)
 ========================================
 
 Version der Bedienungsanleitung
-   - InGrid Editor-Version: 7.0.1, 11.01.2024, 19:09 
-   - letzte Änderung: 18.04.2024
+   - InGrid Editor-Version: 7.1.3-2-7.1.3.1, 05.06.2024, 17:27
+   - letzte Änderung: 06.06.2024
    - Status: in Bearbeitung
 
 
