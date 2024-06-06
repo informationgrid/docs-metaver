@@ -170,7 +170,7 @@ Datensatztypen mit den entsprechenden Optionen:
    :scale: 80
    :figwidth: 100%
 
-Abb.: Optionen: OpenData, High-Value-Dataset (HVD), INSPIRE-relevant + InVeKoS, AdV kompatibel
+Abb.: Optionen: INSPIRE-relevant + InVeKoS, AdV kompatibel, OpenData, High-Value-Dataset (HVD)
 
 -----------------------------------------------------------------------------------------------------------------------
 
