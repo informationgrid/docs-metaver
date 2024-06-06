@@ -8,13 +8,13 @@ Bedienungsanleitung (IGE-NG) Version
 
 --------------------------------------------------------------------------------------------------------------
 
-IGE-NG Live-System
+IGE Live-System
 
-  - InGrid Editor-Version: 7.0.1, 11.01.2024, 19:09 
+  - InGrid Editor Version: 7.1.3-2-7.1.3.1, 05.06.2024, 17:27 GIT Commit ID 7e54ee1025918a0c8c2d8b833f720bf0d9428bda
 
 
-IGE-NG Test-System
-  - InGrid Editor-Version: 7.1.0-7, 08.04.2024, 15:22
+IGE Test-System
+  - InGrid Editor Version: 7.1.3-2-7.1.3.1, 05.06.2024, 17:27 GIT Commit ID 7e54ee1025918a0c8c2d8b833f720bf0d9428bda
 
 --------------------------------------------------------------------------------------------------------------
 
