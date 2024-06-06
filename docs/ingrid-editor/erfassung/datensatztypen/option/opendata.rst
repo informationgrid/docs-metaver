@@ -8,7 +8,7 @@ Open Data - Erläuterungen
 
 Open Data bezeichnet Daten, die von jedermann für jeden Zweck ohne technische und rechtliche Einschränkungen genutzt, verbreitet und weiterverarbeitet werden können. Wichtig ist dabei, dass die Quelle bzw. der Urheber der Daten bei der Weiterverwendung stets genannt wird. Diese Praxis ermöglicht den freien Zugang zu digitalen Daten und deren Weiterverwendung ohne technische, rechtliche oder finanzielle Bedingungen. Beispiele für offene Daten sind Unterrichtsmaterialien, Geodaten, Statistiken, Verkehrsinformationen, wissenschaftliche Publikationen, medizinische Forschungsergebnisse oder Radio- und Fernsehsendungen. Wichtig ist jedoch, dass offene Daten keine personenbezogenen Daten oder Daten, die dem Datenschutz unterliegen, enthalten dürfen.
 
-Open Data - offene Verwaltungsdaten
+Offene Verwaltungsdaten
 
 Offene Verwaltungsdaten (Open Government Data, kurz OGD) sind nicht personenbezogene Daten, die von öffentlichen Stellen gesammelt, erstellt oder bezahlt wurden und der Allgemeinheit kostenlos zur Verfügung gestellt werden. Diese Daten stellen eine Basisinfrastruktur für die Digitalisierung dar. Open Government Data sollen maschinenlesbar, frei verfügbar, vollständig, aktuell und dauerhaft zugänglich sein. Zusammengefasst: Offene Verwaltungsdaten sollen leicht zugänglich, gut strukturiert und für die Allgemeinheit nützlich sein.
 
