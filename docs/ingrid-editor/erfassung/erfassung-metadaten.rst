@@ -156,10 +156,11 @@ Unter "Typ" werden die Optionen für die verschiedenen Datensatztypen angezeigt,
 
 Datensatztypen mit den entsprechenden Optionen:
 
+
+  - **Geodatensatz:** OpenData , High-Value-Dataset (HVD) | INSPIRE-relevant, InVeKoS | AdV kompatibel
+  - **Geodatendienst:** OpenData, INSPIRE-relevant, AdV kompatibel
+  - **Anwendung:** OpenData, INSPIRE-relevant, AdV kompatibel
   - **Datenbank:** OpenData
-  - **Geodatensatz:** INSPIRE-relevant | InVeKoS, AdV kompatibel, OpenData
-  - **Geodatendienst:** INSPIRE-relevant, AdV kompatibel, OpenData
-  - **Anwendung:** INSPIRE-relevant, AdV kompatibel, OpenData
   - **Dokument:** OpenData
   - **Projekt:** -
   - **Organisationseinheit (Fachaufgabe):** - 
