@@ -10,7 +10,7 @@ Open Data bezeichnet Daten, die von jedermann für jeden Zweck ohne technische u
 
 **Offene Verwaltungsdaten**
 
-Offene Verwaltungsdaten (Open Government Data, kurz OGD) sind nicht personenbezogene Daten, die von öffentlichen Stellen gesammelt, erstellt oder bezahlt wurden und der Allgemeinheit kostenlos zur Verfügung gestellt werden. Diese Daten stellen eine Basisinfrastruktur für die Digitalisierung dar.
+Offene Verwaltungsdaten sind nicht personenbezogene Daten, die von öffentlichen Stellen gesammelt, erstellt oder bezahlt wurden und der Allgemeinheit kostenlos zur Verfügung gestellt werden. Diese Daten stellen eine Basisinfrastruktur für die Digitalisierung dar.
 
 **Offene Verwaltungsdaten sollen maschinenlesbar, frei verfügbar, vollständig, aktuell und dauerhaft zugänglich, sie sollen gut strukturiert und für die Allgemeinheit nützlich sein.**
 
