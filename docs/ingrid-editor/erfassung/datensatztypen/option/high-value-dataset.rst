@@ -43,7 +43,7 @@ Wird die Option HVD gewählt, so:
   - wird dem Datensatz beim Export in ISO19139 Format automatisch das Schlagwort "opendata" hinzugefügt
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkbox_typ_hvd.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/hvd/hvd-kategorien.png
    :align: left
    :scale: 90
    :figwidth: 100%
