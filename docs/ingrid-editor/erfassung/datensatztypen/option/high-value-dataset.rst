@@ -8,9 +8,9 @@ Grundlage
 
 Der öffentliche Sektor verfügt über eine Vielzahl von Informationen - z. B. Statistiken, Satellitenbilder, Umwelt- und Mobilitätsdaten -, die für das Gemeinwohl und/oder die Wirtschaft von Nutzen sein können. Um das gesamtgesellschaftliche und wirtschaftliche Potenzial besonders relevanter Daten auszuschöpfen und gleichzeitig deren Nutzung zu regeln, hat die Europäische Kommission 2013 die EU-Richtlinie über offene Daten und die Weiterverwendung von Informationen des öffentlichen Sektors, kurz PSI-Richtlinie (nach dem englischen Titel »Re-use of Public Sector Information«), verabschiedet. Ziel ist es, den Zugang zu Daten des öffentlichen Sektors zu vereinfachen.
 
-Im Jahr 2019 wurde die PSI-Richtlinie überarbeitet: Die überarbeitete Richtlinie sieht unter anderem die Definition von hochwertigen Datensätzen, sogenannten High Value Datasets (HVD), vor.
-
 (Quelle: Fraunhofer FOKUS / Offene Daten in der EU: Studie zu "High Value Datasets")
+
+Im Jahr 2019 wurde die PSI-Richtlinie überarbeitet: Die überarbeitete Richtlinie sieht unter anderem die Definition von hochwertigen Datensätzen, sogenannten High Value Datasets (HVD), vor.
 
 High-Value-Datasets (HVD) sind besonders hochwertige Datensätze, die von öffentlichen Stellen kostenfrei und unter einer offenen Lizenz zur Verfügung gestellt werden sollen. Die Europäische Kommission hat eine Liste solcher Datensätze veröffentlicht, die ab dem 9. Juni 2024 gelten soll. Diese Datensätze sind in der Metadatenbeschreibung als solche zu kennzeichnen und die entsprechende Kategorie ist anzugeben. Die Metadaten der HVDs müssen die für die jeweilige Kategorie spezifizierten Eigenschaften enthalten
 
