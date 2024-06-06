@@ -156,7 +156,6 @@ Unter der Bezeichnung "Typ" und unter der Bezeichnung "Open Data" werden die Opt
 
 Datensatztypen mit den entsprechenden Optionen:
 
-
 - **Geodatensatz:** OpenData + HVD | INSPIRE-relevant + InVeKoS | AdV kompatibel
 - **Geodatendienst:** OpenData | INSPIRE-relevant | AdV kompatibel
 - **Anwendung:** OpenData | INSPIRE-relevant | AdV kompatibel
