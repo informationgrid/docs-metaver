@@ -23,6 +23,8 @@ IGE Test-System
 
 **Historie der Versionen InGrid Editor**
 
+(Ausfühliche Informationen in der `GitHub History <https://www.ingrid-oss.eu/latest/about/history.html>`_)
+
 Version: 7.2.1, 04.08.2024
 
   - GIT Commit ID 83d6c78016990465c09d998de97964e7006e556a
@@ -36,6 +38,7 @@ Version: 7.1.3.2, 05.06.2024
 
 Version: 7.0.1, 11.01.2024
 
+---------------------------------------------------------------------------------------------------------------
 
 **Entwicklungsversionen (IGE-NG)**
 
@@ -53,9 +56,6 @@ Version: 1.5.1-36, 26.09.2023
 --------------------------------------------------------------------------------------------------------------
 
 **Historie der Versionen (IGE Classic)**
-
-(Ausfühliche Informationen in der `GitHub History <https://www.ingrid-oss.eu/latest/about/history.html>`_)
-
 
 Version: 6.1.0
   - IGE: ARS-Tool in die Hilfe als Link eingefügt
