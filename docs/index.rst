@@ -33,6 +33,8 @@ Version der Bedienungsanleitung
 
 ..  note::  Die Eingabemasken und die Eingabefelder in den Metadatenkatalogen können je nach Metadatenprofil variieren (z.B.: Hamburger Metadatenkatalog, Kommunaler Metadatenkatalog Sachsen-Anhalt).
 
+..  hint:: Wenn Katalog-Administratoren, Metadaten-Administratoren oder Metadaten-Autoren Probleme im Editor melden, bitte zuerst im privaten Modus testen (Stichwort: Cache-Probleme). Tritt das Problem dann nicht auf, bitte den Browser-Cache leeren. Falls das Problem weiterhin besteht, bitte einen Screenshot mit der Ausgabe der Browserkonsole erstellen. Metadatenautoren und Metadatenadministratoren wenden sich diesbezüglich an den Katalogadministrator.
+
 
 --------------------------------------------------------------------------------------------------------------
 
