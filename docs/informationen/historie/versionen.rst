@@ -36,9 +36,9 @@ Version: 7.1.3.2, 05.06.2024
 
 Version: 7.0.1, 11.01.2024
 
--------------------------------
-Entwicklungsversionen (IGE-NG)
--------------------------------
+
+**Entwicklungsversionen (IGE-NG)**
+
 
 | Version: 1.7.2, 16.11.2023
   -  IGE-NG: INSPIRE Geodatendatz - Funktionalität InVeKoS
