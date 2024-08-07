@@ -13,14 +13,11 @@
 ==================================
 Bedienungsanleitung InGrid Editor
 ==================================
-========================================
-Profil: MetadatenVerbund (METAVER)
-========================================
 
 Version der Bedienungsanleitung
    - InGrid Editor-Version: 7.1.3-2-7.1.3.1, 05.06.2024, 17:27
-   - letzte Änderung: 06.06.2024
-   - Status: abgeschlossen
+   - letzte Änderung: 07.08.2024
+   - Status: in Bearbeitung
 
 
 .. figure:: img/portal/uebersicht.png
@@ -28,7 +25,7 @@ Version der Bedienungsanleitung
    :scale: 70
    :figwidth: 100%
 
-   Abb.: InGrid Editor - Neue Generation (IGE-NG) - Übersicht
+   Abb.: InGrid Editor - Übersicht
 
 
 ..  note::  Die Eingabemasken und die Eingabefelder in den Metadatenkatalogen können je nach Metadatenprofil variieren (z.B.: Hamburger Metadatenkatalog, Kommunaler Metadatenkatalog Sachsen-Anhalt).
