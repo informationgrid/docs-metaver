@@ -16,12 +16,12 @@ Auswahlliste Klassifikation des Dienstes
  - Bildsynthesedienste
  - Codierungsdienst
  - Dauerauftragsdienst
- - **Dienst für den Zugriff auf externe Daten und Programme (ATOM)**
- - **Dienst für den Zugriff auf grafische Darstellungen (WMS)**
- - **Dienst für den Zugriff auf Objektarten (ATOM)**
- - **Dienst für den Zugriff auf Objekte (WFS)**
+ - Dienst für den Zugriff auf externe Daten und Programme
+ - **Dienst für den Zugriff auf grafische Darstellungen (WMS, WMTS, API Maps etc.)**
+ - Dienst für den Zugriff auf Objektarten
+ - **Dienst für den Zugriff auf Objekte (WFS, ATOM, API Features etc.)**
  - Dienst für den Zugriff auf Produkte
- - Dienst für den Zugriff auf Rasterdaten
+ - **Dienst für den Zugriff auf Rasterdaten (WCS, API Coverages etc.)**
  - Dienst für die Ausführung von Bearbeitungsketten
  - Dienst für die Beschreibung von Sensoren
  - Dienst für die Definition von Bearbeitungsketten
@@ -30,7 +30,7 @@ Auswahlliste Klassifikation des Dienstes
  - Dienst für die Konversion von Geometriemodellen
  - Dienst für die Konversion von Koordinaten
  - Dienst für die thematische Klassifizierung
- - Dienst für die Transformation von Koordinaten
+ - **Dienst für die Transformation von Koordinaten (WCTS etc.)**
  - Dienst für die Umwandlung zwischen Raster- und Vektordaten
  - Dienst für geografische Tabellenkalkulation
  - Dienst für geografische Visualisierung
@@ -51,8 +51,8 @@ Auswahlliste Klassifikation des Dienstes
  - Geoparserdienst
  - Interpretationsdienste für Bilder
  - Kachelungsdienst
- - Katalogdienst (Service)
- - Katalogdienst (Viewer)
+ - **Katalogdienst - Service (CSW, API Records etc.)**
+ - Katalogdienst - Viewer
  - Kompressionsdienst für Geodaten
  - Messungsdienst
  - Multiband-Bildbearbeitung
