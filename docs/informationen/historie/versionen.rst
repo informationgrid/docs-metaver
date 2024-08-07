@@ -23,7 +23,8 @@ IGE Test-System
 **Historie der Versionen InGrid Editor**
 
 | Version: 7.2.1, 04.08.2024, GIT Commit ID 83d6c78016990465c09d998de97964e7006e556a
-  - Klassifikation eines Dienstes (Erweiterung der Auswahlliste mit der Art des Dienses) 
+  - Klassifikation eines Dienstes (Erweiterung der Auswahlliste mit der Art des Dienses)
+  - InGrid in Version 7.2.0 ermöglicht den Import von Datensätzen im DCAT-AP.de Format. (Es werden Titel, Beschreibung, Adresse und Distribution ins Open-Data Profil importiert.)
 
 | Version: 7.1.3-2-7.1.3.1, 05.06.2024 GIT Commit ID 7e54ee1025918a0c8c2d8b833f720bf0d9428bda
   - HVD-Basisfunktionalität
