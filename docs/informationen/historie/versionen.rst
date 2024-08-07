@@ -10,16 +10,20 @@ Bedienungsanleitung (IGE-NG) Version
 
 IGE Live-System
 
-  - InGrid Editor Version: 7.1.3-2-7.1.3.1, 05.06.2024, 17:27
+  - InGrid Editor Version: 7.2.1, 04.08.2024, 01:52
+  - GIT Commit ID: 83d6c78016990465c09d998de97964e7006e556a 
 
 
 IGE Test-System
-  - InGrid Editor Version: 7.1.3-2-7.1.3.1, 05.06.2024, 17:27
+  - InGrid Editor Version: 7.2.1, 25.07.2024, 16:47
+  - GIT Commit ID: 83d6c78016990465c09d998de97964e7006e556
 
 --------------------------------------------------------------------------------------------------------------
 
 **Historie der Versionen InGrid Editor**
 
+| Version: 7.2.1, 04.08.2024, GIT Commit ID 83d6c78016990465c09d998de97964e7006e556a
+  - Klassifikation eines Dienstes (Erweiterung der Auswahlliste mit der Art des Dienses) 
 
 | Version: 7.1.3-2-7.1.3.1, 05.06.2024 GIT Commit ID 7e54ee1025918a0c8c2d8b833f720bf0d9428bda
   - HVD-Basisfunktionalität
