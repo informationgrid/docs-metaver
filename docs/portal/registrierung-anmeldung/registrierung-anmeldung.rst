@@ -61,10 +61,10 @@ Bevor Sie Metadaten erfassen und pflegen können, muss Ihre neue Benutzerkennung
 Schreiben Sie uns über das METAVER-Kontaktformular und wählen Sie Ihr Bundesland aus, um uns mitzuteilen, dass Sie einen Zugang zum InGrid Editor benötigen. Geben Sie uns hierbei Ihren gewünschten Benutzernamen an. Wir richten den Zugang mit den notwendigen Berechtigungen ein. 
 
 
-Anmeldung in METAVER
----------------------
+Anmeldung am InGrid Editor
+--------------------------
 
-Wenn Sie über eine Benutzerkennung verfügen und als InGrid Editor registriert sind, rufen Sie die Login-Seite auf (https://metaver.de/log-in), geben Ihre Benutzerdaten ein und klicken abschließend auf die Schaltfläche "ANMELDEN".
+Wenn Sie über eine Benutzerkennung verfügen und als InGrid Editor registriert sind, rufen Sie die Login-Seite auf (https://portalu.rlp.de/log-in), geben Ihre Benutzerdaten ein und klicken abschließend auf die Schaltfläche "ANMELDEN".
 
 .. figure:: ../../img/registrierung-anmeldung/anmeldung.png
    :align: left
