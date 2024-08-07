@@ -81,12 +81,12 @@ Feld: Klassifikation des Dienstes
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_klassifikation.png
    :align: left
-   :scale: 100
+   :scale: 90
    :figwidth: 100%
 
 Abb.: Feld "Klassifikation des Dienstes"
 
-`Auswahlliste - Klassifizierung des Dienstes <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/auswahllisten/auswahlliste_fachbezug_geodatendienst_klassifikation.html>`_
+`Auswahlliste - Klassifikation des Dienstes <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/auswahllisten/auswahlliste_fachbezug_geodatendienst_klassifikation.html>`_
 
 
 Aus der vorgegebenen Auswahlliste ist der für den Dienst zutreffende Eintrag auszuwählen. Für WebMap-Dienste (WMS) kann beispielsweise "Dienst für den Zugriff auf grafische Darstellungen" ausgewählt werden. Dieses Feld dient in erster Linie der Identifikation eines Dienstes durch den recherchierenden Nutzer. 
