@@ -3,6 +3,9 @@
 Adressen erfassen
 =================
 
+Hinweis:
+Die Adressen werden zentral gepflegt. Für Sie als Metadatenautor ist dieser Abschnitt nicht relevant.
+
 Für eine effiziente Adressverwaltung empfiehlt es sich, hierarchische Strukturen aufzubauen, so dass erkennbar wird, welchem Referat bzw. welchem Fachbereich innerhalb welcher Institution der jeweilige Ansprechpartner angehört. Für Personen, die keiner Institution zugeordnet werden können, besteht die Möglichkeit, diese im Adress-Strukturbaum unterhalb des Bereiches "Freie Adressen" anzulegen. 
 
 .. figure:: ../../img/ige/adressen/struktur.png
