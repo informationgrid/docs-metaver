@@ -58,7 +58,7 @@ Um Ihre neue Benutzerkennung freizuschalten, klicken Sie bitte auf den Link in I
 Abb.: Seite "Ihr Account wurde erfolgreich freigeschaltet. ..."
 
 Bevor Sie Metadaten erfassen und pflegen können, muss Ihre neue Benutzerkennung für die Erfassung und Pflege der Metadaten freigeschaltet werden. Bisher ist es Ihnen lediglich gestattet, sich am Portal anzumelden und persönliche Einstellungen vorzunehmen. Sie können jedoch noch keine Änderungen an den Metadaten vornehmen. 
-Schreiben Sie uns über das METAVER-Kontaktformular und wählen Sie Ihr Bundesland aus, um uns mitzuteilen, dass Sie einen Zugang zum InGrid Editor benötigen. Geben Sie uns hierbei Ihren gewünschten Benutzernamen an. Wir richten den Zugang mit den notwendigen Berechtigungen ein. 
+Dazu schreiben Sie bitte eine E-Mail an portalu<at>mkuem.rlp.de und teilen mit, dass Sie einen Zugang zum InGrid Editor benötigen. Es wird dann ein Zugang mit den notwendigen Berechtigungen eingerichtet. 
 
 
 Anmeldung am InGrid Editor
