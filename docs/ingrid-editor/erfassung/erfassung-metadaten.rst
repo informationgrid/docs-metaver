@@ -37,7 +37,7 @@ Nachdem der neue Metadatensatz angelegt wurde, kann er über die Funktion "Speic
 
 Abb.: Symbolleiste -  Speichern
 
-Wenn alle Pflichtfelder und alle erforderlichen optionalen Felder ausgefüllt sind, kann der neue Metadatensatz mit "Speichern & Veröffentlichen" entsprechend der gewählten Veröffentlichungsbreite freigegeben werden. Der Metadatensatz erscheint dann im Gliederungsbaum in schwarzer Farbe.
+Wenn alle Pflichtfelder und alle erforderlichen optionalen Felder ausgefüllt sind, kann der neue Metadatensatz mit "Veröffentlichen" entsprechend der gewählten Veröffentlichungsbreite freigegeben werden. Der Metadatensatz erscheint dann im Gliederungsbaum in schwarzer Farbe.
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/symbolleiste/veroeffentlichen.png
    :align: left
