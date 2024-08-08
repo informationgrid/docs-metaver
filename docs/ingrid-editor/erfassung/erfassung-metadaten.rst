@@ -3,7 +3,7 @@
 Metadaten erfassen
 ==================
 
-.. important::  Bevor Sie die Erfassung der Metadaten beginnen, empfehlen wir Ihnen, mit der Erfassung der Adressdaten zu beginnen. Der Grund hierfür sind Verweise der Metadaten auf die Adressen.
+.. important::  Bevor Sie die Erfassung der Metadaten beginnen, prüfen Sie bitte, ob die erforderliche Adresse vorhanden ist. Der Grund hierfür sind Verweise der Metadaten auf die Adressen. Sollte die Adresse nicht vorhanden sein, schreiben Sie bitte eine E-Mail an portalu<at>mkuem.rlp.de, da die Adressen zentral gepflegt werden. Angelegt sind Organisationseinheiten, keine Personen.
 
 Metadatensätze anlegen
 -----------------------
