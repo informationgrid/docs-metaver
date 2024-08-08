@@ -5,7 +5,7 @@ Der neue InGrid Editor
 
 Der neue InGrid Editor ist programmiert und einsatzbereit für die Erfassung von Metadaten. Viele Verbesserungen, wie beispielsweise Erfahrungen aus den vergangenen Jahren, Benutzerfreundlichkeit, Barrierefreiheit, responsives Layout für unterschiedliche Bildschirme sowie Touch-Bedienung für Tablets und Touch-Monitore, wurden berücksichtigt. Eine intuitive Bedienung erleichtert die Eingabe von Daten. Die Bedienungsanleitung wird fortlaufend an den Editor angepasst.
 
-.. hint:: Falls Sie Rückmeldungen zum neuen InGrid-Editor oder zur Bedienungsanleitung haben, können Sie uns gerne über das `METAVER-Kontaktformular <https://metaver.de/kontakt>`_ kontaktieren. Wir sind an Ihrer Meinung interessiert.
+.. hint:: Falls Sie Rückmeldungen zum neuen InGrid-Editor oder zur Bedienungsanleitung haben, können Sie uns gerne eine E-Mail an portalu<at>mkuem.rlp.de senden. Wir sind an Ihrer Meinung interessiert.
 
 
 InGrid Editor - Übersicht
