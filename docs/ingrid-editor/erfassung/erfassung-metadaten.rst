@@ -28,7 +28,7 @@ Abb.: Symbolleiste - Neuen Datensatz anlegen / Ordner erstellen
 
 Um einen neuen Metadatensatz zu veröffentlichen, müssen alle Pflichtfelder ausgefüllt werden.
 
-Nachdem der neue Metadatensatz angelegt wurde, kann er über die Funktion "Speichern" in seinem aktuellen Bearbeitungsstand gespeichert werden. Der Metadatensatz wird in der Ornerstruktur orange dargestellt.
+Nachdem der neue Metadatensatz angelegt wurde, kann er über die Funktion "Speichern" in seinem aktuellen Bearbeitungsstand gespeichert werden. Der Metadatensatz wird in der Ordnerstruktur orange dargestellt.
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/symbolleiste/speichern.png
    :align: left
