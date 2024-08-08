@@ -163,4 +163,4 @@ Abb.: Seite Anmeldung
 Benutzername vergessen
 ----------------------
 
-Wenn Sie Ihren Benutzernamen vergessen haben, füllen Sie bitte das Kontaktformular auf METAVER (https://metaver.de/kontakt) aus und geben Sie Ihr Bundesland an. So wird Ihre Anfrage an den zuständigen Katalogadministrator zugestellt.
+Wenn Sie Ihren Benutzernamen vergessen haben, schreiben Sie bitte eine E-Mail an portalu<at>mkuem.rlp.de.
