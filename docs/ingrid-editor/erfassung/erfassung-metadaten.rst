@@ -209,14 +209,14 @@ Angabe einer Kurzbezeichnung für ein Objekt.
    :scale: 90
    :figwidth: 100%
 
-Abb.: Beispiel Portalansicht in METAVER - Titel
+Abb.: Beispiel Portalansicht - Titel
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/kurzbezeichnung_beispiel.png
    :align: left
    :scale: 70
    :figwidth: 100%
 
-Abb.: Beispiel Portalansicht in METAVER - Kurzbezeichnung
+Abb.: Beispiel Portalansicht - Kurzbezeichnung
 
 
 Feld: Beschreibung
