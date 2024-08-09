@@ -275,22 +275,20 @@ Abb.: Beispiel - MV 600x400 px (für Originalgröße Grafik anklicken)
    :scale: 50
    :figwidth: 100%
 
-Abb.: Ausgabegröße einer Vorschaugrafik in der METAVER Portalausgabe
+Abb.: Ausgabegröße einer Vorschaugrafik in der Portalausgabe
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/vorschaugrafik_portalausgabe.png
    :align: left
    :scale: 80
    :figwidth: 100%
 
-Abb.: Beispiel - MV 344x245 px - Vorschaugrafik in der METAVER Portalausgabe
+Abb.: Beispiel - MV 344x245 px - Vorschaugrafik in der Portalausgabe
 
 
 Metadatensatz mit Adressen verküpfen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Grundsätzlich ist es ratsam erst die Adressen anzulegen, bevor die eigentlichen Metadaten erfasst werden.
-
-Über den Button "Hinzufügen" wird die Adressverknüpfung angelegt.
+Über den Button "Hinzufügen" wird die Adressverknüpfung angelegt. Sollte die gewünschte Adresse nicht vorhanden sein, schreiben Sie bitte eine E-Mail an portalu<at>mkuem.rlp.de, da die Adressen zentral gepflegt werden.
 
 Es sind mindestens zwei Adressen anzugeben:
 
