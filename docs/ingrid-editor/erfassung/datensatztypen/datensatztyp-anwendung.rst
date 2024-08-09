@@ -134,14 +134,14 @@ Beispiel:
 Feld: Basisdaten
 """"""""""""""""
 
-Beschreibung der Herkunft und Art der zugrundeliegenden Daten. Im Allgemeinen sind dies die Datensätze, auf denen der Dienst basiert. Im Allgemeinen sollte die Herkunft oder der Ursprung der Daten beschrieben werden, die in dem Dienst oder der Anwendung verwendet, gespeichert, angezeigt oder weiterverarbeitet werden. Zusätzlich kann die Art der Daten (z. B. numerisch, automatisch oder aus Erhebungsergebnissen gewonnen, Primärdaten, fehlerbereinigte Daten) angegeben werden.
+Beschreibung der Herkunft und Art der zugrundeliegenden Daten. Im Allgemeinen sind dies die Datensätze, auf denen der Dienst basiert. Im Allgemeinen sollte die Herkunft oder der Ursprung der Daten beschrieben werden, die in dem Dienst, der Anwendung oder dem Informationssystem verwendet, gespeichert, angezeigt oder weiterverarbeitet werden. Zusätzlich kann die Art der Daten (z. B. numerisch, automatisch oder aus Erhebungsergebnissen gewonnen, Primärdaten, fehlerbereinigte Daten) angegeben werden.
 
 Beispiel: Das Anwendung enthält Umwelt- und Geodaten der öffentlichen Verwaltung.
 
 
 **Feld: Erläuterungen**
 
-Zusätzliche Anmerkungen zu dem beschriebenen Dienst, der Anwendung oder dem Anwendung. Hier können zusätzliche Informationen, z.B. technischer Art, gegeben werden, die für das Verständnis des Dienstes, der Anwendung, des Anwendungs erforderlich sind.
+Zusätzliche Anmerkungen zu dem beschriebenen Dienst oder der Anwendung. Hier können zusätzliche Informationen, z.B. technischer Art, gegeben werden, die für das Verständnis des Dienstes, der Anwendung, des Informationssystems erforderlich sind.
 
 Beispiel: Die erfassten Daten werden über den Suchdienst Catalogue Service for the Web (CSW) an andere Datenbanken/Portale übergeben.
 
