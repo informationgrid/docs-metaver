@@ -71,8 +71,8 @@ Version der Bedienungsanleitung
 
 --------------------------------------------------------------------------------------------------------------
 
-.. toctree::
+<!-- .. toctree::
    :maxdepth: 2
    :caption: Historie (Software)
    
-   informationen/historie/versionen.rst
+   informationen/historie/versionen.rst -->
