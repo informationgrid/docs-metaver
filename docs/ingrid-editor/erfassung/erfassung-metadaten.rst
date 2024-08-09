@@ -304,19 +304,6 @@ Abb.: Verknüpfung des Metadatensatzes mit Adressdatensätzen
 
 `Auswahlliste Adressen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/auswahllisten/auswahlliste_allgemeines_adressen.html>`_
 
-
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/adressen_bearbeiten.png
-   :align: left
-   :scale: 70
-   :figwidth: 100%
-
-Abb.: Adressen bearbeiten
-
-Über das Dreipunkt-Menü können die Optionen "Bearbeiten", "Hinzufügen" und "Entfernen" gewählt werden.
-
-
-Querverweis: `Adressen anlegen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/erfassung-adressen.html>`_
-
 -----------------------------------------------------------------------------------------------------------------------
 
 
