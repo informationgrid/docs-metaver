@@ -53,7 +53,7 @@ Bitte wählen Sie in diesem Feld die Art des Dienstes aus.
 Folgende Einstellungen sind möglich: 
 
   - Anwendung
-  - Anwendung
+  - Informationssystem
   - nicht geographischer Dienst
 
  
