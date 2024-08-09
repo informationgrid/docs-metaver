@@ -96,7 +96,7 @@ Feld: Erscheinungsort
 
 Angabe, wo das Dokument veröffentlicht wurde. Diese Angabe bezieht sich auf das Dokument und nicht auf den Inhalt des Dokuments. Die räumliche Zuordnung des Dokumentinhalts erfolgt in den Angaben zum Raumbezug des aktuellen Metadatensatzes.
 
-Beispiel: Hamburg
+Beispiel: Mainz
 
 
 Feld: Band/Heft
@@ -104,7 +104,7 @@ Feld: Band/Heft
 
 Angabe der Ausgabe des betreffenden Bandes einer Reihe. Zeitschriften und Sammelwerke bzw. Reihen werden fortlaufend seit ihrem Erscheinen oder nach Jahrgängen gezählt. Hier ist die Nummer des Bandes anzugeben, in dem der Artikel oder Bericht erschienen ist.
 
-Beispiel: Band 1 - Landkreise Dahme-Spreewald, Elbe-Elster, Oberspreewald-Lausitz, Spree-Neiße und Stadt Cottbus
+Beispiel: Band 1 - Landkreise Mainz-Bingen, Alzey-Worms und Stadt Mainz
 
 
 Feld: Seiten
