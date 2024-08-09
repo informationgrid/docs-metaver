@@ -48,7 +48,7 @@ Abb.: Tabelle - Objektartenkatalog
 
 Hier kann der den Daten zugrunde liegende Klassifizierungsschlüssel angegeben werden. Es können mehrere Kataloge mit Datum und Version eingegeben werden.
 
-Beispiel:  Biotoptypenschlüssel Hamburg (tt.mm.jjjj), Version (xx.xx)
+Beispiel:  Biotoptypenschlüssel Rheinland-Pfalz (tt.mm.jjjj), Version (xx.xx)
 
 
 Feld: Inhalte der Datensammlung/Datenbank
