@@ -1,6 +1,6 @@
 
 ==================================
-Organisationseinheit (Fachaufgabe)
+Fachaufgabe
 ==================================
 
 .. csv-table::
