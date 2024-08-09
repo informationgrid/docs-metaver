@@ -1,6 +1,6 @@
 
 ===========================
-Zeichensatz des Datensatzes
+Intervalle
 ===========================
 
  - Sekunden
