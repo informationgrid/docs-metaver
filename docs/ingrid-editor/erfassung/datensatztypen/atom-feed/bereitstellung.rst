@@ -85,4 +85,4 @@ GetFeature-Requests werden nicht ausgewertet. Der Service-Feed enthält den Verw
 .. hint:: Das Ausfüllen der allgemeinen Felder erfolgt gemäß den Angaben unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/erfassung-metadaten.html>`_. Für die Spezialfelder sind die Vorgaben unter `Datensatztyp / Geodatendienst <https://metaver-bedienungsanleitung.readthedocs.io/de/igeng/ingrid-editor/erfassung/datensatztypen/datensatztyp-geodatendienst.html>`_ zu beachten.
 
 
-.. important:: Sollten Schwierigkeiten bei der Erstellung eines ATOM-Download-Services auftreten, kontaktieren Sie bitte über das `METAVER Kontaktformular <https://metaver.de/kontakt>`_ Ihren zuständigen Katalogadministrator (bitte das Bundesland angeben).
+.. important:: Sollten Schwierigkeiten bei der Erstellung eines ATOM-Download-Services auftreten, schreiben Sie bitte eine E-Mail an portalu<at>mkuem.rlp.de.
