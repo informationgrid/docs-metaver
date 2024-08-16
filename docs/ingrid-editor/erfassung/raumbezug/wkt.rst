@@ -5,7 +5,7 @@ Raumbezug als WKT
 
 Obwohl das ISO-Element als Polygon bezeichnet wird, können in diesem Feld auch andere Geometrietypen angegeben werden.
 
-.. tip:: Die Koordinaten für die WKT-Klassen können im `METAVER Kartenclient <https://www.metaver.de/kartendienste;jsessionid=4E59B98F4D03F8E421F336E4426B30EE?>`_ durch die Funktion "Zeichnen & Messen auf der Karte" festgelegt werden. Diese Koordinaten müssen dann in einer KML-Datei über die Funktion "Exportieren" gespeichert werden. Bei der Angabe der WKT ist darauf zu achten, dass jeweils eine Punktkoordinate durch ein Komma getrennt wird. In KML-Dateien werden beispielsweise die Koordinatenangaben durch ein Komma getrennt.
+.. tip:: Die Koordinaten für die WKT-Klassen können im `PortalU Kartenclient <https://www.portalu.rlp.de/kartendienste>`_ durch die Funktion "Zeichnen & Messen auf der Karte" festgelegt werden. Diese Koordinaten müssen dann in einer KML-Datei über die Funktion "Exportieren" gespeichert werden. Bei der Angabe der WKT ist darauf zu achten, dass jeweils eine Punktkoordinate durch ein Komma getrennt wird. In KML-Dateien werden beispielsweise die Koordinatenangaben durch ein Komma getrennt.
 
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/wkt/metaver_kartenclient.png
@@ -13,10 +13,10 @@ Obwohl das ISO-Element als Polygon bezeichnet wird, können in diesem Feld auch 
    :scale: 90
    :figwidth: 100%
 
-Abb.: Beispiel - Erstellung verschiedener Geometrien im METAVER Kartenclient
+Abb.: Beispiel - Erstellung verschiedener Geometrien im PortalU Kartenclient
 
 
-Der METAVER Kartenclient ermöglicht es über die Funktion "Zeichnen & Messen auf der Karte" Geometrien zu erstellen und diese Daten anschließend über "Exportieren" in einer KML-Datei zu speichern. 
+Der PortalU Kartenclient ermöglicht es über die Funktion "Zeichnen & Messen auf der Karte" Geometrien zu erstellen und diese Daten anschließend über "Exportieren" in einer KML-Datei zu speichern. 
 
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/wkt/beispiel_kml-koordinaten.png
