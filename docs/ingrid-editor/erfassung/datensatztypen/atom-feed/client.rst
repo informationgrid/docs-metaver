@@ -20,7 +20,7 @@ Da Webbrowser für den Datendownload von ATOM-Feeds nur Erweiterungen unterstüt
 
 Abb.: Downloaddienst - Als ATOM-Download Dienst bereitstellen
 
-Der ATOM-Feed Client wurde an die spezifischen Anforderungen der Bundesländer und Download-Server angepasst. 
+Der ATOM-Feed Client wurde an die spezifischen Anforderungen der Bundesländer und Download-Server angepasst. FÜR RLP ist dieser nicht eingerichtet.
 
 Folgende Partner-Bundesländer verfügen über den ATOM-Feed Client.
 
