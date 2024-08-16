@@ -28,7 +28,7 @@ Version der Bedienungsanleitung
    Abb.: InGrid Editor - Übersicht
 
 
-..  note::  Die Eingabemasken und die Eingabefelder in den Metadatenkatalogen können je nach Metadatenprofil variieren (z.B.: Hamburger Metadatenkatalog, Kommunaler Metadatenkatalog Sachsen-Anhalt).
+..  note::  Die Abbildungen stammen zum Teil aus der Anleitung für METAVER, einem Metadatenverbund, und werden nach und nach noch ausgetauscht.
 
 
 --------------------------------------------------------------------------------------------------------------
