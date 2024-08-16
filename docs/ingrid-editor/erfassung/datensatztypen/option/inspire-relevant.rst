@@ -24,7 +24,7 @@ Erfassung
 Option: INSPIRE-relevant
 """""""""""""""""""""""""
 
-Wenn die Option "INSPIRE-relevant" aktiviert ist, werden die Metadaten an den `Geodatenkatalog Deutschland <https://gdk.gdi-de.org/>`_, an das `Geoportal der Geodateninfrastruktur-Deutschland (GDI-DE) <https://www.geoportal.de/>`_ und an das `INSPIRE Geoportal <https://inspire-geoportal.ec.europa.eu/srv/eng/catalog.search#/home>`_ der EU geliefert und veröffentlicht. Die Daten und Metadaten unterliegen damit der INSPIRE-Richtlinie.
+Wenn die Option "INSPIRE-relevant" aktiviert ist, könnten die Metadaten an den `Geodatenkatalog Deutschland <https://gdk.gdi-de.org/>`_, an das `Geoportal der Geodateninfrastruktur-Deutschland (GDI-DE) <https://www.geoportal.de/>`_ und an das `INSPIRE Geoportal <https://inspire-geoportal.ec.europa.eu/srv/eng/catalog.search#/home>`_ der EU geliefert und veröffentlicht werden. Die Daten und Metadaten unterliegen damit der INSPIRE-Richtlinie.
 
 Der Geodatensatz wird über die Registry der GDI-DE an die EU gemeldet und im Rahmen eines `Monitoringprozesses <https://registry.gdi-de.org/register/moni/>`_ überwacht.
 
@@ -35,6 +35,8 @@ Der Geodatensatz wird über die Registry der GDI-DE an die EU gemeldet und im Ra
    :figwidth: 100%
 
 Abb.: Option: INSPIRE relevant
+
+Dies trifft für PortalU.rlp.de nicht zu, da die INSPIRE-relevanten Daten in RLP über das geoportal.rlp.de an die entsprechenden Stellen geliefert werden. Trotzdem macht es Sinn, auch in PortalU die INSPIRE-relevanten Daten als solche zu kennzeichnen.
 
 Durch die Aktivierung der Option "INSPIRE-relevant" wird das Schlüsselwort "inspireidentified" im ISO-XML gesetzt.
 
