@@ -5,7 +5,7 @@ Registrierung und Anmeldung
 
 Öffnen Sie die Anmeldeseite!
 
-URL: https://metaver.de/log-in - hier login rlp eintragen
+URL: https://portalu.rlp.de/log-in
 
 .. figure:: ../../img/registrierung-anmeldung/log-in.png
    :align: left
