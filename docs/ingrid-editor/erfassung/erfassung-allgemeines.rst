@@ -522,7 +522,7 @@ Abb.: Auf letzte Veröffentlichung zurücksetzen
 Option: "Veröffentlichung zurückziehen"
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Für diese Option müssen in den Bundesländern Regelungen getroffen werden, die festlegen, wann veröffentlichte Datensätze zurückgezogen werden dürfen.
+Es besteht die Möglichkeit, einen bereits veröffentlichten Datensatz wieder zurückzuziehen.
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichung_zurueckziehen.png
    :align: left
