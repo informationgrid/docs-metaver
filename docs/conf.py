@@ -51,7 +51,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'Dokumentation InGrid Editor Profil METAVER'
+project = 'Dokumentation InGrid Editor Profil RP'
 copyright = '2021-{}, wemove'.format(
     datetime.datetime.now().year
 )
