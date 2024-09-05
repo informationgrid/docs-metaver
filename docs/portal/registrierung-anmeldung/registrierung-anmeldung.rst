@@ -3,62 +3,9 @@
 Registrierung und Anmeldung
 ============================
 
-Öffnen Sie die Anmeldeseite!
+Damit Sie mit dem InGrid Editor (IGE) Daten bearbeiten können, benötigen Sie einen Account. Dazu schreiben Sie bitte eine E-Mail an portalu<at>mkuem.rlp.de. Sobald Ihr Account eingerichtet ist, erhalten Sie eine E-Mail mit den Zugangsdaten. Die URL für den Zugang zum IGE ist:
 
-URL: https://portalu.rlp.de/log-in
-
-.. figure:: ../../img/registrierung-anmeldung/log-in.png
-   :align: left
-   :scale: 40
-   :figwidth: 100%
-
-Abb.: Seite Anmeldung
-
-Um einen neuen Benutzer anzulegen, wählen Sie "REGISTRIEREN".
-
-Auf der Anmeldeseite müssen Sie mindestens alle Pflichtfelder ausfüllen, welche durch ein Sternchen gekennzeichnet sind. Sie haben die Freiheit, Ihren Benutzernamen und das zugehörige Passwort selbst zu wählen.
-
-
-.. figure:: ../../img/registrierung-anmeldung/registrierung.png
-   :align: left
-   :scale: 50
-   :figwidth: 100%
-
-Abb.: Seite Registrierung
-
-Es wird eine Überprüfung des Passworts durchgeführt, bitte wählen Sie ein sicheres Passwort (grüner Balken).
-
-Um die Registrierung abzuschließen, klicken Sie bitte auf den Button "KONTO ERSTELLEN". Anschließend erhalten Sie die folgende Nachricht in Ihrem Browserfenster.
-
-.. figure:: ../../img/registrierung-anmeldung/account-angelegt.png
-   :align: left
-   :scale: 60
-   :figwidth: 100%
-
-Abb.: Seite "Account erfolgreich angelegt"
-
-Außerdem erhalten Sie eine E-Mail an die zuvor von Ihnen eingegebene E-Mail-Adresse: 
-
-
-.. figure:: ../../img/registrierung-anmeldung/e-mail.png
-   :align: left
-   :scale: 60
-   :figwidth: 100%
-
-Abb.: vom System versendete E-Mail
-
-Um Ihre neue Benutzerkennung freizuschalten, klicken Sie bitte auf den Link in Ihrer E-Mail. Anschließend öffnet sich der Browser mit der folgenden Anzeige.
-
-
-.. figure:: ../../img/registrierung-anmeldung/account-freigeschaltet.png
-   :align: left
-   :scale: 60
-   :figwidth: 100%
-
-Abb.: Seite "Ihr Account wurde erfolgreich freigeschaltet. ..."
-
-Bevor Sie Metadaten erfassen und pflegen können, muss Ihre neue Benutzerkennung für die Erfassung und Pflege der Metadaten freigeschaltet werden. Bisher ist es Ihnen lediglich gestattet, sich am Portal anzumelden und persönliche Einstellungen vorzunehmen. Sie können jedoch noch keine Änderungen an den Metadaten vornehmen. 
-Dazu schreiben Sie bitte eine E-Mail an portalu<at>mkuem.rlp.de und teilen mit, dass Sie einen Zugang zum InGrid Editor benötigen. Es wird dann ein Zugang mit den notwendigen Berechtigungen eingerichtet. 
+https://portalu.rlp.de/log-in
 
 
 Anmeldung am InGrid Editor
