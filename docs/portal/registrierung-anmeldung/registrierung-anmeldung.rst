@@ -61,14 +61,14 @@ Abb: Funktion Passwort vergessen
 Es öffnet sich die „Passwort vergessen“ - Seite, deren Aufforderung bitte folgen.
 
 
-.. figure:: ../../img/registrierung-anmeldung/anmeldung.png
+.. figure:: ../../img/registrierung-anmeldung/passwortVergessen_rp.png
    :align: left
    :scale: 30
    :figwidth: 100%
 
 Abb.: Angabe der E-Mail-Adresse
 
-Feld "E-Mail*": Bitte geben Sie hier Ihre E-Mail-Adresse ein und klicken Sie auf "E-MAIL ANFORDERN".
+Feld "E-Mail*": Bitte geben Sie hier Ihre E-Mail-Adresse ein und klicken Sie auf "ABSENDEN".
 
 Es erscheint die Seite "E-Mail gesendet" mit der Nachricht: "Sie haben eine E-Mail mit Informationen zur Änderung Ihres Passworts erhalten".
 
