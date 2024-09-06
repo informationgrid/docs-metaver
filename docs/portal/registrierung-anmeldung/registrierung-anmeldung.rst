@@ -3,15 +3,13 @@
 Registrierung und Anmeldung
 ============================
 
-Damit Sie mit dem InGrid Editor (IGE) Daten bearbeiten können, benötigen Sie einen Account. Dazu schreiben Sie bitte eine E-Mail an portalu<at>mkuem.rlp.de. Sobald Ihr Account eingerichtet ist, erhalten Sie eine E-Mail mit den Zugangsdaten. Die URL für den Zugang zum IGE ist:
-
-https://portalu.rlp.de/log-in
+Damit Sie mit dem InGrid Editor (IGE) Daten bearbeiten können, benötigen Sie einen Account. Dazu schreiben Sie bitte eine E-Mail an portalu<at>mkuem.rlp.de. Sobald Ihr Account eingerichtet ist, erhalten Sie eine E-Mail mit den Zugangsdaten. 
 
 
 Anmeldung am InGrid Editor
 --------------------------
 
-Wenn Sie über eine Benutzerkennung verfügen und als InGrid Editor registriert sind, rufen Sie die Login-Seite auf (https://portalu.rlp.de/log-in), geben Ihre Benutzerdaten ein und klicken abschließend auf die Schaltfläche "ANMELDEN".
+Wenn Sie über einen Account verfügen, rufen Sie die Login-Seite auf (https://portalu.rlp.de/log-in), geben Ihre Benutzerdaten ein und klicken abschließend auf die Schaltfläche "ANMELDEN".
 
 .. figure:: ../../img/registrierung-anmeldung/anmeldung.png
    :align: left
