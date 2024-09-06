@@ -15,7 +15,7 @@ Damit Sie mit dem InGrid Editor (IGE) Daten bearbeiten können, benötigen Sie e
 Anmeldung am InGrid Editor
 --------------------------
 
-Wenn Sie über einen Account verfügen, rufen Sie die Login-Seite auf (https://portalu.rlp.de/log-in), geben Ihre Benutzerdaten ein und klicken abschließend auf die Schaltfläche "ANMELDEN".
+Wenn Sie über einen Account verfügen, rufen Sie die Login-Seite auf (https://www.portalu.rlp.de/log-in), geben Ihre Benutzerdaten ein und klicken abschließend auf die Schaltfläche "ANMELDEN".
 
 .. figure:: ../../img/registrierung-anmeldung/anmeldung.png
    :align: left
