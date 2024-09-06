@@ -48,10 +48,10 @@ Zuletzt veröffentlicht im Katalog - Es werden alle Metadaten angezeigt, die zul
 Passwort vergessen
 ------------------
 
-Aufruf der Seite "Anmeldung": https://metaver.de/log-in. Klicken Sie auf den Link "Passwort vergessen?".
+Aufruf der Login-Seite: https://www.portalu.rlp.de/log-in. Klicken Sie auf den Link "Passwort vergessen?".
 
 
-.. figure:: ../../img/registrierung-anmeldung/log-in.png
+.. figure:: ../../img/registrierung-anmeldung/anmeldung_rp.png
    :align: left
    :scale: 40
    :figwidth: 100%
