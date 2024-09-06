@@ -9,6 +9,7 @@ Damit Sie mit dem InGrid Editor (IGE) Daten bearbeiten können, benötigen Sie e
    :align: left
    :scale: 30
    :figwidth: 100%
+   :class: with-border
 
 
 Anmeldung am InGrid Editor
