@@ -32,7 +32,7 @@ Der InGrid Editor im Ausgangszustand
 Nach dem Laden des Editors wird zuerst die Übersicht gezeigt. Hier wird dargestellt, welche Objekte bzw. Adressen zuletzt bearbeitet wurden und wann das geschehen ist.
 
 
-.. figure:: ../../img/registrierung-anmeldung/ige_dashboard.png
+.. figure:: ../../img/registrierung-anmeldung/ige_dashboard_rp.png
    :align: left
    :scale: 30
    :figwidth: 100%
