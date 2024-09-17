@@ -25,11 +25,12 @@ Version der Bedienungsanleitung
 
 
 .. figure:: img/portal/uebersicht.png
+   :alt: Screenshot InGrid Editor Übersicht
    :align: left
    :scale: 70
    :figwidth: 100%
 
-   Abb.: InGrid Editor - Neue Generation (IGE-NG) - Übersicht
+   Abb.: InGrid Editor - Übersicht
 
 
 ..  note::  Die Eingabemasken und die Eingabefelder in den Metadatenkatalogen können je nach Metadatenprofil variieren (z.B.: Hamburger Metadatenkatalog, Kommunaler Metadatenkatalog Sachsen-Anhalt).
