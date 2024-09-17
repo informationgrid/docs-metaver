@@ -7,11 +7,12 @@ Um einem neuen Benutzer passende Rechte für den InGrid-Editor zuzuweisen, muss 
 
 
 .. figure:: ../../../img/ige/administration/benutzerverwaltung/gruppenberechtigung.png
+   :alt: Screenshot Benutzerverwaltung
    :align: left
    :scale: 100
    :figwidth: 100%
 
-Abb.: Benutzer Gruppenberechtigung zuordnen
+Abb.: Benutzerverwaltung
 
  
 Nachdem gehen Sie bitte wie folgt vor:
@@ -20,6 +21,7 @@ Durch Anklicken des "HINZUFÜGEN"-Buttons wird ein Dialogfenster geöffnet.
 
 
 .. figure:: ../../../img/ige/administration/benutzerverwaltung/hinzufuegen.png
+   :alt: Screenshot Button Hinzufügen
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -34,6 +36,7 @@ Feld Login
 ----------
 
 .. figure:: ../../../img/ige/administration/benutzerverwaltung/benutzer-hinzufuegen.png
+   :alt: Screenshot Fenster Benutzer hinzufügen
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -45,6 +48,7 @@ Feld Rolle
 ----------
 
 .. figure:: ../../../img/ige/administration/benutzerverwaltung/rolle-zuweisen.png
+   :alt: Screenshot Fenster Benutzer hinzufügen - Rolle auswählen
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -66,6 +70,7 @@ Jede E-Mail-Adresse kann nur einmal vergeben werden, um eine eindeutige Zuordnun
 Nachdem alle Felder im Dialogfenster ausgefüllt wurden, muss der Button "ANLEGEN" betätigt werden. Der Benutzer wird angelegt und es können weitere Felder ausgefüllt werden. Abschließend muss dem Benutzer eine Gruppe zugewiesen werden.
 
 .. figure:: ../../../img/ige/administration/benutzerverwaltung/gruppe-zuweisen.png
+   :alt: Screenshot Feld - Gruppe auswählen
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -76,6 +81,7 @@ Abb.: Gruppe zuweisen
 Mit "SPEICHERN" (Schaltfläche oben rechts) schließen Sie den Vorgang ab.
 
 .. figure:: ../../../img/ige/administration/benutzerverwaltung/speichern.png
+   :alt: Screenshot Button speichern
    :align: left
    :scale: 50
    :figwidth: 100%

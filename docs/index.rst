@@ -30,7 +30,7 @@ Version der Bedienungsanleitung
    :scale: 70
    :figwidth: 100%
 
-   Abb.: InGrid Editor - Übersicht
+Abb.: InGrid Editor - Übersicht
 
 
 ..  note::  Die Eingabemasken und die Eingabefelder in den Metadatenkatalogen können je nach Metadatenprofil variieren (z.B.: Hamburger Metadatenkatalog, Kommunaler Metadatenkatalog Sachsen-Anhalt).
