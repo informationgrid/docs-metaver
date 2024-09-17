@@ -5,7 +5,7 @@
 
 
 .. figure:: img/logos/logo-metaver.png
-   :alt:MetadatenVerbund
+   :alt: MetadatenVerbund
    :align: left
    :scale: 30
    :figwidth: 100 %
