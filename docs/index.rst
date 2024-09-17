@@ -5,7 +5,7 @@
 
 
 .. figure:: img/logos/logo-metaver.png
-   :alt: MetadatenVerbund
+   :alt: Textmarke MetadatenVerbund
    :align: left
    :scale: 30
    :figwidth: 100 %
@@ -25,7 +25,7 @@ Version der Bedienungsanleitung
 
 
 .. figure:: img/portal/uebersicht.png
-   :alt: Screenshot InGrid Editor Übersicht
+   :alt: Screenshot InGrid-Editor Übersicht
    :align: left
    :scale: 70
    :figwidth: 100%
