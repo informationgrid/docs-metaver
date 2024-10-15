@@ -30,6 +30,7 @@ Wenn das Kontaktformular ohne Ankreuzen der Option "Ich habe eine technische Fra
 
 
 .. figure:: ../../img/portal/kontakt.png
+   :alt: Kontaktformular MetaVer
    :align: left
    :scale: 100
    :figwidth: 100%
