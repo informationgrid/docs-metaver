@@ -14,7 +14,7 @@
 Bedienungsanleitung InGrid Editor
 ==================================
 ========================================
-Profil: MetadatenVerbund (METAVER)
+Profil: Bundesamt für Kartographie und Geodäsie (BKG)
 ========================================
 
 Version der Bedienungsanleitung
