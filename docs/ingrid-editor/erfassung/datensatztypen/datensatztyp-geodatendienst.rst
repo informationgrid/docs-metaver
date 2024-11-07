@@ -187,7 +187,7 @@ Nach dem Abrufen werden die im Dienst hinterlegten Metadaten angezeigt. Hier kö
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_operationen_wms.png
    :align: left
-   :scale: 90
+   :scale: 100
    :figwidth: 100%
 
 Abb.: URLs eines WMS
@@ -195,7 +195,7 @@ Abb.: URLs eines WMS
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_operationen_wfs.png
    :align: left
-   :scale: 90
+   :scale: 100
    :figwidth: 100%
 
 Abb.: URLs eines WFS
