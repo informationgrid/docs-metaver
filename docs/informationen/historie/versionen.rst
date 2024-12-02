@@ -3,19 +3,19 @@ InGrid Versionen
 ================
 
 Bedienungsanleitung (IGE-NG) Version 
-  - letzte Änderung: 07.08.2024
-  - Status: abgeschlossen
+  - letzte Änderung: 02.12.2024
+  - Status: in Bearbeitung
 
 --------------------------------------------------------------------------------------------------------------
 
 IGE Live-System
-  - InGrid Editor Version: 7.2.1, 04.08.2024, 01:52
-  - GIT Commit ID: 83d6c78016990465c09d998de97964e7006e556a 
+  - InGrid Editor-Version: 7.3.2, 16.10.2024, 18:59
+  - GIT Commit ID: 739bd4cc0531d48177120131cd45ef6f3ab7dec9
 
 
 IGE Test-System
-  - InGrid Editor Version: 7.2.1, 25.07.2024, 16:47
-  - GIT Commit ID: 83d6c78016990465c09d998de97964e7006e556
+  - 7.3.1-2, 15.10.2024, 16:19
+  - GIT Commit ID: e2428417f1048c25f2f9d35e59cd4d91524d3b83
 
 --------------------------------------------------------------------------------------------------------------
 
@@ -23,15 +23,33 @@ IGE Test-System
 
 (Ausfühliche Informationen in der `GitHub History <https://www.ingrid-oss.eu/latest/about/history.html>`_)
 
-Version: 7.2.1, 04.08.2024
+
+**Version: 7.3.2, 16.10.2024**
+
+InGrid-Editor
+  - Der Datei-Upload wurde in den Objekttypen Geodatensatz, Datenbank, Anwendung und Dokument aufgenommen.
+  - Für die URL-Pflege steht ein CSV-Export zur Verfügung.
+
+Portal
+  - Das OpenData-Icon wurde geändert.
+  - Die HVD Checkbox wurde in die Facettierung der Portalansicht integriert.
+  - Die HVD-Kategorien wurden in die Portal-Detailansicht in der Facettierung: Fachinformationen/Schlagwörter aufgenommen.
+  - Weitere Informationen wurden in der Portal-Detailansicht unter Facettierung, in den Operationen hinzugefügt.
+
+InGrid
+  - In  der InGrid-Software wurde der Havester implementiert. 
+  - In derDCAT-AP.DE -Schnittstelle wurde der Text für den Raumbezug imlementiert.
+
+
+**Version: 7.2.1, 04.08.2024**
   - Geodatendienst - Klassifikation eines Dienstes (Erweiterung der Auswahlliste mit der Art des Dienses)
   - GIT Commit ID 83d6c78016990465c09d998de97964e7006e556a
 
-Version: 7.2.0
+**Version: 7.2.0**
   - Import von Datensätzen im DCAT-AP.de Format. (Es werden Titel, Beschreibung, Adresse und Distribution ins Open-Data Profil importiert.)
 
 
-Version: 7.1.3.2, 05.06.2024 
+**Version: 7.1.3.2, 05.06.2024** 
   - HVD-Basisfunktionalität integriert
   - GIT Commit ID 7e54ee1025918a0c8c2d8b833f720bf0d9428bda
 
@@ -42,10 +60,10 @@ Version: 7.1.3.2, 05.06.2024
 **Entwicklungsversionen (IGE-NG)**
 
 
-Version: 1.7.2, 16.11.2023
+**Version: 1.7.2, 16.11.2023**
   -  INSPIRE Geodatendatz - Funktionalität InVeKoS integriert
 
-**Version: 1.7.1-97, 01.12.2023 (Testsystem)**
+**Version: 1.7.1-97, 01.12.2023**
 
 **Version: 1.6.0, 17.10.2023**
 
