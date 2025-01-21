@@ -17,10 +17,14 @@ Bedienungsanleitung InGrid Editor
 Profil: Hamburger Metadatenkatalog (HMDK)
 =========================================
 
-Version der Bedienungsanleitung
-   - InGrid Editor-Version: 7.0.1
-   - letzte Änderung: 17.04.2024
-   - Status: in Bearbeitung
+
+ - Portal: HMDK® (Hamburger Metadatenkatalog)
+ - Software: InGrid (Open-Source)
+ - InGrid-Version: 7.3.2
+ - Komponente: InGrid Editor
+ - Profil: HMDK
+ - letzte Änderung: 17.04.2024
+ - Status: in Bearbeitung
 
 
 .. figure:: img/portal/uebersicht.png
