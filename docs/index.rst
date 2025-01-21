@@ -26,7 +26,6 @@ Profil: Hamburger Metadatenkatalog (HMDK)
  - letzte Änderung: 17.04.2024
  - Status: in Bearbeitung
 
-
 .. figure:: img/portal/uebersicht.png
    :align: left
    :scale: 70
