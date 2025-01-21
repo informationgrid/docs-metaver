@@ -15,6 +15,7 @@
 Bedienungsanleitung InGrid Editor
 ==================================
 
+----------------------------------------------------------------------------------------------------------------------------
 
 | **Portal:** METAVER (MetadatenVerbund)
 | **Software:** InGrid (Open-Source)
@@ -24,6 +25,8 @@ Bedienungsanleitung InGrid Editor
 
 | **letzte Änderung:** 21.01.2025
 | **Status:** in Bearbeitung
+
+---------------------------------------------------------------------------------------------------------------------------
 
 
 .. figure:: img/portal/uebersicht.png
