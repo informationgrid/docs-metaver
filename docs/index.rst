@@ -16,14 +16,14 @@ Bedienungsanleitung InGrid Editor
 ==================================
 
 
- - Portal: METAVER (MetadatenVerbund)
- - Software: InGrid (Open-Source)
- - InGrid-Version: 7.3.2, 16.10.2024, 18:59 
- - Komponente: InGrid Editor
- - Profil: METAVER
- 
- - letzte Änderung: 21.01.2025
- - Status: in Bearbeitung
+| **Portal:** METAVER (MetadatenVerbund)
+| **Software:** InGrid (Open-Source)
+| **InGrid-Version:** 7.3.2, 16.10.2024, 18:59 
+| **Komponente:** InGrid Editor
+| **Profil:** METAVER
+
+| **letzte Änderung:** 21.01.2025
+| **Status:** in Bearbeitung
 
 
 .. figure:: img/portal/uebersicht.png
