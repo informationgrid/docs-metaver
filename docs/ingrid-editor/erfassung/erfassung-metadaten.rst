@@ -6,7 +6,7 @@ Metadaten erfassen
 .. important::  Bevor Sie die Erfassung der Metadaten beginnen, empfehlen wir Ihnen, mit der Erfassung der Adressdaten zu beginnen. Der Grund hierfür sind Verweise der Metadaten auf die Adressen.
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    datensatztypen/option/opendata.rst
    datensatztypen/option/hmbtg.rst
