@@ -1,6 +1,7 @@
 
+-------------------------------
 2 Veröffentlichung gemäß HMBTG
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------
 
 .. hint:: Metadaten die nur im Transparenzportal und nicht bei GovData veröffentlicht werden sollen, benötigen nur das Häkchen bei „Veröffentlichung gemäß HmbTG“.
 
@@ -33,12 +34,12 @@ Abb.: Fenster - Hinweis zu den Zugriffsbeschränkungen
 
 
 2.1 Pflichtfelder
-""""""""""""""""""
+^^^^^^^^^^^^^^^^^^
 Wird die Checkbox „Veröffentlichung gemäß HmbTG“ angehakt, werden folgende Felder automatisch zum Pflichtfeld:
 
 
 2.1.1. Informationsgegenstand
-''''''''''''''''''''''''''''''
+"""""""""""""""""""""""""""""
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/hmbtg/hmdk_hmbtg-informationsgegenstand.png
    :align: left
@@ -55,14 +56,14 @@ Wird der Haken bei der Checkbox wieder entfernt, so werden automatisch auch die 
 
 
 2.1.2 Adressen
-'''''''''''''''
+""""""""""""""
 
 •  Es muss mindestens einen 'Ansprechpartner MD' geben.
 •  Es muss mindestens einen 'Herausgeber' geben
 
 
 2.1.3 Open Data Kategorie
-''''''''''''''''''''''''''
+"""""""""""""""""""""""""
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/hmbtg/hmdk_hmbtg-opendata-kategorie.png
    :align: left
@@ -89,7 +90,7 @@ Abb.: Open Data Kategorien
 
 
 2.1.4 Veröffentlichungsrecht
-'''''''''''''''''''''''''''''
+""""""""""""""""""""""""""""
 
 Die Veröffentlichung für Objekte, die für das Hamburger Transparenzportal gekennzeichnet sind, müssen auf „Internet“ gesetzt sein. Bitte kontrollieren!
 
@@ -113,7 +114,7 @@ Abb.: Fenster - Veröffentlichungsrecht
 
 
 2.1.5 Nutzungsbedingeungen
-'''''''''''''''''''''''''''
+""""""""""""""""""""""""""
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/hmbtg/hmdk_hmbtg-nutzungsbedingungen.png
    :align: left
@@ -139,7 +140,7 @@ Das Feld „Zugriffsbeschränkungen“ wird jetzt nur noch mit „Es gelten kein
 
 
 2.1.6 Verweise vom Typ Datendownload
-'''''''''''''''''''''''''''''''''''''
+""""""""""""""""""""""""""""""""""""
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/hmbtg/hmdk_hmbtg-verweise.png
    :align: left
@@ -166,6 +167,7 @@ Bitte geben Sie an dieser Stelle das Format der eigentlichen Daten an. Handelt e
 
 
 2.1.7 Schlagworte (Keywords)
+""""""""""""""""""""""""""""
 
 Das keyword für Veröffentlichung gemäß HmbTG ist „hmbtg“, es wird automatisch beim Anklicken der Checkbox „Veröffentlichung gemäß HmbTG“ gesetzt. Es erscheint im Portal bei Schlagworte, sowie in der ISO im Element <gmd:keyword>
 

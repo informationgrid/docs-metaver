@@ -1,11 +1,7 @@
 
 -----------------
-Option: Open Data
------------------
-
-
 1 Open Data
-^^^^^^^^^^^
+-----------------
 
 .. hint:: Es gibt Datensätze, die nicht unter das Transparenzgesetz fallen, aber freiwillig nach Open Data (GovData) veröffentlicht werden können. Bei diesen Objekten sollte im InGrid-Editor nur die Checkbox „Open Data“ angehakt werden. Die Checkbox „Veröffentlichung gemäß HmbTG“ muss deaktiviert sein.
 
@@ -30,10 +26,10 @@ Abb.: Fenster - Hinweis
 
 
 1.1 Pflichtfelder
-""""""""""""""""""
+^^^^^^^^^^^^^^^^^
 
 1.1.1 Informationsgegenstand
-'''''''''''''''''''''''''''''
+""""""""""""""""""""""""""""
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/hmdk_opendata-informationsgegenstand.png
    :align: left
