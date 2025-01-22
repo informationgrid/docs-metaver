@@ -22,7 +22,7 @@ Bedienungsanleitung InGrid Editor
 | **Komponente:** InGrid Editor
 | **Profil:** HMDK
 
-| **letzte Änderung:** 17.04.2024
+| **letzte Änderung:** 22.01.2025
 | **Status:** in Bearbeitung
 
 ---------------------------------------------------------------------------------------------------------
