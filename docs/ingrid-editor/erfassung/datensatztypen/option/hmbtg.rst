@@ -1,7 +1,7 @@
 
--------------------------------
-2 Veröffentlichung gemäß HMBTG
--------------------------------
+--------------------------------------
+Option 2: Veröffentlichung gemäß HMBTG
+--------------------------------------
 
 .. hint:: Metadaten die nur im Transparenzportal und nicht bei GovData veröffentlicht werden sollen, benötigen nur das Häkchen bei „Veröffentlichung gemäß HmbTG“.
 
