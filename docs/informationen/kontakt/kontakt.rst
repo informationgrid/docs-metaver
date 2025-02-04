@@ -5,9 +5,7 @@ METAVER Kontakt
 
 https://metaver.de/kontakt
 
-**Ticketsystem Zammad**
-
-Das Kontaktformular von METAVER leitet Anfragen an das Ticketsystem Zammad weiter. Dort können die Anfragen verschiedenen Personen zugewiesen werden, indem unterschiedliche Support-Level genutzt werden.
+Ansprechpartner vor Ort
 
 **Support-Level**
 
