@@ -5,6 +5,7 @@
 
 
 .. figure:: img/logos/logo-hmdk.png
+   :alt: Logo METAVER
    :align: left
    :scale: 40
    :figwidth: 100 %
@@ -28,14 +29,17 @@ Bedienungsanleitung InGrid Editor
 ---------------------------------------------------------------------------------------------------------
  
 .. figure:: img/portal/uebersicht.png
+   :alt: Screenshot InGrid-Editor Übersicht
    :align: left
    :scale: 70
    :figwidth: 100%
 
-   Abb.: InGrid Editor - Neue Generation (IGE-NG) - Übersicht
+Abb.: InGrid Editor - Übersicht
 
 
 ..  note::  Die Eingabemasken und die Eingabefelder können sich derzeit noch zum Hamburger Metadatenkatalog unterscheiden.
+
+..  hint:: Wenn Katalog-Administratoren, Metadaten-Administratoren oder Metadaten-Autoren Probleme im Editor melden, bitte zuerst im privaten Modus testen (Stichwort: Cache-Probleme). Tritt das Problem dann nicht auf, bitte den Browser-Cache leeren. Falls das Problem weiterhin besteht, bitte einen Screenshot mit der Ausgabe der Browserkonsole erstellen. Metadatenautoren und Metadatenadministratoren wenden sich diesbezüglich an den Katalogadministrator.
 
 
 --------------------------------------------------------------------------------------------------------------

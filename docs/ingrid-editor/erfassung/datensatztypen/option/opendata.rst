@@ -1,18 +1,44 @@
 
--------------------
-Option 1: Open Data
--------------------
+-----------------
+Option: Open Data
+-----------------
+
+Open Data - Erläuterungen
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Open Data bezeichnet Daten, die von jedermann für jeden Zweck ohne technische und rechtliche Einschränkungen genutzt, verbreitet und weiterverarbeitet werden können. Wichtig ist dabei, dass die Quelle bzw. der Urheber der Daten bei der Weiterverwendung stets genannt wird. Diese Praxis ermöglicht den freien Zugang zu digitalen Daten und deren Weiterverwendung ohne technische, rechtliche oder finanzielle Bedingungen. Beispiele für offene Daten sind Unterrichtsmaterialien, Geodaten, Statistiken, Verkehrsinformationen, wissenschaftliche Publikationen, medizinische Forschungsergebnisse oder Radio- und Fernsehsendungen. Wichtig ist jedoch, dass offene Daten keine personenbezogenen Daten oder Daten, die dem Datenschutz unterliegen, enthalten dürfen.
+
+**Offene Verwaltungsdaten**
+
+Offene Verwaltungsdaten sind nicht personenbezogene Daten, die von öffentlichen Stellen gesammelt, erstellt oder bezahlt wurden und der Allgemeinheit kostenlos zur Verfügung gestellt werden. Diese Daten stellen eine Basisinfrastruktur für die Digitalisierung dar.
+
+**Offene Verwaltungsdaten sollen maschinenlesbar, frei verfügbar, vollständig, aktuell und dauerhaft zugänglich, sie sollen gut strukturiert und für die Allgemeinheit nützlich sein.**
+
+| **Maschinenlesbarkeit:** Die Daten sollten in einem standardisierten Format vorliegen, das von Computern verarbeitet werden kann. Beispiele sind CSV, JSON oder XML.
+| **Freie Verfügbarkeit:** Die Daten sollten ohne Einschränkungen kostenlos zugänglich sein. Es dürfen keine technischen oder rechtlichen Hürden bestehen.
+| **Vollständigkeit:** Die bereitgestellten Daten sollten so umfassend wie möglich sein und alle relevanten Informationen enthalten.
+| **Aktualität:** Die Daten sollten regelmäßig aktualisiert werden, um ihre Relevanz zu gewährleisten.
+| **Dauerhafte Zugänglichkeit:** Die Verwaltungsdaten sollten über einen längeren Zeitraum hinweg verfügbar sein, um ihre Nutzung zu ermöglichen.
+
+.. hint:: `GovData - Informationen <https://www.govdata.de/web/guest/open-government>`_ und `DCAT-AP.de <https://www.dcat-ap.de>`_ und `Open-Data-Leitfaden Schleswig-Holstein <https://opendata.schleswig-holstein.de/leitfaden/>`_
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Erfassung
+^^^^^^^^^
+
+Option: Open Data
+""""""""""""""""""
 
 .. hint:: Es gibt Datensätze, die nicht unter das Transparenzgesetz fallen, aber freiwillig nach Open Data (GovData) veröffentlicht werden können. Bei diesen Objekten sollte im InGrid-Editor nur die Checkbox „Open Data“ angehakt werden. Die Checkbox „Veröffentlichung gemäß HmbTG“ muss deaktiviert sein.
 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/hmdk_checkbox-opendata.png
    :align: left
-   :scale: 70
+   :scale: 90
    :figwidth: 100%
 
-Abb.: Checkbox Open Data
-
+Abb.: Option: Open Data
 
 Wird die Checkbox „Open Data“ aktiviert, erscheint diese Meldung und es werden folgende Felder automatisch zum Pflichtfeld:
 
@@ -20,6 +46,32 @@ Wird die Checkbox „Open Data“ aktiviert, erscheint diese Meldung und es werd
    :align: left
    :scale: 70
    :figwidth: 100%
+
+Abb.: Fenster - Hinweis
+
+Durch die Aktivierung der Option "Open Data" wird das Schlüsselwort "opendata" im ISO-XML gesetzt.
+
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/iso-xml-opendata.png
+   :align: left
+   :scale: 60
+   :figwidth: 100%
+
+Abb.: ISO-XML - Angabe des Schlüsselwortes "opendata"
+
+
+Im Folgenden werden die Felder beschrieben, die nach Aktivierung der Option "Open Data" in der Erfassungsmaske zusätzlich ausgefüllt werden müssen.
+
+Folgende Eigenschaften ändern sich bei der Aktivierung der Option "Open Data":
+
+ - Im Abschnitt "Verschlagwortung" muss in der Tabelle "Kategorien" mindestens ein Wert ausgewählt werden.
+ - Im Abschnitt „Verfügbarkeit“ muss in der Tabelle "Nutzungsbedingungen" eine Lizenz ausgewählt werden.
+ - Im Abschnitt „Verweise“ muss ein Verweis vom Typ "Datendownload" eingegeben werden.
+
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hinweis.png
+   :align: left
+   :scale: 80
+   :figwidth: 100%
+
 
 Abb.: Fenster - Hinweis
 
@@ -54,21 +106,17 @@ Sobald jedoch nur Open Data aktiv ist, wird automatisch im Feld „Informationsg
 1.1.3 Open Data Kategorie
 """"""""""""""""""""""""""
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/hmdk_opendata-kategorie.png
-   :align: left
-   :scale: 70
-   :figwidth: 100%
+(Open Data) Kategorien
+'''''''''''''''''''''''
 
-Abb.: Feld - Kategorie
+Die Tabelle "Kategorien" enthält eine Auswahlliste zur näheren Bestimmung des OpenData-Objekts.
 
-
-Über die Auswahlliste muss mindestens eine Open Data DCAT-AP-DE Kategorie ausgewählt werden.
-Die folgenden Kategorien stehen zur Verfügung:
+`Auswahlliste der Open Data Kategorien <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/auswahllisten/auswahlliste_allgemeines_opendata-kategorien.html>`_
 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/hmdk_opendata-kategorie-liste.png
    :align: left
-   :scale: 50
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Open Data Kategorien
@@ -95,7 +143,7 @@ Abb.: Feld - Veröffentlichungsrecht setzen
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/hmdk_opendata-veroeffentlichungsrecht.png
    :align: left
-   :scale: 50
+   :scale: 90
    :figwidth: 100%
 
 Abb.: Fenster - Veröffentlichungsrecht
@@ -131,7 +179,7 @@ Das Feld „Zugriffsbeschränkungen“ wird jetzt nur noch mit „Es gelten kein
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/hmdk_opendata-verweise.png
    :align: left
-   :scale: 70
+   :scale: 80
    :figwidth: 100%
 
 Abb.: Feld - Verweise
@@ -159,7 +207,7 @@ Das keyword für Open Data ist „opendata“, es wird automatisch beim Anklicke
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/hmdk_opendata-keyword-opendata.png
    :align: left
-   :scale: 50
+   :scale: 90
    :figwidth: 100%
 
 Abb.: XML Keyword - opendata
@@ -170,7 +218,7 @@ Neben dem fest vorgegebenen Schlagwort „opendata“ wird zusätzlich das Kürz
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/hmdk_opendata-keyword-hmbtg_09_geodaten.png
    :align: left
-   :scale: 50
+   :scale: 100
    :figwidth: 100%
 
 Abb.: XML Keyword - hmbtg_09_geodaten
