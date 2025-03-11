@@ -9,7 +9,7 @@ Anwendung
 
     .. image:: ../../../img/ige/icons/datensatztypen/portal/anwendung.png, .. image:: ../../../img/ige/icons/datensatztypen/ige/anwendung.png
 
-Mit dem Datensatztyp "Anwendung" können Softwareprodukte, Webanwendungen oder zentrale Auskunfts- und Anwendungen im Metadatenkatalog beschrieben werden.
+Mit dem Datensatztyp "Anwendung" können Softwareprodukte, Webanwendungen oder zentrale Auskunftsanwendungen im Metadatenkatalog beschrieben werden.
 
 .. note:: Die Erfassung dieses Datensatztyps erfolgt wie unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/erfassung-metadaten.html>`_ beschrieben. Der hier beschriebene Abschnitt "Fachbezug" enthält spezielle Eingabefelder für den Datensatztyp "Anwendung".
 
