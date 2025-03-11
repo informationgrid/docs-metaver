@@ -9,9 +9,9 @@ Anwendung
 
     .. image:: ../../../img/ige/icons/datensatztypen/portal/anwendung.png, .. image:: ../../../img/ige/icons/datensatztypen/ige/anwendung.png
 
-Mit dem Datensatztyp Anwendung können Softwareprodukte, Webanwendungen oder zentrale Auskunfts- und Anwendunge im Metadatenkatalog beschrieben werden.
+Mit dem Datensatztyp "Anwendung" können Softwareprodukte, Webanwendungen oder zentrale Auskunfts- und Anwendungen im Metadatenkatalog beschrieben werden.
 
-.. note:: Die Erfassung dieses Datensatztyps erfolgt wie unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/erfassung-metadaten.html>`_ beschrieben. Der hier beschriebene Abschnitt Fachbezug enthält spezielle Eingabefelder für diesen Datensatztyp.
+.. note:: Die Erfassung dieses Datensatztyps erfolgt wie unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/erfassung-metadaten.html>`_ beschrieben. Der hier beschriebene Abschnitt "Fachbezug" enthält spezielle Eingabefelder für den Datensatztyp "Anwendung".
 
 -----------------------------------------------------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ Abb.: Auswahlfeld - Art des Dienstes
 
 Bitte wählen Sie in diesem Feld (Art des Dienstes) "Anwendung" aus.
 
-Feld: Version
+Feld: Version (falls sinnvoll bitte angeben)
 ^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_anwendung/fachbezug_version.png
@@ -40,7 +40,6 @@ Feld: Version
 
 
 Abb.: Eingabezeile für die Version
-
 
 Bitte geben Sie alle unterstützten Versionen der Anwendung an und bestätigen Sie jede Eingabe mit Enter.
 
@@ -69,7 +68,7 @@ Entwicklungsangaben: Hier können Vorläufer und Nachfolger von Diensten, Anwend
 Feld: Basisdaten
 """"""""""""""""
 
-Beschreibung Herkunft und Art der zugrundeliegenden Daten. Im Allgemeinen sind dies die Datensätze, auf denen der Dienst basiert. Im Allgemeinen sollte die Herkunft oder der Ursprung der Daten beschrieben werden, die in der Anwendung verwendet, gespeichert oder angezeigt werden. Zusätzlich kann die Art der Daten (z. B. numerisch, automatisch oder aus Erhebungsergebnissen gewonnen, Primärdaten, fehlerbereinigte Daten) angegeben werden.
+Beschreibung der Herkunft und Art der zugrundeliegenden Daten. Im Allgemeinen sollte die Herkunft oder der Ursprung der Daten beschrieben werden, die in der Anwendung verwendet, gespeichert oder angezeigt werden. Zusätzlich kann die Art der Daten (z. B. numerisch, automatisch oder aus Erhebungsergebnissen gewonnen, Primärdaten, fehlerbereinigte Daten) angegeben werden. Oft sind dies die Datensätze, auf denen die Anwendung basiert.
 
 Beispiel: Das Anwendung enthält Umwelt- und Geodaten der öffentlichen Verwaltung.
 
