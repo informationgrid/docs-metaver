@@ -154,6 +154,14 @@ Optionen: Merkmale
 
 Es werden die verschiedenen Merkmale der Datensätze angezeigt, deren Aktivierung zusätzliche Eingabefelder im Metadatensatz freischaltet.
 
+.. figure:: ../../img/ige/erfassung/ige_metadaten/datensatztypen/option/merkmale/merkmale.png
+   :align: left
+   :scale: 70
+   :figwidth: 100%
+
+Abb.: Merkmale der Datensätze
+
+
 Datensatztypen mit den entsprechenden Merkmalen:
 
 - **Geodatensatz:** Datensatz / Datenserie, OpenData + HVD | INSPIRE-relevant + InVeKoS | AdV kompatibel
@@ -163,13 +171,6 @@ Datensatztypen mit den entsprechenden Merkmalen:
 - **Dokument:** OpenData
 - **Projekt:** -
 - **Organisationseinheit:** - 
-
-.. figure:: ../../img/ige/erfassung/ige_metadaten/datensatztypen/option/merkmale/merkmale.png
-   :align: left
-   :scale: 70
-   :figwidth: 100%
-
-Abb.: Merkmale der Datensätze
 
 
 Die Merkmale können auf "NUR MARKIERTE ANZEIGEN" eingeschränkt werden.
