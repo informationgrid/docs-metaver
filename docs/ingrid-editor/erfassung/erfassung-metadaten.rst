@@ -164,12 +164,12 @@ Datensatztypen mit den entsprechenden Optionen:
 - **Projekt:** -
 - **Organisationseinheit:** - 
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/datensatztypen/option/merkmale/merkmale_inaktiv.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/datensatztypen/option/merkmale/merkmale.png
    :align: left
    :scale: 80
    :figwidth: 100%
 
-Abb.: Merkmale: INSPIRE-relevant + InVeKoS, AdV kompatibel, OpenData, High-Value-Dataset (HVD)
+Abb.: Merkmale: Datentyp: Datensatz / Datenserie, INSPIRE-relevant: INSPIRE konform / INSPIRE nicht konform + InVeKoS, OpenData: Offene Lizenzen + High-Value-Dataset (HVD), AdV: kompatibel
 
 -----------------------------------------------------------------------------------------------------------------------
 
