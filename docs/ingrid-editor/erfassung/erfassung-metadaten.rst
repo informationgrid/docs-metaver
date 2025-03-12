@@ -156,7 +156,7 @@ Es werden die verschiedenen Merkmale der Datensätze angezeigt, deren Aktivierun
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/datensatztypen/option/merkmale/merkmale.png
    :align: left
-   :scale: 90
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Merkmale der Datensätze
