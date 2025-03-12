@@ -152,11 +152,11 @@ Abb.: Veröffentlichungsrecht setzten
 Optionen: Merkmale
 """""""""""""
 
-Unter Merkmale werden die verschiedenen Optionen für die Datensatztypen angezeigt, die aktiviert werden können, um zusätzliche Felder im Metadatensatz zu anzuzeigen.
+Es werden die verschiedenen Merkmale der Datensätze angezeigt, deren Aktivierung zusätzliche Eingabefelder im Metadatensatz freischaltet.
 
 Datensatztypen mit den entsprechenden Merkmalen:
 
-- **Geodatensatz:** OpenData + HVD | INSPIRE-relevant + InVeKoS | AdV kompatibel
+- **Geodatensatz:** Datensatz / Datenserie, OpenData + HVD | INSPIRE-relevant + InVeKoS | AdV kompatibel
 - **Geodatendienst:** OpenData | INSPIRE-relevant | AdV kompatibel
 - **Anwendung:** OpenData | INSPIRE-relevant | AdV kompatibel
 - **Datenbank:** OpenData
@@ -169,7 +169,7 @@ Datensatztypen mit den entsprechenden Merkmalen:
    :scale: 70
    :figwidth: 100%
 
-Abb.: Merkmale: Datentyp: Datensatz / Datenserie, INSPIRE-relevant: INSPIRE konform / INSPIRE nicht konform + InVeKoS, OpenData: Offene Lizenzen + High-Value-Dataset (HVD), AdV: kompatibel
+Abb.: Merkmale der Datensätze
 
 -----------------------------------------------------------------------------------------------------------------------
 
