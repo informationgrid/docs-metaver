@@ -180,7 +180,7 @@ Die Merkmale können auf "NUR MARKIERTE ANZEIGEN" eingeschränkt werden.
    :scale: 70
    :figwidth: 100%
 
-Abb.: Merkmale - nur Markierte
+Abb.: Nur Markierte Merkmale 
 
 
 
