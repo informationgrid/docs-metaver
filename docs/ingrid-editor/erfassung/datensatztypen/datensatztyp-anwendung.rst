@@ -17,17 +17,17 @@ Mit dem Datensatztyp Anwendung können Softwareprodukte, Webanwendungen oder zen
 -----------------------------------------------------------------------------------------------------------------------
 
 
-Feld: Typ
-^^^^^^^^^
+Merkmale
+^^^^^^^^
 
-Unter Typ können weitere Eigenschaften (Eingabefelder) für den Metadatensatz definiert werden.
+Unter Merkmale können weitere Eigenschaften (Eingabefelder) für den Metadatensatz aktiviert werden.
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkboxen.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/merkmale/mekmale_anwendung.png
    :align: left
-   :scale: 90
+   :scale: 50
    :figwidth: 100%
 
-Abb.: Optionen für weitere Eigenschaften
+Abb.: Option
 
 .. seealso:: Beschreibungen der Optionen: `INSPIRE-relevant | <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/option/inspire-relevant.html>`_ `AdV-kompatibel | <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/option/adv-kompatibel.html>`_ `Open Data <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/option/opendata.html>`_
 
