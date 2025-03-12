@@ -171,6 +171,19 @@ Datensatztypen mit den entsprechenden Merkmalen:
 
 Abb.: Merkmale der Datensätze
 
+
+Die Merkmale können auf "NUR MARKIERTE ANZEIGEN" eingeschränkt werden.
+
+.. figure:: ../../img/ige/erfassung/ige_metadaten/datensatztypen/option/merkmale/merkmale_nur-markierte.png
+   :align: left
+   :scale: 70
+   :figwidth: 100%
+
+Abb.: Merkmale - nur Markierte
+
+
+
+
 -----------------------------------------------------------------------------------------------------------------------
 
 
