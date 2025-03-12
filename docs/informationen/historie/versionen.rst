@@ -24,6 +24,26 @@ IGE Test-System
 (Ausfühliche Informationen in der `GitHub History <https://www.ingrid-oss.eu/latest/about/history.html>`_)
 
 
+
+**Version: 7.4.2, 16.02.2025**
+
+Ingrid-Editor
+  - Der „Merkmale“-Bereich wurde umgestaltet.
+  - Die HVD-Kategorien wurden als Codeliste aufgenommen.
+  - Im Bereich OpenData/HVD wurde der Eintrag „Es gelten keine Zugriffsbeschränkungen“ gesetzt.
+  - Ressourcen können der OGC API über die PUT-Methode verschoben werden.
+  - Das Verhalten für das Feld „Art des Dienstes“ wurde geändert.
+  - Der CSV-Export der Suchergebnisse aus der SQL-Suche gibt zusätzliche Datenfelder aus.
+  - Verweise können über den Themenbaum wie im IGE Classic ausgewählt werden.
+  - Die Schlagworte im Metadatensatz wurden konsolidiert.
+  - Im Editor kann die Herkunft der Daten detaillierter eingegeben werden.
+
+Portal
+  - Die Icons für die Kategorien „Karten“ und „INSPIRE“ auf der Portal-Startseite wurden ausgetauscht.
+  - Im Portal wurde die Verlinkung des Koordinatensystems von epsg.io auf www.spatialreference.org geändert.
+  - Ein „Kopieren“-Button wurde an einer bestimmten Stelle im Portal hinzugefügt.
+
+
 **Version: 7.3.2, 16.10.2024**
 
 InGrid-Editor
