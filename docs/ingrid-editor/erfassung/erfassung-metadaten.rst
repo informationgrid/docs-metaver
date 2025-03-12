@@ -177,7 +177,7 @@ Die Merkmale können auf "NUR MARKIERTE ANZEIGEN" eingeschränkt werden.
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/datensatztypen/option/merkmale/merkmale_nur-markierte.png
    :align: left
-   :scale: 70
+   :scale: 50
    :figwidth: 100%
 
 Abb.: Nur Markierte Merkmale 
