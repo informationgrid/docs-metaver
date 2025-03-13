@@ -25,7 +25,7 @@ Erfassung
 Merkmal: INSPIRE-relevant
 """""""""""""""""""""""""
 
-Wenn das Merkmal "INSPIRE-relevant" aktiviert ist, werden die Metadaten an den `Geodatenkatalog Deutschland <https://gdk.gdi-de.org/>`_, an das `Geoportal der Geodateninfrastruktur-Deutschland (GDI-DE) <https://www.geoportal.de/>`_ und an das `INSPIRE Geoportal <https://inspire-geoportal.ec.europa.eu/srv/eng/catalog.search#/home>`_ der EU geliefert und veröffentlicht. Die Daten und Metadaten unterliegen damit der INSPIRE-Richtlinie.
+Wenn das Merkmal "INSPIRE konform" aktiviert ist, werden die Metadaten an den `Geodatenkatalog Deutschland <https://gdk.gdi-de.org/>`_, an das `Geoportal der Geodateninfrastruktur-Deutschland (GDI-DE) <https://www.geoportal.de/>`_ und an das `INSPIRE Geoportal <https://inspire-geoportal.ec.europa.eu/srv/eng/catalog.search#/home>`_ der EU geliefert und veröffentlicht. Die Daten und Metadaten unterliegen damit der INSPIRE-Richtlinie.
 
 Der Geodatensatz wird über die Registry der GDI-DE an die EU gemeldet und im Rahmen eines `Monitoringprozesses <https://registry.gdi-de.org/register/moni/>`_ überwacht.
 
@@ -45,7 +45,7 @@ Abb.: Merkmal INSPIRE-relevant - konform
 Abb.: Merkmal INSPIRE-relevant - nicht konform
 
 
-Durch die Aktivierung des Merkmals "INSPIRE-relevant" wird das Schlüsselwort "inspireidentified" im ISO-XML gesetzt.
+Durch die Aktivierung des Merkmals "INSPIRE-konform" wird das Schlüsselwort "inspireidentified" im ISO-XML gesetzt.
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/inspire-relevant/iso-xml-inspireidentifiziert.png
    :align: left
