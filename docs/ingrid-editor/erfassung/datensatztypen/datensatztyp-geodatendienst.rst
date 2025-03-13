@@ -33,6 +33,7 @@ Funktion: Der GetCapabilities-Assistent
    
 Abb.: GetCapabilitie-Assistent - Symbol (Zauberstab) in der Symbolleiste
 
+
 .. seealso:: Hier wird die Erfassung von Metadaten mit dem `GetCapabilities-Assistenten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/erfassungsassistent/getcapabilitie-assistent.html>`_  beschrieben.
 
 
@@ -51,7 +52,7 @@ Unter Merkmale können weitere Eigenschaften (Eingabefelder) für den Metadatens
 
 Abb.: Mögliche Merkmale für Datensatztyp Geodatendienst
 
-.. seealso:: Beschreibungen der Optionen: `INSPIRE-relevant | <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/option/inspire-relevant.html>`_ `AdV-kompatibel | <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/option/adv-kompatibel.html>`_ `Open Data <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/option/opendata.html>`_
+.. seealso:: Beschreibungen der Optionen: `INSPIRE-relevant | `Open Data <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/option/opendata.html>`_ | <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/option/inspire-relevant.html>`_ `AdV-kompatibel | <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/option/adv-kompatibel.html>`_
 
 -----------------------------------------------------------------------------------------------------------------------
 
