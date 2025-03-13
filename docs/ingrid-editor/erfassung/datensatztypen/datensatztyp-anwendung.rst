@@ -24,7 +24,7 @@ Unter Merkmale können weitere Eigenschaften (Eingabefelder) für den Metadatens
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/datensatztypen/option/merkmale/mekmale_anwendung.png
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/merkmale/mekmale_anwendung.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/merkmale/merkmale_anwendung.png
    :align: left
    :scale: 70
    :figwidth: 100%
