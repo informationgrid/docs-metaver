@@ -31,7 +31,7 @@ Merkmal: High-Value-Dataset (HVD) im Metadatentyp Geodatensatz
 
 Abb.: Merkmal: High-Value-Dataset (HVD) + Option Open Data
 
-.. hint:: Wenn das Merkmal „High-Value-Dataset” ausgewählt wird, wird automatisch auch das Merkmal `„Open Data” <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/option/opendata.html>`_ aktiviert. Die darunter beschriebenen Felder müssen entsprechend ausgefüllt werden.
+.. hint:: Wenn das Merkmal „High-Value-Dataset” ausgewählt wird, wird automatisch auch das Merkmal `„Open Data” <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/option/opendata.html>`_ aktiviert.
 
 Wenn das Merkmal "Open Data" ausgewählt und der Metadatenkatalog über die Schnittstelle DCAT-AP.de an `GovData <https://www.govdata.de/>`_ angebunden ist, werden die als "Open Data" gekennzeichneten Metadaten an dieses Portal übergeben. In einem weiteren Schritt werden diese Daten von `data.europa.eu <https://data.europa.eu/de/trening/what-open-data>`_, einem Portal der Europäischen Kommission, geharvested (geerntet).
 
