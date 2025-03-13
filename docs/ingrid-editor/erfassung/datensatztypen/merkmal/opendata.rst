@@ -41,7 +41,7 @@ Abb.: Option: Open Data
 
 Durch die Aktivierung der Option "Open Data" wird das Schlüsselwort "opendata" im ISO-XML gesetzt.
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmale_beschreibung/open-data/iso-xml-opendata.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmale_beschreibung/open-data/iso-xml-opendata.png
    :align: left
    :scale: 60
    :figwidth: 100%
