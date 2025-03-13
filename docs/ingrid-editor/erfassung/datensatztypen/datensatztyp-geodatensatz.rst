@@ -28,7 +28,7 @@ Abschnitt Merkmale
 
 Unter Merkmale können weitere Eigenschaften (Eingabefelder) für den Metadatensatz aktiviert werden.
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/merkmale/merkmale_geodatensatz.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmale/merkmale_geodatendienst.png
    :align: left
    :scale: 70
    :figwidth: 100%
