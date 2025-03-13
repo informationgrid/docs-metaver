@@ -24,7 +24,7 @@ Erfassung
 Merkmal: High-Value-Dataset (HVD) im Metadatentyp Geodatensatz
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/merkmale/merkmal_geodatensatz.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/merkmale/merkmal_geodatensatz.png
    :align: left
    :scale: 70
    :figwidth: 100%
