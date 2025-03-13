@@ -23,7 +23,7 @@ Mit der Aktivierung der Option "AdV kompatibel", wird die Kompatibilität der Me
 
 Die Metadaten werden über die CSW-Schnittstelle an das `Metainformationssystem (MIS) <https://advmis.geodatenzentrum.de/>`_ der AdV abgegeben.
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmale/adv-kompatibel.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmale/merkmal_adv-kompatibel.png
    :align: left
    :scale: 90
    :figwidth: 100%
