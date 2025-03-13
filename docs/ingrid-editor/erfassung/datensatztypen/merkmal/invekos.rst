@@ -1,6 +1,6 @@
 
 ----------------
-Option: InVekoS
+Merkmal: InVekoS
 ----------------
 
 **InVeKoS** - Integriertes Verwaltungs- und Kontrollsystem in Agrarsektor

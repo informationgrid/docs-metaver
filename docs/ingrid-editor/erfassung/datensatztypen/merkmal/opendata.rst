@@ -1,6 +1,6 @@
 
 ------------------
-Option: Open Data
+Merkmal: Open Data
 ------------------
 
 Open Data - Erläuterungen
@@ -27,10 +27,10 @@ Offene Verwaltungsdaten sind nicht personenbezogene Daten, die von öffentlichen
 Erfassung
 ^^^^^^^^^
 
-Option: Open Data
+Merkmal: Open Data
 """"""""""""""""""
 
-Wenn die Option "Open Data" ausgewählt und der Metadatenkatalog über die Schnittstelle DCAT-AP.de an `GovData <https://www.govdata.de/>`_ angebunden ist, werden die als "Open Data" gekennzeichneten Metadaten an dieses Portal übergeben. In einem weiteren Schritt werden diese Daten von `data.europa.eu <https://data.europa.eu/de/trening/what-open-data>`_, einem Portal der Europäischen Kommission, geharvested (geerntet).
+Wenn das Merkmal "Offene Lizenz" ausgewählt und der Metadatenkatalog über die Schnittstelle DCAT-AP.de an `GovData <https://www.govdata.de/>`_ angebunden ist, werden die mit dem Schlüsselwort "opendata" gekennzeichneten Metadaten an dieses Portal übergeben. In einem weiteren Schritt werden diese Daten von `data.europa.eu <https://data.europa.eu/de/trening/what-open-data>`_, einem Portal der Europäischen Kommission, geharvested (geerntet).
 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmale/merkmal_offene-lizenz.png
