@@ -15,7 +15,7 @@ AdV: Arbeitsgemeinschaft der Vermessungsverwaltungen
 Erfassung
 ^^^^^^^^^
 
-Option: AdV kompatibel
+Merkmal: AdV kompatibel
 """""""""""""""""""""""
 
 Mit der Aktivierung der Option "AdV kompatibel", wird die Kompatibilität der Metadaten mit dem Metadatenprofil der Arbeitsgemeinschaft der Vermessungsverwaltungen (AdV) sichergestellt. 

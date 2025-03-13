@@ -1,5 +1,5 @@
 
-Option: INSPIRE relevant
+Merkmal: INSPIRE relevant
 -------------------------
 
 INSPIRE - Erläuterungen
@@ -21,10 +21,10 @@ Die Verpflichtung zur Datenbereitstellung gilt nur für bereits vorhandene Geoda
 Erfassung
 ^^^^^^^^^
 
-Option: INSPIRE-relevant
+Merkmal: INSPIRE-relevant
 """""""""""""""""""""""""
 
-Wenn die Option "INSPIRE-relevant" aktiviert ist, werden die Metadaten an den `Geodatenkatalog Deutschland <https://gdk.gdi-de.org/>`_, an das `Geoportal der Geodateninfrastruktur-Deutschland (GDI-DE) <https://www.geoportal.de/>`_ und an das `INSPIRE Geoportal <https://inspire-geoportal.ec.europa.eu/srv/eng/catalog.search#/home>`_ der EU geliefert und veröffentlicht. Die Daten und Metadaten unterliegen damit der INSPIRE-Richtlinie.
+Wenn das Merkmal "INSPIRE-relevant" aktiviert ist, werden die Metadaten an den `Geodatenkatalog Deutschland <https://gdk.gdi-de.org/>`_, an das `Geoportal der Geodateninfrastruktur-Deutschland (GDI-DE) <https://www.geoportal.de/>`_ und an das `INSPIRE Geoportal <https://inspire-geoportal.ec.europa.eu/srv/eng/catalog.search#/home>`_ der EU geliefert und veröffentlicht. Die Daten und Metadaten unterliegen damit der INSPIRE-Richtlinie.
 
 Der Geodatensatz wird über die Registry der GDI-DE an die EU gemeldet und im Rahmen eines `Monitoringprozesses <https://registry.gdi-de.org/register/moni/>`_ überwacht.
 

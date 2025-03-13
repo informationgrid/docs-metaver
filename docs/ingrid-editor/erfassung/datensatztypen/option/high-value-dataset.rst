@@ -1,7 +1,7 @@
 
---------------------------------------
-Option - Hochwertige Datensätze (HVD)
---------------------------------------
+----------------------------------
+Merkmal - High-Value-Dataset (HVD)
+----------------------------------
 
 Grundlage
 ^^^^^^^^^
@@ -21,22 +21,22 @@ High-Value-Datasets (HVD) sind besonders hochwertige Datensätze, die von öffen
 Erfassung
 ^^^^^^^^^
 
-Option: High-Value-Dataset (HVD) im Metadatentyp Geodatensatz
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Merkmal: High-Value-Dataset (HVD) im Metadatentyp Geodatensatz
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkbox_typ_opendata+hvd.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/merkmale/merkmal_geodatensatz.png
    :align: left
-   :scale: 90
+   :scale: 70
    :figwidth: 100%
 
-Abb.: Option: High-Value-Dataset (HVD) + Option Open Data
+Abb.: Merkmal: High-Value-Dataset (HVD) + Option Open Data
 
-.. hint:: Wenn die Option „High-Value-Dataset (HVD)” ausgewählt wird, wird automatisch auch die Option `„Open Data” <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/option/opendata.html>`_ ausgewählt. Die darunter beschriebenen Felder müssen entsprechend ausgefüllt werden.
+.. hint:: Wenn das Merkmal „High-Value-Dataset” ausgewählt wird, wird automatisch auch das Merkmal `„Open Data” <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/option/opendata.html>`_ aktiviert. Die darunter beschriebenen Felder müssen entsprechend ausgefüllt werden.
 
-Wenn die Option "Open Data" ausgewählt und der Metadatenkatalog über die Schnittstelle DCAT-AP.de an `GovData <https://www.govdata.de/>`_ angebunden ist, werden die als "Open Data" gekennzeichneten Metadaten an dieses Portal übergeben. In einem weiteren Schritt werden diese Daten von `data.europa.eu <https://data.europa.eu/de/trening/what-open-data>`_, einem Portal der Europäischen Kommission, geharvested (geerntet).
+Wenn das Merkmal "Open Data" ausgewählt und der Metadatenkatalog über die Schnittstelle DCAT-AP.de an `GovData <https://www.govdata.de/>`_ angebunden ist, werden die als "Open Data" gekennzeichneten Metadaten an dieses Portal übergeben. In einem weiteren Schritt werden diese Daten von `data.europa.eu <https://data.europa.eu/de/trening/what-open-data>`_, einem Portal der Europäischen Kommission, geharvested (geerntet).
 
 
-Wird die Option HVD gewählt, so:
+Wird das Merkmal „High-Value-Dataset” gewählt, so:
 
   - werden alle Zugriffsbeschränkungen entfernt
   - wird die Angabe einer Opendata-Kategorie unter "Verschlagwortung" verpflichtend
