@@ -29,7 +29,7 @@ Wenn das Merkmal "INSPIRE-relevant" aktiviert ist, werden die Metadaten an den `
 Der Geodatensatz wird über die Registry der GDI-DE an die EU gemeldet und im Rahmen eines `Monitoringprozesses <https://registry.gdi-de.org/register/moni/>`_ überwacht.
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkbox_typ_inspire-relevant.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmale/merkmale_geodatendienst.png
    :align: left
    :scale: 90
    :figwidth: 100%
@@ -38,7 +38,7 @@ Abb.: Option: INSPIRE relevant
 
 Durch die Aktivierung der Option "INSPIRE-relevant" wird das Schlüsselwort "inspireidentified" im ISO-XML gesetzt.
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/iso-xml-inspireidentifiziert.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/inspire-relevant/iso-xml-inspireidentifiziert.png
    :align: left
    :scale: 60
    :figwidth: 100%
@@ -60,7 +60,7 @@ Folgende Eigenschaften ändern sich bei der Aktivierung der Option "INSPIRE-rele
 Option konform
 """"""""""""""
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/checkbox-inspire-relevant_konform.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/inspire-relevant/checkbox-inspire-relevant_konform.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -68,7 +68,7 @@ Option konform
 Abb.: INSPIRE-Optionen konform
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/checkbox-inspire-relevant_konform-hinweis.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/inspire-relevant/checkbox-inspire-relevant_konform-hinweis.png
    :align: left
    :scale: 80
    :figwidth: 100%
@@ -81,7 +81,7 @@ Der Geodatensatz ist an INSPIRE gemeldet und liegt im INSPIRE-Datenschema vor. D
 In der ISO-XML erscheint "true".
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/iso-xml-inspireidentifiziert_true.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/inspire-relevant/iso-xml-inspireidentifiziert_true.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -92,7 +92,7 @@ Abb.: Darstellung in der ISO-XML
 Option nicht konform
 """"""""""""""""""""
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/checkbox-inspire-relevant_nicht-konform.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/inspire-relevant/checkbox-inspire-relevant_nicht-konform.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -100,7 +100,7 @@ Option nicht konform
 Abb: INSPIRE-Option nicht konform
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/checkbox-inspire-relevant_konform-hinweis.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/inspire-relevant/checkbox-inspire-relevant_konform-hinweis.png
    :align: left
    :scale: 80
    :figwidth: 100%
@@ -112,7 +112,7 @@ Geodatensatz wird an INSPIRE gemeldet, liegt aber nicht im INSPIRE-DatenSchema v
 In der ISO-XML erscheint "false".
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/iso-xml-inspireidentifiziert_false.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/inspire-relevant/iso-xml-inspireidentifiziert_false.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -138,7 +138,7 @@ Umgekehrt gilt der Automatismus nicht: Beim Hinzufügen einer ISO-Kategorie wird
 
 `Auswahlliste - INSPIRE-Themen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/auswahllisten/auswahlliste_verschlagwortung_inspire_themen.html>`_
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/verschlagwortung_inspire-themen.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/inspire-relevant/verschlagwortung_inspire-themen.png
    :align: left
    :scale: 60
    :figwidth: 100%
@@ -172,7 +172,7 @@ Abb.: Feld INSPIRE - priority data set, Beispiel: "ausgewiesene Gewässer ..."
 `Auswahlliste - INSPIRE - Räumlicher Anwendungsbereich <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/auswahllisten/auswahlliste_verschlagwortung_inspire_raeumlicher-anwendungsbereich.html>`_
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/verschlagwortung_inspire_raeumlicher-anwendungsbereich.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/inspire-relevant/verschlagwortung_inspire_raeumlicher-anwendungsbereich.png
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -185,7 +185,7 @@ Abb.: Feld INSPIRE - Räumlicher Anwendungsbereich, Beispiel: "Regional"
 Abschnitt Zusatzinformation
 """""""""""""""""""""""""""
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/zusatzinformation_konformitaet.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/inspire-relevant/zusatzinformation_konformitaet.png
    :align: left
    :scale: 90
    :figwidth: 100%
@@ -197,7 +197,7 @@ Anzugeben ist, welcher Durchführungsbestimmung der INSPIRE-Richtlinie oder sons
 .. hint:: Dieses Feld wird bei der Auswahl der "INSPIRE-Themen" oder der "Art des Dienstes" automatisch befüllt. Es muss dann nur der Grad der Konformität manuell eingetragen werden.
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/zusatzinformation_konformitaet_bearbeiten.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/inspire-relevant/zusatzinformation_konformitaet_bearbeiten.png
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -205,7 +205,7 @@ Anzugeben ist, welcher Durchführungsbestimmung der INSPIRE-Richtlinie oder sons
 Abb.: Fenster Konformität - Bearbeiten
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/zusatzinformation_konformitaet_auswahl.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/inspire-relevant/zusatzinformation_konformitaet_auswahl.png
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -213,7 +213,7 @@ Abb.: Fenster Konformität - Bearbeiten
 Abb.: Feld Konformität - Auswahlmöglichkeiten
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/zusatzinformation_konformitaet_grad.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/inspire-relevant/zusatzinformation_konformitaet_grad.png
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -223,7 +223,7 @@ Abb.:  Auswahlfeld "Grad der Konformität" - Auswahlmöglichkeiten
 
 Das Datum wird automatisch gesetzt, wenn das Feld "Spezifikation der Konformität" befüllt wird.
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/zusatzinformation_datum.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/inspire-relevant/zusatzinformation_datum.png
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -233,14 +233,14 @@ Abb.: Feld Datum
 
 Das Feld "geprüft mit" ist im Editor eine optionale Angabe, laut der ISO ist es aber verpflichtend, wenn eine Konformität angegeben wird. Deswegen wird in der ISO-XML-Ausgabe das folgende Element mit ausgegeben, wenn keine Eingabe bei "geprüft mit" erfolgt ist:
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/zusatzinformation_xml_geprueft-mit.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/inspire-relevant/zusatzinformation_xml_geprueft-mit.png
    :align: left
    :scale: 70
    :figwidth: 100%
 
 Abb.: Feld "geprüft mit": Angabe des Validators - z.B.: https://testsuite.gdi-de.org/
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/inspire-relevant/zusatzinformation_geprueft-mit.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/inspire-relevant/zusatzinformation_geprueft-mit.png
    :align: left
    :scale: 70
    :figwidth: 100%

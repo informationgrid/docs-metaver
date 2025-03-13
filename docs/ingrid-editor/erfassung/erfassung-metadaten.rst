@@ -154,7 +154,7 @@ Optionen: Merkmale
 
 Es werden die verschiedenen Merkmale der Datensätze angezeigt, deren Aktivierung zusätzliche Eingabefelder im Metadatensatz freischaltet.
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/datensatztypen/option/merkmale/merkmale_geodatensatz.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmale/merkmale_geodatensatz.png
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -175,7 +175,7 @@ Datensatztypen mit den entsprechenden Merkmalen:
 
 Die Merkmale können auf "NUR MARKIERTE ANZEIGEN" eingeschränkt werden.
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/datensatztypen/option/merkmale/merkmale_nur-markierte.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmale/merkmale_nur-markierte.png
    :align: left
    :scale: 50
    :figwidth: 100%
