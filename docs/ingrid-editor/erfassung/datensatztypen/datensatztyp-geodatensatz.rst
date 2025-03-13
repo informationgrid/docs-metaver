@@ -75,10 +75,6 @@ Optionale Verschlagwortung
 .. hint:: Die Erfassung von freien bzw. optionalen Schlagwörtern und die Schlagwortanalyse sind unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/erfassung-metadaten.html#abschnitt-verschlagwortung>`_ beschrieben.
 
 
-Beschreibung der Optionen: `INSPIRE-relevant | <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/option/inspire-relevant.html>`_ `AdV-kompatibel | <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/option/adv-kompatibel.html>`_ `Open Data <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/option/opendata.html>`_
-
-.. `(InVeKoS) <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/option/invekos.html>`_
-
 
 -----------------------------------------------------------------------------------------------------------------------
 
@@ -333,13 +329,13 @@ Hier kann angegeben werden, mit welcher Spezifikation die beschriebenen Daten ko
 
 Wenn die zu beschreibenden Daten INSPIRE-relevant sind, muss die zutreffende Durchführungsbestimmung der INSPIRE-Richtlinie angegeben werden (INSPIRE-Pflichtfeld).
 
-Beschreibung unter der Option: `INSPIRE-relevant <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/option/inspire-relevant.html>`_
+Beschreibung unter dem Merkmal: `INSPIRE-relevant <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/merkmal/inspire-relevant.html>`_
 
 Dieses Feld wird automatisch ausgefüllt, wenn Einträge unter "INSPIRE-Themen" oder "Art des Dienstes" vorgenommen werden. Lediglich der "Konformitätsgrad" muss manuell angepasst werden.
 
 .. hint:: Bei Aktivierung des Kontrollkästchens "AdV-kompatibel" bitte gemäß den Empfehlungen des AdV-Metadatenprofils nur die Werte "konform" und "nicht konform" für "Grad der Konformität" verwenden.
 
-Beschreibung unter der Option: `AdV kompatibel <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/option/adv-kompatibel.html>`_
+Beschreibung unter dem Merkmal: `AdV kompatibel <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/merkmal/adv-kompatibel.html>`_
 
 Das Feld "geprüft mit" ist im Editor eine optionale Angabe, laut der ISO ist es aber verpflichtend.
 
