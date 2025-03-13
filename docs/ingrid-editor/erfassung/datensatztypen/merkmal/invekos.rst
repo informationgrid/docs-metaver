@@ -1,6 +1,7 @@
 
+----------------
 Option: InVekoS
----------------
+----------------
 
 **InVeKoS** - Integriertes Verwaltungs- und Kontrollsystem in Agrarsektor
 
@@ -20,20 +21,12 @@ Auswahlfeld InVeKoS
 Damit die Eingabefelder für InVeKoS in der Erfassungsmaske des Geodatensatzes erscheinen, muss in der Katalogverwaltung unter Verhalten / Datensätze der Schalter für InVeKoS-Daten eingeschaltet sein. Zusätzlich muss im Geodatensatz die Checkbox INSPIRE-relevant angekreuzt sein, dann erscheint darunter das Auswahlfeld für InVeKoS. Hier kann eine von drei Optionen ausgewählt werden. Weiterhin erscheint im Abschnitt Verschlagwortung neben den INSPIRE-Feldern auch das Auswahlfeld für die InVeKoS-Schlagworte.
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/invekos/katalogverwaltung-invekos.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmale/merkmale_geodatensatz.png
    :align: left
-   :scale: 100
+   :scale: 70
    :figwidth: 100%
 
-Abb.: Katalogverwaltung - Schalter InVeKoS-Daten anzeigen
-
-
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/invekos/auswahlfeld-invekos.png
-   :align: left
-   :scale: 100
-   :figwidth: 100%
-
-Abb.: Auswahlfeld InVeKoS
+Abb.: Merkmal InVekoS
 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/invekos/verschlagwortung-invekos.png

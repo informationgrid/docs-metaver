@@ -1,4 +1,5 @@
 
+-------------------------
 Merkmal: INSPIRE relevant
 -------------------------
 
@@ -34,7 +35,7 @@ Der Geodatensatz wird über die Registry der GDI-DE an die EU gemeldet und im Ra
    :scale: 90
    :figwidth: 100%
 
-Abb.: Option: INSPIRE relevant
+Abb.: Merkmal INSPIRE-relevant
 
 Durch die Aktivierung der Option "INSPIRE-relevant" wird das Schlüsselwort "inspireidentified" im ISO-XML gesetzt.
 

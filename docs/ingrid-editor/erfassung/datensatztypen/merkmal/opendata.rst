@@ -1,7 +1,7 @@
 
------------------
+------------------
 Option: Open Data
------------------
+------------------
 
 Open Data - Erläuterungen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -34,14 +34,14 @@ Wenn die Option "Open Data" ausgewählt und der Metadatenkatalog über die Schni
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmale/merkmale_geodatensatz.png
    :align: left
-   :scale: 90
+   :scale: 70
    :figwidth: 100%
 
-Abb.: Option: Open Data
+Abb.: Merkmal Open Data
 
 Durch die Aktivierung der Option "Open Data" wird das Schlüsselwort "opendata" im ISO-XML gesetzt.
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmale_beschreibung/open-data/iso-xml-opendata.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/open-data/iso-xml-opendata.png
    :align: left
    :scale: 60
    :figwidth: 100%
@@ -58,7 +58,7 @@ Folgende Eigenschaften ändern sich bei der Aktivierung der Option "Open Data":
  - Im Abschnitt „Verweise“ muss ein Verweis vom Typ "Datendownload" eingegeben werden.
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmale_beschreibung/open-data/open-data_hinweis.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/open-data/open-data_hinweis.png
    :align: left
    :scale: 80
    :figwidth: 100%
@@ -79,7 +79,7 @@ Die Tabelle "Kategorien" enthält eine Auswahlliste zur näheren Bestimmung des 
 `Auswahlliste der Open Data Kategorien <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/auswahllisten/auswahlliste_allgemeines_opendata-kategorien.html>`_
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmale_beschreibung/open-data/open-data_kategorie.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/open-data/open-data_kategorie.png
    :align: left
    :scale: 80
    :figwidth: 100%
@@ -93,7 +93,7 @@ Abschnitt Verfügbarkeit
 
 In den Nutzungsbedingungen muss eine Lizenz ausgewählt werden, die die Nutzung der Daten unter bestimmten Bedingungen erlaubt. 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmale_beschreibung/open-data/open-data_nutzungsbedingungen_lizenz.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/open-data/open-data_nutzungsbedingungen_lizenz.png
    :align: left
    :scale: 90
    :figwidth: 100%
@@ -103,7 +103,7 @@ Abb.: Nutzungsbedingungen - Lizenz
 
 Im Feld Quelle kann eine Datenquelle angegeben werden, z.B: *Quelle © Daten: Landesamt für ...* oder *Quellenvermerk: © GeoBasis-DE / LVermGeo LSA*. Diese Angabe ist z.B. in Basiskarten relevant, da diese Information in einem Kartenviewer in der Basiskarte angezeigt werden muss.
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/merkmale_beschreibung/open-data_nutzungsbedingungen_quelle.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/merkmal_beschreibung/open-data_nutzungsbedingungen_quelle.png
    :align: left
    :scale: 80
    :figwidth: 100%
@@ -128,7 +128,7 @@ Abschnitt Verweise
 Wenn ein Metadatensatz als Open Data gekennzeichnet ist, muss der Metadatensatz einen Download-Link zu den beschriebenen Daten enthalten. Dies geschieht an dieser Stelle. Der Datenhalter ist dafür verantwortlich, dass die verlinkten Daten jederzeit verfügbar sind.
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmale_beschreibung/open-data/open-data_verweis.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/open-data/open-data_verweis.png
    :align: left
    :scale: 90
    :figwidth: 100%
@@ -136,7 +136,7 @@ Wenn ein Metadatensatz als Open Data gekennzeichnet ist, muss der Metadatensatz 
 Abb.: Datendownload anlegen
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmale_beschreibung/open-data/open-data_verweis_angelegt.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/open-data/open-data_verweis_angelegt.png
    :align: left
    :scale: 100
    :figwidth: 100%

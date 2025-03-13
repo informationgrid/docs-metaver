@@ -1,6 +1,7 @@
 
+------------------------
 Merkmal: AdV kompatibel
-----------------------
+------------------------
 
 AdV - Bedeutung
 ^^^^^^^^^^^^^^^
@@ -22,16 +23,16 @@ Mit der Aktivierung der Option "AdV kompatibel", wird die Kompatibilität der Me
 
 Die Metadaten werden über die CSW-Schnittstelle an das `Metainformationssystem (MIS) <https://advmis.geodatenzentrum.de/>`_ der AdV abgegeben.
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmale/merkmale_adv-kompatibel.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmale/adv-kompatibel.png
    :align: left
    :scale: 90
    :figwidth: 100%
 
-Abb.: Option: AdV kompatibel
+Abb.: Merkmal AdV kompatibel
 
 Durch die Aktivierung der Option "AdV kompatibel" wird das Schlüsselwort "AdVMIS" im ISO-XML gesetzt.
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmale_beschreibung/adv-kompatibel/iso-xml-keyword-advmis.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/adv-kompatibel/iso-xml-keyword-advmis.png
    :align: left
    :scale: 60
    :figwidth: 100%
