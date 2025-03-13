@@ -26,7 +26,7 @@ Merkmal: High-Value-Dataset
 
 Das Merkmal High-Value-Dataset wird nur für den Datensatztyp "Geodatensatz" verwendet.
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmale/merkmal_hvd.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmale/merkmal_hvd.png
    :align: left
    :scale: 70
    :figwidth: 100%
