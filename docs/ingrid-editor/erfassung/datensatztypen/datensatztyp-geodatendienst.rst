@@ -52,7 +52,7 @@ Unter Merkmale können weitere Eigenschaften (Eingabefelder) für den Metadatens
 
 Abb.: Mögliche Merkmale für Datensatztyp Geodatendienst
 
-.. seealso:: Beschreibungen der Merkmale: `INSPIRE-relevant | `Open Data <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/merkmal/opendata.html>`_ | <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/merkmal/inspire-relevant.html>`_ `AdV-kompatibel | <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/merkmal/adv-kompatibel.html>`_
+.. seealso:: Beschreibungen der Merkmale: `INSPIRE-relevant | <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/merkmal/inspire-relevant.html>`_ `Open Data | <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/merkmal/opendata.html>`_ `AdV kompatibel <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/merkmal/adv-kompatibel.html>`_ 
 
 -----------------------------------------------------------------------------------------------------------------------
 
