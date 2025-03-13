@@ -23,6 +23,8 @@ Merkmale
 Unter Merkmale können weitere Eigenschaften (Eingabefelder) für den Metadatensatz aktiviert werden.
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/datensatztypen/option/merkmale/mekmale_anwendung.png
+
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/merkmale/mekmale_anwendung.png
    :align: left
    :scale: 50
    :figwidth: 100%
