@@ -38,9 +38,9 @@ Wenn die Option "Open Data" ausgewählt und der Metadatenkatalog über die Schni
    :scale: 60
    :figwidth: 100%
 
-Abb.: Merkmal Open Data
+Abb.: Merkmal Open Data / Offene Lizenz
 
-Durch die Aktivierung der Option "Open Data" wird das Schlüsselwort "opendata" im ISO-XML gesetzt.
+Durch die Aktivierung des Merkmals "Offene Lizenz" wird das Schlüsselwort "opendata" im ISO-XML gesetzt.
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/open-data/iso-xml-opendata.png
    :align: left
