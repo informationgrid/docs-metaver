@@ -31,9 +31,9 @@ Das Merkmal High-Value-Dataset wird nur für den Datensatztyp "Geodatensatz" ver
    :scale: 70
    :figwidth: 100%
 
-Abb.: Merkmal High-Value-Dataset + Merkmal Open Data
+Abb.: Merkmal High-Value-Dataset + Merkmal Offene Lizenz
 
-.. hint:: Wenn das Merkmal "High-Value-Dataset" ausgewählt wird, dann wird automatisch auch das Merkmal `„Offene Lizenz” <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/merkmal/opendata.html>`_ aktiviert.
+.. hint:: Wird das Merkmal "High-Value-Dataset" aktiviert, dann wird automatisch auch das Merkmal `"Offene Lizenz" <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/merkmal/opendata.html>`_ aktiviert.
 
 Wenn das Merkmal "Open Data / Offene Lizenz" ausgewählt und der Metadatenkatalog über die Schnittstelle DCAT-AP.de an `GovData <https://www.govdata.de/>`_ angebunden ist, werden die als "Open Data" gekennzeichneten Metadaten an dieses Portal übergeben. In einem weiteren Schritt werden diese Daten von `data.europa.eu <https://data.europa.eu/de/trening/what-open-data>`_, einem Portal der Europäischen Kommission, geharvested (geerntet).
 
