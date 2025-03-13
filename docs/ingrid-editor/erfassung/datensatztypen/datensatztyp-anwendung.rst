@@ -27,7 +27,7 @@ Unter Merkmale können weitere Eigenschaften (Eingabefelder) für den Metadatens
    :scale: 70
    :figwidth: 100%
 
-Abb.: Option
+Abb.: Mögliche Merkmale für Datensatztyp Anwendung
 
 .. seealso:: Beschreibungen der Optionen: `INSPIRE-relevant | <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/option/inspire-relevant.html>`_ `AdV-kompatibel | <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/option/adv-kompatibel.html>`_ `Open Data <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/option/opendata.html>`_
 
