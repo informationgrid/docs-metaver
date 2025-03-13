@@ -25,7 +25,7 @@ Die Metadaten werden über die CSW-Schnittstelle an das `Metainformationssystem 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmale/merkmal_adv-kompatibel.png
    :align: left
-   :scale: 90
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Merkmal AdV kompatibel
