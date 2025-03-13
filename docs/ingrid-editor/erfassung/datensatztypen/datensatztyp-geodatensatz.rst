@@ -35,7 +35,7 @@ Unter Merkmale können weitere Eigenschaften (Eingabefelder) für den Metadatens
 
 Abb.: Mögliche Merkmale für Datensatztyp Geodatensatz
 
-Wählen Sie den entsprechenden Datentyp aus, der mit Metadaten beschrieben werden soll.
+Wählen Sie den entsprechenden **Datentyp** aus, der mit Metadaten beschrieben werden soll.
 
 .. seealso:: Beschreibungen der Merkmale: `INSPIRE-relevant | <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/option/inspire-relevant.html>`_ `InVekosS | <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/option/invekos.html>`_ `Open Data | <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/option/opendata.html>`_ `High-Value- Dataset | <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/option/high-value-dataset.html>`_ `AdV kompatibel <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/option/adv-kompatibel.html>`_ 
 
