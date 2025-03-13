@@ -30,12 +30,20 @@ Wenn das Merkmal "INSPIRE-relevant" aktiviert ist, werden die Metadaten an den `
 Der Geodatensatz wird über die Registry der GDI-DE an die EU gemeldet und im Rahmen eines `Monitoringprozesses <https://registry.gdi-de.org/register/moni/>`_ überwacht.
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmale/merkmal_inspire-relevant.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmale/merkmal_inspire-konform.png
    :align: left
    :scale: 70
    :figwidth: 100%
 
-Abb.: Merkmal INSPIRE-relevant
+Abb.: Merkmal INSPIRE-relevant - konform
+
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmale/merkmal_inspire-nicht-konform.png
+   :align: left
+   :scale: 70
+   :figwidth: 100%
+
+Abb.: Merkmal INSPIRE-relevant - nicht konform
+
 
 Durch die Aktivierung des Merkmals "INSPIRE-relevant" wird das Schlüsselwort "inspireidentified" im ISO-XML gesetzt.
 
