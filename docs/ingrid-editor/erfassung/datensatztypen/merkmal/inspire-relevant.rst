@@ -35,14 +35,14 @@ Der Geodatensatz wird über die Registry der GDI-DE an die EU gemeldet und im Ra
    :scale: 70
    :figwidth: 100%
 
-Abb.: Merkmal INSPIRE-relevant - konform
+Abb.: Merkmal INSPIRE konform
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmale/merkmal_inspire-nicht-konform.png
    :align: left
    :scale: 70
    :figwidth: 100%
 
-Abb.: Merkmal INSPIRE-relevant - nicht konform
+Abb.: Merkmal INSPIRE nicht konform
 
 
 Durch die Aktivierung des Merkmals "INSPIRE-konform" wird das Schlüsselwort "inspireidentified" im ISO-XML gesetzt.
