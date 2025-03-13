@@ -17,8 +17,8 @@ Mit dem Datensatztyp Anwendung können Softwareprodukte, Webanwendungen oder zen
 -----------------------------------------------------------------------------------------------------------------------
 
 
-Merkmale
-^^^^^^^^
+Abschnitt Merkmale
+------------------
 
 Unter Merkmale können weitere Eigenschaften (Eingabefelder) für den Metadatensatz aktiviert werden.
 

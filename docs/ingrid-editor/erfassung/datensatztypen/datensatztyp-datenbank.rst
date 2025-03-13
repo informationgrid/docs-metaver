@@ -16,17 +16,17 @@ Der Datensatztyp "Datenbank" beschreibt gemessene, aufbereitete oder erhobene Da
 -----------------------------------------------------------------------------------------------------------------------
 
 
-Feld: Typ
-^^^^^^^^^
+Abschnitt Merkmale
+------------------
 
-Unter Typ können weitere Eigenschaften (Eingabefelder) für den Metadatensatz definiert werden.
+Unter Merkmale können weitere Eigenschaften (Eingabefelder) für den Metadatensatz aktiviert werden.
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkbox_opendata.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/merkmale/merkmale_datenbank.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
-Abb.: Option für weitere Eigenschaften
+Abb.: Mögliche Merkmale für Datensatztyp Datenbank
 
 .. seealso:: Beschreibungen der Option: `Open Data <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/option/opendata.html>`_
 

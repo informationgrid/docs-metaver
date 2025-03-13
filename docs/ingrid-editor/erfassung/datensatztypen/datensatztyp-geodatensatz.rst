@@ -23,50 +23,20 @@ ISO 19115 definiert einen international gültigen Standard zur Beschreibung von 
 -----------------------------------------------------------------------------------------------------------------------
 
 
-Erweiterte Datenerfassung
--------------------------
+Abschnitt Merkmale
+------------------
 
-Feld: Typ
-^^^^^^^^^^
+Unter Merkmale können weitere Eigenschaften (Eingabefelder) für den Metadatensatz aktiviert werden.
 
-Unter Typ können weitere Eigenschaften (Eingabefelder) für den Metadatensatz definiert werden.
-
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkboxen.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/merkmale/merkmale_geodatensatz.png
    :align: left
-   :scale: 100
+   :scale: 70
    :figwidth: 100%
 
-Abb.: Optionen für weitere Eigenschaften
+Abb.: Mögliche Merkmale für Datensatztyp Geodatensatz
 
 .. seealso:: Beschreibungen der Optionen: `INSPIRE-relevant | <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/option/inspire-relevant.html>`_ `AdV kompatibel | <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/option/adv-kompatibel.html>`_ `Open Data | <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/option/opendata.html>`_ `HVD <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/option/high-value-dataset.html>`_
 
-
-Feld: InVeKoS
-^^^^^^^^^^^^^
-
-Das Auswahlfeld InVeKoS erscheint in INSPIRE-relevanten Geodatensätzen, wenn es in der Katalogverwaltung aktiviert wurde.
-
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/invekos/auswahlfeld-invekos.png
-   :align: left
-   :scale: 100
-   :figwidth: 100%
-
-Abb.: Auswahlfeld InVeKoS
-
-.. seealso:: Funktionsbeschreibung Feld: `InVeKoS <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/option/invekos.html>`_
-
-
-Feld: Datensatz/Datenserie
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Es wird unterschieden, ob es sich bei den beschriebenen Daten um einen einzelnen Datensatz mit einem bestimmten räumlichen Bezug oder um eine Datenserie mit einem einheitlichen thematischen Bezug und mehreren Datensätzen mit unterschiedlichen räumlichen Bezügen handelt.
-
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_datensatz-datenserie.png
-   :align: left
-   :scale: 100
-   :figwidth: 100%
- 
-Abb.: Auswahlfeld Datensatz / Datenserie
 
 -----------------------------------------------------------------------------------------------------------------------
 
