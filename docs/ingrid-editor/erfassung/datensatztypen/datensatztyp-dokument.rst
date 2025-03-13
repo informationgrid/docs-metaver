@@ -21,14 +21,14 @@ Abschnitt Merkmale
 
 Unter Merkmale können weitere Eigenschaften (Eingabefelder) für den Metadatensatz aktiviert werden.
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/merkmale/merkmale_dokument.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmale/merkmale_dokument.png
    :align: left
    :scale: 70
    :figwidth: 100%
 
 Abb.: Mögliche Merkmale für Datensatztyp Dokument
 
-.. seealso:: Beschreibungen der Option: `Open Data <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/option/opendata.html>`_
+.. seealso:: Beschreibungen der Option: `Open Data <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/merkmal/opendata.html>`_
 
 -----------------------------------------------------------------------------------------------------------------------
 
