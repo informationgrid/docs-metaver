@@ -5,14 +5,14 @@ Registrierung und Anmeldung
 
 Öffnen Sie die Anmeldeseite!
 
-URL: https://metaver.de/log-in
+URL: https://mis.bkg.bund.de/log-in
 
 .. figure:: ../../img/registrierung-anmeldung/log-in.png
    :align: left
    :scale: 40
    :figwidth: 100%
 
-Abb.: Seite Anmeldung
+Abb.: Seite Anmeldung 
 
 Um einen neuen Benutzer anzulegen, wählen Sie "REGISTRIEREN".
 
@@ -64,7 +64,7 @@ Schreiben Sie uns über das METAVER-Kontaktformular und wählen Sie Ihr Bundesla
 Anmeldung in METAVER
 ---------------------
 
-Wenn Sie über eine Benutzerkennung verfügen und als InGrid Editor registriert sind, rufen Sie die Login-Seite auf (https://metaver.de/log-in), geben Ihre Benutzerdaten ein und klicken abschließend auf die Schaltfläche "ANMELDEN".
+Wenn Sie über eine Benutzerkennung verfügen und als InGrid Editor registriert sind, rufen Sie die Login-Seite auf (https://mis.bkg.bund.de/log-in), geben Ihre Benutzerdaten ein und klicken abschließend auf die Schaltfläche "ANMELDEN".
 
 .. figure:: ../../img/registrierung-anmeldung/anmeldung.png
    :align: left
