@@ -74,7 +74,7 @@ Angaben zu den überschüssigen Features, Attributen oder ihren Relationen.
 
 Beispiel: Anzahl der überflüssigen Elemente zur Anzahl der gesamten Elemente: 11,2%
 
-..hint:: Es wird nur eine Zahl angegeben; kein %-Zeichen.
+.. hint:: Es wird nur eine Zahl angegeben; kein %-Zeichen.
 
 
 2. Konzeptionelle Konsistenz
