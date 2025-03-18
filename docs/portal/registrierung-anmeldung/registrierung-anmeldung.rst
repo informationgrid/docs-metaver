@@ -3,6 +3,9 @@
 Registrierung und Anmeldung
 ============================
 
+Registrierung in BKG-MIS
+------------------------
+
 Öffnen Sie die Anmeldeseite!
 
 URL: https://mis.bkg.bund.de/log-in
@@ -58,13 +61,13 @@ Um Ihre neue Benutzerkennung freizuschalten, klicken Sie bitte auf den Link in I
 Abb.: Seite "Ihr Account wurde erfolgreich freigeschaltet. ..."
 
 Bevor Sie Metadaten erfassen und pflegen können, muss Ihre neue Benutzerkennung für die Erfassung und Pflege der Metadaten freigeschaltet werden. Bisher ist es Ihnen lediglich gestattet, sich am Portal anzumelden und persönliche Einstellungen vorzunehmen. Sie können jedoch noch keine Änderungen an den Metadaten vornehmen. 
-Schreiben Sie uns über das METAVER-Kontaktformular und wählen Sie Ihr Bundesland aus, um uns mitzuteilen, dass Sie einen Zugang zum InGrid Editor benötigen. Geben Sie uns hierbei Ihren gewünschten Benutzernamen an. Wir richten den Zugang mit den notwendigen Berechtigungen ein. 
+Schreiben Sie uns über das BKG-MIS Kontaktformular, um uns mitzuteilen, dass Sie einen Zugang zum InGrid Editor benötigen. Geben Sie uns hierbei Ihren gewünschten Benutzernamen an und welche Ressourcen sie beschreiben möchten (Datensätze, Dienste, Anwendungen oder INSPIRE-Datensätze). Wir richten den Zugang mit den notwendigen Berechtigungen ein. 
 
 
-Anmeldung in METAVER
+Anmeldung in BKG-MIS
 ---------------------
 
-Wenn Sie über eine Benutzerkennung verfügen und als InGrid Editor registriert sind, rufen Sie die Login-Seite auf (https://mis.bkg.bund.de/log-in), geben Ihre Benutzerdaten ein und klicken abschließend auf die Schaltfläche "ANMELDEN".
+Wenn Sie als Nutzer registriert sind, rufen Sie die Login-Seite auf (https://mis.bkg.bund.de/log-in), geben Ihre Benutzerdaten ein und klicken abschließend auf die Schaltfläche "ANMELDEN".
 
 .. figure:: ../../img/registrierung-anmeldung/anmeldung.png
    :align: left
@@ -98,7 +101,7 @@ Zuletzt veröffentlicht im Katalog - Es werden alle Metadaten angezeigt, die zul
 Passwort vergessen
 ------------------
 
-Aufruf der Seite "Anmeldung": https://metaver.de/log-in. Klicken Sie auf den Link "Passwort vergessen?".
+Aufruf der Seite "Anmeldung": https://mis.bkg.bund.de/log-in. Klicken Sie auf den Link "Passwort vergessen?".
 
 
 .. figure:: ../../img/registrierung-anmeldung/log-in.png
@@ -163,4 +166,4 @@ Abb.: Seite Anmeldung
 Benutzername vergessen
 ----------------------
 
-Wenn Sie Ihren Benutzernamen vergessen haben, füllen Sie bitte das Kontaktformular auf METAVER (https://metaver.de/kontakt) aus und geben Sie Ihr Bundesland an. So wird Ihre Anfrage an den zuständigen Katalogadministrator zugestellt.
+Wenn Sie Ihren Benutzernamen vergessen haben, füllen Sie bitte das BKG-MIS Kontaktformular (https://mis.bkg.bund.de/kontakt) aus. So wird Ihre Anfrage an den zuständigen Katalogadministrator zugestellt.
