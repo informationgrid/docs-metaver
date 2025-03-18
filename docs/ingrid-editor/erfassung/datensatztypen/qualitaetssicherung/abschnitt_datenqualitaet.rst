@@ -41,8 +41,6 @@ Angabe über die Genauigkeit z.B. in einer Karte.
 
 Beispiel: 3 (m)
 
-.. hint:: Die folgenden Eingabefelder erscheinen bei der Auswahl (Verschlagwortung) der INSPIRE-Themen: Adressen, Gewässernetz, Schutzgebiete, Verwaltungseinheiten und Verkehrsnetze.
-
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/abschnitt-05_datenqualitaet/qualitaetsinformationen-hinzufuegen.png
    :align: left
