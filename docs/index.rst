@@ -31,9 +31,9 @@ Version der Bedienungsanleitung
    Abb.: InGrid Editor - Neue Generation (IGE-NG) - Übersicht
 
 
-..  note::  Die Eingabemasken und die Eingabefelder in den Metadatenkatalogen können je nach Metadatenprofil variieren (z.B.: Hamburger Metadatenkatalog, Kommunaler Metadatenkatalog Sachsen-Anhalt).
+..  note::  Die Abbildungen in dieser Dokumentation können von der Anwendung BKG-MIS augenscheinlich abweichen. Funktional sollten sie die gleiche Situation beschreiben. Grund: diese Anleitung wurde ursprünglich für METAVER erfasst und für die Anwendung BKG-MIS angepasst.
 
-..  hint:: Wenn Katalog-Administratoren, Metadaten-Administratoren oder Metadaten-Autoren Probleme im Editor melden, bitte zuerst im privaten Modus testen (Stichwort: Cache-Probleme). Tritt das Problem dann nicht auf, bitte den Browser-Cache leeren. Falls das Problem weiterhin besteht, bitte einen Screenshot mit der Ausgabe der Browserkonsole erstellen. Metadatenautoren und Metadatenadministratoren wenden sich diesbezüglich an den Katalogadministrator.
+..  hint:: Wenn Probleme im Editor auftreten nach Updates auftreten, dann bitte zuerst im privaten Modus testen (Stichwort: Cache-Probleme). Tritt das Problem dann nicht auf, bitte den Browser-Cache leeren. Falls das Problem weiterhin besteht, wenden Sie sich bitte an den Katalogadministrator, ggf. fügen Sie einen Screenshot bei. 
 
 
 --------------------------------------------------------------------------------------------------------------
