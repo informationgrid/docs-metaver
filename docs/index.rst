@@ -10,11 +10,11 @@
    :figwidth: 100 %
    
 
-==================================
-Bedienungsanleitung InGrid Editor
-==================================
+====================================================
+Bedienungsanleitung Metadaten-Editor des BKG
+====================================================
 ========================================
-Profil: MetadatenVerbund (METAVER)
+Software: InGrid IGE - Next Generation
 ========================================
 
 Version der Bedienungsanleitung
