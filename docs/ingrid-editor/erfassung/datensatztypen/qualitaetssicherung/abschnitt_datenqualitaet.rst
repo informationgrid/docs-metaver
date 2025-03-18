@@ -42,6 +42,9 @@ Angabe über die Genauigkeit z.B. in einer Karte.
 Beispiel: 3 (m)
 
 
+Qualitätsinformationen
+""""""""""""""""""""""
+
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/abschnitt-05_datenqualitaet/qualitaetsinformationen-hinzufuegen.png
    :align: left
    :scale: 90
