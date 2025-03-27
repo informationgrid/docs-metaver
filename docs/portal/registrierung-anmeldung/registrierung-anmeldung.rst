@@ -1,68 +1,7 @@
 
 ============================
-Registrierung und Anmeldung
+Anmeldung
 ============================
-
-Registrierung in BKG-MIS
-------------------------
-
-Öffnen Sie die Anmeldeseite!
-
-URL: https://mis.bkg.bund.de/log-in
-
-.. figure:: ../../img/registrierung-anmeldung/log-in.png
-   :align: left
-   :scale: 40
-   :figwidth: 100%
-
-Abb.: Seite Anmeldung 
-
-Um einen neuen Benutzer anzulegen, wählen Sie "REGISTRIEREN".
-
-Auf der Anmeldeseite müssen Sie mindestens alle Pflichtfelder ausfüllen, welche durch ein Sternchen gekennzeichnet sind. Sie haben die Freiheit, Ihren Benutzernamen und das zugehörige Passwort selbst zu wählen.
-
-
-.. figure:: ../../img/registrierung-anmeldung/registrierung.png
-   :align: left
-   :scale: 50
-   :figwidth: 100%
-
-Abb.: Seite Registrierung
-
-Es wird eine Überprüfung des Passworts durchgeführt, bitte wählen Sie ein sicheres Passwort (grüner Balken).
-
-Um die Registrierung abzuschließen, klicken Sie bitte auf den Button "KONTO ERSTELLEN". Anschließend erhalten Sie die folgende Nachricht in Ihrem Browserfenster.
-
-.. figure:: ../../img/registrierung-anmeldung/account-angelegt.png
-   :align: left
-   :scale: 60
-   :figwidth: 100%
-
-Abb.: Seite "Account erfolgreich angelegt"
-
-Außerdem erhalten Sie eine E-Mail an die zuvor von Ihnen eingegebene E-Mail-Adresse: 
-
-
-.. figure:: ../../img/registrierung-anmeldung/e-mail.png
-   :align: left
-   :scale: 60
-   :figwidth: 100%
-
-Abb.: vom System versendete E-Mail
-
-Um Ihre neue Benutzerkennung freizuschalten, klicken Sie bitte auf den Link in Ihrer E-Mail. Anschließend öffnet sich der Browser mit der folgenden Anzeige.
-
-
-.. figure:: ../../img/registrierung-anmeldung/account-freigeschaltet.png
-   :align: left
-   :scale: 60
-   :figwidth: 100%
-
-Abb.: Seite "Ihr Account wurde erfolgreich freigeschaltet. ..."
-
-Bevor Sie Metadaten erfassen und pflegen können, muss Ihre neue Benutzerkennung für die Erfassung und Pflege der Metadaten freigeschaltet werden. Bisher ist es Ihnen lediglich gestattet, sich am Portal anzumelden und persönliche Einstellungen vorzunehmen. Sie können jedoch noch keine Änderungen an den Metadaten vornehmen. 
-Schreiben Sie uns über das BKG-MIS Kontaktformular, um uns mitzuteilen, dass Sie einen Zugang zum InGrid Editor benötigen. Geben Sie uns hierbei Ihren gewünschten Benutzernamen an und welche Ressourcen sie beschreiben möchten (Datensätze, Dienste, Anwendungen oder INSPIRE-Datensätze). Wir richten den Zugang mit den notwendigen Berechtigungen ein. 
-
 
 Anmeldung in BKG-MIS
 ---------------------
@@ -92,9 +31,9 @@ Nach dem Laden des Editors wird zuerst die Übersicht gezeigt. Hier wird dargest
 Abb.: Home-Seite - Übersicht
 
 
-Zuletzt im Katalog bearbeitet - Alle Metadaten anzeigen, die zuletzt von einem Bearbeiter geändert wurden.
+Zuletzt im Katalog bearbeitet - Anzeige aller Metadaten, die zuletzt von einem Bearbeiter geändert wurden.
 
-Zuletzt veröffentlicht im Katalog - Es werden alle Metadaten angezeigt, die zuletzt vom Bearbeiter veröffentlicht wurden.
+Zuletzt veröffentlicht im Katalog - Anzeige aller Metadaten, die zuletzt vom Bearbeiter veröffentlicht wurden.
 
 
 
@@ -166,4 +105,4 @@ Abb.: Seite Anmeldung
 Benutzername vergessen
 ----------------------
 
-Wenn Sie Ihren Benutzernamen vergessen haben, füllen Sie bitte das BKG-MIS Kontaktformular (https://mis.bkg.bund.de/kontakt) aus. So wird Ihre Anfrage an den zuständigen Katalogadministrator zugestellt.
+Wenn Sie Ihren Benutzernamen vergessen haben, wenden Sie sich bitte an die fachverfahrensverantwortliche Person oder nutzen das BKG-MIS Kontaktformular (https://mis.bkg.bund.de/kontakt).
