@@ -4,9 +4,9 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "make singlehtml",
+            "label": "make html",
             "type": "shell",
-            "command": "make singlehtml",
+            "command": "make html",
             "problemMatcher": [],
             "group": {
                 "kind": "build",
