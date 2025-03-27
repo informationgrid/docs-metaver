@@ -23,6 +23,7 @@ Abschnitt Merkmale
 Unter Merkmale können weitere Eigenschaften (Eingabefelder) für den Metadatensatz aktiviert werden.
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmale/merkmale_anwendung.png
+   :alt: Mögliche Merkmale für Datensatztyp Anwendung
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -41,6 +42,7 @@ Feld: Art des Dienstes
 ^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_anwendung/fachbezug_dienstart.png
+   :alt: Auswahlfeld - Art des Dienstes
    :align: left
    :scale: 90
    :figwidth: 100%
@@ -62,6 +64,7 @@ Feld: Version
 ^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_anwendung/fachbezug_version.png
+   :alt: Eingabezeile für die Version
    :align: left
    :scale: 80
    :figwidth: 100%
@@ -77,6 +80,7 @@ Weitere Informationen
 ^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_anwendung/fachbezug_weitere-angaben.png
+   :alt: Textfelder für weitere Informationen
    :align: left
    :scale: 80
    :figwidth: 100%
@@ -150,6 +154,7 @@ Feld: Service-URLs
 ^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_anwendung/fachbezug_service-url.png
+   :alt: Felder - Service-URLs
    :align: left
    :scale: 80
    :figwidth: 100%

@@ -22,6 +22,7 @@ Damit die Eingabefelder für InVeKoS in der Erfassungsmaske des Geodatensatzes e
 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmale/merkmal_invekos_lips.png
+   :alt: Merkmal InVekoS (GSAA)
    :align: left
    :scale: 60
    :figwidth: 100%
@@ -30,6 +31,7 @@ Abb.: Merkmal InVekoS (GSAA)
 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmale/merkmal_invekos_lips.png
+   :alt: Merkmal InVekoS (LIPS)
    :align: left
    :scale: 60
    :figwidth: 100%
@@ -38,6 +40,7 @@ Abb.: Merkmal InVekoS (LIPS)
 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/invekos/verschlagwortung-invekos.png
+   :alt: InVeKoS-Schlagworte
    :align: left
    :scale: 100
    :figwidth: 100%

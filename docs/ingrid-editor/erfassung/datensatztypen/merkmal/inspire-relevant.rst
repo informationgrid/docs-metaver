@@ -31,6 +31,7 @@ Der Geodatensatz wird über die Registry der GDI-DE an die EU gemeldet und im Ra
 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmale/merkmal_inspire-konform.png
+   :alt: Merkmal INSPIRE konform
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -38,6 +39,7 @@ Der Geodatensatz wird über die Registry der GDI-DE an die EU gemeldet und im Ra
 Abb.: Merkmal INSPIRE konform
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmale/merkmal_inspire-nicht-konform.png
+   :alt: Merkmal INSPIRE nicht konform
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -48,6 +50,7 @@ Abb.: Merkmal INSPIRE nicht konform
 Durch die Aktivierung des Merkmals "INSPIRE-konform" wird das Schlüsselwort "inspireidentified" im ISO-XML gesetzt.
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/inspire-relevant/iso-xml-inspireidentifiziert.png
+   :alt: Schlüsselwort: inspireidentifiziert
    :align: left
    :scale: 60
    :figwidth: 100%
@@ -70,6 +73,7 @@ Option konform
 """"""""""""""
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/inspire-relevant/checkbox-inspire-relevant_konform.png
+   :alt: Option konform
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -78,6 +82,7 @@ Abb.: INSPIRE-Optionen konform
 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/inspire-relevant/checkbox-inspire-relevant_konform-hinweis.png
+   :alt: Hinweis
    :align: left
    :scale: 80
    :figwidth: 100%
@@ -91,6 +96,7 @@ In der ISO-XML erscheint "true".
 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/inspire-relevant/iso-xml-inspireidentifiziert_true.png
+   :alt: Darstellung in der ISO-XML
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -102,6 +108,7 @@ Option nicht konform
 """"""""""""""""""""
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/inspire-relevant/checkbox-inspire-relevant_nicht-konform.png
+   :alt: Option nicht konform
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -110,6 +117,7 @@ Abb: INSPIRE-Option nicht konform
 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/inspire-relevant/checkbox-inspire-relevant_konform-hinweis.png
+   :alt: Hinweis
    :align: left
    :scale: 80
    :figwidth: 100%
@@ -122,6 +130,7 @@ In der ISO-XML erscheint "false".
 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/inspire-relevant/iso-xml-inspireidentifiziert_false.png
+   :alt: Darstellung in der ISO-XML
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -148,6 +157,7 @@ Umgekehrt gilt der Automatismus nicht: Beim Hinzufügen einer ISO-Kategorie wird
 `Auswahlliste - INSPIRE-Themen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/auswahllisten/auswahlliste_verschlagwortung_inspire_themen.html>`_
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/inspire-relevant/verschlagwortung_inspire-themen.png
+   :alt: INSPIRE-Thema: Energiequellen
    :align: left
    :scale: 60
    :figwidth: 100%
@@ -156,6 +166,7 @@ Abb.: Auswahl des INSPIRE-Themas "Energiequellen" ...
 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/verschlagwortung_iso-themenkategorie.png
+   :alt: Zuordnung der ISO-Themenkategorie
    :align: left
    :scale: 60
    :figwidth: 100%
@@ -169,6 +180,7 @@ Abb.: es erfolgt die automatische Zuordnung der ISO-Themenkategorie "Wirtschaft"
 `Auswahlliste - INSPIRE - priority data set <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/auswahllisten/auswahlliste_verschlagwortung_inspire_priority-data-set.html>`_
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/verschlagwortung_inspire-priority-data-set.png
+   :alt: Feld: priority data set
    :align: left
    :scale: 60
    :figwidth: 100%
@@ -182,6 +194,7 @@ Abb.: Feld INSPIRE - priority data set, Beispiel: "ausgewiesene Gewässer ..."
 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/inspire-relevant/verschlagwortung_inspire_raeumlicher-anwendungsbereich.png
+   :alt: Feld: Räumlicher Anwendungsbereich
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -195,6 +208,7 @@ Abschnitt Zusatzinformation
 """""""""""""""""""""""""""
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/inspire-relevant/zusatzinformation_konformitaet.png
+   :alt: Tabelle Konformität
    :align: left
    :scale: 90
    :figwidth: 100%
@@ -207,6 +221,7 @@ Anzugeben ist, welcher Durchführungsbestimmung der INSPIRE-Richtlinie oder sons
 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/inspire-relevant/zusatzinformation_konformitaet_bearbeiten.png
+   :alt: Fenster Konformität - Bearbeiten
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -215,6 +230,7 @@ Abb.: Fenster Konformität - Bearbeiten
 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/inspire-relevant/zusatzinformation_konformitaet_auswahl.png
+   :alt: Feld Konformität - Auswahlmöglichkeiten
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -223,6 +239,7 @@ Abb.: Feld Konformität - Auswahlmöglichkeiten
 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/inspire-relevant/zusatzinformation_konformitaet_grad.png
+   :alt: Auswahlfeld: Grad der Konformität - Auswahlmöglichkeiten
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -233,6 +250,7 @@ Abb.:  Auswahlfeld "Grad der Konformität" - Auswahlmöglichkeiten
 Das Datum wird automatisch gesetzt, wenn das Feld "Spezifikation der Konformität" befüllt wird.
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/inspire-relevant/zusatzinformation_datum.png
+   :alt: Feld Datum
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -243,6 +261,7 @@ Abb.: Feld Datum
 Das Feld "geprüft mit" ist im Editor eine optionale Angabe, laut der ISO ist es aber verpflichtend, wenn eine Konformität angegeben wird. Deswegen wird in der ISO-XML-Ausgabe das folgende Element mit ausgegeben, wenn keine Eingabe bei "geprüft mit" erfolgt ist:
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/inspire-relevant/zusatzinformation_xml_geprueft-mit.png
+   :alt: Feld: geprüft mit
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -250,6 +269,7 @@ Das Feld "geprüft mit" ist im Editor eine optionale Angabe, laut der ISO ist es
 Abb.: Feld "geprüft mit": Angabe des Validators - z.B.: https://testsuite.gdi-de.org/
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/inspire-relevant/zusatzinformation_geprueft-mit.png
+   :alt: Feld: geprüft mit
    :align: left
    :scale: 70
    :figwidth: 100%

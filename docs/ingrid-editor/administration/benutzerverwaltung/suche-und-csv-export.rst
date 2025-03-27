@@ -10,6 +10,7 @@ Mit der Suchfunktion in der Benutzer- und Gruppenverwaltung können Benutzer und
 Bereits während der Eingabe des Nutzers oder der Gruppe werden passende Einträge automatisch ausgewählt.
 
 .. figure:: ../../../img/ige/administration/benutzerverwaltung/suche-benutzer.png
+   :alt: Suche eines Nutzers
    :align: left
    :scale: 80
    :figwidth: 100%
@@ -18,6 +19,7 @@ Abb.: Suche eines Nutzers
 
 
 .. figure:: ../../../img/ige/administration/benutzerverwaltung/suche-gruppe.png
+   :alt: Suche einer Gruppe
    :align: left
    :scale: 80
    :figwidth: 100%
@@ -32,6 +34,7 @@ CSV-Export
 
 
 .. figure:: ../../../img/ige/administration/benutzerverwaltung/csv-export.png
+   :alt: CSV-Export
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -40,6 +43,7 @@ Abb.: CSV-Export
 
 
 .. figure:: ../../../img/ige/administration/benutzerverwaltung/csv.png
+   :alt: CSV-Export
    :align: left
    :scale: 60
    :figwidth: 100%

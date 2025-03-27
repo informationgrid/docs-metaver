@@ -34,6 +34,7 @@ Wenn das Merkmal "Offene Lizenz" ausgewählt und der Metadatenkatalog über die 
 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmale/merkmal_offene-lizenz.png
+   :alt: Merkmal Open Data / Offene Lizenz
    :align: left
    :scale: 60
    :figwidth: 100%
@@ -43,6 +44,7 @@ Abb.: Merkmal Open Data / Offene Lizenz
 Durch die Aktivierung des Merkmals "Offene Lizenz" wird das Schlüsselwort "opendata" im ISO-XML gesetzt.
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/open-data/iso-xml-opendata.png
+   :alt: ISO-XML - Angabe des Schlüsselwortes
    :align: left
    :scale: 60
    :figwidth: 100%
@@ -60,6 +62,7 @@ Folgende Eigenschaften ändern sich bei der Aktivierung der Option "Open Data":
 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/open-data/open-data_hinweis.png
+   :alt: Hinweis
    :align: left
    :scale: 80
    :figwidth: 100%
@@ -81,6 +84,7 @@ Die Tabelle "Kategorien" enthält eine Auswahlliste zur näheren Bestimmung des 
 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/open-data/open-data_kategorie.png
+   :alt: Auswahlfeld - Open Data Kategorien
    :align: left
    :scale: 80
    :figwidth: 100%
@@ -95,6 +99,7 @@ Abschnitt Verfügbarkeit
 In den Nutzungsbedingungen muss eine Lizenz ausgewählt werden, die die Nutzung der Daten unter bestimmten Bedingungen erlaubt. 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/open-data/open-data_nutzungsbedingungen_lizenz.png
+   :alt: Nutzungsbedingungen - Lizenz
    :align: left
    :scale: 90
    :figwidth: 100%
@@ -105,6 +110,7 @@ Abb.: Nutzungsbedingungen - Lizenz
 Im Feld Quelle kann eine Datenquelle angegeben werden, z.B: *Quelle © Daten: Landesamt für ...* oder *Quellenvermerk: © GeoBasis-DE / LVermGeo LSA*. Diese Angabe ist z.B. in Basiskarten relevant, da diese Information in einem Kartenviewer in der Basiskarte angezeigt werden muss.
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/merkmal_beschreibung/open-data_nutzungsbedingungen_quelle.png
+   :alt: Nutzungsbedingungen - Quellenangabe
    :align: left
    :scale: 80
    :figwidth: 100%
@@ -113,6 +119,7 @@ Abb.: Nutzungsbedingungen - Quellenangabe
 
 
 .. figure:: ../../../../img/kartenclient/metaver-kartenviewer_angabe-copyright.png
+   :alt: Angabe Copyright in einer Basiskarte
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -130,6 +137,7 @@ Wenn ein Metadatensatz als Open Data gekennzeichnet ist, muss der Metadatensatz 
 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/open-data/open-data_verweis.png
+   :alt: Datendownload anlegen
    :align: left
    :scale: 90
    :figwidth: 100%
@@ -138,6 +146,7 @@ Abb.: Datendownload anlegen
 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/open-data/open-data_verweis_angelegt.png
+   :alt: angelegter Datendownload
    :align: left
    :scale: 100
    :figwidth: 100%

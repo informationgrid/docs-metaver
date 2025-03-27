@@ -17,7 +17,7 @@ Eine Stufe über dem Katalogadministrator befindet sich der Superadministrator, 
 
 
 .. figure:: ../../../img/ige/administration/benutzerverwaltung/rollen.png
-   :align: left
+   :alt: Benutzerverwaltung - Rollen
    :scale: 60
    :figwidth: 100%
 

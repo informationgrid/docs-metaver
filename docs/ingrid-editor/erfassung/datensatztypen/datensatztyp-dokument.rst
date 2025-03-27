@@ -22,6 +22,7 @@ Abschnitt Merkmale
 Unter Merkmale können weitere Eigenschaften (Eingabefelder) für den Metadatensatz aktiviert werden.
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmale/merkmale_dokument.png
+   :alt: Mögliche Merkmale für Datensatztyp Dokument
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -40,6 +41,7 @@ Feld: Autor/Verfasser
 ^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_autor-verfasser.png
+   :alt: Textfeld - Autor/Verfasser
    :align: left
    :scale: 90
    :figwidth: 100%
@@ -57,6 +59,7 @@ Feld: Herausgeber
 ^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_herausgeber.png
+   :alt: Eingabezeile - Herausgeber
    :align: left
    :scale: 90
    :figwidth: 100%
@@ -75,6 +78,7 @@ Felder: Erscheinung
 ^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_erscheinung.png
+   :alt: Felder Erscheinung
    :align: left
    :scale: 90
    :figwidth: 100%
@@ -128,6 +132,7 @@ Feld: Standort
 ^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_standort.png
+   :alt: Textfeld - Standort
    :align: left
    :scale: 90
    :figwidth: 100%
@@ -143,6 +148,7 @@ Feld: ISBN-Nr.
 ^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_isbn.png
+   :alt: Eingabezeile - ISBN-Nr.
    :align: left
    :scale: 90
    :figwidth: 100%
@@ -159,6 +165,7 @@ Feld: Verlag
 ^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_verlag.png
+   :alt: Eingabezeile - Verlag
    :align: left
    :scale: 90
    :figwidth: 100%
@@ -174,6 +181,7 @@ Feld: Dokumententyp
 ^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_dokumententyp.png
+   :alt: Auswahlfeld - Dokumententyp
    :align: left
    :scale: 90
    :figwidth: 100%
@@ -190,6 +198,7 @@ Feld: Basisdaten
 ^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_basisdaten.png
+   :alt: Textfeld - Basisdaten
    :align: left
    :scale: 90
    :figwidth: 100%
@@ -204,6 +213,7 @@ Feld: Weiteres
 ^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_dokument/fachbezug_weiteres.png
+   :alt: Textfelder für weitere bibliographische Angaben
    :align: left
    :scale: 90
    :figwidth: 100%

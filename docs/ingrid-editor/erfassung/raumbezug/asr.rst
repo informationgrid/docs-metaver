@@ -12,14 +12,16 @@ wfs_gnde - steht für Geographische Namen Deutschlands es handelt sich um einen 
 
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/ars/raumbezug-hinzufuegen_ars.png
+   :alt: Angabe des Amtichen Regionalschlüssels
    :align: left
    :scale: 100
    :figwidth: 100%
 
-Abb.: Angabe des ARS
+Abb.: Angabe des Amtichen Regionalschlüssels
 
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/ars/ars_hamburg.png
+   :alt: 
    :align: left
    :scale: 100
    :figwidth: 100%
@@ -42,6 +44,7 @@ Der ARS ist wie folgt aufgebaut:
 
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/ars/ars_dargun.png
+   :alt: Beispiel: ARS Dargun
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -56,6 +59,7 @@ Abb.: Beispiel: ARS Dargun (MV) 130710027027
 
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/ars/ars_darmstadt.png
+   :alt: Beispiel: ARS Darmstadt
    :align: left
    :scale: 70
    :figwidth: 100%

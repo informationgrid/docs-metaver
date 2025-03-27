@@ -4,6 +4,7 @@ Der GetCapabilitie-Assistent
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilties-assistent_symbol.png
+   :alt: GetCapabilitie-Assistent - Symbol (Zauberstab)
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -18,6 +19,7 @@ Starten Sie den Assistenten über das Zauberstab-Symbol in der Symbolleiste. Geb
 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilties-assistent_url.png
+   :alt: GetCapabilitie-Assistent - URL Eingabe
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -29,6 +31,7 @@ Der Assistent ruft die Dienst-URL ab und listet alle in getCapabilitie verfügba
 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilties-assistent_metadaten.png
+   :alt: GetCapabilitie-Assistent - Metadaten
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -39,11 +42,12 @@ Abb.: GetCapabilitie-Assistent - Metadaten
 Der Assistent "GetCapabilities" extrahiert Metadaten aus der XML des Geodatendienstes. Diese können genutzt werden, um den Datensatztyp "Geodatendienst" zu füllen.
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilties-assistent_metadaten-auswahl.png
+   :alt: GetCapabilitie-Assistent - Metadatenauswahl
    :align: left
    :scale: 50
    :figwidth: 100%
 
-Abb.: GetCapabilitie-Assistent - Metadatenauswahl
+Abb.: 
 
 
 Werden die Adressen aus den Metadaten übernommen, erscheint im Assistenten der Button "Adressordner wählen".  Klicken Sie darauf und wählen Sie dann den Ordner aus dem Editor aus, unter dem die neue Adresse angelegt werden soll.
@@ -52,6 +56,7 @@ Mit der Funktion ABBRECHEN können Sie den Assistenten schließen und mit einem 
 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilties-assistent_metadaten-uebernommen.png
+   :alt: GetCapabilitie-Assistent - übernommene Metadaten
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -74,6 +79,7 @@ Die übernommenen Metadaten können mithilfe des Buttons "AKTUALISIEREN" am Anfa
 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilities_aktualisierung.png
+   :alt: GetCapabilitie-Aktualisierung am Anfang der Erfassungsmaske
    :align: left
    :scale: 50
    :figwidth: 100%

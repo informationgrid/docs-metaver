@@ -23,6 +23,7 @@ Feld: Beteiligte
 ^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_projekt/fachbezug_beteiligte.png
+   :alt: Angabe von Personen oder Organisationen
    :align: left
    :scale: 90
    :figwidth: 100%
@@ -36,6 +37,7 @@ Feld: Projektleiter
 ^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_projekt/fachbezug_projektleiter.png
+   :alt: Angabe des Projektleiters
    :align: left
    :scale: 90
    :figwidth: 100%
@@ -49,6 +51,7 @@ Feld: Erläuterungen
 ^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_projekt/fachbezug_erlaeuterungen.png
+   :alt: Textfeld für Erläuterungen
    :align: left
    :scale: 90
    :figwidth: 100%

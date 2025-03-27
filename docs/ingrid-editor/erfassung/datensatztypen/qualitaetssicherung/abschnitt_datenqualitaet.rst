@@ -5,6 +5,7 @@ Abschnitt Datenqualität
 Datendefizit
 """"""""""""
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/abschnitt-05_datenqualitaet/daten-defizit.png
+   :alt: Feld Datendefizit
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -22,6 +23,7 @@ Datengenauigkeit
 """"""""""""""""
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/abschnitt-05_datenqualitaet/daten-genauigkeit.png
+   :alt: Felder für die Datengenauigkeit
    :align: left
    :scale: 100
    :figwidth: 100%
@@ -46,6 +48,7 @@ Qualitätsinformationen
 """"""""""""""""""""""
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/abschnitt-05_datenqualitaet/qualitaetsinformationen-hinzufuegen.png
+   :alt: Feld+ für weitere Qualitätsinformationen
    :align: left
    :scale: 90
    :figwidth: 100%
@@ -57,6 +60,7 @@ Abb.: Feld+ für weitere Qualitätsinformationen
 """"""""""""""""""
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/abschnitt-05_datenqualitaet/daten-ueberschuss.png
+   :alt: Feld Datenüberschuss
    :align: left
    :scale: 100
    :figwidth: 100%
@@ -81,6 +85,7 @@ Beispiel: Anzahl der überflüssigen Elemente zur Anzahl der gesamten Elemente: 
 """"""""""""""""""""""""""""
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/abschnitt-05_datenqualitaet/konsistenz-konzeptionelle.png
+   :alt: Feld Konzeptionelle Konsistenz
    :align: left
    :scale: 100
    :figwidth: 100%
@@ -105,6 +110,7 @@ Beispiel: Anzahl der überlappenden Oberflächen innerhalb des Datensatzes: 23
 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/abschnitt-05_datenqualitaet/konsistenz-wertebereich.png
+   :alt: Feld Konsistenz des Wertebereichs
    :align: left
    :scale: 100
    :figwidth: 100%
@@ -124,6 +130,7 @@ Angaben zur Übereinstimmung des Wertebereichs - Angegeben wird die Anzahl der �
 """""""""""""""""""
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/abschnitt-05_datenqualitaet/konsistenz-format.png
+   :alt: Feld Formatkonsistenz
    :align: left
    :scale: 100
    :figwidth: 100%
@@ -143,6 +150,7 @@ Angaben darüber, wie viele Elemente sich im Konflikt zu der physikalischen Stru
 """"""""""""""""""""""""""
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/abschnitt-05_datenqualitaet/konsistenz-topologie.png
+   :alt: Feld Topologische Konsistenz
    :align: left
    :scale: 100
    :figwidth: 100%
@@ -168,6 +176,7 @@ Beispiel: Anzahl fehlender Verbindungen zwischen Unterelementen aufgrund von Und
 """"""""""""""""""""""""
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/abschnitt-05_datenqualitaet/genauigkeit-zeitlich.png
+   :alt: Feld Zeitliche Genauigkeit
    :align: left
    :scale: 100
    :figwidth: 100%
@@ -187,6 +196,7 @@ Angabe der Anzahl der zeitlich korrekt zugeordneten Elemente zur Gesamtzahl der 
 """""""""""""""""""""""""""""""""""""""""""""""
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/abschnitt-05_datenqualitaet/klassifizierung-thematisch.png
+   :alt: Feld Korrektheit der thematischen Klassifizierung
    :align: left
    :scale: 100
    :figwidth: 100%
@@ -207,6 +217,8 @@ Angabe der Anzahl der thematisch falsch klassifizierten Elemente zur Gesamtanzah
 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/abschnitt-05_datenqualitaet/genauigkeit-nicht-quantitativer-attribute.png
+   :alt: Feld Genauigkeit nicht-quantitativer Attribute
+   :align: left
    :scale: 100
    :figwidth: 100%
 
@@ -227,6 +239,7 @@ Angabe der Anzahl der inkorrekten nicht-quantitativen Attributwerte im Verhältn
 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/abschnitt-05_datenqualitaet/genauigkeit-quantitativer-attribute.png
+   :alt: Feld Genauigkeit quantitativer Attribute
    :align: left
    :scale: 100
    :figwidth: 100%
@@ -248,6 +261,7 @@ Beispiel: Anzahl aller quantitativen Werte, die nicht mit 95% Wahrscheinlichkeit
 """"""""""""""""""""""""""""""""""
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/abschnitt-05_datenqualitaet/relative-positionsgenauigkeit-1.png
+   :alt: Feld Relative Positionsgenauigkeit
    :align: left
    :scale: 100
    :figwidth: 100%
@@ -324,4 +338,3 @@ Qualitätsinformationen übersetzt
 10. Relative Positionsgenauigkeit
 
   - Mittelwert der Positionsunsicherheiten (1D, 2D, 3D)
-

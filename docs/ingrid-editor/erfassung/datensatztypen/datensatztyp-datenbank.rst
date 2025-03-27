@@ -22,6 +22,7 @@ Abschnitt Merkmale
 Unter Merkmale können weitere Eigenschaften (Eingabefelder) für den Metadatensatz aktiviert werden.
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmale/merkmale_datenbank.png
+   :alt: Mögliche Merkmale für Datensatztyp Datenbank
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -40,6 +41,7 @@ Feld: Objektartenkatalog
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_datenbank/fachbezug_objektartenkatalog.png
+   :alt: Tabelle - Objektartenkatalog
    :align: left
    :scale: 90
    :figwidth: 100%
@@ -55,6 +57,7 @@ Feld: Inhalte der Datensammlung/Datenbank
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_datenbank/fachbezug_inhalt.png
+   :alt: Felder für Inhalte der Datensammlung/Datenbank
    :align: left
    :scale: 90
    :figwidth: 100%
@@ -82,6 +85,7 @@ Feld: Methode / Datengrundlage
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_datenbank/fachbezug_methode.png
+   :alt: Tabelle - Methode/Datengrundlage
    :align: left
    :scale: 90
    :figwidth: 100%
@@ -97,6 +101,7 @@ Feld: Erläuterungen
 ^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_datenbank/fachbezug_erlaeuterungen.png
+   :alt: Textfeld - Erläuterungen
    :align: left
    :scale: 90
    :figwidth: 100%
