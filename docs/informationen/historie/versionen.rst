@@ -3,19 +3,18 @@ InGrid Versionen
 ================
 
 Bedienungsanleitung (IGE-NG) Version 
-  - letzte Änderung: 12.03.2025
+  - letzte Änderung: 27.03.2025
   - Status: in Bearbeitung
 
 --------------------------------------------------------------------------------------------------------------
 
 IGE Live-System
-  - InGrid Editor-Version: 7.4.2, 16.02.2025, 05:00
-  - GIT Commit ID 5b9539410340d45dbf6a70cf29865edde3b02c71
+  - InGrid Editor-Version: 7.4.2, 16.02.2025
+  - Geplantes Update auf Version 7.5.0 am: 03.04.2025, 16:00
 
 
 IGE Test-System
-  - InGrid Editor-Version: 7.4.1, 27.01.2025, 13:09
-  - GIT Commit ID 9c7b2227f401a3bbd7809434521f9de25932981a
+  - InGrid Editor-Version: 7.5.0, 24.03.2025
 
 --------------------------------------------------------------------------------------------------------------
 

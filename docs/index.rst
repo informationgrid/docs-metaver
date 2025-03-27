@@ -23,7 +23,7 @@ Bedienungsanleitung InGrid Editor
 | **Komponente:** InGrid Editor
 | **Profil:** METAVER
 
-| **letzte Änderung:** 18.03.2025
+| **letzte Änderung:** 27.03.2025
 | **Status:** in Bearbeitung
 
 ---------------------------------------------------------------------------------------------------------------------------
