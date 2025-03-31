@@ -59,6 +59,7 @@ Im InGrid-Editor gibt es verschiedene Arten von Metadaten- oder Adress-Typen.
 
 **Daten**
 
+Im BKG erfassen wir aktuell ISO-Metadaten lediglich für "Geodatensätze", "Geodatendienste" und "Anwendungen". Daher sind bitte nur diese Objektarten zu verwenden.
 
 .. figure:: ../../img/ige/allgemein/icons-metadaten_bkg.png
    :align: left
@@ -67,7 +68,8 @@ Im InGrid-Editor gibt es verschiedene Arten von Metadaten- oder Adress-Typen.
 
 Abb.: Metadatentypen in der Ordnerstruktur
 
-Im BKG erfassen wir aktuell ISO-Metadaten lediglich für "Geodatensätze", "Geodatendienste" und "Anwendungen". Daher sind bitte nur diese Objektarten zu verwenden.
+
+
 **Adressen**
 
 
