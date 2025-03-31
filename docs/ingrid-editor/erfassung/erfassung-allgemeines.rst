@@ -59,7 +59,7 @@ Im InGrid-Editor gibt es verschiedene Arten von Metadaten- oder Adress-Typen.
 
 **Daten**
 
-Im BKG erfassen wir aktuell ISO-Metadaten lediglich für "Geodatensätze", "Geodatendienste" und "Anwendungen". Daher sind bitte nur diese Objektarten zu verwenden.
+Im BKG erfassen wir aktuell ISO-Metadaten lediglich für "Geodatensätze", "Geodatendienste" und "Anwendungen". Daher sind nur diese Objektarten zu verwenden.
 
 .. figure:: ../../img/ige/allgemein/icons-metadaten_bkg.png
    :align: left
@@ -79,14 +79,18 @@ Abb.: Metadatentypen in der Ordnerstruktur
 
 Abb.: Adresstypen in der Ordnerstruktur
 
-Im BKG werden Adressen nur vom Fachadministrator im Editor angelegt. Bitte nehmen Sie bei Bedarf an einer neuer Adresse Kontakt mit dem Fachverfahrensverantwortlichen der Anwendung auf. Die derzeit verfügbaren Adressen (Stand: März 2025) sind die in der folgenden Abbildung sichtbaren Adressdatensätze:
+
+Im BKG werden Adressen nur vom Fachadministrator im Editor angelegt. Bitte nehmen Sie bei Bedarf an einer neuer Adresse Kontakt mit dem Fachverfahrensverantwortlichen der Anwendung auf. 
+Für die BKG-MD gilt, möglichst keine Personendaten zu veröffentlichen. Es gibt vereinzelt Ausnahmen.
+
+Die derzeit verfügbaren Adressen (Stand: März 2025) sind die in der folgenden Abbildung sichtbaren Adressdatensätze:
 
 .. figure:: ../../img/ige/allgemein/icons-adressen_bkg.png
    :align: left
    :scale: 60
    :figwidth: 100%
 
-Abb.: Adresstypen in der Ordnerstruktur
+Abb.: verfügbare Adressen im BKG-Editor
 
 
 
@@ -290,7 +294,7 @@ Unter dem Titel des Datensatzes (ebenfalls im grauen Bereich) sind Sprungmarken 
 
 .. figure:: ../../img/ige/allgemein/sprungmarken.png
    :align: left
-   :scale: 100
+   :scale: 200
    :figwidth: 100%
 
 Abb.: Sprungmarken
@@ -310,7 +314,7 @@ Abb.: Eingabefelder mit * sind Pflichtfelder
 
 
 
-Unterschiedliche Feldtypen
+Feldtypen
 --------------------------
 
 **Textfelder**
@@ -325,8 +329,8 @@ Zum Füllen von Textfeldern klicken Sie in das Feld. Zum Vergrößern des Feldes
 
 Abb.:  Feldtyp - Textfeld
 
-In Textfeldern dürfen die folgenden HTML-Tags verwendet werden:
-<b></b>, <i></i>, <u></u>, <p></p>, <br> </br>, <strong></strong>, <ul></ul>, <ol></ol>, <li></li>
+
+
 
 **Datumsangaben**
 
@@ -515,7 +519,7 @@ Abb.: Auf letzte Veröffentlichung zurücksetzen
 Option: "Veröffentlichung zurückziehen"
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Für diese Option müssen in den Bundesländern Regelungen getroffen werden, die festlegen, wann veröffentlichte Datensätze zurückgezogen werden dürfen.
+Veröffentlichte Datensätze können aus der Veröffentlichung zurückgezogen werden. Auf diese Weise können Metadaten eingezogen werden, zu Diensten, die deaktiviert wurden bzw. Datensätzen, die aus dem Vertrieb herausgenommen wurden.
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichung_zurueckziehen.png
    :align: left
