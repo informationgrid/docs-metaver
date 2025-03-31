@@ -3,13 +3,13 @@
 Der neue InGrid Editor
 ======================
 
-Der neue InGrid Editor zur Erfassung von ISO-Metadaten wurde technisch von Grund auf erneuert. Er enthält eine Vielzahl an Verbesserungen. Benutzerfreundlichkeit, Barrierefreiheit, responsives Layout für unterschiedliche Bildschirme sowie Touch-Bedienung für Tablets und Touch-Monitore, wurden berücksichtigt. Eine intuitive Bedienung erleichtert die Eingabe der Daten. Der Editor wurde für den Einsatz im BKG-MIS angepasst. 
+Der neue InGrid Editor zur Erfassung von ISO-Metadaten wurde technisch von Grund auf erneuert. Er enthält eine Vielzahl an Verbesserungen. Benutzerfreundlichkeit, Barrierefreiheit, responsives Layout für unterschiedliche Bildschirme sowie Touch-Bedienung für Tablets und Touch-Monitore, wurden berücksichtigt. Eine intuitive Bedienung erleichtert die Eingabe der Daten. Der Editor wurde für den Einsatz im BKG angepasst. 
 
 
 InGrid Editor - Übersicht
 -------------------------
  
- Nachdem der InGrid Editor geladen wurde, wird die Übersicht angezeigt. Es werden die zuletzt bearbeiteten Metadaten bzw. Adressen sowie eine Statistik angezeigt, die angibt, wie viele Metadaten sich derzeit in Bearbeitung befinden und wie viele bereits veröffentlicht sind.
+ Nach Start des Editors wird dem Nutzer eine Übersicht der zuletzt bearbeiteten Metadaten angezeigt. Dazu erscheint ein Diagram, das die Anzahl der in Bearbeitung befindlichen und veröffentlichten Metadaten darstellt.
 
 
 .. figure:: ../../img/ige/allgemein/uebersicht.png
@@ -40,23 +40,15 @@ Aufbau der Benutzeroberfläche:
 Strukturierung der Daten
 ------------------------
 
-Im InGrid Editor können Daten mithilfe von Ordnern strukturiert werden.
-
-.. figure:: ../../img/ige/allgemein/symbolleiste_ordner-erstellen.png
-   :align: left
-   :scale: 10
-   :figwidth: 100%
-
-Abb.: InGrid - Ordnersymbol im Eingabeformular
+Im InGrid Editor können Daten strukturiert werden. Im BKG wurde die Struktur vom Fachverfahrensverantwortlichen vorbereitet. 
 
 
-
-.. figure:: ../../img/ige/allgemein/datenstruktur.png
+.. figure:: ../../img/ige/allgemein/datenstruktur_bkg.png
    :align: left
    :scale: 50
    :figwidth: 100%
    
-Abb.: InGrid Editor - Aufbau der Ordnerstruktur (Beispiel)
+Abb.: InGrid Editor - Aufbau der Ordnerstruktur im BKG
 
  
 
@@ -123,7 +115,7 @@ Berechtigungen zu den Metadaten
    :figwidth: 100%
 
 
-Veröffenlichungsrecht setzten ...
+Veröffenlichungsrecht setzen ...
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/veroeffentlichungsrecht_setzen.png
