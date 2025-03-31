@@ -70,6 +70,7 @@ Angabe der wichtigsten Parameter der Datenbank oder Datensammlung. Um einen qual
 Beispiel für Trinkwasserwerte: °C, °dH, [ph-Einheiten], [µS/cm], [mg/l], [Anz./100ml]
 
 
+
 Feld: Ergänzenden Angaben
 """""""""""""""""""""""""
 

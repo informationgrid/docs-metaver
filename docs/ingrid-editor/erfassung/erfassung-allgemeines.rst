@@ -23,7 +23,7 @@ Abb.: Übersicht
 Aufbau der Benutzeroberfläche
 -----------------------------
 
-.. figure:: ../../img/ige/allgemein/benutzeroberflaeche.png
+.. figure:: ../../img/ige/allgemein/benutzeroberflaeche_bkg.png
    :align: left
    :scale: 100
    :figwidth: 100%
