@@ -63,22 +63,32 @@ Abb.: InGrid Editor - Aufbau der Ordnerstruktur (Beispiel)
 Metadatentypen
 --------------
 
-Im InGrid-Editor gibt es verschiedene Arten von Metadaten oder Adressestypen. 
+Im InGrid-Editor gibt es verschiedene Arten von Metadaten- oder Adress-Typen. 
 
 **Daten**
 
 
-.. figure:: ../../img/ige/allgemein/icons-metadaten.png
+.. figure:: ../../img/ige/allgemein/icons-metadaten_bkg.png
    :align: left
    :scale: 60
    :figwidth: 100%
 
 Abb.: Metadatentypen in der Ordnerstruktur
 
+Im BKG erfassen wir aktuell ISO-Metadaten lediglich für "Geodatensätze", "Geodatendienste" und "Anwendungen". Daher sind bitte nur diese Objektarten zu verwenden.
 **Adressen**
 
 
 .. figure:: ../../img/ige/allgemein/icons-adressen.png
+   :align: left
+   :scale: 60
+   :figwidth: 100%
+
+Abb.: Adresstypen in der Ordnerstruktur
+
+Im BKG werden Adressen nur vom Fachadministrator im Editor angelegt. Bitte nehmen Sie bei Bedarf an einer neuer Adresse Kontakt mit dem Fachverfahrensverantwortlichen der Anwendung auf. Die derzeit verfügbaren Adressen (Stand: März 2025) sind die in der folgenden Abbildung sichtbaren Adressdatensätze:
+
+.. figure:: ../../img/ige/allgemein/icons-adressen_BKG.png
    :align: left
    :scale: 60
    :figwidth: 100%
