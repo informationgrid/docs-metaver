@@ -72,7 +72,6 @@ Abb.: Metadatentypen in der Ordnerstruktur
 
 **Adressen**
 
-
 .. figure:: ../../img/ige/allgemein/icons-adressen.png
    :align: left
    :scale: 60
@@ -82,7 +81,7 @@ Abb.: Adresstypen in der Ordnerstruktur
 
 Im BKG werden Adressen nur vom Fachadministrator im Editor angelegt. Bitte nehmen Sie bei Bedarf an einer neuer Adresse Kontakt mit dem Fachverfahrensverantwortlichen der Anwendung auf. Die derzeit verfügbaren Adressen (Stand: März 2025) sind die in der folgenden Abbildung sichtbaren Adressdatensätze:
 
-.. figure:: ../../img/ige/allgemein/icons-adressen_BKG.png
+.. figure:: ../../img/ige/allgemein/icons-adressen_bkg.png
    :align: left
    :scale: 60
    :figwidth: 100%
