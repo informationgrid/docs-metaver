@@ -2,7 +2,7 @@ Benutzer bearbeiten / löschen
 ====================================
 
 Benutzer bearbeiten
------------------
+--------------------
 
 Soll ein Benutzer bearbeitet werden, muss die Benutzerverwaltung über die Navigation (BENUTZER & RECHTE) aufgerufen werden. Darin den entsprechenden Benutzer auswählen und anschließend, in der Eingabemaske auf der rechten Seite, die Daten bearbeiten.
 
@@ -12,7 +12,7 @@ Abb.: Benutzer bearbeiten
 
 
 Benutzer löschen
---------------
+-----------------
 
 Soll ein Benutzer gelöscht werden, muss der Benutzer in der Benutzerverwaltung ausgewählt werden.
 
