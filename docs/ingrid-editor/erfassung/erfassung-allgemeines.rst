@@ -25,7 +25,7 @@ Aufbau der Benutzeroberfläche
 
 .. figure:: ../../img/ige/allgemein/benutzeroberflaeche_bkg.png
    :align: left
-   :scale: 80
+   :scale: 100
    :figwidth: 100%
    
 Abb.: InGrid Editor - Benutzeroberfläche
