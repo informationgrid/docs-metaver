@@ -250,20 +250,19 @@ Der getCapabilities Assistent
 
 Abb.: Symbolleiste -  getCapabilities-Assistent
 
-Für die Erfassung von Geodatendiensten (WMS, WFS, WCS, WCTS, WMTS und CSW) kann der getCapabilities-Assistent genutzt werden. Es ist neu, dass der Assistent über die Symbolleiste aufgerufen werden muss. In dem sich öffnenden Fenster muss die getCapabilities-URL eingetragen werden. Nachdem der Button "ÜBERNEHMEN" betätigt wurde, werden die Operationen im Hintergrund verarbeitet, wodurch die Erfassung von OGC-konformen Diensten erheblich vereinfacht wird. Die Analyseergebnisse werden angezeigt und es besteht die Möglichkeit, auszuwählen, welche Metadaten in den Metadatensatz übernommen werden sollen. Danach kann der Datensatz im InGrid Editor weiter bearbeitet und gespeichert werden.
+Für die Erfassung von Geodatendiensten (WMS, WFS, WCS, WCTS, WMTS und CSW) kann der getCapabilities-Assistent genutzt werden. Der Assistent wird über die Symbolleiste aufgerufen. In dem sich öffnenden Fenster muss die getCapabilities-URL eingetragen werden. Nachdem der Button "ÜBERNEHMEN" betätigt wurde, werden die Operationen im Hintergrund verarbeitet, wodurch die Erfassung von OGC-konformen Diensten erheblich vereinfacht wird. Die Analyseergebnisse werden angezeigt und es besteht die Möglichkeit, auszuwählen, welche Metadaten in den Metadatensatz übernommen werden sollen. Danach kann der Datensatz im InGrid Editor weiter bearbeitet und gespeichert werden.
 
-Eine ausführliche Beschreibung für diese Funktion erfolgt im Datensatztyp `Geodatendienst <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/datensatztyp-geodatendienst.html>`_.
+Eine ausführliche Beschreibung für diese Funktion erfolgt im Datensatztyp `Geodatendienst <./de/latest/ingrid-editor/erfassung/datensatztypen/datensatztyp-geodatendienst.html>`_.
 
 
-.. hint:: Der Allgemeine Erfassungsassistent wurde aus dem neuen InGrid Editor entfernt.
 
 
 Alle - Felder anzeigen
 ----------------------
 
-Je nach gewähltem Datensatztyp werden in der Erfassungsmaske des InGrid-Editors verschiedene Felder angezeigt. Die Pflichtfelder sind abhängig von dem jeweiligen Datensatztyp und variieren dementsprechend. Der Datensatztyp "Geodatensatz" ist dabei am umfangreichsten, während der Typ "Fachaufgabe" am schnellsten zu befüllen ist.
+Je nach gewähltem Datensatztyp werden in der Erfassungsmaske des InGrid-Editors verschiedene Felder angezeigt. Die Pflichtfelder sind abhängig von dem jeweiligen Datensatztyp und variieren dementsprechend. 
 
-Über den Schalter "Alle" oben rechts im grauen Bereich können weitere optionale Felder eingeblendet werden.
+Über den Schalter "Alle" oben rechts im grauen Bereich können weitere optionale Felder ein- oder ausgeblendet werden.
 
 .. figure:: ../../img/ige/allgemein/alle.png
    :align: left
@@ -272,7 +271,7 @@ Je nach gewähltem Datensatztyp werden in der Erfassungsmaske des InGrid-Editors
 
 Abb.: Schalter für das Ein- und Ausblenden von optionalen Feldern
 
-.. hint:: Grundsätzlich empfehlen wir, nicht nur die Pflichtfelder auszufüllen, sondern auch soweit wie möglich die optionalen Felder mit Einträgen zu versehen, um einen Mehrwert zu erzielen. 
+.. hint:: Grundsätzlich empfehlen wir, nicht nur die Pflichtfelder auszufüllen, sondern auch soweit wie möglich die optionalen Felder mit Einträgen zu versehen. 
 
 
 Ordner-Navigation
@@ -294,7 +293,7 @@ Unter dem Titel des Datensatzes (ebenfalls im grauen Bereich) sind Sprungmarken 
 
 .. figure:: ../../img/ige/allgemein/sprungmarken.png
    :align: left
-   :scale: 200
+   :scale: 150
    :figwidth: 100%
 
 Abb.: Sprungmarken
@@ -303,7 +302,7 @@ Abb.: Sprungmarken
 Eingabefelder
 -------------
 
-Im InGrid Editor stehen eine Vielzahl an Feldern zur Verfügung, doch nicht alle Felder müssen zwingend ausgefüllt werden. Jeder Metadatensatz oder jede Adresse hat jedoch Pflichtfelder, die unbedingt ausgefüllt werden müssen. Ohne die Befüllung dieser Pflichtfelder ist das Abspeichern des Datensatzes nicht möglich. Diese Pflichtfelder sind durch ein Sternchen gekennzeichnet. 
+Im InGrid Editor stehen eine Vielzahl an Feldern zur Verfügung, doch nicht alle Felder müssen zwingend ausgefüllt werden. Jeder Metadatensatz oder jede Adresse hat jedoch Pflichtfelder, die unbedingt ausgefüllt werden müssen. Ohne die Befüllung der Pflichtfelder ist das Abspeichern des Datensatzes nicht möglich. Pflichtfelder sind durch ein Sternchen gekennzeichnet. 
 
 .. figure:: ../../img/ige/allgemein/felder.png
    :align: left
@@ -526,7 +525,7 @@ Veröffentlichte Datensätze können aus der Veröffentlichung zurückgezogen we
    :scale: 80
    :figwidth: 100%
 
-Abb.: Abfrage ob die Veröffentlichung wirklich zurückgezogen werden soll
+Abb.: Abfrage, ob die Veröffentlichung wirklich zurückgezogen werden soll
 
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichung_zurueckgezogen.png
@@ -643,7 +642,7 @@ Abb.: Countdown für den Logout und "Session-refresh-Button"
 Abb.: Meldung - Besuchszeit abgelaufen
 
 
-Leider gehen alle Änderungen und Neueingaben verloren, die bis zu diesem Zeitpunkt nicht gespeichert wurden. Es erfolgt keine automatische Zwischenspeicherung! Daher empfiehlt es sich, während der Erfassung von Verfahren und Adressen regelmäßig zwischenspeichern. Eine automatische Zwischenspeicherung ist zukünftig vorgesehen.
+Leider gehen alle Änderungen und Neueingaben verloren, die bis zu diesem Zeitpunkt nicht gespeichert wurden. Es erfolgt keine automatische Zwischenspeicherung! Daher empfiehlt es sich, während der Erfassung von Verfahren und Adressen regelmäßig zu speichern. Eine automatische Zwischenspeicherung ist zukünftig vorgesehen.
 
 
 InGrid Editor schließen
