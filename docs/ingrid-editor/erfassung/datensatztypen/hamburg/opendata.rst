@@ -1,6 +1,6 @@
 
 -----------------
-Option: Open Data
+Open Data
 -----------------
 
 Open Data - Erläuterungen
