@@ -29,6 +29,7 @@ Um Gruppen im InGrid Editor zu erstellen, gehen Sie wie folgt vor:
 5. Speichern Sie die Gruppe. Bitte beachten Sie, dass diese Gruppe nur von Benutzern angesehen werden kann, die Teil der Gruppe sind oder Zugriffsberechtigungen haben. Änderungen an den Gruppenmitgliedschaften können jederzeit vorgenommen werden.
 
 .. figure:: ../../../img/ige/administration/benutzerverwaltung/gruppen.png
+   :alt: Verwaltung von Gruppen
    :align: left
    :scale: 100
    :figwidth: 100%
@@ -38,6 +39,7 @@ Abb.: Verwaltung von Gruppen
 
 
 .. figure:: ../../../img/ige/administration/benutzerverwaltung/hinzufuegen.png
+   :alt: Gruppe hinzufügen
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -47,6 +49,7 @@ Abb.: Gruppe hinzufügen
 
 
 .. figure:: ../../../img/ige/administration/benutzerverwaltung/gruppe-hinzufuegen.png
+   :alt: Fenster Gruppe hinzufügen
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -56,6 +59,7 @@ Abb.: Fenster Gruppe hinzufügen
 
 
 .. figure:: ../../../img/ige/administration/benutzerverwaltung/allgemeine-rechte.png
+   :alt: Vergabe von allgemeinen Rechten
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -64,6 +68,7 @@ Abb.: Vergabe von allgemeinen Rechten
 
 
 .. figure:: ../../../img/ige/administration/benutzerverwaltung/allgemeine-rechte-erteilt.png
+   :alt: Vergabe von allgemeinen Rechten
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -77,6 +82,7 @@ Rechte-Vergabe
 Bitte beachten Sie bei der Vergabe von Rechten, dass nur befugtes Personal Zugang zu den Daten hat. Stellen Sie sicher, dass die Rechte auf ein Minimum beschränkt sind und nur den Bedürfnissen der betreffenden Mitarbeiter entsprechen. Überwachen Sie regelmäßig die Vergabe von Rechten und nehmen Sie Änderungen vor, wenn sich die Umgebung oder die Position eines Mitarbeiters ändert.
 
 .. figure:: ../../../img/ige/administration/benutzerverwaltung/rechte-vergabe.png
+   :alt: Vergabe von Berechtigungen
    :align: left
    :scale: 90
    :figwidth: 100%
@@ -93,6 +99,7 @@ Rechtevergabe Daten und Adressen - Bedeutung der Symbole
 Um Berechtigungen zu vergeben, klicken Sie auf das entsprechende Symbol und wählen Sie in der Ordnerstruktur den Ordner aus, ab dem die Berechtigungen gelten sollen.
 
 .. figure:: ../../../img/ige/administration/benutzerverwaltung/berechtigungen.png
+   :alt: Berechtigungen
    :align: left
    :scale: 90
    :figwidth: 100%

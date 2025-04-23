@@ -3,6 +3,7 @@ Der ATOM-Feed Client
 ^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/atom-feed-client/atom-feed-client.png
+   :alt: ATOM-Feed Client
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -14,6 +15,7 @@ Da Webbrowser für den Datendownload von ATOM-Feeds nur Erweiterungen unterstüt
 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/atom-downloaddienst/fachbezug_als-atomdownloaddienst-bereitstellen.png
+   :alt: Als ATOM-Download Dienst bereitstellen
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -25,6 +27,7 @@ Der ATOM-Feed Client wurde an die spezifischen Anforderungen der Bundesländer u
 Folgende Partner-Bundesländer verfügen über den ATOM-Feed Client.
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/atom-feed-client/atom-feed-client_bb.png
+   :alt: ATOM-Feed Client Brandenburg
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -33,6 +36,7 @@ Abb.: `ATOM-Feed Client Brandenburg <https://metaver.de/search/dls/?partner=bb>`
 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/atom-feed-client/atom-feed-client_hb.png
+   :alt: ATOM-Feed Client Hansestadt Bremen
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -40,6 +44,7 @@ Abb.: `ATOM-Feed Client Brandenburg <https://metaver.de/search/dls/?partner=bb>`
 Abb.: `ATOM-Feed Client Hansestadt Bremen <https://metaver.de/search/dls/?partner=hb>`_
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/atom-feed-client/atom-feed-client_hh.png
+   :alt: ATOM-Feed Client Hansestadt Hamburg
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -48,6 +53,7 @@ Abb.: `ATOM-Feed Client Hansestadt Hamburg <https://metaver.de/search/dls/?partn
 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/atom-feed-client/atom-feed-client_st.png
+   :alt: ATOM-Feed Client Sachsen-Anhalt
    :align: left
    :scale: 50
    :figwidth: 100%

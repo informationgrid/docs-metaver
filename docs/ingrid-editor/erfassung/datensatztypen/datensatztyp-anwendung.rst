@@ -15,6 +15,24 @@ Mit dem Datensatztyp "Anwendung" können Softwareprodukte, Webanwendungen oder z
 
 -----------------------------------------------------------------------------------------------------------------------
 
+
+Abschnitt Merkmale
+------------------
+
+Unter Merkmale können weitere Eigenschaften (Eingabefelder) für den Metadatensatz aktiviert werden.
+
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmale/merkmale_anwendung.png
+   :alt: Mögliche Merkmale für Datensatztyp Anwendung
+   :align: left
+   :scale: 70
+   :figwidth: 100%
+
+Abb.: Mögliche Merkmale für Datensatztyp Anwendung
+
+.. seealso:: Beschreibungen der Merkmale: `INSPIRE-relevant | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/merkmal/inspire-relevant.html>`_ `Open Data | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/hamburg/opendata.html>`_ `Gemäß HmbTG | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/hamburg/hmbtg.html>`_ `AdV-kompatibel <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/merkmal/adv-kompatibel.html>`_ 
+-----------------------------------------------------------------------------------------------------------------------
+
+
 Abschnitt Fachbezug
 -------------------
 
@@ -22,6 +40,7 @@ Feld: Art des Dienstes
 ^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_anwendung/fachbezug_dienstart.png
+   :alt: Auswahlfeld - Art des Dienstes
    :align: left
    :scale: 90
    :figwidth: 100%
@@ -34,6 +53,7 @@ Feld: Version (falls sinnvoll bitte angeben)
 ^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_anwendung/fachbezug_version.png
+   :alt: Eingabezeile für die Version
    :align: left
    :scale: 80
    :figwidth: 100%
@@ -48,6 +68,7 @@ Weitere Informationen
 ^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_anwendung/fachbezug_weitere-angaben.png
+   :alt: Textfelder für weitere Informationen
    :align: left
    :scale: 80
    :figwidth: 100%
@@ -82,6 +103,7 @@ Feld: Service-URLs (URL der Anwendung)
 ^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_anwendung/fachbezug_service-url.png
+   :alt: Felder - Service-URLs
    :align: left
    :scale: 80
    :figwidth: 100%

@@ -3,25 +3,44 @@ InGrid Versionen
 ================
 
 Bedienungsanleitung (IGE-NG) Version 
-  - letzte Änderung: 02.12.2024
+  - letzte Änderung: 27.03.2025
   - Status: in Bearbeitung
 
 --------------------------------------------------------------------------------------------------------------
 
 IGE Live-System
-  - InGrid Editor-Version: 7.3.2, 16.10.2024, 18:59
-  - GIT Commit ID: 739bd4cc0531d48177120131cd45ef6f3ab7dec9
+  - InGrid Editor-Version: 7.4.2, 16.02.2025
+  - Geplantes Update auf Version 7.5.0 am: 03.04.2025, 16:00
 
 
 IGE Test-System
-  - 7.3.1-2, 15.10.2024, 16:19
-  - GIT Commit ID: e2428417f1048c25f2f9d35e59cd4d91524d3b83
+  - InGrid Editor-Version: 7.5.0, 24.03.2025
 
 --------------------------------------------------------------------------------------------------------------
 
 **Historie der Versionen InGrid Editor**
 
 (Ausfühliche Informationen in der `GitHub History <https://www.ingrid-oss.eu/latest/about/history.html>`_)
+
+
+
+**Version: 7.4.2, 16.02.2025**
+
+Ingrid-Editor
+  - Der „Merkmale“-Bereich wurde umgestaltet.
+  - Die HVD-Kategorien wurden als Codeliste aufgenommen.
+  - Im Bereich OpenData/HVD wurde der Eintrag „Es gelten keine Zugriffsbeschränkungen“ gesetzt.
+  - Ressourcen können der OGC API über die PUT-Methode verschoben werden.
+  - Das Verhalten für das Feld „Art des Dienstes“ wurde geändert.
+  - Der CSV-Export der Suchergebnisse aus der SQL-Suche gibt zusätzliche Datenfelder aus.
+  - Verweise können über den Themenbaum wie im IGE Classic ausgewählt werden.
+  - Die Schlagworte im Metadatensatz wurden konsolidiert.
+  - Im Editor kann die Herkunft der Daten detaillierter eingegeben werden.
+
+Portal
+  - Die Icons für die Kategorien „Karten“ und „INSPIRE“ auf der Portal-Startseite wurden ausgetauscht.
+  - Im Portal wurde die Verlinkung des Koordinatensystems von epsg.io auf www.spatialreference.org geändert.
+  - Ein „Kopieren“-Button wurde an einer bestimmten Stelle im Portal hinzugefügt.
 
 
 **Version: 7.3.2, 16.10.2024**

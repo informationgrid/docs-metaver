@@ -27,6 +27,7 @@ Funktion: Der GetCapabilities-Assistent
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilties-assistent_symbol.png
+   :alt: Symbol Zauberstab
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -39,19 +40,20 @@ Abb.: GetCapabilitie-Assistent - Symbol (Zauberstab) in der Symbolleiste
 -----------------------------------------------------------------------------------------------------------------------
 
 
-Feld: Typ
-^^^^^^^^^
+Abschnitt Merkmale
+------------------
 
-Unter Typ können weitere Eigenschaften (Eingabefelder) für den Metadatensatz definiert werden.
+Unter Merkmale können weitere Eigenschaften (Eingabefelder) für den Metadatensatz aktiviert werden.
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/hamburg/checkboxen/hmdk_checkboxen.png
+   :alt: Merkmale für Datensatztyp Geodatendienst
    :align: left
    :scale: 80
    :figwidth: 100%
 
-Abb.: Optionen für weitere Eigenschaften
+Abb.: Mögliche Merkmale für Datensatztyp Geodatendienst
 
-.. seealso:: Optionen: `INSPIRE-relevant | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/option/inspire-relevant.html>`_ `AdV kompatibel | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/option/adv-kompatibel.html>`_ `Open Data | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/hamburg/opendata.html>`_ `Veröffentlichung gemäß HmbTG <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/hamburg/hmbtg.html>`_
+.. seealso:: Beschreibungen der Merkmale: `INSPIRE-relevant | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/merkmal/inspire-relevant.html>`_ `Open Data | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/hamburg/opendata.html>`_ `Gemäß HmbTG | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/hamburg/hmbtg.html>`_ `AdV-kompatibel <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/merkmal/adv-kompatibel.html>`_ 
 
 -----------------------------------------------------------------------------------------------------------------------
 
@@ -80,6 +82,7 @@ Feld: Klassifikation des Dienstes
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_klassifikation.png
+   :alt: Feld: Klassifikation des Dienstes
    :align: left
    :scale: 90
    :figwidth: 100%
@@ -98,6 +101,7 @@ Feld: Art des Dienstes
 In diesem Pflichtfeld kann die Art des Vorgangs ausgewählt werden. Das Feld steuert, welche Vorgangsdetails zur weiteren Befüllung ausgewählt werden (siehe Tabelle unter Punkt: Name der Operation).
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_dienstart.png
+   :alt: Feld: Art des Dienstes
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -125,6 +129,7 @@ Angaben zur Version der Spezifikation, die dem Dienst zugrunde liegt
 Bitte alle Versionen eintragen, die vom Dienst unterstützt werden.
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_dienstversion.png
+   :alt: Feld: Version des Dienstes
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -140,7 +145,7 @@ Option: Als ATOM-Download Dienst bereitstellen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/atom-downloaddienst/fachbezug_als-atomdownloaddienst-bereitstellen.png
-   :align: left
+   :alt: Checkbox: Als ATOM-Download Dienst bereitstellen
    :scale: 70
    :figwidth: 100%
 
@@ -161,6 +166,7 @@ Feld: Operationen
 Die Eingabefelder für die Operationen wurden im neuen Editor vereinfacht. Im Feld "Name" muss die getCapabilitie-URL, im Feld "Beschreibung" die Beschreibung des Dienstes und im Feld "Zugriffs-URL" die entsprechende URL eingegeben werden.
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_operationen_getcapabilitie.png
+   :alt: Felder für Operationen
    :align: left
    :scale: 80
    :figwidth: 100%
@@ -176,6 +182,7 @@ Beispiel GetCapabilitie-URL eines WMS: https://www.geodatenportal.sachsen-anhalt
 Sind alle Felder ausgefüllt, kann der Dienst durch Betätigen des Buttons "AKTUALISIEREN" (vor dem Abschnitt "Allgemeines") abgerufen werden.
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_operationen_aktualisieren.png
+   :alt: Button AKTUALISIEREN
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -186,6 +193,7 @@ Nach dem Abrufen werden die im Dienst hinterlegten Metadaten angezeigt. Hier kö
 
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_operationen_wms.png
+   :alt: URLs eines WMS
    :align: left
    :scale: 100
    :figwidth: 100%
@@ -194,6 +202,7 @@ Abb.: URLs eines WMS
 
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_operationen_wfs.png
+   :alt: URLs eines WFS
    :align: left
    :scale: 100
    :figwidth: 100%
@@ -202,6 +211,7 @@ Abb.: URLs eines WFS
 
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_operationen.png
+   :alt: 
    :align: left
    :scale: 80
    :figwidth: 100%
@@ -219,6 +229,7 @@ Feld: Erstellungsmaßstab
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_erstellungsmassstab.png
+   :alt: Erstellungsmaßstab
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -234,6 +245,7 @@ Felder: Systemumgebung & Historie
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_systemumgebung_historie.png
+   :alt: Felder: Systemumgebung und Historie
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -249,6 +261,7 @@ Feld: Erläuterungen
 ^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_erlaeuterungen.png
+   :alt: Feld: Erläuterungen
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -269,6 +282,7 @@ Felder für Dargestellte Daten
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_dargestellte-daten.png
+   :alt: Felder für Dargestellte Daten
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -297,6 +311,7 @@ Option: Zugang geschützt
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_zugang-geschuetzt.png
+   :alt: Option Zugang geschützt
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -314,6 +329,7 @@ Feld: Konformität
 ^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/zusatzinformation_konformitaet.png
+   :alt: Konformität
    :align: left
    :scale: 80
    :figwidth: 100%

@@ -4,6 +4,7 @@ Operationen
 
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/assistent/getcapabilties-assistent_symbol.png
+   :alt: Feld - Operationen
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -19,6 +20,7 @@ Wenn der Metadatensatz ohne den Assistenten erstellt wurde, müssen die Felder f
 Nach Eingabe der URL kann der Dienst über den Button "AKTUALISIEREN" am Anfang des Eingabeformulars aufgerufen werden. Wenn die URL korrekt eingegeben wurde, werden die Metadaten des Dienstes angezeigt und können in den Editor übernommen werden.
 
 .. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatendienst/fachbezug_funktionen.png
+   :alt: Funktionen
    :align: left
    :scale: 100
    :figwidth: 100%

@@ -15,17 +15,19 @@ InGrid Editor - Übersicht
 
 
 .. figure:: ../../img/ige/allgemein/uebersicht.png
+   :alt: InGrid Editor - Übersicht
    :align: left
    :scale: 100
    :figwidth: 100%
    
-Abb.: Übersicht
+Abb.: InGrid Editor - Übersicht
 
 
 Aufbau der Benutzeroberfläche
 -----------------------------
 
 .. figure:: ../../img/ige/allgemein/benutzeroberflaeche.png
+   :alt: InGrid Editor - Benutzeroberfläche
    :align: left
    :scale: 100
    :figwidth: 100%
@@ -45,6 +47,7 @@ Strukturierung der Daten
 Im InGrid Editor können Daten mithilfe von Ordnern strukturiert werden.
 
 .. figure:: ../../img/ige/allgemein/symbolleiste_ordner-erstellen.png
+   :alt: Ordnersymbol im Eingabeformular
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -53,6 +56,7 @@ Abb.: InGrid - Ordnersymbol im Eingabeformular
 
 
 .. figure:: ../../img/ige/allgemein/datenstruktur.png
+   :alt: Aufbau der Ordnerstruktur
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -61,6 +65,7 @@ Abb.: InGrid Editor - Aufbau der Ordnerstruktur (Beispiel)
 
 
 .. figure:: ../../img/ige/allgemein/ordner.png
+   :alt: Ordner öffnen und schließen
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -79,6 +84,7 @@ Im InGrid-Editor gibt es verschiedene Arten von Metadaten oder Adressestypen.
 
 
 .. figure:: ../../img/ige/allgemein/icons-metadaten.png
+   :alt: Metadatentypen
    :align: left
    :scale: 60
    :figwidth: 100%
@@ -89,6 +95,7 @@ Abb.: Metadatentypen in der Ordnerstruktur
 
 
 .. figure:: ../../img/ige/allgemein/icons-adressen.png
+   :alt: Adresstypen
    :align: left
    :scale: 60
    :figwidth: 100%
@@ -118,15 +125,19 @@ Berechtigungen zu den Metadaten
 Über das Drei-Punkte-Menü, auf der rechten Seite der Erfassungsmaske können verschiedene Berechtigungen vergeben werden.
 
 .. figure:: ../../img/ige/allgemein/auswahl_veroeffentlichungsrecht.png
+   :alt: Veröffentlichungsrechte
    :align: left
    :scale: 50
    :figwidth: 100%
+
+Abb.: Veröffentlichungsrechte
 
 
 Veröffenlichungsrecht setzten ...
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/veroeffentlichungsrecht_setzen.png
+   :alt: Veröffentlichungsrechte
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -151,6 +162,7 @@ Berechtigungen anzeigen
 ^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/berechtigungen_anzeigen.png
+   :alt: Berechtigungen anzeigen
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -163,6 +175,7 @@ Verantwortlichkeit ändern
 (Nur für Administratoren sichtbar.)
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/verantwortlichkeit_aendern.png
+   :alt: Auswahl Verantwortung für den Metadatensatz
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -178,6 +191,7 @@ Menü
 
 
 .. figure:: ../../img/ige/allgemein/menue.png
+   :alt: Menü Symbole mit Beschriftung
    :align: left
    :scale: 60
    :figwidth: 100%
@@ -185,6 +199,7 @@ Menü
 Abb.: Menü Symbole mit Beschriftung
 
 .. figure:: ../../img/ige/allgemein/menu_verkleinern.png
+   :alt: Menü verkleinern
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -193,6 +208,7 @@ Abb.: Menü verkleinern
 
 
 .. figure:: ../../img/ige/allgemein/menue_verkleinert.png
+   :alt: Menü verkleinernert
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -201,6 +217,7 @@ Abb.: Menü (verkleinernert) - Symbole
 
 
 .. figure:: ../../img/ige/allgemein/menue_vergroessern.png
+   :alt: Menü vergrößern
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -212,6 +229,7 @@ Symbolleiste
 ------------
 
 .. figure:: ../../img/ige/allgemein/toolbar.png
+   :alt: Symbolleiste
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -236,6 +254,7 @@ Hier im Einzelnen die zur Verfügung stehenden Werkzeuge:
 
 
 .. figure:: ../../img/ige/allgemein/toolbar_submenue.png
+   :alt: Symbolleiste - Untermenü für Kopieren / Verschieben
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -247,6 +266,7 @@ Der getCapabilities Assistent
 -----------------------------
 
 .. figure:: ../../img/ige/allgemein/assistent.png
+   :alt: Symbolleiste -  getCapabilities-Assistent
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -269,6 +289,7 @@ Je nach gewähltem Datensatztyp werden in der Erfassungsmaske des InGrid-Editors
 Über den Schalter "Alle" oben rechts im grauen Bereich können weitere optionale Felder eingeblendet werden.
 
 .. figure:: ../../img/ige/allgemein/alle.png
+   :alt: Schalter für das Ein- und Ausblenden
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -284,6 +305,7 @@ Ordner-Navigation
 Im grauen Bereich der Erfassungsmaske befindet sich die Ordner-Navigation, die dem Benutzer anzeigt, in welcher Ordner-Ebene er sich gerade befindet.
 
 .. figure:: ../../img/ige/allgemein/ordner-navigation.png
+   :alt: Ordner-Navigation
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -296,6 +318,7 @@ Sprungmarken
 Unter dem Titel des Datensatzes (ebenfalls im grauen Bereich) sind Sprungmarken zu finden, mit deren Hilfe Benutzer schnell zu verschiedenen Abschnitten der Erfassungsmaske springen können, ohne lange scrollen zu müssen.
 
 .. figure:: ../../img/ige/allgemein/sprungmarken.png
+   :alt: Sprungmarken
    :align: left
    :scale: 100
    :figwidth: 100%
@@ -309,6 +332,7 @@ Eingabefelder
 Im InGrid Editor stehen eine Vielzahl an Feldern zur Verfügung, doch nicht alle Felder müssen zwingend ausgefüllt werden. Jeder Metadatensatz oder jede Adresse hat jedoch Pflichtfelder, die unbedingt ausgefüllt werden müssen. Ohne die Befüllung dieser Pflichtfelder ist das Abspeichern des Datensatzes nicht möglich. Diese Pflichtfelder sind durch ein Sternchen gekennzeichnet. 
 
 .. figure:: ../../img/ige/allgemein/felder.png
+   :alt: Pflichtfelder
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -326,11 +350,12 @@ Zum Füllen von Textfeldern klicken Sie in das Feld. Zum Vergrößern des Feldes
 
 
 .. figure:: ../../img/ige/allgemein/feldtyp_textfeld.png
+   :alt: Feldtyp - Textfeld
    :align: left
    :scale: 70
    :figwidth: 100%
 
-Abb.:  Feldtyp - Textfeld
+Abb.:  
 
 In Textfeldern dürfen die folgenden HTML-Tags verwendet werden:
 <b></b>, <i></i>, <u></u>, <p></p>, <br> </br>, <strong></strong>, <ul></ul>, <ol></ol>, <li></li>
@@ -347,6 +372,7 @@ Auswahl-Listen können über den Pfeil auf der rechten Seite des Feldes aufgekla
 
 
 .. figure:: ../../img/ige/allgemein/feldtyp_auswahl.png
+   :alt: Feldtyp - Auswahllisten und Datumsangabe
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -361,6 +387,7 @@ Im InGrid Editor gibt es zwei Speicheroptionen: "Speichern" speichert den bearbe
 
 
 .. figure:: ../../img/ige/allgemein/speichern.png
+   :alt: Speichern
    :align: left
    :scale: 100
    :figwidth: 100%
@@ -372,6 +399,7 @@ Mit dem abschließenden "VERÖFFENTLICHEN" werden die Daten für das Internet fr
 
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichen.png
+   :alt: Veröffentlichen
    :align: left
    :scale: 100
    :figwidth: 100%
@@ -382,6 +410,7 @@ Abb.: Veröffentlichen
 Um den Vorgang "Veröffentlichen" zu ermöglichen, müssen alle Pflichtfelder ausgefüllt werden. Fehlen notwendige Angaben, erscheint beim Betätigen des Buttons "Veröffentlichen" eine Fehlermeldung und die Überschriften der fehlenden Felder werden rot angezeigt. 
 
 .. figure:: ../../img/ige/allgemein/fehler_felder-korrekt-ausfuellen.png
+   :alt: Hinweis
    :align: left
    :scale: 60
    :figwidth: 100%
@@ -392,6 +421,7 @@ Um trotz der Fehlermeldung die Bearbeitung zu sichern, wählen Sie die Funktion 
 
 
 .. figure:: ../../img/ige/allgemein/meldungen_ein-eintrag-erwartet.png
+   :alt: Hinweis am Feld
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -405,6 +435,7 @@ Zeitgesteuerte Veröffentlichung
 -------------------------------
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichen.png
+   :alt: VERÖFFENTLICHEN
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -413,6 +444,7 @@ Abb.: VERÖFFENTLICHEN
 
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichung_planen.png
+   :alt: Dialogfenster - Auswahl für Veröffentlichungsvarianten
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -422,6 +454,7 @@ Abb.: Dialogfenster - Auswahl für Veröffentlichungsvarianten
 
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichung-planen-kalender.png
+   :alt: Dialogfenster - Auswahl für Veröffentlichungsdatum
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -432,6 +465,7 @@ Das Veröffentlichungsdatum wird danach im Kopfbereich des Datensatzes angezeigt
 
 
 .. figure:: ../../img/ige/allgemein/anzeige-veroeffentlichung.png
+   :alt: Kopfbereich der Eingabemaske - Anzeige des Veröffentlichungsdatums
    :align: left
    :scale: 90
    :figwidth: 100%
@@ -448,6 +482,7 @@ Rechts neben VERÖFFENTLICHEN befindet sich der Button für verschiedene Optione
 
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichung_planen.png
+   :alt: Fenster mit Optionen für die Veröffentlichung
    :align: left
    :scale: 60
    :figwidth: 100%
@@ -461,6 +496,7 @@ Option: "Jetzt veröffentlichen"
 Der Button "Veröffentlichen" und die Option "Jetzt veröffentlichen" haben dieselbe Funktionalität.
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichung.png
+   :alt: Dialogfenster - Auswahl für Veröffentlichungsvarianten
    :align: left
    :scale: 80
    :figwidth: 100%
@@ -469,6 +505,7 @@ Abb.: Dialogfenster - Auswahl für Veröffentlichungsvarianten
 
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichen_meldung.png
+   :alt: Meldung: Das Dokument wurde veröffentlicht
    :align: left
    :scale: 100
    :figwidth: 100%
@@ -482,6 +519,7 @@ Option: "Veröffentlichung planen"
 Datensätze können in Zukunft veröffentlicht werden. Nach der Validierung wird beim Veröffentlichen das Dialogfenster "Veröffentlichen" angezeigt, in dem das zukünftige Veröffentlichungsdatum "VERÖFFENTLICHUNG PLANEN" ausgewählt werden kann. Im Anschluss öffnet sich ein weiteres Fenster mit der Kalenderfunktion "Veröffentlichen planen", in dem das Veröffentlichungsdatum gewählt werden kann.
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichen_planen.png
+   :alt: Funktion Veröffentlichung planen
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -490,6 +528,7 @@ Abb.: Funktion Veröffentlichung planen - Angabe eines Datums
 
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichen_planen_meldung.png
+   :alt: Meldung für die geplante Veröffentlichung
    :align: left
    :scale: 100
    :figwidth: 100%
@@ -498,6 +537,7 @@ Abb.: Meldung für die geplante Veröffentlichung
 
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichung_abgebrochen.png
+   :alt: Meldung für: VERÖFFENTLICHUNG ABBRECHEN UND DATENSATZ BEARBEITEN
    :align: left
    :scale: 100
    :figwidth: 100%
@@ -512,6 +552,7 @@ Wenn ein Metadatensatz veröffentlicht und danach geändert und gespeichert wurd
 
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichung_auf-letzte-veroeffentlichung-zuruecksetzen.png
+   :alt: Auf letzte Veröffentlichung zurücksetzen
    :align: left
    :scale: 100
    :figwidth: 100%
@@ -525,6 +566,7 @@ Option: "Veröffentlichung zurückziehen"
 Für diese Option müssen in den Bundesländern Regelungen getroffen werden, die festlegen, wann veröffentlichte Datensätze zurückgezogen werden dürfen.
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichung_zurueckziehen.png
+   :alt: Abfrage ob die Veröffentlichung wirklich zurückgezogen werden soll
    :align: left
    :scale: 80
    :figwidth: 100%
@@ -533,6 +575,7 @@ Abb.: Abfrage ob die Veröffentlichung wirklich zurückgezogen werden soll
 
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichung_zurueckgezogen.png
+   :alt: Die Veröffentlichung für diesen Datensatz wurde zurückgezogen.
    :align: left
    :scale: 100
    :figwidth: 100%
@@ -545,6 +588,7 @@ Metadaten anzeigen
 ------------------
 
 .. figure:: ../../img/ige/allgemein/kopf_metadaten-anzeigen.png
+   :alt: Metadaten - Menü für Metainformationen anzeigen
    :align: left
    :scale: 100
    :figwidth: 100%
@@ -553,6 +597,7 @@ Abb.: Metadaten - Menü für Metainformationen anzeigen
 
 
 .. figure:: ../../img/ige/allgemein/kopf_metadaten-ansicht.png
+   :alt: Metadaten - Metainformationen  - Metadaten
    :align: left
    :scale: 100
    :figwidth: 100%
@@ -566,6 +611,7 @@ Ordner/Metadaten verschieben
 Wenn ein Ordner oder ein Metadatensatz in der Ordnerstruktur angeklickt wird, während die Steuerungstaste (STRG) gedrückt wird, erscheinen Kontrollkästchen vor den jeweiligen Ordnern oder Metadaten. Der Ordner oder Metadatensatz kann dann mit einem Haken markiert werden und durch Ziehen mit der linken Maustaste innerhalb der Ordnerstruktur verschoben werden. 
 
 .. figure:: ../../img/ige/allgemein/auswahl_ordner_drag-drop.png
+   :alt: Auswahl - per Drag and Drop verschieben
    :align: left
    :scale: 90
    :figwidth: 100%
@@ -576,6 +622,7 @@ Abb.: Auswahl - per Drag and Drop verschieben
 Die markierten Ordner und Metadaten können auch über das Symbol in der Symbolleiste verschoben oder kopiert werden.
 
 .. figure:: ../../img/ige/allgemein/auswahl_verschieben-kopieren.png
+   :alt: Verschieben / Kopieren
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -585,6 +632,7 @@ Abb.: Verschieben / Kopieren
 Dies funktioniert auch mit aktiviertem Kontrollkästchen "Auswahl" unterhalb der Symbolleiste. Dann erscheinen Kontrollkästchen für die Auswahl vor den Ordnern und Metadaten. 
 
 .. figure:: ../../img/ige/allgemein/auswahl.png
+   :alt: Kontrollkästchen Auswahl
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -593,6 +641,7 @@ Abb.: Kontrollkästchen "Auswahl"
 
 
 .. figure:: ../../img/ige/allgemein/auswahl_metadaten.png
+   :alt: Auswahl - Kontrollkästchen
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -604,6 +653,7 @@ Bei aktiviertem Kontrollkästchen "Auswahl" erscheint das Wort "Alle". Wenn hier
 
 
 .. figure:: ../../img/ige/allgemein/auswahl_alle.png
+   :alt: Auswahl - Kontrollkästchen  für Alle
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -615,6 +665,7 @@ Zur Beendigung der Auswahl muss das Kreuz im Kontrollkästchen unterhalb der Sym
 
 
 .. figure:: ../../img/ige/allgemein/auswahl_beenden.png
+   :alt: Auswahl - Beenden
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -631,6 +682,7 @@ Wenn der Editor für eine längere Zeit (30 Minuten) nicht genutzt wird, läuft 
 .. hint:: Wenn Sie aus dem Editor ausgeloggt wurden, laden Sie die Login-Seite neu (Taste F5), sonst erhalten Sie bei einem erneuten Login-Versuch die Meldung: „Sie haben zu lange gebraucht, um sich anzumelden. Bitte versuchen Sie es erneut.“
 
 .. figure:: ../../img/ige/allgemein/editor_countdown.png
+   :alt: Countdown für den Logout
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -639,6 +691,7 @@ Abb.: Countdown für den Logout und "Session-refresh-Button"
 
 
 .. figure:: ../../img/ige/allgemein/fehler_timeout.png
+   :alt: Meldung - Besuchszeit abgelaufen
    :align: left
    :scale: 60
    :figwidth: 100%
@@ -656,6 +709,7 @@ Soll der InGrid Editor beendet werden, müssen Sie auf der Seite oben rechts den
 
 
 .. figure:: ../../img/ige/allgemein/abmeldung.png
+   :alt: Profilverwaltung
    :align: left
    :scale: 50
    :figwidth: 100%

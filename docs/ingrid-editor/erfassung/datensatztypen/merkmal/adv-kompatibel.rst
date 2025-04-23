@@ -1,7 +1,7 @@
 
-----------------------
-Option: AdV kompatibel
-----------------------
+------------------------
+Merkmal: AdV kompatibel
+------------------------
 
 AdV - Bedeutung
 ^^^^^^^^^^^^^^^
@@ -16,23 +16,25 @@ AdV: Arbeitsgemeinschaft der Vermessungsverwaltungen
 Erfassung
 ^^^^^^^^^
 
-Option: AdV kompatibel
+Merkmal: AdV kompatibel
 """""""""""""""""""""""
 
 Mit der Aktivierung der Option "AdV kompatibel", wird die Kompatibilität der Metadaten mit dem Metadatenprofil der Arbeitsgemeinschaft der Vermessungsverwaltungen (AdV) sichergestellt. 
 
 Die Metadaten werden über die CSW-Schnittstelle an das `Metainformationssystem (MIS) <https://advmis.geodatenzentrum.de/>`_ der AdV abgegeben.
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkbox_typ_adv-kompatibel.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmale/merkmal_adv-kompatibel.png
+   :alt: Merkmal AdV kompatibel
    :align: left
-   :scale: 90
+   :scale: 70
    :figwidth: 100%
 
-Abb.: Option: AdV kompatibel
+Abb.: Merkmal AdV kompatibel
 
 Durch die Aktivierung der Option "AdV kompatibel" wird das Schlüsselwort "AdVMIS" im ISO-XML gesetzt.
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/adv-kompatibel/iso-xml-keyword-advmis.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmal_beschreibung/adv-kompatibel/iso-xml-keyword-advmis.png
+   :alt: Schlüsselwort: AdVMIS
    :align: left
    :scale: 60
    :figwidth: 100%
@@ -52,7 +54,8 @@ Folgende Eigenschaften ändern sich bei der Aktivierung der Option "AdV kompatib
 Abschnitt Verschlagwortung
 """"""""""""""""""""""""""
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/adv-kompatibel/verschlagwortung_adv-produktgruppe.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmale_beschreibung/adv-kompatibel/verschlagwortung_adv-produktgruppe.png
+   :alt: AdV-Produktgruppe
    :align: left
    :scale: 100
    :figwidth: 100%
@@ -60,11 +63,3 @@ Abschnitt Verschlagwortung
 Abb.: Tabelle "AdV-Produktgruppe" - (Pflichtangaben)
 
 `Auswahlliste - AdV-Produktgruppe <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/auswahllisten/auswahlliste_verschlagwortung_adv_produktgruppe.html>`_
-
-
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/adv-kompatibel/iso-xml-keyword-advmis.png
-   :align: left
-   :scale: 50
-   :figwidth: 100%
-
-Abb.: ISO-XML - Angabe des Schlüsselwortes "AdVMIS"

@@ -15,19 +15,21 @@ Der Datensatztyp "Datenbank" beschreibt gemessene, aufbereitete oder erhobene Da
 
 -----------------------------------------------------------------------------------------------------------------------
 
-Feld: Typ
-^^^^^^^^^
 
-Unter Typ können weitere Eigenschaften (Eingabefelder) für den Metadatensatz definiert werden.
+Abschnitt Merkmale
+------------------
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/hamburg/checkboxen/hmdk_checkboxen_opendata-hmbtg.png
+Unter Merkmale können weitere Eigenschaften (Eingabefelder) für den Metadatensatz aktiviert werden.
+
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/merkmale/merkmale_datenbank.png
+   :alt: Mögliche Merkmale für Datensatztyp Datenbank
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
-Abb.: Optionen für weitere Eigenschaften
+Abb.: Mögliche Merkmale für Datensatztyp Datenbank
 
-.. seealso:: Optionen: `Open Data | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/hamburg/opendata.html>`_ `Veröffentlichung gemäß HmbTG <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/hamburg/hmbtg.html>`_
+.. seealso:: Beschreibungen der Option: `Open Data <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/merkmal/opendata.html>`_
 
 -----------------------------------------------------------------------------------------------------------------------
 
@@ -39,6 +41,7 @@ Feld: Objektartenkatalog
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_datenbank/fachbezug_objektartenkatalog.png
+   :alt: Tabelle - Objektartenkatalog
    :align: left
    :scale: 90
    :figwidth: 100%
@@ -54,6 +57,7 @@ Feld: Inhalte der Datensammlung/Datenbank
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_datenbank/fachbezug_inhalt.png
+   :alt: Felder für Inhalte der Datensammlung/Datenbank
    :align: left
    :scale: 90
    :figwidth: 100%
@@ -81,6 +85,7 @@ Feld: Methode / Datengrundlage
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_datenbank/fachbezug_methode.png
+   :alt: Tabelle - Methode/Datengrundlage
    :align: left
    :scale: 90
    :figwidth: 100%
@@ -96,6 +101,7 @@ Feld: Erläuterungen
 ^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_datenbank/fachbezug_erlaeuterungen.png
+   :alt: Textfeld - Erläuterungen
    :align: left
    :scale: 90
    :figwidth: 100%

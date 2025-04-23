@@ -23,24 +23,22 @@ ISO 19115 definiert einen international gültigen Standard zur Beschreibung von 
 -----------------------------------------------------------------------------------------------------------------------
 
 
-Erweiterte Datenerfassung
--------------------------
+Abschnitt Merkmale
+------------------
 
-Feld: Typ
-^^^^^^^^^^
-
-Unter Typ können weitere Eigenschaften (Eingabefelder) für den Metadatensatz definiert werden.
+Unter Merkmale können weitere Eigenschaften (Eingabefelder) für den Metadatensatz aktiviert werden.
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/hamburg/checkboxen/hmdk_checkboxen.png
+   :alt: Merkmale für Datensatztyp Geodatensatz
    :align: left
    :scale: 80
    :figwidth: 100%
 
-Abb.: Optionen für weitere Eigenschaften
+Abb.: Mögliche Merkmale für Datensatztyp Geodatensatz
 
-.. seealso:: Optionen: `INSPIRE-relevant | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/option/inspire-relevant.html>`_ `AdV kompatibel | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/option/adv-kompatibel.html>`_ `Open Data | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/hamburg/opendata.html>`_ `Veröffentlichung gemäß HmbTG <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/hamburg/hmbtg.html>`_
+Wählen Sie den entsprechenden **Datentyp** aus, der mit Metadaten beschrieben werden soll.
 
-
+.. seealso:: Beschreibungen der Merkmale: `INSPIRE-relevant | <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/merkmal/inspire-relevant.html>`_ `InVekosS | <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/merkmal/invekos.html>`_ `Open Data | <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/merkmal/opendata.html>`_ `High-Value- Dataset | <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/merkmal/high-value-dataset.html>`_ `AdV kompatibel <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/merkmal/adv-kompatibel.html>`_ 
 
 Feld: InVeKoS
 ^^^^^^^^^^^^^
@@ -91,6 +89,7 @@ Die Auswahl erfolgt über die vorgegebene Auswahlliste.
 `Auswahlliste - ISO 19115 Themenkategorien <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/auswahllisten/auswahlliste_verschlagwortung_iso-themenkategorie.html>`_
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/verschlagwortung_iso-themenkategorie.png
+   :alt: Auswahlfeld ISO Themenkategorie
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -133,6 +132,7 @@ ATKIS Basis-DLM der Länder, der Digitalen Topographischen Karte 1:200 000 (DTK2
 
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_fachliche-grundlage.png
+   :alt: Eingabefeld Fachliche Grundlage
    :align: left
    :scale: 90
    :figwidth: 100%
@@ -160,6 +160,7 @@ Beispiel:
 
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_identifikator_01.png
+   :alt: Feld Identifikator der Datenquelle
    :align: left
    :scale: 100
    :figwidth: 100%
@@ -177,6 +178,7 @@ Auswahlliste: Raster, Gitter, Stereomodell, Text, Tabelle, TIN, Vektor, Video
 
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_digitale-repaesentation.png
+   :alt: Auswahlfeld Digitale Repräsentation
    :align: left
    :scale: 100
    :figwidth: 100%
@@ -192,6 +194,7 @@ Auswahl: Vektor
 ^^^^^^^^^^^^^^^
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_digitale-repaesentation_vektor.png
+   :alt: Auswahl Vektor
    :align: left
    :scale: 100
    :figwidth: 100%
@@ -205,6 +208,7 @@ Felder: Topologieinformation
 .. hint:: Diese Felder sind nur aktiv, wenn im Feld "Digitale Repräsentation" die Option "Vektor" gewählt wurde.
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_digitale-repaesentation_vektor_topologie.png
+   :alt: Felder für Topologieinformationen
    :align: left
    :scale: 100
    :figwidth: 100%
@@ -233,6 +237,7 @@ Angabe des Erstellungsmaßstabes, der sich auf die erstellte Karte und/oder Digi
 Beispiel: Bodenauflösung: Auflösungseinheit in Linien/cm; Einheit: z.B. 1 cm geteilt durch 400 Linien multipliziert mit dem Maßstab 1:25.000 ergibt 62,5 cm als Bodenauflösung
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_erstellungsmassstab.png
+   :alt: Feld Erstellungsmaßstab
    :align: left
    :scale: 100
    :figwidth: 100%
@@ -247,6 +252,7 @@ Geodatensätze können mit Geodatendiensten gekoppelt werden. Das heißt, dass i
 Die Kopplung der Daten erfolgt in einem Geodatendienst. Der gekoppelte Dienst wird in der Eingabemaske des Geodatensatzes angezeigt.
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_darstellender-dienst.png
+   :alt: Feld Darstellender Dienst
    :align: left
    :scale: 80
    :figwidth: 100%
@@ -260,6 +266,7 @@ Feld: Datengrundlage
 Angabe der Unterlagen (Luftbilder, Karten, Datensammlungen), die zur Erstellung der Karte oder der Geoinformation (des digitalen Datenbestands) verwendet wurden.
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_datengrundlage.png
+   :alt: Feld Datengrundlage
    :align: left
    :scale: 90
    :figwidth: 100%
@@ -273,6 +280,7 @@ Feld: Herstellungsprozess
 Angabe der Methode, die zur Erstellung des Datenobjektes geführt hat. Der Eintrag kann in Textform erfolgen, indem die Registerkarte "Text" ausgewählt wird.
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_herstellungsprozess.png
+   :alt: Feld Herstellungsprozess
    :align: left
    :scale: 90
    :figwidth: 100%
@@ -288,6 +296,7 @@ Für die Darstellung von normierten Objekten und Sachverhalten können für die 
 Beispiel: Planzeichenverordnung, Datum 03.08.2023, Version 6.0
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_symbolkatalog.png
+   :alt: Feld Symbolkatalog
    :align: left
    :scale: 90
    :figwidth: 100%
@@ -303,6 +312,7 @@ Hier können die den Daten zugrunde liegenden Klassifikationsschlüssel benannt 
 Beispiel: Biotoptypenschlüssel, Datum 03.08.2023, Version 6.0
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_schluesselkatalog.png
+   :alt: Feld Schlüsselkatalog
    :align: left
    :scale: 90
    :figwidth: 100%
@@ -316,11 +326,12 @@ Feld: Sachdaten/Attributinformation
 Angabe der mit der Geoinformation/Karte verbundenen Sachdaten. Bei Bedarf kann hier eine Auflistung der Attribute des Datensatzes erfolgen. Die hauptsächliche Verwendung dieses Feldes ist für digitale Geoinformationen vorgesehen.
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/fachbezug_sachdaten-attributinformation.png
+   :alt: Feld Schlüsselkatalog
    :align: left
    :scale: 80
    :figwidth: 100%
  
-Abb.: Feld Sachdaten/Attributinformation - Beispiel: Baumkartei
+Abb.: Feld Schlüsselkatalog - Beispiel: Baumkartei
 
 .. hint:: Mit einem Eintrag unter Sachdaten/Attributinformation werden die Eingabefelder für den Schlüsselkatalog zu Pflichtfeldern. Bitte geben Sie dort den Schlüsselkatalog an, in dem das eingetragene Attribut verzeichnet ist.
 
@@ -346,6 +357,7 @@ Feld: Zeichensatz des Datensatzes
 Angabe des Zeichensatzes, der in dem beschriebenen Datensatz verwendet wird, z. B. UTF-8.
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/zusatzinformation_zeichensatz.png
+   :alt: Feld Zeichensatz des Datensatzes
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -362,17 +374,18 @@ Hier kann angegeben werden, mit welcher Spezifikation die beschriebenen Daten ko
 
 Wenn die zu beschreibenden Daten INSPIRE-relevant sind, muss die zutreffende Durchführungsbestimmung der INSPIRE-Richtlinie angegeben werden (INSPIRE-Pflichtfeld).
 
-Beschreibung unter der Option: `INSPIRE-relevant <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/option/inspire-relevant.html>`_
+Beschreibung unter dem Merkmal: `INSPIRE-relevant <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/merkmal/inspire-relevant.html>`_
 
 Dieses Feld wird automatisch ausgefüllt, wenn Einträge unter "INSPIRE-Themen" oder "Art des Dienstes" vorgenommen werden. Lediglich der "Konformitätsgrad" muss manuell angepasst werden.
 
 .. hint:: Bei Aktivierung des Kontrollkästchens "AdV-kompatibel" bitte gemäß den Empfehlungen des AdV-Metadatenprofils nur die Werte "konform" und "nicht konform" für "Grad der Konformität" verwenden.
 
-Beschreibung unter der Option: `AdV kompatibel <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/option/adv-kompatibel.html>`_
+Beschreibung unter dem Merkmal: `AdV kompatibel <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/merkmal/adv-kompatibel.html>`_
 
 Das Feld "geprüft mit" ist im Editor eine optionale Angabe, laut der ISO ist es aber verpflichtend.
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/zusatzinformation_konformitaet.png
+   :alt: Feld Konformität
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -380,6 +393,7 @@ Das Feld "geprüft mit" ist im Editor eine optionale Angabe, laut der ISO ist es
 Abb.: Feld Konformität
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/datensatztyp_geodatensatz/zusatzinformation_konformitaet-spezifikation.png
+   :alt: Feld Konformität - Spezifikation
    :align: left
    :scale: 70
    :figwidth: 100%

@@ -6,6 +6,7 @@ Adressen erfassen
 Für eine effiziente Adressverwaltung empfiehlt es sich, hierarchische Strukturen aufzubauen, so dass erkennbar wird, welchem Referat bzw. welchem Fachbereich innerhalb welcher Institution der jeweilige Ansprechpartner angehört. Für Personen, die keiner Institution zugeordnet werden können, besteht die Möglichkeit, diese im Adress-Strukturbaum unterhalb des Bereiches "Freie Adressen" anzulegen. 
 
 .. figure:: ../../img/ige/adressen/struktur.png
+   :alt: Anlegen einer Adressstruktur
    :align: left
    :scale: 100
    :figwidth: 100%
@@ -21,6 +22,7 @@ Ordner/Adresse anlegen
 Im Strukturbaum den entsprechenden Ordner oder eine vorhandene Adresse auswählen. In der Symbolleiste auf das entsprechende Symbol klicken "Neue Adresse anlegen" oder "Ordner erstellen". Für die Strukturierung der Adressdaten kann zwischen Adresstypen "Organisation" und "Person" gewählt werden.
 
 .. figure:: ../../img/ige/adressen/anlegen.png
+   :alt: Auswahl der Adresstypen
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -28,6 +30,7 @@ Im Strukturbaum den entsprechenden Ordner oder eine vorhandene Adresse auswähle
 Abb.: Auswahl der Adresstypen
 
 .. figure:: ../../img/ige/adressen/typ-waehlen.png
+   :alt: Adresstypen
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -39,6 +42,7 @@ Nach Auswahl des Adresstyps erscheint die Eingabemaske für die  Adresse rechts 
 Standardmäßig werden zunächst nur die Pflichtfelder angezeigt. Neben den verpflichtenden Angaben (Bezeichnung / Name, Kontakt) können weitere Adressangaben (Anschrift, usw.) gespeichert werden. Durch einen Klick auf "+ HINZUFÜGEN", können weitere Kommunikationsmöglichkeiten eingetragen werden.
 
 .. figure:: ../../img/ige/adressen/eingabemaske.png
+   :alt: Eingabemaske für Adressen
    :align: left
    :scale: 100
    :figwidth: 100%
@@ -47,6 +51,7 @@ Abb.: Eingabemaske für Adressen
 
 
 .. figure:: ../../img/ige/adressen/organisation-anlegen.png
+   :alt: Eingabefenster für die Wahl des Adresstyps
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -55,6 +60,7 @@ Abb.: Eingabefenster für die Wahl des Adresstyps
 
 
 .. figure:: ../../img/ige/adressen/anrede.png
+   :alt: Auswahlfeld Anrede
    :align: left
    :scale: 40
    :figwidth: 100%
@@ -63,17 +69,19 @@ Abb.: Auswahlfeld Anrede
 
 
 .. figure:: ../../img/ige/adressen/titel.png
+   :alt: Auswahlfeld Titel
    :align: left
    :scale: 40
    :figwidth: 100%
 
-Abb.: Auswahlfeld Titel
+Abb.: 
 
 
 .. hint:: Das Feld "Kontakt" ist ein Pflichtfeld und muss ausgefüllt werden. Es ist erforderlich, mindestens eine E-Mail-Adresse anzugeben. Fehlt diese Angabe, kann die Adresse zwar gespeichert werden, bei der Veröffentlichung kommt es jedoch zu folgender Fehlermeldung:
  
 
 .. figure:: ../../img/ige/meldungen/felder-korrekt-ausfuellen.png
+   :alt: Hinweis
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -87,6 +95,7 @@ Soll ein vorhandener Eintrag unter Kommunikation entfernt werden, ist es erforde
 
 
 .. figure:: ../../img/ige/adressen/eingabefelder-loeschen.png
+   :alt: Zeile löschen
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -98,6 +107,7 @@ Abb.: Zeile löschen
 
 
 .. figure:: ../../img/ige/adressen/uebergeordnete-organisation-verwenden.png
+   :alt: Kontrollkästchen - für Anzeige Daten der übergeordneten Organisation verwenden
    :align: left
    :scale: 90
    :figwidth: 100%
@@ -111,6 +121,7 @@ Abb.: Checkbox - für Anzeige Daten der übergeordneten Organisation verwenden
 Am Ende des Adressformulars befindet sich der Bereich "Zugeordnete Datensätze". Über den Button "ANZEIGEN" werden alle Metadatensätze aufgelistet, die mit diesem Adressdatensatz verknüpft sind.
 
 .. figure:: ../../img/ige/adressen/zugeordnete-datensaetze_anzeigen.png
+   :alt: Zugeordnete Datensätze anzeigen
    :align: left
    :scale: 80
    :figwidth: 100%
@@ -119,6 +130,7 @@ Abb: Zugeordnete Datensätze anzeigen
 
 
 .. figure:: ../../img/ige/adressen/zugeordnete-datensaetze.png
+   :alt: Zugeordnete Datensätze
    :align: left
    :scale: 100
    :figwidth: 100%
@@ -129,6 +141,7 @@ Sind alle erforderlichen Felder ausgefüllt, kann die Adresse mit dem Button "VE
 
 
 .. figure:: ../../img/ige/adressen/veroeffentlichen.png
+   :alt: Veröffentlichen
    :align: left
    :scale: 60
    :figwidth: 100%
@@ -145,6 +158,7 @@ Wenn versucht wird, einen Ordner/Adressdatensatz zu löschen, dem weitere Adress
 
 
 .. figure:: ../../img/ige/adressen/ordner-adressen-loeschen.png
+   :alt: Fehlermeldung - Adresse löschen mit Unteradressen
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -155,6 +169,7 @@ Abb: Fehlermeldung - Adresse löschen mit Unteradressen
 
 
 .. figure:: ../../img/ige/adressen/loeschen.png
+   :alt: Hinweis zum Löschen des Adressdatensatzes
    :align: left
    :scale: 80
    :figwidth: 100%
@@ -165,6 +180,7 @@ Wenn ein Adressdatensatz gelöscht werden soll und dieser noch mit (Meta-)Datens
 
 
 .. figure:: ../../img/ige/adressen/ersetzen.png
+   :alt: Adresse ersetzen
    :align: left
    :scale: 90
    :figwidth: 100%
