@@ -44,14 +44,14 @@ Feld: Typ
 
 Unter Typ können weitere Eigenschaften (Eingabefelder) für den Metadatensatz definiert werden.
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/hmdk_checkboxen.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/hamburg/checkboxen/hmdk_checkboxen.png
    :align: left
    :scale: 80
    :figwidth: 100%
 
 Abb.: Optionen für weitere Eigenschaften
 
-.. seealso:: Optionen: `INSPIRE-relevant | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/option/inspire-relevant.html>`_ `AdV kompatibel | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/option/adv-kompatibel.html>`_ `Open Data | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/option/opendata.html>`_ `Veröffentlichung gemäß HmbTG <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/option/hmbtg.html>`_
+.. seealso:: Optionen: `INSPIRE-relevant | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/option/inspire-relevant.html>`_ `AdV kompatibel | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/option/adv-kompatibel.html>`_ `Open Data | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/hamburg/opendata.html>`_ `Veröffentlichung gemäß HmbTG <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/hamburg/hmbtg.html>`_
 
 -----------------------------------------------------------------------------------------------------------------------
 
@@ -67,7 +67,7 @@ Abschnitt Verschlagwortung
 
 .. hint:: Dieser Abschnitt ist unter `Metadaten erfassen <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/erfassung-metadaten.html>`_ beschrieben.
 
-.. seealso:: Beschreibungen der Optionen: `INSPIRE-relevant | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/option/inspire-relevant.html>`_ `AdV-kompatibel | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/option/adv-kompatibel.html>`_ `Open Data <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/option/opendata.html>`_
+.. seealso:: Beschreibungen der Optionen: `INSPIRE-relevant | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/option/inspire-relevant.html>`_ `AdV-kompatibel | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/option/adv-kompatibel.html>`_ `Open Data <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/hamburg/opendata.html>`_
 
 .. `(InVeKoS) <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/option/invekos.html>`_
 

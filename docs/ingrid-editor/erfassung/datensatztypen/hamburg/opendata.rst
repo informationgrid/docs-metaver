@@ -33,7 +33,7 @@ Option: Open Data
 .. hint:: Es gibt Datensätze, die nicht unter das Transparenzgesetz fallen, aber freiwillig nach Open Data (GovData) veröffentlicht werden können. Bei diesen Objekten sollte im InGrid-Editor nur die Checkbox „Open Data“ angehakt werden. Die Checkbox „Veröffentlichung gemäß HmbTG“ muss deaktiviert sein.
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/hmdk_checkbox-opendata.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/hamburg/open-data/hmdk_checkbox-opendata.png
    :align: left
    :scale: 90
    :figwidth: 100%
@@ -42,7 +42,7 @@ Abb.: Option: Open Data
 
 Wird die Checkbox „Open Data“ aktiviert, erscheint diese Meldung und es werden folgende Felder automatisch zum Pflichtfeld:
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/hmdk_opendata-hinweis.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/hamburg/open-data/hmdk_opendata-hinweis.png
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -51,7 +51,7 @@ Abb.: Fenster - Hinweis
 
 Durch die Aktivierung der Option "Open Data" wird das Schlüsselwort "opendata" im ISO-XML gesetzt.
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/iso-xml-opendata.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/hamburg/open-data/iso-xml-opendata.png
    :align: left
    :scale: 60
    :figwidth: 100%
@@ -67,7 +67,7 @@ Folgende Eigenschaften ändern sich bei der Aktivierung der Option "Open Data":
  - Im Abschnitt „Verfügbarkeit“ muss in der Tabelle "Nutzungsbedingungen" eine Lizenz ausgewählt werden.
  - Im Abschnitt „Verweise“ muss ein Verweis vom Typ "Datendownload" eingegeben werden.
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/open-data_hinweis.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/hamburg/open-data/open-data_hinweis.png
    :align: left
    :scale: 80
    :figwidth: 100%
@@ -83,7 +83,7 @@ Abb.: Fenster - Hinweis
 1.1.1 Informationsgegenstand
 """"""""""""""""""""""""""""
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/hmdk_opendata-informationsgegenstand.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/hamburg/open-data/hmdk_opendata-informationsgegenstand.png
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -114,7 +114,7 @@ Die Tabelle "Kategorien" enthält eine Auswahlliste zur näheren Bestimmung des 
 `Auswahlliste der Open Data Kategorien <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/auswahllisten/auswahlliste_allgemeines_opendata-kategorien.html>`_
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/hmdk_opendata-kategorie-liste.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/hamburg/open-data/hmdk_opendata-kategorie-liste.png
    :align: left
    :scale: 80
    :figwidth: 100%
@@ -133,7 +133,7 @@ Die Veröffentlichung für Objekte, die für Open Data gekennzeichnet sind, müs
 
 Siehe drei Punkte Menü neben dem Titel
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/hmdk_opendata-veroeffentlichungsrecht-setzen.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/hamburg/open-data/hmdk_opendata-veroeffentlichungsrecht-setzen.png
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -141,7 +141,7 @@ Siehe drei Punkte Menü neben dem Titel
 Abb.: Feld - Veröffentlichungsrecht setzen
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/hmdk_opendata-veroeffentlichungsrecht.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/hamburg/open-data/hmdk_opendata-veroeffentlichungsrecht.png
    :align: left
    :scale: 90
    :figwidth: 100%
@@ -152,7 +152,7 @@ Abb.: Fenster - Veröffentlichungsrecht
 1.1.5 Nutzungsbedingungen
 """"""""""""""""""""""""""
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/hmdk_opendata-verfuegbarkeit.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/hamburg/open-data/hmdk_opendata-verfuegbarkeit.png
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -177,7 +177,7 @@ Das Feld „Zugriffsbeschränkungen“ wird jetzt nur noch mit „Es gelten kein
 1.1.6 Verweise vom Typ Datendownload
 """""""""""""""""""""""""""""""""""""
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/hmdk_opendata-verweise.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/hamburg/open-data/hmdk_opendata-verweise.png
    :align: left
    :scale: 80
    :figwidth: 100%
@@ -187,7 +187,7 @@ Abb.: Feld - Verweise
 Da über das Transparenzportal mindestens ein Bezug zu den echten Daten hergestellt werden sollte, muss im HMDK bei den betroffenen Objekten ebenfalls ein Verweis zum Download der eigentlichen Daten eingetragen werden. Aus diesem Grund wird bei Anhaken der Open Data Checkbox das Anlegen eines Verweises vom Typ „Datendownload“ Pflicht. Der Verweistyp wird im Dialog „Verweise Hinzufügen“ über die vorgegebene Liste ausgewählt.
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/hmdk_opendata-verweise-eintrag-bearbeiten.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/hamburg/open-data/hmdk_opendata-verweise-eintrag-bearbeiten.png
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -205,7 +205,7 @@ Bitte geben Sie an dieser Stelle das Format der eigentlichen Daten an. Handelt e
 Das keyword für Open Data ist „opendata“, es wird automatisch beim Anklicken der Checkbox „Open Data“ gesetzt. Es erscheint im Portal bei Schlagworte, sowie in der ISO im Element <gmd:keyword>
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/hmdk_opendata-keyword-opendata.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/hamburg/open-data/hmdk_opendata-keyword-opendata.png
    :align: left
    :scale: 90
    :figwidth: 100%
@@ -216,7 +216,7 @@ Abb.: XML Keyword - opendata
 Neben dem fest vorgegebenen Schlagwort „opendata“ wird zusätzlich das Kürzel des ausgewählten Informationsgegenstandes gesetzt (z.B. „hmbtg_09_geodaten“ für den Informationsgegenstand „Geodaten“).
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/open-data/hmdk_opendata-keyword-hmbtg_09_geodaten.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/hamburg/open-data/hmdk_opendata-keyword-hmbtg_09_geodaten.png
    :align: left
    :scale: 100
    :figwidth: 100%

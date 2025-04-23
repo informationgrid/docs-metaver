@@ -6,7 +6,7 @@ Option 2: Veröffentlichung gemäß HmbTG
 .. hint:: Metadaten die nur im Transparenzportal und nicht bei GovData veröffentlicht werden sollen, benötigen nur das Häkchen bei „Veröffentlichung gemäß HmbTG“.
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/hmbtg/hmdk_hmbtg-checkbox.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/hamburg/hmbtg/hmdk_hmbtg-checkbox.png
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -17,7 +17,7 @@ Abb.: Checkbox - Veröffentlichung gemäß HmbTG
 Nach dem erstmaligen Aktivieren erscheint die folgende Meldung, die Sie bitte jeweils mit „OK“ bestätigen.
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/hmbtg/hmdk_hmbtg-hinweis-checkbox.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/hamburg/hmbtg/hmdk_hmbtg-hinweis-checkbox.png
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -25,7 +25,7 @@ Nach dem erstmaligen Aktivieren erscheint die folgende Meldung, die Sie bitte je
 Abb.: Fenster - Hinweis zur Veröffentlichung im Hamburger Transparentportal
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/hmbtg/hmdk_hmbtg-hinweis-zugriffsbeschraenkungen.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/hamburg/hmbtg/hmdk_hmbtg-hinweis-zugriffsbeschraenkungen.png
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -41,7 +41,7 @@ Wird die Checkbox „Veröffentlichung gemäß HmbTG“ angehakt, werden folgend
 2.1.1. Informationsgegenstand
 """""""""""""""""""""""""""""
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/hmbtg/hmdk_hmbtg-informationsgegenstand.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/hamburg/hmbtg/hmdk_hmbtg-informationsgegenstand.png
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -65,7 +65,7 @@ Wird der Haken bei der Checkbox wieder entfernt, so werden automatisch auch die 
 2.1.3 Open Data Kategorie
 """""""""""""""""""""""""
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/hmbtg/hmdk_hmbtg-opendata-kategorie.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/hamburg/hmbtg/hmdk_hmbtg-opendata-kategorie.png
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -77,7 +77,7 @@ Abb.: Feld - Hinweis zu den Zugriffsbeschränkungen
 Die folgenden Kategorien stehen zur Verfügung:
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/hmbtg/hmdk_hmbtg-opendata-kategorie-liste.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/hamburg/hmbtg/hmdk_hmbtg-opendata-kategorie-liste.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -97,7 +97,7 @@ Die Veröffentlichung für Objekte, die für das Hamburger Transparenzportal gek
 Siehe drei Punkte Menü neben dem Titel
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/hmbtg/hmdk_hmbtg-veroeffentlichungsrecht-setzen.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/hamburg/hmbtg/hmdk_hmbtg-veroeffentlichungsrecht-setzen.png
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -105,7 +105,7 @@ Siehe drei Punkte Menü neben dem Titel
 Abb.: Veröffentlichungsrecht setzen
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/hmbtg/hmdk_hmbtg-veroeffentlichungsrecht.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/hamburg/hmbtg/hmdk_hmbtg-veroeffentlichungsrecht.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -116,7 +116,7 @@ Abb.: Fenster - Veröffentlichungsrecht
 2.1.5 Nutzungsbedingeungen
 """"""""""""""""""""""""""
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/hmbtg/hmdk_hmbtg-nutzungsbedingungen.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/hamburg/hmbtg/hmdk_hmbtg-nutzungsbedingungen.png
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -142,7 +142,7 @@ Das Feld „Zugriffsbeschränkungen“ wird jetzt nur noch mit „Es gelten kein
 2.1.6 Verweise vom Typ Datendownload
 """"""""""""""""""""""""""""""""""""
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/hmbtg/hmdk_hmbtg-verweise.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/hamburg/hmbtg/hmdk_hmbtg-verweise.png
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -153,7 +153,7 @@ Abb.: Feld - Verweise
 Da über das Hamburger Transparenzportal die echten Daten heruntergeladen werden sollen, muss im HMDK bei den HmbTG-Objekten ebenfalls ein Verweis zum Download der eigentlichen Daten eingetragen sein. Aus diesem Grund wird bei Anhaken der Checkbox „Veröffentlichung gemäß HmbTG“ das Anlegen eines Verweises vom Typ „Datendownload“ Pflicht. Der Verweistyp wird im Dialog „Verweis anlegen“ über die vorgegebene Liste ausgewählt. 
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/hmbtg/hmdk_hmbtg-verweise.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/hamburg/hmbtg/hmdk_hmbtg-verweise.png
    :align: left
    :scale: 70
    :figwidth: 100%
@@ -172,7 +172,7 @@ Bitte geben Sie an dieser Stelle das Format der eigentlichen Daten an. Handelt e
 Das keyword für Veröffentlichung gemäß HmbTG ist „hmbtg“, es wird automatisch beim Anklicken der Checkbox „Veröffentlichung gemäß HmbTG“ gesetzt. Es erscheint im Portal bei Schlagworte, sowie in der ISO im Element <gmd:keyword>
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/hmbtg/hmdk_hmbtg-keyword-hmbtg.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/hamburg/hmbtg/hmdk_hmbtg-keyword-hmbtg.png
    :align: left
    :scale: 50
    :figwidth: 100%
@@ -183,7 +183,7 @@ Abb.: XML Keyword - hmbtg
 Neben dem fest vorgegebenen Schlagwort „hmbtg“ wird zusätzlich das Kürzel des ausgewählten Informationsgegenstandes gesetzt (z.B. „hmbtg_09_geodaten“ für den Informationsgegenstand „Geodaten“).
 
 
-.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/hmbtg/hmdk_hmbtg-keyword-hmbtg_09_geodaten.png
+.. figure:: ../../../../img/ige/erfassung/ige_metadaten/datensatztypen/hamburg/hmbtg/hmdk_hmbtg-keyword-hmbtg_09_geodaten.png
    :align: left
    :scale: 50
    :figwidth: 100%
