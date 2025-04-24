@@ -29,8 +29,8 @@ Unter Merkmale können weitere Eigenschaften (Eingabefelder) für den Metadatens
 
 Abb.: Mögliche Merkmale für Datensatztyp Dokument
 
-.. seealso:: Beschreibungen der Option: `Open Data <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/merkmal/opendata.html>`_
-
+.. seealso:: Beschreibungen der Merkmale: `Open Data | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/hamburg/opendata.html>`_ `Gemäß HmbTG | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/hamburg/hmbtg.html>`_ 
+   
 -----------------------------------------------------------------------------------------------------------------------
 
 

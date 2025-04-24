@@ -53,7 +53,8 @@ Unter Merkmale können weitere Eigenschaften (Eingabefelder) für den Metadatens
 
 Abb.: Mögliche Merkmale für Datensatztyp Geodatendienst
 
-.. seealso:: Beschreibungen der Merkmale: `INSPIRE-relevant | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/merkmal/inspire-relevant.html>`_ `Open Data | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/hamburg/opendata.html>`_ `Gemäß HmbTG | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/hamburg/hmbtg.html>`_ `AdV-kompatibel <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/merkmal/adv-kompatibel.html>`_ 
+.. seealso:: Beschreibungen der Merkmale: `INSPIRE-relevant | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/merkmal/inspire-relevant.html>`_ `InVekosS | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/merkmal/invekos.html>`_ `Open Data | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/hamburg/opendata.html>`_ `Gemäß HmbTG | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/hamburg/hmbtg.html>`_ `High-Value- Dataset | <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/merkmal/high-value-dataset.html>`_ `AdV kompatibel <https://metaver-bedienungsanleitung.readthedocs.io/de/hmdk/ingrid-editor/erfassung/datensatztypen/merkmal/adv-kompatibel.html>`_ 
+
 
 -----------------------------------------------------------------------------------------------------------------------
 
