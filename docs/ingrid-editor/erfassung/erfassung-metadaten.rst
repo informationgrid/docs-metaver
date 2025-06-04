@@ -1155,4 +1155,4 @@ Der Abschnitt "Dateien" steht für die Datensatztypen "Geodatensatz", "Anwendung
    :scale: 80
    :figwidth: 100%
 
-   Abb.: Dateien hochladen Fenster
+   Abb.: Dateien hochladen Dialog
