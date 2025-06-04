@@ -1138,10 +1138,10 @@ Maschinenlesbarkeit von Formaten:
 | Gar nicht bis gering: PDF, DOC, DOCX, GIF, JPG, JPEG, PNG, TIFF, GeoTIFF, ODT
 
 
-Der Abschnitt „Dateien” steht für die Datensatztypen „Geodatensatz”, „Anwendung”, „Datenbank” und „Dokument” zur Verfügung. Es können beliebig viele Dateien hochgeladen werden. Nach dem Hinzufügen einer Datei können Sie die zugehörigen Informationen jederzeit mit einem Klick auf „.../Bearbeiten” ändern.
+Der Abschnitt "Dateien" steht für die Datensatztypen "Geodatensatz", "Anwendung", "Datenbank" und "Dokument" zur Verfügung. Es können beliebig viele Dateien hochgeladen werden. Nach dem Hinzufügen einer Datei können Sie die zugehörigen Informationen jederzeit mit einem Klick auf ".../Bearbeiten" ändern.
 
 Nach der Veröffentlichung des Metadatensatzes sind auch die hochgeladenen Dateien im Internet verfügbar.
-Die verlinkten Dateien eines Datensatzes stehen im Portal im Bereich „Downloads” bereit.
+Die verlinkten Dateien eines Datensatzes stehen im Portal im Bereich "Downloads" bereit.
 
 
 Dateien hochladen
@@ -1150,8 +1150,7 @@ Dateien hochladen
 Wählen Sie die Datei aus, die Sie hinzufügen möchten. Sie können die Datei auch per Drag & Drop in das Feld ziehen.
 Wenn es sich um ein ZIP-Archiv handelt, können Sie noch auswählen, ob die Datei auf dem Server entpackt werden soll, sodass die Einzeldateien als Downloads zur Verfügung stehen.
 
-Nachdem Sie die Datei hinzugefügt haben, müssen Sie diese Ressource mit einem Klick auf „.../Bearbeiten” weiter beschreiben. Dabei muss ein Format angegeben werden.
-
+Nachdem Sie die Datei hinzugefügt haben, müssen Sie diese Ressource mit einem Klick auf ".../Bearbeiten" weiter beschreiben. Dabei muss ein Format angegeben werden.
 
 .. important:: Der Editor ist nicht als Datenablagensystem konzipiert. Bitte achten Sie deshalb darauf, Daten für die dauerhafte Ablage ausschließlich in Ihrem lokalen Datenhaltungssystem oder Ablagesystem (z. B. E-Akte) zu speichern. Die maximale Größe der Uploads ist sowohl pro Datei als auch pro Gesamtmenge der Dateien eines Datensatzes beschränkt.
 
