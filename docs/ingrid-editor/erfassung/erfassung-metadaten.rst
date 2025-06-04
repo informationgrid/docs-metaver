@@ -1124,8 +1124,8 @@ Abb.: Interner Verweis auf eine Fachliche Grundlage
 .. hint:: Für Verweise auf externe Metadaten ist die Vorgehensweise gleich.
 
 
-Abschnitt Dateien
-------------------
+Abschnitt Dateien (hochladen)
+-----------------------------
 
 Der Abschnitt "Dateien" umfasst den Upload von Daten in den IngridEditor sowie deren Download im Portal METAVER. Der Datenupload wurde entwickelt, um offene Daten ohne großen Aufwand als Download bereitzustellen.
 
