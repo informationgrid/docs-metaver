@@ -1014,8 +1014,8 @@ Abb.: Beispiel für eine Bestellinformation - Die Lieferzeit beträgt 3 Wochen.
 -----------------------------------------------------------------------------------------------------------------------
 
 
-Abschnitt Verweise
-------------------
+Abschnitt Verweise (anlegen)
+----------------------------
 
 Eingabefelder unter Verweise
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
