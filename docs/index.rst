@@ -19,11 +19,11 @@ Bedienungsanleitung InGrid Editor
 
 | **Portal:** METAVER (MetadatenVerbund)
 | **Software:** InGrid (Open-Source)
-| **InGrid-Version:**  7.3.2, 16.10.2024, 18:59 - 7.4.2, 16.02.2025, 05:00
+| **InGrid-Version:** 7.5.1, 11.05.2025, 04:49
 | **Komponente:** InGrid Editor
 | **Profil:** METAVER
 
-| **letzte Änderung:** 27.03.2025
+| **letzte Änderung:** 04.06.2025
 | **Status:** in Bearbeitung
 
 ---------------------------------------------------------------------------------------------------------------------------

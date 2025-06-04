@@ -1122,3 +1122,37 @@ Abb.: Interner Verweis auf eine Fachliche Grundlage
 
 
 .. hint:: Für Verweise auf externe Metadaten ist die Vorgehensweise gleich.
+
+
+Abschnitt Dateien
+------------------
+
+Der Abschnitt "Dateien" umfasst den Upload von Daten in den IngridEditor sowie deren Download im Portal METAVER. Der Datenupload wurde entwickelt, um offene Daten ohne großen Aufwand als Download bereitzustellen.
+
+.. hint:: Open Data bedeutet, dass offene Daten in maschinenlesbarer Form bereitgestellt werden, um eine maschinelle Weiterverwendung zu ermöglichen.
+
+Maschinenlesbarkeit von Formaten:
+
+| Vollständig: XML, RDF, RSS, KMZ, DXF, GPX, GML
+| Überwiegend: TXT, RTF, ODS, XLS, CSV, HTML, XLSX
+| Gar nicht bis gering: PDF, DOC, DOCX, GIF, JPG, JPEG, PNG, TIFF, GeoTIFF, ODT
+
+
+Der Abschnitt "Dateien" steht für die Datensatztypen "Geodatensatz", "Anwendung", "Datenbank" und "Dokument" zur Verfügung.
+
+.. figure:: ../../img\ige\erfassung/ige_metadaten/abschnitt-11_dateien/daten-upload.png
+   :alt: Dateien hochladen
+   :align: left
+   :scale: 80
+   :figwidth: 100%
+
+   Abb.: Datei(en) hochladen
+
+
+.. figure:: ../../img\ige\erfassung/ige_metadaten/abschnitt-11_dateien/daten-upload_fenster.png
+   :alt: Dateien hochladen Fenster
+   :align: left
+   :scale: 80
+   :figwidth: 100%
+
+   Abb.: Dateien hochladen Fenster
