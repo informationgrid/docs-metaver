@@ -1124,6 +1124,9 @@ Abb.: Interner Verweis auf eine Fachliche Grundlage
 .. hint:: Für Verweise auf externe Metadaten ist die Vorgehensweise gleich.
 
 
+-----------------------------------------------------------------------------------------------------------------------
+
+
 Abschnitt Dateien (hochladen)
 -----------------------------
 
