@@ -1138,7 +1138,7 @@ Maschinenlesbarkeit von Formaten:
 | Gar nicht bis gering: PDF, DOC, DOCX, GIF, JPG, JPEG, PNG, TIFF, GeoTIFF, ODT
 
 
-Der Abschnitt "Dateien" steht für die Datensatztypen "Geodatensatz", "Anwendung", "Datenbank" und "Dokument" zur Verfügung. Es können beliebig viele Dateien hochgeladen werden. Nach dem Hinzufügen einer Datei können Sie die zugehörigen Informationen jederzeit mit einem Klick auf ".../Bearbeiten" ändern.
+Der Abschnitt "Dateien" steht für die Datensatztypen "Geodatensatz", "Anwendung", "Datenbank" und "Dokument" zur Verfügung. Nach dem Hinzufügen einer Datei können Sie die zugehörigen Informationen jederzeit mit einem Klick auf ".../Bearbeiten" ändern.
 
 Nach der Veröffentlichung des Metadatensatzes sind auch die hochgeladenen Dateien im Internet verfügbar.
 Die verlinkten Dateien eines Datensatzes stehen im Portal im Bereich "Downloads" bereit.
