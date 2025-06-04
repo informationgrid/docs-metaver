@@ -1143,7 +1143,7 @@ Der Abschnitt "Dateien" steht für die Datensatztypen "Geodatensatz", "Anwendung
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-11_dateien/daten-upload.png
    :alt: Dateien hochladen
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
    Abb.: Datei(en) hochladen
@@ -1152,7 +1152,7 @@ Der Abschnitt "Dateien" steht für die Datensatztypen "Geodatensatz", "Anwendung
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-11_dateien/daten-upload_fenster.png
    :alt: Dateien hochladen Fenster
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
    Abb.: Datei(en) hochladen Dialogfenster
