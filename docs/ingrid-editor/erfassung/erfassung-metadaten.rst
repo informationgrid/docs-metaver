@@ -1140,7 +1140,7 @@ Maschinenlesbarkeit von Formaten:
 
 Der Abschnitt "Dateien" steht für die Datensatztypen "Geodatensatz", "Anwendung", "Datenbank" und "Dokument" zur Verfügung.
 
-.. figure:: ../../img\ige\erfassung/ige_metadaten/abschnitt-11_dateien/daten-upload.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-11_dateien/daten-upload.png
    :alt: Dateien hochladen
    :align: left
    :scale: 80
@@ -1149,7 +1149,7 @@ Der Abschnitt "Dateien" steht für die Datensatztypen "Geodatensatz", "Anwendung
    Abb.: Datei(en) hochladen
 
 
-.. figure:: ../../img\ige\erfassung/ige_metadaten/abschnitt-11_dateien/daten-upload_fenster.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-11_dateien/daten-upload_fenster.png
    :alt: Dateien hochladen Fenster
    :align: left
    :scale: 80
