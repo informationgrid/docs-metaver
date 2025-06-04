@@ -1070,7 +1070,7 @@ Kataloginterne und externe Verweise
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-datensatzverweis.png
    :alt: Feld Datensatzverweis
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Feld Datensatzverweis - Angabe einer Datensatz-ID
@@ -1079,7 +1079,7 @@ Abb.: Feld Datensatzverweis - Angabe einer Datensatz-ID
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-intern-extern.png
    :alt: Beispiele für Kataloginterne Verweise
    :align: left
-   :scale: 80
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Beispiele für Kataloginterne Verweise
