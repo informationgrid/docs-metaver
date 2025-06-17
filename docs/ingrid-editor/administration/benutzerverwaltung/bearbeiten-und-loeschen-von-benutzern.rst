@@ -6,7 +6,10 @@ Benutzer bearbeiten
 
 Soll ein Benutzer bearbeitet werden, muss die Benutzerverwaltung über die Navigation (BENUTZER & RECHTE) aufgerufen werden. Darin den entsprechenden Benutzer auswählen und anschließend, in der Eingabemaske auf der rechten Seite, die Daten bearbeiten.
 
-.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_gruppenberechtigung.png
+.. figure:: ../../../img/ige/administration/benutzerverwaltung/gruppenberechtigung.png
+   :align: left
+   :scale: 100
+   :figwidth: 100%
 
 Abb.: Benutzer bearbeiten
 
@@ -18,7 +21,10 @@ Soll ein Benutzer gelöscht werden, muss der Benutzer in der Benutzerverwaltung 
 
 Die Benutzerdaten werden in die Felder auf der rechten Seite des Fensters geladen. Jetzt kann über das Menü (drei Punkte) die Funktion "Löschen" ausgeführt wertden.
 
-.. image:: ../img-ige-ng/nutzerverwaltung/ige-ng_nutzerverwaltung_nutzer-loeschen.png
+.. figure:: ../../../img/ige/administration/benutzerverwaltung/benutzer-loeschen.png
+   :align: left
+   :scale: 100
+   :figwidth: 100%
 
 Abb.: Benutzer löschen
 
