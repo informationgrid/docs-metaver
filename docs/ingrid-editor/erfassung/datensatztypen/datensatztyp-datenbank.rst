@@ -21,7 +21,7 @@ Feld: Typ
 
 Unter Typ können weitere Eigenschaften (Eingabefelder) für den Metadatensatz definiert werden.
 
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkbox_opendata.png
+.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkbox_typ_opendata.png
    :align: left
    :scale: 50
    :figwidth: 100%
