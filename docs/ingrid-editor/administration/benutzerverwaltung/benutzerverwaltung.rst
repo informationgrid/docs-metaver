@@ -3,7 +3,7 @@ Benutzerverwaltung
 ==================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Benutzerverwaltung
 
    rollen.rst
