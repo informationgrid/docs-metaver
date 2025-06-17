@@ -6,9 +6,8 @@
 
 .. figure:: img/logos/logo-BKG-MIS.PNG
    :align: left
-   :scale: 30
-   :figwidth: 100 %
-   
+   :figwidth: 100%
+    
 
 ====================================================
 Bedienungsanleitung Metadaten-Editor des BKG
@@ -19,13 +18,12 @@ Software: InGrid IGE - Next Generation
 
 Version der Bedienungsanleitung
    - InGrid Editor-Version: 7.2.1, 04.08.2024, 01:52
-   - letzte Änderung: 18.03.2025
+   - letzte Änderung: 16.06.2025
    - Status: in Bearbeitung
 
 
 .. figure:: img/portal/uebersicht.png
    :align: left
-   :scale: 70
    :figwidth: 100%
 
    Abb.: InGrid Editor - Neue Generation (IGE-NG) - Übersicht
