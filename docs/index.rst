@@ -29,9 +29,9 @@ Version der Bedienungsanleitung
    Abb.: InGrid Editor - Neue Generation (IGE-NG) - Übersicht
 
 
-..  note::  Die Abbildungen in dieser Dokumentation zeigen mitunter ein vom BKG-MIS abweichendes Layout. Funktional sollten sie die gleiche Situation beschreiben. Grund: diese Anleitung wurde ursprünglich für METAVER erfasst und für die Anwendung BKG-MIS angepasst.
+..  note::  Diese Anleitung wurde für die Projektgemeinschaft METAVER erstellt und anschließend für die Anwendung BKG-MIS angepasst. Die Abbildungen in dieser Dokumentation zeigen mitunter ein vom BKG-MIS abweichendes Layout. Funktional beschreiben sie die gleiche Situation.
 
-..  hint:: Wenn Probleme im Editor auftreten nach Updates auftreten, dann bitte zuerst im privaten Modus testen (Stichwort: Cache-Probleme). Tritt das Problem dann nicht auf, bitte den Browser-Cache leeren. Falls das Problem weiterhin besteht, wenden Sie sich bitte an den Katalogadministrator, ggf. fügen Sie einen Screenshot bei. 
+..  hint:: Wenn Probleme im Editor nach Updates auftreten, dann bitte zuerst im privaten Modus testen (Stichwort: Cache-Probleme). Tritt das Problem dann nicht mehr auf, bitte den Browser-Cache leeren. Falls das Problem weiterhin besteht, wenden Sie sich bitte an den Administrator, ggf. fügen Sie einen Screenshot bei. 
 
 
 --------------------------------------------------------------------------------------------------------------
