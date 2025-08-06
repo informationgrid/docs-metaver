@@ -3,6 +3,10 @@
 Adressen erfassen
 =================
 
+(im BKG nur für Administrator vorgesehen)
+
+Im BKG sieht der Prozeß der Metadatenerfassung vor, dass nur der Administrator Adressen anlegt. Wird ein neues Adress-Objekt benötigt, wenden Sie sich bitte an den Administrator.
+
 Für eine effiziente Adressverwaltung empfiehlt es sich, hierarchische Strukturen aufzubauen, so dass erkennbar wird, welchem Referat bzw. welchem Fachbereich innerhalb welcher Institution der jeweilige Ansprechpartner angehört. Für Personen, die keiner Institution zugeordnet werden können, besteht die Möglichkeit, diese im Adress-Strukturbaum unterhalb des Bereiches "Freie Adressen" anzulegen. 
 
 .. figure:: ../../img/ige/adressen/struktur.png
