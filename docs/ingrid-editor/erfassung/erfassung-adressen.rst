@@ -3,7 +3,7 @@
 Adressen erfassen
 =================
 
-(im BKG nur für Administrator vorgesehen)
+(im BKG: nur durch Administrator)
 
 Im BKG sieht der Prozeß der Metadatenerfassung vor, dass nur der Administrator Adressen anlegt. Wird ein neues Adress-Objekt benötigt, wenden Sie sich bitte an den Administrator.
 

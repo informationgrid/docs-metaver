@@ -55,7 +55,7 @@ Abb.: InGrid Editor - Aufbau der Ordnerstruktur im BKG
 Metadatentypen
 --------------
 
-Im InGrid-Editor gibt es verschiedene Arten von Metadaten- oder Adress-Typen. 
+Im InGrid-Editor gibt es verschiedene Arten von Metadaten- oder Adress-Typen.
 
 **Daten**
 
