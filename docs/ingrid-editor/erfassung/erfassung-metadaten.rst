@@ -749,19 +749,6 @@ Abb.: Auswahlfeld - Sprache der Ressource
 Es erfolgt die Angabe der Sprache des beschriebenen Datensatzes, als Standard ist Deutsch voreingestellt.
 
 
-Feld: Weitere rechtliche Grundlagen
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-08_zusatzinformation/rechtliche-grundlagen.png
-   :align: left
-   :scale: 80
-   :figwidth: 100%
-
-Abb.: Auswahl-/Eingabefeld - weitere rechtliche Grundlagen
-
-Angabe der rechtlichen Grundlage, die die Erhebung der beschriebenen Daten veranlasst hat. Hier können Kürzel von Gesetzen, Erlassen, Verordnungen usw. eingetragen werden, in denen z. B. die Methode oder die Form der Erhebung der im Datensatz beschriebenen Daten festgelegt oder beschrieben wird. Es ist bei Bedarf der Eintrag mehrerer Angaben möglich.
-
-
 Felder: Weiteres
 ^^^^^^^^^^^^^^^^
 
@@ -779,14 +766,11 @@ Zusammenfassung, für welchen Zweck oder mit welcher Absicht die Ressource erste
 
 Beispiel: Potentiale für Grünfächen, Fassadenbegrünung, Dachbegrünung und Flächen für Baumpflanzungen
 
-Bei gewünschter Mehrsprachigkeit muss dieses Feld nach dem Schema "Deutscher Text#locale-eng:English text" gefüllt werden. 
-Beispiel: Baumfällungen#locale-eng:Tree felling
-
 
 Feld: Eignung/Nutzung
 """""""""""""""""""""
 
-Beispiel: Grunlage für Planung von Anpassungsmaßnahmen an den Klimawandel
+Beispiel: Grundlage für Planung von Anpassungsmaßnahmen an den Klimawandel
 
 Spezifische Nutzung: kurze Beschreibung zur Verwendung der Ressource.
 Angaben über die Verwendungsmöglichkeiten, die diese Daten in Verbindung mit weiteren Informationen erfüllen können.
@@ -868,7 +852,7 @@ Abb.: Beispiel für Datenformatangaben
 `Auswahlliste Datenformat <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/auswahllisten/auswahlliste_verfuegbarkeit_datenformate.html>`_
 
 
-Angabe des Formats der Daten in DV-technischer Hinsicht, in welchem diese verfügbar sind. Das Format wird durch 4 unterschiedliche Eingaben spezifiziert. Wenn das erste Feld befüllt wird, müssen auch die anderen Eintragungen vorgenommen werden. 
+Angabe des Formats der Daten in DV-technischer Hinsicht, in welchem diese verfügbar sind. Die Datenformatbezeichnung kann durch 3 weitere Eingaben spezifiziert werden. Es empfiehlt sich die Version zusätzlich anzugeben, sofern diese bekannt ist. 
 
 | **Feld: Name**
 
@@ -945,7 +929,7 @@ Eingabefelder unter Verweise
 Abb.: Verweise hinzufügen
 
 
-.. hint:: Wenn die Option Open Data ausgewählt wurde, muss mindestens ein Verweis vom Typ „Datendownload“ angelegt werden, bevor der Metadatensatz veröffentlicht werden kann.
+.. hint:: Wenn das Merkmal "Open Data" ausgewählt wurde, empfielt es sich einen Verweis vom Typ „Datendownload“ anzulegen, sofern ein Direkt-Download im Vertrieb bereitgestellt wird.
 
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-bearbeiten.png
@@ -981,21 +965,7 @@ Abb.: Beispiel für einen Verweis auf eine Webseite
 Kataloginterne und externe Verweise
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-datensatzverweis.png
-   :align: left
-   :scale: 80
-   :figwidth: 100%
-
-Abb.: Feld Datensatzverweis - Angabe einer Datensatz-ID
-
-
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-intern-extern.png
-   :align: left
-   :scale: 80
-   :figwidth: 100%
-
-Abb.: Beispiele für Kataloginterne Verweise
-
+Es gibt eine große Auswahl an Verweis-Typen. Im BKG verwenden Sie bitte nur "Datendownload" und "Information".
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-datensatzverweis_datendownload.png
    :align: left
@@ -1013,20 +983,27 @@ Abb.: Interner Verweis auf einen Datendownload
 Abb.: Interner Verweis auf einen Dienst
 
 
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-datensatzverweis.png
+   :align: left
+   :scale: 80
+   :figwidth: 100%
+
+Abb.: Feld Datensatzverweis - Angabe einer Datensatz-ID
+
+
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-intern-extern.png
+   :align: left
+   :scale: 80
+   :figwidth: 100%
+
+Abb.: Beispiele für Kataloginterne Verweise
+
+
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-datensatzverweis_basisdaten.png
    :align: left
    :scale: 80
    :figwidth: 100%
 
 Abb.: Interner Verweis auf Basisdaten
-
-
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-10_verweise/verweis-datensatzverweis_fachliche-grundlage.png
-   :align: left
-   :scale: 80
-   :figwidth: 100%
-
-Abb.: Interner Verweis auf eine Fachliche Grundlage
-
 
 .. hint:: Für Verweise auf externe Metadaten ist die Vorgehensweise gleich.
