@@ -3,6 +3,8 @@
 Zeichensatz des Datensatzes
 ===========================
 
+voreingestellt: "utf8"
+
  - 8859part1
  - 8859part2
  - 8859part3
