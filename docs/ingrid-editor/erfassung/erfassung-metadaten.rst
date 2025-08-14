@@ -256,10 +256,9 @@ Abb.: Vorschaugrafiken im InGrid Editor
 Die Dateibeschreibung kann in der hochgeladenen Grafik bearbeitet werden (Stift in der Grafik).
 
 - Unterstütze Grafikformate: .png, .webp, .gif,
-- Empfohlene Breite: 600 px
-- Empfohlene längste Breite/Länge bis max.: 1.200 px
+- Empfohlene Größe: quadratisch (600 px - max. 1.200 px)
 - Empfohlene PNG-Komprimierung: 0-6
-- Empfohlene Größe bis max.: 1 MB
+- Empfohlene Dateigröße: max. 1 MB
 
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/image_map_mv.png
@@ -291,10 +290,12 @@ Grundsätzlich ist es ratsam erst die Adressen anzulegen, bevor die eigentlichen
 
 Über den Button "Hinzufügen" wird die Adressverknüpfung angelegt.
 
-Es sind mindestens zwei Adressen anzugeben:
+Es sind mindestens folgende Adressen anzugeben:
 
-  1. Es muss ein Ansprechpartner für die Daten angegeben werden (Adresstyp: Ansprechparter).
-  2. Es muss ein Ansprechpartner für die Metadaten angegeben werden (Adresstyp: Ansprechpartner MD).
+  1. Ansprechparter für die Daten (Adresstyp: Ansprechparter)
+  2. Ansprechpartner für die Metadaten (Adresstyp: Ansprechpartner MD)
+  3. bei Geodaten: Kontakt des Vertriebs (Adresstyp: Vertrieb) bzw. bei Geodatendiensten und Anwendungen: Kontakt des Bereitstellers (Adresstyp: Anbieter)
+
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/adressen_anlegen.png
    :align: left
@@ -364,7 +365,7 @@ Der Umweltthesaurus UMTHES thematisiert das Dokumentationsgebiet Umwelt. Neben B
 Feld: Freie Schlagworte:
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-In dieses Feld können Schlagworte eingetragen werden, die nicht in einem Thesaurus enthalten sind.
+In dieses Feld können Schlagworte eingetragen werden, die nicht in einem Thesaurie enthalten sind.
 
 Beispiel: Schlagwort "Kindergarten"
 
@@ -404,25 +405,9 @@ Nachfolgend sind in den verschiedenen Datensatztypen (Verlinkung folgen) die zus
 
   | Dienste die raumbezogenen Daten zur Verfügung stellen, insbesondere Dienste im Rahmen von INSPIRE, der GDI-DE oder der GDIs der Länder.
 
-| `Informationssystem <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/datensatztyp-informationssystem.html>`_
+| `Anwendung <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/datensatztyp-informationssystem.html>`_
 
   | Zentrale Auskunftssysteme, welche in der Regel auf eine oder mehrere Datenbanken zugreifen und diese zugänglich machen.
-
-| `Datensammlung <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/datensatztyp-datensammlung.html>`_
-
-  | Digitale Sammlung von Daten. Beispiele: Messdaten, statistische Erhebungen, Modelldaten, Daten zu Anlagen.
-
-| `Dokument <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/datensatztyp-dokument.html>`_
-
-  | Bücher, Broschüren, Aufsätze, Berichte, Gutachten etc. Von Interesse sind insbesondere Dokumente, welche nicht über den Buchhandel oder über Bibliotheken erhältlich sind (graue Literatur).
-
-| `Projekt <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/datensatztyp-projekt.html>`_
-
-  | Forschungs- und Entwicklungsvorhaben, Projekte unter Beteiligung anderer Institutionen oder privater Unternehmen, Schutzprogramme - Von besonderem Interesse sind Vorhaben/Projekte/Programme, in denen umweltrelevante Datenbestände entstehen.
-
-| `Fachaufgabe <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/datensatztyp-fachaufgabe.html>`_
-
-  | In diesen Datensatztyp befindet sich kein Abschnitt Fachbezug. Der Datensatztyp Fachaufgabe kann für Verweise auf Webseiten verwendet werden (z.B Informationen zu Bebauungsplänen). Fachaufgabe ist der einzige Datensatztyp, dem keine weiteren Optionen (z.B. OpenData) zugeordnen werden können.
 
 -----------------------------------------------------------------------------------------------------------------------
 
