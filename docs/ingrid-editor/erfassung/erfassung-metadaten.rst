@@ -145,32 +145,30 @@ Abb.: Option Veröffentlichungsrecht setzen ...
    :scale: 50
    :figwidth: 100%
 
-Abb.: Veröffentlichungsrecht setzten
+Abb.: Veröffentlichungsrecht
 
 
 -----------------------------------------------------------------------------------------------------------------------
 
-Optionen: Typ
-"""""""""""""
+Optionen: Merkmale
+"""""""""""""""""
 
-Unter der Bezeichnung "Typ" und unter der Bezeichnung "Open Data" werden die Optionen für die verschiedenen Datensatztypen angezeigt, die aktiviert werden können, um zusätzliche Eingabefelder im Metadatensatz zuaktivieren. 
+Es werden die verschiedenen Merkmale der Datensätze angezeigt, deren Aktivierung bestimmte Eingabefelder im Metadatensatz hinzufügt. 
 
-Datensatztypen mit den entsprechenden Optionen:
-
-- **Geodatensatz:** OpenData + HVD | INSPIRE-relevant + InVeKoS | AdV kompatibel
-- **Geodatendienst:** OpenData | INSPIRE-relevant | AdV kompatibel
-- **Anwendung:** OpenData | INSPIRE-relevant | AdV kompatibel
-- **Datenbank:** OpenData
-- **Dokument:** OpenData
-- **Projekt:** -
-- **Organisationseinheit:** - 
-
-.. figure:: ../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkboxen.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/merkmale-der-datensaetze.png
    :align: left
    :scale: 80
    :figwidth: 100%
 
-Abb.: Optionen: INSPIRE-relevant + InVeKoS, AdV kompatibel, OpenData, High-Value-Dataset (HVD)
+Abb.: Merkmale der Datensätze
+
+Datensatztypen mit den entsprechenden Optionen:
+
+- **Geodatensatz:** Datentyp | INSPIRE-relevant | OpenData + HVD | AdV kompatibel
+- **Geodatendienst:** INSPIRE-relevant | AdV kompatibel
+- **Anwendung:** INSPIRE-relevant | AdV kompatibel
+
+
 
 -----------------------------------------------------------------------------------------------------------------------
 
