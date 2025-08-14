@@ -3,10 +3,6 @@
 AdV-Produktgruppe
 =================
 
-**Achtung! Nach der Migration der Produktgruppe müssen die Metadaten entsprechend angepasst werden (siehe Ticket #1535).**
-
-neu
-'''
 
  - Digitale Orthophotos
  - Digitale Landschaftsmodelle

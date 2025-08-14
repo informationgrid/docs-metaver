@@ -3,6 +3,8 @@
 INSPIRE - prority-data-set
 ==========================
 
+im BKG keine Anwendung
+
 Auswahlliste für das Feld: INSPIRE - priority data set
 
 Diese Liste unterliegt einer ständigen Aktualisierung.

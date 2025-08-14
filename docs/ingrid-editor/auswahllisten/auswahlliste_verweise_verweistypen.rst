@@ -2,6 +2,8 @@
 Verweistypen
 ============
 
+Im BKG sollten nur die Werte "Datendownload" und "Information" verwendet werden.
+
 - Basisdaten
 - Bestellung
 - Datendownload

@@ -3,6 +3,8 @@
 Medienoption
 ============
 
+im BKG keine Anwendung
+
  - 0,5-Zoll Kassette
  - 3,5-Zoll Diskette
  - analoge Fotografie
