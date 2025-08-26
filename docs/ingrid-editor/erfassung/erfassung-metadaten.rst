@@ -395,15 +395,15 @@ Nachfolgend sind in den verschiedenen Datensatztypen (Verlinkung folgen) die zus
 
 | `Geodatensatz <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/datensatztyp-geodatensatz.html>`_
 
-  | Beschreibung von digitalen Geodaten, analoge Karten oder Kartenwerke.
+  | Beschreibung von digitalen Geodaten, analogen Karten oder Kartenwerke.
 
 | `Geodatendienst <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/datensatztyp-geodatendienst.html>`_
 
-  | Dienste die raumbezogenen Daten zur Verfügung stellen, insbesondere Dienste im Rahmen von INSPIRE, der GDI-DE oder der GDIs der Länder.
+  | Dienste, die raumbezogene Daten zur Verfügung stellen, insbesondere Dienste im Rahmen von INSPIRE, der GDI-DE oder der GDIs der Länder.
 
-| `Anwendung <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/datensatztyp-informationssystem.html>`_
+| `Anwendung <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/datensatztyp-anwendung.html>`_
 
-  | Zentrale Auskunftssysteme, welche in der Regel auf eine oder mehrere Datenbanken zugreifen und diese zugänglich machen.
+  | Web-Anwendungen, die raumbezogene Daten verarbeiten
 
 -----------------------------------------------------------------------------------------------------------------------
 
