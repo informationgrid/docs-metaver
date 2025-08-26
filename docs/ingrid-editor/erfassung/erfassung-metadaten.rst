@@ -541,7 +541,7 @@ Feld: Raumbezugssystem (Koordinatenreferenzsystem oder Koordinatenbezugsystem)
    :scale: 80
    :figwidth: 100%
 
-Abb.: Felde Koordinatenreferenzsystem
+Abb.: Feld Koordinatenreferenzsystem
 
 
 
