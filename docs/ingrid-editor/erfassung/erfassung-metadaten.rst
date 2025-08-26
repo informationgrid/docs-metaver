@@ -147,7 +147,7 @@ Abb.: Veröffentlichungsrecht
 -----------------------------------------------------------------------------------------------------------------------
 
 Optionen: Merkmale
-"""""""""""""""""
+"""""""""""""""""""
 
 Es können spezifische Merkmale ausgewählt werden. Durch deren Aktivierung wird das Eingabeformular entsprechend angepasst. 
 
@@ -334,7 +334,7 @@ Werden in die Felder "GEMET-" und "UMTHES Schlagworte" Wörter eingetragen, dann
 
 
 Feld: GEMET Schlagworte
-^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^
 
 GEneral Multilingual Environmental Thesaurus (Allgemeiner Mehrsprachiger Umwelt-Thesaurus)
 
@@ -346,7 +346,7 @@ GEMET ist eine Zusammenfassung mehrerer kontrollierter mehrsprachiger Vokabulare
 
 
 Feld: UMTHES Schlagworte
-^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 Umweltthesaurus des Umweltbundesamtes
 
@@ -359,7 +359,7 @@ Der Umweltthesaurus UMTHES thematisiert das Dokumentationsgebiet Umwelt. Neben B
 
 
 Feld: Freie Schlagworte:
-^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 In dieses Feld können Schlagworte eingetragen werden, die nicht in einem Thesaurie enthalten sind.
 
@@ -367,7 +367,7 @@ Beispiel: Schlagwort "Kindergarten"
 
 
 Feld: Schlagwortanalyse
-^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^
 
 Werden Begriffe in die Schlagwortanalyse eingegeben, die im "GEMET" oder im "UMTHES" enthalten sind, dann werden diese Bergriffe automatisch den entsprechenden Eingabefeldern zugeordnet. Sind diese Begriffe nicht in einem Thesarus enthalten, werden sie dem Feld "Freie Schlagworte" zugewiesen.
 
@@ -534,7 +534,7 @@ Abb.: Raumbezug bearbeiten
 
 
 Feld: Raumbezugssystem (Koordinatenreferenzsystem oder Koordinatenbezugsystem)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_kbs.png
    :align: left
