@@ -111,17 +111,13 @@ Abb.: Metadaten des Datensatzes
 
 Metadatenkopf
 
-- **Status:** in Bearbeitung oder Veröffentlichung geplant oder Veröffentlicht
-- **Typ:** Datensatztypbezeichnung (Wird bei der Erstellung des Metadatensatzes erstellt.)
-- **ID:** ID des Metadatensatzes (Wird nach dem ersten Speichern automatisch vergeben.)
+- **Status:** des Metadatensatzes: "in Bearbeitung", "Veröffentlichung geplant" oder "Veröffentlicht"
+- **Typ:** Datensatztypbezeichnung (Festlegung bei Erstellung des Metadatensatzes)
+- **ID:** ID des Metadatensatzes (wird atomatisch erzeugt)
 - **Erstellt am:** Erstellungsdatum für den Metadatensatz (wird atomatisch gesetzt)
 - **Geändert am:** Änderungsdatum für den Metadatensatz (wird atomatisch gesetzt)
-- **Verantwortlich:** zuständiger Bearbeiter für die Metadaten (Wird beim Anlegen automatisch gesetzt, kann aber geändert werden.)
-- **Metadaten-Datum:** Datum der veröffentlichten Version (wird automatisch gesetzt)
-
-**Verantwortlich:** Hier wird automatisch der Erfasser eingetragen, der das Objekt angelegt hat. Hier sollte jedoch die für die Aktualisierung verantwortliche Person eingetragen werden. In der Regel ist der Erfasser auch der fachlich Verantwortliche (Standardeinstellung).
-
-**Metadaten-Datum:** Datum, an dem der Metadatensatz veröffentlicht wurde. Dieses Datum wird jedes Mal aktualisiert, wenn ein Metadatensatz veröffentlicht wird und sich geändert hat. Die Änderung eines Metadatensatzes wird anhand der Änderung von Inhalt und Struktur erkannt. Dazu wird ein Fingerprint der ISO 19139 XML-Daten erstellt und gespeichert. Der Metadatensatz wird nur dann aktualisiert, wenn sich der Fingerprint bei einer Veröffentlichung ändert. Damit wird sichergestellt, dass das Metadatendatum auch nicht inhaltliche Änderungen widerspiegelt, die sich z.B. durch eine Anpassung der Struktur des Metadatensatzes ergeben. Dies ist wichtig, da nachfolgende Systeme auf dieses Datum zurückgreifen, um z.B. geänderte Metadatensätze zu identifizieren.
+- **Verantwortlich:** zuständiger Bearbeiter für die Metadaten (wird automatisch gesetzt, kann aber durch Admin geändert werden.)
+- **Metadaten-Datum:** Datum der veröffentlichten Version (wird automatisch gesetzt und verändert sich bei jeder Aktualisierung des Metadatensatzes)
 
 
 -----------------------------------------------------------------------------------------------------------------------
@@ -153,7 +149,7 @@ Abb.: Veröffentlichungsrecht
 Optionen: Merkmale
 """""""""""""""""
 
-Es werden die verschiedenen Merkmale der Datensätze angezeigt, deren Aktivierung bestimmte Eingabefelder im Metadatensatz hinzufügt. 
+Es können spezifische Merkmale ausgewählt werden. Durch deren Aktivierung wird das Eingabeformular entsprechend angepasst. 
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-02_allgemeines/merkmale-der-datensaetze.png
    :align: left
