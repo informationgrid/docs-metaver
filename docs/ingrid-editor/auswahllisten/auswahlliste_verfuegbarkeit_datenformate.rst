@@ -25,7 +25,7 @@ Datenformat / Name
  - NAS - Normbasierte Austauschschnittstelle
  - PDF - Portable Document Format
  - PNG - Portable Network Graphics
- - shp - Shapefiles -  ist ein auch in der Datenqualität einfaches Format für vektorielle Geodaten und Quasi-Standard im Umfeld von Desktop-Geoinformationssystemen mit dem größten Umfang verfügbarer Kartendaten.
+ - shp - Shapefiles -  Format für vektorielle Geodaten und Quasi-Standard im Umfeld von Desktop-Geoinformationssystemen
  - SVG - Scalable Vector Graphics
  - TIFF - Tagged Image File Format 
  - docx - WinWord

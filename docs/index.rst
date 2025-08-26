@@ -1,7 +1,7 @@
 .. meta::
   :description: Der InGrid-OS Metadateneditor IGE-NG
-  :keywords: Metadaten, Editor, Geodatensätze, Geodatendienste, Webdienste, Anwendungen, Informationssysteme, Datenbanken, Datensammlungen, Dokumente, Literatur, Projekte, Fachinformationen, Umweltdaten, Geodaten, Erfassung, Beschreibung, Dokumentation, IGE-NG, InGrid Editor - Neue Generation
-  :keywords lang=de: Geodatensatz, Geodatendienst, Webdienst, Anwendung, Informationssystem, Datenbank, Datensammlung, Dokument, Literatur, Projekt, Fachinformation
+  :keywords: Metadaten, Editor, Geodatensätze, Geodatendienste, Webdienste, Anwendungen, Geodaten, Erfassung, Beschreibung, Dokumentation, IGE-NG, InGrid Editor - Neue Generation
+  :keywords lang=de: Geodatensatz, Geodatendienst, Webdienst, Anwendung
 
 
 .. figure:: img/logos/logo-BKG-MIS.PNG
