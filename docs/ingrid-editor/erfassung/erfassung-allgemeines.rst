@@ -72,6 +72,9 @@ Abb.: Metadatentypen in der Ordnerstruktur
 
 **Adressen**
 
+Im BKG werden Adressen nur vom Fachadministrator im Editor angelegt. Bitte nehmen Sie bei Bedarf an einer neuer Adresse Kontakt mit dem Fachverfahrensverantwortlichen der Anwendung auf. 
+Für die BKG-MD gilt, möglichst keine Personendaten zu veröffentlichen. Es gibt vereinzelt Ausnahmen.
+
 .. figure:: ../../img/ige/allgemein/icons-adressen.png
    :align: left
    :scale: 60
@@ -80,10 +83,7 @@ Abb.: Metadatentypen in der Ordnerstruktur
 Abb.: Adresstypen in der Ordnerstruktur
 
 
-Im BKG werden Adressen nur vom Fachadministrator im Editor angelegt. Bitte nehmen Sie bei Bedarf an einer neuer Adresse Kontakt mit dem Fachverfahrensverantwortlichen der Anwendung auf. 
-Für die BKG-MD gilt, möglichst keine Personendaten zu veröffentlichen. Es gibt vereinzelt Ausnahmen.
-
-Die derzeit verfügbaren Adressen (Stand: März 2025) sind die in der folgenden Abbildung sichtbaren Adressdatensätze:
+Die derzeit verfügbaren Adressen (Stand: März 2025):
 
 .. figure:: ../../img/ige/allgemein/icons-adressen_bkg.png
    :align: left

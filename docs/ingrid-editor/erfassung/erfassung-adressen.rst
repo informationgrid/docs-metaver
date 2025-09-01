@@ -6,8 +6,7 @@ Adressen erfassen
 (im BKG: Aufgabe des Administrators)
 
 Im BKG sieht der Prozeß der Metadatenerfassung vor, dass nur der Administrator Adressen anlegt. Wird ein neues Adress-Objekt benötigt, wenden Sie sich bitte an den Administrator.
-
-Für eine effiziente Adressverwaltung empfiehlt es sich, hierarchische Strukturen aufzubauen, so dass erkennbar wird, welchem Referat bzw. welchem Fachbereich innerhalb welcher Institution der jeweilige Ansprechpartner angehört. Für Personen, die keiner Institution zugeordnet werden können, besteht die Möglichkeit, diese im Adress-Strukturbaum unterhalb des Bereiches "Freie Adressen" anzulegen. 
+Für die BKG-MD gilt, möglichst keine Personendaten zu veröffentlichen. Es gibt vereinzelt Ausnahmen.
 
 .. figure:: ../../img/ige/adressen/struktur.png
    :align: left
@@ -16,7 +15,7 @@ Für eine effiziente Adressverwaltung empfiehlt es sich, hierarchische Strukture
 
 Abb.: Anlegen einer Adressstruktur
 
-Zum Anlegen einer neuen Adresse muss zunächst eine Ordnerstruktur erstellt werden. Darunter können dann die Entsprechenden Adresstypen angelegt werden. 
+Zum Anlegen einer neuen Adresse muss zunächst eine Ordnerstruktur erstellt werden. Darunter können dann die entsprechenden Adresstypen angelegt werden. 
 
 
 Ordner/Adresse anlegen
@@ -38,7 +37,7 @@ Abb.: Auswahl der Adresstypen
 
 Abb.: Adresstypen
  
-Nach Auswahl des Adresstyps erscheint die Eingabemaske für die  Adresse rechts im Inhaltsfenster. Hier sehen Sie alle verfügbaren Felder und Informationen zu der ausgewählten Adresse. Diese Felder sind je nach Adresstyp unterschiedlich.
+Nach Auswahl des Adresstyps erscheint die Eingabemaske für die Adresse rechts im Inhaltsfenster. Hier sehen Sie alle verfügbaren Felder und Informationen zu der ausgewählten Adresse. Diese Felder sind je nach Adresstyp unterschiedlich.
 
 Standardmäßig werden zunächst nur die Pflichtfelder angezeigt. Neben den verpflichtenden Angaben (Bezeichnung / Name, Kontakt) können weitere Adressangaben (Anschrift, usw.) gespeichert werden. Durch einen Klick auf "+ HINZUFÜGEN", können weitere Kommunikationsmöglichkeiten eingetragen werden.
 
