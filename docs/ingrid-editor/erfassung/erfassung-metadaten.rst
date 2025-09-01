@@ -806,7 +806,7 @@ Felder für Nutzungsbedingungen
 Feld: Nutzungsbedingung
 """"""""""""""""""""""""
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-09_verfuegbarkeit/nutzungsbedingungen.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-09_verfuegbarkeit/nutzungsbedingung.png
    :align: left
    :scale: 80
    :figwidth: 100%
