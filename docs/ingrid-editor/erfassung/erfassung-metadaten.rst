@@ -790,7 +790,7 @@ Im Feld Zugriffsbeschränkungen kann aus einer Auswahlliste ein Wert ausgewählt
 
 
 Feld: Zugriffsbeschränkungen (INSPIRE)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Dieses Feld ist nur für INSPIRE-relevanten Geodaten-Ressourcen zu nutzen.
 
