@@ -108,9 +108,8 @@ Neben den Metadaten- und Adresstypen zeigen die Icons auch den Bearbeitungsstatu
    .. figure:: ../../img/ige/allgemein/icon_bearbeitungsstatus-in-bearbeitung.png , orange und schwarz , Es handelt sich um eine veröffentlichte Version des Metadatensatzes bzw. der Adresse - der Metadatensatz wurde bearbeitet aber noch nicht erneut veröffentlicht.
 
 
-Berechtigungen zu den Metadaten 
+Optionen zu den Metadaten 
 -------------------------------
-(Nur für Administratoren sichtbar.)
 
 Über das Drei-Punkte-Menü, auf der rechten Seite der Erfassungsmaske können verschiedene Berechtigungen vergeben werden.
 
@@ -118,6 +117,19 @@ Berechtigungen zu den Metadaten
    :align: left
    :scale: 50
    :figwidth: 100%
+
+
+Schlagworte konsolidieren ...
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/schlagworte-konsolidieren.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Schlagworte abgleichen
+
+Anhand der Symbole in der Ordnerstruktur wird durch einen Punkt das Veröffentlichungsrecht der Adresse oder des Metadatensatzes angezeigt.
 
 
 Veröffenlichungsrecht setzen ...
