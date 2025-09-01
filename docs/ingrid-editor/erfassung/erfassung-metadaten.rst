@@ -391,14 +391,12 @@ Abschnitt Fachbezug
 
 **Beschreibung der Datensatztypen**
 
-Nachfolgend sind in den verschiedenen Datensatztypen (Verlinkung folgen) die zusätzlichen Eingabefelder beschrieben.
+Nachfolgend sind in den verschiedenen die Datensatztyp-spezifischen Eingabefelder beschrieben. (Verlinkung folgen) 
 
 | `Geodatensatz <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/datensatztyp-geodatensatz.html>`_
   | Beschreibung von digitalen Geodaten, analogen Karten oder Kartenwerke.
-
 | `Geodatendienst <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/datensatztyp-geodatendienst.html>`_
   | Dienste, die raumbezogene Daten zur Verfügung stellen, insbesondere Dienste im Rahmen von INSPIRE, der GDI-DE oder der GDIs der Länder.
-
 | `Anwendung <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/datensatztyp-anwendung.html>`_
   | Web-Anwendungen, die raumbezogene Daten verarbeiten
 
@@ -615,7 +613,7 @@ Mit "Ressource" ist der eigentliche Datensatz gemeint, welcher mit Metadaten bes
 
 Abb.: Felder für den Zeitbezug der Ressource
 
-Durch festhalten der sechs Punkte können mehrere Angaben durch verschieben sortiert werden.
+Durch Festhalten und Schieben der sechs Punkte kann die Reihenfolge der Angaben geändert werden.
 
 
 Feld: Durch die Ressource abgedeckte Zeitspanne
@@ -633,12 +631,11 @@ Abb.: Angabe von Zeitpunkten, Zeiträumen / Zeitspannen
 Es soll die Zeitspanne oder der Zeitpunkt der Erhebung der eigentlichen Daten eingetragen werden. 
 
 Die Zeitangaben und Wertepaare können wie folgt angegeben werden:
-
  - am [Datum] 
  - von [Datum] --  bis: genaues Datum [Datum]
- - von [Datum] --  bis: gegenwärtige Aktualität unklar  (End-Zeitpunkt unbekannt)
- - von [Datum] --  bis: gegenwärtig aktuell             (wird bis Abruf der Daten permanent aktualisiert, z.B. Sensordaten)
- - bis [Datum]                                          (Begin-Zeitpunkt unbekannt)
+ - von [Datum] --  bis: gegenwärtige Aktualität unklar  | (End-Zeitpunkt unbekannt)
+ - von [Datum] --  bis: gegenwärtig aktuell             | (wird bis Abruf der Daten permanent aktualisiert, z.B. Sensordaten)
+ - bis [Datum]                                          | (Begin-Zeitpunkt unbekannt)
 
 Beispiele: Zeitraum einer Erhebung von Messdaten, Entwicklungszeitraum einer Anwendung, Laufzeit eines Projektes, Laufzeit einer Studie, Zeitraum für die Erstellung einer Basiskarte, Zeitraum einer Befliegung
 
@@ -800,11 +797,9 @@ Abb.: Auswahl-/Eingabefeld - Zugriffsbeschränkungen
 Im Feld Zugriffsbeschränkungen (INSPIRE) kann für INSPIRE-relevante Daten oder Dienste ein Wert aus der Auswahlliste ausgewählt werden. Für unbeschränkt nutzbare Daten und Dienste, ist der Eintrag „Es gelten keine Beschränkungen“ anzugeben. Sollte es der Zugriff beschränkt sein, ist ein Grund anzugeben, warum die Daten einer Einschränkung unterliegen.
 
 
-Felder für Nutzungsbedingungen
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Felder für Nutzungsbedingung und Quellenvermerk
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Feld: Nutzungsbedingung
-""""""""""""""""""""""""
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-09_verfuegbarkeit/nutzungsbedingung.png
    :align: left
@@ -813,9 +808,11 @@ Feld: Nutzungsbedingung
 
 Abb.: Beispiel - Nutzungsbed.: Datenlizenz Deutschland Namensnennung 2.0 / Quellvermerk: © GeoBasis-DE / BKG (Jahr des letzten Datenbezugs)
 
-Die Nutzungsbedingungen im BKG werden von der Produktkoordination abgestimmt und die Texte im Editor zur Auswahl bereitgestellt. 
-Es ist eine Auswahlliste mit Nutzungsbedingungen hinterlegt. Der Kurztext dient zur Auswahl der eigentlichen Nutzungsbedingung in ausführlicher Form. Der Text in dieser langen Form ist der tatsächliche Eintrag.
-Weiterhin besteht die Möglichkeit Nutzungsbedingungen per Freitext in das daneben stehende Eingabefeld einzutragen.
+Feld: Nutzungsbedingung
+""""""""""""""""""""""""
+
+Es ist eine Auswahlliste mit Nutzungsbedingungen hinterlegt. Der Kurztext dient zur Auswahl des eigentlichen Texteintrags. Die Nutzungsbedingungen im BKG werden von der Produktkoordination abgestimmt und die Texte im Editor zur Auswahl bereitgestellt. 
+Daneben besteht die Möglichkeit Nutzungsbedingungen per Freitext in das darunter stehende Eingabefeld neben dem Feld Quellenvermerk einzutragen. Dies kann bei einmaligem Vorkommen einer Nutzungsbedingung oder als ergänzende Information zum ausgewählten Textbaustein nützlich sein.
 
 
 Feld: Quellenvermerk
