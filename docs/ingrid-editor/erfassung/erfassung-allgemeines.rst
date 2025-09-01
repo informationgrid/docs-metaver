@@ -8,8 +8,8 @@ Der neue InGrid Editor zur Erfassung von ISO-Metadaten wurde technisch von Grund
 
 InGrid Editor - Übersicht
 -------------------------
- 
- Nach Start des Editors wird dem Nutzer eine Übersicht der zuletzt bearbeiteten Metadaten angezeigt. Dazu erscheint ein Diagram, das die Anzahl der in Bearbeitung befindlichen und veröffentlichten Metadaten darstellt.
+
+Nach Start des Editors wird dem Nutzer eine Übersicht der zuletzt bearbeiteten Metadaten angezeigt. Dazu erscheint ein Diagram, das die Anzahl der in Bearbeitung befindlichen und veröffentlichten Metadaten darstellt.
 
 
 .. figure:: ../../img/ige/allgemein/uebersicht.png
@@ -26,7 +26,7 @@ Aufbau der Benutzeroberfläche
 .. figure:: ../../img/ige/allgemein/benutzeroberflaeche_bkg.png
    :align: left
    :scale: 70
-   :figwidth: 100%
+   
    
 Abb.: InGrid Editor - Benutzeroberfläche
 
