@@ -111,13 +111,13 @@ Neben den Metadaten- und Adresstypen zeigen die Icons auch den Bearbeitungsstatu
 Optionen zu den Metadaten 
 -------------------------------
 
-(tlw. für Nutzer eingeschränkt)
+(tlw. für Nutzer eingeschränkt verfügbar)
 
-Über das Drei-Punkte-Menü, auf der rechten Seite der Erfassungsmaske kann eine Funktion angesteuert und Berechtigungen gesichtet oder vergeben werden.
+Über das Drei-Punkte-Menü, auf der rechten Seite der Erfassungsmaske, können verschiedene Aktionen angesteuert werden.
 
 .. figure:: ../../img/ige/allgemein/optionen.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 
@@ -128,7 +128,7 @@ Mit dieser Funktion werden die Thesaurie mit den Schlagworte aus der Freitextein
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/schlagworte-konsolidieren.png
    :align: left
-   :scale: 50
+   :scale: 70
    :figwidth: 100%
 
 Abb.: Schlagworte abgleichen
