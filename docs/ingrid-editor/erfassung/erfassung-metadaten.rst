@@ -779,7 +779,7 @@ Feld: Zugriffsbeschränkungen
 
 Dieses Feld ist für alle jene Geodaten-Ressourcen zu nutzen, die nicht INSPIRE-relevant sind.
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-09_verfuegbarkeit/zugriffsbeschraenkungen.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-09_verfuegbarkeit/zugriffsbeschraenkung.png
    :align: left
    :scale: 80
    :figwidth: 100%
@@ -794,7 +794,7 @@ Feld: Zugriffsbeschränkungen (INSPIRE)
 
 Dieses Feld ist nur für INSPIRE-relevanten Geodaten-Ressourcen zu nutzen.
 
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-09_verfuegbarkeit/zugriffsbeschraenkungen.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-09_verfuegbarkeit/zugriffsbeschraenkung-INSPIRE.png
    :align: left
    :scale: 80
    :figwidth: 100%
