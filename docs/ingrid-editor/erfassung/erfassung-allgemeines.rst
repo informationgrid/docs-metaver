@@ -111,16 +111,20 @@ Neben den Metadaten- und Adresstypen zeigen die Icons auch den Bearbeitungsstatu
 Optionen zu den Metadaten 
 -------------------------------
 
-Über das Drei-Punkte-Menü, auf der rechten Seite der Erfassungsmaske können verschiedene Berechtigungen vergeben werden.
+(tlw. für Nutzer eingeschränkt)
 
-.. figure:: ../../img/ige/allgemein/auswahl_veroeffentlichungsrecht.png
+Über das Drei-Punkte-Menü, auf der rechten Seite der Erfassungsmaske kann eine Funktion angesteuert und Berechtigungen gesichtet oder vergeben werden.
+
+.. figure:: ../../img/ige/allgemein/optionen.png
    :align: left
    :scale: 50
    :figwidth: 100%
 
 
-Schlagworte konsolidieren ...
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Schlagworte konsolidieren
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Mit dieser Funktion werden die Thesaurie mit den Schlagworte aus der Freitexteingabe durchsucht und zugeordnet, sofern sie dort registriert sind.
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/schlagworte-konsolidieren.png
    :align: left
@@ -132,8 +136,10 @@ Abb.: Schlagworte abgleichen
 Anhand der Symbole in der Ordnerstruktur wird durch einen Punkt das Veröffentlichungsrecht der Adresse oder des Metadatensatzes angezeigt.
 
 
-Veröffenlichungsrecht setzen ...
+Veröffenlichungsrecht setzen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Im BKG sollte immer Internet gesetzt sein. Die Veröffentlichungsebenen Intranet und amtsintern sind im BKG nicht eingerichtet. 
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/veroeffentlichungsrecht_setzen.png
    :align: left
@@ -169,7 +175,8 @@ Abb.: Berechtigungen anzeigen
 
 Verantwortlichkeit ändern
 ^^^^^^^^^^^^^^^^^^^^^^^^^
-(Nur für Administratoren sichtbar.)
+
+(nur für Administrator sichtbar)
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/verantwortlichkeit_aendern.png
    :align: left
