@@ -632,17 +632,13 @@ Abb.: Angabe von Zeitpunkten, Zeiträumen / Zeitspannen
 
 Es soll die Zeitspanne oder der Zeitpunkt der Erhebung der eigentlichen Daten eingetragen werden. 
 
-Die Zeitspannen werden mit fogenden Werten angegeben:
+Die Zeitangaben und Wertepaare können wie folgt angegeben werden:
 
-**Beginn**
- - am
- - bis
- - von
-
-**Ende**
- - bis: gegenwärtige Aktualität unklar
- - bis: gegenwärtig aktuell
- - bis: genaues Datum
+ - am [Datum] 
+ - von [Datum] --  bis: genaues Datum [Datum]
+ - von [Datum] --  bis: gegenwärtige Aktualität unklar  (End-Zeitpunkt unbekannt)
+ - von [Datum] --  bis: gegenwärtig aktuell             (wird bis Abruf der Daten permanent aktualisiert, z.B. Sensordaten)
+ - bis [Datum]                                          (Begin-Zeitpunkt unbekannt)
 
 Beispiele: Zeitraum einer Erhebung von Messdaten, Entwicklungszeitraum einer Anwendung, Laufzeit eines Projektes, Laufzeit einer Studie, Zeitraum für die Erstellung einer Basiskarte, Zeitraum einer Befliegung
 
