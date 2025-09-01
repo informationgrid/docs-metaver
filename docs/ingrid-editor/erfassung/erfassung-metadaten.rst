@@ -499,20 +499,20 @@ Abb.: Raumbezugtyp: WKT (Polygon)
 Option: Geothesaurus (wfs_gnde, BKG Dienst)
 """""""""""""""""""""""""""""""""""""""""""
 
-wfs_gnde steht für Geographische Namen und ist ein Gazetteer (Ortsverzeichnis) des Bundesamt für Kartographie und Geodäsie. Dieses Werkzeug enthält den Amtlichen Regionalschlüssel (ASR)
+wfs_gnde steht für Geographische Namen und ist ein Gazetteer (Ortsverzeichnis) des Bundesamt für Kartographie und Geodäsie. Dieses Werkzeug enthält den Amtlichen Regionalschlüssel (ARS)
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_gnde.png
    :align: left
    :scale: 70
    :figwidth: 100%
 
-Abb.: Raumbezugtyp: GN-DE mit Amtlichen Regionalschlüssel (ASR)
+Abb.: Raumbezugtyp: GN-DE mit Amtlichen Regionalschlüssel (ARS)
 
 
 Feld: Amtlicher Regionalschlüssel (ARS)
 """""""""""""""""""""""""""""""""""""""
 
-Den `Amtlichen Regionalschlüssel (ARS) <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/raumbezug/asr.html>`_ erfassen.
+.. seealso:: `Ausfühliche Bescheibung Erfassung von ARS <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/raumbezug/ars.html>`_
 
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-06_raumbezug/raumbezug_optionen.png
@@ -544,10 +544,7 @@ Feld: Raumbezugssystem (Koordinatenreferenzsystem oder Koordinatenbezugsystem)
 Abb.: Feld Koordinatenreferenzsystem
 
 
-
-`Auswahlliste Koordinatenrefernzsystem <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/auswahllisten/auswahlliste_raumbezug_raumbezugsysteme.html>`_
-
-Über ein Dropdownmenü erfolgt an dieser Stelle die Auswahl des Raumbezugssystems, welches in der Ressource verwendet wurde. 
+Auswahl des Raumbezugssystems, welches in der Ressource verwendet wurde. 
 
 Beispiel: EPSG:4326 / WGS 84 / geographisch
 
@@ -584,8 +581,6 @@ Feld: Vertikaldatum
 Angabe des Referenzpegels, zu dem die Höhe relativ gemessen wird. In Deutschland ist dies i.A. der Pegel Amsterdam.
 
 Beispiel: Pegel Amsterdam
-
-`Auswahlliste Vertikaldatum <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/auswahllisten/auswahlliste_raumbezug_vertikaldatum.html>`_
 
 
 Feld: Erläuterungen
@@ -663,7 +658,6 @@ Feld: Status
 
 Abb.: Feld Status
 
-`Auswahlliste Status <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/auswahllisten/auswahlliste_zeitbezug_status.html>`_
 
 Das Feld Status beschreibt den Bearbeitungsstand eines Projektes oder eine der Messung etc. Diese können sich in unterschiedlichen Stadien befinden, d.h. Projekte, Programme oder Messungen können in Planung sein, derzeit durchgeführt werden oder schon abgeschlossen sein.
 
@@ -678,7 +672,6 @@ Feld: Periodizität
 
 Abb.: Feld Priodizität
 
-`Auswahlliste der Priodizität <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/auswahllisten/auswahlliste_zeitbezug_periodizitaet.html>`_
 
 Im Feld Periodizität wird der Zeitzyklus der Datenerhebung angegeben.
 
@@ -693,7 +686,6 @@ Feld: Intervall der Erhebung
 
 Abb.: Feld Im Intervall der Erhebung
 
-`Auswahlliste Intervall <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/auswahllisten/auswahlliste_zeitbezug_intervalle.html>`_
 
 Mit Intervall wird der zeitliche Abstand (Frequenz) der Datenerhebung angegeben. Erfolgt die Datenerhebung kontinuierlich oder periodisch (siehe Feld Periodizität), so wird diese Angabe hier präzisiert. Es stehen Felder für den Eintrag einer Anzahl und eine Auswahlliste für die Einheit zur Verfügung. Der Eintrag von "6" und "Monaten" bedeutet, dass die beschriebenen Daten alle 6 Monate aktualisiert werden.
 
@@ -766,6 +758,9 @@ Beispiel: Potentiale für Grünfächen, Fassadenbegrünung, Dachbegrünung und F
 Feld: Eignung/Nutzung
 """""""""""""""""""""
 
+(im BKG keine Verwendung)
+
+
 Beispiel: Grundlage für Planung von Anpassungsmaßnahmen an den Klimawandel
 
 Spezifische Nutzung: kurze Beschreibung zur Verwendung der Ressource.
@@ -813,8 +808,8 @@ Im Feld Zugriffsbeschränkungen (INSPIRE) kann für INSPIRE-relevante Daten oder
 Felder für Nutzungsbedingungen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Feld: Lizenz
-""""""""""""
+Feld: Nutzungsbedingung
+""""""""""""""""""""""""
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-09_verfuegbarkeit/nutzungsbedingungen.png
    :align: left
@@ -823,22 +818,23 @@ Feld: Lizenz
 
 Abb.: Beispiel - Nutzungsbed.: Datenlizenz Deutschland Namensnennung 2.0 / Quellvermerk: © GeoBasis-DE / BKG (Jahr des letzten Datenbezugs)
 
-`Auswahlliste der Nutzungsbedingungen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/auswahllisten/auswahlliste_verfuegbarkeit_nutzungsbedingungen.html>`_
-
-Nutzungsbedingungen sind ein einseitig vorformulierter Vertrag, mit dem der Anbieter (der Datenbereitsteller) die Nutzer der Daten über ihre Rechte und Pflichten informiert.
-In der Tabellenspalte Nutzungsbedingungen ist eine Auswahlliste mit Lizenzen hinterlegt, diese beschreiben vordefinierte Nutzungsbedingungen. Weiterhin besteht die Möglichkeit Nutzungsbedingungen per Freitext in die Zeile einzutragen oder unter Verweise Nutzungsbedingungen zu verlinken.
+Die Nutzungsbedingungen im BKG werden von der Produktkoordination abgestimmt und die Texte im Editor zur Auswahl bereitgestellt. 
+Es ist eine Auswahlliste mit Nutzungsbedingungen hinterlegt. Der Kurztext dient zur Auswahl der eigentlichen Nutzungsbedingung in ausführlicher Form. Der Text in dieser langen Form ist der tatsächliche Eintrag.
+Weiterhin besteht die Möglichkeit Nutzungsbedingungen per Freitext in das daneben stehende Eingabefeld einzutragen.
 
 
 Feld: Quellenvermerk
-""""""""""""""""""""
+^^^^^^^^^^^^^^^^^^^^
 
-In dieser Tabellenspalte wird das Copyright des Datenbreitstellers angegeben und optional die Angabe für das Jahr des Datenbezugs.
+In diesem Feld wird der Quellenvermerk eingetragen. Dies ist häufig das Copyright des Datenbereitstellers mit Angabe für das Jahr des Datenbezugs.
 
-Beispiel: © Landesamt für ... - jjjj
+Beispiel: © GeoBasis-DE / BKG < year of last data download >
 
 
 Feld: Anwendungseinschränkungen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+(im BKG keine Verwendung)
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-09_verfuegbarkeit/anwendungseinschraenkungen.png
    :align: left
@@ -860,8 +856,6 @@ Felder für Datenformat
 
 Abb.: Beispiel für Datenformatangaben
 
-`Auswahlliste Datenformat <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/auswahllisten/auswahlliste_verfuegbarkeit_datenformate.html>`_
-
 
 Angabe des Formats der Daten in DV-technischer Hinsicht, in welchem diese verfügbar sind. Die Datenformatbezeichnung kann durch 3 weitere Eingaben spezifiziert werden. Es empfiehlt sich die Version zusätzlich anzugeben, sofern diese bekannt ist. 
 
@@ -871,19 +865,21 @@ Angabe des Formats der Daten in DV-technischer Hinsicht, in welchem diese verfü
 
 | **Feld: Version**
 
-  - Version der verfügbaren Daten (Beispiel: Version: 3.2.1 oder "Version vom tt.mm.jjjj") 
+  - Version der verfügbaren Daten (optional) (Beispiel: Version: 3.2.1 oder "Version vom tt.mm.jjjj") 
 
 | **Feld: Kompressionstechnik**
 
-  - Kompression, in welcher die Daten geliefert werden (Beispiel: Zip, keine)
+  - Kompression, in welcher die Daten geliefert werden (optional) (Beispiel: Zip, keine)
 
 | **Feld: Spezifikation**
 
-  - Details zur Spezifikation (Beispiel: XML-basiertes Datenaustauschformat (OGC/ISO TC211)).
+  - Details zur Spezifikation (optional) (Beispiel: XML-basiertes Datenaustauschformat (OGC/ISO TC211)).
 
 
 Felder: Medienoption
 ^^^^^^^^^^^^^^^^^^^^
+
+(im BKG keine Verwendung)
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-09_verfuegbarkeit/medienoption.png
    :align: left
@@ -908,20 +904,20 @@ Angabe auf welchen Medien oder über welche Medien die Daten zur Verfügung gest
   - Angabe eines Ortes, an dem die Daten abgelegt sind (Beispiel: Ordner: Daten/.../.../)
 
 
-`Auswahlliste Medium <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/auswahllisten/auswahlliste_verfuegbarkeit_medienoption.html>`_
-
 Angabe von generellen Informationen zur Bestellung, wie z.B. Bedingungen oder Konditionen.
 
 
 Feld: Bestellinformation
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
+(im BKG keine Verwendung)
+
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-09_verfuegbarkeit/bestellinformation.png
    :align: left
    :scale: 80
    :figwidth: 100%
 
-Abb.: Beispiel für eine Bestellinformation - Die Lieferzeit beträgt 3 Wochen.
+Abb.: Beispiel für eine Bestellinformation
 
 -----------------------------------------------------------------------------------------------------------------------
 
@@ -951,9 +947,9 @@ Abb.: Verweise hinzufügen
 Abb.: Verweise bearbeiten
 
 
-| **Feld Typ:** `Auswahlliste <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/auswahllisten/auswahlliste_verweise_verweistypen.html>`_
+| **Feld Typ:** Auswahlliste 
 | **Feld Titel:** Titel, der mit einem Link hinterlegt werden soll.
-| **Feld URL:** Angabe einer Webseite-URL oder einer Download-URL, auf die verwiesen werden soll.
+| **Feld URL:** Angabe einer Webseiten-URL oder einer Download-URL, auf die verwiesen werden soll.
 | **Feld Datensatzverweis:** Verweise auf interne und Externe Metadatensätze (UUID)
 | **Feld Erläuterungen:** Ergänzende Erläuerung zu einer Verlinkung
 
