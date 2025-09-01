@@ -783,6 +783,8 @@ Im Abschnitt Verfügbarkeit wird angegeben, ob die zu beschreibenden Daten einer
 Feld: Zugriffsbeschränkungen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Dieses Feld ist für alle jene Geodaten-Ressourcen zu nutzen, die nicht INSPIRE-relevant sind.
+
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-09_verfuegbarkeit/zugriffsbeschraenkungen.png
    :align: left
    :scale: 80
@@ -790,9 +792,22 @@ Feld: Zugriffsbeschränkungen
 
 Abb.: Auswahl-/Eingabefeld - Zugriffsbeschränkungen
 
-`Auswahlliste der Zugriffsbeschränkungen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/auswahllisten/auswahlliste_verfuegbarkeit_zugriffsbeschraenkungen.html>`_
+Im Feld Zugriffsbeschränkungen kann aus einer Auswahlliste ein Wert ausgewählt werden. Für unbeschränkt nutzbare Daten und Dienste, ist der Eintrag „Es gelten keine Beschränkungen“ anzugeben. Sollte es der Zugriff beschränkt sein, ist diese Beschränkung anzugeben.
 
-Im Feld Zugriffsbeschränkungen kann aus einer Auswahlliste ein Grund angegeben werden, warum die Daten einer Einschränkung unterliegen. Trifft keiner dieser Gründe zu, ist der Eintrag „Es gelten keine Beschränkungen“ anzugeben.
+
+Feld: Zugriffsbeschränkungen (INSPIRE)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Dieses Feld ist nur für INSPIRE-relevanten Geodaten-Ressourcen zu nutzen.
+
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-09_verfuegbarkeit/zugriffsbeschraenkungen.png
+   :align: left
+   :scale: 80
+   :figwidth: 100%
+
+Abb.: Auswahl-/Eingabefeld - Zugriffsbeschränkungen
+
+Im Feld Zugriffsbeschränkungen (INSPIRE) kann für INSPIRE-relevante Daten oder Dienste ein Wert aus der Auswahlliste ausgewählt werden. Für unbeschränkt nutzbare Daten und Dienste, ist der Eintrag „Es gelten keine Beschränkungen“ anzugeben. Sollte es der Zugriff beschränkt sein, ist ein Grund anzugeben, warum die Daten einer Einschränkung unterliegen.
 
 
 Felder für Nutzungsbedingungen
