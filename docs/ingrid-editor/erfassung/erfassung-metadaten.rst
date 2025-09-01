@@ -394,15 +394,12 @@ Abschnitt Fachbezug
 Nachfolgend sind in den verschiedenen Datensatztypen (Verlinkung folgen) die zusätzlichen Eingabefelder beschrieben.
 
 | `Geodatensatz <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/datensatztyp-geodatensatz.html>`_
-
   | Beschreibung von digitalen Geodaten, analogen Karten oder Kartenwerke.
 
 | `Geodatendienst <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/datensatztyp-geodatendienst.html>`_
-
   | Dienste, die raumbezogene Daten zur Verfügung stellen, insbesondere Dienste im Rahmen von INSPIRE, der GDI-DE oder der GDIs der Länder.
 
 | `Anwendung <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/datensatztyp-anwendung.html>`_
-
   | Web-Anwendungen, die raumbezogene Daten verarbeiten
 
 -----------------------------------------------------------------------------------------------------------------------
@@ -512,6 +509,8 @@ Abb.: Raumbezugtyp: GN-DE mit Amtlichen Regionalschlüssel (ARS)
 Feld: Amtlicher Regionalschlüssel (ARS)
 """""""""""""""""""""""""""""""""""""""
 
+Deutschlandweite Ausdehnung > ARS="0"
+
 .. seealso:: `Ausfühliche Bescheibung Erfassung von ARS <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/raumbezug/ars.html>`_
 
 
@@ -520,7 +519,7 @@ Feld: Amtlicher Regionalschlüssel (ARS)
    :scale: 70
    :figwidth: 100%
 
-Abb.: Unterschiedliche Raumbezugtypen nach ÜBERNEHMEN in die Metadaten
+Abb.: Anzeige der Unterschiedlichen Raumbezugtypen nach ÜBERNEHMEN 
 
 
 Für das Bearbeiten des Raumbezuges, auf der rechten Seite auf die drei Punkte klicken, dann öffnet sich ein Menü.
