@@ -1,12 +1,12 @@
 
-======================
-Der neue InGrid Editor
-======================
+============================
+Der neue Metadaten-Editor
+============================
 
-Der neue InGrid Editor zur Erfassung von ISO-Metadaten wurde technisch von Grund auf erneuert. Er enthält eine Vielzahl an Verbesserungen. Benutzerfreundlichkeit, Barrierefreiheit, responsives Layout für unterschiedliche Bildschirme sowie Touch-Bedienung für Tablets und Touch-Monitore, wurden berücksichtigt. Eine intuitive Bedienung erleichtert die Eingabe der Daten. Der Editor wurde für den Einsatz im BKG angepasst. 
+Der neue Metadaten-Editor zur Erfassung von ISO-Metadaten wurde technisch von Grund auf erneuert. Er enthält eine Vielzahl an Verbesserungen. Benutzerfreundlichkeit, Barrierefreiheit, responsives Layout für unterschiedliche Bildschirme sowie Touch-Bedienung für Tablets und Touch-Monitore, wurden berücksichtigt. Eine intuitive Bedienung erleichtert die Eingabe der Daten. Der Editor wurde für den Einsatz im BKG angepasst. 
 
 
-InGrid Editor - Übersicht
+Metadaten-Editor - Übersicht
 -------------------------
 
 Nach Start des Editors wird dem Nutzer eine Übersicht der zuletzt bearbeiteten Metadaten angezeigt. Dazu erscheint ein Diagram, das die Anzahl der in Bearbeitung befindlichen und veröffentlichten Metadaten darstellt.
@@ -28,7 +28,7 @@ Aufbau der Benutzeroberfläche
    :scale: 50
    :figwidth: 100%
    
-Abb.: InGrid Editor - Benutzeroberfläche
+Abb.: Editor - Benutzeroberfläche
 
 Aufbau der Benutzeroberfläche:
 
@@ -40,7 +40,7 @@ Aufbau der Benutzeroberfläche:
 Strukturierung der Daten
 ------------------------
 
-Im InGrid Editor können Daten strukturiert werden. Im BKG wurde die Struktur vom Fachverfahrensverantwortlichen vorbereitet. 
+Im Editor können Daten strukturiert werden. Im BKG wurde die Struktur vom Fachverfahrensverantwortlichen vorbereitet. 
 
 
 .. figure:: ../../img/ige/allgemein/datenstruktur_bkg.png
@@ -48,14 +48,14 @@ Im InGrid Editor können Daten strukturiert werden. Im BKG wurde die Struktur vo
    :scale: 50
    :figwidth: 100%
    
-Abb.: InGrid Editor - Aufbau der Ordnerstruktur im BKG
+Abb.: Editor - Aufbau der Ordnerstruktur im BKG
 
  
 
 Metadatentypen
 --------------
 
-Im InGrid-Editor gibt es verschiedene Arten von Metadaten- oder Adress-Typen.
+Im Editor gibt es verschiedene Arten von Metadaten- oder Adress-Typen.
 
 **Daten**
 
@@ -159,7 +159,7 @@ Anhand der Symbole in der Ordnerstruktur wird durch einen Punkt das Veröffentli
    .. figure:: ../../img/ige/allgemein/icon_veroeffentlichungsrecht-amtsintern.png , roter Punkt , Der Metadatensatz bzw. die Adresse ist auf amtsintern gesetzt. Der Datensatz ist nur im Editor sichtbar.
 
 
-.. hint:: Der neue InGrid Editor wurde um eine Funktion erweitert. Datensätze, die bereits im Internet veröffentlicht wurden, können über die Funktion "Veröffentlichung zurückziehen" (Menü - Pfeil neben dem Button VERÖFFENTLICHEN) wieder aus dem Internet zurückgezogen werden. Das Icon in der Ordnerstruktur erscheint dann wieder komplett orange.  In der Statistik der Übersichtsseite und in der Statistik der Berichte verringern sich dann die Zahlen der veröffentlichten Datensätze, die Zahlen der in Bearbeitung befindlichen Datensätze erhöhen sich. Das Veröffentlichungsrecht amtsintern ist dann noch ein zusätzlicher Schutz vor der Veröffentlichung im Internet.
+.. hint:: Der neue Editor wurde um eine Funktion erweitert. Datensätze, die bereits im Internet veröffentlicht wurden, können über die Funktion "Veröffentlichung zurückziehen" (Menü - Pfeil neben dem Button VERÖFFENTLICHEN) wieder aus dem Internet zurückgezogen werden. Das Icon in der Ordnerstruktur erscheint dann wieder komplett orange.  In der Statistik der Übersichtsseite und in der Statistik der Berichte verringern sich dann die Zahlen der veröffentlichten Datensätze, die Zahlen der in Bearbeitung befindlichen Datensätze erhöhen sich. Das Veröffentlichungsrecht amtsintern ist dann noch ein zusätzlicher Schutz vor der Veröffentlichung im Internet.
 
 
 Berechtigungen anzeigen
@@ -269,7 +269,7 @@ Der getCapabilities Assistent
 
 Abb.: Symbolleiste -  getCapabilities-Assistent
 
-Für die Erfassung von Geodatendiensten (WMS, WFS, WCS, WCTS, WMTS und CSW) kann der getCapabilities-Assistent genutzt werden. Der Assistent wird über die Symbolleiste aufgerufen. In dem sich öffnenden Fenster muss die getCapabilities-URL eingetragen werden. Nachdem der Button "ÜBERNEHMEN" betätigt wurde, werden die Operationen im Hintergrund verarbeitet, wodurch die Erfassung von OGC-konformen Diensten erheblich vereinfacht wird. Die Analyseergebnisse werden angezeigt und es besteht die Möglichkeit, auszuwählen, welche Metadaten in den Metadatensatz übernommen werden sollen. Danach kann der Datensatz im InGrid Editor weiter bearbeitet und gespeichert werden.
+Für die Erfassung von Geodatendiensten (WMS, WFS, WCS, WCTS, WMTS und CSW) kann der getCapabilities-Assistent genutzt werden. Der Assistent wird über die Symbolleiste aufgerufen. In dem sich öffnenden Fenster muss die getCapabilities-URL eingetragen werden. Nachdem der Button "ÜBERNEHMEN" betätigt wurde, werden die Operationen im Hintergrund verarbeitet, wodurch die Erfassung von OGC-konformen Diensten erheblich vereinfacht wird. Die Analyseergebnisse werden angezeigt und es besteht die Möglichkeit, auszuwählen, welche Metadaten in den Metadatensatz übernommen werden sollen. Danach kann der Datensatz im Editor weiter bearbeitet und gespeichert werden.
 
 Eine ausführliche Beschreibung für diese Funktion erfolgt im Datensatztyp `Geodatendienst <./de/latest/ingrid-editor/erfassung/datensatztypen/datensatztyp-geodatendienst.html>`_.
 
@@ -321,7 +321,7 @@ Abb.: Sprungmarken
 Eingabefelder
 -------------
 
-Im InGrid Editor stehen eine Vielzahl an Feldern zur Verfügung, doch nicht alle Felder müssen zwingend ausgefüllt werden. Jeder Metadatensatz oder jede Adresse hat jedoch Pflichtfelder, die unbedingt ausgefüllt werden müssen. Ohne die Befüllung der Pflichtfelder ist das Abspeichern des Datensatzes nicht möglich. Pflichtfelder sind durch ein Sternchen gekennzeichnet. 
+Im Editor stehen eine Vielzahl an Feldern zur Verfügung, doch nicht alle Felder müssen zwingend ausgefüllt werden. Jeder Metadatensatz oder jede Adresse hat jedoch Pflichtfelder, die unbedingt ausgefüllt werden müssen. Ohne die Befüllung der Pflichtfelder ist das Abspeichern des Datensatzes nicht möglich. Pflichtfelder sind durch ein Sternchen gekennzeichnet. 
 
 .. figure:: ../../img/ige/allgemein/felder.png
    :align: left
@@ -372,7 +372,7 @@ Abb.: Feldtyp - Auswahllisten und Datumsangabe
 Speichern & Veröffentlichen
 ---------------------------
 
-Im InGrid Editor gibt es zwei Speicheroptionen: "Speichern" speichert den bearbeiteten oder neu erstellten Datensatz, aber die Daten werden noch nicht im Internet veröffentlicht. Sie bleiben nur in der Ordnerstruktur des InGrid Editors sichtbar. Das Speichern ist jederzeit möglich, auch wenn alle Pflichtfelder noch nicht ausgefüllt wurden.
+Im Editor gibt es zwei Speicheroptionen: "Speichern" speichert den bearbeiteten oder neu erstellten Datensatz, aber die Daten werden noch nicht im Internet veröffentlicht. Sie bleiben nur in der Ordnerstruktur des Editors sichtbar. Das Speichern ist jederzeit möglich, auch wenn alle Pflichtfelder noch nicht ausgefüllt wurden.
 
 
 .. figure:: ../../img/ige/allgemein/speichern.png
@@ -641,7 +641,7 @@ Abb.: Auswahl - Beenden
 Besuchszeit ist abgelaufen (Logout)
 -----------------------------------
 
-Wenn der Editor für eine längere Zeit (30 Minuten) nicht genutzt wird, läuft die Besuchszeit ab. 5 Minuten vor Ablauf der Besuchszeit erscheint oben auf der Seite ein Countdown. Ist der Countdown angelaufen wird der Benutzer aus dem InGrid Editor abgemeldet und muss sich neu anmelden. Der "Refresh-Button" kann optional betätigt werden, um den Countdown neu zu starten. 
+Wenn der Editor für eine längere Zeit (30 Minuten) nicht genutzt wird, läuft die Besuchszeit ab. 5 Minuten vor Ablauf der Besuchszeit erscheint oben auf der Seite ein Countdown. Ist der Countdown angelaufen wird der Benutzer aus dem Editor abgemeldet und muss sich neu anmelden. Der "Refresh-Button" kann optional betätigt werden, um den Countdown neu zu starten. 
 
 .. hint:: Wenn Sie aus dem Editor ausgeloggt wurden, laden Sie die Login-Seite neu (Taste F5), sonst erhalten Sie bei einem erneuten Login-Versuch die Meldung: „Sie haben zu lange gebraucht, um sich anzumelden. Bitte versuchen Sie es erneut.“
 
@@ -664,10 +664,10 @@ Abb.: Meldung - Besuchszeit abgelaufen
 Leider gehen alle Änderungen und Neueingaben verloren, die bis zu diesem Zeitpunkt nicht gespeichert wurden. Es erfolgt keine automatische Zwischenspeicherung! Daher empfiehlt es sich, während der Erfassung von Verfahren und Adressen regelmäßig zu speichern. Eine automatische Zwischenspeicherung ist zukünftig vorgesehen.
 
 
-InGrid Editor schließen
+Editor schließen
 -----------------------
 
-Soll der InGrid Editor beendet werden, müssen Sie auf der Seite oben rechts den Punkt für die Profilverwaltung anklicken
+Soll der Editor beendet werden, müssen Sie auf der Seite oben rechts den Punkt für die Profilverwaltung anklicken
 
 
 .. figure:: ../../img/ige/allgemein/abmeldung.png

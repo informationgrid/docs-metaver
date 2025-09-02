@@ -3,9 +3,9 @@
 Rollen
 ======
 
-Die Benutzerrechte im InGrid Editor werden in der Verwaltung der Benutzer des InGrid Editors in der Gruppenadministration festgelegt. Zunächst müssen Gruppen definiert werden, die spezifische Rechte für einen Bereich des Katalogs aufweisen, und anschließend werden die Benutzer einer oder mehreren Gruppen zugeordnet.
+Die Benutzerrechte im Editor werden in der Verwaltung der Benutzer des Editors in der Gruppenadministration festgelegt. Zunächst müssen Gruppen definiert werden, die spezifische Rechte für einen Bereich des Katalogs aufweisen, und anschließend werden die Benutzer einer oder mehreren Gruppen zugeordnet.
 
-Dabei werden im InGrid Editor folgende Rechte (Rollen) unterschieden:
+Dabei werden im Editor folgende Rechte (Rollen) unterschieden:
 
 **1. Autor:** Er hat Zugriff auf einen Teil des Verzeichnisbaums, aber keine Berechtigung zur Benutzerverwaltung oder anderen Verwaltungsfunktionen.
 

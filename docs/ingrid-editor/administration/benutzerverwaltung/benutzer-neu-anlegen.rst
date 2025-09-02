@@ -53,7 +53,7 @@ Abb.: Rolle zuweisen
 
 .. hint:: Katalog-Administratoren können Metadaten-Administratoren und Autoren anlegen. Metadaten-Administratoren können nur Autoren anlegen. Autoren können keine Benutzer anlegen.
 
-Einem InGrid Editor-Benutzer können eine oder mehrere Gruppen zugewiesen werden. In der Auswahlliste werden alle Gruppen angezeigt, die in der Gruppenadministration definiert sind.
+Einem Editor-Benutzer können eine oder mehrere Gruppen zugewiesen werden. In der Auswahlliste werden alle Gruppen angezeigt, die in der Gruppenadministration definiert sind.
 
 
 Feld E-Mail

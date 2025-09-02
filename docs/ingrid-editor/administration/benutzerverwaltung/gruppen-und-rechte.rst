@@ -20,7 +20,7 @@ Wichtig: Alle Änderungen an den Gruppeneigenschaften (auch die an den untensteh
 Gruppen erstellen
 -----------------
 
-Um Gruppen im InGrid Editor zu erstellen, gehen Sie wie folgt vor:
+Um Gruppen im Editor zu erstellen, gehen Sie wie folgt vor:
 
 1. Klicken Sie auf "Gruppen & Rechte" in der Navigationsleiste.
 2. Wählen Sie "HINZUFÜGEN".

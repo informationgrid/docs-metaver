@@ -60,7 +60,7 @@ Bedeutung der Symbolfarben:
 
 Abb.: Ordnerstruktur -  Symbolfarben
 
-.. seealso:: Der neue InGrid Editor: `Symbole - Bearbeitungsstatus, Berechtigungen zu den Metadaten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/erfassung-allgemeines.html>`_ 
+.. seealso:: Der neue Editor: `Symbole - Bearbeitungsstatus, Berechtigungen zu den Metadaten <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/erfassung-allgemeines.html>`_ 
 
 -----------------------------------------------------------------------------------------------------------------------
 
@@ -247,7 +247,7 @@ Grafik (-en) zu zum bereitgestellten Dateninhalt (einschließlich Legenden) hoch
    :scale: 70
    :figwidth: 100%
 
-Abb.: Vorschaugrafiken im InGrid Editor
+Abb.: Vorschaugrafiken im Editor
 
 Die Dateibeschreibung kann in der hochgeladenen Grafik bearbeitet werden (Stift in der Grafik).
 

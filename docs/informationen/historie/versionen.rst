@@ -160,7 +160,7 @@ Version: 5.6.4 (05.12.2020)
   - IGE: Capabilities Assistent soll WFS Capabilities nach Spezifikation 2.0.2 verarbeiten können
   - IGE: Verhalten der Checkbox "OpenData" - nur wenn Checkbox "INSPIRE-relevant" aktiviert, dann das Feld Zugriffsbeschränkungen automatisch mit "Es gelten keine Zugriffsbeschränkungen" befüllen
   - IGE: Feld "Datengrundlage" in mehrzeiliges Feld ändern
-  - Portal: Darstellung von InGrid Editor-Ordnern in der Datenkatalogansicht
+  - Portal: Darstellung von Editor-Ordnern in der Datenkatalogansicht
   - Portal: Umbenennung des Änderungsdatums in der Portaldarstellung
 	 
    
