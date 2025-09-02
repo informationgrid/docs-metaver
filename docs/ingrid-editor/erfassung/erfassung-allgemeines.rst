@@ -7,7 +7,7 @@ Der neue Metadaten-Editor zur Erfassung von ISO-Metadaten wurde technisch von Gr
 
 
 Metadaten-Editor - Übersicht
--------------------------
+----------------------------- 
 
 Nach Start des Editors wird dem Nutzer eine Übersicht der zuletzt bearbeiteten Metadaten angezeigt. 
 
@@ -33,31 +33,28 @@ Abb.: Editor - Benutzeroberfläche
 Aufbau der Benutzeroberfläche:
 
 * linke Seite - Navigation
-* Seitenmitte - Ordnerstruktur
+* oben - Symbolleiste
+* mittig - Ordnerstruktur
 * rechte Seite - Datenerfassung
 
 
-Strukturierung der Daten
-------------------------
+Seitenbereich Navigation
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Für den Einsatz des Editors im BKG wurde die Ordnerstruktur vom Fachverfahrensverantwortlichen vorbereitet. 
-
-
-.. figure:: ../../img/ige/allgemein/datenstruktur_bkg.png
+.. figure:: ../../img/ige/allgemein/menue.png
    :align: left
-   :scale: 50
+   :scale: 60
    :figwidth: 100%
    
-Abb.: Editor - Aufbau der Ordnerstruktur im BKG
 
- 
+Über den Pfeil unten im Navigationsbereich |verkleinern| kann das Menü verkleinert und vergrößert und damit die Größe des Arbeitsbereichs angepasst werden.
 
-Metadatentypen
---------------
+.. |verkleinern| image:: ../../img/ige/allgemein/menu_verkleinern.png
 
-Im Editor gibt es verschiedene Arten von Metadaten- oder Adress-Typen.
 
-**Daten**
+
+Daten
+^^^^^^^^^^^^^^
 
 Im BKG erfassen wir ISO-Metadaten lediglich für "Geodatensätze", "Geodatendienste" und "Anwendungen". Daher sind nur diese Objektarten zu verwenden.
 
@@ -69,8 +66,8 @@ Im BKG erfassen wir ISO-Metadaten lediglich für "Geodatensätze", "Geodatendien
 Abb.: Metadatentypen in der Ordnerstruktur
 
 
-
-**Adressen**
+Adressen
+^^^^^^^^
 
 Im BKG werden Adressen nur vom Fachadministrator im Editor angelegt. Bitte nehmen Sie bei Bedarf an einer neuer Adresse Kontakt mit dem Fachverfahrensverantwortlichen der Anwendung auf. 
 Für die BKG-MD gilt, möglichst keine Personendaten zu veröffentlichen. Es gibt vereinzelt Ausnahmen.
@@ -94,8 +91,8 @@ Abb.: verfügbare Adressen im BKG-Editor
 
 
 
-Symbole - Bearbeitungsstatus
-----------------------------
+Symbole - Bearbeitungsstatus der Metadatensätze und Adressen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Neben den Metadaten- und Adresstypen zeigen die Icons auch den Bearbeitungsstatus an, um eine bessere Übersicht zu gewährleisten.
 
@@ -108,10 +105,105 @@ Neben den Metadaten- und Adresstypen zeigen die Icons auch den Bearbeitungsstatu
    .. figure:: ../../img/ige/allgemein/icon_bearbeitungsstatus-in-bearbeitung.png , orange und schwarz , Es handelt sich um eine veröffentlichte Version des Metadatensatzes bzw. der Adresse - der Metadatensatz wurde bearbeitet aber noch nicht erneut veröffentlicht.
 
 
-Optionen zu den Metadaten 
--------------------------------
 
-Über das Drei-Punkte-Menü, auf der rechten Seite der Erfassungsmaske, können verschiedene Aktionen angesteuert werden. Dies ist die Ansicht für den Administrator.
+
+
+Symbolleiste
+^^^^^^^^^^^^^^^^
+
+Die Symbolleiste enthält Funktionen, die sich auf den Seitenbereich Ordnerstruktur und Datenerfassung auswirken.
+
+.. figure:: ../../img/ige/allgemein/toolbar.png
+   :align: left
+   :scale: 90
+   :figwidth: 100%
+   
+Abb.: Symbolleiste
+
+Hier im Einzelnen die zur Verfügung stehenden Werkzeuge: 
+
+.. csv-table::
+   :widths: 30, 400
+
+    Symbol , Bezeichnung
+    .. figure:: ../../img/ige/allgemein/symbolleiste_metadaten-anlegen.png , Metadatensatz oder Adressdaten anlegen
+    .. figure:: ../../img/ige/allgemein/symbolleiste_ordner-erstellen.png , Ordner erstellen
+    .. figure:: ../../img/ige/allgemein/symbolleiste_assistent.png , GetCapabilities-Assistent für Geodatendienste
+	 .. figure:: ../../img/ige/allgemein/symbolleiste_vorschau-druckfunktion.png, Vorschau- und Druckfunktion 
+    .. figure:: ../../img/ige/allgemein/symbolleiste_kopieren-verschieben.png , Kopieren / Verschieben
+      mit Untermenü
+    .. figure:: ../../img/ige/allgemein/symbolleiste_iso.png , ISO-XML Ansicht
+	 .. figure:: ../../img/ige/allgemein/symbolleiste_loeschen.png , Löschen
+	 .. figure:: ../../img/ige/allgemein/symbolleiste_zum-letzten-dokument.png , Springe zum letzten Dokument
+	 .. figure:: ../../img/ige/allgemein/symbolleiste_zum-naechsten-dokument.png , Springe zum nächsten Dokument
+
+
+.. figure:: ../../img/ige/allgemein/toolbar_submenue.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Symbolleiste - Untermenü für Kopieren / Verschieben
+
+
+
+Seitenbereich Ordnerstruktur der Metadaten
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Im Bereich "Ordnerstruktur" der Benutzeroberfläche kann über Ordner zu den Metadatensätzen navigiert werden. Für den Einsatz des Editors im BKG wurde die Ordnerstruktur vom Fachverfahrensverantwortlichen vorbereitet. Sie ist im Bedarfsfall veränderbar.
+
+
+.. figure:: ../../img/ige/allgemein/datenstruktur_bkg.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+   
+Abb.: Editor - Aufbau der Ordnerstruktur im BKG
+
+
+
+
+
+Seitenbereich Datenerfassung
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Dieser Bereich gliedert sich in einen Kopfbereich (grau hinterlegt) und der Erfassungsmaske.
+
+Im Kopfbereich sind außer der Anzeige des Titels und Ordnerpfad des angezeigten Datensatzes, hauptsächlich Funktionen zur Navigation in dem Eingabeformular und der Anzeigesteuerung bereitgestellt.
+
+Pfeilsymbol - Kopfbereich vergrößern / verkleinern 
+´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
+
+Ánzeige Ordnerpfad der Datensätze
+´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
+
+Oberhalb des Titels wird der Ordnerpfad angezeigt, die dem Benutzer vermittelt, in welcher Ordner-Ebene sich der angezeigte Datensatz befindet.
+
+.. figure:: ../../img/ige/allgemein/ordner-navigation.png
+   :align: left
+   :scale: 70
+   :figwidth: 100%
+
+Abb.: Ordnerpfad
+
+
+Sprungmarken
+´´´´´´´´´´´´
+
+Unterhalb des Titels des Datensatzes sind Sprungmarken sichtbar, mit deren Hilfe der Nutzer zu verschiedenen Abschnitten der Erfassungsmaske gelangen kann.
+
+.. figure:: ../../img/ige/allgemein/sprungmarken.png
+   :align: left
+   :scale: 150
+   :figwidth: 100%
+
+Abb.: Sprungmarken
+
+
+Drei-Punkt-Menü - Optionen zu den Metadaten 
+´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
+
+Über das Drei-Punkte-Menü, rechts neben dem Titel, können verschiedene Aktionen angesteuert werden. Nachfolgend die Ansicht für den Administrator:
 
 .. figure:: ../../img/ige/allgemein/optionen.png
    :align: left
@@ -119,7 +211,7 @@ Optionen zu den Metadaten
    :figwidth: 100%
 
 
-Ein Nutzer in der Rolle Autor erhält nur die Funktionen "Schlagworte konsolidieren" und "Veröffentlichungsrecht setzen" zur Anzeige.
+Ein Nutzer in der Rolle "Autor" ist eingeschränkt und kann nur die Funktionen "Schlagworte konsolidieren" und "Veröffentlichungsrecht setzen" verwenden.
 
 .. figure:: ../../img/ige/allgemein/optionen_autor.png
    :align: left
@@ -128,9 +220,9 @@ Ein Nutzer in der Rolle Autor erhält nur die Funktionen "Schlagworte konsolidie
 
 
 Schlagworte konsolidieren
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+"""""""""""""""""""""""""""
 
-Mit dieser Funktion werden die Thesaurie mit den Schlagworte aus der Freitexteingabe durchsucht und zugeordnet, sofern sie dort registriert sind.
+Mit dieser Funktion werden die Thesaurie mit den Schlagworten aus der Freitexteingabe durchsucht und zugeordnet, sofern sie dort registriert sind.
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/schlagworte-konsolidieren.png
    :align: left
@@ -143,9 +235,9 @@ Anhand der Symbole in der Ordnerstruktur wird durch einen Punkt das Veröffentli
 
 
 Veröffenlichungsrecht setzen
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+"""""""""""""""""""""""""""""""
 
-Im BKG sollte immer Internet gesetzt sein. Die Veröffentlichungsebenen Intranet und amtsintern sind im BKG nicht eingerichtet. 
+Das Veröffentlichungsrecht ermöglicht die Steuerung wie weit ein Metadatensatz verbreitet werden soll/darf. Im BKG sollte als Veröffentlichungsrecht immer "Internet" gesetzt sein, da die Metadaten des BKG uneingeschränkt öffentlich nutzbar sind. Die Veröffentlichungsebenen "Intranet" und "Amtsintern" sind im BKG nicht eingerichtet. 
 
 .. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/veroeffentlichungsrecht_setzen.png
    :align: left
@@ -168,19 +260,9 @@ Anhand der Symbole in der Ordnerstruktur wird durch einen Punkt das Veröffentli
 .. hint:: Der neue Editor wurde um eine Funktion erweitert. Datensätze, die bereits im Internet veröffentlicht wurden, können über die Funktion "Veröffentlichung zurückziehen" (Menü - Pfeil neben dem Button VERÖFFENTLICHEN) wieder aus dem Internet zurückgezogen werden. Das Icon in der Ordnerstruktur erscheint dann wieder komplett orange.  In der Statistik der Übersichtsseite und in der Statistik der Berichte verringern sich dann die Zahlen der veröffentlichten Datensätze, die Zahlen der in Bearbeitung befindlichen Datensätze erhöhen sich. Das Veröffentlichungsrecht amtsintern ist dann noch ein zusätzlicher Schutz vor der Veröffentlichung im Internet.
 
 
-Berechtigungen anzeigen
-^^^^^^^^^^^^^^^^^^^^^^^
-
-.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/berechtigungen_anzeigen.png
-   :align: left
-   :scale: 50
-   :figwidth: 100%
-
-Abb.: Berechtigungen anzeigen
-
 
 Verantwortlichkeit ändern
-^^^^^^^^^^^^^^^^^^^^^^^^^
+"""""""""""""""""""""""""""""
 
 (nur für Administrator sichtbar)
 
@@ -195,139 +277,39 @@ Abb.: Auswahl Verantwortung für den Metadatensatz
 Nachdem ein neuer Metadatensatz erstellt wurde, wird automatisch die Person als verantwortlich eingetragen, die den Metadatensatz erstellt hat. In der Regel ist der Erfasser auch die fachlich verantwortliche Person (Standardeinstellung). Die Person, die für die Aktualisierung der Metadaten zuständig ist, sollte als Verantwortliche eingetragen werden.
 
 
-Menü
-----
+Berechtigungen anzeigen
+"""""""""""""""""""""""""""""
 
+(nur für Administrator sichtbar)
 
-.. figure:: ../../img/ige/allgemein/menue.png
-   :align: left
-   :scale: 60
-   :figwidth: 100%
-   
-Abb.: Menü Symbole mit Beschriftung
-
-.. figure:: ../../img/ige/allgemein/menu_verkleinern.png
-   :align: left
-   :scale: 70
-   :figwidth: 100%
-   
-Abb.: Menü verkleinern
-
-
-.. figure:: ../../img/ige/allgemein/menue_verkleinert.png
-   :align: left
-   :scale: 70
-   :figwidth: 100%
-   
-Abb.: Menü (verkleinernert) - Symbole
-
-
-.. figure:: ../../img/ige/allgemein/menue_vergroessern.png
-   :align: left
-   :scale: 70
-   :figwidth: 100%
-   
-Abb.: Menü vergrößern
-
-
-Symbolleiste
-------------
-
-.. figure:: ../../img/ige/allgemein/toolbar.png
-   :align: left
-   :scale: 70
-   :figwidth: 100%
-   
-Abb.: Symbolleiste
-
-Hier im Einzelnen die zur Verfügung stehenden Werkzeuge: 
-
-.. csv-table::
-   :widths: 30, 400
-
-    Symbol , Bezeichnung
-    .. figure:: ../../img/ige/allgemein/symbolleiste_metadaten-anlegen.png , Adressdaten oder Metadaten anlegen
-    .. figure:: ../../img/ige/allgemein/symbolleiste_ordner-erstellen.png , Ordner erstellen
-    .. figure:: ../../img/ige/allgemein/symbolleiste_assistent.png , GetCapabilities-Assistent für Geodatendienste
-	 .. figure:: ../../img/ige/allgemein/symbolleiste_vorschau-druckfunktion.png, Vorschau- und Druckfunktion 
-    .. figure:: ../../img/ige/allgemein/symbolleiste_kopieren-verschieben.png , Kopieren / Verschieben
-    .. figure:: ../../img/ige/allgemein/symbolleiste_iso.png , ISO-Ansicht
-	 .. figure:: ../../img/ige/allgemein/symbolleiste_loeschen.png , Löschen
-	 .. figure:: ../../img/ige/allgemein/symbolleiste_zum-letzten-dokument.png , Springe zum letzten Dokument
-	 .. figure:: ../../img/ige/allgemein/symbolleiste_zum-naechsten-dokument.png , Springe zum nächsten Dokument
-
-
-.. figure:: ../../img/ige/allgemein/toolbar_submenue.png
+.. figure:: ../../img/ige/erfassung/ige_metadaten/abschnitt-01_kopf/berechtigungen_anzeigen.png
    :align: left
    :scale: 50
    :figwidth: 100%
 
-Abb.: Symbolleiste - Untermenü für Kopieren / Verschieben
-
-
-Der getCapabilities Assistent
------------------------------
-
-.. figure:: ../../img/ige/allgemein/assistent.png
-   :align: left
-   :scale: 50
-   :figwidth: 100%
-
-Abb.: Symbolleiste -  getCapabilities-Assistent
-
-Für die Erfassung von Geodatendiensten (WMS, WFS, WCS, WCTS, WMTS und CSW) kann der getCapabilities-Assistent genutzt werden. Der Assistent wird über die Symbolleiste aufgerufen. In dem sich öffnenden Fenster muss die getCapabilities-URL eingetragen werden. Nachdem der Button "ÜBERNEHMEN" betätigt wurde, werden die Operationen im Hintergrund verarbeitet, wodurch die Erfassung von OGC-konformen Diensten erheblich vereinfacht wird. Die Analyseergebnisse werden angezeigt und es besteht die Möglichkeit, auszuwählen, welche Metadaten in den Metadatensatz übernommen werden sollen. Danach kann der Datensatz im Editor weiter bearbeitet und gespeichert werden.
-
-Eine ausführliche Beschreibung für diese Funktion erfolgt im Datensatztyp `Geodatendienst <./de/latest/ingrid-editor/erfassung/datensatztypen/datensatztyp-geodatendienst.html>`_.
+Abb.: Berechtigungen anzeigen
 
 
 
+Schalter "Alle"-Felder ein-/ausblenden
+´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
 
-Alle - Felder anzeigen
-----------------------
+Über den Schalter |schalter-alle|, oben rechts im grauen Bereich oberhalb der Erfassungsmaske, können optionale Felder ein- oder ausgeblendet werden.
 
-Je nach gewähltem Datensatztyp werden in der Erfassungsmaske des InGrid-Editors verschiedene Felder angezeigt. Die Pflichtfelder sind abhängig von dem jeweiligen Datensatztyp und variieren dementsprechend. 
+Je nach gewähltem Datensatztyp werden in der Erfassungsmaske des Editors verschiedene Felder angezeigt. Die Pflichtfelder sind abhängig von dem jeweiligen Datensatztyp und variieren dementsprechend. 
 
-Über den Schalter "Alle" oben rechts im grauen Bereich können weitere optionale Felder ein- oder ausgeblendet werden.
-
-.. figure:: ../../img/ige/allgemein/alle.png
-   :align: left
-   :scale: 50
-   :figwidth: 100%
-
-Abb.: Schalter für das Ein- und Ausblenden von optionalen Feldern
-
-.. hint:: Grundsätzlich empfehlen wir, nicht nur die Pflichtfelder auszufüllen, sondern auch soweit wie möglich die optionalen Felder mit Einträgen zu versehen. 
+.. |schalter-alle| image:: ../../img/ige/allgemein/alle.png
 
 
-Ordner-Navigation
------------------
-
-Im grauen Bereich der Erfassungsmaske befindet sich die Ordner-Navigation, die dem Benutzer anzeigt, in welcher Ordner-Ebene er sich gerade befindet.
-
-.. figure:: ../../img/ige/allgemein/ordner-navigation.png
-   :align: left
-   :scale: 70
-   :figwidth: 100%
-
-Abb.: Ordner-Navigation
-
-Sprungmarken
-------------
-
-Unter dem Titel des Datensatzes (ebenfalls im grauen Bereich) sind Sprungmarken zu finden, mit deren Hilfe Benutzer schnell zu verschiedenen Abschnitten der Erfassungsmaske springen können, ohne lange scrollen zu müssen.
-
-.. figure:: ../../img/ige/allgemein/sprungmarken.png
-   :align: left
-   :scale: 150
-   :figwidth: 100%
-
-Abb.: Sprungmarken
+.. hint:: Grundsätzlich empfehlen wir, nicht nur die Pflichtfelder auszufüllen, sondern soweit möglich die optionalen Felder mit Einträgen zu befüllen. 
 
 
-Eingabefelder
+
+
+Eingabemaske
 -------------
 
-Im Editor stehen eine Vielzahl an Feldern zur Verfügung, doch nicht alle Felder müssen zwingend ausgefüllt werden. Jeder Metadatensatz oder jede Adresse hat jedoch Pflichtfelder, die unbedingt ausgefüllt werden müssen. Ohne die Befüllung der Pflichtfelder ist das Abspeichern des Datensatzes nicht möglich. Pflichtfelder sind durch ein Sternchen gekennzeichnet. 
+Die Eingabemaske ist sehr umfangreich. Es wird zwischen Pflichtfeldern und optionalen Feldern unterschieden. Ohne die Befüllung der Pflichtfelder ist das Abspeichern des Datensatzes nicht möglich. Pflichtfelder sind durch ein Sternchen gekennzeichnet. 
 
 .. figure:: ../../img/ige/allgemein/felder.png
    :align: left
@@ -339,7 +321,7 @@ Abb.: Eingabefelder mit * sind Pflichtfelder
 
 
 Feldtypen
---------------------------
+^^^^^^^^^^^^^^
 
 **Textfelder**
 
@@ -559,6 +541,23 @@ Abb.: Abfrage, ob die Veröffentlichung wirklich zurückgezogen werden soll
    :figwidth: 100%
 
 Abb.: Die Veröffentlichung für diesen Datensatz wurde zurückgezogen.
+
+
+Der getCapabilities-Assistent
+-----------------------------
+
+
+.. figure:: ../../img/ige/allgemein/assistent.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Symbolleiste -  getCapabilities-Assistent
+
+Für die Erfassung von Geodatendiensten (WMS, WFS, WCS, WCTS, WMTS und CSW) eignet sich die Funktion "getCapabilities-Assistent". Der Assistent wird über die Symbolleiste aufgerufen. In dem sich öffnenden Fenster muss die getCapabilities-URL eingetragen werden. Nachdem der Button "ÜBERNEHMEN" betätigt wurde, werden die Operationen im Hintergrund verarbeitet, wodurch die Erfassung von OGC-konformen Diensten erheblich vereinfacht wird. Die Analyseergebnisse werden angezeigt und es besteht die Möglichkeit, auszuwählen, welche Metadaten in den Metadatensatz übernommen werden sollen. Danach kann der Datensatz im Editor weiter bearbeitet und gespeichert werden.
+
+Eine ausführliche Beschreibung für diese Funktion erfolgt im Datensatztyp `Geodatendienst <./de/latest/ingrid-editor/erfassung/datensatztypen/datensatztyp-geodatendienst.html>`_.
+
 
 
 
