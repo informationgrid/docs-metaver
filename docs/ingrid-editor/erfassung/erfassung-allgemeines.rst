@@ -9,7 +9,7 @@ Der neue Metadaten-Editor zur Erfassung von ISO-Metadaten wurde technisch von Gr
 Metadaten-Editor - Übersicht
 -------------------------
 
-Nach Start des Editors wird dem Nutzer eine Übersicht der zuletzt bearbeiteten Metadaten angezeigt. Dazu erscheint ein Diagram, das die Anzahl der in Bearbeitung befindlichen und veröffentlichten Metadaten darstellt.
+Nach Start des Editors wird dem Nutzer eine Übersicht der zuletzt bearbeiteten Metadaten angezeigt. 
 
 
 .. figure:: ../../img/ige/allgemein/uebersicht.png
@@ -40,7 +40,7 @@ Aufbau der Benutzeroberfläche:
 Strukturierung der Daten
 ------------------------
 
-Im Editor können Daten strukturiert werden. Im BKG wurde die Struktur vom Fachverfahrensverantwortlichen vorbereitet. 
+Für den Einsatz des Editors im BKG wurde die Ordnerstruktur vom Fachverfahrensverantwortlichen vorbereitet. 
 
 
 .. figure:: ../../img/ige/allgemein/datenstruktur_bkg.png
@@ -59,7 +59,7 @@ Im Editor gibt es verschiedene Arten von Metadaten- oder Adress-Typen.
 
 **Daten**
 
-Im BKG erfassen wir aktuell ISO-Metadaten lediglich für "Geodatensätze", "Geodatendienste" und "Anwendungen". Daher sind nur diese Objektarten zu verwenden.
+Im BKG erfassen wir ISO-Metadaten lediglich für "Geodatensätze", "Geodatendienste" und "Anwendungen". Daher sind nur diese Objektarten zu verwenden.
 
 .. figure:: ../../img/ige/allgemein/icons-metadaten_bkg.png
    :align: left
@@ -111,11 +111,17 @@ Neben den Metadaten- und Adresstypen zeigen die Icons auch den Bearbeitungsstatu
 Optionen zu den Metadaten 
 -------------------------------
 
-(tlw. für Nutzer eingeschränkt verfügbar)
-
-Über das Drei-Punkte-Menü, auf der rechten Seite der Erfassungsmaske, können verschiedene Aktionen angesteuert werden.
+Über das Drei-Punkte-Menü, auf der rechten Seite der Erfassungsmaske, können verschiedene Aktionen angesteuert werden. Dies ist die Ansicht für den Administrator.
 
 .. figure:: ../../img/ige/allgemein/optionen.png
+   :align: left
+   :scale: 70
+   :figwidth: 100%
+
+
+Ein Nutzer in der Rolle Autor erhält nur die Funktionen "Schlagworte konsolidieren" und "Veröffentlichungsrecht setzen" zur Anzeige.
+
+.. figure:: ../../img/ige/allgemein/optionen_autor.png
    :align: left
    :scale: 70
    :figwidth: 100%
