@@ -3,10 +3,12 @@
 Anmeldung
 ============================
 
-Anmeldung in BKG-MIS
----------------------
+Anmeldung im Metadaten-Editor des BKG-MIS
+-----------------------------------------
 
-Wenn Sie als Nutzer registriert sind, rufen Sie die Login-Seite auf (https://mis.bkg.bund.de/log-in), geben Ihre Benutzerdaten ein und klicken abschließend auf die Schaltfläche "ANMELDEN".
+Falls Sie noch keinen Zugang haben, wenden Sie sich bitte an die fachverfahrensverantwortliche Person oder nutzen das BKG-MIS Kontaktformular (https://mis.bkg.bund.de/kontakt).
+
+Wenn Sie als Nutzer registriert sind, rufen Sie die Login-Seite auf: https://mis.bkg.bund.de/log-in
 
 .. figure:: ../../img/registrierung-anmeldung/anmeldung.png
    :align: left
@@ -17,10 +19,10 @@ Abb: Seitenanmeldung - Benutzername und Passwort eingeben
 
 
 
-Der InGrid Editor im Ausgangszustand
-------------------------------------
+Startseite des Metadaten-Editor
+---------------------------------------
 
-Nach dem Laden des Editors wird zuerst die Übersicht gezeigt. Hier wird dargestellt, welche Objekte bzw. Adressen zuletzt bearbeitet wurden und wann das geschehen ist.
+Nach dem Laden des Editors wird zuerst die Übersichts-Seite gezeigt. Diese zeigt die zuletzt bearbeiteten Objekte an.
 
 
 .. figure:: ../../img/registrierung-anmeldung/ige_dashboard.png
@@ -40,7 +42,7 @@ Zuletzt veröffentlicht im Katalog - Anzeige aller Metadaten, die zuletzt vom Be
 Passwort vergessen
 ------------------
 
-Aufruf der Seite "Anmeldung": https://mis.bkg.bund.de/log-in. Klicken Sie auf den Link "Passwort vergessen?".
+Aufruf der Seite "Anmeldung": https://mis.bkg.bund.de/log-in
 
 
 .. figure:: ../../img/registrierung-anmeldung/log-in.png
@@ -50,19 +52,18 @@ Aufruf der Seite "Anmeldung": https://mis.bkg.bund.de/log-in. Klicken Sie auf de
 
 Abb: Funktion Passwort vergessen
 
-Es öffnet sich die „Passwort vergessen“ - Seite, deren Aufforderung bitte folgen.
+Es öffnet sich die „Passwort vergessen“ - Seite. Deren Aufforderung bitte folgen.
 
 
-.. figure:: ../../img/registrierung-anmeldung/anmeldung.png
+.. figure:: ../../img/registrierung-anmeldung/anmeldung_passwort-vergessen_e-mail-adresse.png
    :align: left
    :scale: 30
    :figwidth: 100%
 
 Abb.: Angabe der E-Mail-Adresse
 
-Feld "E-Mail*": Bitte geben Sie hier Ihre E-Mail-Adresse ein und klicken Sie auf "E-MAIL ANFORDERN".
 
-Es erscheint die Seite "E-Mail gesendet" mit der Nachricht: "Sie haben eine E-Mail mit Informationen zur Änderung Ihres Passworts erhalten".
+Nach Eingabe Ihrer Mail-Adresse und Betätigung "E-MAIL ANFORDERN" erscheint die Seite "E-Mail gesendet" mit der Nachricht: "Sie haben eine E-Mail mit Informationen zur Änderung Ihres Passworts erhalten".
 
 
 .. figure:: ../../img/registrierung-anmeldung/anmeldung_passwort-vergessen_meldung.png
@@ -91,7 +92,7 @@ Es öffnet sich die Seite "Passwort ändern" mit der Aufforderung: "Ändern Sie 
 
 Abb.: Seite Passwort ändern
 
-Die Weiterleitung zur Anmeldeseite erfolgt automatisch, wo man sich direkt mit dem neuen Passwort einloggen kann.
+Die Weiterleitung zur Anmeldeseite erfolgt automatisch. Hier können Sie sich direkt mit dem neuen Passwort einloggen.
 
 
 .. figure:: ../../img/registrierung-anmeldung/anmeldung.png
