@@ -47,7 +47,7 @@ Der Identifikator der Datenquelle besteht aus einer URI.
 
 .. hint:: Eine URI (Uniform Resource Identifier) ist eine standardisierte Zeichenkette, die man benutzt, um etwas im Internet oder in einem Datenraum eindeutig zu identifizieren.
 
-Die URI besteht aus dem Namensraum und dem Identifikator der Datenquelle. Der Namensraum sieht zum Beispiel so aus: https://registry.gdi-de.org/id/de.st/. Den Namensraum steht in den Katalogeinstellungen und wird vom Metadatenkatalogadministrator verwaltet. Der Identifikator der Datenquelle wird im Datensatztyp "Geodatensatz" im Abschnitt "Fachbezug" eingetragen oder erzeugt.
+Die URI besteht aus dem Namensraum und dem Identifikator der Datenquelle. Der Namensraum sieht zum Beispiel so aus: https://registry.gdi-de.org/id/de.st/. Der Namensraum steht in den Katalogeinstellungen und wird vom Metadatenkatalogadministrator verwaltet. Der Identifikator der Datenquelle wird im Datensatztyp "Geodatensatz" im Abschnitt "Fachbezug" eingetragen oder erzeugt.
 
 Identifikator der Datenquelle - Beispiele:
 
