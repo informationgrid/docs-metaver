@@ -1,5 +1,5 @@
-Identifikatoren (ID) - Unterscheiden
--------------------------------------
+Identifikatoren (ID) unterscheiden
+-----------------------------------
 
 Der InGrid Editor beinhaltet zwei Identifikatoren (ID).
 
@@ -37,7 +37,7 @@ Funktion und Zweck des Identifikators
 **Zusammenfassung:** Der Identifikator der Datenquelle in einem Metadatensatz dient also in erster Linie dazu, die Datenquelle eindeutig zu erkennen, zu verknüpfen und zu verwalten. Er bildet das Fundament für eine zuverlässige, lückenlose Nachverfolgung und den sicheren Austausch von Geodaten. Dies ist essenziell für die Qualitätssicherung und Interoperabilität im Geodatenmanagement.
 
 
-.. hint:: Der Identifikator der Datenquelle wird nicht automatisch angelegt. Er muss entweder manuell in das entsprechende Feld eingetragen oder über den Schalter „ERZEUGE ID“ erzeugt werden.
+.. hint:: Der Identifikator der Datenquelle wird nicht automatisch angelegt. Er muss entweder manuell in das entsprechende Feld eingetragen oder über den Schalter „ERZEUGE ID“ generiert werden.
 
 
 Den Identifikator der Datenquelle eintragen oder generieren
