@@ -49,7 +49,7 @@ Der Identifikator der Datenquelle besteht aus einer URI.
 
 Die URI besteht aus dem Namensraum und dem Identifikator der Datenquelle. Der Namensraum sieht zum Beispiel so aus: https://registry.gdi-de.org/id/de.st/. Den Namensraum steht in den Katalogeinstellungen und wird vom Metadatenkatalogadministrator verwaltet. Der Identifikator der Datenquelle wird im Datensatztyp "Geodatensatz" im Abschnitt "Fachbezug" eingetragen oder erzeugt.
 
-Identifikatoren - Beispiele:
+Identifikator der Datenquelle - Beispiele:
 
 | händisch eingetragene ID: lvermgeo.lu.alkis
 | Generierte ID: 8c68ed4c-aa22-4e54-99ee-08a964103301
