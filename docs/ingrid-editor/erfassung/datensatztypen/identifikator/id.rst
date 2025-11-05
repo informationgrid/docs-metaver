@@ -21,7 +21,7 @@ Der Identifikator der Metadaten befindet sich im Kopf jedes Metadatensatzes und 
    :alt: Metadatensatz-ID
    :align: left
    :scale: 80
-   :figwidth: 100%
+   :figwidth: 90%
 
 Abb.: Metadatensatz-ID im Kopf eines Metadatensatzes
 
@@ -64,7 +64,7 @@ Die URI besteht aus dem Namensraum und dem Identifikator der Datenquelle. Der Na
    :alt: Daten-ID
    :align: left
    :scale: 80
-   :figwidth: 100%
+   :figwidth: 90%
 
 Abb.: Daten-ID im Datentyp "Geodatensatz"
 
@@ -72,7 +72,7 @@ Abb.: Daten-ID im Datentyp "Geodatensatz"
    :alt: INSPIRE-Daten-ID
    :align: left
    :scale: 80
-   :figwidth: 100%
+   :figwidth: 90%
 
 Abb.: INSPIRE-Daten-ID im Datentyp "Geodatensatz"
 
