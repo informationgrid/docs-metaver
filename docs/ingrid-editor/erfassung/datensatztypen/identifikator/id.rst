@@ -6,8 +6,8 @@ Der InGrid Editor beinhaltet zwei Identifikatoren (ID).
 Diese werden unterschieden in den Identifikator der Metadaten und im Datensatztyp "Geodatensatz" (im Abschnitt Fachbezug) in den Identifikator der Datenquelle.
 
 
-Identifikator der Metadaten (Metadaten-ID)
--------------------------------------------
+Identifikator der Metadaten (Metadatensatz-ID)
+----------------------------------------------
 
 Der Identifikator der Metadaten ist eine UUID.
 
@@ -15,15 +15,24 @@ Eine UUID (Universally Unique Identifier) ist eine 128 Bit lange Zufallszahl. Si
 
 Der Identifikator der Metadaten befindet sich im Kopf jedes Metadatensatzes und wird bei dessen Erstellung automatisch generiert. Mithilfe dieser ID kann der Metadatensatz eindeutig identifiziert werden. So lässt sich beispielsweise feststellen, ob dieser Metadatensatz in einem Portal einmal oder mehrfach vorhanden ist. Auf diese Weise können doppelte Metadatensätze herausgefiltert werden.
 
+.. figure:: ../../img/ige/allgemein/metadatensatz-id.png
+   :alt: Metadatensatz-ID
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Metadatensatz-ID im Kopf eines Metadatensatzes
+
 .. hint:: Mithilfe des Identifikators der Metadaten kann nach einem bestimmten Metadatensatz gesucht werden. Hierzu wird die ID im Portal in die Suchleiste eingetragen und die Suche gestartet.
 
 .. important:: Der Identifikator der Metadaten ist nicht mit dem Identifikator der Datenquelle gleichzusetzen! Da sie unterschiedlichen Zwecken dienen, müssen sie voneinander abgegrenzt werden.
 
 
 Identifikator der Datenquelle (Daten-ID)
---------------------------------------------
+----------------------------------------
 
-Der Identifikator der Datenquelle wird nur im Datensatztyp „Geodatensatz” verwendet. Er kennzeichnet die Datenquelle eindeutig. Dies ist aus mehreren Gründen wichtig:
+Der Identifikator der Datenquelle wird nur im Datensatztyp „Geodatensatz” verwendet. Er kennzeichnet die Datenquelle eindeutig. Dies ist aus mehreren Gründen wichtig.
+
 
 Funktion und Zweck des Identifikators
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -49,17 +58,35 @@ Der Identifikator der Datenquelle besteht aus einer URI.
 
 Die URI besteht aus dem Namensraum und dem Identifikator der Datenquelle. Der Namensraum sieht zum Beispiel so aus: https://registry.gdi-de.org/id/de.st/. Der Namensraum steht in den Katalogeinstellungen und wird vom Metadatenkatalogadministrator verwaltet. Der Identifikator der Datenquelle wird im Datensatztyp "Geodatensatz" im Abschnitt "Fachbezug" eingetragen oder erzeugt.
 
-Identifikator der Datenquelle - Beispiele:
+.. figure:: ../../img/ige/allgemein/daten-id.png
+   :alt: Daten-ID
+   :align: left
+   :scale: 50
+   :figwidth: 100%
 
-| händisch eingetragene ID: lvermgeo.lu.alkis
-| Generierte ID: 8c68ed4c-aa22-4e54-99ee-08a964103301
+Abb.: Daten-ID im Datentyp "Geodatensatz"
+
+.. figure:: ../../img/ige/allgemein/inspire-daten-id.png
+   :alt: INSPIRE-Daten-ID
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: INSPIRE-Daten-ID im Datentyp "Geodatensatz"
+
+
+
+Identifikator (ID) der Datenquelle - Beispiele:
+
+| Generierte Daten-ID: 8c68ed4c-aa22-4e54-99ee-08a964103301
+| händisch eingetragene INSPIRE-Daten-ID: lvermgeo.lu.alkis
+
 
 
 URI - Beispiele:
 
-| https://registry.gdi-de.org/id/de.st/lvermgeo.lu.alkis oder 
 | https://registry.gdi-de.org/id/de.st/8c68ed4c-aa22-4e54-99ee-08a964103301
-
+| https://registry.gdi-de.org/id/de.st/lvermgeo.lu.alkis
 
 Die manuell eingetragene ID wird von der datenhaltenden Stelle vergeben und kennzeichnet den Datensatz in der INSPIRE-Registry der GDI-DE eindeutig.
 
