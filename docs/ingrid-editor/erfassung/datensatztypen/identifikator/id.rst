@@ -54,11 +54,11 @@ Funktion und Zweck des Identifikators
 Den Identifikator der Datenquelle eintragen oder generieren
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Der Identifikator der Datenquelle besteht aus einem URI.
+Der Identifikator der Datenquelle ist ein URI.
 
-.. note:: Ein URI (Uniform Resource Identifier) ist eine standardisierte Zeichenkette, die man benutzt, um etwas im Internet oder in einem Datenraum eindeutig zu identifizieren.
+.. note:: Ein URI (Uniform Resource Identifier) ist eine standardisierte Zeichenkette, mit der sich etwas im Internet oder in einem Datenraum eindeutig identifizieren lässt.
 
-Der URI besteht aus dem Namensraum und dem Identifikator der Datenquelle. Der Namensraum sieht zum Beispiel so aus: https://registry.gdi-de.org/id/de.st/. Der Namensraum steht in den Katalogeinstellungen und wird vom Metadatenkatalogadministrator verwaltet. Der Identifikator der Datenquelle wird im Datensatztyp "Geodatensatz" im Abschnitt "Fachbezug" eingetragen oder erzeugt.
+Ein URI setzt sich aus dem Namensraum und dem Identifikator der Datenquelle zusammen. Ein Beispiel für einen Namensraum ist:  https://registry.gdi-de.org/id/de.st/.  Er steht in den Katalogeinstellungen und wird vom Metadatenkatalogadministrator verwaltet. Der Identifikator der Datenquelle wird im Datensatztyp „Geodatensatz” im Abschnitt „Fachbezug” eingetragen oder erzeugt.
 
 .. figure:: ../../../../img/ige/allgemein/daten-id.png
    :alt: Daten-ID
