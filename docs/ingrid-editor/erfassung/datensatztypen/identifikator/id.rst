@@ -54,7 +54,7 @@ Funktion und Zweck des Identifikators
 Den Identifikator der Datenquelle eintragen oder generieren
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Der Identifikator der Datenquelle besteht aus einer URI.
+Der Identifikator der Datenquelle besteht aus einem URI.
 
 .. note:: Ein URI (Uniform Resource Identifier) ist eine standardisierte Zeichenkette, die man benutzt, um etwas im Internet oder in einem Datenraum eindeutig zu identifizieren.
 
