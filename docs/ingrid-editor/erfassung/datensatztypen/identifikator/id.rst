@@ -80,15 +80,15 @@ Abb.: INSPIRE-Daten-ID im Datentyp "Geodatensatz"
 
 Identifikator (ID) der Datenquelle - Beispiele:
 
-| Generierte Daten-ID: 8c68ed4c-aa22-4e54-99ee-08a964103301
-| händisch eingetragene INSPIRE-Daten-ID: lvermgeo.lu.alkis
+| Generierte Daten-ID: 591abc4d-f550-4c1d-aba1-3d0b807ba8e5
+| händisch eingetragene INSPIRE-Daten-ID: lvermgeo.bu.lod2
 
 
 
 URI - Beispiele:
 
-| https://registry.gdi-de.org/id/de.st/8c68ed4c-aa22-4e54-99ee-08a964103301
-| https://registry.gdi-de.org/id/de.st/lvermgeo.lu.alkis
+| https://registry.gdi-de.org/id/de.st/591abc4d-f550-4c1d-aba1-3d0b807ba8e5
+| https://registry.gdi-de.org/id/de.st/lvermgeo.bu.lod2
 
 Die manuell eingetragene ID wird von der datenhaltenden Stelle oder der Landes-GDI vergeben und kennzeichnet den Datensatz in der INSPIRE-Registry der GDI-DE eindeutig.
 
