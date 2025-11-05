@@ -33,7 +33,7 @@ Abb.: Metadatensatz-ID im Kopf eines Metadatensatzes
 Identifikator der Datenquelle (Daten-ID)
 ----------------------------------------
 
-Der Identifikator der Datenquelle wird nur im Datensatztyp „Geodatensatz” verwendet. Er kennzeichnet die Datenquelle eindeutig. Dies ist aus mehreren Gründen wichtig.
+Der Identifikator der Datenquelle wird nur im Datensatztyp „Geodatensatz” verwendet. Er kennzeichnet die Datenquelle eindeutig. Dies ist aus mehreren Gründen wichtig:
 
 
 Funktion und Zweck des Identifikators
