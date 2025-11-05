@@ -11,7 +11,9 @@ Identifikator der Metadaten (Metadatensatz-ID)
 
 Der Identifikator der Metadaten ist eine UUID.
 
-Eine UUID (Universally Unique Identifier) ist eine 128 Bit lange Zufallszahl. Sie wird dazu benutzt, Informationen in Computersystemen eindeutig zu identifizieren. UUIDs sind gut geeignet, um Objekte zu identifizieren, ohne dass man eine zentrale Registrierungsstelle braucht. Eine UUID hat 36 Stellen und wird mit Bindestrichen getrennt. Sie sieht zum Beispiel so aus: 123e4567-e89b-12d3-a456-426614174000.
+Eine UUID (Universally Unique Identifier) ist eine 128 Bit lange Zufallszahl. Sie wird dazu benutzt, Informationen in Computersystemen eindeutig zu identifizieren. UUIDs sind gut geeignet, um Objekte zu identifizieren, ohne dass man eine zentrale Registrierungsstelle braucht. Eine UUID hat 36 Stellen und wird mit Bindestrichen getrennt.
+
+Beispiel: 123e4567-e89b-12d3-a456-426614174000
 
 Der Identifikator der Metadaten befindet sich im Kopf jedes Metadatensatzes und wird bei dessen Erstellung automatisch generiert. Mithilfe dieser ID kann der Metadatensatz eindeutig identifiziert werden. So lässt sich beispielsweise feststellen, ob dieser Metadatensatz in einem Portal einmal oder mehrfach vorhanden ist. Auf diese Weise können doppelte Metadatensätze herausgefiltert werden.
 
