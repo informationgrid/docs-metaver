@@ -25,7 +25,7 @@ Der Identifikator der Metadaten befindet sich im Kopf jedes Metadatensatzes und 
 
 Abb.: Metadatensatz-ID im Kopf eines Metadatensatzes
 
-.. hint:: Mithilfe des Identifikators der Metadaten kann nach einem bestimmten Metadatensatz gesucht werden. Hierzu wird die ID im Portal in die Suchleiste eingetragen und die Suche gestartet.
+.. node:: Mithilfe des Identifikators der Metadaten kann nach einem bestimmten Metadatensatz gesucht werden. Hierzu wird die ID im Portal in die Suchleiste eingetragen und die Suche gestartet.
 
 .. important:: Der Identifikator der Metadaten ist nicht mit dem Identifikator der Datenquelle gleichzusetzen! Da sie unterschiedlichen Zwecken dienen, müssen sie voneinander abgegrenzt werden.
 
@@ -56,7 +56,7 @@ Den Identifikator der Datenquelle eintragen oder generieren
 
 Der Identifikator der Datenquelle besteht aus einer URI.
 
-.. hint:: Eine URI (Uniform Resource Identifier) ist eine standardisierte Zeichenkette, die man benutzt, um etwas im Internet oder in einem Datenraum eindeutig zu identifizieren.
+.. node:: Eine URI (Uniform Resource Identifier) ist eine standardisierte Zeichenkette, die man benutzt, um etwas im Internet oder in einem Datenraum eindeutig zu identifizieren.
 
 Die URI besteht aus dem Namensraum und dem Identifikator der Datenquelle. Der Namensraum sieht zum Beispiel so aus: https://registry.gdi-de.org/id/de.st/. Der Namensraum steht in den Katalogeinstellungen und wird vom Metadatenkatalogadministrator verwaltet. Der Identifikator der Datenquelle wird im Datensatztyp "Geodatensatz" im Abschnitt "Fachbezug" eingetragen oder erzeugt.
 
@@ -92,4 +92,4 @@ URI - Beispiele:
 
 Die manuell eingetragene ID wird von der datenhaltenden Stelle vergeben und kennzeichnet den Datensatz in der INSPIRE-Registry der GDI-DE eindeutig.
 
-.. hint:: Die INSPIRE Registry ist eine zentrale Zugriffsplattform für mehrere zentral verwaltete Register, die im Zusammenhang mit der INSPIRE-Richtlinie der Europäischen Union verwendet werden. Sie dient dazu, eindeutige und persistente Bezeichner (Identifikatoren) für verschiedene Elemente der INSPIRE-Infrastruktur bereitzustellen.
+.. node:: Die INSPIRE Registry ist eine zentrale Zugriffsplattform für mehrere zentral verwaltete Register, die im Zusammenhang mit der INSPIRE-Richtlinie der Europäischen Union verwendet werden. Sie dient dazu, eindeutige und persistente Bezeichner (Identifikatoren) für verschiedene Elemente der INSPIRE-Infrastruktur bereitzustellen.
