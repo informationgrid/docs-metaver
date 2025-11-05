@@ -605,6 +605,9 @@ Abb.: Metadaten - Menü für Metainformationen anzeigen
 Abb.: Metadaten - Metainformationen  - Metadaten
 
 
+.. seealso:: `Wie unterscheiden sich die verschiedenen Identifikatoren voneinander? <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/identifikator/id.html>`_
+
+
 Ordner/Metadaten verschieben
 ----------------------------
 
