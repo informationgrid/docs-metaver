@@ -90,6 +90,6 @@ URI - Beispiele:
 | https://registry.gdi-de.org/id/de.st/8c68ed4c-aa22-4e54-99ee-08a964103301
 | https://registry.gdi-de.org/id/de.st/lvermgeo.lu.alkis
 
-Die manuell eingetragene ID wird von der datenhaltenden Stelle vergeben und kennzeichnet den Datensatz in der INSPIRE-Registry der GDI-DE eindeutig.
+Die manuell eingetragene ID wird von der datenhaltenden Stelle oder der Landes-GDI vergeben und kennzeichnet den Datensatz in der INSPIRE-Registry der GDI-DE eindeutig.
 
 .. note:: Die INSPIRE Registry ist eine zentrale Zugriffsplattform für mehrere zentral verwaltete Register, die im Zusammenhang mit der INSPIRE-Richtlinie der Europäischen Union verwendet werden. Sie dient dazu, eindeutige und persistente Bezeichner (Identifikatoren) für verschiedene Elemente der INSPIRE-Infrastruktur bereitzustellen.
