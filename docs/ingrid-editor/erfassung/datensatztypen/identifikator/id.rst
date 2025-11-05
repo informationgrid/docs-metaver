@@ -17,7 +17,7 @@ Beispiel: 123e4567-e89b-12d3-a456-426614174000
 
 Der Identifikator der Metadaten befindet sich im Kopf jedes Metadatensatzes und wird bei dessen Erstellung automatisch generiert. Mithilfe dieser ID kann der Metadatensatz eindeutig identifiziert werden. So lässt sich beispielsweise feststellen, ob dieser Metadatensatz in einem Portal einmal oder mehrfach vorhanden ist. Auf diese Weise können doppelte Metadatensätze herausgefiltert werden.
 
-.. figure:: ../../img/ige/allgemein/metadatensatz-id.png
+.. figure:: ../../../img/ige/allgemein/metadatensatz-id.png
    :alt: Metadatensatz-ID
    :align: left
    :scale: 50
@@ -60,7 +60,7 @@ Der Identifikator der Datenquelle besteht aus einer URI.
 
 Die URI besteht aus dem Namensraum und dem Identifikator der Datenquelle. Der Namensraum sieht zum Beispiel so aus: https://registry.gdi-de.org/id/de.st/. Der Namensraum steht in den Katalogeinstellungen und wird vom Metadatenkatalogadministrator verwaltet. Der Identifikator der Datenquelle wird im Datensatztyp "Geodatensatz" im Abschnitt "Fachbezug" eingetragen oder erzeugt.
 
-.. figure:: ../../img/ige/allgemein/daten-id.png
+.. figure:: ../../../img/ige/allgemein/daten-id.png
    :alt: Daten-ID
    :align: left
    :scale: 50
@@ -68,7 +68,7 @@ Die URI besteht aus dem Namensraum und dem Identifikator der Datenquelle. Der Na
 
 Abb.: Daten-ID im Datentyp "Geodatensatz"
 
-.. figure:: ../../img/ige/allgemein/inspire-daten-id.png
+.. figure:: ../../../img/ige/allgemein/inspire-daten-id.png
    :alt: INSPIRE-Daten-ID
    :align: left
    :scale: 50
