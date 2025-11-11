@@ -119,23 +119,6 @@ Die Symbolleiste enthält Funktionen, die sich auf den Seitenbereich Ordnerstruk
    
 Abb.: Symbolleiste
 
-Hier im Einzelnen die zur Verfügung stehenden Werkzeuge: 
-
-.. csv-table::
-   :widths: 30, 400
-
-    Symbol , Bezeichnung
-    .. figure:: ../../img/ige/allgemein/symbolleiste_metadaten-anlegen.png , Metadatensatz oder Adressdaten anlegen
-    .. figure:: ../../img/ige/allgemein/symbolleiste_ordner-erstellen.png , Ordner erstellen
-    .. figure:: ../../img/ige/allgemein/symbolleiste_assistent.png , GetCapabilities-Assistent für Geodatendienste
-	 .. figure:: ../../img/ige/allgemein/symbolleiste_vorschau-druckfunktion.png, Vorschau- und Druckfunktion 
-    .. figure:: ../../img/ige/allgemein/symbolleiste_kopieren-verschieben.png , Kopieren / Verschieben
-      mit Untermenü
-    .. figure:: ../../img/ige/allgemein/symbolleiste_iso.png , ISO-XML Ansicht
-	 .. figure:: ../../img/ige/allgemein/symbolleiste_loeschen.png , Löschen
-	 .. figure:: ../../img/ige/allgemein/symbolleiste_zum-letzten-dokument.png , Springe zum letzten Dokument
-	 .. figure:: ../../img/ige/allgemein/symbolleiste_zum-naechsten-dokument.png , Springe zum nächsten Dokument
-
 
 .. figure:: ../../img/ige/allgemein/toolbar_submenue.png
    :align: left
