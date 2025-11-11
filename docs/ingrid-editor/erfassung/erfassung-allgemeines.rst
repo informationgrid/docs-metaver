@@ -388,7 +388,7 @@ Felder, die nicht korrekt ausgefüllt sind, werden mit der Anmerkung "Es wird mi
 
 
 Optionen für die Veröffentlichung
----------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
    
 Rechts neben VERÖFFENTLICHEN befindet sich der Button für verschiedene Optionen (Pfeil nach unten).
 
@@ -402,7 +402,7 @@ Abb.: Fenster mit Optionen für die Veröffentlichung
    
 
 Option: "Jetzt veröffentlichen"
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Der Button "Veröffentlichen" und die Option "Jetzt veröffentlichen" haben dieselbe Funktionalität.
 
@@ -424,7 +424,7 @@ Abb.: Meldung: Das Dokument wurde veröffentlicht
 
 
 Option: "Veröffentlichung planen"
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Es kann ein bestimmtes Datum zur Veröffentlichung von Datensätzen gesetzt werden. Nach konfliktfreier Validierung wird das Dialogfenster "Veröffentlichung planen" angezeigt, in dem das zukünftige Veröffentlichungsdatum ausgewählt werden kann. Die Kalenderfunktion unterstützt bei der Eingabe.
 
@@ -467,7 +467,7 @@ Abb.: Meldung für: VERÖFFENTLICHUNG ABBRECHEN UND DATENSATZ BEARBEITEN
 
 
 Option: "Auf letzte Veröffentlichung zurücksetzten"
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Wenn ein Metadatensatz veröffentlicht und danach geändert und gespeichert wurde (Symbol orange/schwarz), kann die Änderung über die Funktion "Auf letzte Veröffentlichung zurücksetzen" (Symbol schwarz) rückgängig gemacht werden.
 
@@ -481,7 +481,7 @@ Abb.: Auf letzte Veröffentlichung zurücksetzen
 
 
 Option: "Veröffentlichung zurückziehen"
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Veröffentlichte Datensätze können aus der Veröffentlichung zurückgezogen werden. Auf diese Weise können Metadaten eingezogen werden, zu Diensten, die deaktiviert wurden bzw. Datensätzen, die aus dem Vertrieb herausgenommen wurden.
 
@@ -519,8 +519,8 @@ Eine ausführliche Beschreibung für diese Funktion erfolgt im Datensatztyp `Geo
 
 
 
-Metadaten anzeigen
-------------------
+Metadaten anzeigen - Formularkopf
+---------------------------------
 
 .. figure:: ../../img/ige/allgemein/kopf_metadaten-anzeigen.png
    :align: left
