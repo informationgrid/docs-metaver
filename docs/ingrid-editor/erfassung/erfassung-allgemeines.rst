@@ -53,7 +53,7 @@ Seitenbereich Navigation
 
 
 Daten
-^^^^^
+~~~~~
 
 Im BKG erfassen wir ISO-Metadaten lediglich für "Geodatensätze", "Geodatendienste" und "Anwendungen". Daher sind nur diese Objektarten zu verwenden.
 
@@ -66,7 +66,7 @@ Abb.: Metadatentypen in der Ordnerstruktur
 
 
 Adressen
-^^^^^^^^
+~~~~~~~~
 
 Im BKG werden Adressen nur vom Fachadministrator im Editor angelegt. Bitte nehmen Sie bei Bedarf an einer neuer Adresse Kontakt mit dem Fachverfahrensverantwortlichen der Anwendung auf. 
 Für die BKG-MD gilt, möglichst keine Personendaten zu veröffentlichen. Es gibt vereinzelt Ausnahmen.
@@ -90,10 +90,10 @@ Abb.: verfügbare Adressen im BKG-Editor
 
 
 
-Symbole - Bearbeitungsstatus der Metadatensätze und Adressen
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Symbole - Bearbeitungsstatus der Daten und Adressen
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Neben den Metadaten- und Adresstypen zeigen die Icons auch den Bearbeitungsstatus an, um eine bessere Übersicht zu gewährleisten.
+Neben den Daten- und Adresstypen zeigen die Icons auch den Bearbeitungsstatus an, um eine bessere Übersicht zu gewährleisten.
 
 .. csv-table::
    :widths: 50, 150, 300
@@ -112,7 +112,7 @@ Symbolleiste
 
 Die Symbolleiste enthält Funktionen, die sich auf den Seitenbereich Ordnerstruktur und Datenerfassung auswirken.
 
-.. figure:: ../../img/ige/allgemein/toolbar.png
+.. figure:: ../../img/ige/allgemein/toolbar-beschriftet.png
    :align: left
    :scale: 90
    :figwidth: 100%
@@ -171,10 +171,10 @@ Dieser Bereich gliedert sich in einen Kopfbereich (grau hinterlegt) und der Erfa
 Im Kopfbereich sind außer der Anzeige des Titels und Ordnerpfad des angezeigten Datensatzes, hauptsächlich Funktionen zur Navigation in dem Eingabeformular und der Anzeigesteuerung bereitgestellt.
 
 Pfeilsymbol - Kopfbereich vergrößern / verkleinern 
-´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
+``````````````````````````````````````````````````
 
 Anzeige Ordnerpfad der Datensätze
-´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
+`````````````````````````````````
 
 Oberhalb des Titels wird der Ordnerpfad angezeigt, die dem Benutzer vermittelt, in welcher Ordner-Ebene sich der angezeigte Datensatz befindet.
 
@@ -187,7 +187,7 @@ Abb.: Ordnerpfad
 
 
 Sprungmarken
-´´´´´´´´´´´´
+````````````
 
 Unterhalb des Titels des Datensatzes sind Sprungmarken sichtbar, mit deren Hilfe der Nutzer zu verschiedenen Abschnitten der Erfassungsmaske gelangen kann.
 
@@ -200,7 +200,7 @@ Abb.: Sprungmarken
 
 
 Drei-Punkt-Menü - Optionen zu den Metadaten 
-´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
+```````````````````````````````````````````
 
 Über das Drei-Punkte-Menü, rechts neben dem Titel, können verschiedene Aktionen angesteuert werden. Nachfolgend die Ansicht für den Administrator:
 
@@ -291,7 +291,7 @@ Abb.: Berechtigungen anzeigen
 
 
 Schalter "Alle"-Felder ein-/ausblenden
-´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
+``````````````````````````````````````
 
 Über den Schalter |schalter-alle|, oben rechts im grauen Bereich oberhalb der Erfassungsmaske, können optionale Felder ein- oder ausgeblendet werden.
 
