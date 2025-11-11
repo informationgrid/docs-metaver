@@ -1,13 +1,13 @@
 
-============================
+=========================
 Der neue Metadaten-Editor
-============================
+=========================
 
 Der neue Metadaten-Editor zur Erfassung von ISO-Metadaten wurde technisch von Grund auf erneuert. Er enthält eine Vielzahl an Verbesserungen. Benutzerfreundlichkeit, Barrierefreiheit, responsives Layout für unterschiedliche Bildschirme sowie Touch-Bedienung für Tablets und Touch-Monitore, wurden berücksichtigt. Eine intuitive Bedienung erleichtert die Eingabe der Daten. Der Editor wurde für den Einsatz im BKG angepasst. 
 
 
 Metadaten-Editor - Übersicht
------------------------------ 
+---------------------------- 
 
 Nach Start des Editors wird dem Nutzer eine Übersicht der zuletzt bearbeiteten Metadaten angezeigt. 
 
@@ -31,7 +31,6 @@ Aufbau der Benutzeroberfläche
 Abb.: Editor - Benutzeroberfläche
 
 Aufbau der Benutzeroberfläche:
-
 * linke Seite - Navigation
 * oben - Symbolleiste
 * mittig - Ordnerstruktur
@@ -39,7 +38,7 @@ Aufbau der Benutzeroberfläche:
 
 
 Seitenbereich Navigation
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: ../../img/ige/allgemein/menue.png
    :align: left
@@ -54,7 +53,7 @@ Seitenbereich Navigation
 
 
 Daten
-^^^^^^^^^^^^^^
+^^^^^
 
 Im BKG erfassen wir ISO-Metadaten lediglich für "Geodatensätze", "Geodatendienste" und "Anwendungen". Daher sind nur diese Objektarten zu verwenden.
 
@@ -109,7 +108,7 @@ Neben den Metadaten- und Adresstypen zeigen die Icons auch den Bearbeitungsstatu
 
 
 Symbolleiste
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^
 
 Die Symbolleiste enthält Funktionen, die sich auf den Seitenbereich Ordnerstruktur und Datenerfassung auswirken.
 
@@ -148,7 +147,7 @@ Abb.: Symbolleiste - Untermenü für Kopieren / Verschieben
 
 
 Seitenbereich Ordnerstruktur der Metadaten
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Im Bereich "Ordnerstruktur" der Benutzeroberfläche kann über Ordner zu den Metadatensätzen navigiert werden. Für den Einsatz des Editors im BKG wurde die Ordnerstruktur vom Fachverfahrensverantwortlichen vorbereitet. Sie ist im Bedarfsfall veränderbar.
 
@@ -165,17 +164,17 @@ Abb.: Editor - Aufbau der Ordnerstruktur im BKG
 
 
 Seitenbereich Datenerfassung
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Dieser Bereich gliedert sich in einen Kopfbereich (grau hinterlegt) und der Erfassungsmaske.
 
 Im Kopfbereich sind außer der Anzeige des Titels und Ordnerpfad des angezeigten Datensatzes, hauptsächlich Funktionen zur Navigation in dem Eingabeformular und der Anzeigesteuerung bereitgestellt.
 
 Pfeilsymbol - Kopfbereich vergrößern / verkleinern 
-´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
+´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
 
-Ánzeige Ordnerpfad der Datensätze
-´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
+Anzeige Ordnerpfad der Datensätze
+´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
 
 Oberhalb des Titels wird der Ordnerpfad angezeigt, die dem Benutzer vermittelt, in welcher Ordner-Ebene sich der angezeigte Datensatz befindet.
 
@@ -201,7 +200,7 @@ Abb.: Sprungmarken
 
 
 Drei-Punkt-Menü - Optionen zu den Metadaten 
-´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
+´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
 
 Über das Drei-Punkte-Menü, rechts neben dem Titel, können verschiedene Aktionen angesteuert werden. Nachfolgend die Ansicht für den Administrator:
 
@@ -220,7 +219,7 @@ Ein Nutzer in der Rolle "Autor" ist eingeschränkt und kann nur die Funktionen "
 
 
 Schlagworte konsolidieren
-"""""""""""""""""""""""""""
+"""""""""""""""""""""""""
 
 Mit dieser Funktion werden die Thesaurie mit den Schlagworten aus der Freitexteingabe durchsucht und zugeordnet, sofern sie dort registriert sind.
 
@@ -235,7 +234,7 @@ Anhand der Symbole in der Ordnerstruktur wird durch einen Punkt das Veröffentli
 
 
 Veröffenlichungsrecht setzen
-"""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""
 
 Das Veröffentlichungsrecht ermöglicht die Steuerung wie weit ein Metadatensatz verbreitet werden soll/darf. Im BKG sollte als Veröffentlichungsrecht immer "Internet" gesetzt sein, da die Metadaten des BKG uneingeschränkt öffentlich nutzbar sind. Die Veröffentlichungsebenen "Intranet" und "Amtsintern" sind im BKG nicht eingerichtet. 
 
@@ -262,7 +261,7 @@ Anhand der Symbole in der Ordnerstruktur wird durch einen Punkt das Veröffentli
 
 
 Verantwortlichkeit ändern
-"""""""""""""""""""""""""""""
+"""""""""""""""""""""""""
 
 (nur für Administrator sichtbar)
 
@@ -278,7 +277,7 @@ Nachdem ein neuer Metadatensatz erstellt wurde, wird automatisch die Person als 
 
 
 Berechtigungen anzeigen
-"""""""""""""""""""""""""""""
+"""""""""""""""""""""""
 
 (nur für Administrator sichtbar)
 
@@ -307,7 +306,7 @@ Je nach gewähltem Datensatztyp werden in der Erfassungsmaske des Editors versch
 
 
 Eingabemaske
--------------
+------------
 
 Die Eingabemaske ist sehr umfangreich. Es wird zwischen Pflichtfeldern und optionalen Feldern unterschieden. Ohne die Befüllung der Pflichtfelder ist das Abspeichern des Datensatzes nicht möglich. Pflichtfelder sind durch ein Sternchen gekennzeichnet. 
 
@@ -321,7 +320,7 @@ Abb.: Eingabefelder mit * sind Pflichtfelder
 
 
 Feldtypen
-^^^^^^^^^^^^^^
+^^^^^^^^^
 
 **Textfelder**
 
@@ -670,7 +669,7 @@ Leider gehen alle Änderungen und Neueingaben verloren, die bis zu diesem Zeitpu
 
 
 Editor schließen
------------------------
+----------------
 
 Soll der Editor beendet werden, müssen Sie auf der Seite oben rechts den Punkt für die Profilverwaltung anklicken
 
