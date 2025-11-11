@@ -319,7 +319,6 @@ Abb.:  Feldtyp - Textfeld
 
 
 
-
 **Datumsangaben**
 
 Der Kalender lässt sich über das Kalendersymbol auf der rechten Seite des Feldes öffnen.
@@ -353,7 +352,7 @@ Im Editor gibt es zwei Speicheroptionen: "Speichern" speichert den bearbeiteten 
 Abb.: Speichern
 
 
-Mit dem abschließenden "VERÖFFENTLICHEN" werden die Daten für das Internet freigegeben.
+Mit dem abschließenden "Veröffentlichen" werden die Daten für das Internet freigegeben. Zuvor erfolgt eine Prüfung auf Vollständigkeit und Korrektheit der Einträge.
 
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichen.png
@@ -373,7 +372,7 @@ Um den Vorgang "Veröffentlichen" zu ermöglichen, müssen alle Pflichtfelder au
 
 Abb.: Hinweis - Alle Pflichtfelder ausfüllen
 
-Um trotz der Fehlermeldung die Bearbeitung zu sichern, wählen Sie die Funktion "SPEICHERN".
+Um trotz der Fehlermeldung die Bearbeitung zu sichern, wählen Sie die Funktion "Speichern".
 
 
 .. figure:: ../../img/ige/allgemein/meldungen_ein-eintrag-erwartet.png
@@ -386,44 +385,6 @@ Abb.: Hinweis am Feld - Dieses Feld muss ausgefüllt sein
 Felder, die nicht korrekt ausgefüllt sind, werden mit der Anmerkung "Es wird mindestens ein Eintrag erwartet" gekennzeichnet.
 
 
-Zeitgesteuerte Veröffentlichung
--------------------------------
-
-.. figure:: ../../img/ige/allgemein/veroeffentlichen.png
-   :align: left
-   :scale: 70
-   :figwidth: 100%
-   
-Abb.: VERÖFFENTLICHEN
-
-
-.. figure:: ../../img/ige/allgemein/veroeffentlichung_planen.png
-   :align: left
-   :scale: 50
-   :figwidth: 100%
-
-Abb.: Dialogfenster - Auswahl für Veröffentlichungsvarianten
-
-
-
-.. figure:: ../../img/ige/allgemein/veroeffentlichung-planen-kalender.png
-   :align: left
-   :scale: 50
-   :figwidth: 100%
-
-Abb.: Dialogfenster - Auswahl für Veröffentlichungsdatum
-
-Das Veröffentlichungsdatum wird danach im Kopfbereich des Datensatzes angezeigt.
-
-
-.. figure:: ../../img/ige/allgemein/anzeige-veroeffentlichung.png
-   :align: left
-   :scale: 90
-   :figwidth: 100%
-
-Abb.: Kopfbereich der Eingabemaske - Anzeige des Veröffentlichungsdatums
-
-Unterhalb des Veröffentlichungsdatums befindet sich ein Button mit der Beschriftung "Veröffentlichung abbrechen und Datensatz bearbeiten". Nach dem Klick darauf erscheint ein grünes Feld mit der Meldung: "Die geplante Veröffentlichung wurde abgebrochen".
 
 
 Optionen für die Veröffentlichung
@@ -461,10 +422,20 @@ Abb.: Dialogfenster - Auswahl für Veröffentlichungsvarianten
 Abb.: Meldung: Das Dokument wurde veröffentlicht
 
 
+
 Option: "Veröffentlichung planen"
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Datensätze können in Zukunft veröffentlicht werden. Nach der Validierung wird beim Veröffentlichen das Dialogfenster "Veröffentlichen" angezeigt, in dem das zukünftige Veröffentlichungsdatum "VERÖFFENTLICHUNG PLANEN" ausgewählt werden kann. Im Anschluss öffnet sich ein weiteres Fenster mit der Kalenderfunktion "Veröffentlichen planen", in dem das Veröffentlichungsdatum gewählt werden kann.
+Die Veröffentlichung von Datensätzen kann geplant werden. Nach der Validierung wird beim Veröffentlichen das Dialogfenster "Veröffentlichen" angezeigt, in dem das zukünftige Veröffentlichungsdatum "VERÖFFENTLICHUNG PLANEN" ausgewählt werden kann. Im Anschluss öffnet sich ein weiteres Fenster mit der Kalenderfunktion "Veröffentlichen planen", in dem das Veröffentlichungsdatum gewählt werden kann.
+
+
+.. figure:: ../../img/ige/allgemein/veroeffentlichung-planen-kalender.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Dialogfenster - Auswahl für Veröffentlichungsdatum
+
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichen_planen.png
    :align: left
@@ -472,6 +443,20 @@ Datensätze können in Zukunft veröffentlicht werden. Nach der Validierung wird
    :figwidth: 100%
 
 Abb.: Funktion Veröffentlichung planen - Angabe eines Datums
+
+
+Das Veröffentlichungsdatum wird anschließend im Kopfbereich des Datensatzes angezeigt.
+
+
+.. figure:: ../../img/ige/allgemein/anzeige-veroeffentlichung.png
+   :align: left
+   :scale: 90
+   :figwidth: 100%
+
+Abb.: Kopfbereich der Eingabemaske - Anzeige des Veröffentlichungsdatums
+
+
+Die Planung der Veröffentlichung kann abgebrochen werden. Unterhalb des Veröffentlichungsdatums befindet sich ein Button mit der Beschriftung "Veröffentlichung abbrechen und Datensatz bearbeiten". Nach dem Klick darauf erscheint ein grünes Feld mit der Meldung: "Die geplante Veröffentlichung wurde abgebrochen".
 
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichen_planen_meldung.png
