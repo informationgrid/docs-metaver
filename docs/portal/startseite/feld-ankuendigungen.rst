@@ -8,7 +8,6 @@ Auf der Startseite können Ankündigungen angezeigt werden z.B. für Wartungsarb
 .. Abbildung austauschen
 
 .. figure:: ../../img/portal/startseite_feld-ankuendigungen.png
-
    :align: left
    :scale: 40
    :figwidth: 100%
