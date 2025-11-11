@@ -171,10 +171,10 @@ Dieser Bereich gliedert sich in einen Kopfbereich (grau hinterlegt) und der Erfa
 Im Kopfbereich sind außer der Anzeige des Titels und Ordnerpfad des angezeigten Datensatzes, hauptsächlich Funktionen zur Navigation in dem Eingabeformular und der Anzeigesteuerung bereitgestellt.
 
 Pfeilsymbol - Kopfbereich vergrößern / verkleinern 
-``````````````````````````````````````````````````
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Anzeige Ordnerpfad der Datensätze
-`````````````````````````````````
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Oberhalb des Titels wird der Ordnerpfad angezeigt, die dem Benutzer vermittelt, in welcher Ordner-Ebene sich der angezeigte Datensatz befindet.
 
@@ -187,7 +187,7 @@ Abb.: Ordnerpfad
 
 
 Sprungmarken
-````````````
+~~~~~~~~~~~~
 
 Unterhalb des Titels des Datensatzes sind Sprungmarken sichtbar, mit deren Hilfe der Nutzer zu verschiedenen Abschnitten der Erfassungsmaske gelangen kann.
 
@@ -200,7 +200,7 @@ Abb.: Sprungmarken
 
 
 Drei-Punkt-Menü - Optionen zu den Metadaten 
-```````````````````````````````````````````
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Über das Drei-Punkte-Menü, rechts neben dem Titel, können verschiedene Aktionen angesteuert werden. Nachfolgend die Ansicht für den Administrator:
 
@@ -291,7 +291,7 @@ Abb.: Berechtigungen anzeigen
 
 
 Schalter "Alle"-Felder ein-/ausblenden
-``````````````````````````````````````
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Über den Schalter |schalter-alle|, oben rechts im grauen Bereich oberhalb der Erfassungsmaske, können optionale Felder ein- oder ausgeblendet werden.
 
