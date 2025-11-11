@@ -85,7 +85,7 @@ Abb.: Textfelder für weitere Informationen
 
 
 Feld: Systemumgebung
-""""""""""""""""""""
+~~~~~~~~~~~~~~~~~~~~
 
 Systemumgebung - Informationen über das Betriebssystem, die Software und ggf. die Hardware, die für die Implementierung des Dienstes verwendet werden.
 
@@ -116,7 +116,7 @@ Typische Installation
 
 
 Feld: Historie
-""""""""""""""
+~~~~~~~~~~~~~~
 
 Entwicklungsangaben: Hier können Vorläufer und Nachfolger von Diensten, Anwendungen oder Systemen genannt werden. Informationen über anfängliche Forschungsprojekte oder -programme sind ebenfalls von Interesse.
 Beispiel: 
@@ -132,7 +132,7 @@ Beispiel:
  
 
 Feld: Basisdaten
-""""""""""""""""
+~~~~~~~~~~~~~~~~
 
 Beschreibung Herkunft und Art der zugrundeliegenden Daten. Im Allgemeinen sind dies die Datensätze, auf denen der Dienst basiert. Im Allgemeinen sollte die Herkunft oder der Ursprung der Daten beschrieben werden, die in dem Dienst, der Anwendung oder dem Anwendung verwendet, gespeichert, angezeigt oder weiterverarbeitet werden. Zusätzlich kann die Art der Daten (z. B. numerisch, automatisch oder aus Erhebungsergebnissen gewonnen, Primärdaten, fehlerbereinigte Daten) angegeben werden.
 
