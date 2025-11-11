@@ -10,6 +10,7 @@ Falls Sie noch keinen Zugang haben, wenden Sie sich bitte an die fachverfahrensv
 
 Wenn Sie als Nutzer registriert sind, rufen Sie die Login-Seite auf: https://mis.bkg.bund.de/log-in
 
+.. Abbildung austauschen
 .. figure:: ../../img/registrierung-anmeldung/anmeldung.png
    :align: left
    :scale: 30
@@ -44,7 +45,7 @@ Passwort vergessen
 
 Aufruf der Seite "Anmeldung": https://mis.bkg.bund.de/log-in
 
-
+.. Abbildung austauschen
 .. figure:: ../../img/registrierung-anmeldung/log-in.png
    :align: left
    :scale: 40
@@ -54,7 +55,7 @@ Abb: Funktion Passwort vergessen
 
 Es öffnet sich die „Passwort vergessen“ - Seite. Deren Aufforderung bitte folgen.
 
-
+.. Abbildung austauschen
 .. figure:: ../../img/registrierung-anmeldung/anmeldung_passwort-vergessen_e-mail-adresse.png
    :align: left
    :scale: 30
@@ -65,7 +66,7 @@ Abb.: Angabe der E-Mail-Adresse
 
 Nach Eingabe Ihrer Mail-Adresse und Betätigung "E-MAIL ANFORDERN" erscheint die Seite "E-Mail gesendet" mit der Nachricht: "Sie haben eine E-Mail mit Informationen zur Änderung Ihres Passworts erhalten".
 
-
+.. Abbildung austauschen
 .. figure:: ../../img/registrierung-anmeldung/anmeldung_passwort-vergessen_meldung.png
    :align: left
    :scale: 70
@@ -85,6 +86,7 @@ Abb.: versendete E-Mail
 
 Es öffnet sich die Seite "Passwort ändern" mit der Aufforderung: "Ändern Sie bitte Ihr Passwort und melden Sie sich dann bitte erneut an.". Tragen Sie den Benutzernamen und das neue Passwort zweimal in das entsprechende Feld ein und klicken Sie abschließend auf "SPEICHERN".
 
+.. Abbildung austauschen
 .. figure:: ../../img/registrierung-anmeldung/anmeldung_passwort-vergessen_passwort-aendern.png
    :align: left
    :scale: 60
@@ -94,7 +96,7 @@ Abb.: Seite Passwort ändern
 
 Die Weiterleitung zur Anmeldeseite erfolgt automatisch. Hier können Sie sich direkt mit dem neuen Passwort einloggen.
 
-
+.. Abbildung austauschen
 .. figure:: ../../img/registrierung-anmeldung/anmeldung.png
    :align: left
    :scale: 30
