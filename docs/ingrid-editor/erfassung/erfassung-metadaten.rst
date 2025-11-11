@@ -70,6 +70,11 @@ Erfassungsmasken ausfüllen
 
 Die nachfolgenden Felder der Erfassungsmasken wurden in diesem Dokument allgemein beschrieben. Spezielle und ausführliche Angaben, sind unter dem Punkt `Datensatztypen <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/datensatztypen.html>`_ beschrieben.
 
+docs/ingrid-editor/erfassung/datensatztypen/option/adv-kompatibel.rst
+docs/ingrid-editor/erfassung/datensatztypen/option/high-value-dataset.rst
+docs/ingrid-editor/erfassung/datensatztypen/option/inspire-relevant.rst
+docs/ingrid-editor/erfassung/datensatztypen/option/opendata.rst
+
 
 Feld: Titel
 """""""""""
