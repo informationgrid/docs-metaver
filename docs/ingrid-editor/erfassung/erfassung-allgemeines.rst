@@ -426,12 +426,12 @@ Abb.: Meldung: Das Dokument wurde veröffentlicht
 Option: "Veröffentlichung planen"
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Die Veröffentlichung von Datensätzen kann geplant werden. Nach der Validierung wird beim Veröffentlichen das Dialogfenster "Veröffentlichen" angezeigt, in dem das zukünftige Veröffentlichungsdatum "VERÖFFENTLICHUNG PLANEN" ausgewählt werden kann. Im Anschluss öffnet sich ein weiteres Fenster mit der Kalenderfunktion "Veröffentlichen planen", in dem das Veröffentlichungsdatum gewählt werden kann.
+Es kann ein bestimmtes Datum zur Veröffentlichung von Datensätzen gesetzt werden. Nach konfliktfreier Validierung wird das Dialogfenster "Veröffentlichung planen" angezeigt, in dem das zukünftige Veröffentlichungsdatum ausgewählt werden kann. Die Kalenderfunktion unterstützt bei der Eingabe.
 
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichung-planen-kalender.png
    :align: left
-   :scale: 50
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Dialogfenster - Auswahl für Veröffentlichungsdatum
@@ -439,7 +439,7 @@ Abb.: Dialogfenster - Auswahl für Veröffentlichungsdatum
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichen_planen.png
    :align: left
-   :scale: 70
+   :scale: 60
    :figwidth: 100%
 
 Abb.: Funktion Veröffentlichung planen - Angabe eines Datums
@@ -448,28 +448,19 @@ Abb.: Funktion Veröffentlichung planen - Angabe eines Datums
 Das Veröffentlichungsdatum wird anschließend im Kopfbereich des Datensatzes angezeigt.
 
 
-.. figure:: ../../img/ige/allgemein/anzeige-veroeffentlichung.png
-   :align: left
-   :scale: 90
-   :figwidth: 100%
-
-Abb.: Kopfbereich der Eingabemaske - Anzeige des Veröffentlichungsdatums
-
-
-Die Planung der Veröffentlichung kann abgebrochen werden. Unterhalb des Veröffentlichungsdatums befindet sich ein Button mit der Beschriftung "Veröffentlichung abbrechen und Datensatz bearbeiten". Nach dem Klick darauf erscheint ein grünes Feld mit der Meldung: "Die geplante Veröffentlichung wurde abgebrochen".
-
-
 .. figure:: ../../img/ige/allgemein/veroeffentlichen_planen_meldung.png
    :align: left
    :scale: 100
    :figwidth: 100%
 
-Abb.: Meldung für die geplante Veröffentlichung
+Abb.: Anzeige der geplanten Veröffentlichung im Kopfbereich der Eingabemaske
 
+
+Die Planung der Veröffentlichung kann abgebrochen werden. Unterhalb des Veröffentlichungsdatums befindet sich ein Button mit der Beschriftung "Veröffentlichung abbrechen und Datensatz bearbeiten". Nach dem Klick darauf erscheint ein grünes Feld mit der Meldung: "Die geplante Veröffentlichung wurde abgebrochen".
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichung_abgebrochen.png
    :align: left
-   :scale: 100
+   :scale: 90
    :figwidth: 100%
 
 Abb.: Meldung für: VERÖFFENTLICHUNG ABBRECHEN UND DATENSATZ BEARBEITEN
@@ -483,7 +474,7 @@ Wenn ein Metadatensatz veröffentlicht und danach geändert und gespeichert wurd
 
 .. figure:: ../../img/ige/allgemein/veroeffentlichung_auf-letzte-veroeffentlichung-zuruecksetzen.png
    :align: left
-   :scale: 100
+   :scale: 90
    :figwidth: 100%
 
 Abb.: Auf letzte Veröffentlichung zurücksetzen
