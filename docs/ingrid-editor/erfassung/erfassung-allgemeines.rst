@@ -153,8 +153,7 @@ Dieser Bereich gliedert sich in einen Kopfbereich (grau hinterlegt) und der Erfa
 
 Im Kopfbereich sind außer der Anzeige des Titels und Ordnerpfad des angezeigten Datensatzes, hauptsächlich Funktionen zur Navigation in dem Eingabeformular und der Anzeigesteuerung bereitgestellt.
 
-Pfeilsymbol - Kopfbereich vergrößern / verkleinern 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Anzeige Ordnerpfad der Datensätze
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -167,6 +166,69 @@ Oberhalb des Titels wird der Ordnerpfad angezeigt, die dem Benutzer vermittelt, 
    :figwidth: 100%
 
 Abb.: Ordnerpfad
+
+
+Ordner/Metadaten verschieben
+----------------------------
+
+Wenn ein Ordner oder ein Metadatensatz in der Ordnerstruktur angeklickt wird, während die Steuerungstaste (STRG) gedrückt wird, erscheinen Kontrollkästchen vor den jeweiligen Ordnern oder Metadaten. Der Ordner oder Metadatensatz kann dann mit einem Haken markiert werden und durch Ziehen mit der linken Maustaste innerhalb der Ordnerstruktur verschoben werden. 
+
+.. figure:: ../../img/ige/allgemein/auswahl_ordner_drag-drop.png
+   :align: left
+   :scale: 90
+   :figwidth: 100%
+
+Abb.: Auswahl - per Drag and Drop verschieben
+
+
+Die markierten Ordner und Metadaten können auch über das Symbol in der Symbolleiste verschoben oder kopiert werden.
+
+.. figure:: ../../img/ige/allgemein/auswahl_verschieben-kopieren.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Verschieben / Kopieren
+
+Dies funktioniert auch mit aktiviertem Kontrollkästchen "Auswahl" unterhalb der Symbolleiste. Dann erscheinen Kontrollkästchen für die Auswahl vor den Ordnern und Metadaten. 
+
+.. figure:: ../../img/ige/allgemein/auswahl.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Kontrollkästchen "Auswahl"
+
+
+.. figure:: ../../img/ige/allgemein/auswahl_metadaten.png
+   :align: left
+   :scale: 70
+   :figwidth: 100%
+
+Abb.: Auswahl - Kontrollkästchen
+
+
+Bei aktiviertem Kontrollkästchen "Auswahl" erscheint das Wort "Alle". Wenn hier ein Haken gesetzt wird, werden alle Ordner und Metadaten mit einem Haken im Kontrollkästchen versehen.
+
+
+.. figure:: ../../img/ige/allgemein/auswahl_alle.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Auswahl - Kontrollkästchen  für "Alle"
+
+
+Zur Beendigung der Auswahl muss das Kreuz im Kontrollkästchen unterhalb der Symbolleiste angeklickt werden.
+
+
+.. figure:: ../../img/ige/allgemein/auswahl_beenden.png
+   :align: left
+   :scale: 50
+   :figwidth: 100%
+
+Abb.: Auswahl - Beenden
+
 
 
 Sprungmarken
@@ -287,6 +349,27 @@ Je nach gewähltem Datensatztyp werden in der Erfassungsmaske des Editors versch
 
 
 
+Pfeilsymbol - Kopfbereich vergrößern / verkleinern 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Über das Pfeilsymbol rechts kann die Anzeige der Metainformationen aus- oder eingeblendet werden.
+
+.. figure:: ../../img/ige/allgemein/kopf_metadaten-anzeigen.png
+   :align: left
+   :scale: 100
+   :figwidth: 100%
+
+Abb.: Metainformationen ausgeblendet
+
+
+.. figure:: ../../img/ige/allgemein/kopf_metadaten-ansicht.png
+   :align: left
+   :scale: 100
+   :figwidth: 100%
+
+Abb.: Metainformationen eingeblendet
+
+
 
 Eingabemaske
 ------------
@@ -399,10 +482,11 @@ Rechts neben VERÖFFENTLICHEN befindet sich der Button für verschiedene Optione
    :figwidth: 100%
 
 Abb.: Fenster mit Optionen für die Veröffentlichung
-   
+
+
 
 Option: "Jetzt veröffentlichen"
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Der Button "Veröffentlichen" und die Option "Jetzt veröffentlichen" haben dieselbe Funktionalität.
 
@@ -424,7 +508,7 @@ Abb.: Meldung: Das Dokument wurde veröffentlicht
 
 
 Option: "Veröffentlichung planen"
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Es kann ein bestimmtes Datum zur Veröffentlichung von Datensätzen gesetzt werden. Nach konfliktfreier Validierung wird das Dialogfenster "Veröffentlichung planen" angezeigt, in dem das zukünftige Veröffentlichungsdatum ausgewählt werden kann. Die Kalenderfunktion unterstützt bei der Eingabe.
 
@@ -467,7 +551,7 @@ Abb.: Meldung für: VERÖFFENTLICHUNG ABBRECHEN UND DATENSATZ BEARBEITEN
 
 
 Option: "Auf letzte Veröffentlichung zurücksetzten"
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Wenn ein Metadatensatz veröffentlicht und danach geändert und gespeichert wurde (Symbol orange/schwarz), kann die Änderung über die Funktion "Auf letzte Veröffentlichung zurücksetzen" (Symbol schwarz) rückgängig gemacht werden.
 
@@ -481,7 +565,7 @@ Abb.: Auf letzte Veröffentlichung zurücksetzen
 
 
 Option: "Veröffentlichung zurückziehen"
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Veröffentlichte Datensätze können aus der Veröffentlichung zurückgezogen werden. Auf diese Weise können Metadaten eingezogen werden, zu Diensten, die deaktiviert wurden bzw. Datensätzen, die aus dem Vertrieb herausgenommen wurden.
 
@@ -517,87 +601,6 @@ Für die Erfassung von Geodatendiensten (WMS, WFS, WCS, WCTS, WMTS und CSW) eign
 Eine ausführliche Beschreibung für diese Funktion erfolgt im Datensatztyp `Geodatendienst <./de/latest/ingrid-editor/erfassung/datensatztypen/datensatztyp-geodatendienst.html>`_.
 
 
-
-
-Metadaten anzeigen - Formularkopf
----------------------------------
-
-.. figure:: ../../img/ige/allgemein/kopf_metadaten-anzeigen.png
-   :align: left
-   :scale: 100
-   :figwidth: 100%
-
-Abb.: Metadaten - Menü für Metainformationen anzeigen
-
-
-.. figure:: ../../img/ige/allgemein/kopf_metadaten-ansicht.png
-   :align: left
-   :scale: 100
-   :figwidth: 100%
-
-Abb.: Metadaten - Metainformationen  - Metadaten
-
-
-Ordner/Metadaten verschieben
-----------------------------
-
-Wenn ein Ordner oder ein Metadatensatz in der Ordnerstruktur angeklickt wird, während die Steuerungstaste (STRG) gedrückt wird, erscheinen Kontrollkästchen vor den jeweiligen Ordnern oder Metadaten. Der Ordner oder Metadatensatz kann dann mit einem Haken markiert werden und durch Ziehen mit der linken Maustaste innerhalb der Ordnerstruktur verschoben werden. 
-
-.. figure:: ../../img/ige/allgemein/auswahl_ordner_drag-drop.png
-   :align: left
-   :scale: 90
-   :figwidth: 100%
-
-Abb.: Auswahl - per Drag and Drop verschieben
-
-
-Die markierten Ordner und Metadaten können auch über das Symbol in der Symbolleiste verschoben oder kopiert werden.
-
-.. figure:: ../../img/ige/allgemein/auswahl_verschieben-kopieren.png
-   :align: left
-   :scale: 50
-   :figwidth: 100%
-
-Abb.: Verschieben / Kopieren
-
-Dies funktioniert auch mit aktiviertem Kontrollkästchen "Auswahl" unterhalb der Symbolleiste. Dann erscheinen Kontrollkästchen für die Auswahl vor den Ordnern und Metadaten. 
-
-.. figure:: ../../img/ige/allgemein/auswahl.png
-   :align: left
-   :scale: 50
-   :figwidth: 100%
-
-Abb.: Kontrollkästchen "Auswahl"
-
-
-.. figure:: ../../img/ige/allgemein/auswahl_metadaten.png
-   :align: left
-   :scale: 70
-   :figwidth: 100%
-
-Abb.: Auswahl - Kontrollkästchen
-
-
-Bei aktiviertem Kontrollkästchen "Auswahl" erscheint das Wort "Alle". Wenn hier ein Haken gesetzt wird, werden alle Ordner und Metadaten mit einem Haken im Kontrollkästchen versehen.
-
-
-.. figure:: ../../img/ige/allgemein/auswahl_alle.png
-   :align: left
-   :scale: 50
-   :figwidth: 100%
-
-Abb.: Auswahl - Kontrollkästchen  für "Alle"
-
-
-Zur Beendigung der Auswahl muss das Kreuz im Kontrollkästchen unterhalb der Symbolleiste angeklickt werden.
-
-
-.. figure:: ../../img/ige/allgemein/auswahl_beenden.png
-   :align: left
-   :scale: 50
-   :figwidth: 100%
-
-Abb.: Auswahl - Beenden
 
 
 
