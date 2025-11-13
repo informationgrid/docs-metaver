@@ -41,7 +41,7 @@ Aufbau der Benutzeroberfläche:
 
 
 Anzeigebereich: Navigation
--------------------------
+--------------------------
 
 .. figure:: ../../img/ige/allgemein/menue.png
    :align: left
@@ -52,73 +52,6 @@ Anzeigebereich: Navigation
 Über den Pfeil unten im Navigationsbereich |verkleinern| kann das Menü verkleinert und vergrößert und damit die Größe des Arbeitsbereichs angepasst werden.
 
 .. |verkleinern| image:: ../../img/ige/allgemein/menu_verkleinern.png
-
-
-
-
-Daten
-^^^^^
-
-Im BKG erfassen wir ISO-Metadaten lediglich für "Geodatensätze", "Geodatendienste" und "Anwendungen". Daher sind nur diese Objektarten zu verwenden.
-
-.. figure:: ../../img/ige/allgemein/icons-metadaten_bkg.png
-   :align: left
-   :scale: 60
-   :figwidth: 100%
-
-Abb.: Metadatentypen in der Ordnerstruktur
-
-
-
-.. figure:: ../../img/ige/allgemein/datenstruktur_bkg.png
-   :align: left
-   :scale: 60
-   :figwidth: 100%
-   
-Abb.: Aufbau der Ordnerstruktur im BKG
-
-
-
-
-Adressen
-^^^^^^^^
-
-Im BKG werden Adressen nur vom Fachadministrator im Editor angelegt. Bitte nehmen Sie bei Bedarf an einer neuer Adresse Kontakt mit dem Fachverfahrensverantwortlichen der Anwendung auf. 
-Für die BKG-MD gilt, möglichst keine Personendaten zu veröffentlichen. Es gibt vereinzelt Ausnahmen.
-
-.. figure:: ../../img/ige/allgemein/icons-adressen.png
-   :align: left
-   :scale: 60
-   :figwidth: 100%
-
-Abb.: Adresstypen in der Ordnerstruktur
-
-
-Die verfügbaren Adressen im BKG (Stand: März 2025):
-
-.. figure:: ../../img/ige/allgemein/icons-adressen_bkg.png
-   :align: left
-   :scale: 60
-   :figwidth: 100%
-
-Abb.: verfügbare Adressen im BKG-Editor
-
-
-
-Symbole - Bearbeitungsstatus der Daten und Adressen
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Neben den Daten- und Adresstypen zeigen die Icons auch den Bearbeitungsstatus an, um eine bessere Übersicht zu gewährleisten.
-
-.. csv-table::
-   :widths: 50, 150, 300
-
-   Symbol , Farbe , Beschreibung
-   .. figure:: ../../img/ige/allgemein/icon_bearbeitungsstatus-gespeichert.png , orange , Der Metadatensatz bzw. die Adresse wurde angelegt und gespeichert und befinden sich in Bearbeitung.
-	.. figure:: ../../img/ige/allgemein/icon_bearbeitungsstatus-veroeffentlicht.png, schwarz , Der Metadatensatz bzw. die Adresse wurde veröffentlicht
-   .. figure:: ../../img/ige/allgemein/icon_bearbeitungsstatus-in-bearbeitung.png , orange und schwarz , Es handelt sich um eine veröffentlichte Version des Metadatensatzes bzw. der Adresse - der Metadatensatz wurde bearbeitet aber noch nicht erneut veröffentlicht.
-
-
 
 
 
@@ -136,8 +69,8 @@ Abb.: Symbolleiste
 
 
 
-Anzeigebereich: Ordnerstruktur der Metadaten
---------------------------------------------
+Anzeigebereich: Ordnerstruktur der Daten und Adressen
+-----------------------------------------------------
 
 Im Bereich "Ordnerstruktur" der Benutzeroberfläche kann über Ordner zu den Metadatensätzen navigiert werden. Für den Einsatz des Editors im BKG wurde die Ordnerstruktur vom Fachverfahrensverantwortlichen vorbereitet. Sie ist im Bedarfsfall veränderbar.
 
@@ -147,7 +80,22 @@ Im Bereich "Ordnerstruktur" der Benutzeroberfläche kann über Ordner zu den Met
    :scale: 50
    :figwidth: 100%
    
-Abb.: Editor - Aufbau der Ordnerstruktur im BKG
+Abb.: Editor - Ordnerstruktur für Daten im BKG
+
+
+
+Daten
+^^^^^^^^^
+
+Im BKG erfassen wir ISO-Metadaten lediglich für "Geodatensätze", "Geodatendienste" und "Anwendungen". Daher sind nur diese Objektarten zu verwenden.
+
+.. figure:: ../../img/ige/allgemein/icons-metadaten_bkg.png
+   :align: left
+   :scale: 60
+   :figwidth: 100%
+
+Abb.: Metadatentypen
+
 
 
 **Verschieben von Ordnern und Metadaten**
@@ -210,6 +158,50 @@ Zur Beendigung der Auswahl muss das Kreuz im Kontrollkästchen unterhalb der Sym
    :figwidth: 100%
 
 Abb.: Auswahl - Beenden
+
+
+
+
+Adressen
+^^^^^^^^
+
+Im BKG werden Adressen nur vom Fachadministrator im Editor angelegt. Bitte nehmen Sie bei Bedarf an einer neuer Adresse Kontakt mit dem Fachverfahrensverantwortlichen der Anwendung auf. 
+Für die BKG-MD gilt, möglichst keine Personendaten zu veröffentlichen. Es gibt vereinzelt Ausnahmen.
+
+.. figure:: ../../img/ige/allgemein/icons-adressen.png
+   :align: left
+   :scale: 60
+   :figwidth: 100%
+
+Abb.: Adresstypen
+
+
+Die verfügbaren Adressen im BKG (Stand: März 2025):
+
+.. figure:: ../../img/ige/allgemein/icons-adressen_bkg.png
+   :align: left
+   :scale: 60
+   :figwidth: 100%
+
+Abb.: verfügbare Adressen im BKG-Editor
+
+
+
+
+
+Symbole - Bearbeitungsstatus der Metadaten und Adressen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^   
+
+Neben den Daten- und Adresstypen zeigen die Icons auch den Bearbeitungsstatus an, um eine bessere Übersicht zu gewährleisten.
+
+.. csv-table::
+   :widths: 50, 150, 300
+
+   Symbol , Farbe , Beschreibung
+   .. figure:: ../../img/ige/allgemein/icon_bearbeitungsstatus-gespeichert.png , orange , Der Metadatensatz bzw. die Adresse wurde angelegt und gespeichert und befinden sich in Bearbeitung.
+	.. figure:: ../../img/ige/allgemein/icon_bearbeitungsstatus-veroeffentlicht.png, schwarz , Der Metadatensatz bzw. die Adresse wurde veröffentlicht
+   .. figure:: ../../img/ige/allgemein/icon_bearbeitungsstatus-in-bearbeitung.png , orange und schwarz , Es handelt sich um eine veröffentlichte Version des Metadatensatzes bzw. der Adresse - der Metadatensatz wurde bearbeitet aber noch nicht erneut veröffentlicht.
+
 
 
 
