@@ -32,10 +32,10 @@ Benutzeroberfläche Metadateneingabe
 Abb.: Editor - Benutzeroberfläche
 
 Aufbau der Benutzeroberfläche:
-* linke Seite - Navigation
-* oben - Symbolleiste
-* mittig - Ordnerstruktur
-* rechte Seite - Datenerfassung
+- linke Seite - Navigation
+- oben - Symbolleiste
+- mittig links - Ordnerstruktur
+- rechte Seite - Datenerfassung
 
 
 
@@ -69,6 +69,17 @@ Im BKG erfassen wir ISO-Metadaten lediglich für "Geodatensätze", "Geodatendien
 Abb.: Metadatentypen in der Ordnerstruktur
 
 
+
+.. figure:: ../../img/ige/allgemein/datenstruktur_bkg.png
+   :align: left
+   :scale: 60
+   :figwidth: 100%
+   
+Abb.: Aufbau der Ordnerstruktur im BKG
+
+
+
+
 Adressen
 ^^^^^^^^
 
@@ -83,7 +94,7 @@ Für die BKG-MD gilt, möglichst keine Personendaten zu veröffentlichen. Es gib
 Abb.: Adresstypen in der Ordnerstruktur
 
 
-Die derzeit verfügbaren Adressen (Stand: März 2025):
+Die verfügbaren Adressen im BKG (Stand: März 2025):
 
 .. figure:: ../../img/ige/allgemein/icons-adressen_bkg.png
    :align: left
@@ -124,14 +135,6 @@ Die Symbolleiste enthält Funktionen, die sich auf den Seitenbereich Ordnerstruk
 Abb.: Symbolleiste
 
 
-.. figure:: ../../img/ige/allgemein/toolbar_submenue.png
-   :align: left
-   :scale: 50
-   :figwidth: 100%
-
-Abb.: Symbolleiste - Untermenü für Kopieren / Verschieben
-
-
 
 Anzeigebereich: Ordnerstruktur der Metadaten
 --------------------------------------------
@@ -146,6 +149,8 @@ Im Bereich "Ordnerstruktur" der Benutzeroberfläche kann über Ordner zu den Met
    
 Abb.: Editor - Aufbau der Ordnerstruktur im BKG
 
+
+**Verschieben von Ordnern und Metadaten**
 
 
 Wenn ein Ordner oder ein Metadatensatz in der Ordnerstruktur angeklickt wird, während die Steuerungstaste (STRG) gedrückt wird, erscheinen Kontrollkästchen vor den jeweiligen Ordnern oder Metadaten. Der Ordner oder Metadatensatz kann dann mit einem Haken markiert werden und durch Ziehen mit der linken Maustaste innerhalb der Ordnerstruktur verschoben werden. 
@@ -205,6 +210,7 @@ Zur Beendigung der Auswahl muss das Kreuz im Kontrollkästchen unterhalb der Sym
    :figwidth: 100%
 
 Abb.: Auswahl - Beenden
+
 
 
 
