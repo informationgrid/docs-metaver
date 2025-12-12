@@ -24,8 +24,13 @@ Bedienungsanleitung InGrid Editor
 | **Komponente:** InGrid Editor
 | **Profil:** METAVER
 
-| **letzte Änderung:** 04.11.2025
+| **letzte Änderung:** 12.12.2025
 | **Status:** in Bearbeitung
+
+
+---------------------------------------------------------------------------------------------------------------------------
+
+„Metadatenpflege ist nicht sexy, sondern smart – sie spart Zeit, Nerven und Geld.“
 
 ---------------------------------------------------------------------------------------------------------------------------
 
