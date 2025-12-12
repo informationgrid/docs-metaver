@@ -30,7 +30,7 @@ Bedienungsanleitung InGrid Editor
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-*"Metadatenpflege ist nicht sexy, sondern smart. Sie spart bei der Suche Zeit, Nerven und Geld."*
+*"Metadatenpflege ist nicht sexy, sondern smart. Sie spart bei der Datensuche Zeit, Nerven und Geld."*
 
 ---------------------------------------------------------------------------------------------------------------------------
 
