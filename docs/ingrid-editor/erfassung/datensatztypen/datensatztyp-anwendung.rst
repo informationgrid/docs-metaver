@@ -17,10 +17,10 @@ Mit dem Datensatztyp Anwendung können Softwareprodukte, Webanwendungen oder zen
 -----------------------------------------------------------------------------------------------------------------------
 
 
-Feld: Typ
-^^^^^^^^^
+Merkmale
+--------
 
-Unter Typ können weitere Eigenschaften (Eingabefelder) für den Metadatensatz definiert werden.
+Mit Hilfe der Merkmale können weitere Eigenschaften (Eingabefelder) für den Metadatensatz definiert werden.
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkboxen.png
    :align: left

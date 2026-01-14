@@ -26,10 +26,10 @@ ISO 19115 definiert einen international gültigen Standard zur Beschreibung von 
 Erweiterte Datenerfassung
 -------------------------
 
-Feld: Typ
+Merkmale
 ^^^^^^^^^^
 
-Unter Typ können weitere Eigenschaften (Eingabefelder) für den Metadatensatz definiert werden.
+Mit Hilfe der Merkmale können weitere Eigenschaften (Eingabefelder) für den Metadatensatz definiert werden.
 
 .. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/checkboxen/metaver_checkboxen.png
    :align: left
@@ -39,21 +39,6 @@ Unter Typ können weitere Eigenschaften (Eingabefelder) für den Metadatensatz d
 Abb.: Optionen für weitere Eigenschaften
 
 .. seealso:: Beschreibungen der Optionen: `INSPIRE-relevant | <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/option/inspire-relevant.html>`_ `AdV kompatibel | <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/option/adv-kompatibel.html>`_ `Open Data | <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/option/opendata.html>`_ `HVD <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/option/high-value-dataset.html>`_
-
-
-Feld: InVeKoS
-^^^^^^^^^^^^^
-
-Das Auswahlfeld InVeKoS erscheint in INSPIRE-relevanten Geodatensätzen, wenn es in der Katalogverwaltung aktiviert wurde.
-
-.. figure:: ../../../img/ige/erfassung/ige_metadaten/datensatztypen/option/invekos/auswahlfeld-invekos.png
-   :align: left
-   :scale: 100
-   :figwidth: 100%
-
-Abb.: Auswahlfeld InVeKoS
-
-.. seealso:: Funktionsbeschreibung Feld: `InVeKoS <https://metaver-bedienungsanleitung.readthedocs.io/de/latest/ingrid-editor/erfassung/datensatztypen/option/invekos.html>`_
 
 
 Feld: Datensatz/Datenserie
